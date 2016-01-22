@@ -1,4 +1,4 @@
-<service><responsecode>0</responsecode><timestamp>1/22/2016 4:49:00 PM</timestamp><subway>
+<service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
     <status>GOOD SERVICE</status>
@@ -29,10 +29,17 @@
   </line>
   <line>
     <name>BDFM</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>DELAYS</status>
+    <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;01/22/2016&amp;nbsp; 4:50PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  Due to an earlier incident at 34 St, [F] and [M] service has resumed with residaul delays.
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>01/22/2016</Date>
+    <Time> 4:50PM</Time>
   </line>
   <line>
     <name>G</name>
