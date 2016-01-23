@@ -263,8 +263,15 @@
   </line>
   <line>
     <name>SIR</name>
-    <status>SERVICE CHANGE</status>
+    <status>SUSPENDED</status>
     <text>
+                    &lt;span class="TitleSuspended"&gt;Suspended&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;01/23/2016&amp;nbsp; 4:42PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  Due to inclement weather, [SIR] trains are suspended the entire line.
+                &lt;br/&gt;&lt;br/&gt;
+              
                     &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
                     &amp;nbsp;Posted:&amp;nbsp;01/23/2016&amp;nbsp; 2:25PM
@@ -281,7 +288,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>01/23/2016</Date>
-    <Time> 2:25PM</Time>
+    <Time> 4:42PM</Time>
   </line>
 </subway><bus>
   <line>
