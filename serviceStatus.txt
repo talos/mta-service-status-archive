@@ -1,30 +1,38 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>SERVICE CHANGE</status>
+    <status>DELAYS</status>
     <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;01/23/2016&amp;nbsp;12:14PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;P&gt;Due a structure condition at &lt;B&gt;Freeman St,&lt;/B&gt; [2] and [5] trains are running at reduced speeds between &lt;B&gt;Simpson St&lt;/B&gt; and &lt;B&gt;174 St&lt;/B&gt; in both directions &lt;/P&gt;
+&lt;P&gt;Allow additional travel time.&lt;/P&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              
                     &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
                     &amp;nbsp;Posted:&amp;nbsp;01/23/2016&amp;nbsp;11:12AM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
                   Due to &lt;STRONG&gt;NYCT Cold Weather Plan&lt;/STRONG&gt;, northbound [2] and [3] trains are making local stops from Chambers St to 96 St.
                 &lt;br/&gt;&lt;br/&gt;
-              
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;01/23/2016&amp;nbsp;11:10AM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  &lt;P&gt;Due a structure condition at &lt;B&gt;Freeman St,&lt;/B&gt; [2] and [5] trains are running at reduced speeds between &lt;B&gt;Simpson St&lt;/B&gt; and &lt;B&gt;174 St&lt;/B&gt; in both directions &lt;/P&gt;
-&lt;P&gt;Allow additional travel time.&lt;/P&gt;
-                &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>01/23/2016</Date>
-    <Time>11:12AM</Time>
+    <Time>12:14PM</Time>
   </line>
   <line>
     <name>456</name>
     <status>DELAYS</status>
     <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;01/23/2016&amp;nbsp;12:14PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;P&gt;Due a structure condition at &lt;B&gt;Freeman St,&lt;/B&gt; [2] and [5] trains are running at reduced speeds between &lt;B&gt;Simpson St&lt;/B&gt; and &lt;B&gt;174 St&lt;/B&gt; in both directions &lt;/P&gt;
+&lt;P&gt;Allow additional travel time.&lt;/P&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              
                     &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
                     &amp;nbsp;Posted:&amp;nbsp;01/23/2016&amp;nbsp;11:15AM
@@ -41,17 +49,9 @@
 &lt;P&gt;[4] trains are running local between &lt;STRONG&gt;Utica Av&lt;/STRONG&gt; and &lt;STRONG&gt;Atlantic Av-Barclays Center&lt;/STRONG&gt; in both directions.&lt;/P&gt;
 &lt;P&gt;Allow additional travel time. &lt;/P&gt;
                 &lt;br/&gt;&lt;br/&gt;
-              
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;01/23/2016&amp;nbsp;11:10AM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  &lt;P&gt;Due a structure condition at &lt;B&gt;Freeman St,&lt;/B&gt; [2] and [5] trains are running at reduced speeds between &lt;B&gt;Simpson St&lt;/B&gt; and &lt;B&gt;174 St&lt;/B&gt; in both directions &lt;/P&gt;
-&lt;P&gt;Allow additional travel time.&lt;/P&gt;
-                &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>01/23/2016</Date>
-    <Time>11:15AM</Time>
+    <Time>12:14PM</Time>
   </line>
   <line>
     <name>7</name>
@@ -105,6 +105,14 @@
     <text>
                     &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;01/23/2016&amp;nbsp;12:13PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;P&gt;Due to signal problems at &lt;STRONG&gt;Fresh&lt;/STRONG&gt; &lt;STRONG&gt;Pond&lt;/STRONG&gt; &lt;STRONG&gt;Rd&lt;/STRONG&gt;, [M] trains are running with delays in both directions. &lt;/P&gt;
+&lt;P&gt;Allow additional travel time.&lt;/P&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
                     &amp;nbsp;Posted:&amp;nbsp;01/23/2016&amp;nbsp;11:16AM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
                   Due to inclement weather conditions, [J] and [M] trains are running with delays in both directions.&lt;BR&gt;&lt;BR&gt;Allow additional travel time.
@@ -150,7 +158,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>01/23/2016</Date>
-    <Time>11:16AM</Time>
+    <Time>12:13PM</Time>
   </line>
   <line>
     <name>G</name>
@@ -773,17 +781,17 @@
               
                     &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;01/23/2016&amp;nbsp;11:23AM
+                    &amp;nbsp;Posted:&amp;nbsp;01/23/2016&amp;nbsp;12:14PM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  &lt;P&gt;&lt;STRONG&gt;&lt;U&gt; Eastbound&lt;/U&gt;&lt;/STRONG&gt;&lt;/P&gt;
-&lt;P&gt;The 8:10AM train from Jamaica due Montauk at 10:49AM is now operating 55 minutes late due to weather related switch trouble. &lt;/P&gt;
-&lt;P&gt;The 9:10AM train from Jamaica due Patchogue at 10:16AM is operating 14 minutes late due to switch trouble east of Jamaica. &lt;BR&gt;&lt;/P&gt;
-&lt;P&gt;The 9:41AM train from Jamaica due Speonk at 11:17AM is operating 10 minutes late due to weather-related conditions. &lt;/P&gt;
-&lt;P&gt;The 10:10AM train from Jamaica due Montauk at 12:53PM is operating 49 minutes late due to earlier equipment trouble.&lt;/P&gt;
-&lt;P&gt;The 11:06AM train from Babylon due Patchogue at 11:36AM is operating 11 minutes late due to congestion at Babylon caused be weather-related conditions.&lt;/P&gt;
-&lt;P&gt;&lt;STRONG&gt;&lt;U&gt;Westbound&lt;/U&gt;&lt;/STRONG&gt;&lt;/P&gt;
-&lt;P&gt;The 7:04AM train from Montauk due Jamaica at 9:57AM is operating 14 minutes late due to winter weather conditions.&lt;/P&gt;
-&lt;P&gt;The 10:05AM train from Speonk due Babylon at 11:05AM is operating 17 minutes late due to winter weather conditions.&lt;BR&gt;&lt;/P&gt;
+                  &lt;p&gt;&lt;strong&gt;&lt;u&gt; Eastbound&lt;/u&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The 8:10AM train from Jamaica due Montauk at 10:49AM is now operating 55 minutes late due to weather related switch trouble. &lt;/p&gt;
+&lt;p&gt;The 9:10AM train from Jamaica due Patchogue at 10:16AM is operating 14 minutes late due to switch trouble east of Jamaica. &lt;br&gt;&lt;/p&gt;
+&lt;p&gt;The 9:41AM train from Jamaica due Speonk at 11:17AM is operating 10 minutes late due to weather-related conditions. &lt;/p&gt;
+&lt;p&gt;The 10:10AM train from Jamaica due Montauk at 12:53PM is operating 49 minutes late due to earlier equipment trouble.&lt;/p&gt;
+&lt;p&gt;The 11:06AM train from Babylon due Patchogue at 11:36AM is operating 11 minutes late due to congestion at Babylon caused be weather-related conditions.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;u&gt;Westbound&lt;/u&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The 7:04AM train from Montauk due Jamaica at 9:57AM is operating 14 minutes late due to winter weather conditions.&lt;/p&gt;
+&lt;p&gt;The 10:05AM train from Speonk due Babylon at 11:05AM is operating 17 minutes late due to winter weather conditions.&lt;/p&gt;&lt;p&gt;The 11:53AM train from Speonk due Babylon at 12:53PM is operating 14 minutes late due to winter weather conditions.&lt;br&gt;&lt;/p&gt;
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>01/23/2016</Date>
@@ -819,6 +827,13 @@
                     &amp;nbsp;Posted:&amp;nbsp;01/23/2016&amp;nbsp;10:41AM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
                   &lt;b&gt;The LIRR is experiencing systemwide delays averaging 20-25 minutes as a result of winter weather conditions. Check www.mta.info for updates and follow us on Twitter.&lt;br&gt;&lt;br&gt;&lt;/b&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;01/23/2016&amp;nbsp;12:14PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  The 11:42AM train from Port Jefferson due Huntington at 12:29PM is being held prior to departure due to weather related conditions.
                 &lt;br/&gt;&lt;br/&gt;
               
                     &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
@@ -915,17 +930,31 @@
 </LIRR><MetroNorth>
   <line>
     <name>Hudson</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>DELAYS</status>
+    <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;01/23/2016&amp;nbsp;12:14PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;SPAN style="TEXT-ALIGN: left; WIDOWS: 1; TEXT-TRANSFORM: none; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; DISPLAY: inline !important; FONT: 12px/16px 'Segoe UI', Arial, Helvetica, sans-serif; WHITE-SPACE: normal; FLOAT: none; LETTER-SPACING: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px"&gt;Customers should anticipate delays of 5 to 10 minutes traveling into and out of Grand Central Terminal due to a signal problem near Harlem-125th Street and weather related issues. Please listen for announcements at your station.&lt;/SPAN&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>01/23/2016</Date>
+    <Time>12:14PM</Time>
   </line>
   <line>
     <name>Harlem</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>DELAYS</status>
+    <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;01/23/2016&amp;nbsp;12:14PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;SPAN style="TEXT-ALIGN: left; WIDOWS: 1; TEXT-TRANSFORM: none; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; DISPLAY: inline !important; FONT: 12px/16px 'Segoe UI', Arial, Helvetica, sans-serif; WHITE-SPACE: normal; FLOAT: none; LETTER-SPACING: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px"&gt;Customers should anticipate delays of 5 to 10 minutes traveling into and out of Grand Central Terminal due to a signal problem near Harlem-125th Street and weather related issues. Please listen for announcements at your station.&lt;/SPAN&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>01/23/2016</Date>
+    <Time>12:14PM</Time>
   </line>
   <line>
     <name>Wassaic</name>
@@ -936,10 +965,17 @@
   </line>
   <line>
     <name>New Haven</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>DELAYS</status>
+    <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;01/23/2016&amp;nbsp;12:14PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;SPAN style="TEXT-ALIGN: left; WIDOWS: 1; TEXT-TRANSFORM: none; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; DISPLAY: inline !important; FONT: 12px/16px 'Segoe UI', Arial, Helvetica, sans-serif; WHITE-SPACE: normal; FLOAT: none; LETTER-SPACING: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px"&gt;Customers should anticipate delays of 5 to 10 minutes traveling into and out of Grand Central Terminal due to a signal problem near Harlem-125th Street and weather related issues. Please listen for announcements at your station.&lt;/SPAN&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>01/23/2016</Date>
+    <Time>12:14PM</Time>
   </line>
   <line>
     <name>New Canaan</name>
