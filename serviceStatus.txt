@@ -1,8 +1,15 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>DELAYS</status>
+    <status>SERVICE CHANGE</status>
     <text>
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;01/23/2016&amp;nbsp; 9:00AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  Due to &lt;STRONG&gt;NYCT Cold Weather Plan&lt;/STRONG&gt;, northbound [2] and [3] trains are making local stops from Chambers St to 96 St.
+                &lt;br/&gt;&lt;br/&gt;
+              
                     &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
                     &amp;nbsp;Posted:&amp;nbsp;01/23/2016&amp;nbsp; 8:12AM
@@ -12,7 +19,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>01/23/2016</Date>
-    <Time> 8:12AM</Time>
+    <Time> 9:00AM</Time>
   </line>
   <line>
     <name>456</name>
