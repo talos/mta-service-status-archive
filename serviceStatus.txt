@@ -1,13 +1,14 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>DELAYS</status>
+    <status>SERVICE CHANGE</status>
     <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;01/23/2016&amp;nbsp;12:22AM
+                    &amp;nbsp;Posted:&amp;nbsp;01/23/2016&amp;nbsp;12:09AM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  Following an earlier incident at &lt;STRONG&gt;Atlantic Av-Barclays Ctr,&lt;/STRONG&gt; [2] and [4] train service has resumed with residual delays.
+                  &lt;P&gt;Due to a person struck by a train at &lt;STRONG&gt;Atlantic Av-Barclays Ctr&lt;/STRONG&gt;, southbound [2] and [4] trains are running express from &lt;STRONG&gt;Atlantic Av-Barclays Ctr&lt;/STRONG&gt; to &lt;STRONG&gt;Franklin Av&lt;/STRONG&gt;. &lt;/P&gt;
+&lt;P&gt;Allow additional travel time.&lt;/P&gt;
                 &lt;br/&gt;&lt;br/&gt;
               
                     &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
@@ -19,17 +20,18 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>01/23/2016</Date>
-    <Time>12:22AM</Time>
+    <Time>12:09AM</Time>
   </line>
   <line>
     <name>456</name>
-    <status>DELAYS</status>
+    <status>SERVICE CHANGE</status>
     <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;01/23/2016&amp;nbsp;12:22AM
+                    &amp;nbsp;Posted:&amp;nbsp;01/23/2016&amp;nbsp;12:09AM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  Following an earlier incident at &lt;STRONG&gt;Atlantic Av-Barclays Ctr,&lt;/STRONG&gt; [2] and [4] train service has resumed with residual delays.
+                  &lt;P&gt;Due to a person struck by a train at &lt;STRONG&gt;Atlantic Av-Barclays Ctr&lt;/STRONG&gt;, southbound [2] and [4] trains are running express from &lt;STRONG&gt;Atlantic Av-Barclays Ctr&lt;/STRONG&gt; to &lt;STRONG&gt;Franklin Av&lt;/STRONG&gt;. &lt;/P&gt;
+&lt;P&gt;Allow additional travel time.&lt;/P&gt;
                 &lt;br/&gt;&lt;br/&gt;
               
                     &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
@@ -41,7 +43,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>01/23/2016</Date>
-    <Time>12:22AM</Time>
+    <Time>12:09AM</Time>
   </line>
   <line>
     <name>7</name>
@@ -147,7 +149,7 @@
               &lt;br/&gt;
             </text>
     <Date>01/23/2016</Date>
-    <Time>12:22AM</Time>
+    <Time>12:12AM</Time>
   </line>
   <line>
     <name>B100 - B103</name>
@@ -359,7 +361,7 @@
               &lt;br/&gt;
             </text>
     <Date>01/23/2016</Date>
-    <Time>12:22AM</Time>
+    <Time>12:12AM</Time>
   </line>
   <line>
     <name>QM1 - QM25</name>
@@ -425,7 +427,7 @@
               &lt;br/&gt;
             </text>
     <Date>01/23/2016</Date>
-    <Time>12:22AM</Time>
+    <Time>12:12AM</Time>
   </line>
 </bus><BT>
   <line>
