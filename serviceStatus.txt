@@ -1,60 +1,1332 @@
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
-   "http://www.w3.org/TR/html4/strict.dtd">
-   
-<html>
-<head>
-<title>mta.info | Error 503 Service Unavailable</title>
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7" />
+<service><responsecode>0</responsecode><subway>
+  <line>
+    <name>123</name>
+    <status>DELAYS</status>
+    <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;01/25/2016&amp;nbsp; 6:45AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;P&gt;Due to signal problems at&lt;STRONG&gt; 219 St&lt;/STRONG&gt;, southbound [2] trains are running with delays. &lt;/P&gt;
+&lt;P&gt;Allow additional travel time.&lt;/P&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>01/25/2016</Date>
+    <Time> 6:45AM</Time>
+  </line>
+  <line>
+    <name>456</name>
+    <status>DELAYS</status>
+    <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;01/25/2016&amp;nbsp; 7:37AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;P&gt;Due to signal problems at &lt;STRONG&gt;59 St&lt;/STRONG&gt;, northbound [4] and [5] trains are running with delays.&lt;/P&gt;
+&lt;P&gt;Allow additional travel time.&lt;/P&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>01/25/2016</Date>
+    <Time> 7:37AM</Time>
+  </line>
+  <line>
+    <name>7</name>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
+  </line>
+  <line>
+    <name>ACE</name>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
+  </line>
+  <line>
+    <name>BDFM</name>
+    <status>SERVICE CHANGE</status>
+    <text>
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;01/25/2016&amp;nbsp; 7:49AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;P&gt;Due to snow build up along the express tracks, [B] trains are running local between &lt;STRONG&gt;Prospect Park&lt;/STRONG&gt; and &lt;STRONG&gt;Brighton Beach&lt;/STRONG&gt; in both directions. &lt;/P&gt;
+&lt;P&gt;Allow additional travel time.&lt;/P&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>01/25/2016</Date>
+    <Time> 7:49AM</Time>
+  </line>
+  <line>
+    <name>G</name>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
+  </line>
+  <line>
+    <name>JZ</name>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
+  </line>
+  <line>
+    <name>L</name>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
+  </line>
+  <line>
+    <name>NQR</name>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
+  </line>
+  <line>
+    <name>S</name>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
+  </line>
+  <line>
+    <name>SIR</name>
+    <status>DELAYS</status>
+    <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;01/25/2016&amp;nbsp; 9:50AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  Due to weather related conditions, [SIR] trains are running with delays in both directions. &lt;BR&gt;&lt;BR&gt;Allow additional travel time.
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>01/25/2016</Date>
+    <Time> 9:50AM</Time>
+  </line>
+</subway><bus>
+  <line>
+    <name>B1 - B84</name>
+    <status>DELAYS</status>
+    <text>
+                  &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                  &lt;span class="DateStyle"&gt;
+                  &amp;nbsp;Posted:&amp;nbsp;01/25/2016&amp;nbsp; 7:10AM
+                  &lt;/span&gt;
+                  &lt;br/&gt;
+                  &lt;br/&gt;
+                &lt;P&gt;All Brooklyn local and express buses are running with delays due to heavy traffic and snow build up. &lt;BR&gt;&lt;BR&gt;Brooklyn limited buses are not running. &lt;/P&gt;
+&lt;P&gt;Allow additional travel time. &lt;/P&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
+                  &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                  &lt;span class="DateStyle"&gt;
+                  &amp;nbsp;Posted:&amp;nbsp;01/25/2016&amp;nbsp; 6:39AM
+                  &lt;/span&gt;
+                  &lt;br/&gt;
+                  &lt;br/&gt;
+                &lt;P&gt;&lt;STRONG&gt;B6&lt;/STRONG&gt; and &lt;STRONG&gt;B84 &lt;/STRONG&gt;buses are detoured due to a disabled truck on Livonia Av. &lt;/P&gt;
+&lt;P&gt;Detour is as follows:&lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;Eastbound:&lt;/STRONG&gt; Via Ashford St and terminate.&lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;Westbound:&lt;/STRONG&gt; Via Ashford St, left on New Lots Av, left on Warwick St, left on Hegeman Av, right on Ashford St and regular route.&lt;/P&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
+                  &lt;span class="TitlePlannedWork" &gt;Planned Detour&lt;/span&gt;
+                  &lt;br/&gt;
+                &lt;a class="plannedWorkDetailLink" onclick=ShowHide(112033);&gt;
+&lt;b&gt;B20, B25, B83, Q24 and Q56 buses may experience delays due to construction at Broadway Junction
+&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 112033 class="plannedWorkDetail" &gt;&lt;/b&gt;Until further notice
+&lt;br&gt;
+&lt;br&gt;&amp;#149; &lt;/font&gt;Please allow additional travel time.
+&lt;br&gt;
+&lt;br&gt;&lt;b&gt;Reminder&lt;/b&gt;: &lt;a href=http://web.mta.info/nyct/bus/schedule/bkln/b020cur.pdf target=_blank&gt;&lt;font color=#0000FF&gt;&lt;b&gt;&lt;u&gt;B20&lt;/u&gt;&lt;/b&gt;&lt;/font&gt;&lt;/a&gt; and &lt;a href=http://web.mta.info/nyct/bus/schedule/bkln/b083cur.pdf target=_blank&gt;&lt;font color=#0000FF&gt;&lt;b&gt;&lt;u&gt;B83&lt;/u&gt;&lt;/b&gt;&lt;/font&gt;&lt;/a&gt; buses do not operate overnight.
+&lt;br&gt;
+&lt;br&gt;&lt;b&gt;          &lt;/b&gt;&lt;a href=http://bustime.mta.info/ target=_blank&gt;&lt;img height=30px src=http://web.mta.info/nyct/images/Bus_Time_logo.png&gt;&lt;/a&gt;
+&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
+                  &lt;span class="TitlePlannedWork" &gt;Planned Detour&lt;/span&gt;
+                  &lt;br/&gt;
+                &lt;a class="plannedWorkDetailLink" onclick=ShowHide(110429);&gt;
+&lt;b&gt;B15 - Eastbound buses detoured from Pan Am Road at Lefferts Blvd due to road work&lt;br clear=left&gt;No stops missed
+&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 110429 class="plannedWorkDetail" &gt;&lt;/b&gt;Until further notice
+&lt;br&gt;
+&lt;br&gt;&amp;#149; Please allow additional travel time.
+&lt;br&gt;&lt;/font&gt;&lt;b&gt;          &lt;/b&gt;&lt;a href=http://bustime.mta.info/#b15 target=_blank&gt;&lt;img height=30px src=http://web.mta.info/nyct/images/Bus_Time_logo.png&gt;&lt;/a&gt;
+&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            </text>
+    <Date>01/25/2016</Date>
+    <Time> 7:10AM</Time>
+  </line>
+  <line>
+    <name>B100 - B103</name>
+    <status>DELAYS</status>
+    <text>
+                  &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                  &lt;span class="DateStyle"&gt;
+                  &amp;nbsp;Posted:&amp;nbsp;01/25/2016&amp;nbsp; 7:10AM
+                  &lt;/span&gt;
+                  &lt;br/&gt;
+                  &lt;br/&gt;
+                &lt;P&gt;All Brooklyn local and express buses are running with delays due to heavy traffic and snow build up. &lt;BR&gt;&lt;BR&gt;Brooklyn limited buses are not running. &lt;/P&gt;
+&lt;P&gt;Allow additional travel time. &lt;/P&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            </text>
+    <Date>01/25/2016</Date>
+    <Time> 7:10AM</Time>
+  </line>
+  <line>
+    <name>BM1 - BM5</name>
+    <status>DELAYS</status>
+    <text>
+                  &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                  &lt;span class="DateStyle"&gt;
+                  &amp;nbsp;Posted:&amp;nbsp;01/25/2016&amp;nbsp; 7:10AM
+                  &lt;/span&gt;
+                  &lt;br/&gt;
+                  &lt;br/&gt;
+                &lt;P&gt;All Brooklyn local and express buses are running with delays due to heavy traffic and snow build up. &lt;BR&gt;&lt;BR&gt;Brooklyn limited buses are not running. &lt;/P&gt;
+&lt;P&gt;Allow additional travel time. &lt;/P&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            </text>
+    <Date>01/25/2016</Date>
+    <Time> 7:10AM</Time>
+  </line>
+  <line>
+    <name>BX1 - BX55</name>
+    <status>DELAYS</status>
+    <text>
+                  &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                  &lt;span class="DateStyle"&gt;
+                  &amp;nbsp;Posted:&amp;nbsp;01/25/2016&amp;nbsp; 8:33AM
+                  &lt;/span&gt;
+                  &lt;br/&gt;
+                  &lt;br/&gt;
+                &lt;P&gt;Due to road conditions, all Bronx &lt;STRONG&gt;Local, Express&lt;/STRONG&gt;,&lt;STRONG&gt; Select Bus Service&lt;/STRONG&gt; and &lt;STRONG&gt;Limited buses&lt;/STRONG&gt; are running with delays. &lt;/P&gt;
+&lt;P&gt;Allow additional travel time. &lt;/P&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
+                  &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                  &lt;span class="DateStyle"&gt;
+                  &amp;nbsp;Posted:&amp;nbsp;01/25/2016&amp;nbsp; 6:15AM
+                  &lt;/span&gt;
+                  &lt;br/&gt;
+                  &lt;br/&gt;
+                &lt;P&gt;&lt;STRONG&gt;Bx4A&lt;/STRONG&gt;, &lt;STRONG&gt;Bx8&lt;/STRONG&gt;, &lt;STRONG&gt;Bx21&lt;/STRONG&gt;, &lt;STRONG&gt;Bx31&lt;/STRONG&gt;, &lt;STRONG&gt;Bx40&lt;/STRONG&gt; and &lt;STRONG&gt;Bx42&lt;/STRONG&gt; buses detoured in both directions, due to Con Ed work on E Tremont Av between Lane Av and Westchester Av.&lt;/P&gt;
+&lt;P&gt;Detour is as follows:&lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;Bx4A Northbound&lt;/STRONG&gt;: Via E Tremont Av, right on Lane Av and take stand.&lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;Bx4A Southbound&lt;/STRONG&gt;: Via Westchester Av, right on Castle Hill Av, left on Metropolitan Av and regular route.&lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;Bx8 Northbound&lt;/STRONG&gt;: Via Westchester Av, right on Lane Av, left on E Tremont Av and regular route.&lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;Bx8 Southbound&lt;/STRONG&gt;: Via E Tremont Av, right on Lane Av and regular route.&lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;Bx21&lt;/STRONG&gt;: Via Westchester Av, left on E Tremont Av and regular route.&lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;Bx31&lt;/STRONG&gt;: Via E Tremont Av, right on Lane Av, left on Westchester Av, Right on Tremont Av, left at Westchester Av, right on Lane Av and regular route. &lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;Bx40 and Bx42 Eastbound&lt;/STRONG&gt;: Via E Tremont Av, left on Silver Av, right on Water Pl, right on Westchester Av, left on E Tremont Av and regular route.&lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;Bx40 and Bx42 Westbound&lt;/STRONG&gt;: Via E Tremont Av, right on West Av, left on Waters Pl, left on Eastchester Rd, right on Silver St, right on E Tremont Av and regular route.&lt;/P&gt;
+&lt;P&gt;&lt;/P&gt;
+&lt;P&gt;Allow additional travel time.&lt;/P&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
+                  &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                  &lt;span class="DateStyle"&gt;
+                  &amp;nbsp;Posted:&amp;nbsp;01/25/2016&amp;nbsp; 6:13AM
+                  &lt;/span&gt;
+                  &lt;br/&gt;
+                  &lt;br/&gt;
+                &lt;P&gt;&lt;STRONG&gt;Bx3, Bx11, Bx13, Bx35&lt;/STRONG&gt; and &lt;STRONG&gt;Bx36&lt;/STRONG&gt; buses are being detoured, due to a water main break on Wadsworth Av and St Nicholas Av.&lt;/P&gt;
+&lt;P&gt;Detour is as follows:&lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;Westbound&lt;/STRONG&gt;: Via 181 St, left on St Nicholas Av, right on 179 St to terminal.&lt;/P&gt;
+&lt;P&gt;All corresponding stops will be made along the detoured route.&lt;/P&gt;
+&lt;P&gt;Allow additional travel time.&lt;/P&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
+                  &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                  &lt;span class="DateStyle"&gt;
+                  &amp;nbsp;Posted:&amp;nbsp;01/25/2016&amp;nbsp; 6:08AM
+                  &lt;/span&gt;
+                  &lt;br/&gt;
+                  &lt;br/&gt;
+                &lt;P&gt;&lt;STRONG&gt;Bx11&lt;/STRONG&gt; buses are detoured in both directions, due to hazardous road conditions. &lt;/P&gt;
+&lt;P&gt;Detour is as follows:&lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;Eastbound&lt;/STRONG&gt;: Via Alexander Hamilton Bridge, right on E. L Grant Highway, right on 170 St and regular route.&lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;Eastbound: &lt;/STRONG&gt;Via Louis Nine Blvd, right on Intervale Av, left on 169 St, left on 167 St, right on West Farms Rd and regular route.&lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;Westbound: &lt;/STRONG&gt;Via West Farms Rd, left on 167 St, right on 169 St, right on Interval Av, left on Louis Nine Blvd and regular route.&lt;/P&gt;
+&lt;P&gt;Allow additional travel time.&lt;/P&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
+                  &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                  &lt;span class="DateStyle"&gt;
+                  &amp;nbsp;Posted:&amp;nbsp;01/25/2016&amp;nbsp; 6:08AM
+                  &lt;/span&gt;
+                  &lt;br/&gt;
+                  &lt;br/&gt;
+                &lt;P&gt;&lt;STRONG&gt;Bx21&lt;/STRONG&gt; buses will bypass Bronx State Hospital, due to hazardous road conditions. Customers can board on Waters Pl.&lt;/P&gt;
+&lt;P&gt;Allow additional travel time. &lt;/P&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
+                  &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                  &lt;span class="DateStyle"&gt;
+                  &amp;nbsp;Posted:&amp;nbsp;01/25/2016&amp;nbsp; 6:07AM
+                  &lt;/span&gt;
+                  &lt;br/&gt;
+                  &lt;br/&gt;
+                &lt;P&gt;&lt;STRONG&gt;Bx13 &lt;/STRONG&gt;buses are detoured, due to hazardous road conditions. &lt;/P&gt;
+&lt;P&gt;Detour is as follows:&lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;Bx13 Westbound:&lt;/STRONG&gt; Via 161 St, right on Jerome Av, left on E. L Grant Highway and regular route.&lt;/P&gt;
+&lt;P&gt;Allow additional travel time.&lt;/P&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
+                  &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                  &lt;span class="DateStyle"&gt;
+                  &amp;nbsp;Posted:&amp;nbsp;01/25/2016&amp;nbsp; 6:07AM
+                  &lt;/span&gt;
+                  &lt;br/&gt;
+                  &lt;br/&gt;
+                &lt;P&gt;&lt;STRONG&gt;Bx10&lt;/STRONG&gt; buses are detoured due to hazardous road conditions on the Henry Hudson Pkwy Service Rd at 227 St. &lt;/P&gt;
+&lt;P&gt;Detour is as follows:&lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;Bx10 Southbound&lt;/STRONG&gt;: Via Henry Hudson Pkwy Service Rd, enter main roadway at 227 St, take next exit onto Service Rd to regular route. &lt;/P&gt;
+&lt;P&gt;Allow additional travel time. &lt;/P&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
+                  &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                  &lt;span class="DateStyle"&gt;
+                  &amp;nbsp;Posted:&amp;nbsp;01/25/2016&amp;nbsp; 6:06AM
+                  &lt;/span&gt;
+                  &lt;br/&gt;
+                  &lt;br/&gt;
+                &lt;P&gt;&lt;STRONG&gt;Bx19&lt;/STRONG&gt; buses are detoured at Southern Blvd and 169 St, due to structural work at Southern Blvd. &lt;/P&gt;
+&lt;P&gt;Detour is as follows:&lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;Bx19 Westbound:&lt;/STRONG&gt; Via Southern Blvd, right on Freeman St, left on Intervale Av, left on 167 St, right on Southern Blvd and regular route.&lt;/P&gt;
+&lt;P&gt;All corresponding stops will be made along detoured route.&lt;/P&gt;
+&lt;P&gt;Allow additional travel time. &lt;/P&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
+                  &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                  &lt;span class="DateStyle"&gt;
+                  &amp;nbsp;Posted:&amp;nbsp;01/25/2016&amp;nbsp; 6:05AM
+                  &lt;/span&gt;
+                  &lt;br/&gt;
+                  &lt;br/&gt;
+                &lt;P&gt;&lt;STRONG&gt;Bx32&lt;/STRONG&gt; buses are detoured due to a road obstruction on Jerome Av and 169 St. &lt;/P&gt;
+&lt;P&gt;Detour is as follows:&lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;Bx32 Southbound&lt;/STRONG&gt;: Via Jerome Av, left on 170 St, right on Morris Av to regular route. &lt;/P&gt;
+&lt;P&gt;All corresponding stops will be made along detoured route. &lt;/P&gt;
+&lt;P&gt;Allow additional travel time. &lt;/P&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
+                  &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                  &lt;span class="DateStyle"&gt;
+                  &amp;nbsp;Posted:&amp;nbsp;01/25/2016&amp;nbsp; 6:04AM
+                  &lt;/span&gt;
+                  &lt;br/&gt;
+                  &lt;br/&gt;
+                &lt;P&gt;&lt;STRONG&gt;Bx42&lt;/STRONG&gt; eastbound buses will terminate on Balcom Av and Harding Av due to hazardous road conditions on Dewey Av. &lt;/P&gt;
+&lt;P&gt;Allow additional travel time.&lt;/P&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
+                  &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                  &lt;span class="DateStyle"&gt;
+                  &amp;nbsp;Posted:&amp;nbsp;01/25/2016&amp;nbsp; 6:03AM
+                  &lt;/span&gt;
+                  &lt;br/&gt;
+                  &lt;br/&gt;
+                &lt;P&gt;&lt;STRONG&gt;Bx8&lt;/STRONG&gt; buses are detoured in both directions, due to hazardous road conditions on 226 St and Bronxwood Av.&lt;/P&gt;
+&lt;P&gt;Detour is as follows:&lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;Bx8 Southbound&lt;/STRONG&gt;: Via Throgs Neck Expwy Service Rd, right on Pennyfield and regular route.&lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;Bx8 Northbound&lt;/STRONG&gt;: Via Bronxwood Av, left on 233 St, left on White Plains Rd and regular route.&lt;/P&gt;
+&lt;P&gt;Allow additional travel time.&lt;/P&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
+                  &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                  &lt;span class="DateStyle"&gt;
+                  &amp;nbsp;Posted:&amp;nbsp;01/25/2016&amp;nbsp; 6:03AM
+                  &lt;/span&gt;
+                  &lt;br/&gt;
+                  &lt;br/&gt;
+                &lt;P&gt;&lt;STRONG&gt;Bx2&lt;/STRONG&gt; buses are detoured in both directions, due to hazardous road conditions on 148 St and Cortland Av.&lt;/P&gt;
+&lt;P&gt;Detour is as follows:&lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;Southbound: &lt;/STRONG&gt;Via 149 St, right on 3 Av and regular route.&lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;Northbound&lt;/STRONG&gt;: Via 3 Av, left on 150 St, left on Montrose Av, right on 149 St and regular route.&lt;/P&gt;
+&lt;P&gt;All corresponding stops will be made on detour route.&lt;/P&gt;
+&lt;P&gt;Allow additional travel time.&lt;/P&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
+                  &lt;span class="TitlePlannedWork" &gt;Planned Detour&lt;/span&gt;
+                  &lt;br/&gt;
+                &lt;a class="plannedWorkDetailLink" onclick=ShowHide(116623);&gt;
+&lt;b&gt;Bx19 buses rerouted from Southern Blvd between Freeman St and Home St
+&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 116623 class="plannedWorkDetail" &gt;&lt;/b&gt;Until further notice
+&lt;br&gt;
+&lt;br&gt;Due to track maintenance, buses operate as follows:
+&lt;br&gt;
+&lt;br&gt;&lt;b&gt;&lt;i&gt;&lt;a style="cursor:pointer; text-decoration:underline;" onclick=ShowHide(1166230);&gt;Show Reroute Details&lt;/a&gt;&lt;/i&gt;&lt;/b&gt;
+&lt;br&gt;&lt;div id="1166230"; style="display:none;"&gt;&lt;b&gt;Northbound
+&lt;br&gt;&lt;/b&gt;Via Southern Blvd
+&lt;br&gt;Left on E 167 St onto E 169 St
+&lt;br&gt;Right on Intervale Av
+&lt;br&gt;Right on Freeman St
+&lt;br&gt;Left on Southern Blvd then regular route
+&lt;br&gt;
+&lt;br&gt;&lt;b&gt;Southbound
+&lt;br&gt;&lt;/b&gt;Via Southern Blvd
+&lt;br&gt;Right on Freeman St
+&lt;br&gt;Left on Intervale Av
+&lt;br&gt;Left on E 169 St into E 167 St
+&lt;br&gt;Right on Southern Blvd then regular route&lt;/div&gt;
+&lt;br&gt;&lt;b&gt;
+&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            </text>
+    <Date>01/25/2016</Date>
+    <Time> 8:33AM</Time>
+  </line>
+  <line>
+    <name>BXM1 - BXM18</name>
+    <status>DELAYS</status>
+    <text>
+                  &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                  &lt;span class="DateStyle"&gt;
+                  &amp;nbsp;Posted:&amp;nbsp;01/25/2016&amp;nbsp; 8:33AM
+                  &lt;/span&gt;
+                  &lt;br/&gt;
+                  &lt;br/&gt;
+                &lt;P&gt;Due to road conditions, all Bronx &lt;STRONG&gt;Local, Express&lt;/STRONG&gt;,&lt;STRONG&gt; Select Bus Service&lt;/STRONG&gt; and &lt;STRONG&gt;Limited buses&lt;/STRONG&gt; are running with delays. &lt;/P&gt;
+&lt;P&gt;Allow additional travel time. &lt;/P&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            </text>
+    <Date>01/25/2016</Date>
+    <Time> 8:33AM</Time>
+  </line>
+  <line>
+    <name>M1 - M116</name>
+    <status>DELAYS</status>
+    <text>
+                  &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                  &lt;span class="DateStyle"&gt;
+                  &amp;nbsp;Posted:&amp;nbsp;01/25/2016&amp;nbsp; 9:58AM
+                  &lt;/span&gt;
+                  &lt;br/&gt;
+                  &lt;br/&gt;
+                All &lt;STRONG&gt;Select Bus Service&lt;/STRONG&gt;,&lt;STRONG&gt; Limited&lt;/STRONG&gt; and&lt;STRONG&gt; Local&lt;/STRONG&gt; Manhattan buses are running with delays in both directions due to snow removal operations. &lt;BR&gt;&lt;BR&gt;Allow additional travel time.
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
+                  &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                  &lt;span class="DateStyle"&gt;
+                  &amp;nbsp;Posted:&amp;nbsp;01/25/2016&amp;nbsp; 9:45AM
+                  &lt;/span&gt;
+                  &lt;br/&gt;
+                  &lt;br/&gt;
+                &lt;P&gt;&lt;STRONG&gt;M42&lt;/STRONG&gt; buses are detoured in both directions due to snow removal on 42 St between 7 Av and 8 Av. &lt;/P&gt;
+&lt;P&gt;Detour is as follows:&lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;Eastbound&lt;/STRONG&gt;: Via 42 St, left on 8 Av, right on 50 St, right on 7 Av, left on 42 St to regular route. &lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;Westbound&lt;/STRONG&gt;: Via 42 St, left on 7 Av, right on 39 St, right on 8 Av, left on 42 St to regular route. &lt;/P&gt;
+&lt;P&gt;All corresponding stops will be made along detoured route. &lt;/P&gt;
+&lt;P&gt;Allow additional travel time. &lt;/P&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
+                  &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                  &lt;span class="DateStyle"&gt;
+                  &amp;nbsp;Posted:&amp;nbsp;01/25/2016&amp;nbsp; 9:42AM
+                  &lt;/span&gt;
+                  &lt;br/&gt;
+                  &lt;br/&gt;
+                &lt;P&gt;&lt;STRONG&gt;M8&lt;/STRONG&gt;, &lt;STRONG&gt;M101&lt;/STRONG&gt; and &lt;STRONG&gt;M102&lt;/STRONG&gt; buses are running with delays in both directions, northbound M101, M102 and Eastbound M8 buses are detoured due to snow removal operations on 8 St and 3 Av. &lt;/P&gt;
+&lt;P&gt;Detour is as follows:&lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;M101&lt;/STRONG&gt; and &lt;STRONG&gt;M102&lt;/STRONG&gt; &lt;STRONG&gt;Northbound&lt;/STRONG&gt;: Via 8 St, left on Lafayette St, right on 14 St, left on 3 Av to regular route.&lt;/P&gt;
+&lt;P&gt;All corresponding stops will be made along detoured route. &lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;M8&lt;/STRONG&gt; &lt;STRONG&gt;Eastbound&lt;/STRONG&gt;: Via 8 St, left on Lafayette St, right on 14 St, right on 3 Av, left on 8 St to regular route. &lt;/P&gt;
+&lt;P&gt;No stops will be missed on this detour. &lt;/P&gt;
+&lt;P&gt;Allow additional travel time.&lt;/P&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
+                  &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                  &lt;span class="DateStyle"&gt;
+                  &amp;nbsp;Posted:&amp;nbsp;01/25/2016&amp;nbsp; 8:52AM
+                  &lt;/span&gt;
+                  &lt;br/&gt;
+                  &lt;br/&gt;
+                &lt;P&gt;&lt;STRONG&gt;M104&lt;/STRONG&gt; buses are detoured, due to snow embankments on 41 St and 8 Av. &lt;/P&gt;
+&lt;P&gt;Detour is as follows:&lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;M104 Southbound&lt;/STRONG&gt;: Via 7 Av to 42 St, right on 42 St to 8 Av, right on 8 Av and regular route.&lt;/P&gt;
+&lt;P&gt;7 Av and 41 St bus stop will be made on 42 St and 7 Av at M42 bus stop.&lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;M104 Northbound&lt;/STRONG&gt;: Via 42 St to 8 Av, right on 8 Av and regular route.&lt;/P&gt;
+&lt;P&gt;8 Av and 41 St bus stop will not be made. Customers may use the 8 Av and 43 St bus stop.&lt;/P&gt;
+&lt;P&gt;Allow additional travel time.&lt;/P&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
+                  &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                  &lt;span class="DateStyle"&gt;
+                  &amp;nbsp;Posted:&amp;nbsp;01/25/2016&amp;nbsp; 8:17AM
+                  &lt;/span&gt;
+                  &lt;br/&gt;
+                  &lt;br/&gt;
+                &lt;P&gt;&lt;STRONG&gt;M11&lt;/STRONG&gt; buses are detoured due to slippery road conditions on 145 St between Riverbank Park and Broadway. &lt;BR&gt;&lt;BR&gt;Detour is as follows:&lt;BR&gt;&lt;BR&gt;&lt;STRONG&gt;Northbound:&lt;/STRONG&gt; Via 135 St, right on Broadway, U-Turn on Broadway at 147 St, left on 135 St and regular route.&lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;Southbound:&lt;/STRONG&gt; Via Broadway, left on 135 St and regular route.&lt;/P&gt;
+&lt;P&gt;Corresponding stops will be made along detoured route.&lt;/P&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
+                  &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                  &lt;span class="DateStyle"&gt;
+                  &amp;nbsp;Posted:&amp;nbsp;01/25/2016&amp;nbsp; 6:15AM
+                  &lt;/span&gt;
+                  &lt;br/&gt;
+                  &lt;br/&gt;
+                &lt;P&gt;&lt;STRONG&gt;M34SBS&lt;/STRONG&gt; buses are detoured, due to snow removal on 34 St between 11 Av and 12 Av. &lt;/P&gt;
+&lt;P&gt;Detour is as follows:&lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;Westbound&lt;/STRONG&gt;: Via 34 St, left onto 12 Av, left onto 24 St, left onto 10 Av, right on 34 St and regular route. &lt;/P&gt;
+&lt;P&gt;Allow additional travel time. &lt;/P&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
+                  &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                  &lt;span class="DateStyle"&gt;
+                  &amp;nbsp;Posted:&amp;nbsp;01/25/2016&amp;nbsp; 6:13AM
+                  &lt;/span&gt;
+                  &lt;br/&gt;
+                  &lt;br/&gt;
+                &lt;P&gt;&lt;STRONG&gt;M100&lt;/STRONG&gt; buses are detoured, due to a road obstruction on 163 St and St Nicholas Av.&lt;/P&gt;
+&lt;P&gt;Detour is as follows:&lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;Southbound&lt;/STRONG&gt;: Via St Nicholas Av, left on 165 St, right on Amsterdam Av and regular route.&lt;/P&gt;
+&lt;P&gt;All corresponding stops will be made along the detoured route.&lt;/P&gt;
+&lt;P&gt;Allow additional travel time.&lt;/P&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
+                  &lt;span class="TitlePlannedWork" &gt;Planned Detour&lt;/span&gt;
+                  &lt;br/&gt;
+                &lt;a class="plannedWorkDetailLink" onclick=ShowHide(115621);&gt;
+&lt;b&gt;M101/M101 &lt;/b&gt;LTD&lt;b&gt; and M102 - Southbound buses rerouted from 3 Av at 9 St to 8 St&lt;br clear=left&gt;Northbound buses may experience delays
+&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 115621 class="plannedWorkDetail" &gt;&lt;/b&gt;Until further notice
+&lt;br&gt;
+&lt;br&gt;Due to construction, the Cooper Sq at 7 St stop will not be made, please use the stop&lt;b&gt; on 3 Av &lt;/b&gt;at 9 St.
+&lt;br&gt;
+&lt;br&gt;&lt;b&gt;Reminder&lt;/b&gt;: &lt;a href=http://web.mta.info/nyct/bus/schedule/manh/m101cur.pdf target=_blank&gt;&lt;font color=#0000FF&gt;&lt;b&gt;&lt;u&gt;M101 LTD&lt;/u&gt;&lt;/b&gt;&lt;/font&gt;&lt;/a&gt; buses do not operate overnights.
+&lt;br&gt;
+&lt;br&gt;&lt;b&gt;&lt;i&gt;&lt;a style="cursor:pointer; text-decoration:underline;" onclick=ShowHide(1156210);&gt;Show Reroute Details&lt;/a&gt;&lt;/i&gt;&lt;/b&gt;
+&lt;br&gt;&lt;div id="1156210"; style="display:none;"&gt;Via 3 Av
+&lt;br&gt;Right on 9 St 
+&lt;br&gt;Left on Broadway
+&lt;br&gt;Left on Astor Pl
+&lt;br&gt;Left on Lafayette St
+&lt;br&gt;Right on 8 St to 3 Av then regular route&lt;/div&gt;
+&lt;br&gt;&lt;b&gt;                  [TP]
+&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            </text>
+    <Date>01/25/2016</Date>
+    <Time> 9:58AM</Time>
+  </line>
+  <line>
+    <name>Q1 - Q113</name>
+    <status>DELAYS</status>
+    <text>
+                  &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                  &lt;span class="DateStyle"&gt;
+                  &amp;nbsp;Posted:&amp;nbsp;01/25/2016&amp;nbsp; 9:53AM
+                  &lt;/span&gt;
+                  &lt;br/&gt;
+                  &lt;br/&gt;
+                Following an earlier incident on Parsons Blvd and Jewel Av, &lt;STRONG&gt;Q64&lt;/STRONG&gt; bus service has resumed with residual delays.
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
+                  &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                  &lt;span class="DateStyle"&gt;
+                  &amp;nbsp;Posted:&amp;nbsp;01/25/2016&amp;nbsp; 9:43AM
+                  &lt;/span&gt;
+                  &lt;br/&gt;
+                  &lt;br/&gt;
+                &lt;P&gt;&lt;STRONG&gt;Q10&lt;/STRONG&gt; northbound buses are running with delays on Lefferts Blvd, due to heavy traffic northbound to Kew Gardens. &lt;/P&gt;
+&lt;P&gt;Allow additional travel time.&lt;/P&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
+                  &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                  &lt;span class="DateStyle"&gt;
+                  &amp;nbsp;Posted:&amp;nbsp;01/25/2016&amp;nbsp; 7:14AM
+                  &lt;/span&gt;
+                  &lt;br/&gt;
+                  &lt;br/&gt;
+                &lt;P&gt;All Queens local and express buses are running with delays in both directions and Queens limited buses remain suspended, due to inclement weather. &lt;/P&gt;
+&lt;P&gt;Allow additional travel time.&lt;/P&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
+                  &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                  &lt;span class="DateStyle"&gt;
+                  &amp;nbsp;Posted:&amp;nbsp;01/25/2016&amp;nbsp; 6:36AM
+                  &lt;/span&gt;
+                  &lt;br/&gt;
+                  &lt;br/&gt;
+                Due to hazardous road conditions, Q38 buses are not running.
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
+                  &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                  &lt;span class="DateStyle"&gt;
+                  &amp;nbsp;Posted:&amp;nbsp;01/25/2016&amp;nbsp; 6:19AM
+                  &lt;/span&gt;
+                  &lt;br/&gt;
+                  &lt;br/&gt;
+                &lt;P&gt;&lt;STRONG&gt;Q54&lt;/STRONG&gt; and &lt;STRONG&gt;Q56&lt;/STRONG&gt; buses are detoured, due to a road obstruction on 170 St. &lt;/P&gt;
+&lt;P&gt;Detour is as follows: &lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;Eastbound&lt;/STRONG&gt;: Via Jamaica Av, left on 172 St, right on Hillside Av, right on 175 St, right on Jamaica Av and regular route. &lt;/P&gt;
+&lt;P&gt;Allow additional travel time. &lt;/P&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
+                  &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                  &lt;span class="DateStyle"&gt;
+                  &amp;nbsp;Posted:&amp;nbsp;01/25/2016&amp;nbsp; 6:19AM
+                  &lt;/span&gt;
+                  &lt;br/&gt;
+                  &lt;br/&gt;
+                &lt;P&gt;&lt;STRONG&gt;Q23 &lt;/STRONG&gt;buses are detoured due to hazardous road conditions on 29 Av between Astoria Blvd and Ditmars Blvd. &lt;/P&gt;
+&lt;P&gt;Detour is as follows:&lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;Ditmars Blvd Bound&lt;/STRONG&gt;: Via Astoria Blvd, left on Ditmars Blvd and regular route. &lt;/P&gt;
+&lt;P&gt;Allow additional travel time. &lt;/P&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
+                  &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                  &lt;span class="DateStyle"&gt;
+                  &amp;nbsp;Posted:&amp;nbsp;01/25/2016&amp;nbsp; 6:18AM
+                  &lt;/span&gt;
+                  &lt;br/&gt;
+                  &lt;br/&gt;
+                &lt;P&gt;&lt;STRONG&gt;Q18&lt;/STRONG&gt; buses are detoured due to hazardous road conditions on 53 Av. &lt;/P&gt;
+&lt;P&gt;Detour is as follows:&lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;Eastbound&lt;/STRONG&gt;: Via 69 St, right on Grand Av, left on Long Island Expy Service Rd, left on Grand Av, left on 69 St and regular route. &lt;/P&gt;
+&lt;P&gt;Allow additional travel time.&lt;/P&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
+                  &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                  &lt;span class="DateStyle"&gt;
+                  &amp;nbsp;Posted:&amp;nbsp;01/25/2016&amp;nbsp; 6:16AM
+                  &lt;/span&gt;
+                  &lt;br/&gt;
+                  &lt;br/&gt;
+                &lt;P&gt;&lt;STRONG&gt;Q30&lt;/STRONG&gt; and &lt;STRONG&gt;Q31&lt;/STRONG&gt; buses are detoured due to Con Ed work on 169 St and Hillside Av. &lt;/P&gt;
+&lt;P&gt;Detour is as follows:&lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;Southbound&lt;/STRONG&gt;: Via Homelawn St, left on Grand Central Pkwy Service Rd East bound, right on 188 St, right on Hillside Av and regular route. &lt;/P&gt;
+&lt;P&gt;Allow additional travel time. &lt;/P&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
+                  &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                  &lt;span class="DateStyle"&gt;
+                  &amp;nbsp;Posted:&amp;nbsp;01/25/2016&amp;nbsp; 6:12AM
+                  &lt;/span&gt;
+                  &lt;br/&gt;
+                  &lt;br/&gt;
+                &lt;P&gt;&lt;STRONG&gt;Q112&lt;/STRONG&gt; buses are detoured in both directions due to hazardous road conditions on Waltham St between South Rd and Liberty Av. &lt;/P&gt;
+&lt;P&gt;Detour is as follows:&lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;Eastbound&lt;/STRONG&gt; &lt;STRONG&gt;to&lt;/STRONG&gt; &lt;STRONG&gt;Parsons&lt;/STRONG&gt; &lt;STRONG&gt;Blvd&lt;/STRONG&gt;: Via Liberty Av, right on Sutphin Blvd, left on South Rd and regular.&lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;Westbound&lt;/STRONG&gt; &lt;STRONG&gt;to&lt;/STRONG&gt; &lt;STRONG&gt;Rockaway&lt;/STRONG&gt; &lt;STRONG&gt;Blvd:&lt;/STRONG&gt; Via south Rd, right on Sutphin Blvd, left on Liberty Av and regular.&lt;/P&gt;
+&lt;P&gt;All corresponding stops will be made on detour route.&lt;/P&gt;
+&lt;P&gt;Allow additional travel time.&lt;/P&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
+                  &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                  &lt;span class="DateStyle"&gt;
+                  &amp;nbsp;Posted:&amp;nbsp;01/25/2016&amp;nbsp; 6:12AM
+                  &lt;/span&gt;
+                  &lt;br/&gt;
+                  &lt;br/&gt;
+                &lt;P&gt;&lt;STRONG&gt;Q15&lt;/STRONG&gt; and &lt;STRONG&gt;Q15A&lt;/STRONG&gt; buses are detoured in both directions, due to hazardous road conditions. &lt;/P&gt;
+&lt;P&gt;Detour is as follows:&lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;Q15&lt;/STRONG&gt; &lt;STRONG&gt;Northbound&lt;/STRONG&gt;: Regular route to 154 St and Cross Island Pkwy North Service Rd, do not use 154 St into Beechhurst. &lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;Q15&lt;/STRONG&gt; &lt;STRONG&gt;Southbound&lt;/STRONG&gt;: Via 154 St, first stop on 154 St and Cross Island Pkwy. &lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;Q15A&lt;/STRONG&gt; &lt;STRONG&gt;Northbound&lt;/STRONG&gt;: Via 150 St and continue to Cross Island Pkwy Service Rd for last stop. &lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;Q15A&lt;/STRONG&gt; &lt;STRONG&gt;Southbound&lt;/STRONG&gt;: Via Cross Island Pkwy Service Rd, left on 149 St to CIP Service Rd, right on 150 St and take stand.&lt;/P&gt;
+&lt;P&gt;All corresponding stops will be made along detoured route. &lt;/P&gt;
+&lt;P&gt;Allow additional travel time. &lt;/P&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
+                  &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                  &lt;span class="DateStyle"&gt;
+                  &amp;nbsp;Posted:&amp;nbsp;01/25/2016&amp;nbsp; 6:12AM
+                  &lt;/span&gt;
+                  &lt;br/&gt;
+                  &lt;br/&gt;
+                &lt;P&gt;&lt;STRONG&gt;Q25&lt;/STRONG&gt; buses are detoured both directions, due to hazardous road conditions. &lt;/P&gt;
+&lt;P&gt;Detour is as follows:&lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;Southbound: &lt;/STRONG&gt;First stop is on 28 Av and Ulmer St and regular route.&lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;Northbound&lt;/STRONG&gt;: From LIRR , right on 94 Av, right on Van Wyck Service Rd, right on Archer Av and regular route to Linden Pl, left on 23 Av, left on Ulmer St, left on 28 Av.&lt;/P&gt;
+&lt;P&gt;There is no service from 28 Av and Ulmer St to 119 St and 5 Av.&lt;/P&gt;
+&lt;P&gt;Allow additional travel time.&lt;/P&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
+                  &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                  &lt;span class="DateStyle"&gt;
+                  &amp;nbsp;Posted:&amp;nbsp;01/25/2016&amp;nbsp; 6:11AM
+                  &lt;/span&gt;
+                  &lt;br/&gt;
+                  &lt;br/&gt;
+                &lt;P&gt;&lt;STRONG&gt;Q65&lt;/STRONG&gt; buses are detoured both directions, due to hazardous road conditions. &lt;/P&gt;
+&lt;P&gt;Detour is as follows:&lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;Southbound: &lt;/STRONG&gt;Via 45 Av, right on Parsons Blvd, left on 46 Av, right on 164 St and regular route.&lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;Northbound: &lt;/STRONG&gt;Via 164 St, left on 46 Av, right on Parsons Blvd, left on 45 Av and regular route.&lt;/P&gt;
+&lt;P&gt;All corresponding stops will be made on detour route.&lt;/P&gt;
+&lt;P&gt;Allow additional travel time.&lt;BR&gt;&lt;/P&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
+                  &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                  &lt;span class="DateStyle"&gt;
+                  &amp;nbsp;Posted:&amp;nbsp;01/25/2016&amp;nbsp; 6:11AM
+                  &lt;/span&gt;
+                  &lt;br/&gt;
+                  &lt;br/&gt;
+                &lt;P&gt;&lt;STRONG&gt;Q27&lt;/STRONG&gt; buses are detoured in both directions due to hazardous road conditions. &lt;/P&gt;
+&lt;P&gt;Detour is as follows:&lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;Northbound&lt;/STRONG&gt;: Via 46 Av, right on Parsons Blvd, left on 45 Av, right on Kissena Blvd to regular route. &lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;Southbound&lt;/STRONG&gt;: Via Kissena Blvd, left on 45 Av, right on Parsons Blvd, left on 46 Av to regular route. &lt;/P&gt;
+&lt;P&gt;Southbound buses will terminate at Jamaica Av and Springfield Blvd.&lt;/P&gt;
+&lt;P&gt;Buses will start and end their routes at Jamaica Av and Springfield Blvd.&lt;/P&gt;
+&lt;P&gt;Allow additional travel time. &lt;/P&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
+                  &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                  &lt;span class="DateStyle"&gt;
+                  &amp;nbsp;Posted:&amp;nbsp;01/25/2016&amp;nbsp; 6:09AM
+                  &lt;/span&gt;
+                  &lt;br/&gt;
+                  &lt;br/&gt;
+                &lt;P&gt;&lt;STRONG&gt;Q23&lt;/STRONG&gt; buses are detoured in both directions, due to hazardous road conditions. &lt;/P&gt;
+&lt;P&gt;Detour is as follows:&lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;Southbound&lt;/STRONG&gt;: Via Ditmars Blvd, right on 31 Dr to 108 St, right on Queens Blvd, left on Yellowstone Blvd, left on Woodhaven Blvd and regular route.&lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;Northbound&lt;/STRONG&gt;: Via 71 Av, left on Metropolitan Av, right on Woodhaven Blvd, right on Yellowstone Blvd on to Jewel Av, left on 108 St, left on Ditmars Blvd and regular route. &lt;/P&gt;
+&lt;P&gt;Buses will bypass 103 St and 104 St. &lt;/P&gt;
+&lt;P&gt;All corresponding stops will be made along detoured route. &lt;/P&gt;
+&lt;P&gt;Allow additional travel time.&lt;/P&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
+                  &lt;span class="TitlePlannedWork" &gt;Planned Detour&lt;/span&gt;
+                  &lt;br/&gt;
+                &lt;a class="plannedWorkDetailLink" onclick=ShowHide(112033);&gt;
+&lt;b&gt;B20, B25, B83, Q24 and Q56 buses may experience delays due to construction at Broadway Junction
+&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 112033 class="plannedWorkDetail" &gt;&lt;/b&gt;Until further notice
+&lt;br&gt;
+&lt;br&gt;&amp;#149; &lt;/font&gt;Please allow additional travel time.
+&lt;br&gt;
+&lt;br&gt;&lt;b&gt;Reminder&lt;/b&gt;: &lt;a href=http://web.mta.info/nyct/bus/schedule/bkln/b020cur.pdf target=_blank&gt;&lt;font color=#0000FF&gt;&lt;b&gt;&lt;u&gt;B20&lt;/u&gt;&lt;/b&gt;&lt;/font&gt;&lt;/a&gt; and &lt;a href=http://web.mta.info/nyct/bus/schedule/bkln/b083cur.pdf target=_blank&gt;&lt;font color=#0000FF&gt;&lt;b&gt;&lt;u&gt;B83&lt;/u&gt;&lt;/b&gt;&lt;/font&gt;&lt;/a&gt; buses do not operate overnight.
+&lt;br&gt;
+&lt;br&gt;&lt;b&gt;          &lt;/b&gt;&lt;a href=http://bustime.mta.info/ target=_blank&gt;&lt;img height=30px src=http://web.mta.info/nyct/images/Bus_Time_logo.png&gt;&lt;/a&gt;
+&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            </text>
+    <Date>01/25/2016</Date>
+    <Time> 9:53AM</Time>
+  </line>
+  <line>
+    <name>QM1 - QM25</name>
+    <status>DELAYS</status>
+    <text>
+                  &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                  &lt;span class="DateStyle"&gt;
+                  &amp;nbsp;Posted:&amp;nbsp;01/25/2016&amp;nbsp; 7:14AM
+                  &lt;/span&gt;
+                  &lt;br/&gt;
+                  &lt;br/&gt;
+                &lt;P&gt;All Queens local and express buses are running with delays in both directions and Queens limited buses remain suspended, due to inclement weather. &lt;/P&gt;
+&lt;P&gt;Allow additional travel time.&lt;/P&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
+                  &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                  &lt;span class="DateStyle"&gt;
+                  &amp;nbsp;Posted:&amp;nbsp;01/25/2016&amp;nbsp; 6:22AM
+                  &lt;/span&gt;
+                  &lt;br/&gt;
+                  &lt;br/&gt;
+                &lt;P&gt;&lt;STRONG&gt;QM2&lt;/STRONG&gt; buses are detoured due to hazardous road conditions. &lt;/P&gt;
+&lt;P&gt;Detour is as follows:&lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;Westbound&lt;/STRONG&gt;: Via Cross Island Pkwy Service Road North, continue on Service Rd to 160 St and regular route.&lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;Eastbound&lt;/STRONG&gt;: Via Cross Island Pkwy Service Road, continue on Service Rd to Willets Point Blvd, left on Willets Point Blvd and regular route. &lt;/P&gt;
+&lt;P&gt;All corresponding stops will be made on detour route. &lt;/P&gt;
+&lt;P&gt;Allow additional travel time. &lt;/P&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            </text>
+    <Date>01/25/2016</Date>
+    <Time> 7:14AM</Time>
+  </line>
+  <line>
+    <name>S40 - S98</name>
+    <status>DELAYS</status>
+    <text>
+                  &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                  &lt;span class="DateStyle"&gt;
+                  &amp;nbsp;Posted:&amp;nbsp;01/25/2016&amp;nbsp; 9:08AM
+                  &lt;/span&gt;
+                  &lt;br/&gt;
+                  &lt;br/&gt;
+                &lt;P&gt;All &lt;STRONG&gt;Staten&lt;/STRONG&gt; &lt;STRONG&gt;Island&lt;/STRONG&gt; &lt;STRONG&gt;Local&lt;/STRONG&gt; and &lt;STRONG&gt;Express&lt;/STRONG&gt; buses are running with delays due to heavy traffic and snow removal operations. &lt;/P&gt;
+&lt;P&gt;Allow additional travel time.&lt;/P&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
+                  &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                  &lt;span class="DateStyle"&gt;
+                  &amp;nbsp;Posted:&amp;nbsp;01/25/2016&amp;nbsp; 6:02AM
+                  &lt;/span&gt;
+                  &lt;br/&gt;
+                  &lt;br/&gt;
+                &lt;P&gt;&lt;STRONG&gt;S74&lt;/STRONG&gt; and &lt;STRONG&gt;S76&lt;/STRONG&gt; buses are detoured due to a road obstruction on Richmond Rd and Baltic St. &lt;/P&gt;
+&lt;P&gt;Detour is as follows:&lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;Southbound&lt;/STRONG&gt;: Via Richmond Rd, left on Clove Rd, right on Hylan Blvd, right on Old Town Rd, left on Richmond Rd to regular route. &lt;/P&gt;
+&lt;P&gt;Allow additional travel time. &lt;/P&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            </text>
+    <Date>01/25/2016</Date>
+    <Time> 9:08AM</Time>
+  </line>
+  <line>
+    <name>x1 - x68</name>
+    <status>SERVICE CHANGE</status>
+    <text>
+                  &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                  &lt;span class="DateStyle"&gt;
+                  &amp;nbsp;Posted:&amp;nbsp;01/25/2016&amp;nbsp; 6:14AM
+                  &lt;/span&gt;
+                  &lt;br/&gt;
+                  &lt;br/&gt;
+                &lt;P&gt;&lt;STRONG&gt;X1&lt;/STRONG&gt;, &lt;STRONG&gt;X10&lt;/STRONG&gt; and &lt;STRONG&gt;X17&lt;/STRONG&gt; buses are detoured, due to NYPD activity on 42 St and 5 Av.&lt;/P&gt;
+&lt;P&gt;Detour is as follows:&lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;X1&lt;/STRONG&gt;, &lt;STRONG&gt;X10&lt;/STRONG&gt; &lt;STRONG&gt;and X17&lt;/STRONG&gt; &lt;STRONG&gt;Staten Island bound&lt;/STRONG&gt;: Via 5 Av, left on 42 St, right on Lexington Av, right on 34 St, left on 5 Av and regular route.&lt;/P&gt;
+&lt;P&gt;Allow additional travel time.&lt;/P&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            </text>
+    <Date>01/25/2016</Date>
+    <Time> 6:14AM</Time>
+  </line>
+</bus><BT>
+  <line>
+    <name>Bronx-Whitestone</name>
+    <status>SERVICE CHANGE</status>
+    <text>
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;01/24/2016&amp;nbsp; 8:22AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  Motorists are asked to clear snow and ice from vehicles prior to travel
+                &lt;br/&gt;&lt;br/&gt;
+              
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;01/23/2016&amp;nbsp; 8:39AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  Due to weather condition motorists are asked to drive at reduced speeds.
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>01/24/2016</Date>
+    <Time> 8:22AM</Time>
+  </line>
+  <line>
+    <name>Cross Bay</name>
+    <status>SERVICE CHANGE</status>
+    <text>
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;01/24/2016&amp;nbsp; 8:22AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  Motorists are asked to clear snow and ice from vehicles prior to travel
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>01/24/2016</Date>
+    <Time> 8:22AM</Time>
+  </line>
+  <line>
+    <name>Henry Hudson</name>
+    <status>SERVICE CHANGE</status>
+    <text>
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;01/24/2016&amp;nbsp; 8:22AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  Motorists are asked to clear snow and ice from vehicles prior to travel
+                &lt;br/&gt;&lt;br/&gt;
+              
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;01/23/2016&amp;nbsp; 9:02AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  Due to weather condition motorists are asked to drive at reduced speeds. Pedestrian walkways are closed at this time.
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>01/24/2016</Date>
+    <Time> 8:22AM</Time>
+  </line>
+  <line>
+    <name>Hugh L. Carey</name>
+    <status>SERVICE CHANGE</status>
+    <text>
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;01/25/2016&amp;nbsp; 5:55AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  HLCT HOV 3 lanes to Manhattan 1 lane to Brooklyn
+                &lt;br/&gt;&lt;br/&gt;
+              
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;01/24/2016&amp;nbsp; 8:22AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  Motorists are asked to clear snow and ice from vehicles prior to travel
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>01/25/2016</Date>
+    <Time> 5:55AM</Time>
+  </line>
+  <line>
+    <name>Marine Parkway</name>
+    <status>SERVICE CHANGE</status>
+    <text>
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;01/24/2016&amp;nbsp; 8:22AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  Motorists are asked to clear snow and ice from vehicles prior to travel
+                &lt;br/&gt;&lt;br/&gt;
+              
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;01/23/2016&amp;nbsp; 8:35AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  Due to weather condition motorists are asked to drive at reduced speeds. Pedestrian walkways are closed at this time.
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>01/24/2016</Date>
+    <Time> 8:22AM</Time>
+  </line>
+  <line>
+    <name>Queens Midtown</name>
+    <status>SERVICE CHANGE</status>
+    <text>
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;01/25/2016&amp;nbsp; 6:36AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  QMT- HOV 3 LANES MANHATTAN BOUND, 1 LANE QUEENS BOUND
+                &lt;br/&gt;&lt;br/&gt;
+              
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;01/24/2016&amp;nbsp; 8:22AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  Motorists are asked to clear snow and ice from vehicles prior to travel
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>01/25/2016</Date>
+    <Time> 6:36AM</Time>
+  </line>
+  <line>
+    <name>Robert F. Kennedy</name>
+    <status>SERVICE CHANGE</status>
+    <text>
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;01/24/2016&amp;nbsp; 8:22AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  Motorists are asked to clear snow and ice from vehicles prior to travel
+                &lt;br/&gt;&lt;br/&gt;
+              
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;01/24/2016&amp;nbsp; 7:28AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  Due to weather condition motorists are asked to drive at reduced speeds. Pedestrian walkways are closed at this time.
+                &lt;br/&gt;&lt;br/&gt;
+              
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;01/04/2016&amp;nbsp; 3:40PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  New Traffic Pattern in Affect -Manhattan-bound traffic exiting from the Robert F. Kennedy Bridge to E.125 Street, is being diverted onto a temporary ramp. Motorists may experience delays and are advised to allow extra travel time.
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>01/24/2016</Date>
+    <Time> 8:22AM</Time>
+  </line>
+  <line>
+    <name>Throgs Neck</name>
+    <status>DELAYS</status>
+    <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;01/25/2016&amp;nbsp; 8:44AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  TNB DISABLED VEHICLE BRONX BOUND, ONE LANE BLOCKED
+                &lt;br/&gt;&lt;br/&gt;
+              
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;01/24/2016&amp;nbsp; 8:22AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  Motorists are asked to clear snow and ice from vehicles prior to travel
+                &lt;br/&gt;&lt;br/&gt;
+              
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;01/24/2016&amp;nbsp; 7:29AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  Due to weather condition motorists are asked to drive at reduced speeds.
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>01/25/2016</Date>
+    <Time> 8:44AM</Time>
+  </line>
+  <line>
+    <name>Verrazano-Narrows</name>
+    <status>SERVICE CHANGE</status>
+    <text>
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;01/24/2016&amp;nbsp; 8:22AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  Motorists are asked to clear snow and ice from vehicles prior to travel
+                &lt;br/&gt;&lt;br/&gt;
+              
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;01/04/2016&amp;nbsp; 3:38PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;P style="MARGIN: 0in 0in 0pt"&gt;&lt;B&gt;&lt;FONT face="Times New Roman"&gt;&lt;FONT size=3&gt;VNB -  UPPER LEVEL TRAFFIC PATTERN &lt;/FONT&gt;&lt;/FONT&gt;&lt;/B&gt;&lt;/P&gt;
+&lt;P style="MARGIN: 0in 0in 0pt"&gt;&lt;B&gt;&lt;U&gt;&lt;SPAN style='FONT-FAMILY: "Calibri",sans-serif; COLOR: black'&gt;&lt;FONT size=3&gt;Monday thru Thursday:&lt;/FONT&gt;&lt;/SPAN&gt;&lt;/U&gt;&lt;/B&gt;&lt;SPAN style='FONT-FAMILY: "Calibri",sans-serif; COLOR: black'&gt;&lt;FONT size=3&gt; &lt;/FONT&gt;&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P style="MARGIN: 0in 0in 0pt"&gt;&lt;SPAN style='FONT-FAMILY: "Calibri",sans-serif; COLOR: black'&gt;&lt;FONT size=3&gt;&lt;STRONG&gt;&lt;U&gt;Mon -Thur&lt;/U&gt;&lt;/STRONG&gt; 5 AM to 9:30 AM (3) Lanes Bklyn-bnd. (2) Lanes SI-bound.&lt;BR&gt;&lt;/FONT&gt;&lt;FONT size=3&gt;2:30 PM to 10PM (3) Lanes SI-bound. (2) Lanes Bklyn-bnd.&lt;/FONT&gt;&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P style="MARGIN: 0in 0in 0pt"&gt;&lt;B&gt;&lt;U&gt;&lt;SPAN style='FONT-FAMILY: "Calibri",sans-serif; COLOR: black'&gt;&lt;FONT size=3&gt;Friday:&lt;/FONT&gt;&lt;/SPAN&gt;&lt;/U&gt;&lt;/B&gt;&lt;SPAN style='FONT-FAMILY: "Calibri",sans-serif; COLOR: black'&gt;&lt;FONT size=3&gt; 5 AM to 9:30 AM (3) Lanes Bklyn-bnd. (2) Lanes SI-bound.&lt;BR&gt;&lt;/FONT&gt;&lt;FONT size=3&gt;1:30 PM to 11:59 PM (3) Lanes SI-bound. (2) Lanes Bklyn-bnd.&lt;/FONT&gt;&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P style="MARGIN: 0in 0in 0pt"&gt;&lt;FONT size=3&gt;&lt;B&gt;&lt;U&gt;&lt;SPAN style='FONT-FAMILY: "Calibri",sans-serif; COLOR: black'&gt;Saturday and Sunday:&lt;/SPAN&gt;&lt;/U&gt;&lt;/B&gt;&lt;SPAN style='FONT-FAMILY: "Calibri",sans-serif; COLOR: black'&gt;&lt;/SPAN&gt;&lt;/FONT&gt;&lt;/P&gt;
+&lt;P style="MARGIN: 0in 0in 0pt"&gt;&lt;SPAN style='FONT-FAMILY: "Calibri",sans-serif; COLOR: black'&gt;&lt;FONT size=3&gt;Three (3) Lanes Staten Island-bound. Two (2) Lanes Brooklyn-bound.&lt;/FONT&gt;&lt;/SPAN&gt;&lt;/P&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>01/24/2016</Date>
+    <Time> 8:22AM</Time>
+  </line>
+</BT><LIRR>
+  <line>
+    <name>Babylon</name>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
+  </line>
+  <line>
+    <name>City Terminal Zone</name>
+    <status>SERVICE CHANGE</status>
+    <text>
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;01/25/2016&amp;nbsp; 7:34AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;P style="MARGIN: 0in 0in 6pt"&gt;&lt;FONT size=3&gt;The LIRR is experiencing cancellations and delays this morning due to the on-going effects of this weekend's blizzard. Service is suspended in both directions between Jamaica and Atlantic Terminal. &lt;/FONT&gt;&lt;FONT size=3&gt;Eastbound trains are bypassing Woodside, Forest Hills, and Kew Gardens. NYC Transit is cross-honoring LIRR fares for the E, 7, and 2/3 subway lines. &lt;/FONT&gt;&lt;/P&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>01/25/2016</Date>
+    <Time> 7:34AM</Time>
+  </line>
+  <line>
+    <name>Far Rockaway</name>
+    <status>SUSPENDED</status>
+    <text>
+                    &lt;span class="TitleSuspended"&gt;Suspended&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;01/25/2016&amp;nbsp; 6:29AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;P style="MARGIN: 0in 0in 6pt"&gt;Service remains suspended on the Port Washington, Far Rockaway, Hempstead, Long Beach &amp; West Hempstead branches, and east of Speonk on Montauk Branch due to Saturday's blizzard. &lt;BR&gt;&lt;BR&gt;There will be no service between Jamaica Station &amp; Atlantic Terminal. Take LIRR service to Penn Station where tickets will be cross-honored by NYC Transit on "2" &amp; "3" trains to Brooklyn. &lt;/P&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>01/25/2016</Date>
+    <Time> 6:29AM</Time>
+  </line>
+  <line>
+    <name>Hempstead</name>
+    <status>SUSPENDED</status>
+    <text>
+                    &lt;span class="TitleSuspended"&gt;Suspended&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;01/25/2016&amp;nbsp; 6:29AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;P style="MARGIN: 0in 0in 6pt"&gt;Service remains suspended on the Port Washington, Far Rockaway, Hempstead, Long Beach &amp; West Hempstead branches, and east of Speonk on Montauk Branch due to Saturday's blizzard. &lt;BR&gt;&lt;BR&gt;There will be no service between Jamaica Station &amp; Atlantic Terminal. Take LIRR service to Penn Station where tickets will be cross-honored by NYC Transit on "2" &amp; "3" trains to Brooklyn. &lt;/P&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>01/25/2016</Date>
+    <Time> 6:29AM</Time>
+  </line>
+  <line>
+    <name>Long Beach</name>
+    <status>SUSPENDED</status>
+    <text>
+                    &lt;span class="TitleSuspended"&gt;Suspended&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;01/25/2016&amp;nbsp; 6:29AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;P style="MARGIN: 0in 0in 6pt"&gt;Service remains suspended on the Port Washington, Far Rockaway, Hempstead, Long Beach &amp; West Hempstead branches, and east of Speonk on Montauk Branch due to Saturday's blizzard. &lt;BR&gt;&lt;BR&gt;There will be no service between Jamaica Station &amp; Atlantic Terminal. Take LIRR service to Penn Station where tickets will be cross-honored by NYC Transit on "2" &amp; "3" trains to Brooklyn. &lt;/P&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>01/25/2016</Date>
+    <Time> 6:29AM</Time>
+  </line>
+  <line>
+    <name>Montauk</name>
+    <status>DELAYS</status>
+    <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;01/25/2016&amp;nbsp; 9:43AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;p&gt;The 7:12AM train from Speonk due Hunterspoint Ave. at 9:11AM is 
+operating 52 minutes late due to the ongoing effects of this weekend's 
+blizzard.
+        &lt;/p&gt;&lt;p&gt; &lt;/p&gt;&lt;p&gt;The 9:25AM train from Patchogue due Babylon at 9:55AM is being held 
+prior to departure in Patchogue Station due to the ongoing effects of 
+this weekend's blizzard.
+        &lt;/p&gt;&lt;p&gt; &lt;/p&gt;&lt;p&gt;The 8:52AM train from Babylon due Montauk at 10:52AM is operating 19 
+minutes late after being held in Babylon due to the on going effects of 
+this weekend's blizzard. This train will terminate in Speonk today, 
+buses have been secured for service to Montauk but are not on scene at 
+this time.
+&lt;/p&gt;&lt;p&gt;     &lt;/p&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;01/25/2016&amp;nbsp; 6:19AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;P style="MARGIN: 0in 0in 6pt"&gt;&lt;B&gt;&lt;FONT size=3&gt;LIRR AM Rush Hour Alert&lt;/FONT&gt;&lt;/B&gt;&lt;/P&gt;
+&lt;P style="MARGIN: 0in 0in 6pt"&gt;&lt;FONT size=3&gt;LIRR train service is restored on the Babylon, Ronkonkoma, and Huntington branches with express trains making local stops until they are filled. Train service is also restored in diesel territory - Oyster Bay and Port Jefferson branches, between Greenport and Ronkonkoma and west of Speonk on the Montauk Branch.&lt;/FONT&gt;&lt;/P&gt;
+&lt;P style="MARGIN: 0in 0in 6pt"&gt;&lt;FONT size=3&gt;&lt;/FONT&gt; &lt;/P&gt;
+&lt;P style="MARGIN: 0in 0in 6pt"&gt;&lt;FONT size=3&gt;LIRR train service remains suspended on the Port Washington, Far Rockaway, Hempstead, Long Beach and West Hempstead branches, and east of Speonk on the Montauk Branch due to the on-going effects of this weekend's blizzard. There will also be no service between Jamaica Station and Atlantic Terminal. Instead, LIRR tickets will be cross-honored by New York City Transit on the "2" and "3" trains between Brooklyn and Penn Station. Monitor our website, at mta.info, for updates on service restorations.&lt;/FONT&gt;&lt;/P&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>01/25/2016</Date>
+    <Time> 9:43AM</Time>
+  </line>
+  <line>
+    <name>Oyster Bay</name>
+    <status>DELAYS</status>
+    <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;01/25/2016&amp;nbsp; 9:50AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;p&gt;The 8:16AM train from Oyster Bay due Long Island City at 9:36AM is 
+operating 49 minutes late due to the ongoing effects of this weekend's 
+blizzard.
+        &lt;/p&gt;&lt;p&gt; &lt;/p&gt;&lt;p&gt;The 9:02AM train from Jamaica due Oyster Bay at 10:00AM is operating 37 
+minutes late after being held in Jamaica due to the on going effects of 
+this weekend's blizzard.  
+        &lt;/p&gt;&lt;p&gt; &lt;/p&gt;&lt;p&gt;The 7:13AM train from Oyster Bay due Long Island City at 8:37AM is now 
+operating 76 minutes late due to earlier equipment trouble. 
+        &lt;/p&gt;&lt;p&gt; &lt;/p&gt;&lt;p&gt;The 9:02AM train from Jamaica due Oyster Bay at 10:00AM is being held in
+ Jamaica due to the on going effects of this weekend's blizzard.  
+        &lt;/p&gt;&lt;p&gt; &lt;/p&gt;&lt;p&gt;The 7:41AM train from Oyster Bay due Hunterspoint Ave. at 8:55AM is now 
+operating 50 minutes late after being delayed in Sea Cliff due to 
+congestion caused by an earlier train ahead with equipment trouble. 
+        &lt;/p&gt;&lt;p&gt; &lt;/p&gt;&lt;p&gt;The 8:06AM train from Jamaica due Oyster Bay at 9:03AM is operating 62 
+minutes late after being held in Jamaica due to winter weather 
+conditions.
+     &lt;/p&gt;&lt;p&gt; &lt;/p&gt;&lt;p&gt;The 8:16AM train from Oyster Bay due Long Island City at 9:36AM is 
+operating 34 minutes late after being held in Oyster Bay due to winter 
+weather conditions.
+        &lt;/p&gt;&lt;p&gt; &lt;/p&gt;&lt;p&gt;       &lt;/p&gt;&lt;p&gt; &lt;/p&gt;&lt;p&gt;       &lt;/p&gt;&lt;p&gt;     &lt;/p&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>01/25/2016</Date>
+    <Time> 9:50AM</Time>
+  </line>
+  <line>
+    <name>Port Jefferson</name>
+    <status>DELAYS</status>
+    <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;01/25/2016&amp;nbsp; 9:49AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;p&gt;The 6:57AM train from Port Jefferson due Hunterspoint Ave. at 8:43AM 
+arrived into Hunterspoint Ave 60 minutes late due to the ongoing effects
+ of this weekend's blizzard.
+        &lt;/p&gt;&lt;p&gt; &lt;/p&gt;&lt;p&gt;The 7:35AM train from Port Jefferson due Penn at 9:24AM is operating 45 
+minutes late due to the ongoing effects of this weekend's blizzard.
+        &lt;/p&gt;&lt;p&gt; &lt;/p&gt;&lt;p&gt;The 8:55AM train from Huntington due Penn at 10:05AM is 13 minutes late due to the on going effects of this weekend's blizzard&lt;/p&gt;&lt;p&gt; &lt;/p&gt;&lt;p&gt;      &lt;/p&gt;&lt;p&gt; &lt;/p&gt;&lt;p&gt; &lt;/p&gt;&lt;p&gt; &lt;/p&gt;&lt;p&gt;     &lt;/p&gt;&lt;p&gt;       &lt;/p&gt;&lt;p&gt; &lt;/p&gt;&lt;p&gt;        &lt;/p&gt;&lt;p&gt; &lt;/p&gt;&lt;p&gt; &lt;/p&gt;&lt;p&gt;         &lt;/p&gt;&lt;p&gt; &lt;/p&gt;&lt;p&gt;      &lt;/p&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>01/25/2016</Date>
+    <Time> 9:49AM</Time>
+  </line>
+  <line>
+    <name>Port Washington</name>
+    <status>SUSPENDED</status>
+    <text>
+                    &lt;span class="TitleSuspended"&gt;Suspended&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;01/25/2016&amp;nbsp; 6:29AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;P style="MARGIN: 0in 0in 6pt"&gt;Service remains suspended on the Port Washington, Far Rockaway, Hempstead, Long Beach &amp; West Hempstead branches, and east of Speonk on Montauk Branch due to Saturday's blizzard. &lt;BR&gt;&lt;BR&gt;There will be no service between Jamaica Station &amp; Atlantic Terminal. Take LIRR service to Penn Station where tickets will be cross-honored by NYC Transit on "2" &amp; "3" trains to Brooklyn. &lt;/P&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>01/25/2016</Date>
+    <Time> 6:29AM</Time>
+  </line>
+  <line>
+    <name>Ronkonkoma</name>
+    <status>DELAYS</status>
+    <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;01/25/2016&amp;nbsp; 9:59AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;p&gt;The 7:40AM train from Ronkonkoma due Atlantic Terminal at 9:01AM is 
+operating 65 minutes late and will be diverted to Penn Station today due
+ to the ongoing effects of this weekend's blizzard.
+        &lt;/p&gt;&lt;p&gt; &lt;/p&gt;&lt;p&gt;The 7:57AM train from Ronkonkoma due Penn at 9:17AM is operating 54 
+minutes late due to the ongoing effects of this weekend's blizzard.&lt;/p&gt;&lt;p&gt; &lt;/p&gt;&lt;p&gt;The 7:39AM train from Penn due Ronkonkoma at 8:59AM is operating 46 
+minutes late due to the ongoing effects of this weekend's blizzard.
+        &lt;/p&gt;&lt;p&gt; &lt;/p&gt;&lt;p&gt;The 7:40AM train from Ronkonkoma due Atlantic Terminal at 9:01AM is 
+operating 46 minutes late due to winter weather conditions. This train 
+will be diverted to Penn Station today. &lt;/p&gt;&lt;p&gt; &lt;/p&gt;&lt;p&gt;The 8:31AM train from Ronkonkoma due Penn at 9:56AM is operating 12 minutes late due to winter weather conditions.
+        &lt;/p&gt;&lt;p&gt; &lt;/p&gt;&lt;p&gt; &lt;/p&gt;&lt;p&gt; &lt;/p&gt;&lt;p&gt; &lt;/p&gt;&lt;p&gt;       &lt;/p&gt;&lt;p&gt; &lt;/p&gt;&lt;p&gt; &lt;/p&gt;&lt;p&gt; &lt;/p&gt;&lt;p&gt;       &lt;/p&gt;&lt;p&gt; &lt;/p&gt;&lt;p&gt;       &lt;/p&gt;&lt;p&gt; &lt;/p&gt;&lt;p&gt; &lt;/p&gt;&lt;p&gt;        &lt;/p&gt;&lt;p&gt;         &lt;/p&gt;&lt;p&gt; &lt;/p&gt;&lt;p&gt; &lt;/p&gt;&lt;p&gt; &lt;/p&gt;&lt;p&gt;      &lt;/p&gt;&lt;p&gt;     &lt;/p&gt;&lt;p&gt; &lt;/p&gt;&lt;p&gt; &lt;/p&gt;&lt;p&gt; &lt;/p&gt;&lt;p&gt; &lt;/p&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>01/25/2016</Date>
+    <Time> 9:59AM</Time>
+  </line>
+  <line>
+    <name>West Hempstead</name>
+    <status>SUSPENDED</status>
+    <text>
+                    &lt;span class="TitleSuspended"&gt;Suspended&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;01/25/2016&amp;nbsp; 6:29AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;P style="MARGIN: 0in 0in 6pt"&gt;Service remains suspended on the Port Washington, Far Rockaway, Hempstead, Long Beach &amp; West Hempstead branches, and east of Speonk on Montauk Branch due to Saturday's blizzard. &lt;BR&gt;&lt;BR&gt;There will be no service between Jamaica Station &amp; Atlantic Terminal. Take LIRR service to Penn Station where tickets will be cross-honored by NYC Transit on "2" &amp; "3" trains to Brooklyn. &lt;/P&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>01/25/2016</Date>
+    <Time> 6:29AM</Time>
+  </line>
+</LIRR><MetroNorth>
+  <line>
+    <name>Hudson</name>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
+  </line>
+  <line>
+    <name>Harlem</name>
+    <status>DELAYS</status>
+    <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;01/25/2016&amp;nbsp; 9:35AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;SPAN style="TEXT-ALIGN: left; WIDOWS: 1; TEXT-TRANSFORM: none; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; DISPLAY: inline !important; FONT: 12px/16px 'Segoe UI', Arial, Helvetica, sans-serif; WHITE-SPACE: normal; FLOAT: none; LETTER-SPACING: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px"&gt;Harlem Line Service is currently experiencing scattered delays of 5 to 15 minutes due to weather related speed restrictions. Please listen for announcements at your station&lt;/SPAN&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;01/24/2016&amp;nbsp;10:15PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  For customers traveling southbound to Melrose and Tremont, trains will not stop at these stations. Please get off at Harlem-125th Street Station and take a local Harlem Line train north stopping at Melrose and Tremont stations. Customers wishing to travel southbound from Melrose or Tremont stations should use Fordham station or can take the Bx41 Bus from Fordham to Melrose. NYC Transit will cross-honor Metro-North tickets for the Bx41 during this service change. This service change will be in effect through Monday, January 25, due to third rail power issues as a result of the significant snow accumulations.
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>01/25/2016</Date>
+    <Time> 9:35AM</Time>
+  </line>
+  <line>
+    <name>Wassaic</name>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
+  </line>
+  <line>
+    <name>New Haven</name>
+    <status>DELAYS</status>
+    <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;01/25/2016&amp;nbsp; 9:36AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;SPAN style="TEXT-ALIGN: left; WIDOWS: 1; TEXT-TRANSFORM: none; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; DISPLAY: inline !important; FONT: 12px/16px 'Segoe UI', Arial, Helvetica, sans-serif; WHITE-SPACE: normal; FLOAT: none; LETTER-SPACING: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px"&gt;New Haven Line Service is currently experiencing scattered delays of 5 to 15 minutes due to weather related speed restrictions. Please listen for announcements at your station&lt;/SPAN&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>01/25/2016</Date>
+    <Time> 9:36AM</Time>
+  </line>
+  <line>
+    <name>New Canaan</name>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
+  </line>
+  <line>
+    <name>Danbury</name>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
+  </line>
+  <line>
+    <name>Waterbury</name>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
+  </line>
+  <line>
+    <name>Pascack Valley</name>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
+  </line>
+  <line>
+    <name>Port Jervis</name>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
+  </line>
+</MetroNorth></service>
 
-<link rel="shortcut icon" href="http://webserver.mta.info/siteimages/favicon.ico" />
-
-<style type="text/css">
-html { margin:0; padding:0; border:0; overflow-y:scroll; }
-
-body, div, h1, a, ol, ul, li, img { margin: 0; padding: 0; border: 0; font-size: 100%; vertical-align: baseline; }
-
-h1 { font-size:136%; color: #0055aa; font-size: 153.9%; display: block; padding-bottom: 4px; border-bottom: 1px solid #b4b4b4; }
-
-p { margin-bottom:1em; }
-
-body { font:13px/1.231 helvetica,arial,clean,sans-serif; }
-
-#mainbox { width: 960px; margin:0 auto; background-color: #fff; padding: 0 0 20px 0; }
-
-#contentbox { margin: 20px 10px; padding: 0 20px 20px 20px; }
-
-#contentbox a:link {text-decoration: none; color:#0055aa;}
-#contentbox a:visited {text-decoration: none; color:#0055aa;}
-#contentbox a:hover {text-decoration: underline}
-#contentbox a:active {text-decoration: underline}
-
-</style>
-
-</head>
-
-<body>
-
-<div id="mainbox">	
-			<div id="topbar">
-	
-		<div id="branding">
-		<img src="/apology_objects/mta_info.gif" alt="Metropolitan Transportation Authority web logo">
-		</div>
-				<div style="float:right;"><a href="http://mta-nyc.custhelp.com/app/ask">Contact Us</a></div>
-
-<div id="contentbox" class="roundCorners clearfix" >
-		
-<!-- Start Page Content -->
-			 				 		
-<h1>503 Service Unavailable</h1>																		  
-<p>Our site is temporarily unavailable. Please try visiting us again later.</p>
-<p>We apologize for the inconvenience.</p>						
-
-								<!-- End Page Content -->
-
-</div> <!-- close contentbox -->
-</div> <!-- close mainbox -->
-
-  </body>
-</html>
