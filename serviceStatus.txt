@@ -1,10 +1,18 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>SERVICE CHANGE</status>
+    <text>
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;01/25/2016&amp;nbsp;11:53PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;P&gt;Due to &lt;STRONG&gt;NYC Transit Cold Weather Plan&lt;/STRONG&gt;, northbound [3] trains are running local from from &lt;STRONG&gt;Times Sq-42 St&lt;/STRONG&gt; to &lt;STRONG&gt;96 St&lt;/STRONG&gt;. &lt;/P&gt;
+&lt;P&gt;Allow additional travel time.&lt;/P&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>01/25/2016</Date>
+    <Time>11:53PM</Time>
   </line>
   <line>
     <name>456</name>
@@ -1196,10 +1204,17 @@ cross-honored by NYC Transit on "2" &amp; "3" trains to Brooklyn.
   </line>
   <line>
     <name>Ronkonkoma</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>DELAYS</status>
+    <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;01/25/2016&amp;nbsp;11:53PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  The 10:42PM train from Penn due Ronkonkoma at 12:05AM is operating 16 minutes late due to the ongoing effects of this weekend's blizzard. &lt;br&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>01/25/2016</Date>
+    <Time>11:53PM</Time>
   </line>
   <line>
     <name>West Hempstead</name>
