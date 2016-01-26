@@ -1,17 +1,59 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>PLANNED WORK</status>
+    <text>
+                    &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
+                    &lt;br/&gt;
+                  &lt;a class="plannedWorkDetailLink" onclick=ShowHide(115067);&gt;
+&lt;b&gt;[2] Flatbush Av-bound trains skip Burke Av, Allerton Av, Pelham Pkwy and Bronx Park East
+&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 115067 class="plannedWorkDetail" &gt;&lt;/b&gt;Days, 10:15 AM to 3 PM, Tue to Thu, Jan 26 - 28
+&lt;br&gt;
+&lt;br&gt;For service&lt;i&gt; to&lt;/i&gt; these stations, take the [2] to E 180 St and transfer to a Wakefield-bound [2].
+&lt;br&gt;
+&lt;br&gt;For service &lt;i&gt;from&lt;/i&gt; these stations, take the [2] to Gun Hill Rd and transfer to a Flatbush Av-bound [2].
+&lt;br&gt;
+&lt;br&gt;&lt;b&gt;&lt;i&gt;Alternate travel note:
+&lt;br&gt;&lt;/b&gt;&lt;/i&gt;For service &lt;i&gt;to &lt;/i&gt;these stations, transfer to the &lt;a href=http://web.mta.info/nyct/bus/schedule/bronx/bx039cur.pdf target=_blank&gt;&lt;font color=#0000FF&gt;&lt;b&gt;&lt;u&gt;Bx39&lt;/u&gt;&lt;/b&gt;&lt;/font&gt;&lt;/a&gt; bus at Gun Hill Rd.
+&lt;br&gt;&lt;b&gt;
+&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>01/26/2016</Date>
+    <Time>10:22AM</Time>
   </line>
   <line>
     <name>456</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>PLANNED WORK</status>
+    <text>
+                    &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
+                    &lt;br/&gt;
+                  &lt;a class="plannedWorkDetailLink" onclick=ShowHide(114692);&gt;
+&lt;b&gt;[6D] Brooklyn Bridge-bound trains run local from Parkchester to 3 Av-138 St
+&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 114692 class="plannedWorkDetail" &gt;&lt;/b&gt;Days, 10:15 AM to 1 PM, Tue to Fri, Jan 26 - 29  &amp;#149;  Mon to Fri, Feb 1 - 5   
+&lt;br&gt;
+&lt;br&gt;&amp;#149; Please allow additional travel time.
+&lt;br&gt;&lt;b&gt;
+&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              
+                    &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
+                    &lt;br/&gt;
+                  &lt;a class="plannedWorkDetailLink" onclick=ShowHide(115069);&gt;
+&lt;b&gt;[6] Brooklyn Bridge-bound trains run express from Pelham Bay Park to Parkchester
+&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 115069 class="plannedWorkDetail" &gt;&lt;/b&gt;Days, 10:15 AM to 3 PM, Tue to Fri, Jan 26 - 29
+&lt;br&gt;
+&lt;br&gt;&lt;/font&gt;For service &lt;i&gt;to&lt;/i&gt; Buhre Av, Middletown Rd, Westchester Sq, Zerega and Castle Hill Avs, 
+&lt;br&gt;take the [6] to Parkchester and transfer to a Pelham Bay Park-bound [6].
+&lt;br&gt;
+&lt;br&gt;For service &lt;i&gt;from&lt;/i&gt; these stations take the [6] to Pelham Bay Park and transfer 
+&lt;br&gt;to a Brooklyn Bridge-bound [6].
+&lt;br&gt;&lt;b&gt;
+&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>01/26/2016</Date>
+    <Time>10:22AM</Time>
   </line>
   <line>
     <name>7</name>
@@ -36,15 +78,15 @@
                   &lt;a class="plannedWorkDetailLink" onclick=ShowHide(117095);&gt;
 &lt;b&gt;[A] No trains between Howard Beach-JFK and Mott Av&lt;br clear=left&gt;[S] No trains between Broad Channel and Beach 116 St
 &lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 117095 class="plannedWorkDetail" &gt;Shuttle train and [SB] free shuttle buses provide alternate service
-&lt;br&gt;&lt;/b&gt;Days, 9:45 AM to 3 PM, Tue and Wed, Jan 26 - 27
+&lt;br&gt;&lt;/b&gt;Days, 9:45 AM to 3 PM, Tue &lt;i&gt;and&lt;/i&gt; Wed, Jan 26 - 27
 &lt;br&gt;
 &lt;br&gt;[A] Service operates between &lt;b&gt;207 St&lt;/b&gt; and &lt;b&gt;Lefferts Blvd/Howard Beach-JFK AIrport
 &lt;br&gt;&lt;/b&gt;[S] service operates between &lt;b&gt;Howard Beach-JFK Airport&lt;/b&gt; and &lt;b&gt;Mott Av.
 &lt;br&gt;&lt;/b&gt; &amp;#149; Transfer between [A] and [S] trains at Howard Beach-JFK Airport to continue your trip.
 &lt;br&gt;
-&lt;br&gt;[SB] buses run between &lt;b&gt;Beach 67 St [A]&lt;/b&gt; and &lt;b&gt;Beach 116 St&lt;/b&gt;, stopping at &lt;b&gt;Beach 90&lt;/b&gt;, 
+&lt;br&gt;[SB] buses operate between &lt;b&gt;Beach 67 St [A]&lt;/b&gt; and &lt;b&gt;Beach 116 St&lt;/b&gt;, stopping at &lt;b&gt;Beach 90&lt;/b&gt;, 
 &lt;br&gt;     &lt;b&gt;Beach 98 &lt;/b&gt;and &lt;b&gt;Beach 105 Sts&lt;/b&gt;.
-&lt;br&gt; &amp;#149; Transfer between [S] trains and shuttle buses at Beach 67 St.
+&lt;br&gt; &amp;#149; Transfer between [S] trains and [SB] buses at Beach 67 St.
 &lt;br&gt;
 &lt;br&gt;&lt;table class=plannedworkTableStyle  border=1 cellspacing=1 cellpadding=5 rules=none frame=box&gt;&lt;td&gt;&amp;nbsp;&amp;nbsp;[ad]&amp;nbsp;&amp;nbsp;&lt;td&gt;&lt;font size=1&gt;This service change affects one or more ADA accessible stations. Please call 511 for help with planning&lt;br&gt;your trip. If you are deaf or hard of hearing, use your preferred relay service provider or the free 711 relay.&amp;nbsp;&amp;nbsp;&lt;/font&gt;&lt;/table&gt;
 &lt;br&gt;&lt;b&gt;
@@ -120,15 +162,15 @@
                   &lt;a class="plannedWorkDetailLink" onclick=ShowHide(117095);&gt;
 &lt;b&gt;[A] No trains between Howard Beach-JFK and Mott Av&lt;br clear=left&gt;[S] No trains between Broad Channel and Beach 116 St
 &lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 117095 class="plannedWorkDetail" &gt;Shuttle train and [SB] free shuttle buses provide alternate service
-&lt;br&gt;&lt;/b&gt;Days, 9:45 AM to 3 PM, Tue and Wed, Jan 26 - 27
+&lt;br&gt;&lt;/b&gt;Days, 9:45 AM to 3 PM, Tue &lt;i&gt;and&lt;/i&gt; Wed, Jan 26 - 27
 &lt;br&gt;
 &lt;br&gt;[A] Service operates between &lt;b&gt;207 St&lt;/b&gt; and &lt;b&gt;Lefferts Blvd/Howard Beach-JFK AIrport
 &lt;br&gt;&lt;/b&gt;[S] service operates between &lt;b&gt;Howard Beach-JFK Airport&lt;/b&gt; and &lt;b&gt;Mott Av.
 &lt;br&gt;&lt;/b&gt; &amp;#149; Transfer between [A] and [S] trains at Howard Beach-JFK Airport to continue your trip.
 &lt;br&gt;
-&lt;br&gt;[SB] buses run between &lt;b&gt;Beach 67 St [A]&lt;/b&gt; and &lt;b&gt;Beach 116 St&lt;/b&gt;, stopping at &lt;b&gt;Beach 90&lt;/b&gt;, 
+&lt;br&gt;[SB] buses operate between &lt;b&gt;Beach 67 St [A]&lt;/b&gt; and &lt;b&gt;Beach 116 St&lt;/b&gt;, stopping at &lt;b&gt;Beach 90&lt;/b&gt;, 
 &lt;br&gt;     &lt;b&gt;Beach 98 &lt;/b&gt;and &lt;b&gt;Beach 105 Sts&lt;/b&gt;.
-&lt;br&gt; &amp;#149; Transfer between [S] trains and shuttle buses at Beach 67 St.
+&lt;br&gt; &amp;#149; Transfer between [S] trains and [SB] buses at Beach 67 St.
 &lt;br&gt;
 &lt;br&gt;&lt;table class=plannedworkTableStyle  border=1 cellspacing=1 cellpadding=5 rules=none frame=box&gt;&lt;td&gt;&amp;nbsp;&amp;nbsp;[ad]&amp;nbsp;&amp;nbsp;&lt;td&gt;&lt;font size=1&gt;This service change affects one or more ADA accessible stations. Please call 511 for help with planning&lt;br&gt;your trip. If you are deaf or hard of hearing, use your preferred relay service provider or the free 711 relay.&amp;nbsp;&amp;nbsp;&lt;/font&gt;&lt;/table&gt;
 &lt;br&gt;&lt;b&gt;
@@ -136,7 +178,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>01/26/2016</Date>
-    <Time>10:12AM</Time>
+    <Time>10:22AM</Time>
   </line>
   <line>
     <name>SIR</name>
@@ -152,7 +194,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>01/26/2016</Date>
-    <Time>10:12AM</Time>
+    <Time>10:22AM</Time>
   </line>
 </subway><bus>
   <line>
@@ -486,8 +528,32 @@
   </line>
   <line>
     <name>Q1 - Q113</name>
-    <status>DELAYS</status>
+    <status>SERVICE CHANGE</status>
     <text>
+                  &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                  &lt;span class="DateStyle"&gt;
+                  &amp;nbsp;Posted:&amp;nbsp;01/26/2016&amp;nbsp;10:22AM
+                  &lt;/span&gt;
+                  &lt;br/&gt;
+                  &lt;br/&gt;
+                &lt;P&gt;&lt;STRONG&gt;Q23 &lt;/STRONG&gt;buses are detoured due to hazardous road conditions. &lt;BR&gt;&lt;BR&gt;Detour is as follows:&lt;BR&gt;&lt;BR&gt;&lt;STRONG&gt;Northbound:&lt;/STRONG&gt; Via 71 Av, left on Metropolitan Av, right on Woodhaven Blvd, right on Yellowstone Blvd, continue straight on Yellowstone Blvd onto Jewel Av, left on 108 St, continue on 108 St cross Astoria Blvd, left on Ditmars Blvd and regular route.&lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;Southbound:&lt;/STRONG&gt; Via Ditmars Blvd, right on 31 Dr into 108 St, right on Queens Blvd, left on Yellowstone Blvd, left on Woodhaven Blvd and regular route.&lt;/P&gt;
+&lt;P&gt;Corresponding stops will be made along detoured route.&lt;/P&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
+                  &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                  &lt;span class="DateStyle"&gt;
+                  &amp;nbsp;Posted:&amp;nbsp;01/26/2016&amp;nbsp;10:22AM
+                  &lt;/span&gt;
+                  &lt;br/&gt;
+                  &lt;br/&gt;
+                &lt;P&gt;&lt;STRONG&gt;Q25&lt;/STRONG&gt; buses are detoured due to road conditions.&lt;BR&gt;&lt;BR&gt;&lt;STRONG&gt;Northbound:&lt;/STRONG&gt; Via 130 St, continue past 23 Av to 14 Av, left on 14 Av, right on 127 St and regular route.&lt;/P&gt;
+&lt;P&gt;Corresponding stops will be made along detoured route.&lt;/P&gt;
+&lt;P&gt;Allow additional travel time. &lt;BR&gt;&lt;BR&gt;&lt;/P&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
                   &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                   &lt;span class="DateStyle"&gt;
                   &amp;nbsp;Posted:&amp;nbsp;01/26/2016&amp;nbsp;10:21AM
@@ -556,30 +622,6 @@
                   &lt;br/&gt;
                 &lt;P&gt;&lt;STRONG&gt;Q38&lt;/STRONG&gt; buses are detoured due to hazardous road conditions. &lt;BR&gt;&lt;BR&gt;Detour is as follows:&lt;BR&gt;&lt;BR&gt;&lt;STRONG&gt;108 St-62 Dr-bound:&lt;/STRONG&gt; Via Otis Av, right on 99 St, left on 57 Av and regular route to 69 St. right on 69 St from Metropolitan Av, right on Juniper Blvd South, right on 80 St into Furmanville Av, left on Woodhaven Blvd, right on 63 Dr and regular route.&lt;/P&gt;
 &lt;P&gt;&lt;STRONG&gt;Otis Av-bound:&lt;/STRONG&gt; Via 63 Dr, left on Woodhaven Blvd, right on Furmanville Av into 80 St, left on Juniper Blvd South, left on 69 St and regular route to 57 Av, right on 99 St and the last/first stop will be 99 St and Horace Harding Expy.&lt;/P&gt;
-&lt;P&gt;Corresponding stops will be made along detoured route.&lt;/P&gt;
-              &lt;br/&gt;
-              &lt;br/&gt;
-            
-                  &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
-                  &lt;span class="DateStyle"&gt;
-                  &amp;nbsp;Posted:&amp;nbsp;01/26/2016&amp;nbsp; 8:03AM
-                  &lt;/span&gt;
-                  &lt;br/&gt;
-                  &lt;br/&gt;
-                &lt;P&gt;&lt;STRONG&gt;Q25&lt;/STRONG&gt; buses are detoured due to road conditions.&lt;BR&gt;&lt;BR&gt;&lt;STRONG&gt;Northbound:&lt;/STRONG&gt; Via 130 St, continue past 23 Av to 14 Av, left on 14 Av, right on 127 St and regular route.&lt;/P&gt;
-&lt;P&gt;Corresponding stops will be made along detoured route.&lt;/P&gt;
-&lt;P&gt;Allow additional travel time. &lt;BR&gt;&lt;BR&gt;&lt;/P&gt;
-              &lt;br/&gt;
-              &lt;br/&gt;
-            
-                  &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
-                  &lt;span class="DateStyle"&gt;
-                  &amp;nbsp;Posted:&amp;nbsp;01/26/2016&amp;nbsp; 7:58AM
-                  &lt;/span&gt;
-                  &lt;br/&gt;
-                  &lt;br/&gt;
-                &lt;P&gt;&lt;STRONG&gt;Q23 &lt;/STRONG&gt;buses are detoured due to hazardous road conditions. &lt;BR&gt;&lt;BR&gt;Detour is as follows:&lt;BR&gt;&lt;BR&gt;&lt;STRONG&gt;Northbound:&lt;/STRONG&gt; Via 71 Av, left on Metropolitan Av, right on Woodhaven Blvd, right on Yellowstone Blvd, continue straight on Yellowstone Blvd onto Jewel Av, left on 108 St, continue on 108 St cross Astoria Blvd, left on Ditmars Blvd and regular route.&lt;/P&gt;
-&lt;P&gt;&lt;STRONG&gt;Southbound:&lt;/STRONG&gt; Via Ditmars Blvd, right on 31 Dr into 108 St, right on Queens Blvd, left on Yellowstone Blvd, left on Woodhaven Blvd and regular route.&lt;/P&gt;
 &lt;P&gt;Corresponding stops will be made along detoured route.&lt;/P&gt;
               &lt;br/&gt;
               &lt;br/&gt;
@@ -682,7 +724,7 @@
               &lt;br/&gt;
             </text>
     <Date>01/26/2016</Date>
-    <Time>10:21AM</Time>
+    <Time>10:22AM</Time>
   </line>
   <line>
     <name>QM1 - QM25</name>
@@ -770,7 +812,7 @@
               &lt;br/&gt;
             </text>
     <Date>01/26/2016</Date>
-    <Time>10:12AM</Time>
+    <Time>10:22AM</Time>
   </line>
 </bus><BT>
   <line>
