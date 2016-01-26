@@ -30,6 +30,26 @@
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
                   Following an earlier incident at &lt;STRONG&gt;36 St&lt;/STRONG&gt; (Queens), [E], [F], [M] and [R] train service has resumed with residual delays.
                 &lt;br/&gt;&lt;br/&gt;
+              
+                    &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
+                    &lt;br/&gt;
+                  &lt;a class="plannedWorkDetailLink" onclick=ShowHide(117095);&gt;
+&lt;b&gt;[A] No trains between Howard Beach-JFK and Mott Av
+&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 117095 class="plannedWorkDetail" &gt;[S] No trains between Broad Channel and Beach 116 St
+&lt;br&gt;[S] Shuttle train and [SB] free shuttle buses provide alternate service
+&lt;br&gt;&lt;/b&gt;Days, 10:00 AM to 3 PM, Tue and Wed, Jan 26 - 27
+&lt;br&gt;
+&lt;br&gt;[A] Service operates between &lt;b&gt;207 St&lt;/b&gt; and &lt;b&gt;Lefferts Blvd/Howard Beach-JFK AIrport
+&lt;br&gt;&lt;/b&gt;[S] service operates between &lt;b&gt;Howard Beach-JFK Airport&lt;/b&gt; and &lt;b&gt;Mott Av.
+&lt;br&gt;&lt;/b&gt; &amp;#149; Transfer between [A] and [S] trains at Howard Beach-JFK Airport to continue your trip.
+&lt;br&gt;
+&lt;br&gt;[SB] buses run between &lt;b&gt;Beach 67 St [A]&lt;/b&gt; and &lt;b&gt;Beach 116 St&lt;/b&gt;, stopping at &lt;b&gt;Beach 90&lt;/b&gt;, &lt;b&gt;Beach 98 &lt;/b&gt;and &lt;b&gt;Beach 105 Sts&lt;/b&gt;.
+&lt;br&gt; &amp;#149; Transfer between [S] trains and shuttle buses at Beach 67 St.
+&lt;br&gt;
+&lt;br&gt;&lt;table class=plannedworkTableStyle  border=1 cellspacing=1 cellpadding=5 rules=none frame=box&gt;&lt;td&gt;&amp;nbsp;&amp;nbsp;[ad]&amp;nbsp;&amp;nbsp;&lt;td&gt;&lt;font size=1&gt;This service change affects one or more ADA accessible stations. Please call 511 for help with planning&lt;br&gt;your trip. If you are deaf or hard of hearing, use your preferred relay service provider or the free 711 relay.&amp;nbsp;&amp;nbsp;&lt;/font&gt;&lt;/table&gt;
+&lt;br&gt;&lt;b&gt;
+&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+                &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>01/26/2016</Date>
     <Time> 9:53AM</Time>
@@ -93,10 +113,30 @@
   </line>
   <line>
     <name>S</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>PLANNED WORK</status>
+    <text>
+                    &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
+                    &lt;br/&gt;
+                  &lt;a class="plannedWorkDetailLink" onclick=ShowHide(117095);&gt;
+&lt;b&gt;[A] No trains between Howard Beach-JFK and Mott Av
+&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 117095 class="plannedWorkDetail" &gt;[S] No trains between Broad Channel and Beach 116 St
+&lt;br&gt;[S] Shuttle train and [SB] free shuttle buses provide alternate service
+&lt;br&gt;&lt;/b&gt;Days, 10:00 AM to 3 PM, Tue and Wed, Jan 26 - 27
+&lt;br&gt;
+&lt;br&gt;[A] Service operates between &lt;b&gt;207 St&lt;/b&gt; and &lt;b&gt;Lefferts Blvd/Howard Beach-JFK AIrport
+&lt;br&gt;&lt;/b&gt;[S] service operates between &lt;b&gt;Howard Beach-JFK Airport&lt;/b&gt; and &lt;b&gt;Mott Av.
+&lt;br&gt;&lt;/b&gt; &amp;#149; Transfer between [A] and [S] trains at Howard Beach-JFK Airport to continue your trip.
+&lt;br&gt;
+&lt;br&gt;[SB] buses run between &lt;b&gt;Beach 67 St [A]&lt;/b&gt; and &lt;b&gt;Beach 116 St&lt;/b&gt;, stopping at &lt;b&gt;Beach 90&lt;/b&gt;, &lt;b&gt;Beach 98 &lt;/b&gt;and &lt;b&gt;Beach 105 Sts&lt;/b&gt;.
+&lt;br&gt; &amp;#149; Transfer between [S] trains and shuttle buses at Beach 67 St.
+&lt;br&gt;
+&lt;br&gt;&lt;table class=plannedworkTableStyle  border=1 cellspacing=1 cellpadding=5 rules=none frame=box&gt;&lt;td&gt;&amp;nbsp;&amp;nbsp;[ad]&amp;nbsp;&amp;nbsp;&lt;td&gt;&lt;font size=1&gt;This service change affects one or more ADA accessible stations. Please call 511 for help with planning&lt;br&gt;your trip. If you are deaf or hard of hearing, use your preferred relay service provider or the free 711 relay.&amp;nbsp;&amp;nbsp;&lt;/font&gt;&lt;/table&gt;
+&lt;br&gt;&lt;b&gt;
+&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>01/26/2016</Date>
+    <Time>10:02AM</Time>
   </line>
   <line>
     <name>SIR</name>
@@ -112,7 +152,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>01/26/2016</Date>
-    <Time> 9:52AM</Time>
+    <Time>10:02AM</Time>
   </line>
 </subway><bus>
   <line>
@@ -704,7 +744,7 @@
               &lt;br/&gt;
             </text>
     <Date>01/26/2016</Date>
-    <Time> 9:52AM</Time>
+    <Time>10:02AM</Time>
   </line>
 </bus><BT>
   <line>
@@ -987,31 +1027,17 @@
 </LIRR><MetroNorth>
   <line>
     <name>Hudson</name>
-    <status>DELAYS</status>
-    <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;01/26/2016&amp;nbsp; 9:24AM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  Customers continue to experience residual delays of 5 to 15 minutes traveling into and out of Grand Central Terminal due to an earlier signal issue at Harlem-125th Street. Please listen for announcements at your station.
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>01/26/2016</Date>
-    <Time> 9:24AM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>Harlem</name>
-    <status>DELAYS</status>
-    <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;01/26/2016&amp;nbsp; 9:24AM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  Customers continue to experience residual delays of 5 to 15 minutes traveling into and out of Grand Central Terminal due to an earlier signal issue at Harlem-125th Street. Please listen for announcements at your station.
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>01/26/2016</Date>
-    <Time> 9:24AM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>Wassaic</name>
@@ -1026,27 +1052,20 @@
     <text>
                     &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;01/26/2016&amp;nbsp; 9:24AM
+                    &amp;nbsp;Posted:&amp;nbsp;01/26/2016&amp;nbsp;10:03AM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  Customers continue to experience residual delays of 5 to 15 minutes traveling into and out of Grand Central Terminal due to an earlier signal issue at Harlem-125th Street. Please listen for announcements at your station.
+                  &lt;SPAN style="TEXT-ALIGN: left; WIDOWS: 1; TEXT-TRANSFORM: none; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; DISPLAY: inline !important; FONT: 12px/16px 'Segoe UI', Arial, Helvetica, sans-serif; WHITE-SPACE: normal; FLOAT: none; LETTER-SPACING: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px"&gt;New Haven Line customers are currently experiencing scattered residual delays of 5 to 15 minutes due to an earlier signal issue at Harlem 125th Street. Please listen for announcements at your station&lt;/SPAN&gt;
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>01/26/2016</Date>
-    <Time> 9:24AM</Time>
+    <Time>10:03AM</Time>
   </line>
   <line>
     <name>New Canaan</name>
-    <status>DELAYS</status>
-    <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;01/26/2016&amp;nbsp; 9:28AM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  &lt;SPAN style="TEXT-ALIGN: left; WIDOWS: 1; TEXT-TRANSFORM: none; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; DISPLAY: inline !important; FONT: 12px/16px 'Segoe UI', Arial, Helvetica, sans-serif; WHITE-SPACE: normal; FLOAT: none; LETTER-SPACING: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px"&gt;New Canaan Branch customers should anticipate delays of 10 to 20 minutes due to main line congestion. Please listen for announcements at your station.&lt;/SPAN&gt;
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>01/26/2016</Date>
-    <Time> 9:28AM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>Danbury</name>
