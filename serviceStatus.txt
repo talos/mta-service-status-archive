@@ -814,10 +814,17 @@ cross-honored by NYC Transit on "2" &amp; "3" trains to Brooklyn.
   </line>
   <line>
     <name>Ronkonkoma</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>DELAYS</status>
+    <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;01/26/2016&amp;nbsp; 4:35AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  The 3:15AM train from Penn due Ronkonkoma at 4:37AM is operating 23 minutes late after being held to accommodate a westbound train in single-track territory.
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>01/26/2016</Date>
+    <Time> 4:35AM</Time>
   </line>
   <line>
     <name>West Hempstead</name>
