@@ -1,39 +1,38 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>SERVICE CHANGE</status>
+    <status>DELAYS</status>
     <text>
-                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;01/26/2016&amp;nbsp; 6:14AM
+                    &amp;nbsp;Posted:&amp;nbsp;01/26/2016&amp;nbsp; 7:13AM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  Due to &lt;STRONG&gt;NYCT Cold Weather Plan&lt;/STRONG&gt;, northbound [2] and [3] trains are running local from 14 St to Times Sq-42 St.&lt;BR&gt;&lt;BR&gt;Allow additional travel time.  
+                  Northbound [2] and [3] trains resumed express service from 14 St to Times Sq-42 St.
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>01/26/2016</Date>
-    <Time> 6:14AM</Time>
+    <Time> 7:13AM</Time>
   </line>
   <line>
     <name>456</name>
-    <status>SERVICE CHANGE</status>
+    <status>DELAYS</status>
     <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;01/26/2016&amp;nbsp; 7:14AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  Northbound [4] and [5] trains resumed express service from Grand Central-42 St to 125 St
+                &lt;br/&gt;&lt;br/&gt;
+              
                     &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
                     &amp;nbsp;Posted:&amp;nbsp;01/26/2016&amp;nbsp; 7:05AM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
                   Due to NYCT Cold Weather Plan, there are no southbound [6D] express trains.&lt;BR&gt;&lt;BR&gt;Allow additional travel time.
                 &lt;br/&gt;&lt;br/&gt;
-              
-                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;01/26/2016&amp;nbsp; 6:13AM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  &lt;P&gt;Due to&lt;STRONG&gt; NYCT Cold Weather Plan&lt;/STRONG&gt;, northbound [4] and [5] trains are running local from &lt;STRONG&gt;Grand Central-42 St&lt;/STRONG&gt; to &lt;STRONG&gt;125 St.&lt;/STRONG&gt;&lt;/P&gt;
-&lt;P&gt;Allow additional travel time. &lt;/P&gt;
-                &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>01/26/2016</Date>
-    <Time> 7:05AM</Time>
+    <Time> 7:14AM</Time>
   </line>
   <line>
     <name>7</name>
@@ -863,38 +862,73 @@
 </BT><LIRR>
   <line>
     <name>Babylon</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>DELAYS</status>
+    <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;01/26/2016&amp;nbsp; 7:12AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;STRONG&gt;The LIRR is experiencing scattered delays averaging 10 minutes between Jamaica and Penn Station due to ongoing effects of this weekend's blizzard.&lt;/STRONG&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>01/26/2016</Date>
+    <Time> 7:12AM</Time>
   </line>
   <line>
     <name>City Terminal Zone</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>DELAYS</status>
+    <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;01/26/2016&amp;nbsp; 7:12AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;STRONG&gt;The LIRR is experiencing scattered delays averaging 10 minutes between Jamaica and Penn Station due to ongoing effects of this weekend's blizzard.&lt;/STRONG&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>01/26/2016</Date>
+    <Time> 7:12AM</Time>
   </line>
   <line>
     <name>Far Rockaway</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>DELAYS</status>
+    <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;01/26/2016&amp;nbsp; 7:12AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;STRONG&gt;The LIRR is experiencing scattered delays averaging 10 minutes between Jamaica and Penn Station due to ongoing effects of this weekend's blizzard.&lt;/STRONG&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>01/26/2016</Date>
+    <Time> 7:12AM</Time>
   </line>
   <line>
     <name>Hempstead</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>DELAYS</status>
+    <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;01/26/2016&amp;nbsp; 7:12AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;STRONG&gt;The LIRR is experiencing scattered delays averaging 10 minutes between Jamaica and Penn Station due to ongoing effects of this weekend's blizzard.&lt;/STRONG&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>01/26/2016</Date>
+    <Time> 7:12AM</Time>
   </line>
   <line>
     <name>Long Beach</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>DELAYS</status>
+    <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;01/26/2016&amp;nbsp; 7:12AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;STRONG&gt;The LIRR is experiencing scattered delays averaging 10 minutes between Jamaica and Penn Station due to ongoing effects of this weekend's blizzard.&lt;/STRONG&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>01/26/2016</Date>
+    <Time> 7:12AM</Time>
   </line>
   <line>
     <name>Montauk</name>
@@ -902,25 +936,39 @@
     <text>
                     &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;01/26/2016&amp;nbsp; 6:54AM
+                    &amp;nbsp;Posted:&amp;nbsp;01/26/2016&amp;nbsp; 7:12AM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  The 5:08AM train from Speonk due Penn at 7:02AM is operating 11 minutes late due to equipment trouble.
+                  &lt;STRONG&gt;The LIRR is experiencing scattered delays averaging 10 minutes between Jamaica and Penn Station due to ongoing effects of this weekend's blizzard.&lt;/STRONG&gt;
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>01/26/2016</Date>
-    <Time> 6:54AM</Time>
+    <Time> 7:12AM</Time>
   </line>
   <line>
     <name>Oyster Bay</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>DELAYS</status>
+    <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;01/26/2016&amp;nbsp; 7:12AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;STRONG&gt;The LIRR is experiencing scattered delays averaging 10 minutes between Jamaica and Penn Station due to ongoing effects of this weekend's blizzard.&lt;/STRONG&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>01/26/2016</Date>
+    <Time> 7:12AM</Time>
   </line>
   <line>
     <name>Port Jefferson</name>
     <status>DELAYS</status>
     <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;01/26/2016&amp;nbsp; 7:12AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;STRONG&gt;The LIRR is experiencing scattered delays averaging 10 minutes between Jamaica and Penn Station due to ongoing effects of this weekend's blizzard.&lt;/STRONG&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              
                     &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
                     &amp;nbsp;Posted:&amp;nbsp;01/26/2016&amp;nbsp; 6:55AM
@@ -929,19 +977,33 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>01/26/2016</Date>
-    <Time> 6:55AM</Time>
+    <Time> 7:12AM</Time>
   </line>
   <line>
     <name>Port Washington</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>DELAYS</status>
+    <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;01/26/2016&amp;nbsp; 7:12AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;STRONG&gt;The LIRR is experiencing scattered delays averaging 10 minutes between Jamaica and Penn Station due to ongoing effects of this weekend's blizzard.&lt;/STRONG&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>01/26/2016</Date>
+    <Time> 7:12AM</Time>
   </line>
   <line>
     <name>Ronkonkoma</name>
     <status>DELAYS</status>
     <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;01/26/2016&amp;nbsp; 7:12AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;STRONG&gt;The LIRR is experiencing scattered delays averaging 10 minutes between Jamaica and Penn Station due to ongoing effects of this weekend's blizzard.&lt;/STRONG&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              
                     &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
                     &amp;nbsp;Posted:&amp;nbsp;01/26/2016&amp;nbsp; 7:01AM
@@ -961,12 +1023,19 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>01/26/2016</Date>
-    <Time> 7:01AM</Time>
+    <Time> 7:12AM</Time>
   </line>
   <line>
     <name>West Hempstead</name>
-    <status>SERVICE CHANGE</status>
+    <status>DELAYS</status>
     <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;01/26/2016&amp;nbsp; 7:12AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;STRONG&gt;The LIRR is experiencing scattered delays averaging 10 minutes between Jamaica and Penn Station due to ongoing effects of this weekend's blizzard.&lt;/STRONG&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              
                     &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
                     &amp;nbsp;Posted:&amp;nbsp;01/26/2016&amp;nbsp; 5:33AM
@@ -975,7 +1044,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>01/26/2016</Date>
-    <Time> 5:33AM</Time>
+    <Time> 7:12AM</Time>
   </line>
 </LIRR><MetroNorth>
   <line>
