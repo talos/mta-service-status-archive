@@ -1,31 +1,17 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>DELAYS</status>
-    <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;01/26/2016&amp;nbsp; 5:01PM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  Following an earlier incident at &lt;STRONG&gt;Spring St&lt;/STRONG&gt;, [4] and [5] service has resumed with residual delays.
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>01/26/2016</Date>
-    <Time> 5:01PM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>456</name>
-    <status>DELAYS</status>
-    <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;01/26/2016&amp;nbsp; 5:01PM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  Following an earlier incident at &lt;STRONG&gt;Spring St&lt;/STRONG&gt;, [4] and [5] service has resumed with residual delays.
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>01/26/2016</Date>
-    <Time> 5:01PM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>7</name>
@@ -47,6 +33,13 @@
     <text>
                     &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;01/26/2016&amp;nbsp; 5:16PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;P&gt;NYC Transit Cold Weather Plan is in effect&lt;BR&gt;[B] train service is ending early.  &lt;BR&gt;The last [B] train is scheduled to leave Brighton Beach at 7:11 p.m.&lt;BR&gt;The last [B] train is scheduled to leave Bedford Park Blvd at 7:17 p.m.&lt;BR&gt;Please plan accordingly.&lt;BR&gt;As an alternative, customers are advised to use the [A], [C], [D] and [Q] trains instead. &lt;/P&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
                     &amp;nbsp;Posted:&amp;nbsp;01/26/2016&amp;nbsp; 4:19PM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
                   &lt;P&gt;Due to snow removal from tracks, [B] trains are running local between &lt;STRONG&gt;Prospect Park&lt;/STRONG&gt; to &lt;STRONG&gt;Brighton Beach &lt;/STRONG&gt;in&lt;STRONG&gt; &lt;/STRONG&gt;both&lt;STRONG&gt; &lt;/STRONG&gt;directions&lt;STRONG&gt;. &lt;/STRONG&gt;&lt;/P&gt;
@@ -55,7 +48,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>01/26/2016</Date>
-    <Time> 4:19PM</Time>
+    <Time> 5:16PM</Time>
   </line>
   <line>
     <name>G</name>
@@ -413,18 +406,8 @@
   </line>
   <line>
     <name>Q1 - Q113</name>
-    <status>DELAYS</status>
+    <status>SERVICE CHANGE</status>
     <text>
-                  &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                  &lt;span class="DateStyle"&gt;
-                  &amp;nbsp;Posted:&amp;nbsp;01/26/2016&amp;nbsp; 5:02PM
-                  &lt;/span&gt;
-                  &lt;br/&gt;
-                  &lt;br/&gt;
-                Following an earlier incident on Guy R Brewer Blvd, &lt;STRONG&gt;Q111&lt;/STRONG&gt;, &lt;STRONG&gt;Q113&lt;/STRONG&gt; &lt;STRONG&gt;LTD&lt;/STRONG&gt; and &lt;STRONG&gt;Q114&lt;/STRONG&gt; &lt;STRONG&gt;LTD&lt;/STRONG&gt; bus service has resumed with residual delays.
-              &lt;br/&gt;
-              &lt;br/&gt;
-            
                   &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
                   &lt;span class="DateStyle"&gt;
                   &amp;nbsp;Posted:&amp;nbsp;01/26/2016&amp;nbsp; 4:11PM
@@ -606,7 +589,7 @@
               &lt;br/&gt;
             </text>
     <Date>01/26/2016</Date>
-    <Time> 5:02PM</Time>
+    <Time> 4:11PM</Time>
   </line>
   <line>
     <name>QM1 - QM25</name>
@@ -1030,10 +1013,17 @@
   </line>
   <line>
     <name>Danbury</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>DELAYS</status>
+    <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;01/26/2016&amp;nbsp; 5:15PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  Danbury Branch Southbound customers should anticipate delays of 5 to 10 minutes due to earlier police activity in the vicinity of Merritt 7.  Please listen for announcements at your station.
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>01/26/2016</Date>
+    <Time> 5:15PM</Time>
   </line>
   <line>
     <name>Waterbury</name>
