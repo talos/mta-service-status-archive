@@ -120,8 +120,21 @@
 </subway><bus>
   <line>
     <name>B1 - B84</name>
-    <status>DELAYS</status>
+    <status>SERVICE CHANGE</status>
     <text>
+                  &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                  &lt;span class="DateStyle"&gt;
+                  &amp;nbsp;Posted:&amp;nbsp;01/25/2016&amp;nbsp;11:10PM
+                  &lt;/span&gt;
+                  &lt;br/&gt;
+                  &lt;br/&gt;
+                &lt;P&gt;&lt;STRONG&gt;B12 &lt;/STRONG&gt;buses are detoured westbound, due to Con Edison work on Bedford Av and Clarkson Av. &lt;/P&gt;
+&lt;P&gt;Detour is as follows:&lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;Westbound B12&lt;/STRONG&gt;:Via Clarkson Av, left on Bedford Av, right on Cato Av, right on Flatbush Av, left on Woodruff Av and regular route.&lt;/P&gt;
+&lt;P&gt;Allow additional travel time.&lt;/P&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
                   &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                   &lt;span class="DateStyle"&gt;
                   &amp;nbsp;Posted:&amp;nbsp;01/25/2016&amp;nbsp;10:56PM
@@ -130,19 +143,6 @@
                   &lt;br/&gt;
                 &lt;P&gt;All Brooklyn local and express buses are running with delays due to heavy traffic and snow build up. &lt;BR&gt;&lt;BR&gt;Brooklyn limited buses are not running. &lt;/P&gt;
 &lt;P&gt;Allow additional travel time. &lt;/P&gt;
-              &lt;br/&gt;
-              &lt;br/&gt;
-            
-                  &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
-                  &lt;span class="DateStyle"&gt;
-                  &amp;nbsp;Posted:&amp;nbsp;01/25/2016&amp;nbsp;10:25PM
-                  &lt;/span&gt;
-                  &lt;br/&gt;
-                  &lt;br/&gt;
-                &lt;P&gt;&lt;STRONG&gt;B12 &lt;/STRONG&gt;buses are detoured westbound, due to Con Edison work on Bedford Av and Clarkson Av. &lt;/P&gt;
-&lt;P&gt;Detour is as follows:&lt;/P&gt;
-&lt;P&gt;&lt;STRONG&gt;Westbound B12&lt;/STRONG&gt;:Via Clarkson Av, left on Bedford Av, right on Cato Av, right on Flatbush Av, left on Woodruff Av and regular route.&lt;/P&gt;
-&lt;P&gt;Allow additional travel time.&lt;/P&gt;
               &lt;br/&gt;
               &lt;br/&gt;
             
@@ -187,7 +187,7 @@
               &lt;br/&gt;
             </text>
     <Date>01/25/2016</Date>
-    <Time>10:56PM</Time>
+    <Time>11:10PM</Time>
   </line>
   <line>
     <name>B100 - B103</name>
@@ -1250,10 +1250,17 @@
   </line>
   <line>
     <name>Danbury</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>DELAYS</status>
+    <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;01/25/2016&amp;nbsp;11:11PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  Danbury Branch Southbound Service is currently experiencing delays of 10 to 15 minutes due to speed restrictions. Please listen for announcements at your station.
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>01/25/2016</Date>
+    <Time>11:11PM</Time>
   </line>
   <line>
     <name>Waterbury</name>
