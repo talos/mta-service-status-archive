@@ -1,10 +1,18 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>SERVICE CHANGE</status>
+    <text>
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;01/27/2016&amp;nbsp; 2:22AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;P&gt;Due to track maintenance at &lt;STRONG&gt;72 St&lt;/STRONG&gt;, southbound [1] and [2] trains are running express from &lt;STRONG&gt;72 St&lt;/STRONG&gt; to &lt;STRONG&gt;Times Sq-42 St&lt;/STRONG&gt;. &lt;/P&gt;
+&lt;P&gt;Allow additional travel time.&lt;/P&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>01/27/2016</Date>
+    <Time> 2:22AM</Time>
   </line>
   <line>
     <name>456</name>
@@ -61,7 +69,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>01/27/2016</Date>
-    <Time> 2:12AM</Time>
+    <Time> 2:22AM</Time>
   </line>
   <line>
     <name>G</name>
@@ -108,7 +116,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>01/27/2016</Date>
-    <Time> 2:12AM</Time>
+    <Time> 2:22AM</Time>
   </line>
   <line>
     <name>L</name>
@@ -439,7 +447,7 @@
               &lt;br/&gt;
             </text>
     <Date>01/27/2016</Date>
-    <Time> 2:12AM</Time>
+    <Time> 2:22AM</Time>
   </line>
   <line>
     <name>QM1 - QM25</name>
@@ -505,7 +513,7 @@
               &lt;br/&gt;
             </text>
     <Date>01/27/2016</Date>
-    <Time> 2:12AM</Time>
+    <Time> 2:22AM</Time>
   </line>
 </bus><BT>
   <line>
