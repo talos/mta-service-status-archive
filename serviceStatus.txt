@@ -1,46 +1,176 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>PLANNED WORK</status>
+    <text>
+                    &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
+                    &lt;br/&gt;
+                  &lt;a class="plannedWorkDetailLink" onclick=ShowHide(117202);&gt;
+&lt;b&gt;[2] Flatbush Av-bound trains skip Christopher, Houston, Canal and Franklin Sts
+&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 117202 class="plannedWorkDetail" &gt;&lt;/b&gt;Late Nights, 12:01 AM to 5 AM, Thu &lt;i&gt;and&lt;/i&gt; Fri, Jan 28 - 29  
+&lt;br&gt;
+&lt;br&gt;For service &lt;i&gt;to&lt;/i&gt; these stations, take the [2] to Chambers St and transfer to an uptown [1] or [2] &lt;i&gt;local&lt;/i&gt;.
+&lt;br&gt;
+&lt;br&gt;For service&lt;i&gt; from&lt;/i&gt; these stations, take the [1] or [2] to 14 St and transfer to a Flatbush Av-bound [2].
+&lt;br&gt;&lt;/font&gt;&lt;b&gt;
+&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              
+                    &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
+                    &lt;br/&gt;
+                  &lt;a class="plannedWorkDetailLink" onclick=ShowHide(117201);&gt;
+&lt;b&gt;[1] South Ferry-bound trains skip Christopher, Houston, Canal and Franklin Sts
+&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 117201 class="plannedWorkDetail" &gt;&lt;/b&gt;Late Nights, 11:45 PM to 5 AM, Wed to Fri, Jan 27 - 29
+&lt;br&gt;                      
+&lt;br&gt;For service &lt;i&gt;to&lt;/i&gt; these stations, take the [1] to Chambers St and transfer to an uptown [1] or [2] &lt;i&gt;local&lt;/i&gt;.
+&lt;br&gt;
+&lt;br&gt;For service &lt;i&gt;from&lt;/i&gt; these stations, take the [1] or [2] to 14 St and transfer to a South Ferry-bound [1].
+&lt;br&gt;&lt;/font&gt;&lt;b&gt;
+&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>01/28/2016</Date>
+    <Time> 1:22AM</Time>
   </line>
   <line>
     <name>456</name>
-    <status>DELAYS</status>
-    <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;01/27/2016&amp;nbsp; 6:31AM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  &lt;P&gt;Due to signal problems at &lt;STRONG&gt;Bleecker St&lt;/STRONG&gt;, southbound [6] trains are running with delays.&lt;/P&gt;
-&lt;P&gt;Allow additional travel time.&lt;/P&gt;
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>01/27/2016</Date>
-    <Time> 6:31AM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>7</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>PLANNED WORK</status>
+    <text>
+                    &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
+                    &lt;br/&gt;
+                  &lt;a class="plannedWorkDetailLink" onclick=ShowHide(115076);&gt;
+&lt;b&gt;[7] Hudson Yards-bound trains skip 111, 103, 90, 82, 74, 69, 52, 46, 40 and 33 Sts
+&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 115076 class="plannedWorkDetail" &gt;&lt;/b&gt;Late Nights, 11:45 PM to 5 AM, Wed to Fri, Jan 27 - 29
+&lt;br&gt;
+&lt;br&gt;&lt;/font&gt;For service&lt;i&gt; to&lt;/i&gt; these stations, take the &lt;b&gt;[7]&lt;/b&gt; to Junction Blvd, 61 St or Queensboro Plaza 
+&lt;br&gt;and transfer to a Flushing-bound &lt;b&gt;[7]&lt;/b&gt;.
+&lt;br&gt;
+&lt;br&gt;For service &lt;i&gt;from&lt;/i&gt; these stations, take the &lt;b&gt;[7]&lt;/b&gt; to 61 St, Junction Blvd or Willets Point 
+&lt;br&gt;and transfer to a Hudson Yards-bound &lt;b&gt;[7]&lt;/b&gt;.
+&lt;br&gt;
+&lt;br&gt;&lt;table class=plannedworkTableStyle  border=1 cellspacing=1 cellpadding=5 rules=none frame=box&gt;&lt;td&gt;&amp;nbsp;&amp;nbsp;[ad]&amp;nbsp;&amp;nbsp;&lt;td&gt;&lt;font size=1&gt;This service change affects one or more ADA accessible stations. Please call 511 for help with planning&lt;br&gt;your trip. If you are deaf or hard of hearing, use your preferred relay service provider or the free 711 relay.&amp;nbsp;&amp;nbsp;&lt;/font&gt;&lt;/table&gt;
+&lt;br&gt;&lt;b&gt;
+&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>01/28/2016</Date>
+    <Time> 1:22AM</Time>
   </line>
   <line>
     <name>ACE</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>PLANNED WORK</status>
+    <text>
+                    &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
+                    &lt;br/&gt;
+                  &lt;a class="plannedWorkDetailLink" onclick=ShowHide(115118);&gt;
+&lt;b&gt;[E] World Trade Center-bound trains skip 23 St and Spring St
+&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 115118 class="plannedWorkDetail" &gt;&lt;/b&gt;Late Nights, 11:45 PM to 5 AM, Wed to Fri, Jan 27 - 29
+&lt;br&gt;
+&lt;br&gt;&lt;/font&gt;For service &lt;i&gt;to&lt;/i&gt; these stations, take the [E] to 14 St or Canal St and transfer
+&lt;br&gt;to an uptown [A] or [E].
+&lt;br&gt;
+&lt;br&gt;For service&lt;i&gt; from&lt;/i&gt; these stations, take the [A] or [E] to W 4 St or 34 St
+&lt;br&gt;and transfer to a downtown [A] or [E].
+&lt;br&gt;&lt;b&gt;
+&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              
+                    &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
+                    &lt;br/&gt;
+                  &lt;a class="plannedWorkDetailLink" onclick=ShowHide(115459);&gt;
+&lt;b&gt;[A] Ozone Park/Far Rockaway-bound trains skip 163 St, 155 St and 135 St
+&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 115459 class="plannedWorkDetail" &gt;&lt;/b&gt;Late Nights, 11:45 PM to 5 AM, Wed to Fri, Jan 27 - 29  &amp;#149;  Mon to Fri, Feb 1 - 5   
+&lt;br&gt;
+&lt;br&gt;For service &lt;i&gt;to&lt;/i&gt; these stations, take the [A] to 145 St or 125 St 
+&lt;br&gt;and transfer to an uptown [A].
+&lt;br&gt;
+&lt;br&gt;For service &lt;i&gt;from&lt;/i&gt; these stations, take the [A] to 145 St or 168 St 
+&lt;br&gt;and transfer to an &lt;/font&gt;Ozone Park/Far Rockaway-bound [A].
+&lt;br&gt;
+&lt;br&gt;&lt;b&gt;Note: &lt;/b&gt;This service change is scheduled for weeknights until Feb 26.
+&lt;br&gt;&lt;/font&gt;&lt;b&gt;
+&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              
+                    &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
+                    &lt;br/&gt;
+                  &lt;a class="plannedWorkDetailLink" onclick=ShowHide(115121);&gt;
+&lt;b&gt;[A] Ozone Park/Far Rockaway-bound trains skip 50 St, 23 St and Spring St
+&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 115121 class="plannedWorkDetail" &gt;&lt;/b&gt;Late Nights, 11:45 PM to 5 AM, Wed to Fri, Jan 27 - 29
+&lt;br&gt;
+&lt;br&gt;For service &lt;i&gt;to&lt;/i&gt; these stations, take the [A] to 42 St, 14 St or Canal St and transfer
+&lt;br&gt;to an uptown [A] or [E].
+&lt;br&gt;
+&lt;br&gt;&lt;/font&gt;For service &lt;i&gt;from&lt;/i&gt; 50 St, take the &lt;b&gt;[E]&lt;/b&gt; to 42 St and transfer to the &lt;b&gt;[A]&lt;/b&gt;.
+&lt;br&gt;
+&lt;br&gt;For service &lt;i&gt;from&lt;/i&gt; 23 and Spring Sts, take the &lt;b&gt;[A]&lt;/b&gt; or &lt;b&gt;[E]&lt;/b&gt; to W 4 St or 34 St and transfer to an 
+&lt;br&gt;Ozone Park/Far Rockaway-bound &lt;b&gt;[A]&lt;/b&gt;.
+&lt;br&gt;
+&lt;br&gt;&lt;/font&gt;&lt;table class=plannedworkTableStyle  border=1 cellspacing=1 cellpadding=5 rules=none frame=box&gt;&lt;td&gt;&amp;nbsp;&amp;nbsp;[ad]&amp;nbsp;&amp;nbsp;&lt;td&gt;&lt;font size=1&gt;This service change affects one or more ADA accessible stations. Please call 511 for help with planning&lt;br&gt;your trip. If you are deaf or hard of hearing, use your preferred relay service provider or the free 711 relay.&amp;nbsp;&amp;nbsp;&lt;/font&gt;&lt;/table&gt;
+&lt;br&gt;&lt;b&gt;
+&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>01/28/2016</Date>
+    <Time> 1:22AM</Time>
   </line>
   <line>
     <name>BDFM</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>PLANNED WORK</status>
+    <text>
+                    &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
+                    &lt;br/&gt;
+                  &lt;a class="plannedWorkDetailLink" onclick=ShowHide(115136);&gt;
+&lt;b&gt;[F] Trains run local in both directions between 21 St-Queensbridge and 71 Av
+&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 115136 class="plannedWorkDetail" &gt;&lt;/b&gt;Late Nights, 10 PM to 5 AM, Tue to Fri, &lt;/font&gt;Jan 26 - 29
+&lt;br&gt;
+&lt;br&gt;Trains stop at 36, Steinway, 46 Sts, Northern Blvd, 65 St, Roosevelt, Elmhurst, Grand Avs,
+&lt;br&gt;Woodhaven Blvd, 63 Dr and 67 Av.
+&lt;br&gt;
+&lt;br&gt;&lt;/font&gt;&amp;#149; Please allow additional travel time.
+&lt;br&gt;&lt;b&gt;
+&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              
+                    &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
+                    &lt;br/&gt;
+                  &lt;a class="plannedWorkDetailLink" onclick=ShowHide(115138);&gt;
+&lt;b&gt;[F]&lt;/b&gt; &lt;b&gt;Coney Island-bound trains skip 23 St and 14 St
+&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 115138 class="plannedWorkDetail" &gt;&lt;/b&gt;Late Nights, 10:45 PM to 5 AM, Tue to Fri, &lt;/font&gt;Jan 26 - 29
+&lt;br&gt;
+&lt;br&gt;For service&lt;i&gt; to&lt;/i&gt; these stations, take the [F] to W 4 St and transfer
+&lt;br&gt;to a Jamaica-bound [F].
+&lt;br&gt;
+&lt;br&gt;For service &lt;i&gt;from&lt;/i&gt; these stations, take the [F] to 34 St-Herald Sq
+&lt;br&gt;and transfer to a Coney Island-bound [F].
+&lt;br&gt;&lt;b&gt;
+&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              
+                    &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
+                    &lt;br/&gt;
+                  &lt;a class="plannedWorkDetailLink" onclick=ShowHide(115130);&gt;
+&lt;b&gt;[D]&lt;/b&gt; &lt;b&gt;Coney Island-bound trains skip 182-183 Sts, 174-175 Sts and 170 St
+&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 115130 class="plannedWorkDetail" &gt;&lt;/b&gt;Late Nights, 10:45 PM to 5 AM, Wed to Fri, Jan 27 - 29
+&lt;br&gt;
+&lt;br&gt;For service &lt;i&gt;to &lt;/i&gt;these stations, take the [D] to Tremont Av or 167 St and 
+&lt;br&gt;transfer to a Norwood-bound [D].
+&lt;br&gt;
+&lt;br&gt;For service &lt;i&gt;from &lt;/i&gt;these stations, take the [D] to Tremont Av or Fordham Rd and
+&lt;br&gt;transfer to a Coney Island-bound [D].
+&lt;br&gt;&lt;b&gt;
+&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>01/28/2016</Date>
+    <Time> 1:22AM</Time>
   </line>
   <line>
     <name>G</name>
@@ -51,10 +181,43 @@
   </line>
   <line>
     <name>JZ</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>PLANNED WORK</status>
+    <text>
+                    &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
+                    &lt;br/&gt;
+                  &lt;a class="plannedWorkDetailLink" onclick=ShowHide(114840);&gt;
+&lt;b&gt;[J] No trains between Hewes St and Essex St &lt;br clear=left&gt;&lt;font color=#000000&gt; &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/font&gt;No trains between Chambers St and Broad St
+&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 114840 class="plannedWorkDetail" &gt;[4] trains and [SB] free shuttle buses provide alternate service via the Williamsburg Bridge
+&lt;br&gt;&lt;/b&gt;Late Nights, 11:45 PM to 5 AM, Mon to Fri, until Feb 12  
+&lt;br&gt;
+&lt;br&gt;&lt;b&gt;[J]&lt;/b&gt; &lt;b&gt;service operates in two sections:
+&lt;br&gt;&lt;/b&gt;  1. Between &lt;b&gt;Jamaica Center&lt;/b&gt; and &lt;b&gt;Hewes St
+&lt;br&gt;&lt;/b&gt;  2. Between &lt;b&gt;Essex St&lt;/b&gt; and &lt;b&gt;Chambers St&lt;/b&gt;, &lt;i&gt;every 20 minutes
+&lt;br&gt;&lt;/i&gt;   
+&lt;br&gt;[SB] buses run between &lt;b&gt;Hewes St&lt;/b&gt; and &lt;b&gt;Essex St&lt;/b&gt;, stopping at &lt;b&gt;Marcy Av&lt;/b&gt;.
+&lt;br&gt;
+&lt;br&gt;&lt;table class=plannedworkTableStyle  width=70%&gt;&lt;tr&gt;&lt;td&gt;&lt;font size=3&gt;&lt;b&gt;Travel Alternatives&lt;/b&gt;&lt;/font&gt;&lt;td align=right&gt;[TP]&lt;/table&gt;
+&lt;br&gt;For service between &lt;b&gt;Brooklyn&lt;/b&gt; and &lt;b&gt;Manhattan&lt;/b&gt;, take a [SB] bus.
+&lt;br&gt;&amp;#149; Transfer between trains and [SB] buses at &lt;b&gt;Hewes St&lt;/b&gt; &lt;i&gt;and/or&lt;/i&gt; &lt;b&gt;Essex St&lt;/b&gt;.
+&lt;br&gt;
+&lt;br&gt;&lt;table class=plannedworkTableStyle  border=1 cellspacing=1 cellpadding=3 rules=rows frame=hsides&gt;&lt;tr bgcolor=#FAF8CC&gt;&lt;td&gt;&lt;b&gt;Station&lt;/b&gt;&lt;/td&gt;&lt;td&gt;&lt;b&gt;Available Service&lt;/b&gt;&lt;tr&gt;&lt;td&gt;Hewes St&lt;td&gt;[J]   |  &lt;/font&gt;[SB] on Broadway at Hooper St&lt;tr&gt;&lt;td&gt;Marcy Av&lt;td&gt;[SB] on Broadway at Marcy Av&lt;tr&gt;&lt;td&gt;Essex St&lt;td&gt; [J]   | &lt;/font&gt;  [SB] on Delancey St at Essex St&lt;/table&gt;
+&lt;br&gt;For &lt;a href=http://web.mta.info/weekender/tileMap.html?staID=18242 target=_blank&gt;&lt;font color=#0000FF&gt;&lt;b&gt;&lt;u&gt;&lt;/font&gt;Fulton St&lt;/u&gt;&lt;/b&gt;&lt;/font&gt;&lt;/a&gt; &lt;/font&gt;and &lt;b&gt;Broad St&lt;/b&gt;, take the [4] to &lt;a href=http://web.mta.info/weekender/tileMap.html?staID=10057 target=_blank&gt;&lt;font color=#0000FF&gt;&lt;b&gt;&lt;u&gt;&lt;/font&gt;nearby stations&lt;/u&gt;&lt;/b&gt;&lt;/font&gt;&lt;/a&gt;&lt;/font&gt;.  
+&lt;br&gt;&amp;#149; Transfer between [4] and [J] trains at Chambers St/Brooklyn Bridge.
+&lt;br&gt;
+&lt;br&gt;&lt;b&gt;&lt;i&gt;Alternate travel notes:
+&lt;br&gt;&lt;/b&gt;&lt;/i&gt;For service between Brooklyn and Manhattan:
+&lt;br&gt;&amp;#149; Take the [A] or [L] via transfer with the [J] at Broadway Junction.
+&lt;br&gt;
+&lt;br&gt;For Hewes and Lorimer Sts, use the [G] at nearby &lt;a href=http://web.mta.info/weekender/tileMap.html?staID=10288 target=_blank&gt;&lt;font color=#0000FF&gt;&lt;b&gt;&lt;u&gt;&lt;/font&gt;Broadway&lt;/u&gt;&lt;/b&gt;&lt;/font&gt;&lt;/a&gt;&lt;/font&gt;.
+&lt;br&gt;&amp;#149; Transfer between [G] [L] trains at Metropolitan Av/Lorimer St for service &lt;i&gt;to/from&lt;/i&gt; Manhattan.
+&lt;br&gt;
+&lt;br&gt;&lt;table class=plannedworkTableStyle  border=1 cellspacing=1 cellpadding=5 rules=none frame=box&gt;&lt;td&gt;&amp;nbsp;&amp;nbsp;[ad]&amp;nbsp;&amp;nbsp;&lt;td&gt;&lt;font size=1&gt;This service change affects one or more ADA accessible stations. Please call 511 for help with planning&lt;br&gt;your trip. If you are deaf or hard of hearing, use your preferred relay service provider or the free 711 relay.&amp;nbsp;&amp;nbsp;&lt;/font&gt;&lt;/table&gt;
+&lt;br&gt;&lt;b&gt;
+&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>01/28/2016</Date>
+    <Time> 1:22AM</Time>
   </line>
   <line>
     <name>L</name>
@@ -65,10 +228,34 @@
   </line>
   <line>
     <name>NQR</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>PLANNED WORK</status>
+    <text>
+                    &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
+                    &lt;br/&gt;
+                  &lt;a class="plannedWorkDetailLink" onclick=ShowHide(114349);&gt;
+&lt;b&gt;[N] No trains between Queensboro Plaza and Times Sq-42 St&lt;br clear=left&gt;[4] [6] [7] and [Q] trains provide alternate service
+&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 114349 class="plannedWorkDetail" &gt;&lt;/b&gt;Late Nights, 11:45 PM to 5 AM, Wed to Fri, Jan 27 - 29         
+&lt;br&gt;
+&lt;br&gt;&lt;/font&gt;&lt;b&gt;[N] service operates in two sections:
+&lt;br&gt;&lt;/b&gt;   1. Between &lt;b&gt;Ditmars Blvd&lt;/b&gt; and &lt;b&gt;Queensboro Plaza
+&lt;br&gt;&lt;/b&gt;   2. Between &lt;b&gt;Times Sq-42 St&lt;/b&gt; and &lt;b&gt;Stillwell Av
+&lt;br&gt;&lt;/b&gt;&lt;i&gt;     
+&lt;br&gt;&lt;/i&gt;&lt;table class=plannedworkTableStyle  width=75%&gt;&lt;tr&gt;&lt;td&gt;&lt;font size=3&gt;&lt;b&gt;Travel Alternatives&lt;/b&gt;&lt;/font&gt;&lt;td align=right&gt;[TP]&lt;/table&gt;
+&lt;br&gt;For service between Queens and Manhattan, take the [7] via transfer at
+&lt;br&gt; &lt;b&gt;Queensboro Plaza&lt;/b&gt; &lt;i&gt;and/or&lt;/i&gt; &lt;b&gt;Times Sq-42 St&lt;/b&gt;.
+&lt;br&gt;
+&lt;br&gt;For &lt;b&gt;Lexington Av/59 St &lt;/b&gt;and &lt;b&gt;5 Av/59 St&lt;/b&gt;, use the nearby 59 St&lt;/font&gt; [4] [5] [6] Station 
+&lt;br&gt;via the [7] at Grand Central-42 St or the [N] at 14 St-Union Sq.
+&lt;br&gt;
+&lt;br&gt;&lt;/font&gt;For &lt;b&gt;57 St-7 Av&lt;/b&gt; and &lt;b&gt;49 St&lt;/b&gt;, take the &lt;b&gt;[Q]&lt;/b&gt; via transfer at Times Sq-42 St.
+&lt;br&gt;
+&lt;br&gt;&lt;b&gt;Note:&lt;/b&gt; [N] trains board at the Manhattan-bound platform at Queensboro Plaza.
+&lt;br&gt;&lt;b&gt;
+&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>01/28/2016</Date>
+    <Time> 1:22AM</Time>
   </line>
   <line>
     <name>S</name>
@@ -87,24 +274,21 @@
 </subway><bus>
   <line>
     <name>B1 - B84</name>
-    <status>SERVICE CHANGE</status>
+    <status>DELAYS</status>
     <text>
-                  &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                  &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                   &lt;span class="DateStyle"&gt;
-                  &amp;nbsp;Posted:&amp;nbsp;01/27/2016&amp;nbsp; 7:14AM
+                  &amp;nbsp;Posted:&amp;nbsp;01/28/2016&amp;nbsp; 1:17AM
                   &lt;/span&gt;
                   &lt;br/&gt;
                   &lt;br/&gt;
-                &lt;P&gt;&lt;STRONG&gt;B67/69&lt;/STRONG&gt; buses are detoured, due to road work at Jay St and Front St. &lt;/P&gt;
-&lt;P&gt;Detour is as follows:&lt;/P&gt;
-&lt;P&gt;&lt;STRONG&gt;Northbound:&lt;/STRONG&gt; Via Jay St, right on Sands St and regular route.&lt;/P&gt;
-&lt;P&gt;Allow additional travel time.&lt;/P&gt;
+                Following an earlier incident, all &lt;STRONG&gt;Brooklyn&lt;/STRONG&gt; &lt;STRONG&gt;Local,&lt;/STRONG&gt; &lt;STRONG&gt;Limited, Express&lt;/STRONG&gt; and &lt;STRONG&gt;Select Bus &lt;/STRONG&gt;service has resumed with residual delays.
               &lt;br/&gt;
               &lt;br/&gt;
             
                   &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
                   &lt;span class="DateStyle"&gt;
-                  &amp;nbsp;Posted:&amp;nbsp;01/27/2016&amp;nbsp; 6:16AM
+                  &amp;nbsp;Posted:&amp;nbsp;01/28/2016&amp;nbsp;12:01AM
                   &lt;/span&gt;
                   &lt;br/&gt;
                   &lt;br/&gt;
@@ -112,16 +296,6 @@
 &lt;P&gt;Detour is as follows:&lt;/P&gt;
 &lt;P&gt;&lt;STRONG&gt;B17 Utica Av Bound&lt;/STRONG&gt;: Via Empire Blvd, right on Kingston Av, right on Eastern Pkwy and regular route.&lt;/P&gt;
 &lt;P&gt;Allow additional travel time.&lt;/P&gt;
-              &lt;br/&gt;
-              &lt;br/&gt;
-            
-                  &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                  &lt;span class="DateStyle"&gt;
-                  &amp;nbsp;Posted:&amp;nbsp;01/27/2016&amp;nbsp; 6:12AM
-                  &lt;/span&gt;
-                  &lt;br/&gt;
-                  &lt;br/&gt;
-                All Brooklyn &lt;STRONG&gt;Local,&lt;/STRONG&gt; &lt;STRONG&gt;Limited, Express&lt;/STRONG&gt; and &lt;STRONG&gt;Select Bus&lt;/STRONG&gt; services are running with delays due to snow removal operations. &lt;BR&gt;&lt;BR&gt;Allow additional travel time.
               &lt;br/&gt;
               &lt;br/&gt;
             
@@ -152,8 +326,8 @@
               &lt;br/&gt;
               &lt;br/&gt;
             </text>
-    <Date>01/27/2016</Date>
-    <Time> 7:14AM</Time>
+    <Date>01/28/2016</Date>
+    <Time> 1:17AM</Time>
   </line>
   <line>
     <name>B100 - B103</name>
@@ -161,16 +335,16 @@
     <text>
                   &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                   &lt;span class="DateStyle"&gt;
-                  &amp;nbsp;Posted:&amp;nbsp;01/27/2016&amp;nbsp; 6:12AM
+                  &amp;nbsp;Posted:&amp;nbsp;01/28/2016&amp;nbsp; 1:17AM
                   &lt;/span&gt;
                   &lt;br/&gt;
                   &lt;br/&gt;
-                All Brooklyn &lt;STRONG&gt;Local,&lt;/STRONG&gt; &lt;STRONG&gt;Limited, Express&lt;/STRONG&gt; and &lt;STRONG&gt;Select Bus&lt;/STRONG&gt; services are running with delays due to snow removal operations. &lt;BR&gt;&lt;BR&gt;Allow additional travel time.
+                Following an earlier incident, all &lt;STRONG&gt;Brooklyn&lt;/STRONG&gt; &lt;STRONG&gt;Local,&lt;/STRONG&gt; &lt;STRONG&gt;Limited, Express&lt;/STRONG&gt; and &lt;STRONG&gt;Select Bus &lt;/STRONG&gt;service has resumed with residual delays.
               &lt;br/&gt;
               &lt;br/&gt;
             </text>
-    <Date>01/27/2016</Date>
-    <Time> 6:12AM</Time>
+    <Date>01/28/2016</Date>
+    <Time> 1:17AM</Time>
   </line>
   <line>
     <name>BM1 - BM5</name>
@@ -178,16 +352,16 @@
     <text>
                   &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                   &lt;span class="DateStyle"&gt;
-                  &amp;nbsp;Posted:&amp;nbsp;01/27/2016&amp;nbsp; 6:12AM
+                  &amp;nbsp;Posted:&amp;nbsp;01/28/2016&amp;nbsp; 1:17AM
                   &lt;/span&gt;
                   &lt;br/&gt;
                   &lt;br/&gt;
-                All Brooklyn &lt;STRONG&gt;Local,&lt;/STRONG&gt; &lt;STRONG&gt;Limited, Express&lt;/STRONG&gt; and &lt;STRONG&gt;Select Bus&lt;/STRONG&gt; services are running with delays due to snow removal operations. &lt;BR&gt;&lt;BR&gt;Allow additional travel time.
+                Following an earlier incident, all &lt;STRONG&gt;Brooklyn&lt;/STRONG&gt; &lt;STRONG&gt;Local,&lt;/STRONG&gt; &lt;STRONG&gt;Limited, Express&lt;/STRONG&gt; and &lt;STRONG&gt;Select Bus &lt;/STRONG&gt;service has resumed with residual delays.
               &lt;br/&gt;
               &lt;br/&gt;
             </text>
-    <Date>01/27/2016</Date>
-    <Time> 6:12AM</Time>
+    <Date>01/28/2016</Date>
+    <Time> 1:17AM</Time>
   </line>
   <line>
     <name>BX1 - BX55</name>
@@ -195,44 +369,16 @@
     <text>
                   &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                   &lt;span class="DateStyle"&gt;
-                  &amp;nbsp;Posted:&amp;nbsp;01/27/2016&amp;nbsp; 6:18AM
+                  &amp;nbsp;Posted:&amp;nbsp;01/28/2016&amp;nbsp; 1:15AM
                   &lt;/span&gt;
                   &lt;br/&gt;
                   &lt;br/&gt;
-                &lt;P&gt;All Bronx Local, Limited, Express and Select Bus services are running with delays in both directions, due to snow removal operations. &lt;/P&gt;
-&lt;P&gt;Allow additional travel time.&lt;/P&gt;
-              &lt;br/&gt;
-              &lt;br/&gt;
-            
-                  &lt;span class="TitlePlannedWork" &gt;Planned Detour&lt;/span&gt;
-                  &lt;br/&gt;
-                &lt;a class="plannedWorkDetailLink" onclick=ShowHide(116623);&gt;
-&lt;b&gt;Bx19 buses rerouted from Southern Blvd between Freeman St and Home St
-&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 116623 class="plannedWorkDetail" &gt;&lt;/b&gt;Until further notice
-&lt;br&gt;
-&lt;br&gt;Due to track maintenance, buses operate as follows:
-&lt;br&gt;
-&lt;br&gt;&lt;b&gt;&lt;i&gt;&lt;a style="cursor:pointer; text-decoration:underline;" onclick=ShowHide(1166230);&gt;Show Reroute Details&lt;/a&gt;&lt;/i&gt;&lt;/b&gt;
-&lt;br&gt;&lt;div id="1166230"; style="display:none;"&gt;&lt;b&gt;Northbound
-&lt;br&gt;&lt;/b&gt;Via Southern Blvd
-&lt;br&gt;Left on E 167 St onto E 169 St
-&lt;br&gt;Right on Intervale Av
-&lt;br&gt;Right on Freeman St
-&lt;br&gt;Left on Southern Blvd then regular route
-&lt;br&gt;
-&lt;br&gt;&lt;b&gt;Southbound
-&lt;br&gt;&lt;/b&gt;Via Southern Blvd
-&lt;br&gt;Right on Freeman St
-&lt;br&gt;Left on Intervale Av
-&lt;br&gt;Left on E 169 St into E 167 St
-&lt;br&gt;Right on Southern Blvd then regular route&lt;/div&gt;
-&lt;br&gt;&lt;b&gt;
-&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+                Following an earlier incident, all Bronx &lt;STRONG&gt;Local&lt;/STRONG&gt;, &lt;STRONG&gt;Limited&lt;/STRONG&gt;, &lt;STRONG&gt;Express&lt;/STRONG&gt; and &lt;STRONG&gt;Select Bus &lt;/STRONG&gt;service has resumed with residual delays.
               &lt;br/&gt;
               &lt;br/&gt;
             </text>
-    <Date>01/27/2016</Date>
-    <Time> 6:18AM</Time>
+    <Date>01/28/2016</Date>
+    <Time> 1:15AM</Time>
   </line>
   <line>
     <name>BXM1 - BXM18</name>
@@ -240,17 +386,16 @@
     <text>
                   &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                   &lt;span class="DateStyle"&gt;
-                  &amp;nbsp;Posted:&amp;nbsp;01/27/2016&amp;nbsp; 6:18AM
+                  &amp;nbsp;Posted:&amp;nbsp;01/28/2016&amp;nbsp; 1:15AM
                   &lt;/span&gt;
                   &lt;br/&gt;
                   &lt;br/&gt;
-                &lt;P&gt;All Bronx Local, Limited, Express and Select Bus services are running with delays in both directions, due to snow removal operations. &lt;/P&gt;
-&lt;P&gt;Allow additional travel time.&lt;/P&gt;
+                Following an earlier incident, all Bronx &lt;STRONG&gt;Local&lt;/STRONG&gt;, &lt;STRONG&gt;Limited&lt;/STRONG&gt;, &lt;STRONG&gt;Express&lt;/STRONG&gt; and &lt;STRONG&gt;Select Bus &lt;/STRONG&gt;service has resumed with residual delays.
               &lt;br/&gt;
               &lt;br/&gt;
             </text>
-    <Date>01/27/2016</Date>
-    <Time> 6:18AM</Time>
+    <Date>01/28/2016</Date>
+    <Time> 1:15AM</Time>
   </line>
   <line>
     <name>M1 - M116</name>
@@ -258,12 +403,25 @@
     <text>
                   &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                   &lt;span class="DateStyle"&gt;
-                  &amp;nbsp;Posted:&amp;nbsp;01/27/2016&amp;nbsp; 7:01AM
+                  &amp;nbsp;Posted:&amp;nbsp;01/28/2016&amp;nbsp; 1:13AM
                   &lt;/span&gt;
                   &lt;br/&gt;
                   &lt;br/&gt;
-                &lt;P&gt;All Manhattan Local, Limited, Express and Select Bus services are running with delays in both directions, due to snow removal operations. &lt;/P&gt;
-&lt;P&gt;Allow additional travel time.&lt;/P&gt;
+                Following an earlier incident, all Manhattan &lt;STRONG&gt;Local&lt;/STRONG&gt;, &lt;STRONG&gt;Limited&lt;/STRONG&gt;, &lt;STRONG&gt;Express&lt;/STRONG&gt; and &lt;STRONG&gt;Select Bus &lt;/STRONG&gt;service has resumed with residual delays.
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
+                  &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                  &lt;span class="DateStyle"&gt;
+                  &amp;nbsp;Posted:&amp;nbsp;01/28/2016&amp;nbsp;12:04AM
+                  &lt;/span&gt;
+                  &lt;br/&gt;
+                  &lt;br/&gt;
+                &lt;P&gt;&lt;STRONG&gt;M9&lt;/STRONG&gt; and &lt;STRONG&gt;M103&lt;/STRONG&gt; buses are detoured, due to road work on Park Row between Worth St and Brooklyn Bridge.&lt;/P&gt;
+&lt;P&gt;Detour is as follows: &lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;Southbound&lt;/STRONG&gt;: Via Bowery, right on Worth St, left on Lafayette St and regular route. &lt;/P&gt;
+&lt;P&gt;All corresponding stops will be made. &lt;/P&gt;
+&lt;P&gt;Allow additional travel time. &lt;/P&gt;
               &lt;br/&gt;
               &lt;br/&gt;
             
@@ -318,13 +476,72 @@
               &lt;br/&gt;
               &lt;br/&gt;
             </text>
-    <Date>01/27/2016</Date>
-    <Time> 7:01AM</Time>
+    <Date>01/28/2016</Date>
+    <Time> 1:13AM</Time>
   </line>
   <line>
     <name>Q1 - Q113</name>
-    <status>PLANNED WORK</status>
+    <status>DELAYS</status>
     <text>
+                  &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                  &lt;span class="DateStyle"&gt;
+                  &amp;nbsp;Posted:&amp;nbsp;01/28/2016&amp;nbsp; 1:12AM
+                  &lt;/span&gt;
+                  &lt;br/&gt;
+                  &lt;br/&gt;
+                Following an earlier incident, all Queens &lt;STRONG&gt;Local&lt;/STRONG&gt;, &lt;STRONG&gt;Limited&lt;/STRONG&gt;, &lt;STRONG&gt;Express&lt;/STRONG&gt; and &lt;STRONG&gt;Select bus &lt;/STRONG&gt;service has resumed with residual delays.
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
+                  &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                  &lt;span class="DateStyle"&gt;
+                  &amp;nbsp;Posted:&amp;nbsp;01/28/2016&amp;nbsp; 1:10AM
+                  &lt;/span&gt;
+                  &lt;br/&gt;
+                  &lt;br/&gt;
+                Following an earlier incident in the Jamaica area, &lt;STRONG&gt;Q1, Q2, Q3, Q4, Q5, Q6, Q8, Q9, Q17, Q20A, Q20B, Q24, Q25, Q30, Q31, Q34, Q40, Q41 Q43, Q44 SBS, Q54, Q56, Q60, Q65, Q85, Q110, Q111, Q112, Q113&lt;/STRONG&gt; and &lt;STRONG&gt;Q114 &lt;/STRONG&gt;bus service has resumed with residual delays.
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
+                  &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                  &lt;span class="DateStyle"&gt;
+                  &amp;nbsp;Posted:&amp;nbsp;01/28/2016&amp;nbsp; 1:09AM
+                  &lt;/span&gt;
+                  &lt;br/&gt;
+                  &lt;br/&gt;
+                Following an earlier incident in the Flushing area, &lt;STRONG&gt;Q12&lt;/STRONG&gt;, &lt;STRONG&gt;Q13&lt;/STRONG&gt;, &lt;STRONG&gt;Q15&lt;/STRONG&gt;, &lt;STRONG&gt;Q15A&lt;/STRONG&gt;, &lt;STRONG&gt;Q16&lt;/STRONG&gt;, &lt;STRONG&gt;Q17&lt;/STRONG&gt;, &lt;STRONG&gt;Q19&lt;/STRONG&gt;, &lt;STRONG&gt;Q20A&lt;/STRONG&gt;, &lt;STRONG&gt;Q20B&lt;/STRONG&gt;, &lt;STRONG&gt;Q25&lt;/STRONG&gt;, &lt;STRONG&gt;Q26&lt;/STRONG&gt;, &lt;STRONG&gt;Q27&lt;/STRONG&gt;, &lt;STRONG&gt;Q28&lt;/STRONG&gt;, &lt;STRONG&gt;Q34&lt;/STRONG&gt;, &lt;STRONG&gt;Q44&lt;/STRONG&gt;, &lt;STRONG&gt;Q48&lt;/STRONG&gt;, &lt;STRONG&gt;Q50&lt;/STRONG&gt;, &lt;STRONG&gt;Q65 &lt;/STRONG&gt;and &lt;STRONG&gt;Q66 &lt;/STRONG&gt;bus service has resumed with residual delays.
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
+                  &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                  &lt;span class="DateStyle"&gt;
+                  &amp;nbsp;Posted:&amp;nbsp;01/28/2016&amp;nbsp;12:04AM
+                  &lt;/span&gt;
+                  &lt;br/&gt;
+                  &lt;br/&gt;
+                &lt;P&gt;&lt;STRONG&gt;Q7 &lt;/STRONG&gt;and &lt;STRONG&gt;Q10&lt;/STRONG&gt; buses are detoured, due to snow removal on Rockaway Blvd and 124 St. &lt;/P&gt;
+&lt;P&gt;Detour is as follows: &lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;Q7 Eastbound&lt;/STRONG&gt;: Via Rockaway Blvd, right on Lefferts Blvd, left on Sutter Av, left on 130 St, right on Rockaway Blvd and regular route. &lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;Q7 Westbound&lt;/STRONG&gt;: Via Rockaway Blvd, left on 130 St, right on Sutter Av, right on Lefferts Blvd, left on Rockaway Blvd and regular route. &lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;Q10 Northbound&lt;/STRONG&gt;: Via 130 St, left on Sutter Av, right on Lefferts Blvd and regular route. &lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;Q10 Southbound&lt;/STRONG&gt;: Via Lefferts Blvd, left on Sutter Av, right on 130 St and regular route. &lt;/P&gt;
+&lt;P&gt;Allow additional travel time. &lt;/P&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
+                  &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                  &lt;span class="DateStyle"&gt;
+                  &amp;nbsp;Posted:&amp;nbsp;01/28/2016&amp;nbsp;12:04AM
+                  &lt;/span&gt;
+                  &lt;br/&gt;
+                  &lt;br/&gt;
+                &lt;P&gt;&lt;STRONG&gt;Q33&lt;/STRONG&gt; buses are detoured due to Con Edison work on 82 St between 32 Av and Northern Blvd. &lt;/P&gt;
+&lt;P&gt;Detour is as follows:&lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;Southbound&lt;/STRONG&gt;: Via 82 St, right on 32 Av, left on 80 St, left on Northern Blvd, right on 82 St to regular route. &lt;/P&gt;
+&lt;P&gt;Allow additional travel time. &lt;/P&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
                   &lt;span class="TitlePlannedWork" &gt;Planned Detour&lt;/span&gt;
                   &lt;br/&gt;
                 &lt;a class="plannedWorkDetailLink" onclick=ShowHide(116212);&gt;
@@ -422,15 +639,25 @@
               &lt;br/&gt;
               &lt;br/&gt;
             </text>
-    <Date>01/27/2016</Date>
-    <Time> 7:12AM</Time>
+    <Date>01/28/2016</Date>
+    <Time> 1:12AM</Time>
   </line>
   <line>
     <name>QM1 - QM25</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>DELAYS</status>
+    <text>
+                  &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                  &lt;span class="DateStyle"&gt;
+                  &amp;nbsp;Posted:&amp;nbsp;01/28/2016&amp;nbsp; 1:12AM
+                  &lt;/span&gt;
+                  &lt;br/&gt;
+                  &lt;br/&gt;
+                Following an earlier incident, all Queens &lt;STRONG&gt;Local&lt;/STRONG&gt;, &lt;STRONG&gt;Limited&lt;/STRONG&gt;, &lt;STRONG&gt;Express&lt;/STRONG&gt; and &lt;STRONG&gt;Select bus &lt;/STRONG&gt;service has resumed with residual delays.
+              &lt;br/&gt;
+              &lt;br/&gt;
+            </text>
+    <Date>01/28/2016</Date>
+    <Time> 1:12AM</Time>
   </line>
   <line>
     <name>S40 - S98</name>
@@ -438,17 +665,16 @@
     <text>
                   &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                   &lt;span class="DateStyle"&gt;
-                  &amp;nbsp;Posted:&amp;nbsp;01/27/2016&amp;nbsp; 6:16AM
+                  &amp;nbsp;Posted:&amp;nbsp;01/28/2016&amp;nbsp; 1:16AM
                   &lt;/span&gt;
                   &lt;br/&gt;
                   &lt;br/&gt;
-                &lt;P&gt;All &lt;STRONG&gt;Staten Island&lt;/STRONG&gt; Local, Limited, Express and Select Bus services are running with delays in both directions, due to snow removal operations.&lt;/P&gt;
-&lt;P&gt;Allow additional travel time.&lt;/P&gt;
+                Following an earlier incident, all Staten Island &lt;STRONG&gt;Local&lt;/STRONG&gt;, &lt;STRONG&gt;Limited&lt;/STRONG&gt;, &lt;STRONG&gt;Express&lt;/STRONG&gt; and &lt;STRONG&gt;Select Bus&lt;/STRONG&gt; service has resumed with residual delays.
               &lt;br/&gt;
               &lt;br/&gt;
             </text>
-    <Date>01/27/2016</Date>
-    <Time> 6:16AM</Time>
+    <Date>01/28/2016</Date>
+    <Time> 1:16AM</Time>
   </line>
   <line>
     <name>x1 - x68</name>
@@ -499,8 +725,8 @@
               &lt;br/&gt;
               &lt;br/&gt;
             </text>
-    <Date>01/27/2016</Date>
-    <Time> 7:12AM</Time>
+    <Date>01/28/2016</Date>
+    <Time> 1:22AM</Time>
   </line>
 </bus><BT>
   <line>
@@ -512,13 +738,6 @@
                     &amp;nbsp;Posted:&amp;nbsp;01/24/2016&amp;nbsp; 7:29AM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
                   Due to weather condition motorists are asked to drive at reduced speeds.
-                &lt;br/&gt;&lt;br/&gt;
-              
-                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;01/24/2016&amp;nbsp; 8:22AM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  Motorists are asked to clear snow and ice from vehicles prior to travel
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>01/24/2016</Date>
@@ -534,13 +753,6 @@
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
                   Due to weather condition motorists are asked to drive at reduced speeds.
                 &lt;br/&gt;&lt;br/&gt;
-              
-                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;01/24/2016&amp;nbsp; 8:22AM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  Motorists are asked to clear snow and ice from vehicles prior to travel
-                &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>01/24/2016</Date>
     <Time> 7:29AM</Time>
@@ -555,37 +767,21 @@
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
                   Due to weather condition motorists are asked to drive at reduced speeds.
                 &lt;br/&gt;&lt;br/&gt;
-              
-                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;01/24/2016&amp;nbsp; 8:22AM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  Motorists are asked to clear snow and ice from vehicles prior to travel
-                &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>01/24/2016</Date>
     <Time> 7:29AM</Time>
   </line>
   <line>
     <name>Hugh L. Carey</name>
-    <status>SERVICE CHANGE</status>
+    <status>PLANNED WORK</status>
     <text>
-                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;01/27/2016&amp;nbsp; 6:17AM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  HLC - HOV Lane Open 6 AM to 10 AM. Two-Way Operation in effect. Three (3) lanes Manhattan-bound. One (1) lane Brooklyn-bound.
-                &lt;br/&gt;&lt;br/&gt;
-              
-                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;01/24/2016&amp;nbsp; 8:22AM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  Motorists are asked to clear snow and ice from vehicles prior to travel
+                    &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
+                    &lt;br/&gt;
+                  HLCT 2-way operation in the Manhattan bound tube, Brooklyn bound tube closed.
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>01/27/2016</Date>
-    <Time> 6:17AM</Time>
+    <Time> 9:06PM</Time>
   </line>
   <line>
     <name>Marine Parkway</name>
@@ -597,42 +793,33 @@
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
                   Due to weather condition motorists are asked to drive at reduced speeds.
                 &lt;br/&gt;&lt;br/&gt;
-              
-                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;01/24/2016&amp;nbsp; 8:22AM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  Motorists are asked to clear snow and ice from vehicles prior to travel
-                &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>01/24/2016</Date>
     <Time> 7:29AM</Time>
   </line>
   <line>
     <name>Queens Midtown</name>
-    <status>SERVICE CHANGE</status>
+    <status>PLANNED WORK</status>
     <text>
-                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;01/27/2016&amp;nbsp; 6:16AM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  QMT - HOV Lane Open 6 AM to 10 AM. Two-Way Operation in effect. Three (3) lanes Manhattan-bound. One (1) lane Queens-bound.
-                &lt;br/&gt;&lt;br/&gt;
-              
-                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;01/24/2016&amp;nbsp; 8:22AM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  Motorists are asked to clear snow and ice from vehicles prior to travel
+                    &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
+                    &lt;br/&gt;
+                  QMT 2-way operations in Manhattan bound tube, Queens bound tube closed.
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>01/27/2016</Date>
-    <Time> 6:16AM</Time>
+    <Time>10:30PM</Time>
   </line>
   <line>
     <name>Robert F. Kennedy</name>
-    <status>SERVICE CHANGE</status>
+    <status>DELAYS</status>
     <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;01/27/2016&amp;nbsp; 4:00PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  RFK is experiencing delays Manhattan bound due to heavy volume on the 125th Street exit ramp and the FDR southbound.
+                &lt;br/&gt;&lt;br/&gt;
+              
                     &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
                     &amp;nbsp;Posted:&amp;nbsp;01/24/2016&amp;nbsp; 7:29AM
@@ -642,20 +829,13 @@
               
                     &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;01/24/2016&amp;nbsp; 8:22AM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  Motorists are asked to clear snow and ice from vehicles prior to travel
-                &lt;br/&gt;&lt;br/&gt;
-              
-                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
                     &amp;nbsp;Posted:&amp;nbsp;01/04/2016&amp;nbsp; 3:40PM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
                   New Traffic Pattern in Affect -Manhattan-bound traffic exiting from the Robert F. Kennedy Bridge to E.125 Street, is being diverted onto a temporary ramp. Motorists may experience delays and are advised to allow extra travel time.
                 &lt;br/&gt;&lt;br/&gt;
               </text>
-    <Date>01/24/2016</Date>
-    <Time> 7:29AM</Time>
+    <Date>01/27/2016</Date>
+    <Time> 4:00PM</Time>
   </line>
   <line>
     <name>Throgs Neck</name>
@@ -667,38 +847,19 @@
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
                   Due to weather condition motorists are asked to drive at reduced speeds.
                 &lt;br/&gt;&lt;br/&gt;
-              
-                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;01/24/2016&amp;nbsp; 8:22AM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  Motorists are asked to clear snow and ice from vehicles prior to travel
-                &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>01/24/2016</Date>
     <Time> 7:29AM</Time>
   </line>
   <line>
     <name>Verrazano-Narrows</name>
-    <status>PLANNED WORK</status>
+    <status>SERVICE CHANGE</status>
     <text>
-                    &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
-                    &lt;br/&gt;
-                  VNB: PLANNED WORK; S. I. BOUND LOWER LEVEL - ONE LANE CLOSED; EXPECT DELAYS.
-                &lt;br/&gt;&lt;br/&gt;
-              
                     &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
                     &amp;nbsp;Posted:&amp;nbsp;01/24/2016&amp;nbsp; 7:29AM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
                   Due to weather condition motorists are asked to drive at reduced speeds.
-                &lt;br/&gt;&lt;br/&gt;
-              
-                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;01/24/2016&amp;nbsp; 8:22AM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  Motorists are asked to clear snow and ice from vehicles prior to travel
                 &lt;br/&gt;&lt;br/&gt;
               
                     &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
@@ -713,8 +874,8 @@
 &lt;P style="MARGIN: 0in 0in 0pt"&gt;&lt;SPAN style='FONT-FAMILY: "Calibri",sans-serif; COLOR: black'&gt;&lt;FONT size=3&gt;Three (3) Lanes Staten Island-bound. Two (2) Lanes Brooklyn-bound.&lt;/FONT&gt;&lt;/SPAN&gt;&lt;/P&gt;
                 &lt;br/&gt;&lt;br/&gt;
               </text>
-    <Date>01/27/2016</Date>
-    <Time> 5:07AM</Time>
+    <Date>01/24/2016</Date>
+    <Time> 7:29AM</Time>
   </line>
 </BT><LIRR>
   <line>
@@ -768,17 +929,10 @@
   </line>
   <line>
     <name>Port Jefferson</name>
-    <status>DELAYS</status>
-    <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;01/27/2016&amp;nbsp; 6:39AM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  The 6:25AM train from Hicksville due Penn at 7:11AM is operating 12 minutes late after being held prior to departure due to congestion caused by an earlier train with equipment trouble in Hicksville.
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>01/27/2016</Date>
-    <Time> 6:39AM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>Port Washington</name>
@@ -804,31 +958,17 @@
 </LIRR><MetroNorth>
   <line>
     <name>Hudson</name>
-    <status>DELAYS</status>
-    <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;01/27/2016&amp;nbsp; 6:28AM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  &lt;SPAN style="TEXT-ALIGN: left; WIDOWS: 1; TEXT-TRANSFORM: none; BACKGROUND-COLOR: rgb(218,226,232); TEXT-INDENT: 0px; DISPLAY: inline !important; FONT: 12px/16px 'Segoe UI', Arial, Helvetica, sans-serif; WHITE-SPACE: normal; FLOAT: none; LETTER-SPACING: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px"&gt;Customers may experience delays of 10 to 15 minutes traveling into and out of Grand Central Terminal due to a signal issue in the Park Avenue tunnel. Please listen for announcements at your station&lt;/SPAN&gt;
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>01/27/2016</Date>
-    <Time> 6:28AM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>Harlem</name>
-    <status>DELAYS</status>
-    <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;01/27/2016&amp;nbsp; 6:28AM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  &lt;SPAN style="TEXT-ALIGN: left; WIDOWS: 1; TEXT-TRANSFORM: none; BACKGROUND-COLOR: rgb(218,226,232); TEXT-INDENT: 0px; DISPLAY: inline !important; FONT: 12px/16px 'Segoe UI', Arial, Helvetica, sans-serif; WHITE-SPACE: normal; FLOAT: none; LETTER-SPACING: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px"&gt;Customers may experience delays of 10 to 15 minutes traveling into and out of Grand Central Terminal due to a signal issue in the Park Avenue tunnel. Please listen for announcements at your station&lt;/SPAN&gt;
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>01/27/2016</Date>
-    <Time> 6:28AM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>Wassaic</name>
@@ -839,17 +979,10 @@
   </line>
   <line>
     <name>New Haven</name>
-    <status>DELAYS</status>
-    <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;01/27/2016&amp;nbsp; 6:28AM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  &lt;SPAN style="TEXT-ALIGN: left; WIDOWS: 1; TEXT-TRANSFORM: none; BACKGROUND-COLOR: rgb(218,226,232); TEXT-INDENT: 0px; DISPLAY: inline !important; FONT: 12px/16px 'Segoe UI', Arial, Helvetica, sans-serif; WHITE-SPACE: normal; FLOAT: none; LETTER-SPACING: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px"&gt;Customers may experience delays of 10 to 15 minutes traveling into and out of Grand Central Terminal due to a signal issue in the Park Avenue tunnel. Please listen for announcements at your station&lt;/SPAN&gt;
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>01/27/2016</Date>
-    <Time> 6:28AM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>New Canaan</name>
@@ -867,17 +1000,10 @@
   </line>
   <line>
     <name>Waterbury</name>
-    <status>SERVICE CHANGE</status>
-    <text>
-                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;01/27/2016&amp;nbsp; 6:03AM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  &lt;SPAN style="TEXT-ALIGN: left; WIDOWS: 1; TEXT-TRANSFORM: none; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; DISPLAY: inline !important; FONT: 12px/16px 'Segoe UI', Arial, Helvetica, sans-serif; WHITE-SPACE: normal; FLOAT: none; LETTER-SPACING: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px"&gt;Substitute Bus Service will be provided on the Waterbury Branch for the 6:42 AM train departing Waterbury making all stops to Bridgeport due to mechanical difficulties. Please listen for announcements at your station.&lt;/SPAN&gt;
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>01/27/2016</Date>
-    <Time> 6:03AM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>Pascack Valley</name>
