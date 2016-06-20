@@ -1,17 +1,10 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>DELAYS</status>
-    <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;06/20/2016&amp;nbsp; 5:51AM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  Following an earlier incident at &lt;STRONG&gt;President St&lt;/STRONG&gt;, [2] train service has resumed with residual delays.
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>06/20/2016</Date>
-    <Time> 5:51AM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>456</name>
@@ -319,7 +312,7 @@
     <text>
                   &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
                   &lt;span class="DateStyle"&gt;
-                  &amp;nbsp;Posted:&amp;nbsp;06/20/2016&amp;nbsp; 4:03AM
+                  &amp;nbsp;Posted:&amp;nbsp;06/20/2016&amp;nbsp; 6:04AM
                   &lt;/span&gt;
                   &lt;br/&gt;
                   &lt;br/&gt;
@@ -333,7 +326,7 @@
               &lt;br/&gt;
             </text>
     <Date>06/20/2016</Date>
-    <Time> 4:03AM</Time>
+    <Time> 6:04AM</Time>
   </line>
   <line>
     <name>x1 - x68</name>
