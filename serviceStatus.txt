@@ -1,10 +1,26 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>PLANNED WORK</status>
+    <text>
+                    &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
+                    &lt;br/&gt;
+                  &lt;a class="plannedWorkDetailLink" onclick=ShowHide(127722);&gt;
+&lt;b&gt;[1] Van Cortlandt Park-bound trains skip 103, 110, 116 and 125 Sts
+&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 127722 class="plannedWorkDetail" &gt;&lt;/b&gt;Day, 10:45 AM to 3 PM, Tuesday, Jun 21
+&lt;br&gt;
+&lt;br&gt;For service &lt;i&gt;to &lt;/i&gt;these stations, take the [1] to 168 St and transfer to a South Ferry-bound [1].
+&lt;br&gt;
+&lt;br&gt;For service &lt;i&gt;from &lt;/i&gt;these stations, take the [1] to 96 St and transfer to a Van Cortlandt Park-bound [1].
+&lt;br&gt;
+&lt;br&gt;&lt;/font&gt;&lt;b&gt;&lt;i&gt;Alternate travel note:
+&lt;br&gt;&lt;/b&gt;&lt;/i&gt;Transfer between uptown and downtown trains with &lt;a href=http://mta.info/metrocard/mcgtreng.htm#unlimited target=_blank&gt;&lt;font color=#0000FF&gt;&lt;b&gt;&lt;u&gt;Unlimited Ride MetroCard&lt;/u&gt;&lt;/b&gt;&lt;/font&gt;&lt;/a&gt; at 137 St.
+&lt;br&gt;&lt;b&gt;
+&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>06/21/2016</Date>
+    <Time>10:52AM</Time>
   </line>
   <line>
     <name>456</name>
@@ -81,7 +97,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>06/21/2016</Date>
-    <Time>10:42AM</Time>
+    <Time>10:52AM</Time>
   </line>
   <line>
     <name>ACE</name>
@@ -167,7 +183,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>06/21/2016</Date>
-    <Time>10:42AM</Time>
+    <Time>10:52AM</Time>
   </line>
   <line>
     <name>S</name>
@@ -193,7 +209,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>06/21/2016</Date>
-    <Time>10:42AM</Time>
+    <Time>10:52AM</Time>
   </line>
 </subway><bus>
   <line>
@@ -317,7 +333,7 @@
               &lt;br/&gt;
             </text>
     <Date>06/21/2016</Date>
-    <Time>10:42AM</Time>
+    <Time>10:52AM</Time>
   </line>
   <line>
     <name>BXM1 - BXM18</name>
@@ -338,10 +354,10 @@
 &lt;br&gt;
 &lt;br&gt;Due to construction, bus stops are as follows:
 &lt;br&gt;
-&lt;br&gt;Terminal B (Central Terminal), relocated to the &lt;i&gt;upper&lt;/i&gt; departures level, then Terminal D and Terminal C.
+&lt;br&gt;Terminal B (Central Terminal), relocated to the &lt;i&gt;upper&lt;/i&gt; departures level, &lt;i&gt;then &lt;/i&gt;Terminal D and Terminal C.
 &lt;br&gt;
 &lt;br&gt;The Parking Lot 1 bus stop is discontinued.
-&lt;br&gt;The M60 SBS will not stop at Terminal A (Marine Air Terminal), use the Q47 or Port Authority shuttle bus. 
+&lt;br&gt;The M60 SBS will not stop at Terminal A (Marine Air Terminal), use the Q47 or Port Authority shuttle bus instead. 
 &lt;br&gt;&lt;b&gt;
 &lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
               &lt;br/&gt;
@@ -360,7 +376,7 @@
               &lt;br/&gt;
             </text>
     <Date>06/21/2016</Date>
-    <Time>10:42AM</Time>
+    <Time>10:52AM</Time>
   </line>
   <line>
     <name>Q1 - Q113</name>
@@ -473,10 +489,10 @@
 &lt;br&gt;
 &lt;br&gt;Due to construction, bus stops are as follows:
 &lt;br&gt;
-&lt;br&gt;Terminal B (Central Terminal), relocated to the &lt;i&gt;upper&lt;/i&gt; departures level, then Terminal D and Terminal C.
+&lt;br&gt;Terminal B (Central Terminal), relocated to the &lt;i&gt;upper&lt;/i&gt; departures level, &lt;i&gt;then &lt;/i&gt;Terminal D and Terminal C.
 &lt;br&gt;
 &lt;br&gt;The Parking Lot 1 bus stop is discontinued.
-&lt;br&gt;The M60 SBS will not stop at Terminal A (Marine Air Terminal), use the Q47 or Port Authority shuttle bus. 
+&lt;br&gt;The M60 SBS will not stop at Terminal A (Marine Air Terminal), use the Q47 or Port Authority shuttle bus instead. 
 &lt;br&gt;&lt;b&gt;
 &lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
               &lt;br/&gt;
@@ -548,7 +564,7 @@
               &lt;br/&gt;
             </text>
     <Date>06/21/2016</Date>
-    <Time>10:42AM</Time>
+    <Time>10:52AM</Time>
   </line>
 </bus><BT>
   <line>
