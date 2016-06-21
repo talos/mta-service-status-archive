@@ -101,10 +101,19 @@
   </line>
   <line>
     <name>ACE</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>SERVICE CHANGE</status>
+    <text>
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;06/21/2016&amp;nbsp;11:09AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;P&gt;Due to a train with mechanical problems at &lt;STRONG&gt;34 St-Penn Station&lt;/STRONG&gt;, northbound [A] trains are running local from &lt;STRONG&gt;Canal St&lt;/STRONG&gt; to &lt;STRONG&gt;59 St-Columbus Circle&lt;/STRONG&gt;.&lt;/P&gt;
+&lt;P&gt;Northbound [C] trains expect delays.&lt;/P&gt;
+&lt;P&gt;Allow additional travel time.&lt;/P&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>06/21/2016</Date>
+    <Time>11:09AM</Time>
   </line>
   <line>
     <name>BDFM</name>
@@ -344,8 +353,19 @@
   </line>
   <line>
     <name>M1 - M116</name>
-    <status>PLANNED WORK</status>
+    <status>DELAYS</status>
     <text>
+                  &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                  &lt;span class="DateStyle"&gt;
+                  &amp;nbsp;Posted:&amp;nbsp;06/21/2016&amp;nbsp;11:08AM
+                  &lt;/span&gt;
+                  &lt;br/&gt;
+                  &lt;br/&gt;
+                &lt;P&gt;&lt;STRONG&gt;M1, M2, M3&lt;/STRONG&gt; and &lt;STRONG&gt;M4&lt;/STRONG&gt; southbound buses are delayed, due to heavy traffic on 5 Av from 112 St to 96 St. &lt;/P&gt;
+&lt;P&gt;Allow additional travel time.&lt;/P&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
                   &lt;span class="TitlePlannedWork" &gt;Planned Detour&lt;/span&gt;
                   &lt;br/&gt;
                 &lt;a class="plannedWorkDetailLink" onclick=ShowHide(127798);&gt;
@@ -376,7 +396,7 @@
               &lt;br/&gt;
             </text>
     <Date>06/21/2016</Date>
-    <Time>11:02AM</Time>
+    <Time>11:08AM</Time>
   </line>
   <line>
     <name>Q1 - Q113</name>
