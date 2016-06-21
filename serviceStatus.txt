@@ -1,8 +1,18 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>PLANNED WORK</status>
+    <status>SERVICE CHANGE</status>
     <text>
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;06/21/2016&amp;nbsp; 1:14PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;P&gt;Due to signal problems at E 180 St, there is no [5] train service between &lt;STRONG&gt;E 180 St&lt;/STRONG&gt; and &lt;STRONG&gt;Eastchester-Dyre Av&lt;/STRONG&gt; in both directions.&lt;/P&gt;
+&lt;P&gt;Northbound [5] via [2] line from E 180 St to Gun Hill Rd.&lt;/P&gt;
+&lt;P&gt;As an alternative, customers are advised to take the &lt;STRONG&gt;Bx12, Bx16, Bx28, Bx30&lt;/STRONG&gt; or &lt;STRONG&gt;Bx38&lt;/STRONG&gt; buses making nearby station stops.&lt;/P&gt;
+&lt;P&gt;Allow additional travel time.&lt;/P&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              
                     &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
                     &lt;br/&gt;
                   &lt;a class="plannedWorkDetailLink" onclick=ShowHide(127722);&gt;
@@ -20,7 +30,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>06/21/2016</Date>
-    <Time> 1:12PM</Time>
+    <Time> 1:14PM</Time>
   </line>
   <line>
     <name>456</name>
@@ -28,9 +38,11 @@
     <text>
                     &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;06/21/2016&amp;nbsp; 1:07PM
+                    &amp;nbsp;Posted:&amp;nbsp;06/21/2016&amp;nbsp; 1:14PM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  &lt;P&gt;Due to signal problems, there is no [5] train service between &lt;STRONG&gt;E 180 St&lt;/STRONG&gt; and &lt;STRONG&gt;Eastchester-Dyre Av&lt;/STRONG&gt; in both directions.&lt;/P&gt;
+                  &lt;P&gt;Due to signal problems at E 180 St, there is no [5] train service between &lt;STRONG&gt;E 180 St&lt;/STRONG&gt; and &lt;STRONG&gt;Eastchester-Dyre Av&lt;/STRONG&gt; in both directions.&lt;/P&gt;
+&lt;P&gt;Northbound [5] via [2] line from E 180 St to Gun Hill Rd.&lt;/P&gt;
+&lt;P&gt;As an alternative, customers are advised to take the &lt;STRONG&gt;Bx12, Bx16, Bx28, Bx30&lt;/STRONG&gt; or &lt;STRONG&gt;Bx38&lt;/STRONG&gt; buses making nearby station stops.&lt;/P&gt;
 &lt;P&gt;Allow additional travel time.&lt;/P&gt;
                 &lt;br/&gt;&lt;br/&gt;
               
@@ -74,7 +86,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>06/21/2016</Date>
-    <Time> 1:07PM</Time>
+    <Time> 1:14PM</Time>
   </line>
   <line>
     <name>7</name>
