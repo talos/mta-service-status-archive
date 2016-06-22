@@ -45,7 +45,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>06/22/2016</Date>
-    <Time> 8:52AM</Time>
+    <Time> 9:02AM</Time>
   </line>
   <line>
     <name>G</name>
@@ -84,10 +84,22 @@
   </line>
   <line>
     <name>SIR</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>PLANNED WORK</status>
+    <text>
+                    &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
+                    &lt;br/&gt;
+                  &lt;a class="plannedWorkDetailLink" onclick=ShowHide(127523);&gt;
+&lt;b&gt;[SIR] Trains board at the Tottenville-bound platform from Atlantic to Prince's Bay Stations
+&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 127523 class="plannedWorkDetail" &gt;&lt;/b&gt;Days, 9 AM to 2 PM, Mon to Fri, Jun 20 - 24
+&lt;br&gt;
+&lt;br&gt;&amp;bull; Boarding change includes &lt;b&gt;Atlantic&lt;/b&gt;, &lt;b&gt;Nassau&lt;/b&gt;, &lt;b&gt;Richmond Valley&lt;/b&gt;, &lt;b&gt;Pleasant Plains&lt;/b&gt; and 
+&lt;br&gt;  &lt;b&gt;Prince's Bay Stations&lt;/b&gt;. 
+&lt;br&gt;&lt;b&gt;
+&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>06/22/2016</Date>
+    <Time> 9:02AM</Time>
   </line>
 </subway><bus>
   <line>
@@ -611,7 +623,7 @@
               &lt;br/&gt;
             </text>
     <Date>06/22/2016</Date>
-    <Time> 8:52AM</Time>
+    <Time> 9:02AM</Time>
   </line>
 </bus><BT>
   <line>
