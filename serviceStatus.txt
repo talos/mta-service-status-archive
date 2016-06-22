@@ -1,17 +1,10 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>DELAYS</status>
-    <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;06/21/2016&amp;nbsp; 9:31PM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  Due to an earlier incident at &lt;STRONG&gt;34 St-Penn St&lt;/STRONG&gt;, [2] and [3] train service has resumed with residual delays.
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>06/21/2016</Date>
-    <Time> 9:31PM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>456</name>
@@ -138,7 +131,7 @@
               &lt;br/&gt;
             </text>
     <Date>06/21/2016</Date>
-    <Time> 9:32PM</Time>
+    <Time> 9:42PM</Time>
   </line>
   <line>
     <name>B100 - B103</name>
@@ -632,7 +625,7 @@
               &lt;br/&gt;
             </text>
     <Date>06/21/2016</Date>
-    <Time> 9:32PM</Time>
+    <Time> 9:42PM</Time>
   </line>
 </bus><BT>
   <line>
@@ -772,17 +765,10 @@
   </line>
   <line>
     <name>Port Jefferson</name>
-    <status>DELAYS</status>
-    <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;06/21/2016&amp;nbsp; 9:00PM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  The 8:34PM train from Huntington due Port Jefferson at 9:20PM is operating 25 minutes late after being held to accommodate a late-arriving connection.
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>06/21/2016</Date>
-    <Time> 9:00PM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>Port Washington</name>
