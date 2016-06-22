@@ -1,10 +1,17 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>DELAYS</status>
+    <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;06/21/2016&amp;nbsp; 9:31PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  Due to an earlier incident at &lt;STRONG&gt;34 St-Penn St&lt;/STRONG&gt;, [2] and [3] train service has resumed with residual delays.
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>06/21/2016</Date>
+    <Time> 9:31PM</Time>
   </line>
   <line>
     <name>456</name>
@@ -131,7 +138,7 @@
               &lt;br/&gt;
             </text>
     <Date>06/21/2016</Date>
-    <Time> 9:22PM</Time>
+    <Time> 9:32PM</Time>
   </line>
   <line>
     <name>B100 - B103</name>
@@ -627,7 +634,7 @@
               &lt;br/&gt;
             </text>
     <Date>06/21/2016</Date>
-    <Time> 9:22PM</Time>
+    <Time> 9:32PM</Time>
   </line>
 </bus><BT>
   <line>
