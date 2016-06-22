@@ -1,22 +1,10 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>SERVICE CHANGE</status>
-    <text>
-                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;06/22/2016&amp;nbsp; 4:49PM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  &lt;P&gt;Due to an investigation of an unauthorized person on the tracks at &lt;STRONG&gt;168 St,&lt;/STRONG&gt; the following service changes are in effect:&lt;/P&gt;
-&lt;P&gt;There is no [1] train service between &lt;STRONG&gt;Dyckman St&lt;/STRONG&gt; and &lt;STRONG&gt;137 St-City College &lt;/STRONG&gt;in both directions. &lt;/P&gt;
-&lt;P&gt;Some northbound [1] trains terminate at &lt;STRONG&gt;103 St&lt;/STRONG&gt;. &lt;/P&gt;
-&lt;P&gt;[1] trains are running with delays in both directions. &lt;/P&gt;
-&lt;P&gt;Allow additonal travel time.&lt;/P&gt;
-&lt;P&gt;&lt;/P&gt;
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>06/22/2016</Date>
-    <Time> 4:49PM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>456</name>
@@ -41,23 +29,10 @@
   </line>
   <line>
     <name>BDFM</name>
-    <status>PLANNED WORK</status>
-    <text>
-                    &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
-                    &lt;br/&gt;
-                  &lt;a class="plannedWorkDetailLink" onclick=ShowHide(124199);&gt;
-&lt;b&gt;[F] Some Coney Island-bound trains skip Bergen St, Carroll St and Smith-9 Sts
-&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 124199 class="plannedWorkDetail" &gt;Rush Hours&lt;/b&gt;, 8 AM to 10 AM &lt;i&gt;and&lt;/i&gt; 4:30 PM to 6 PM, Mon to Fri, until Jul 1 
-&lt;br&gt;
-&lt;br&gt;For service &lt;i&gt;to&lt;/i&gt; these stations, take a Coney Island-bound [F] making these local stops. 
-&lt;br&gt;
-&lt;br&gt;&amp;bull; Please allow additional travel time.
-&lt;br&gt;&lt;b&gt;
-&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>06/22/2016</Date>
-    <Time> 4:52PM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>G</name>
@@ -108,11 +83,37 @@
     <text>
                   &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                   &lt;span class="DateStyle"&gt;
-                  &amp;nbsp;Posted:&amp;nbsp;06/22/2016&amp;nbsp; 4:52PM
+                  &amp;nbsp;Posted:&amp;nbsp;06/22/2016&amp;nbsp; 6:15PM
                   &lt;/span&gt;
                   &lt;br/&gt;
                   &lt;br/&gt;
-                Following an earlier incident on Myrtle Av, &lt;STRONG&gt;B54&lt;/STRONG&gt; bus service has resumed with residual delays.
+                &lt;P&gt;&lt;STRONG&gt;B16&lt;/STRONG&gt; buses are running with delays in both directions due to traffic conditions on Caton Av between Ocean Pkwy and Flatbush Av. &lt;/P&gt;
+&lt;P&gt;Allow additional travel time.&lt;/P&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
+                  &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                  &lt;span class="DateStyle"&gt;
+                  &amp;nbsp;Posted:&amp;nbsp;06/22/2016&amp;nbsp; 6:15PM
+                  &lt;/span&gt;
+                  &lt;br/&gt;
+                  &lt;br/&gt;
+                &lt;P&gt;&lt;STRONG&gt;B24&lt;/STRONG&gt; buses are running with delays in both directions due to traffic conditions on the Brooklyn Queens Expy near the Kosciuzko Bridge. &lt;/P&gt;
+&lt;P&gt;Allow additonal travel time.&lt;/P&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
+                  &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                  &lt;span class="DateStyle"&gt;
+                  &amp;nbsp;Posted:&amp;nbsp;06/22/2016&amp;nbsp; 6:13PM
+                  &lt;/span&gt;
+                  &lt;br/&gt;
+                  &lt;br/&gt;
+                &lt;P&gt;&lt;STRONG&gt;B2&lt;/STRONG&gt; buses are detoured, due to milling on E 36 St between Fillmore Av and Avenue S. &lt;/P&gt;
+&lt;P&gt;Detour is as follows:&lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;E 16 St-bound&lt;/STRONG&gt;: Via Flatbush Av, left on Fillmore Av, right on W 36 St and regular route.&lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;Kings Plaza-bound:&lt;/STRONG&gt; Via E 36 St, left on Fillmore Av, right on Flatbush Av and regular route.&lt;/P&gt;
+&lt;P&gt;Allow additional travel time.&lt;/P&gt;
               &lt;br/&gt;
               &lt;br/&gt;
             
@@ -127,42 +128,6 @@
               &lt;br/&gt;
               &lt;br/&gt;
             
-                  &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                  &lt;span class="DateStyle"&gt;
-                  &amp;nbsp;Posted:&amp;nbsp;06/22/2016&amp;nbsp; 3:14PM
-                  &lt;/span&gt;
-                  &lt;br/&gt;
-                  &lt;br/&gt;
-                &lt;P&gt;&lt;STRONG&gt;B16&lt;/STRONG&gt; buses are running with delays in both directions due to traffic conditions on Caton Av between Ocean Pkwy and Flatbush Av. &lt;/P&gt;
-&lt;P&gt;Allow additional travel time.&lt;/P&gt;
-              &lt;br/&gt;
-              &lt;br/&gt;
-            
-                  &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                  &lt;span class="DateStyle"&gt;
-                  &amp;nbsp;Posted:&amp;nbsp;06/22/2016&amp;nbsp; 3:04PM
-                  &lt;/span&gt;
-                  &lt;br/&gt;
-                  &lt;br/&gt;
-                &lt;P&gt;&lt;STRONG&gt;B24&lt;/STRONG&gt; buses are running with delays in both directions due to traffic conditions on the Brooklyn Queens Expy near the Kosciuzko Bridge. &lt;/P&gt;
-&lt;P&gt;Allow additonal travel time.&lt;/P&gt;
-              &lt;br/&gt;
-              &lt;br/&gt;
-            
-                  &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
-                  &lt;span class="DateStyle"&gt;
-                  &amp;nbsp;Posted:&amp;nbsp;06/22/2016&amp;nbsp; 2:12PM
-                  &lt;/span&gt;
-                  &lt;br/&gt;
-                  &lt;br/&gt;
-                &lt;P&gt;&lt;STRONG&gt;B2&lt;/STRONG&gt; buses are detoured, due to milling on E 36 St between Fillmore Av and Avenue S. &lt;/P&gt;
-&lt;P&gt;Detour is as follows:&lt;/P&gt;
-&lt;P&gt;&lt;STRONG&gt;E 16 St-bound&lt;/STRONG&gt;: Via Flatbush Av, left on Fillmore Av, right on W 36 St and regular route.&lt;/P&gt;
-&lt;P&gt;&lt;STRONG&gt;Kings Plaza-bound:&lt;/STRONG&gt; Via E 36 St, left on Fillmore Av, right on Flatbush Av and regular route.&lt;/P&gt;
-&lt;P&gt;Allow additional travel time.&lt;/P&gt;
-              &lt;br/&gt;
-              &lt;br/&gt;
-            
                   &lt;span class="TitlePlannedWork" &gt;Planned Detour&lt;/span&gt;
                   &lt;br/&gt;
                 &lt;a class="plannedWorkDetailLink" onclick=ShowHide(117571);&gt;
@@ -171,24 +136,6 @@
 &lt;br&gt;
 &lt;br&gt;&amp;#149; Please allow additional travel time.
 &lt;br&gt;&lt;b&gt;          &lt;/b&gt;&lt;/font&gt;&lt;a href=http://bustime.mta.info/#b9 target=_blank&gt;&lt;img height=30px src=http://web.mta.info/nyct/images/Bus_Time_logo.png&gt;&lt;/a&gt;
-&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
-              &lt;br/&gt;
-              &lt;br/&gt;
-            
-                  &lt;span class="TitlePlannedWork" &gt;Planned Detour&lt;/span&gt;
-                  &lt;br/&gt;
-                &lt;a class="plannedWorkDetailLink" onclick=ShowHide(127557);&gt;
-&lt;b&gt;B67 &lt;/b&gt;-&lt;b&gt; Northbound buses rerouted from Jay St at Prospect St to Bridge St at York St
-&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 127557 class="plannedWorkDetail" &gt;&lt;/b&gt;7 AM to 6 PM, Mon to Thu, Jun 20 - 23
-&lt;br&gt;
-&lt;br&gt;Due to construction, buses make corresponding stops along the detoured route.
-&lt;br&gt;
-&lt;br&gt;&lt;b&gt;&lt;i&gt;&lt;a style="cursor:pointer; text-decoration:underline;" onclick=ShowHide(1266510);&gt;Show Reroute Details&lt;/a&gt;&lt;/i&gt;&lt;/b&gt;
-&lt;br&gt;&lt;div id="1266510"; style="display:none;"&gt;Via Jay St
-&lt;br&gt;Right on Prospect St
-&lt;br&gt;Left on Bridge St
-&lt;br&gt;Right on York St then regular route&lt;/div&gt;
-&lt;br&gt;&lt;b&gt;
 &lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
               &lt;br/&gt;
               &lt;br/&gt;
@@ -223,7 +170,7 @@
               &lt;br/&gt;
             </text>
     <Date>06/22/2016</Date>
-    <Time> 4:52PM</Time>
+    <Time> 6:15PM</Time>
   </line>
   <line>
     <name>B100 - B103</name>
@@ -245,7 +192,18 @@
     <text>
                   &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                   &lt;span class="DateStyle"&gt;
-                  &amp;nbsp;Posted:&amp;nbsp;06/22/2016&amp;nbsp; 2:13PM
+                  &amp;nbsp;Posted:&amp;nbsp;06/22/2016&amp;nbsp; 6:15PM
+                  &lt;/span&gt;
+                  &lt;br/&gt;
+                  &lt;br/&gt;
+                &lt;P&gt;&lt;STRONG&gt;BX9&lt;/STRONG&gt;, &lt;STRONG&gt;BX12&lt;/STRONG&gt;, &lt;STRONG&gt;BX19&lt;/STRONG&gt; and &lt;STRONG&gt;BX22&lt;/STRONG&gt; buses are running with delays in both directions due to traffic conditions near the Bronx Zoo.&lt;/P&gt;
+&lt;P&gt;Allow additional travel time. &lt;/P&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
+                  &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                  &lt;span class="DateStyle"&gt;
+                  &amp;nbsp;Posted:&amp;nbsp;06/22/2016&amp;nbsp; 6:14PM
                   &lt;/span&gt;
                   &lt;br/&gt;
                   &lt;br/&gt;
@@ -256,7 +214,7 @@
             
                   &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
                   &lt;span class="DateStyle"&gt;
-                  &amp;nbsp;Posted:&amp;nbsp;06/22/2016&amp;nbsp; 2:11PM
+                  &amp;nbsp;Posted:&amp;nbsp;06/22/2016&amp;nbsp; 6:12PM
                   &lt;/span&gt;
                   &lt;br/&gt;
                   &lt;br/&gt;
@@ -283,7 +241,7 @@
               &lt;br/&gt;
             </text>
     <Date>06/22/2016</Date>
-    <Time> 2:13PM</Time>
+    <Time> 6:15PM</Time>
   </line>
   <line>
     <name>BXM1 - BXM18</name>
@@ -324,9 +282,26 @@
 &lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
               &lt;br/&gt;
               &lt;br/&gt;
+            
+                  &lt;span class="TitlePlannedWork" &gt;Planned Detour&lt;/span&gt;
+                  &lt;br/&gt;
+                &lt;a class="plannedWorkDetailLink" onclick=ShowHide(112044);&gt;
+&lt;b&gt;M9 and M103 - Southbound buses rerouted from Park Row at Worth St to Brooklyn Bridge
+&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 112044 class="plannedWorkDetail" &gt;&lt;/b&gt;6 PM to 5 AM, Mon to Fri, until further notice 
+&lt;br&gt;
+&lt;br&gt;Due to construction, buses make corresponding stops along the detoured route.
+&lt;br&gt;
+&lt;br&gt;&lt;i&gt;Reroute Details
+&lt;br&gt;&lt;/i&gt;Via Bowery
+&lt;br&gt;Right on Worth St
+&lt;br&gt;Left on Lafayette St then regular route
+&lt;br&gt;&lt;b&gt;                      [TP]
+&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
             </text>
     <Date>06/22/2016</Date>
-    <Time> 4:52PM</Time>
+    <Time> 6:12PM</Time>
   </line>
   <line>
     <name>Q1 - Q113</name>
@@ -351,20 +326,6 @@
                   &lt;br/&gt;
                 &lt;P&gt;&lt;STRONG&gt;Q58 &lt;/STRONG&gt;buses are running with delays in both directions due to traffic conditions on the Long Island Expressway between 108 St and College Point Blvd. &lt;/P&gt;
 &lt;P&gt;Allow additonal travel time.&lt;/P&gt;
-              &lt;br/&gt;
-              &lt;br/&gt;
-            
-                  &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
-                  &lt;span class="DateStyle"&gt;
-                  &amp;nbsp;Posted:&amp;nbsp;06/22/2016&amp;nbsp; 2:10PM
-                  &lt;/span&gt;
-                  &lt;br/&gt;
-                  &lt;br/&gt;
-                &lt;P&gt;&lt;STRONG&gt;Q66&lt;/STRONG&gt; and &lt;STRONG&gt;Q100&lt;/STRONG&gt; buses are detoured, due to Con Edison working on 28 St at 42 Rd. &lt;/P&gt;
-&lt;P&gt;Detour is as follows:&lt;/P&gt;
-&lt;P&gt;&lt;STRONG&gt;Q66 Flushing Bound&lt;/STRONG&gt;: Via 28 St, left on 42 Rd, right on Jackson Av, right on 43 Av, right on 21 St and regular route.&lt;/P&gt;
-&lt;P&gt;&lt;STRONG&gt;Q100 Rikers Island Bound: &lt;/STRONG&gt;Via 42 Rd, right on 28 St, right on Queens Plaza South, right on Jackson Av, right on 43 Av, right on 21 St and regular route.&lt;/P&gt;
-&lt;P&gt;Allow additional travel time.&lt;/P&gt;
               &lt;br/&gt;
               &lt;br/&gt;
             
@@ -483,7 +444,7 @@
     <text>
                   &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
                   &lt;span class="DateStyle"&gt;
-                  &amp;nbsp;Posted:&amp;nbsp;06/22/2016&amp;nbsp; 2:09PM
+                  &amp;nbsp;Posted:&amp;nbsp;06/22/2016&amp;nbsp; 6:12PM
                   &lt;/span&gt;
                   &lt;br/&gt;
                   &lt;br/&gt;
@@ -496,7 +457,7 @@
               &lt;br/&gt;
             </text>
     <Date>06/22/2016</Date>
-    <Time> 2:09PM</Time>
+    <Time> 6:12PM</Time>
   </line>
   <line>
     <name>x1 - x68</name>
@@ -518,22 +479,15 @@
               &lt;br/&gt;
             </text>
     <Date>06/22/2016</Date>
-    <Time> 4:52PM</Time>
+    <Time> 6:12PM</Time>
   </line>
 </bus><BT>
   <line>
     <name>Bronx-Whitestone</name>
-    <status>DELAYS</status>
-    <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;06/22/2016&amp;nbsp; 2:47PM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  BWB: DELAYS; QUEENS-BOUND DUE TO VOLUME; EXPECT DELAYS.
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>06/22/2016</Date>
-    <Time> 2:47PM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>Cross Bay</name>
@@ -683,32 +637,39 @@
   </line>
   <line>
     <name>West Hempstead</name>
-    <status>DELAYS</status>
-    <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;06/22/2016&amp;nbsp; 4:44PM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  &lt;SPAN style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; FLOAT: none; COLOR: rgb(0,0,0); FONT: medium Arial, Helvetica; WIDOWS: 1; DISPLAY: inline !important; LETTER-SPACING: normal; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px"&gt;&lt;FONT size=2&gt;The 4:04PM train from West Hempstead due Atlantic Terminal at 4:47PM is 13 minutes late as a result of operating at a slower speed due to a broken crossing gate west of Lakeview.&lt;/FONT&gt;&lt;/SPAN&gt;
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>06/22/2016</Date>
-    <Time> 4:44PM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
 </LIRR><MetroNorth>
   <line>
     <name>Hudson</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>DELAYS</status>
+    <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;06/22/2016&amp;nbsp; 6:12PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  Hudson Line customers are currently experiencing delays of up to 25 minutes due to the earlier Fire Department activity in the vicinity of Greystone.  Please listen for announcements at your station.
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>06/22/2016</Date>
+    <Time> 6:12PM</Time>
   </line>
   <line>
     <name>Harlem</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>DELAYS</status>
+    <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;06/22/2016&amp;nbsp; 6:12PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  Harlem Line customers are currently experiencing delays of 5 to 10 minutes due to congestion.  Please listen for announcements at your station.
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>06/22/2016</Date>
+    <Time> 6:12PM</Time>
   </line>
   <line>
     <name>Wassaic</name>
