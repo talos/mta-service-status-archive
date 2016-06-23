@@ -22,31 +22,17 @@
   </line>
   <line>
     <name>ACE</name>
-    <status>DELAYS</status>
-    <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;06/23/2016&amp;nbsp; 3:01PM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  Following an earlier incident at &lt;STRONG&gt;Jackson Hts-Roosevelt Av&lt;/STRONG&gt;, [E] and [F] service has resumed with residual delays.
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>06/23/2016</Date>
-    <Time> 3:01PM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>BDFM</name>
-    <status>DELAYS</status>
-    <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;06/23/2016&amp;nbsp; 3:01PM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  Following an earlier incident at &lt;STRONG&gt;Jackson Hts-Roosevelt Av&lt;/STRONG&gt;, [E] and [F] service has resumed with residual delays.
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>06/23/2016</Date>
-    <Time> 3:01PM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>G</name>
@@ -93,8 +79,23 @@
 </subway><bus>
   <line>
     <name>B1 - B84</name>
-    <status>DELAYS</status>
+    <status>SERVICE CHANGE</status>
     <text>
+                  &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                  &lt;span class="DateStyle"&gt;
+                  &amp;nbsp;Posted:&amp;nbsp;06/23/2016&amp;nbsp; 3:19PM
+                  &lt;/span&gt;
+                  &lt;br/&gt;
+                  &lt;br/&gt;
+                &lt;P&gt;&lt;STRONG&gt;B41&lt;/STRONG&gt; buses are detoured due to FDNY activity on Flatbush Av and Glenwood Rd. &lt;/P&gt;
+&lt;P&gt;Detour is as follows: &lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;Northbound:&lt;/STRONG&gt; Via Flatbush Av, right on Nostrand Av, left on Farugut Av, left on Nostrand Av and regular route. &lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;Southbound:&lt;/STRONG&gt; Via Flatbush Av, left on Farugut Av, right on Nostrand Av, left on Flatbush Av and regular route. &lt;/P&gt;
+&lt;P&gt;Corresponding stops will be made along detoured route. &lt;/P&gt;
+&lt;P&gt;Allow additional travel time. &lt;/P&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
                   &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                   &lt;span class="DateStyle"&gt;
                   &amp;nbsp;Posted:&amp;nbsp;06/23/2016&amp;nbsp; 3:10PM
@@ -216,7 +217,7 @@
               &lt;br/&gt;
             </text>
     <Date>06/23/2016</Date>
-    <Time> 3:10PM</Time>
+    <Time> 3:19PM</Time>
   </line>
   <line>
     <name>B100 - B103</name>
