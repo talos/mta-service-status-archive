@@ -1,8 +1,15 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>PLANNED WORK</status>
+    <status>DELAYS</status>
     <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;06/23/2016&amp;nbsp; 2:13AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  Due to an earlier incident at &lt;STRONG&gt;Rector St&lt;/STRONG&gt;, [1] and [2] train service has resumed with residual delays.
+                &lt;br/&gt;&lt;br/&gt;
+              
                     &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
                     &lt;br/&gt;
                   &lt;a class="plannedWorkDetailLink" onclick=ShowHide(125420);&gt;
@@ -74,7 +81,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>06/23/2016</Date>
-    <Time> 2:02AM</Time>
+    <Time> 2:13AM</Time>
   </line>
   <line>
     <name>456</name>
@@ -121,7 +128,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>06/23/2016</Date>
-    <Time> 2:02AM</Time>
+    <Time> 2:12AM</Time>
   </line>
   <line>
     <name>7</name>
@@ -234,7 +241,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>06/23/2016</Date>
-    <Time> 2:02AM</Time>
+    <Time> 2:12AM</Time>
   </line>
   <line>
     <name>BDFM</name>
@@ -299,7 +306,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>06/23/2016</Date>
-    <Time> 2:02AM</Time>
+    <Time> 2:12AM</Time>
   </line>
   <line>
     <name>G</name>
@@ -347,7 +354,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>06/23/2016</Date>
-    <Time> 2:02AM</Time>
+    <Time> 2:12AM</Time>
   </line>
   <line>
     <name>JZ</name>
@@ -383,7 +390,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>06/23/2016</Date>
-    <Time> 2:02AM</Time>
+    <Time> 2:12AM</Time>
   </line>
   <line>
     <name>S</name>
@@ -596,7 +603,7 @@
               &lt;br/&gt;
             </text>
     <Date>06/23/2016</Date>
-    <Time> 2:02AM</Time>
+    <Time> 2:12AM</Time>
   </line>
   <line>
     <name>Q1 - Q113</name>
@@ -702,7 +709,7 @@
               &lt;br/&gt;
             </text>
     <Date>06/23/2016</Date>
-    <Time> 2:02AM</Time>
+    <Time> 2:12AM</Time>
   </line>
   <line>
     <name>QM1 - QM25</name>
