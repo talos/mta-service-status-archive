@@ -92,8 +92,22 @@
 </subway><bus>
   <line>
     <name>B1 - B84</name>
-    <status>DELAYS</status>
+    <status>SERVICE CHANGE</status>
     <text>
+                  &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                  &lt;span class="DateStyle"&gt;
+                  &amp;nbsp;Posted:&amp;nbsp;06/24/2016&amp;nbsp; 8:10AM
+                  &lt;/span&gt;
+                  &lt;br/&gt;
+                  &lt;br/&gt;
+                &lt;P&gt;&lt;STRONG&gt;B2&lt;/STRONG&gt; buses are detoured, due to milling on E 36 St between Fillmore Av and Avenue S. &lt;/P&gt;
+&lt;P&gt;Detour is as follows:&lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;E 16 St-bound&lt;/STRONG&gt;: Via Flatbush Av, left on Fillmore Av, right on W 36 St and regular route.&lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;Kings Plaza-bound:&lt;/STRONG&gt; Via E 36 St, left on Fillmore Av, right on Flatbush Av and regular route.&lt;/P&gt;
+&lt;P&gt;Allow additional travel time.&lt;/P&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
                   &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                   &lt;span class="DateStyle"&gt;
                   &amp;nbsp;Posted:&amp;nbsp;06/24/2016&amp;nbsp; 8:09AM
@@ -117,20 +131,6 @@
 &lt;P&gt;&lt;STRONG&gt;Southbound&lt;/STRONG&gt;: Via Coney Island Av, right on Avenue J, left on Ocean Pkwy, left on Avenue L, right on Coney Island Av to regular route. &lt;/P&gt;
 &lt;P&gt;Allow additional travel time.&lt;/P&gt;
 &lt;P&gt; &lt;/P&gt;
-              &lt;br/&gt;
-              &lt;br/&gt;
-            
-                  &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
-                  &lt;span class="DateStyle"&gt;
-                  &amp;nbsp;Posted:&amp;nbsp;06/24/2016&amp;nbsp; 6:20AM
-                  &lt;/span&gt;
-                  &lt;br/&gt;
-                  &lt;br/&gt;
-                &lt;P&gt;&lt;STRONG&gt;B2&lt;/STRONG&gt; buses are detoured, due to milling on E 36 St between Fillmore Av and Avenue S. &lt;/P&gt;
-&lt;P&gt;Detour is as follows:&lt;/P&gt;
-&lt;P&gt;&lt;STRONG&gt;E 16 St-bound&lt;/STRONG&gt;: Via Flatbush Av, left on Fillmore Av, right on W 36 St and regular route.&lt;/P&gt;
-&lt;P&gt;&lt;STRONG&gt;Kings Plaza-bound:&lt;/STRONG&gt; Via E 36 St, left on Fillmore Av, right on Flatbush Av and regular route.&lt;/P&gt;
-&lt;P&gt;Allow additional travel time.&lt;/P&gt;
               &lt;br/&gt;
               &lt;br/&gt;
             
@@ -176,7 +176,7 @@
               &lt;br/&gt;
             </text>
     <Date>06/24/2016</Date>
-    <Time> 8:09AM</Time>
+    <Time> 8:10AM</Time>
   </line>
   <line>
     <name>B100 - B103</name>
@@ -194,8 +194,19 @@
   </line>
   <line>
     <name>BX1 - BX55</name>
-    <status>SERVICE CHANGE</status>
+    <status>DELAYS</status>
     <text>
+                  &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                  &lt;span class="DateStyle"&gt;
+                  &amp;nbsp;Posted:&amp;nbsp;06/24/2016&amp;nbsp; 8:10AM
+                  &lt;/span&gt;
+                  &lt;br/&gt;
+                  &lt;br/&gt;
+                &lt;P&gt;&lt;STRONG&gt;Bx9&lt;/STRONG&gt;, &lt;STRONG&gt;Bx12&lt;/STRONG&gt; and &lt;STRONG&gt;Bx12-SBS&lt;/STRONG&gt; buses are delayed in both directions, due to construction at Fordham Rd and Southern Blvd. &lt;/P&gt;
+&lt;P&gt;Allow additional travel time.&lt;/P&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
                   &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
                   &lt;span class="DateStyle"&gt;
                   &amp;nbsp;Posted:&amp;nbsp;06/24/2016&amp;nbsp; 8:09AM
@@ -236,17 +247,6 @@
               &lt;br/&gt;
               &lt;br/&gt;
             
-                  &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                  &lt;span class="DateStyle"&gt;
-                  &amp;nbsp;Posted:&amp;nbsp;06/24/2016&amp;nbsp; 6:19AM
-                  &lt;/span&gt;
-                  &lt;br/&gt;
-                  &lt;br/&gt;
-                &lt;P&gt;&lt;STRONG&gt;Bx9&lt;/STRONG&gt;, &lt;STRONG&gt;Bx12&lt;/STRONG&gt; and &lt;STRONG&gt;Bx12-SBS&lt;/STRONG&gt; buses are delayed in both directions, due to construction at Fordham Rd and Southern Blvd. &lt;/P&gt;
-&lt;P&gt;Allow additional travel time.&lt;/P&gt;
-              &lt;br/&gt;
-              &lt;br/&gt;
-            
                   &lt;span class="TitlePlannedWork" &gt;Planned Detour&lt;/span&gt;
                   &lt;br/&gt;
                 &lt;a class="plannedWorkDetailLink" onclick=ShowHide(127314);&gt;
@@ -262,7 +262,7 @@
               &lt;br/&gt;
             </text>
     <Date>06/24/2016</Date>
-    <Time> 8:09AM</Time>
+    <Time> 8:10AM</Time>
   </line>
   <line>
     <name>BXM1 - BXM18</name>
