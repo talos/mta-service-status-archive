@@ -22,15 +22,35 @@
   </line>
   <line>
     <name>ACE</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>SERVICE CHANGE</status>
+    <text>
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;06/24/2016&amp;nbsp; 9:48AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;P&gt;Due to signal problems at &lt;STRONG&gt;Queens Plaza&lt;/STRONG&gt;, the following service changes are in effect:&lt;/P&gt;
+&lt;P&gt;Northbound [M] trains are running on the [F] line from &lt;STRONG&gt;47-50 Sts-Rockefeller Ctr&lt;/STRONG&gt; to &lt;STRONG&gt;Jackson Hts-Roosevelt Av&lt;/STRONG&gt;.&lt;/P&gt;
+&lt;P&gt;Northbound [E] trains are running with delays.&lt;/P&gt;
+&lt;P&gt;Allow additional travel time.&lt;/P&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>06/24/2016</Date>
+    <Time> 9:48AM</Time>
   </line>
   <line>
     <name>BDFM</name>
-    <status>PLANNED WORK</status>
+    <status>SERVICE CHANGE</status>
     <text>
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;06/24/2016&amp;nbsp; 9:48AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;P&gt;Due to signal problems at &lt;STRONG&gt;Queens Plaza&lt;/STRONG&gt;, the following service changes are in effect:&lt;/P&gt;
+&lt;P&gt;Northbound [M] trains are running on the [F] line from &lt;STRONG&gt;47-50 Sts-Rockefeller Ctr&lt;/STRONG&gt; to &lt;STRONG&gt;Jackson Hts-Roosevelt Av&lt;/STRONG&gt;.&lt;/P&gt;
+&lt;P&gt;Northbound [E] trains are running with delays.&lt;/P&gt;
+&lt;P&gt;Allow additional travel time.&lt;/P&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              
                     &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
                     &lt;br/&gt;
                   &lt;a class="plannedWorkDetailLink" onclick=ShowHide(124199);&gt;
@@ -45,7 +65,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>06/24/2016</Date>
-    <Time> 9:42AM</Time>
+    <Time> 9:48AM</Time>
   </line>
   <line>
     <name>G</name>
@@ -104,8 +124,19 @@
 </subway><bus>
   <line>
     <name>B1 - B84</name>
-    <status>SERVICE CHANGE</status>
+    <status>DELAYS</status>
     <text>
+                  &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                  &lt;span class="DateStyle"&gt;
+                  &amp;nbsp;Posted:&amp;nbsp;06/24/2016&amp;nbsp; 9:47AM
+                  &lt;/span&gt;
+                  &lt;br/&gt;
+                  &lt;br/&gt;
+                &lt;P&gt;&lt;STRONG&gt;B12&lt;/STRONG&gt; buses are running with delays in both directions, due to construction on Clarkson Av between Rogers Av and Nostrand Av. &lt;/P&gt;
+&lt;P&gt;Allow additional travel time.&lt;/P&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
                   &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
                   &lt;span class="DateStyle"&gt;
                   &amp;nbsp;Posted:&amp;nbsp;06/24/2016&amp;nbsp; 8:10AM
@@ -188,7 +219,7 @@
               &lt;br/&gt;
             </text>
     <Date>06/24/2016</Date>
-    <Time> 8:10AM</Time>
+    <Time> 9:47AM</Time>
   </line>
   <line>
     <name>B100 - B103</name>
