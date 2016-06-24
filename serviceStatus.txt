@@ -111,18 +111,8 @@
 </subway><bus>
   <line>
     <name>B1 - B84</name>
-    <status>DELAYS</status>
+    <status>SERVICE CHANGE</status>
     <text>
-                  &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                  &lt;span class="DateStyle"&gt;
-                  &amp;nbsp;Posted:&amp;nbsp;06/23/2016&amp;nbsp; 7:46PM
-                  &lt;/span&gt;
-                  &lt;br/&gt;
-                  &lt;br/&gt;
-                Following an earlier incident on Caton Av, &lt;STRONG&gt;B16&lt;/STRONG&gt; bus service has resumed with residual delays.
-              &lt;br/&gt;
-              &lt;br/&gt;
-            
                   &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
                   &lt;span class="DateStyle"&gt;
                   &amp;nbsp;Posted:&amp;nbsp;06/23/2016&amp;nbsp; 6:25PM
@@ -194,7 +184,7 @@
               &lt;br/&gt;
             </text>
     <Date>06/23/2016</Date>
-    <Time> 7:46PM</Time>
+    <Time> 6:25PM</Time>
   </line>
   <line>
     <name>B100 - B103</name>
@@ -401,18 +391,8 @@
   </line>
   <line>
     <name>Q1 - Q113</name>
-    <status>DELAYS</status>
+    <status>SERVICE CHANGE</status>
     <text>
-                  &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                  &lt;span class="DateStyle"&gt;
-                  &amp;nbsp;Posted:&amp;nbsp;06/23/2016&amp;nbsp; 7:40PM
-                  &lt;/span&gt;
-                  &lt;br/&gt;
-                  &lt;br/&gt;
-                Following an earlier incident on the Long Island Expy, &lt;STRONG&gt;Q58&lt;/STRONG&gt; bus service has resumed with residual delays.
-              &lt;br/&gt;
-              &lt;br/&gt;
-            
                   &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
                   &lt;span class="DateStyle"&gt;
                   &amp;nbsp;Posted:&amp;nbsp;06/23/2016&amp;nbsp; 6:33PM
@@ -597,7 +577,7 @@
               &lt;br/&gt;
             </text>
     <Date>06/23/2016</Date>
-    <Time> 7:40PM</Time>
+    <Time> 6:33PM</Time>
   </line>
   <line>
     <name>QM1 - QM25</name>
@@ -695,10 +675,15 @@
   </line>
   <line>
     <name>Hugh L. Carey</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>PLANNED WORK</status>
+    <text>
+                    &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
+                    &lt;br/&gt;
+                  HLC: PLANNED WORK; BROOKLYN BOUND TUBE CLOSED. 2-WAY OPERATION IN THE MANHATTAN BOUND TUBE. MOTORISTS ARE ADVISED TO EXPECT DELAYS.
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>06/23/2016</Date>
+    <Time> 7:58PM</Time>
   </line>
   <line>
     <name>Marine Parkway</name>
