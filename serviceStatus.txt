@@ -599,8 +599,21 @@
 </subway><bus>
   <line>
     <name>B1 - B84</name>
-    <status>PLANNED WORK</status>
+    <status>SERVICE CHANGE</status>
     <text>
+                  &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                  &lt;span class="DateStyle"&gt;
+                  &amp;nbsp;Posted:&amp;nbsp;06/25/2016&amp;nbsp;11:15AM
+                  &lt;/span&gt;
+                  &lt;br/&gt;
+                  &lt;br/&gt;
+                &lt;P&gt;&lt;STRONG&gt;B57 &lt;/STRONG&gt;buses are detoured, due to a parade on Court St. &lt;/P&gt;
+&lt;P&gt;Detour is as follows:&lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;B57 Ikea-bound&lt;/STRONG&gt;: Via Court St, left on Atlantic Av,,right on 3 Av, right on 9 St, left on Court St and regular route.&lt;/P&gt;
+&lt;P&gt;Allow additional travel time.&lt;/P&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
                   &lt;span class="TitlePlannedWork" &gt;Planned Detour&lt;/span&gt;
                   &lt;br/&gt;
                 &lt;a class="plannedWorkDetailLink" onclick=ShowHide(117571);&gt;
@@ -700,7 +713,7 @@
               &lt;br/&gt;
             </text>
     <Date>06/25/2016</Date>
-    <Time>11:12AM</Time>
+    <Time>11:15AM</Time>
   </line>
   <line>
     <name>B100 - B103</name>
