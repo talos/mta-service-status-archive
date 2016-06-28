@@ -1,17 +1,57 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>PLANNED WORK</status>
+    <text>
+                    &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
+                    &lt;br/&gt;
+                  &lt;a class="plannedWorkDetailLink" onclick=ShowHide(128002);&gt;
+&lt;b&gt;[3] No trains running
+&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 128002 class="plannedWorkDetail" &gt;[2] trains and [SB] free shuttle buses provide alternate service
+&lt;br&gt;&lt;/b&gt;Late Night, 11:45 PM Mon to 5 AM Tue, Jun 27 - 28
+&lt;br&gt;&lt;i&gt;                     &lt;/i&gt;                        
+&lt;br&gt;&lt;/font&gt;[2]* trains make all &lt;b&gt;[3]&lt;/b&gt; stops between &lt;b&gt;Times Sq-42 St &lt;/b&gt;and &lt;b&gt;135 St&lt;/b&gt;.
+&lt;br&gt;
+&lt;br&gt;[SB] buses operate between &lt;b&gt;135 St &lt;/b&gt;and &lt;b&gt;148 St&lt;/b&gt;, stopping at 145 St.
+&lt;br&gt;&lt;/font&gt;  &amp;#149; Transfer between trains and [SB] buses at &lt;b&gt;135 St&lt;/b&gt;.
+&lt;br&gt;
+&lt;br&gt;&lt;table class=plannedworkTableStyle  border=1 cellspacing=1 cellpadding=3 rules=rows frame=hsides&gt;&lt;tr bgcolor=#FAF8CC&gt;&lt;td&gt;&lt;b&gt;Station&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/b&gt;&lt;/td&gt;&lt;td&gt;&lt;b&gt;Bus Stop&lt;/b&gt;&lt;td&gt;&lt;b&gt;Bus&lt;/b&gt;&lt;tr&gt;&lt;td&gt;135 St&amp;nbsp;&amp;nbsp;[ad]&amp;nbsp;&amp;nbsp;[2]&amp;nbsp;&amp;nbsp;&lt;td&gt;Lenox Av at 135 St&lt;td&gt;[SB], &lt;b&gt;M7&lt;/b&gt;, &lt;b&gt;M102&lt;/b&gt;&lt;tr&gt;&lt;td&gt;145 St&lt;td&gt;Lenox Av at 145 St&lt;td&gt;[SB], &lt;b&gt;M7&lt;/b&gt;, &lt;b&gt;M102&lt;/b&gt;&lt;tr&gt;&lt;td&gt;148 St&lt;td&gt;Adam Clayton Powell Jr Blvd at 149 St&lt;td&gt;[SB]&lt;/table&gt;
+&lt;br&gt;&lt;i&gt;*Please review [2] advisories for additional information that may affect your trip.
+&lt;br&gt;
+&lt;br&gt;&lt;/i&gt;&lt;b&gt;Reminder: &lt;/b&gt;&lt;a href=http://advisory.mtanyct.info/pdf_files/NightMap.pdf target=_blank&gt;&lt;font color=#0000FF&gt;&lt;b&gt;&lt;u&gt;Late Night&lt;/u&gt;&lt;/b&gt;&lt;/font&gt;&lt;/a&gt;&lt;b&gt; &lt;/b&gt;service for lower Manhattan and Brooklyn is provided by the [2] and [4]. 
+&lt;br&gt;&lt;b&gt;
+&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>06/27/2016</Date>
+    <Time>11:52PM</Time>
   </line>
   <line>
     <name>456</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>PLANNED WORK</status>
+    <text>
+                    &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
+                    &lt;br/&gt;
+                  &lt;a class="plannedWorkDetailLink" onclick=ShowHide(126153);&gt;
+&lt;b&gt;[6] Brooklyn Bridge-bound trains run express from Parkchester to 3 Av-138 St
+&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 126153 class="plannedWorkDetail" &gt;&lt;/b&gt;Late Nights, 11:45 PM to 5 AM, Mon to Fri, Jun 27 - Jul 1
+&lt;br&gt;
+&lt;br&gt;Trains stop at Hunts Point Av.
+&lt;br&gt;
+&lt;br&gt;For service &lt;i&gt;to&lt;/i&gt; St Lawrence Av, Morrison-Soundview Av, Elder and Whitlock Avs, take the [6] to
+&lt;br&gt;Hunts Point Av and transfer to a Pelham Bay Park-bound [6].
+&lt;br&gt;
+&lt;br&gt;For service &lt;i&gt;to&lt;/i&gt; Longwood Av, E 149, E 143 Sts, Cypress and Brook Avs,
+&lt;br&gt;take the [6] to 3 Av-138 St and transfer to a Pelham Bay Park-bound [6].
+&lt;br&gt;
+&lt;br&gt;For service &lt;i&gt;from&lt;/i&gt; these stations, take the [6] to Hunts Point Av or Parkchester
+&lt;br&gt;and transfer to a Brooklyn Bridge-bound [6].
+&lt;br&gt;&lt;b&gt;
+&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>06/27/2016</Date>
+    <Time>11:52PM</Time>
   </line>
   <line>
     <name>7</name>
@@ -39,9 +79,55 @@
 &lt;br&gt;&lt;b&gt;
 &lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
                 &lt;br/&gt;&lt;br/&gt;
+              
+                    &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
+                    &lt;br/&gt;
+                  &lt;a class="plannedWorkDetailLink" onclick=ShowHide(126057);&gt;
+&lt;b&gt;[A] Ozone Park/Far Rockaway-bound trains skip 135, 116, 110, 103, 96, 86, 81 and 72 Sts
+&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 126057 class="plannedWorkDetail" &gt;&lt;/b&gt;Late Nights, 11:45 PM to 5 AM, &lt;/font&gt;Mon to Fri, Jun 27 - Jul 1   
+&lt;br&gt;
+&lt;br&gt;For service&lt;i&gt; to&lt;/i&gt; 135 St, take the [A] to 125 St and transfer to an Inwood-bound [A].
+&lt;br&gt;
+&lt;br&gt;For service&lt;i&gt; from&lt;/i&gt; this station, take the [A] to 145 St and transfer to an Ozone Park/Far Rockaway-bound [A].
+&lt;br&gt;
+&lt;br&gt;For service &lt;i&gt;to&lt;/i&gt; 116, 110, 103, 96, 86, 81 and 72 Sts, take the [A] to 59 St-Columbus Circle and transfer to an uptown [A] or [D]*.
+&lt;br&gt;
+&lt;br&gt;For service &lt;i&gt;from&lt;/i&gt; these stations, take the [A] or [D] to 125 St and transfer to an 
+&lt;br&gt;Ozone Park/Far Rockaway-bound [A].
+&lt;br&gt;
+&lt;br&gt;&lt;i&gt;*This detour has taken into account additional planned service changes.
+&lt;br&gt;&lt;/i&gt;&lt;b&gt;
+&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              
+                    &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
+                    &lt;br/&gt;
+                  &lt;a class="plannedWorkDetailLink" onclick=ShowHide(125549);&gt;
+&lt;b&gt;[A] Inwood-bound trains run via the [F] from Jay St-MetroTech to W 4 St
+&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 125549 class="plannedWorkDetail" &gt;&lt;/b&gt;Late Nights, 11:45 PM to 5 AM, &lt;/font&gt;Mon to Fri, Jun 27 - Jul 1    
+&lt;br&gt;
+&lt;br&gt;No Inwood-bound service at &lt;b&gt;High&lt;/b&gt;, &lt;b&gt;Fulton&lt;/b&gt;, &lt;b&gt;Chambers&lt;/b&gt;, &lt;b&gt;Canal&lt;/b&gt; and &lt;b&gt;Spring Sts&lt;/b&gt;.
+&lt;br&gt;
+&lt;br&gt;For service &lt;i&gt;to &lt;/i&gt;&lt;b&gt;High&lt;/b&gt;, &lt;b&gt;Chambers&lt;/b&gt;, &lt;b&gt;Canal&lt;/b&gt; and &lt;b&gt;Spring Sts&lt;/b&gt;, take the &lt;b&gt;[A]&lt;/b&gt; to W 4 St and transfer to an 
+&lt;br&gt;Ozone Park/Far Rockaway-bound &lt;b&gt;[A]&lt;/b&gt;.
+&lt;br&gt;
+&lt;br&gt;For service &lt;i&gt;from &lt;/i&gt;&lt;b&gt;High St&lt;/b&gt;, take the &lt;b&gt;[A]&lt;/b&gt; to Jay St-MetroTech and transfer to an Inwood-bound &lt;b&gt;[A]&lt;/b&gt;.
+&lt;br&gt;
+&lt;br&gt;For &lt;b&gt;Fulton St&lt;/b&gt;, take the [J] instead. Transfer between trains at Delancey St/Essex St [F] Station.
+&lt;br&gt;
+&lt;br&gt;For service &lt;i&gt;from&lt;/i&gt; &lt;b&gt;Chambers&lt;/b&gt;, &lt;b&gt;Canal&lt;/b&gt; and &lt;b&gt;Spring Sts&lt;/b&gt;, take the [E] instead. Transfer between trains&lt;b&gt; &lt;/b&gt;at W 4 St.
+&lt;br&gt;
+&lt;br&gt;&lt;/font&gt;&lt;b&gt;&lt;i&gt;Alternate travel notes:
+&lt;br&gt;&lt;/b&gt;&lt;/i&gt;For High St, use the nearby &lt;a href=http://web.mta.info/weekender/tileMap.html?staID=10262 target=_blank&gt;&lt;font color=#0000FF&gt;&lt;b&gt;&lt;u&gt;&lt;/font&gt;York St&lt;/u&gt;&lt;/b&gt;&lt;/font&gt;&lt;/a&gt; [F] Station&lt;/font&gt; instead.
+&lt;br&gt;&lt;i&gt;From&lt;/i&gt; Fulton St, use the nearby &lt;a href=http://web.mta.info/weekender/tileMap.html?staID=10255 target=_blank&gt;&lt;font color=#0000FF&gt;&lt;b&gt;&lt;u&gt;World Trade Center&lt;/u&gt;&lt;/b&gt;&lt;/font&gt;&lt;/a&gt; [E] Station&lt;/font&gt; instead. Transfer to the &lt;b&gt;[A]&lt;/b&gt; at W 4 St.
+&lt;br&gt;
+&lt;br&gt;&lt;/font&gt;&lt;table class=plannedworkTableStyle  border=1 cellspacing=1 cellpadding=5 rules=none frame=box&gt;&lt;td&gt;&amp;nbsp;&amp;nbsp;[ad]&amp;nbsp;&amp;nbsp;&lt;td&gt;&lt;font size=1&gt;This service change affects one or more ADA accessible stations. Please call 511 for help with planning&lt;br&gt;your trip. If you are deaf or hard of hearing, use your preferred relay service provider or the free 711 relay.&amp;nbsp;&amp;nbsp;&lt;/font&gt;&lt;/table&gt;
+&lt;br&gt;&lt;b&gt;
+&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+                &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>06/27/2016</Date>
-    <Time>11:42PM</Time>
+    <Time>11:52PM</Time>
   </line>
   <line>
     <name>BDFM</name>
@@ -89,6 +175,30 @@
               
                     &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
                     &lt;br/&gt;
+                  &lt;a class="plannedWorkDetailLink" onclick=ShowHide(126066);&gt;
+&lt;b&gt;[F] Jamaica-bound trains run via the [M] from 47-50 Sts to Roosevelt Av
+&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 126066 class="plannedWorkDetail" &gt;&lt;/b&gt;Late Nights, 11:45 PM to 5 AM, Mon to Fri, Jun 27 - Jul 1
+&lt;br&gt;
+&lt;br&gt;No Jamaica-bound service at &lt;b&gt;57 St&lt;/b&gt;, &lt;b&gt;Lexington Av/63 St&lt;/b&gt;, &lt;b&gt;Roosevelt Island&lt;/b&gt; and 
+&lt;br&gt;&lt;b&gt;21 St-Queensbridge&lt;/b&gt;.
+&lt;br&gt;
+&lt;br&gt;&lt;table class=plannedworkTableStyle  width=80%&gt;&lt;tr&gt;&lt;td&gt;&lt;font size=3&gt;&lt;b&gt;Travel Alternatives&lt;/b&gt;&lt;/font&gt;&lt;td align=right&gt;[TP]&lt;/table&gt;
+&lt;br&gt;&amp;#149; &lt;i&gt;To&lt;/i&gt; &lt;b&gt;57 St&lt;/b&gt;, take the Jamaica-bound [F] to nearby &lt;a href=http://web.mta.info/weekender/tileMap.html?staID=10254 target=_blank&gt;&lt;font color=#0000FF&gt;&lt;b&gt;&lt;u&gt;5 Av/53 St&lt;/u&gt;&lt;/b&gt;&lt;/font&gt;&lt;/a&gt;. 
+&lt;br&gt;  &lt;i&gt;Or&lt;/i&gt;, transfer at 34 St-Herald Sq to an uptown [N] or [Q] for service to nearby &lt;a href=http://web.mta.info/weekender/tileMap.html?staID=18664 target=_blank&gt;&lt;font color=#0000FF&gt;&lt;b&gt;&lt;u&gt;57 St-7 Av&lt;/u&gt;&lt;/b&gt;&lt;/font&gt;&lt;/a&gt;. 
+&lt;br&gt;&amp;#149; &lt;i&gt;To&lt;/i&gt; &lt;b&gt;Lexington Av/63 St&lt;/b&gt;, take the [F] to Lexington Av/53 St and transfer to an uptown [4] &lt;i&gt;local&lt;/i&gt; or [6] 
+&lt;br&gt;   to nearby &lt;a href=http://web.mta.info/weekender/tileMap.html?staID=18190 target=_blank&gt;&lt;font color=#0000FF&gt;&lt;b&gt;&lt;u&gt;59 St&lt;/u&gt;&lt;/b&gt;&lt;/font&gt;&lt;/a&gt;. 
+&lt;br&gt;&amp;#149; &lt;i&gt;To&lt;/i&gt;&lt;b&gt; Roosevelt Island &lt;/b&gt;and &lt;b&gt;21 St-Queensbridge&lt;/b&gt;, take the [F] to Roosevelt Av and transfer to a
+&lt;br&gt;   Coney Island-bound [F]. 
+&lt;br&gt;
+&lt;br&gt;&amp;#149; &lt;i&gt;From&lt;/i&gt; these stations, take a Coney Island-bound [F] to 47-50 Sts and transfer to a Jamaica-bound [F]. 
+&lt;br&gt;
+&lt;br&gt;&lt;/font&gt;&lt;table class=plannedworkTableStyle  border=1 cellspacing=1 cellpadding=5 rules=none frame=box&gt;&lt;td&gt;&amp;nbsp;&amp;nbsp;[ad]&amp;nbsp;&amp;nbsp;&lt;td&gt;&lt;font size=1&gt;This service change affects one or more ADA accessible stations. Please call 511 for help with planning&lt;br&gt;your trip. If you are deaf or hard of hearing, use your preferred relay service provider or the free 711 relay.&amp;nbsp;&amp;nbsp;&lt;/font&gt;&lt;/table&gt;
+&lt;br&gt;&lt;b&gt;
+&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              
+                    &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
+                    &lt;br/&gt;
                   &lt;a class="plannedWorkDetailLink" onclick=ShowHide(125564);&gt;
 &lt;b&gt;[F] Trains skip Bergen St, Carroll St and Smith-9 Sts in both directions
 &lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 125564 class="plannedWorkDetail" &gt;[SB] Free shuttle buses provide alternate service
@@ -108,7 +218,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>06/27/2016</Date>
-    <Time>11:42PM</Time>
+    <Time>11:52PM</Time>
   </line>
   <line>
     <name>G</name>
@@ -141,7 +251,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>06/27/2016</Date>
-    <Time>11:42PM</Time>
+    <Time>11:52PM</Time>
   </line>
   <line>
     <name>JZ</name>
@@ -275,7 +385,7 @@
               &lt;br/&gt;
             </text>
     <Date>06/27/2016</Date>
-    <Time>11:42PM</Time>
+    <Time>11:52PM</Time>
   </line>
   <line>
     <name>BXM1 - BXM18</name>
