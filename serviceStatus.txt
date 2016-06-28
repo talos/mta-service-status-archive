@@ -1,8 +1,16 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>PLANNED WORK</status>
+    <status>DELAYS</status>
     <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;06/28/2016&amp;nbsp;11:08AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;P&gt;Due to signal problems between &lt;STRONG&gt;Atlantic Av-Barclays Ctr&lt;/STRONG&gt; and &lt;STRONG&gt;Fulton St&lt;/STRONG&gt;, [2], [3], [4] and [5] trains are delayed in both directions. &lt;/P&gt;
+&lt;P&gt;Allow additional travel time.&lt;/P&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              
                     &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
                     &lt;br/&gt;
                   &lt;a class="plannedWorkDetailLink" onclick=ShowHide(126154);&gt;
@@ -24,12 +32,20 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>06/28/2016</Date>
-    <Time>11:02AM</Time>
+    <Time>11:08AM</Time>
   </line>
   <line>
     <name>456</name>
-    <status>PLANNED WORK</status>
+    <status>DELAYS</status>
     <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;06/28/2016&amp;nbsp;11:08AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;P&gt;Due to signal problems between &lt;STRONG&gt;Atlantic Av-Barclays Ctr&lt;/STRONG&gt; and &lt;STRONG&gt;Fulton St&lt;/STRONG&gt;, [2], [3], [4] and [5] trains are delayed in both directions. &lt;/P&gt;
+&lt;P&gt;Allow additional travel time.&lt;/P&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              
                     &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
                     &lt;br/&gt;
                   &lt;a class="plannedWorkDetailLink" onclick=ShowHide(126154);&gt;
@@ -51,7 +67,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>06/28/2016</Date>
-    <Time>11:02AM</Time>
+    <Time>11:08AM</Time>
   </line>
   <line>
     <name>7</name>
