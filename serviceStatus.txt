@@ -22,15 +22,13 @@
   </line>
   <line>
     <name>ACE</name>
-    <status>SERVICE CHANGE</status>
+    <status>DELAYS</status>
     <text>
-                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;06/27/2016&amp;nbsp; 8:55PM
+                    &amp;nbsp;Posted:&amp;nbsp;06/27/2016&amp;nbsp; 9:16PM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  &lt;P&gt;Due to a train with mechanical problems at &lt;STRONG&gt;42 St-Port Authority&lt;/STRONG&gt;, southbound [A] trains are running local from &lt;STRONG&gt;59 St-Columbus Circle&lt;/STRONG&gt; to &lt;STRONG&gt;Canal St&lt;/STRONG&gt;. &lt;/P&gt;
-&lt;P&gt;Expect delays on southbound [C] and [E] trains.&lt;/P&gt;
-&lt;P&gt;Allow additional travel time.&lt;/P&gt;
+                  Following an earlier incident at &lt;STRONG&gt;42 St-Port Authority&lt;/STRONG&gt;, [A] service has resumed with residual delays.
                 &lt;br/&gt;&lt;br/&gt;
               
                     &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
@@ -42,7 +40,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>06/27/2016</Date>
-    <Time> 8:55PM</Time>
+    <Time> 9:16PM</Time>
   </line>
   <line>
     <name>BDFM</name>
@@ -147,8 +145,23 @@
 </subway><bus>
   <line>
     <name>B1 - B84</name>
-    <status>PLANNED WORK</status>
+    <status>SERVICE CHANGE</status>
     <text>
+                  &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                  &lt;span class="DateStyle"&gt;
+                  &amp;nbsp;Posted:&amp;nbsp;06/27/2016&amp;nbsp; 9:16PM
+                  &lt;/span&gt;
+                  &lt;br/&gt;
+                  &lt;br/&gt;
+                &lt;P&gt;&lt;STRONG&gt;B3&lt;/STRONG&gt; buses are detoured both directions, due to milling on Avenue U between Ocean Av and Coney Island Av. &lt;/P&gt;
+&lt;P&gt;Detour is as follows:&lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;Westbound :&lt;/STRONG&gt;Via Av U, right on Ocean Av, left on Av T, left on Coney Island Av, right on Av U and regular route.&lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;Eastbound &lt;/STRONG&gt;:Via Av U, left on Coney Island Av, right on Av T, right on Ocean Av, left on Av U and regular route.&lt;/P&gt;
+&lt;P&gt;Corresponding stops will be made on detour route.&lt;/P&gt;
+&lt;P&gt;Allow additional travel time.&lt;/P&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
                   &lt;span class="TitlePlannedWork" &gt;Planned Detour&lt;/span&gt;
                   &lt;br/&gt;
                 &lt;a class="plannedWorkDetailLink" onclick=ShowHide(117571);&gt;
@@ -191,7 +204,7 @@
               &lt;br/&gt;
             </text>
     <Date>06/27/2016</Date>
-    <Time> 9:12PM</Time>
+    <Time> 9:16PM</Time>
   </line>
   <line>
     <name>B100 - B103</name>
