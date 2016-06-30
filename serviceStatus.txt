@@ -528,15 +528,10 @@
 </bus><BT>
   <line>
     <name>Bronx-Whitestone</name>
-    <status>PLANNED WORK</status>
-    <text>
-                    &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
-                    &lt;br/&gt;
-                  BWB planned work Queens bound. One lane closed. Expect delays.
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>06/30/2016</Date>
-    <Time>10:55AM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>Cross Bay</name>
@@ -561,10 +556,17 @@
   </line>
   <line>
     <name>Marine Parkway</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>DELAYS</status>
+    <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;06/30/2016&amp;nbsp;12:54PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  Marine Park Bridge - Bridge lift in progress for marine traffic. Expect delays.
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>06/30/2016</Date>
+    <Time>12:54PM</Time>
   </line>
   <line>
     <name>Queens Midtown</name>
