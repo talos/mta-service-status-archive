@@ -608,10 +608,17 @@ operating 17 minutes late due to a broken crossing gate near Westbury.
   </line>
   <line>
     <name>New Haven</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>DELAYS</status>
+    <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;07/01/2016&amp;nbsp; 9:00AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  New Haven Line Customers may experience delays up to 15 minutes Westbound and 40 minutes Eastbound due to overhead wire damage in the vicinity of South Norwalk. Please listen for announcements at your station.
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>07/01/2016</Date>
+    <Time> 9:00AM</Time>
   </line>
   <line>
     <name>New Canaan</name>
