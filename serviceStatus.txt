@@ -1,11 +1,11 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>DELAYS</status>
+    <status>SERVICE CHANGE</status>
     <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;07/01/2016&amp;nbsp; 6:19PM
+                    &amp;nbsp;Posted:&amp;nbsp;07/01/2016&amp;nbsp; 6:23PM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
                   &lt;P&gt;Due to a train with an unconscious passenger at &lt;STRONG&gt;Franklin Av&lt;/STRONG&gt;, the following service changes are in effect:&lt;/P&gt;
 &lt;P&gt;Southbound [4] and [5] trains are running local from &lt;STRONG&gt;Atlantic Av-Barclays Center&lt;/STRONG&gt; to &lt;STRONG&gt;Franklin Av&lt;/STRONG&gt;. &lt;/P&gt;
@@ -14,24 +14,33 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>07/01/2016</Date>
-    <Time> 6:19PM</Time>
+    <Time> 6:23PM</Time>
   </line>
   <line>
     <name>456</name>
-    <status>DELAYS</status>
+    <status>SERVICE CHANGE</status>
     <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;07/01/2016&amp;nbsp; 6:19PM
+                    &amp;nbsp;Posted:&amp;nbsp;07/01/2016&amp;nbsp; 6:23PM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
                   &lt;P&gt;Due to a train with an unconscious passenger at &lt;STRONG&gt;Franklin Av&lt;/STRONG&gt;, the following service changes are in effect:&lt;/P&gt;
 &lt;P&gt;Southbound [4] and [5] trains are running local from &lt;STRONG&gt;Atlantic Av-Barclays Center&lt;/STRONG&gt; to &lt;STRONG&gt;Franklin Av&lt;/STRONG&gt;. &lt;/P&gt;
 &lt;P&gt;This service change impacts [2][3][4][5] trains with delays in both directions. &lt;/P&gt;
 &lt;P&gt;Allow additional travel time.&lt;/P&gt;
                 &lt;br/&gt;&lt;br/&gt;
+              
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;07/01/2016&amp;nbsp; 6:22PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;P&gt;Due to a train with mechanical problems at &lt;STRONG&gt;167 St&lt;/STRONG&gt;, the following service changes are in effect:&lt;/P&gt;
+&lt;P&gt;Southbound [4] trains are running express from &lt;STRONG&gt;Burnside Av&lt;/STRONG&gt; to &lt;STRONG&gt;149 St-Grand Concourse&lt;/STRONG&gt;.&lt;/P&gt;
+&lt;P&gt;Allow additional travel time. &lt;/P&gt;
+                &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>07/01/2016</Date>
-    <Time> 6:19PM</Time>
+    <Time> 6:23PM</Time>
   </line>
   <line>
     <name>7</name>
@@ -656,10 +665,17 @@
   </line>
   <line>
     <name>Ronkonkoma</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>DELAYS</status>
+    <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;07/01/2016&amp;nbsp; 6:22PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  The 5:21PM train from Ronkonkoma due Greenport at 6:45PM is 12 minutes late due to operating at a slower speed due to broken crossing gates near Riverhead.
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>07/01/2016</Date>
+    <Time> 6:22PM</Time>
   </line>
   <line>
     <name>West Hempstead</name>
