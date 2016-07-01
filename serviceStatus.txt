@@ -1,10 +1,18 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>SERVICE CHANGE</status>
+    <text>
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;07/01/2016&amp;nbsp; 5:12AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;P&gt;Due to NYPD activity at &lt;STRONG&gt;18 St&lt;/STRONG&gt;, some [2] trains are running on the [5] line from &lt;STRONG&gt;149 St-Grand Concourse&lt;/STRONG&gt; to &lt;STRONG&gt;Nevins St&lt;/STRONG&gt; in both directions. &lt;/P&gt;
+&lt;P&gt;Allow additional travel time.&lt;/P&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>07/01/2016</Date>
+    <Time> 5:12AM</Time>
   </line>
   <line>
     <name>456</name>
@@ -162,7 +170,7 @@
               &lt;br/&gt;
             </text>
     <Date>07/01/2016</Date>
-    <Time> 5:02AM</Time>
+    <Time> 5:12AM</Time>
   </line>
   <line>
     <name>BXM1 - BXM18</name>
@@ -289,7 +297,7 @@
               &lt;br/&gt;
             </text>
     <Date>07/01/2016</Date>
-    <Time> 5:02AM</Time>
+    <Time> 5:12AM</Time>
   </line>
   <line>
     <name>QM1 - QM25</name>
