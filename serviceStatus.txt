@@ -176,7 +176,7 @@
     <text>
                   &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
                   &lt;span class="DateStyle"&gt;
-                  &amp;nbsp;Posted:&amp;nbsp;07/01/2016&amp;nbsp;12:13PM
+                  &amp;nbsp;Posted:&amp;nbsp;07/01/2016&amp;nbsp; 2:05PM
                   &lt;/span&gt;
                   &lt;br/&gt;
                   &lt;br/&gt;
@@ -262,7 +262,7 @@
               &lt;br/&gt;
             </text>
     <Date>07/01/2016</Date>
-    <Time>12:13PM</Time>
+    <Time> 2:05PM</Time>
   </line>
   <line>
     <name>B100 - B103</name>
@@ -310,6 +310,17 @@
     <text>
                   &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                   &lt;span class="DateStyle"&gt;
+                  &amp;nbsp;Posted:&amp;nbsp;07/01/2016&amp;nbsp; 2:06PM
+                  &lt;/span&gt;
+                  &lt;br/&gt;
+                  &lt;br/&gt;
+                &lt;P&gt;&lt;STRONG&gt;M15&lt;/STRONG&gt; and &lt;STRONG&gt;M15-SBS&lt;/STRONG&gt; southbound buses are delayed, due to heavy traffic on 2 Av from 53 St to 36 St. &lt;/P&gt;
+&lt;P&gt;Allow additional travel time.&lt;/P&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
+                  &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                  &lt;span class="DateStyle"&gt;
                   &amp;nbsp;Posted:&amp;nbsp;07/01/2016&amp;nbsp; 2:03PM
                   &lt;/span&gt;
                   &lt;br/&gt;
@@ -336,17 +347,6 @@
                   &lt;br/&gt;
                   &lt;br/&gt;
                 &lt;P&gt;&lt;STRONG&gt;M23&lt;/STRONG&gt; eastbound bus stop on 23 St at Park Av is closed, due to construction. Passengers may use the stop at Madison Av or Lexington Av instead. &lt;/P&gt;
-&lt;P&gt;Allow additional travel time.&lt;/P&gt;
-              &lt;br/&gt;
-              &lt;br/&gt;
-            
-                  &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                  &lt;span class="DateStyle"&gt;
-                  &amp;nbsp;Posted:&amp;nbsp;07/01/2016&amp;nbsp;12:13PM
-                  &lt;/span&gt;
-                  &lt;br/&gt;
-                  &lt;br/&gt;
-                &lt;P&gt;&lt;STRONG&gt;M15&lt;/STRONG&gt; and &lt;STRONG&gt;M15-SBS&lt;/STRONG&gt; southbound buses are delayed, due to heavy traffic on 2 Av from 53 St to 36 St. &lt;/P&gt;
 &lt;P&gt;Allow additional travel time.&lt;/P&gt;
               &lt;br/&gt;
               &lt;br/&gt;
@@ -383,7 +383,7 @@
               &lt;br/&gt;
             </text>
     <Date>07/01/2016</Date>
-    <Time> 2:03PM</Time>
+    <Time> 2:06PM</Time>
   </line>
   <line>
     <name>Q1 - Q113</name>
@@ -633,8 +633,15 @@
 </BT><LIRR>
   <line>
     <name>Babylon</name>
-    <status>SERVICE CHANGE</status>
+    <status>DELAYS</status>
     <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;07/01/2016&amp;nbsp; 2:07PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  The 1:05PM train from Penn due Babylon at 2:21PM is operating 10 minutes late due to earlier equipment trouble.
+                &lt;br/&gt;&lt;br/&gt;
+              
                     &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
                     &amp;nbsp;Posted:&amp;nbsp;07/01/2016&amp;nbsp;10:00AM
@@ -650,7 +657,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>07/01/2016</Date>
-    <Time>10:00AM</Time>
+    <Time> 2:07PM</Time>
   </line>
   <line>
     <name>City Terminal Zone</name>
@@ -677,18 +684,10 @@
   </line>
   <line>
     <name>Hempstead</name>
-    <status>DELAYS</status>
-    <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;07/01/2016&amp;nbsp; 1:50PM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  The 1:05PM train from Atlantic Terminal due Hempstead at 1:58PM is 
-operating 10 minutes late due to a late-arriving connection at Jamaica.
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>07/01/2016</Date>
-    <Time> 1:50PM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>Long Beach</name>
