@@ -1,15 +1,8 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>DELAYS</status>
+    <status>PLANNED WORK</status>
     <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;07/02/2016&amp;nbsp; 9:25AM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  Following an earlier incident at &lt;STRONG&gt;Intervale Av&lt;/STRONG&gt;, [2] and [5] train service has resumed with residual delays.
-                &lt;br/&gt;&lt;br/&gt;
-              
                     &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
                     &lt;br/&gt;
                   &lt;a class="plannedWorkDetailLink" onclick=ShowHide(125061);&gt;
@@ -50,19 +43,12 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>07/02/2016</Date>
-    <Time> 9:25AM</Time>
+    <Time> 9:32AM</Time>
   </line>
   <line>
     <name>456</name>
-    <status>DELAYS</status>
+    <status>PLANNED WORK</status>
     <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;07/02/2016&amp;nbsp; 9:25AM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  Following an earlier incident at &lt;STRONG&gt;Intervale Av&lt;/STRONG&gt;, [2] and [5] train service has resumed with residual delays.
-                &lt;br/&gt;&lt;br/&gt;
-              
                     &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
                     &lt;br/&gt;
                   &lt;a class="plannedWorkDetailLink" onclick=ShowHide(126161);&gt;
@@ -118,7 +104,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>07/02/2016</Date>
-    <Time> 9:25AM</Time>
+    <Time> 9:32AM</Time>
   </line>
   <line>
     <name>7</name>
@@ -764,17 +750,10 @@
   </line>
   <line>
     <name>New Haven</name>
-    <status>DELAYS</status>
-    <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;07/02/2016&amp;nbsp; 8:55AM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  New Haven Line Customers traveling between New Rochelle and Mt.Vernon East should anticipate 5-10 minute residual delays due to earlier Police Activity at Pelham. Please listen for announcements at your station.
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>07/02/2016</Date>
-    <Time> 8:55AM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>New Canaan</name>
