@@ -1,60 +1,894 @@
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
-   "http://www.w3.org/TR/html4/strict.dtd">
-   
-<html>
-<head>
-<title>mta.info | Error 503 Service Unavailable</title>
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7" />
+<service><responsecode>0</responsecode><subway>
+  <line>
+    <name>123</name>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
+  </line>
+  <line>
+    <name>456</name>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
+  </line>
+  <line>
+    <name>7</name>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
+  </line>
+  <line>
+    <name>ACE</name>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
+  </line>
+  <line>
+    <name>BDFM</name>
+    <status>SERVICE CHANGE</status>
+    <text>
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;07/04/2016&amp;nbsp; 8:45PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;P&gt;Due to a passenger injury at &lt;STRONG&gt;62 St&lt;/STRONG&gt;.,the following service changes are in effect:&lt;/P&gt;
+&lt;P&gt;Northbound [D] trains are running express from &lt;STRONG&gt;Bay Parkway&lt;/STRONG&gt; to &lt;STRONG&gt;9 Av&lt;/STRONG&gt;.&lt;/P&gt;
+&lt;P&gt;Allow additional travel time.&lt;/P&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;07/04/2016&amp;nbsp; 8:19PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  Following earlier mechanical problems at &lt;STRONG&gt;Coney Island-Stillwell Av&lt;/STRONG&gt;, [F] train service has resumed with residual delays.
+                &lt;br/&gt;&lt;br/&gt;
+              
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;07/04/2016&amp;nbsp; 8:11PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;P&gt;Due to signal problems at &lt;STRONG&gt;Fort Hamilton Parkway&lt;/STRONG&gt;, southbound [D] trains are running with delays.&lt;/P&gt;
+&lt;P&gt;Allow additional travel time.&lt;/P&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>07/04/2016</Date>
+    <Time> 8:45PM</Time>
+  </line>
+  <line>
+    <name>G</name>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
+  </line>
+  <line>
+    <name>JZ</name>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
+  </line>
+  <line>
+    <name>L</name>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
+  </line>
+  <line>
+    <name>NQR</name>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
+  </line>
+  <line>
+    <name>S</name>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
+  </line>
+  <line>
+    <name>SIR</name>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
+  </line>
+</subway><bus>
+  <line>
+    <name>B1 - B84</name>
+    <status>SERVICE CHANGE</status>
+    <text>
+                  &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                  &lt;span class="DateStyle"&gt;
+                  &amp;nbsp;Posted:&amp;nbsp;07/04/2016&amp;nbsp; 8:28PM
+                  &lt;/span&gt;
+                  &lt;br/&gt;
+                  &lt;br/&gt;
+                &lt;P&gt;&lt;STRONG&gt;B64&lt;/STRONG&gt; buses,are not running between Shore Rd and 6 Av, due to Macy's 4th of July Fireworks. &lt;/P&gt;
+&lt;P&gt;Detour is as follows:&lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;B64 to Shore Road&lt;/STRONG&gt;: Via 6 Av, right on Bay Ridge Av to Temporary Stand Far Side 6 Ave. &lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;B64 to Coney Island:&lt;/STRONG&gt; From Temporary Stand at 6 Ave and regular route.  &lt;/P&gt;
+&lt;P&gt;Allow additional travel time. &lt;/P&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
+                  &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                  &lt;span class="DateStyle"&gt;
+                  &amp;nbsp;Posted:&amp;nbsp;07/04/2016&amp;nbsp; 8:11PM
+                  &lt;/span&gt;
+                  &lt;br/&gt;
+                  &lt;br/&gt;
+                &lt;P&gt;&lt;STRONG&gt;B9 &lt;/STRONG&gt;buses are detoured both directions, due to Macy's July 4 fireworks on 4 Av and Shore Rd.&lt;/P&gt;
+&lt;P&gt;Detour is as follows:&lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;Shore Rd Bound&lt;/STRONG&gt;: Via 4 Av (last stopon 4 Av and Bay Ridge Av) continue onto 4 Av, right on Bay Ridge Blvd, right on 3 Av, right on Bay Ridge Av and regular route.&lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;Kings Plaza Bound:&lt;/STRONG&gt;Via Bay Ridge Av and 3 Av to regular route.&lt;/P&gt;
+&lt;P&gt;Allow additional travel time.&lt;/P&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
+                  &lt;span class="TitlePlannedWork" &gt;Planned Detour&lt;/span&gt;
+                  &lt;br/&gt;
+                &lt;a class="plannedWorkDetailLink" onclick=ShowHide(117571);&gt;
+&lt;b&gt;B9 buses may experience delays due to track work on the N line between Stillwell Av and 8 Av 
+&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 117571 class="plannedWorkDetail" &gt;&lt;/b&gt;Until further notice
+&lt;br&gt;
+&lt;br&gt;&amp;#149; Please allow additional travel time.
+&lt;br&gt;&lt;b&gt;          &lt;/b&gt;&lt;/font&gt;&lt;a href=http://bustime.mta.info/#b9 target=_blank&gt;&lt;img height=30px src=http://web.mta.info/nyct/images/Bus_Time_logo.png&gt;&lt;/a&gt;
+&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
+                  &lt;span class="TitlePlannedWork" &gt;Planned Detour&lt;/span&gt;
+                  &lt;br/&gt;
+                &lt;a class="plannedWorkDetailLink" onclick=ShowHide(128703);&gt;
+&lt;b&gt;B8 &lt;/b&gt;- &lt;b&gt;Westbound stop on Linden Blvd at Thomas Boyland St temporarily relocated
+&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 128703 class="plannedWorkDetail" &gt;&lt;/b&gt;Until further notice
+&lt;br&gt;
+&lt;br&gt;Due to construction, please follow directional signage to nearby stops.
+&lt;br&gt;&lt;b&gt;
+&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
+                  &lt;span class="TitlePlannedWork" &gt;Planned Detour&lt;/span&gt;
+                  &lt;br/&gt;
+                &lt;a class="plannedWorkDetailLink" onclick=ShowHide(128691);&gt;
+&lt;b&gt;B67 - No service between Jay St at Tillary St and Sands St at Pearl St
+&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 128691 class="plannedWorkDetail" &gt;&lt;/b&gt;3 PM to 11 PM, Monday, Jul 4
+&lt;br&gt;
+&lt;br&gt;Due to the &lt;a href=http://j.mp/1LEaxu3 target= _blank&gt;&lt;font color=#000FF&gt;&lt;b&gt;&lt;u&gt;Macy's 4th of July Fireworks&lt;/b&gt;&lt;/u&gt;&lt;/font&gt;&lt;/a&gt;, buses operate between Jay St at Tillary St and Cortelyou Rd at McDonald Av in both directions.
+&lt;br&gt;&lt;b&gt;
+&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
+                  &lt;span class="TitlePlannedWork" &gt;Planned Detour&lt;/span&gt;
+                  &lt;br/&gt;
+                &lt;a class="plannedWorkDetailLink" onclick=ShowHide(128629);&gt;
+&lt;b&gt;B63 &lt;/b&gt;- &lt;b&gt;No service between Atlantic Av at Smith St and Pier 6
+&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 128629 class="plannedWorkDetail" &gt;&lt;/b&gt;3 PM to 11 PM, Monday, Jul 4
+&lt;br&gt;
+&lt;br&gt;Due to the &lt;a href=http://j.mp/1LEaxu3 target= _blank&gt;&lt;font color=#000FF&gt;&lt;b&gt;&lt;u&gt;Macy's 4th of July Fireworks&lt;/b&gt;&lt;/u&gt;&lt;/font&gt;&lt;/a&gt;, buses operate between Atlantic Av at Smith St and Shore Rd at 4 Av and in both directions.
+&lt;br&gt;&lt;b&gt;
+&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
+                  &lt;span class="TitlePlannedWork" &gt;Planned Detour&lt;/span&gt;
+                  &lt;br/&gt;
+                &lt;a class="plannedWorkDetailLink" onclick=ShowHide(128697);&gt;
+&lt;b&gt;B61 buses rerouted from Columbia St at Union St to Atlantic Av at Smith St
+&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 128697 class="plannedWorkDetail" &gt;&lt;/b&gt;3 PM to 11 PM, Monday, July 4
+&lt;br&gt;
+&lt;br&gt;Due to the &lt;a href=http://j.mp/1LEaxu3 target= _blank&gt;&lt;font color=#000FF&gt;&lt;b&gt;&lt;u&gt;Macy's 4th of July Fireworks&lt;/b&gt;&lt;/u&gt;&lt;/font&gt;&lt;/a&gt;: 
+&lt;br&gt;
+&lt;br&gt;&lt;b&gt;Northbound&lt;/b&gt;: Buses run via &lt;b&gt;Union St&lt;/b&gt; and &lt;b&gt;Smith St&lt;/b&gt;.
+&lt;br&gt;
+&lt;br&gt;&lt;b&gt;Southbound&lt;/b&gt;: Buses run via &lt;b&gt;Court St&lt;/b&gt;.
+&lt;br&gt;
+&lt;br&gt;Buses make correspondng stops along the detoured route.
+&lt;br&gt;
+&lt;br&gt;&lt;b&gt;&lt;i&gt;&lt;a style="cursor:pointer; text-decoration:underline;" onclick=ShowHide(1286970);&gt;Show Reroute Details&lt;/a&gt;&lt;/i&gt;&lt;/b&gt;
+&lt;br&gt;&lt;div id="1286970"; style="display:none;"&gt;&lt;b&gt;Northbound
+&lt;br&gt;&lt;/b&gt;Via Columbia St
+&lt;br&gt;Right on Union St
+&lt;br&gt;Left on Smith St then regular route
+&lt;br&gt;
+&lt;br&gt;&lt;b&gt;Southbound
+&lt;br&gt;&lt;/b&gt;Via Atlantic Av
+&lt;br&gt;Left on Court St
+&lt;br&gt;Right on Sackett St
+&lt;br&gt;Left on Columbia St then regular route&lt;/div&gt;
+&lt;br&gt;&lt;b&gt;
+&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
+                  &lt;span class="TitlePlannedWork" &gt;Planned Detour&lt;/span&gt;
+                  &lt;br/&gt;
+                &lt;a class="plannedWorkDetailLink" onclick=ShowHide(128695);&gt;
+&lt;b&gt;B52 &lt;/b&gt;-&lt;b&gt; No service between Fulton St at Boerum Pl and Cadman Plaza West at Tillary St
+&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 128695 class="plannedWorkDetail" &gt;&lt;/b&gt;3 PM to 11 PM, Monday, July 4
+&lt;br&gt;
+&lt;br&gt;Due to the &lt;a href=http://j.mp/1LEaxu3 target= _blank&gt;&lt;font color=#000FF&gt;&lt;b&gt;&lt;u&gt;Macy's 4th of July Fireworks&lt;/b&gt;&lt;/u&gt;&lt;/font&gt;&lt;/a&gt;, buses operate between Boerum Pl at Fulton St and Wyckoff Av at Palmetto St in both directions.
+&lt;br&gt;&lt;b&gt;
+&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
+                  &lt;span class="TitlePlannedWork" &gt;Planned Detour&lt;/span&gt;
+                  &lt;br/&gt;
+                &lt;a class="plannedWorkDetailLink" onclick=ShowHide(128694);&gt;
+&lt;b&gt;B45 &lt;/b&gt;-&lt;b&gt; No service between Livingston St at Boerum Pl and Livingston St at Court St
+&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 128694 class="plannedWorkDetail" &gt;&lt;/b&gt;3 PM to 11 PM, Monday, July 4
+&lt;br&gt;
+&lt;br&gt;Due to the &lt;a href=http://j.mp/1LEaxu3 target= _blank&gt;&lt;font color=#000FF&gt;&lt;b&gt;&lt;u&gt;Macy's 4th of July Fireworks&lt;/b&gt;&lt;/u&gt;&lt;/font&gt;&lt;/a&gt;, buses operate between Boerum Pl at Livingston St and St Johns Pl at Ralph Av in both directions.
+&lt;br&gt;&lt;b&gt;
+&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
+                  &lt;span class="TitlePlannedWork" &gt;Planned Detour&lt;/span&gt;
+                  &lt;br/&gt;
+                &lt;a class="plannedWorkDetailLink" onclick=ShowHide(128623);&gt;
+&lt;b&gt;B32 - Southbound buses rerouted from Wythe Av at Grand St to Broadway 
+&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 128623 class="plannedWorkDetail" &gt;&lt;/b&gt;11 AM to 10 PM, Monday, Jul 4
+&lt;br&gt;
+&lt;br&gt;Due to a local event, buses run via &lt;b&gt;Driggs Av&lt;/b&gt; making corresponding stops.
+&lt;br&gt;
+&lt;br&gt;&lt;b&gt;&lt;i&gt;&lt;a style="cursor:pointer; text-decoration:underline;" onclick=ShowHide(1286230);&gt;Show Reroute Details&lt;/a&gt;&lt;/i&gt;&lt;/b&gt;
+&lt;br&gt;&lt;div id="1286230"; style="display:none;"&gt;&lt;b&gt;Southbound
+&lt;br&gt;&lt;/b&gt;Via Wythe Av
+&lt;br&gt;Left on Grand St
+&lt;br&gt;Right on Driggs Av
+&lt;br&gt;Left on Broadway then regular route&lt;/div&gt;
+&lt;br&gt;&lt;b&gt;
+&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
+                  &lt;span class="TitlePlannedWork" &gt;Planned Detour&lt;/span&gt;
+                  &lt;br/&gt;
+                &lt;a class="plannedWorkDetailLink" onclick=ShowHide(128701);&gt;
+&lt;b&gt;B26 &lt;/b&gt;-&lt;b&gt; No service between Jay St at Fulton St and Cadman Plaza West at Tillary St
+&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 128701 class="plannedWorkDetail" &gt;&lt;/b&gt;3 PM to 11 PM, Monday, July 4
+&lt;br&gt;
+&lt;br&gt;Due to the &lt;a href=http://j.mp/1LEaxu3 target= _blank&gt;&lt;font color=#000FF&gt;&lt;b&gt;&lt;u&gt;Macy's 4th of July Fireworks&lt;/b&gt;&lt;/u&gt;&lt;/font&gt;&lt;/a&gt;, buses operate between Jay St at Myrtle Av and Wyckoff Av at Palmetto St  in both directions.
+&lt;br&gt;&lt;b&gt;
+&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
+                  &lt;span class="TitlePlannedWork" &gt;Planned Detour&lt;/span&gt;
+                  &lt;br/&gt;
+                &lt;a class="plannedWorkDetailLink" onclick=ShowHide(128700);&gt;
+&lt;b&gt;B25 &lt;/b&gt;-&lt;b&gt; No service between Jay St at Fulton St and Front St
+&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 128700 class="plannedWorkDetail" &gt;&lt;/b&gt;3 PM to 11 PM, Monday, July 4
+&lt;br&gt;
+&lt;br&gt;Due to the &lt;a href=http://j.mp/1LEaxu3 target= _blank&gt;&lt;font color=#000FF&gt;&lt;b&gt;&lt;u&gt;Macy's 4th of July Fireworks&lt;/b&gt;&lt;/u&gt;&lt;/font&gt;&lt;/a&gt;, buses operate between Jay St at Fulton St and East New York Av at  Alabama Av in both directions.
+&lt;br&gt;&lt;b&gt;
+&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
+                  &lt;span class="TitlePlannedWork" &gt;Planned Detour&lt;/span&gt;
+                  &lt;br/&gt;
+                &lt;a class="plannedWorkDetailLink" onclick=ShowHide(127281);&gt;
+&lt;b&gt;B25, B38/B38 &lt;/b&gt;LTD&lt;b&gt;, B41/B41 &lt;/b&gt;LTD &lt;b&gt;and B52&lt;br clear=left&gt;Southbound buses rerouted from Adams St at Tillary St to Fulton St
+&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 127281 class="plannedWorkDetail" &gt;&lt;/b&gt;Until further notice
+&lt;br&gt;
+&lt;br&gt;Due to road work, buses run via &lt;b&gt;Jay St &lt;/b&gt;making corresponding stops.
+&lt;br&gt;
+&lt;br&gt;&lt;b&gt;Reminder&lt;/b&gt;: &lt;a href=http://web.mta.info/nyct/bus/schedule/bkln/b038cur.pdf target=_blank&gt;&lt;font color=#0000FF&gt;&lt;b&gt;&lt;u&gt;B38&lt;/u&gt;&lt;/b&gt;&lt;/font&gt;&lt;/a&gt; and &lt;a href=http://web.mta.info/nyct/bus/schedule/bkln/b041cur.pdf target=_blank&gt;&lt;font color=#0000FF&gt;&lt;b&gt;&lt;u&gt;B41 LTD&lt;/u&gt;&lt;/b&gt;&lt;/font&gt;&lt;/a&gt; buses do not operate overnight.
+&lt;br&gt;                  &lt;a href=http://web.mta.info/nyct/bus/schedule/bkln/b038cur.pdf target=_blank&gt;&lt;font color=#0000FF&gt;&lt;b&gt;&lt;u&gt;B38 LTD&lt;/u&gt;&lt;/b&gt;&lt;/font&gt;&lt;/a&gt; buses do not operate overnight or weekends.     
+&lt;br&gt;
+&lt;br&gt;&lt;b&gt;Note&lt;/b&gt;: Monday Jul 4, buses operate on a Saturday schedule.
+&lt;br&gt;&lt;b&gt;                                      [TP]
+&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
+                  &lt;span class="TitlePlannedWork" &gt;Planned Detour&lt;/span&gt;
+                  &lt;br/&gt;
+                &lt;a class="plannedWorkDetailLink" onclick=ShowHide(112033);&gt;
+&lt;b&gt;B20, B25, B83, Q24 and Q56 buses may experience delays&lt;br clear=left&gt;due to construction at Broadway Junction
+&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 112033 class="plannedWorkDetail" &gt;&lt;/b&gt;Until further notice
+&lt;br&gt;
+&lt;br&gt;&amp;#149; &lt;/font&gt;Please allow additional travel time.
+&lt;br&gt;
+&lt;br&gt;&lt;b&gt;Reminder&lt;/b&gt;: &lt;a href=http://web.mta.info/nyct/bus/schedule/bkln/b020cur.pdf target=_blank&gt;&lt;font color=#0000FF&gt;&lt;b&gt;&lt;u&gt;B20&lt;/u&gt;&lt;/b&gt;&lt;/font&gt;&lt;/a&gt; and &lt;a href=http://web.mta.info/nyct/bus/schedule/bkln/b083cur.pdf target=_blank&gt;&lt;font color=#0000FF&gt;&lt;b&gt;&lt;u&gt;B83&lt;/u&gt;&lt;/b&gt;&lt;/font&gt;&lt;/a&gt; buses do not operate overnight.
+&lt;br&gt;&lt;b&gt;          &lt;/b&gt;&lt;a href=http://bustime.mta.info/ target=_blank&gt;&lt;img height=30px src=http://web.mta.info/nyct/images/Bus_Time_logo.png&gt;&lt;/a&gt;
+&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            </text>
+    <Date>07/04/2016</Date>
+    <Time> 8:28PM</Time>
+  </line>
+  <line>
+    <name>B100 - B103</name>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
+  </line>
+  <line>
+    <name>BM1 - BM5</name>
+    <status>SERVICE CHANGE</status>
+    <text>
+                  &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                  &lt;span class="DateStyle"&gt;
+                  &amp;nbsp;Posted:&amp;nbsp;07/04/2016&amp;nbsp; 8:22PM
+                  &lt;/span&gt;
+                  &lt;br/&gt;
+                  &lt;br/&gt;
+                &lt;P&gt;&lt;STRONG&gt;BM1, BM2, BM3&lt;/STRONG&gt; and &lt;STRONG&gt;BM4&lt;/STRONG&gt; buses are detoured, due to the Macy's 4th of July Fireworks. &lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;Westbound to Midtown&lt;/STRONG&gt;: VIa Frankfort St, left on Pearl St, onto St. James Place, right on Bowery, left on 23 St and regular route. &lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;Eastbound to Brooklyn&lt;/STRONG&gt;: VIa 23 St, right on 3 Av, right on 14 St, left on West Side Highway (West St) to Hugh Carey Tunnel and regular route. &lt;/P&gt;
+&lt;P&gt;Correspoding Stops will be made along the detour route. &lt;/P&gt;
+&lt;P&gt;Allow addiitonal travel time. &lt;/P&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            </text>
+    <Date>07/04/2016</Date>
+    <Time> 8:22PM</Time>
+  </line>
+  <line>
+    <name>BX1 - BX55</name>
+    <status>PLANNED WORK</status>
+    <text>
+                  &lt;span class="TitlePlannedWork" &gt;Planned Detour&lt;/span&gt;
+                  &lt;br/&gt;
+                &lt;a class="plannedWorkDetailLink" onclick=ShowHide(127314);&gt;
+&lt;b&gt;Bx39 &lt;/b&gt;-&lt;b&gt; Northbound stop on 225 St at White Plains Rd temporarily relocated 
+&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 127314 class="plannedWorkDetail" &gt;&lt;/b&gt;Until further notice
+&lt;br&gt;
+&lt;br&gt;Due to construction, please use the nearby temporary stop &lt;b&gt;on 226 St &lt;/b&gt;at White Plains Rd.
+&lt;br&gt;&lt;b&gt;
+&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            </text>
+    <Date>07/04/2016</Date>
+    <Time> 8:42PM</Time>
+  </line>
+  <line>
+    <name>BXM1 - BXM18</name>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
+  </line>
+  <line>
+    <name>M1 - M116</name>
+    <status>SERVICE CHANGE</status>
+    <text>
+                  &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                  &lt;span class="DateStyle"&gt;
+                  &amp;nbsp;Posted:&amp;nbsp;07/04/2016&amp;nbsp; 8:29PM
+                  &lt;/span&gt;
+                  &lt;br/&gt;
+                  &lt;br/&gt;
+                &lt;P&gt;&lt;STRONG&gt;M23&lt;/STRONG&gt; buses are detoured both directions, due to Macy's 4 July Fireworks on the FDR Dr and 1 Av.&lt;/P&gt;
+&lt;P&gt;Detour is as follows:&lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;Eastbound&lt;/STRONG&gt;: Via 23 St, right on 2 Av, left on 14 St, left on 1 Av, left on 23 St and take temporary stand.&lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;Westbound&lt;/STRONG&gt;: Via temporary stand and regular route.&lt;/P&gt;
+&lt;P&gt;Allow additional travel time.&lt;/P&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
+                  &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                  &lt;span class="DateStyle"&gt;
+                  &amp;nbsp;Posted:&amp;nbsp;07/04/2016&amp;nbsp; 8:27PM
+                  &lt;/span&gt;
+                  &lt;br/&gt;
+                  &lt;br/&gt;
+                &lt;P&gt;&lt;STRONG&gt;M103&lt;/STRONG&gt; buses are detoured, due to Macy's 4th of July Fireworks. &lt;/P&gt;
+&lt;P&gt;Detour is as follows:&lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;M103 Southbound&lt;/STRONG&gt;: Buses will terminate at Chatham Square. &lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;M103 Northbound:&lt;/STRONG&gt; Via Bowery, right on Worth St, left on Lafayette St, U-Turn at Reade St onto north Centre St, right Worth St, left on Bowery and regular route. &lt;/P&gt;
+&lt;P&gt;Allow additional travel time. &lt;/P&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
+                  &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                  &lt;span class="DateStyle"&gt;
+                  &amp;nbsp;Posted:&amp;nbsp;07/04/2016&amp;nbsp; 8:27PM
+                  &lt;/span&gt;
+                  &lt;br/&gt;
+                  &lt;br/&gt;
+                &lt;P&gt;&lt;STRONG&gt;M9&lt;/STRONG&gt; buses are detoured, due to Macy's 4th of July Fireworks. &lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;M9 Northbound&lt;/STRONG&gt;: Via Warren St, left on Church St, right on Worth St, left on Bowery, right on Grand St, left on Essex St and regular route. &lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;M9 Southbound&lt;/STRONG&gt;: Via Essex St, right on Delancey St, left on Bowery, right on Worth St, left on Lafayette St and regular route. &lt;/P&gt;
+&lt;P&gt;Allow additional travel time. &lt;/P&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
+                  &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                  &lt;span class="DateStyle"&gt;
+                  &amp;nbsp;Posted:&amp;nbsp;07/04/2016&amp;nbsp; 8:26PM
+                  &lt;/span&gt;
+                  &lt;br/&gt;
+                  &lt;br/&gt;
+                &lt;P&gt;&lt;STRONG&gt;M21&lt;/STRONG&gt; buses are detoured, due to the Macy's 4th of July Fireworks. &lt;/P&gt;
+&lt;P&gt;Detour is as follows:&lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;M21 Eastbound&lt;/STRONG&gt;: Via Houston St, right on Columbia St, left on Delancey St, left on Lewis St, left on Delancey St take temporary stand on Delancey St. &lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;M21 Westbound&lt;/STRONG&gt;: Buses will originate on Delancey St at Columbia St.&lt;/P&gt;
+&lt;P&gt;Allow additional travel time. &lt;/P&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
+                  &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                  &lt;span class="DateStyle"&gt;
+                  &amp;nbsp;Posted:&amp;nbsp;07/04/2016&amp;nbsp; 8:26PM
+                  &lt;/span&gt;
+                  &lt;br/&gt;
+                  &lt;br/&gt;
+                &lt;P&gt;&lt;STRONG&gt;M14A&lt;/STRONG&gt; and &lt;STRONG&gt;M14D&lt;/STRONG&gt; buses are detoured, due to the Macy's 4th of July Fireworks. &lt;/P&gt;
+&lt;P&gt;Detour is as follows:&lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;M14A to Grand St-FDR Drive&lt;/STRONG&gt;: Via Essex St, terminate at Essex St and Canal St.&lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;M14A to Abingdon Square&lt;/STRONG&gt;: Via Canal St, right on Allen St, right Grand St, left Essex St and regular route. &lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;M14D to Delancey St-FDR Drive:&lt;/STRONG&gt; Via Ave D, Straight into Columbia St, left on Delancey St, left on Lewis St, left on Delancey St and regular route. &lt;/P&gt;
+&lt;P&gt;Allow additional travel time.  &lt;/P&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
+                  &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                  &lt;span class="DateStyle"&gt;
+                  &amp;nbsp;Posted:&amp;nbsp;07/04/2016&amp;nbsp; 8:26PM
+                  &lt;/span&gt;
+                  &lt;br/&gt;
+                  &lt;br/&gt;
+                &lt;P&gt;&lt;STRONG&gt;M34-SBS&lt;/STRONG&gt; and &lt;STRONG&gt;M34A-SBS&lt;/STRONG&gt; buses are detoured, due to the Macy's 4th of July Fireworks. &lt;/P&gt;
+&lt;P&gt;Detour is as follows:&lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;M34/M34A Eastbound:&lt;/STRONG&gt; Via 34 St, via 2 Ave, right 23 St, right on 3 Av, left on 34 St to Temporary terminal. &lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;M34/M34A Westbound:&lt;/STRONG&gt; All service originates from 3 Ave. &lt;/P&gt;
+&lt;P&gt;Correspoding stops will be made along the detoured route. &lt;/P&gt;
+&lt;P&gt;Allow additonal travel time. &lt;/P&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
+                  &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                  &lt;span class="DateStyle"&gt;
+                  &amp;nbsp;Posted:&amp;nbsp;07/04/2016&amp;nbsp; 8:22PM
+                  &lt;/span&gt;
+                  &lt;br/&gt;
+                  &lt;br/&gt;
+                &lt;P&gt;&lt;STRONG&gt;M5, M20, M15&lt;/STRONG&gt; and &lt;STRONG&gt;M15-SBS&lt;/STRONG&gt; buses are detoured, due to Macy's 4th of July Fireworks. &lt;/P&gt;
+&lt;P&gt;Detour is as follows: &lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;M5 Southbound&lt;/STRONG&gt;: Via Broadway, right on Murray St, left on West St, right West Thames St to Temporary Layover. &lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;M5 Northbound&lt;/STRONG&gt;: Via West Thames St, right on South End Av, right on Liberty St, left on West St, right on Warren St, left on Church St and regular route. &lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;M20 Southobound&lt;/STRONG&gt;: Via Regular route, and terminate at State St and Battery Place.&lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;M20 Northbound&lt;/STRONG&gt;: From Temporary Stand at State St and Battery Place will loop around South Ferry Terminal and regular route. &lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;M15 and M15-SBS Southbound&lt;/STRONG&gt;: Via Allen St, left on Grand St, left on Essex St to Termporary Stand. &lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;M15 and M15-SBS Northbound&lt;/STRONG&gt;: From Tempororary Stand on Essex St, left on Delancey St, right on Allen St and regular route. &lt;/P&gt;
+&lt;P&gt;Allow additional travel time. &lt;/P&gt;
+&lt;P&gt; &lt;/P&gt;
+&lt;P&gt; &lt;/P&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
+                  &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                  &lt;span class="DateStyle"&gt;
+                  &amp;nbsp;Posted:&amp;nbsp;07/04/2016&amp;nbsp; 8:22PM
+                  &lt;/span&gt;
+                  &lt;br/&gt;
+                  &lt;br/&gt;
+                &lt;P&gt;&lt;STRONG&gt;M42 &lt;/STRONG&gt;buses are detoured, due to Macy's 4th of July Fireworks. &lt;/P&gt;
+&lt;P&gt;Detour is as follows:&lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;M42 Eastbound:&lt;/STRONG&gt; VIa 42 St, righnt on 2 Av, right on 39 St right on 3 Av, left on 42 St to Temporary Terminal. &lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;M42 Westbound&lt;/STRONG&gt;: All Service originates from 3 Av. &lt;/P&gt;
+&lt;P&gt;Allow additional travel time. &lt;/P&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
+                  &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                  &lt;span class="DateStyle"&gt;
+                  &amp;nbsp;Posted:&amp;nbsp;07/04/2016&amp;nbsp; 8:18PM
+                  &lt;/span&gt;
+                  &lt;br/&gt;
+                  &lt;br/&gt;
+                &lt;P&gt;&lt;STRONG&gt;M22&lt;/STRONG&gt; buses are detoured, due to Macy's 4th of July Fireworks. &lt;/P&gt;
+&lt;P&gt;Detour is as follows:&lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;M22 to Lower East Side:&lt;/STRONG&gt; VIa Chambers St, left on Church St, right on Worth St, left on Bowery, right on Delancey St, left on Lewis St, left on Delancey St to Temporary Stand . &lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;M22 to Battery Park City&lt;/STRONG&gt;: Via Delancey St, right on Columbia St, left on Houston St, left on Bowery, right on Worth St and regular route. &lt;/P&gt;
+&lt;P&gt;Allow additional travel time. &lt;/P&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
+                  &lt;span class="TitlePlannedWork" &gt;Planned Detour&lt;/span&gt;
+                  &lt;br/&gt;
+                &lt;a class="plannedWorkDetailLink" onclick=ShowHide(127798);&gt;
+&lt;b&gt;M60&lt;/b&gt; SBS&lt;b&gt;, Q70 &lt;/b&gt;LTD&lt;b&gt; and Q72 buses rerouted at LaGuardia Airport
+&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 127798 class="plannedWorkDetail" &gt;&lt;/b&gt;Until further notice
+&lt;br&gt;
+&lt;br&gt;Due to construction, bus stops are as follows:
+&lt;br&gt;
+&lt;br&gt;&lt;b&gt;Terminal B&lt;/b&gt; (Central Terminal), relocated to the &lt;i&gt;upper&lt;/i&gt; departures level, &lt;i&gt;then &lt;/i&gt;&lt;b&gt;Terminal D&lt;/b&gt; and &lt;b&gt;Terminal C&lt;/b&gt;.
+&lt;br&gt;
+&lt;br&gt;The M60 SBS &lt;b&gt;&lt;i&gt;will not stop &lt;/b&gt;&lt;/i&gt;at Terminal A (Marine Air Terminal), 
+&lt;br&gt;use the&lt;b&gt; &lt;/b&gt;&lt;a href=http://web.mta.info/busco/schedules/q047cur.pdf target=_blank&gt;&lt;font color=#0000FF&gt;&lt;b&gt;&lt;u&gt;Q47&lt;/u&gt;&lt;/b&gt;&lt;/font&gt;&lt;/a&gt; or the &lt;b&gt;Port Authority shuttle bus &lt;/b&gt;instead.
+&lt;br&gt;
+&lt;br&gt;The Parking Lot 1 bus stop is &lt;b&gt;discontinued.
+&lt;br&gt;                                        &lt;/b&gt;[TP]
+&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
+                  &lt;span class="TitlePlannedWork" &gt;Planned Detour&lt;/span&gt;
+                  &lt;br/&gt;
+                &lt;a class="plannedWorkDetailLink" onclick=ShowHide(128727);&gt;
+&lt;b&gt;M23 &lt;/b&gt;- &lt;b&gt;Westbound stop on 23 St at Park Av South temporarily closed
+&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 128727 class="plannedWorkDetail" &gt;&lt;/b&gt;Until further notice
+&lt;br&gt;
+&lt;br&gt;Due to construction, please use nearby stops &lt;b&gt;on 23 St &lt;/b&gt;at Madison Av or Lexington Av.
+&lt;br&gt;&lt;b&gt;
+&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
+                  &lt;span class="TitlePlannedWork" &gt;Planned Detour&lt;/span&gt;
+                  &lt;br/&gt;
+                &lt;a class="plannedWorkDetailLink" onclick=ShowHide(127573);&gt;
+&lt;b&gt;M103 - Northbound stop on Bowery at E 4 St temporarily closed
+&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 127573 class="plannedWorkDetail" &gt;&lt;/b&gt;Until further notice
+&lt;br&gt;
+&lt;br&gt;Due to construction, please follow directional signage to nearby stops.
+&lt;br&gt;&lt;b&gt;
+&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            </text>
+    <Date>07/04/2016</Date>
+    <Time> 8:29PM</Time>
+  </line>
+  <line>
+    <name>Q1 - Q113</name>
+    <status>SERVICE CHANGE</status>
+    <text>
+                  &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                  &lt;span class="DateStyle"&gt;
+                  &amp;nbsp;Posted:&amp;nbsp;07/04/2016&amp;nbsp; 8:23PM
+                  &lt;/span&gt;
+                  &lt;br/&gt;
+                  &lt;br/&gt;
+                &lt;P&gt;&lt;STRONG&gt;Q103&lt;/STRONG&gt; are detoured both directions, due to Macy's fireworks. &lt;/P&gt;
+&lt;P&gt;Detour is as follows:&lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;Q103 Borden Av Bound&lt;/STRONG&gt;: Via Vernon Blvd, left on 44 Dr to temporary stand.&lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;Q103 27 Av and 2 St Bound&lt;/STRONG&gt;: Via 44 Dr, left on 11 St, left on 43 Av, right on Vernon Blvd and regular route.&lt;/P&gt;
+&lt;P&gt;Allow additional travel time.&lt;/P&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
+                  &lt;span class="TitlePlannedWork" &gt;Planned Detour&lt;/span&gt;
+                  &lt;br/&gt;
+                &lt;a class="plannedWorkDetailLink" onclick=ShowHide(68484);&gt;
+&lt;b&gt;Q69 - Southbound stop on 28 St between Queens Plaza South and 42 Rd temporarily relocated
+&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 68484 class="plannedWorkDetail" &gt;&lt;/b&gt;Until further notice
+&lt;br&gt;
+&lt;br&gt;Due to construction, please use the nearby temporary stop &lt;b&gt;on 42 Rd&lt;/b&gt; between Jackson Av and 28 St.
+&lt;br&gt;&lt;/font&gt;&lt;b&gt;                                 [TP]
+&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
+                  &lt;span class="TitlePlannedWork" &gt;Planned Detour&lt;/span&gt;
+                  &lt;br/&gt;
+                &lt;a class="plannedWorkDetailLink" onclick=ShowHide(128624);&gt;
+&lt;b&gt;Q59 - Westbound buses rerouted in Williamsburg
+&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 128624 class="plannedWorkDetail" &gt;&lt;/b&gt;11 AM to 10 PM, Monday, Jul 4
+&lt;br&gt;
+&lt;br&gt;Due to a local event, buses run via &lt;b&gt;Driggs Av&lt;/b&gt; making corresponding stops.
+&lt;br&gt;
+&lt;br&gt;&lt;i&gt;Reroute Details
+&lt;br&gt;&lt;/i&gt;Via Grand St
+&lt;br&gt;Left on Driggs Av
+&lt;br&gt;Left on Broadway then regular route
+&lt;br&gt;&lt;b&gt;
+&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
+                  &lt;span class="TitlePlannedWork" &gt;Planned Detour&lt;/span&gt;
+                  &lt;br/&gt;
+                &lt;a class="plannedWorkDetailLink" onclick=ShowHide(127793);&gt;
+&lt;b&gt;Q48 buses rerouted at LaGuardia Airport and along 23 Av
+&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 127793 class="plannedWorkDetail" &gt;&lt;/b&gt;Until further notice
+&lt;br&gt;
+&lt;br&gt;Due to construction, buses are rerouted as follows:
+&lt;br&gt;
+&lt;br&gt;From Ditmars Blvd at 102 St, buses travel west on 23 Av making corresponding stops on the &lt;i&gt;opposite side &lt;/i&gt;of the street, then north at 82 St. (&lt;i&gt;midnight to 6 AM&lt;/i&gt;, buses travel north at 94 St.)
+&lt;br&gt;
+&lt;br&gt;LaGuardia Airport stops will be made at &lt;b&gt;Terminal B &lt;/b&gt;(Central Terminal) on the upper departures level, &lt;i&gt;then&lt;/i&gt;&lt;b&gt; Terminal D &lt;/b&gt;and &lt;b&gt;Terminal C&lt;/b&gt;.
+&lt;br&gt;
+&lt;br&gt;Q48 buses will &lt;b&gt;&lt;i&gt;no longer stop &lt;/b&gt;&lt;/i&gt;at Terminal A (Marine Air Terminal) and Fiorello Lane, 
+&lt;br&gt;use the&lt;b&gt; &lt;/b&gt;&lt;a href=http://web.mta.info/busco/schedules/q047cur.pdf target=_blank&gt;&lt;font color=#0000FF&gt;&lt;b&gt;&lt;u&gt;Q47&lt;/u&gt;&lt;/b&gt;&lt;/font&gt;&lt;/a&gt; or the &lt;b&gt;Port Authority shuttle bus &lt;/b&gt;instead.
+&lt;br&gt;&lt;b&gt;                                        &lt;/b&gt;[TP]
+&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
+                  &lt;span class="TitlePlannedWork" &gt;Planned Detour&lt;/span&gt;
+                  &lt;br/&gt;
+                &lt;a class="plannedWorkDetailLink" onclick=ShowHide(127798);&gt;
+&lt;b&gt;M60&lt;/b&gt; SBS&lt;b&gt;, Q70 &lt;/b&gt;LTD&lt;b&gt; and Q72 buses rerouted at LaGuardia Airport
+&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 127798 class="plannedWorkDetail" &gt;&lt;/b&gt;Until further notice
+&lt;br&gt;
+&lt;br&gt;Due to construction, bus stops are as follows:
+&lt;br&gt;
+&lt;br&gt;&lt;b&gt;Terminal B&lt;/b&gt; (Central Terminal), relocated to the &lt;i&gt;upper&lt;/i&gt; departures level, &lt;i&gt;then &lt;/i&gt;&lt;b&gt;Terminal D&lt;/b&gt; and &lt;b&gt;Terminal C&lt;/b&gt;.
+&lt;br&gt;
+&lt;br&gt;The M60 SBS &lt;b&gt;&lt;i&gt;will not stop &lt;/b&gt;&lt;/i&gt;at Terminal A (Marine Air Terminal), 
+&lt;br&gt;use the&lt;b&gt; &lt;/b&gt;&lt;a href=http://web.mta.info/busco/schedules/q047cur.pdf target=_blank&gt;&lt;font color=#0000FF&gt;&lt;b&gt;&lt;u&gt;Q47&lt;/u&gt;&lt;/b&gt;&lt;/font&gt;&lt;/a&gt; or the &lt;b&gt;Port Authority shuttle bus &lt;/b&gt;instead.
+&lt;br&gt;
+&lt;br&gt;The Parking Lot 1 bus stop is &lt;b&gt;discontinued.
+&lt;br&gt;                                        &lt;/b&gt;[TP]
+&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
+                  &lt;span class="TitlePlannedWork" &gt;Planned Detour&lt;/span&gt;
+                  &lt;br/&gt;
+                &lt;a class="plannedWorkDetailLink" onclick=ShowHide(112033);&gt;
+&lt;b&gt;B20, B25, B83, Q24 and Q56 buses may experience delays&lt;br clear=left&gt;due to construction at Broadway Junction
+&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 112033 class="plannedWorkDetail" &gt;&lt;/b&gt;Until further notice
+&lt;br&gt;
+&lt;br&gt;&amp;#149; &lt;/font&gt;Please allow additional travel time.
+&lt;br&gt;
+&lt;br&gt;&lt;b&gt;Reminder&lt;/b&gt;: &lt;a href=http://web.mta.info/nyct/bus/schedule/bkln/b020cur.pdf target=_blank&gt;&lt;font color=#0000FF&gt;&lt;b&gt;&lt;u&gt;B20&lt;/u&gt;&lt;/b&gt;&lt;/font&gt;&lt;/a&gt; and &lt;a href=http://web.mta.info/nyct/bus/schedule/bkln/b083cur.pdf target=_blank&gt;&lt;font color=#0000FF&gt;&lt;b&gt;&lt;u&gt;B83&lt;/u&gt;&lt;/b&gt;&lt;/font&gt;&lt;/a&gt; buses do not operate overnight.
+&lt;br&gt;&lt;b&gt;          &lt;/b&gt;&lt;a href=http://bustime.mta.info/ target=_blank&gt;&lt;img height=30px src=http://web.mta.info/nyct/images/Bus_Time_logo.png&gt;&lt;/a&gt;
+&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            </text>
+    <Date>07/04/2016</Date>
+    <Time> 8:23PM</Time>
+  </line>
+  <line>
+    <name>QM1 - QM44</name>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
+  </line>
+  <line>
+    <name>S40 - S98</name>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
+  </line>
+  <line>
+    <name>x1 - x68</name>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
+  </line>
+</bus><BT>
+  <line>
+    <name>Bronx-Whitestone</name>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
+  </line>
+  <line>
+    <name>Cross Bay</name>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
+  </line>
+  <line>
+    <name>Henry Hudson</name>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
+  </line>
+  <line>
+    <name>Hugh L. Carey</name>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
+  </line>
+  <line>
+    <name>Marine Parkway</name>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
+  </line>
+  <line>
+    <name>Queens Midtown</name>
+    <status>PLANNED WORK</status>
+    <text>
+                    &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
+                    &lt;br/&gt;
+                  QMT - MANHATTAN PLAZA WORK REQUIRES CLOSURE OF "UPTOWN" LANES FOR 2 MONTHS. CUSTOMERS SEEKING AN UPTOWN MANHATTAN ROUTE USE THE CROSSTOWN LANES; EXPECT DELAYS.
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>05/20/2016</Date>
+    <Time> 3:33PM</Time>
+  </line>
+  <line>
+    <name>Robert F. Kennedy</name>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
+  </line>
+  <line>
+    <name>Throgs Neck</name>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
+  </line>
+  <line>
+    <name>Verrazano-Narrows</name>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
+  </line>
+</BT><LIRR>
+  <line>
+    <name>Babylon</name>
+    <status>DELAYS</status>
+    <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;07/04/2016&amp;nbsp; 8:39PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  The 7:59PM train from Babylon due Penn at 9:12PM is operating 10 minutes late at this time.
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>07/04/2016</Date>
+    <Time> 8:39PM</Time>
+  </line>
+  <line>
+    <name>City Terminal Zone</name>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
+  </line>
+  <line>
+    <name>Far Rockaway</name>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
+  </line>
+  <line>
+    <name>Hempstead</name>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
+  </line>
+  <line>
+    <name>Long Beach</name>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
+  </line>
+  <line>
+    <name>Montauk</name>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
+  </line>
+  <line>
+    <name>Oyster Bay</name>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
+  </line>
+  <line>
+    <name>Port Jefferson</name>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
+  </line>
+  <line>
+    <name>Port Washington</name>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
+  </line>
+  <line>
+    <name>Ronkonkoma</name>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
+  </line>
+  <line>
+    <name>West Hempstead</name>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
+  </line>
+</LIRR><MetroNorth>
+  <line>
+    <name>Hudson</name>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
+  </line>
+  <line>
+    <name>Harlem</name>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
+  </line>
+  <line>
+    <name>Wassaic</name>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
+  </line>
+  <line>
+    <name>New Haven</name>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
+  </line>
+  <line>
+    <name>New Canaan</name>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
+  </line>
+  <line>
+    <name>Danbury</name>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
+  </line>
+  <line>
+    <name>Waterbury</name>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
+  </line>
+  <line>
+    <name>Pascack Valley</name>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
+  </line>
+  <line>
+    <name>Port Jervis</name>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
+  </line>
+</MetroNorth></service>
 
-<link rel="shortcut icon" href="http://webserver.mta.info/siteimages/favicon.ico" />
-
-<style type="text/css">
-html { margin:0; padding:0; border:0; overflow-y:scroll; }
-
-body, div, h1, a, ol, ul, li, img { margin: 0; padding: 0; border: 0; font-size: 100%; vertical-align: baseline; }
-
-h1 { font-size:136%; color: #0055aa; font-size: 153.9%; display: block; padding-bottom: 4px; border-bottom: 1px solid #b4b4b4; }
-
-p { margin-bottom:1em; }
-
-body { font:13px/1.231 helvetica,arial,clean,sans-serif; }
-
-#mainbox { width: 960px; margin:0 auto; background-color: #fff; padding: 0 0 20px 0; }
-
-#contentbox { margin: 20px 10px; padding: 0 20px 20px 20px; }
-
-#contentbox a:link {text-decoration: none; color:#0055aa;}
-#contentbox a:visited {text-decoration: none; color:#0055aa;}
-#contentbox a:hover {text-decoration: underline}
-#contentbox a:active {text-decoration: underline}
-
-</style>
-
-</head>
-
-<body>
-
-<div id="mainbox">	
-			<div id="topbar">
-	
-		<div id="branding">
-		<img src="/apology_objects/mta_info.gif" alt="Metropolitan Transportation Authority web logo">
-		</div>
-				<div style="float:right;"><a href="http://mta-nyc.custhelp.com/app/ask">Contact Us</a></div>
-
-<div id="contentbox" class="roundCorners clearfix" >
-		
-<!-- Start Page Content -->
-			 				 		
-<h1>503 Service Unavailable</h1>																		  
-<p>Our site is temporarily unavailable. Please try visiting us again later.</p>
-<p>We apologize for the inconvenience.</p>						
-
-								<!-- End Page Content -->
-
-</div> <!-- close contentbox -->
-</div> <!-- close mainbox -->
-
-  </body>
-</html>
