@@ -1,10 +1,18 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>SERVICE CHANGE</status>
+    <text>
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;07/05/2016&amp;nbsp;11:03AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;P&gt;Due to FDNY activity at &lt;STRONG&gt;59 St-Columbus Circle&lt;/STRONG&gt;, southbound [1] trains are running express from &lt;STRONG&gt;72 St&lt;/STRONG&gt; to &lt;STRONG&gt;34 St-Penn Station&lt;/STRONG&gt;. &lt;/P&gt;
+&lt;P&gt;Allow additonal travel time.&lt;/P&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>07/05/2016</Date>
+    <Time>11:03AM</Time>
   </line>
   <line>
     <name>456</name>
@@ -31,7 +39,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>07/05/2016</Date>
-    <Time>10:52AM</Time>
+    <Time>11:02AM</Time>
   </line>
   <line>
     <name>7</name>
@@ -121,7 +129,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>07/05/2016</Date>
-    <Time>10:52AM</Time>
+    <Time>11:02AM</Time>
   </line>
 </subway><bus>
   <line>
@@ -239,7 +247,7 @@
               &lt;br/&gt;
             </text>
     <Date>07/05/2016</Date>
-    <Time>10:52AM</Time>
+    <Time>11:02AM</Time>
   </line>
   <line>
     <name>B100 - B103</name>
@@ -288,7 +296,7 @@
               &lt;br/&gt;
             </text>
     <Date>07/05/2016</Date>
-    <Time>10:52AM</Time>
+    <Time>11:02AM</Time>
   </line>
   <line>
     <name>BXM1 - BXM18</name>
@@ -345,7 +353,7 @@
               &lt;br/&gt;
             </text>
     <Date>07/05/2016</Date>
-    <Time>10:52AM</Time>
+    <Time>11:02AM</Time>
   </line>
   <line>
     <name>Q1 - Q113</name>
