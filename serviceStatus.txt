@@ -1,8 +1,16 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>SERVICE CHANGE</status>
+    <status>DELAYS</status>
     <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;07/05/2016&amp;nbsp; 2:00PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;P&gt;Due to signal problems at &lt;STRONG&gt;157 St&lt;/STRONG&gt;., northbound [1] trains are running with delays.&lt;/P&gt;
+&lt;P&gt;Allow additional travel time.&lt;/P&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              
                     &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
                     &amp;nbsp;Posted:&amp;nbsp;07/05/2016&amp;nbsp; 1:56PM
@@ -11,17 +19,9 @@
 &lt;P&gt;Southbound [1] trains are running express from &lt;STRONG&gt;Times Square-42 St&lt;/STRONG&gt; to &lt;STRONG&gt;Chambers St.&lt;/STRONG&gt;&lt;/P&gt;
 &lt;P&gt;Allow additional travel time. &lt;/P&gt;
                 &lt;br/&gt;&lt;br/&gt;
-              
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;07/05/2016&amp;nbsp;12:35PM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  &lt;P&gt;Due to signal problems at &lt;STRONG&gt;157 St&lt;/STRONG&gt;., northbound [1] trains are running with delays.&lt;/P&gt;
-&lt;P&gt;Allow additional travel time.&lt;/P&gt;
-                &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>07/05/2016</Date>
-    <Time> 1:56PM</Time>
+    <Time> 2:00PM</Time>
   </line>
   <line>
     <name>456</name>
@@ -48,7 +48,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>07/05/2016</Date>
-    <Time> 1:52PM</Time>
+    <Time> 2:02PM</Time>
   </line>
   <line>
     <name>7</name>
@@ -98,28 +98,21 @@
     <text>
                     &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;07/05/2016&amp;nbsp; 1:51PM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  Following an earlier incident on the &lt;STRONG&gt;Manhattan Bridge&lt;/STRONG&gt;, [N] and [Q] train service has resumed with residual delays.
-                &lt;br/&gt;&lt;br/&gt;
-              
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;07/05/2016&amp;nbsp; 1:37PM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  Following earlier signal problems at &lt;STRONG&gt;36 St(BKLYN),&lt;/STRONG&gt; [N] train service has resumed with residual delays.
-                &lt;br/&gt;&lt;br/&gt;
-              
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;07/05/2016&amp;nbsp;12:04PM
+                    &amp;nbsp;Posted:&amp;nbsp;07/05/2016&amp;nbsp; 2:00PM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
                   &lt;P&gt;Due to switch problems at &lt;STRONG&gt;57 St-7 Av&lt;/STRONG&gt;, [N], [Q] and [R] trains are running with delays in both directions. &lt;/P&gt;
 &lt;P&gt;Allow additional travel time. &lt;/P&gt;
                 &lt;br/&gt;&lt;br/&gt;
+              
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;07/05/2016&amp;nbsp; 1:51PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  Following an earlier incident on the &lt;STRONG&gt;Manhattan Bridge&lt;/STRONG&gt;, [N] and [Q] train service has resumed with residual delays.
+                &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>07/05/2016</Date>
-    <Time> 1:51PM</Time>
+    <Time> 2:00PM</Time>
   </line>
   <line>
     <name>S</name>
@@ -130,21 +123,10 @@
   </line>
   <line>
     <name>SIR</name>
-    <status>PLANNED WORK</status>
-    <text>
-                    &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
-                    &lt;br/&gt;
-                  &lt;a class="plannedWorkDetailLink" onclick=ShowHide(128721);&gt;
-&lt;b&gt;[SIR] Trains board at the St. George-bound platform from Grant City to Great Kills
-&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 128721 class="plannedWorkDetail" &gt;&lt;/b&gt;Days, 9 AM to 2 PM, Tue to Thu, Jul 5 - 7
-&lt;br&gt;
-&lt;br&gt;&amp;bull; Boarding change includes &lt;b&gt;Grant City&lt;/b&gt;, &lt;b&gt;New Dorp&lt;/b&gt;, &lt;b&gt;Oakwood&lt;/b&gt;, &lt;b&gt;Bay Terrace &lt;/b&gt;and &lt;b&gt;Great Kills Stations&lt;/b&gt;.
-&lt;br&gt;&lt;b&gt;
-&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>07/05/2016</Date>
-    <Time> 1:52PM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
 </subway><bus>
   <line>
@@ -217,7 +199,7 @@
               &lt;br/&gt;
             </text>
     <Date>07/05/2016</Date>
-    <Time> 1:52PM</Time>
+    <Time> 2:02PM</Time>
   </line>
   <line>
     <name>B100 - B103</name>
@@ -266,7 +248,7 @@
               &lt;br/&gt;
             </text>
     <Date>07/05/2016</Date>
-    <Time> 1:52PM</Time>
+    <Time> 2:02PM</Time>
   </line>
   <line>
     <name>BXM1 - BXM18</name>
@@ -323,7 +305,7 @@
               &lt;br/&gt;
             </text>
     <Date>07/05/2016</Date>
-    <Time> 1:52PM</Time>
+    <Time> 2:02PM</Time>
   </line>
   <line>
     <name>Q1 - Q113</name>
@@ -514,7 +496,7 @@
               &lt;br/&gt;
             </text>
     <Date>07/05/2016</Date>
-    <Time> 1:52PM</Time>
+    <Time> 2:02PM</Time>
   </line>
 </bus><BT>
   <line>
