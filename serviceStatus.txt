@@ -139,6 +139,24 @@
             
                   &lt;span class="TitlePlannedWork" &gt;Planned Detour&lt;/span&gt;
                   &lt;br/&gt;
+                &lt;a class="plannedWorkDetailLink" onclick=ShowHide(128614);&gt;
+&lt;b&gt;B35/B35 &lt;/b&gt;LTD&lt;b&gt; - Westbound buses rerouted from Church Av/Dahill Rd to 36 St/12 Av
+&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 128614 class="plannedWorkDetail" &gt;&lt;/b&gt;6:30 AM to 1 PM, Tuesday, Jul 5
+&lt;br&gt;
+&lt;br&gt;Due to a local event, buses run via &lt;b&gt;Dahill Rd &lt;/b&gt;making corresponding stops.
+&lt;br&gt;
+&lt;br&gt;&lt;b&gt;&lt;i&gt;&lt;a style="cursor:pointer; text-decoration:underline;" onclick=ShowHide(1286140);&gt;Show Reroute Details&lt;/a&gt;&lt;/i&gt;&lt;/b&gt;
+&lt;br&gt;&lt;div id="1286140"; style="display:none;"&gt;Via Church Av
+&lt;br&gt;Right on Dahill Rd
+&lt;br&gt;Left on 12 Av
+&lt;br&gt;Right on 39 St then regular route&lt;/div&gt;
+&lt;br&gt;&lt;b&gt;
+&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
+                  &lt;span class="TitlePlannedWork" &gt;Planned Detour&lt;/span&gt;
+                  &lt;br/&gt;
                 &lt;a class="plannedWorkDetailLink" onclick=ShowHide(127281);&gt;
 &lt;b&gt;B25, B38/B38 &lt;/b&gt;LTD&lt;b&gt;, B41/B41 &lt;/b&gt;LTD &lt;b&gt;and B52&lt;br clear=left&gt;Southbound buses rerouted from Adams St at Tillary St to Fulton St
 &lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 127281 class="plannedWorkDetail" &gt;&lt;/b&gt;Until further notice
@@ -169,7 +187,7 @@
               &lt;br/&gt;
             </text>
     <Date>07/05/2016</Date>
-    <Time> 6:22AM</Time>
+    <Time> 6:32AM</Time>
   </line>
   <line>
     <name>B100 - B103</name>
@@ -202,7 +220,7 @@
               &lt;br/&gt;
             </text>
     <Date>07/05/2016</Date>
-    <Time> 6:22AM</Time>
+    <Time> 6:32AM</Time>
   </line>
   <line>
     <name>BXM1 - BXM18</name>
@@ -259,7 +277,7 @@
               &lt;br/&gt;
             </text>
     <Date>07/05/2016</Date>
-    <Time> 6:22AM</Time>
+    <Time> 6:32AM</Time>
   </line>
   <line>
     <name>Q1 - Q113</name>
@@ -330,7 +348,7 @@
               &lt;br/&gt;
             </text>
     <Date>07/05/2016</Date>
-    <Time> 6:22AM</Time>
+    <Time> 6:32AM</Time>
   </line>
   <line>
     <name>QM1 - QM44</name>
