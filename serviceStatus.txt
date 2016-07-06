@@ -1,8 +1,16 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>PLANNED WORK</status>
+    <status>SERVICE CHANGE</status>
     <text>
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;07/06/2016&amp;nbsp;11:19AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;P&gt;Due to NYPD activity at &lt;STRONG&gt;79 St&lt;/STRONG&gt;, northbound [1] trains are running express from &lt;STRONG&gt;72 St&lt;/STRONG&gt; to&lt;STRONG&gt; 96 St&lt;/STRONG&gt;. &lt;/P&gt;
+&lt;P&gt;Allow additional travel time.&lt;/P&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              
                     &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
                     &lt;br/&gt;
                   &lt;a class="plannedWorkDetailLink" onclick=ShowHide(124237);&gt;
@@ -29,7 +37,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>07/06/2016</Date>
-    <Time>11:12AM</Time>
+    <Time>11:19AM</Time>
   </line>
   <line>
     <name>456</name>
@@ -182,18 +190,8 @@
 </subway><bus>
   <line>
     <name>B1 - B84</name>
-    <status>DELAYS</status>
+    <status>PLANNED WORK</status>
     <text>
-                  &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                  &lt;span class="DateStyle"&gt;
-                  &amp;nbsp;Posted:&amp;nbsp;07/06/2016&amp;nbsp;11:05AM
-                  &lt;/span&gt;
-                  &lt;br/&gt;
-                  &lt;br/&gt;
-                Following an earlier incident on Bay Pkwy, &lt;STRONG&gt;B6&lt;/STRONG&gt; and &lt;STRONG&gt;B82&lt;/STRONG&gt; bus service has resumed with residual delays
-              &lt;br/&gt;
-              &lt;br/&gt;
-            
                   &lt;span class="TitlePlannedWork" &gt;Planned Detour&lt;/span&gt;
                   &lt;br/&gt;
                 &lt;a class="plannedWorkDetailLink" onclick=ShowHide(117571);&gt;
@@ -248,7 +246,7 @@
               &lt;br/&gt;
             </text>
     <Date>07/06/2016</Date>
-    <Time>11:05AM</Time>
+    <Time>11:12AM</Time>
   </line>
   <line>
     <name>B100 - B103</name>
