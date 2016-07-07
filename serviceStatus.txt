@@ -1,10 +1,25 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>PLANNED WORK</status>
+    <text>
+                    &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
+                    &lt;br/&gt;
+                  &lt;a class="plannedWorkDetailLink" onclick=ShowHide(126499);&gt;
+&lt;b&gt;[1] Van Cortlandt Park-bound trains skip 50 St, 59 St and 66&lt;/font&gt; St
+&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 126499 class="plannedWorkDetail" &gt;&lt;/b&gt;Late Nights, 10:45 PM to 5 AM, Tue to Fri, Jul 5 - 8
+&lt;br&gt;
+&lt;br&gt;For service&lt;i&gt; to&lt;/i&gt; these stations, take the &lt;b&gt;[1]&lt;/b&gt; to 72 St and &lt;/font&gt;transfer to a 
+&lt;br&gt;South Ferry-bound &lt;b&gt;[1]&lt;/b&gt; or Flatbush Av-bound &lt;/font&gt;&lt;b&gt;[2]&lt;/b&gt; &lt;i&gt;local&lt;/i&gt;.
+&lt;br&gt;
+&lt;br&gt;For service &lt;i&gt;from&lt;/i&gt; these stations, take the &lt;b&gt;[1]&lt;/b&gt; &lt;/font&gt;or &lt;b&gt;[2]&lt;/b&gt; to Times Sq-42 St and 
+&lt;br&gt;transfer to a Van Cortlandt Park-bound &lt;b&gt;[1]&lt;/b&gt;.
+&lt;br&gt;&lt;b&gt;
+&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>07/06/2016</Date>
+    <Time>10:52PM</Time>
   </line>
   <line>
     <name>456</name>
@@ -57,7 +72,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>07/06/2016</Date>
-    <Time>10:42PM</Time>
+    <Time>10:52PM</Time>
   </line>
   <line>
     <name>BDFM</name>
@@ -107,7 +122,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>07/06/2016</Date>
-    <Time>10:42PM</Time>
+    <Time>10:52PM</Time>
   </line>
   <line>
     <name>G</name>
@@ -287,7 +302,7 @@
               &lt;br/&gt;
             </text>
     <Date>07/06/2016</Date>
-    <Time>10:42PM</Time>
+    <Time>10:52PM</Time>
   </line>
   <line>
     <name>BXM1 - BXM18</name>
@@ -344,7 +359,7 @@
               &lt;br/&gt;
             </text>
     <Date>07/06/2016</Date>
-    <Time>10:42PM</Time>
+    <Time>10:52PM</Time>
   </line>
   <line>
     <name>Q1 - Q113</name>
@@ -763,10 +778,17 @@ Customers will be accommodated by bus service.
   </line>
   <line>
     <name>Wassaic</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>SERVICE CHANGE</status>
+    <text>
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;07/06/2016&amp;nbsp;10:52PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  Substitute Bus Service will be provided on the Wassaic Branch for the 1:44 AM train departing Southeast making all stops to Dover Plains.
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>07/06/2016</Date>
+    <Time>10:52PM</Time>
   </line>
   <line>
     <name>New Haven</name>
