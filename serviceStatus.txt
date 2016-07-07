@@ -1,19 +1,17 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>SERVICE CHANGE</status>
+    <status>DELAYS</status>
     <text>
-                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;07/07/2016&amp;nbsp; 7:18AM
+                    &amp;nbsp;Posted:&amp;nbsp;07/07/2016&amp;nbsp; 7:48AM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  &lt;P&gt;Due to a sick passenger at &lt;STRONG&gt;72 St,&lt;/STRONG&gt; southbound [1] trains are running express from &lt;STRONG&gt;96 St&lt;/STRONG&gt; to &lt;STRONG&gt;42 St-Times Sq&lt;/STRONG&gt;.&lt;/P&gt;
-&lt;P&gt;Expect delays on southbound [2] and [3] trains.&lt;/P&gt;
-&lt;P&gt;Allow additional travel time.&lt;/P&gt;
+                  Following an earlier incident at &lt;STRONG&gt;72 St&lt;/STRONG&gt;, [1] train service has resumed with residual delays.
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>07/07/2016</Date>
-    <Time> 7:18AM</Time>
+    <Time> 7:48AM</Time>
   </line>
   <line>
     <name>456</name>
@@ -577,10 +575,17 @@
   </line>
   <line>
     <name>Robert F. Kennedy</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>DELAYS</status>
+    <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;07/07/2016&amp;nbsp; 7:48AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  RFK reports a two vehicle collision with one lane blocked
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>07/07/2016</Date>
+    <Time> 7:48AM</Time>
   </line>
   <line>
     <name>Throgs Neck</name>
