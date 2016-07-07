@@ -1,10 +1,19 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>SERVICE CHANGE</status>
+    <text>
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;07/07/2016&amp;nbsp; 7:18AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;P&gt;Due to a sick passenger at &lt;STRONG&gt;72 St,&lt;/STRONG&gt; southbound [1] trains are running express from &lt;STRONG&gt;96 St&lt;/STRONG&gt; to &lt;STRONG&gt;42 St-Times Sq&lt;/STRONG&gt;.&lt;/P&gt;
+&lt;P&gt;Expect delays on southbound [2] and [3] trains.&lt;/P&gt;
+&lt;P&gt;Allow additional travel time.&lt;/P&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>07/07/2016</Date>
+    <Time> 7:18AM</Time>
   </line>
   <line>
     <name>456</name>
@@ -245,6 +254,20 @@
     <text>
                   &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
                   &lt;span class="DateStyle"&gt;
+                  &amp;nbsp;Posted:&amp;nbsp;07/07/2016&amp;nbsp; 7:19AM
+                  &lt;/span&gt;
+                  &lt;br/&gt;
+                  &lt;br/&gt;
+                &lt;P&gt;&lt;STRONG&gt;Q27&lt;/STRONG&gt; buses are detoured, due to road work on 48 Av at 217 St. &lt;/P&gt;
+&lt;P&gt;Detour is as follows:&lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;Southbound&lt;/STRONG&gt;: Via 48 Av, left on Bell Blvd, right on Northern Blvd, right on Springfield Blvd and regular route.&lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;Northbound&lt;/STRONG&gt;: Via Springfield Blvd, left on Northern Blvd, left on Bell Blvd, right on 48 Av and regular route.&lt;/P&gt;
+&lt;P&gt;Allow additional travel time.&lt;/P&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
+                  &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                  &lt;span class="DateStyle"&gt;
                   &amp;nbsp;Posted:&amp;nbsp;07/07/2016&amp;nbsp; 7:01AM
                   &lt;/span&gt;
                   &lt;br/&gt;
@@ -422,7 +445,7 @@
               &lt;br/&gt;
             </text>
     <Date>07/07/2016</Date>
-    <Time> 7:01AM</Time>
+    <Time> 7:19AM</Time>
   </line>
   <line>
     <name>QM1 - QM44</name>
@@ -606,10 +629,17 @@
   </line>
   <line>
     <name>Hempstead</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>DELAYS</status>
+    <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;07/07/2016&amp;nbsp; 7:19AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  The 6:58AM train from Hempstead due Penn at 7:52AM will be canceled upon arrival at Jamaica Station due to congestion caused by an earlier track condition in one of the East River tunnels. Customers will be accommodated by the next westbound train.
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>07/07/2016</Date>
+    <Time> 7:19AM</Time>
   </line>
   <line>
     <name>Long Beach</name>
