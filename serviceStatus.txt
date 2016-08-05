@@ -1,8 +1,16 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>PLANNED WORK</status>
+    <status>SERVICE CHANGE</status>
     <text>
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;08/05/2016&amp;nbsp;11:18AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;P&gt;Due to a train with mechanical problems at &lt;STRONG&gt;174 St&lt;/STRONG&gt;, southbound [2] and [5] trains are running express from &lt;STRONG&gt;E 180 St &lt;/STRONG&gt;to &lt;STRONG&gt;149 St-3 Av.&lt;/STRONG&gt;&lt;/P&gt;
+&lt;P&gt;Allow additonal travel time.&lt;/P&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              
                     &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
                     &lt;br/&gt;
                   &lt;a class="plannedWorkDetailLink" onclick=ShowHide(128347);&gt;
@@ -46,21 +54,37 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>08/05/2016</Date>
-    <Time>11:12AM</Time>
+    <Time>11:18AM</Time>
   </line>
   <line>
     <name>456</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>SERVICE CHANGE</status>
+    <text>
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;08/05/2016&amp;nbsp;11:18AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;P&gt;Due to a train with mechanical problems at &lt;STRONG&gt;174 St&lt;/STRONG&gt;, southbound [2] and [5] trains are running express from &lt;STRONG&gt;E 180 St &lt;/STRONG&gt;to &lt;STRONG&gt;149 St-3 Av.&lt;/STRONG&gt;&lt;/P&gt;
+&lt;P&gt;Allow additonal travel time.&lt;/P&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>08/05/2016</Date>
+    <Time>11:18AM</Time>
   </line>
   <line>
     <name>7</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>SERVICE CHANGE</status>
+    <text>
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;08/05/2016&amp;nbsp;11:18AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;P&gt;Due to a train with mechanical problems, some Main St bound [7] trains are terminating at &lt;STRONG&gt;QueensBoro Plaza&lt;/STRONG&gt;. &lt;/P&gt;
+&lt;P&gt;Allow additional travel time.&lt;/P&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>08/05/2016</Date>
+    <Time>11:18AM</Time>
   </line>
   <line>
     <name>ACE</name>
@@ -743,127 +767,64 @@
 </BT><LIRR>
   <line>
     <name>Babylon</name>
-    <status>DELAYS</status>
-    <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;08/05/2016&amp;nbsp;10:58AM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  &lt;P class=MsoPlainText style="MARGIN: 0in 0in 0pt"&gt;&lt;FONT size=3 face=Calibri&gt;The LIRR is experiencing scattered delays into and out of Penn Station averaging 15 minutes due to an earlier disabled train caused by a track condition in one of the East River Tunnels. NYC Transit is no longer cross-honoring LIRR tickets.&lt;/FONT&gt;&lt;/P&gt;
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>08/05/2016</Date>
-    <Time>10:58AM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>City Terminal Zone</name>
-    <status>DELAYS</status>
-    <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;08/05/2016&amp;nbsp;10:58AM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  &lt;P class=MsoPlainText style="MARGIN: 0in 0in 0pt"&gt;&lt;FONT size=3 face=Calibri&gt;The LIRR is experiencing scattered delays into and out of Penn Station averaging 15 minutes due to an earlier disabled train caused by a track condition in one of the East River Tunnels. NYC Transit is no longer cross-honoring LIRR tickets.&lt;/FONT&gt;&lt;/P&gt;
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>08/05/2016</Date>
-    <Time>10:58AM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>Far Rockaway</name>
-    <status>DELAYS</status>
-    <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;08/05/2016&amp;nbsp;10:58AM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  &lt;P class=MsoPlainText style="MARGIN: 0in 0in 0pt"&gt;&lt;FONT size=3 face=Calibri&gt;The LIRR is experiencing scattered delays into and out of Penn Station averaging 15 minutes due to an earlier disabled train caused by a track condition in one of the East River Tunnels. NYC Transit is no longer cross-honoring LIRR tickets.&lt;/FONT&gt;&lt;/P&gt;
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>08/05/2016</Date>
-    <Time>10:58AM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>Hempstead</name>
-    <status>DELAYS</status>
-    <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;08/05/2016&amp;nbsp;10:58AM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  &lt;P class=MsoPlainText style="MARGIN: 0in 0in 0pt"&gt;&lt;FONT size=3 face=Calibri&gt;The LIRR is experiencing scattered delays into and out of Penn Station averaging 15 minutes due to an earlier disabled train caused by a track condition in one of the East River Tunnels. NYC Transit is no longer cross-honoring LIRR tickets.&lt;/FONT&gt;&lt;/P&gt;
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>08/05/2016</Date>
-    <Time>10:58AM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>Long Beach</name>
-    <status>DELAYS</status>
-    <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;08/05/2016&amp;nbsp;10:58AM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  &lt;P class=MsoPlainText style="MARGIN: 0in 0in 0pt"&gt;&lt;FONT size=3 face=Calibri&gt;The LIRR is experiencing scattered delays into and out of Penn Station averaging 15 minutes due to an earlier disabled train caused by a track condition in one of the East River Tunnels. NYC Transit is no longer cross-honoring LIRR tickets.&lt;/FONT&gt;&lt;/P&gt;
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>08/05/2016</Date>
-    <Time>10:58AM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>Montauk</name>
-    <status>DELAYS</status>
-    <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;08/05/2016&amp;nbsp;10:58AM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  &lt;P class=MsoPlainText style="MARGIN: 0in 0in 0pt"&gt;&lt;FONT size=3 face=Calibri&gt;The LIRR is experiencing scattered delays into and out of Penn Station averaging 15 minutes due to an earlier disabled train caused by a track condition in one of the East River Tunnels. NYC Transit is no longer cross-honoring LIRR tickets.&lt;/FONT&gt;&lt;/P&gt;
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>08/05/2016</Date>
-    <Time>10:58AM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>Oyster Bay</name>
-    <status>DELAYS</status>
-    <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;08/05/2016&amp;nbsp;10:58AM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  &lt;P class=MsoPlainText style="MARGIN: 0in 0in 0pt"&gt;&lt;FONT size=3 face=Calibri&gt;The LIRR is experiencing scattered delays into and out of Penn Station averaging 15 minutes due to an earlier disabled train caused by a track condition in one of the East River Tunnels. NYC Transit is no longer cross-honoring LIRR tickets.&lt;/FONT&gt;&lt;/P&gt;
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>08/05/2016</Date>
-    <Time>10:58AM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>Port Jefferson</name>
-    <status>DELAYS</status>
-    <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;08/05/2016&amp;nbsp;10:58AM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  &lt;P class=MsoPlainText style="MARGIN: 0in 0in 0pt"&gt;&lt;FONT size=3 face=Calibri&gt;The LIRR is experiencing scattered delays into and out of Penn Station averaging 15 minutes due to an earlier disabled train caused by a track condition in one of the East River Tunnels. NYC Transit is no longer cross-honoring LIRR tickets.&lt;/FONT&gt;&lt;/P&gt;
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>08/05/2016</Date>
-    <Time>10:58AM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>Port Washington</name>
     <status>DELAYS</status>
     <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;08/05/2016&amp;nbsp;10:58AM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  &lt;P class=MsoPlainText style="MARGIN: 0in 0in 0pt"&gt;&lt;FONT size=3 face=Calibri&gt;The LIRR is experiencing scattered delays into and out of Penn Station averaging 15 minutes due to an earlier disabled train caused by a track condition in one of the East River Tunnels. NYC Transit is no longer cross-honoring LIRR tickets.&lt;/FONT&gt;&lt;/P&gt;
-                &lt;br/&gt;&lt;br/&gt;
-              
                     &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
                     &amp;nbsp;Posted:&amp;nbsp;08/05/2016&amp;nbsp; 9:13AM
@@ -878,35 +839,21 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>08/05/2016</Date>
-    <Time>10:58AM</Time>
+    <Time> 9:13AM</Time>
   </line>
   <line>
     <name>Ronkonkoma</name>
-    <status>DELAYS</status>
-    <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;08/05/2016&amp;nbsp;10:58AM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  &lt;P class=MsoPlainText style="MARGIN: 0in 0in 0pt"&gt;&lt;FONT size=3 face=Calibri&gt;The LIRR is experiencing scattered delays into and out of Penn Station averaging 15 minutes due to an earlier disabled train caused by a track condition in one of the East River Tunnels. NYC Transit is no longer cross-honoring LIRR tickets.&lt;/FONT&gt;&lt;/P&gt;
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>08/05/2016</Date>
-    <Time>10:58AM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>West Hempstead</name>
-    <status>DELAYS</status>
-    <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;08/05/2016&amp;nbsp;10:58AM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  &lt;P class=MsoPlainText style="MARGIN: 0in 0in 0pt"&gt;&lt;FONT size=3 face=Calibri&gt;The LIRR is experiencing scattered delays into and out of Penn Station averaging 15 minutes due to an earlier disabled train caused by a track condition in one of the East River Tunnels. NYC Transit is no longer cross-honoring LIRR tickets.&lt;/FONT&gt;&lt;/P&gt;
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>08/05/2016</Date>
-    <Time>10:58AM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
 </LIRR><MetroNorth>
   <line>
