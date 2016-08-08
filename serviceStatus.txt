@@ -1,8 +1,21 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>PLANNED WORK</status>
+    <status>SERVICE CHANGE</status>
     <text>
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;08/07/2016&amp;nbsp; 9:07PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;P&gt;Due to a structural condition at &lt;STRONG&gt;125 St&lt;/STRONG&gt;, the following service changes are in effect:&lt;/P&gt;
+&lt;P&gt;There are no [1] train service between &lt;STRONG&gt;96 St&lt;/STRONG&gt; and &lt;STRONG&gt;137 St-City College. &lt;/STRONG&gt;&lt;/P&gt;
+&lt;P&gt;Some southbound [1] trains terminate at&lt;STRONG&gt; 168 St.&lt;/STRONG&gt; &lt;/P&gt;
+&lt;P&gt;As an alternative, for stations between &lt;STRONG&gt;96 St&lt;/STRONG&gt; and &lt;STRONG&gt;125 St&lt;/STRONG&gt;, take &lt;STRONG&gt;M104&lt;/STRONG&gt; bus service on Broadway. &lt;/P&gt;
+&lt;P&gt;In addition, passengers can take &lt;STRONG&gt;M4&lt;/STRONG&gt; bus service at &lt;STRONG&gt;110 St-Cathedral Parkway&lt;/STRONG&gt; and &lt;STRONG&gt;137 St-City College [1] stations. &lt;/STRONG&gt;&lt;/P&gt;
+&lt;P&gt;Expect extensive delays in both directions. &lt;/P&gt;
+&lt;P&gt;Allow additional travel time. &lt;/P&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              
                     &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
                     &lt;br/&gt;
                   &lt;a class="plannedWorkDetailLink" onclick=ShowHide(128901);&gt;
@@ -146,7 +159,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>08/07/2016</Date>
-    <Time> 9:02PM</Time>
+    <Time> 9:07PM</Time>
   </line>
   <line>
     <name>456</name>
