@@ -8,10 +8,17 @@
   </line>
   <line>
     <name>456</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>DELAYS</status>
+    <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;08/08/2016&amp;nbsp; 6:21AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  Due to a train with mechanical problems at &lt;STRONG&gt;Woodlawn,&lt;/STRONG&gt; [4] trains are running with delays in both directions. &lt;BR&gt;&lt;BR&gt;Allow additional travel time.
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>08/08/2016</Date>
+    <Time> 6:21AM</Time>
   </line>
   <line>
     <name>7</name>
@@ -346,8 +353,19 @@
   </line>
   <line>
     <name>x1 - x68</name>
-    <status>PLANNED WORK</status>
+    <status>DELAYS</status>
     <text>
+                  &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                  &lt;span class="DateStyle"&gt;
+                  &amp;nbsp;Posted:&amp;nbsp;08/08/2016&amp;nbsp; 6:20AM
+                  &lt;/span&gt;
+                  &lt;br/&gt;
+                  &lt;br/&gt;
+                &lt;P&gt;&lt;STRONG&gt;X27, X28, X37&lt;/STRONG&gt; and &lt;STRONG&gt;X38&lt;/STRONG&gt; buses are running with delays in both directions due to a obstruction on the Brooklyn Queens Expwy. &lt;/P&gt;
+&lt;P&gt;Allow additonal travel time.&lt;/P&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
                   &lt;span class="TitlePlannedWork" &gt;Planned Detour&lt;/span&gt;
                   &lt;br/&gt;
                 &lt;a class="plannedWorkDetailLink" onclick=ShowHide(129214);&gt;
@@ -369,7 +387,7 @@
               &lt;br/&gt;
             </text>
     <Date>08/08/2016</Date>
-    <Time> 6:12AM</Time>
+    <Time> 6:20AM</Time>
   </line>
 </bus><BT>
   <line>
