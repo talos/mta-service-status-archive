@@ -5,6 +5,17 @@
     <text>
                     &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
                     &lt;br/&gt;
+                  &lt;a class="plannedWorkDetailLink" onclick=ShowHide(128909);&gt;
+&lt;b&gt;[3] Late night service is extended to Utica Av
+&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 128909 class="plannedWorkDetail" &gt;&lt;/b&gt;Weekend, 11:30 PM Fri to 5 AM Mon, Aug 5 - 8
+&lt;br&gt;
+&lt;br&gt;&lt;b&gt;[3]&lt;/b&gt; service operates between &lt;b&gt;148 St&lt;/b&gt; and &lt;b&gt;Utica Av&lt;/b&gt; &lt;i&gt;all weekend&lt;/i&gt;.
+&lt;br&gt;&lt;b&gt;
+&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              
+                    &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
+                    &lt;br/&gt;
                   &lt;a class="plannedWorkDetailLink" onclick=ShowHide(128901);&gt;
 &lt;b&gt;[3] Trains run local in both directions between 34 St-Penn Station and Chambers St
 &lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 128901 class="plannedWorkDetail" &gt;&lt;/b&gt;Weekend, 11:30 PM Fri to 5 AM Mon, Aug 5 - 8
@@ -91,23 +102,9 @@
 &lt;br&gt;&lt;b&gt;
 &lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
                 &lt;br/&gt;&lt;br/&gt;
-              
-                    &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
-                    &lt;br/&gt;
-                  &lt;a class="plannedWorkDetailLink" onclick=ShowHide(128898);&gt;
-&lt;b&gt;[1] Downtown trains skip 28, 23 and 18 Sts&lt;br clear=left&gt;[2] [3] trains provide alternate service
-&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 128898 class="plannedWorkDetail" &gt;&lt;/b&gt;Weekend, 6 AM to 11:59 PM Saturday, Aug 6
-&lt;br&gt;                8 AM to 11:59 PM Sunday, Aug 7
-&lt;br&gt;
-&lt;br&gt;&amp;bull; Transfer between [1] and [2] [3] trains at &lt;/font&gt;Times Sq-42 St (across the platform).
-&lt;br&gt;
-&lt;br&gt;&lt;/font&gt;&lt;b&gt;Note: &lt;/b&gt;Late night&lt;b&gt; &lt;/b&gt;[3] service operates between 148 St and Utica Av.
-&lt;br&gt;&lt;b&gt;
-&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
-                &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>08/07/2016</Date>
-    <Time>11:42PM</Time>
+    <Time>11:52PM</Time>
   </line>
   <line>
     <name>456</name>
@@ -141,7 +138,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>08/07/2016</Date>
-    <Time>11:42PM</Time>
+    <Time>11:52PM</Time>
   </line>
   <line>
     <name>7</name>
@@ -287,7 +284,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>08/07/2016</Date>
-    <Time>11:42PM</Time>
+    <Time>11:52PM</Time>
   </line>
   <line>
     <name>G</name>
@@ -359,7 +356,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>08/07/2016</Date>
-    <Time>11:42PM</Time>
+    <Time>11:52PM</Time>
   </line>
   <line>
     <name>S</name>
@@ -635,7 +632,7 @@
               &lt;br/&gt;
             </text>
     <Date>08/07/2016</Date>
-    <Time>11:42PM</Time>
+    <Time>11:52PM</Time>
   </line>
   <line>
     <name>x1 - x68</name>
@@ -662,7 +659,7 @@
               &lt;br/&gt;
             </text>
     <Date>08/07/2016</Date>
-    <Time>11:42PM</Time>
+    <Time>11:52PM</Time>
   </line>
 </bus><BT>
   <line>
@@ -693,15 +690,22 @@
   </line>
   <line>
     <name>Hugh L. Carey</name>
-    <status>PLANNED WORK</status>
+    <status>DELAYS</status>
     <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;08/07/2016&amp;nbsp;11:53PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  HLC: DISABLED VEHICLE IN THE MANHATTAN TUBE TWO WAY. EXPECT DELAYS.
+                &lt;br/&gt;&lt;br/&gt;
+              
                     &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
                     &lt;br/&gt;
                   HLC: PLANNED WORK; MANHATTAN-BOUND TUBE CLOSED. 2-WAY OPERATION IN THE BROOKLYN-BOUND TUBE; EXPECT DELAYS.
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>08/07/2016</Date>
-    <Time> 8:57PM</Time>
+    <Time>11:53PM</Time>
   </line>
   <line>
     <name>Marine Parkway</name>
