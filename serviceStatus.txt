@@ -1,20 +1,42 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>SERVICE CHANGE</status>
+    <text>
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;08/08/2016&amp;nbsp;10:02AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;P&gt;Due to signal problems at &lt;STRONG&gt;Bowling Green&lt;/STRONG&gt;, the following service changes are in effect:&lt;/P&gt;
+&lt;P&gt;Northbound [4] and [5] trains are running with delays. &lt;/P&gt;
+&lt;P&gt;Some northbound [5] trains are running on the [2] line from &lt;STRONG&gt;Nevins St&lt;/STRONG&gt; to 1&lt;STRONG&gt;49 St-Grand Concourse&lt;/STRONG&gt;.&lt;/P&gt;
+&lt;P&gt;Expect delays in northbound [2] train service. &lt;/P&gt;
+&lt;P&gt;Allow additonal travel time. &lt;/P&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>08/08/2016</Date>
+    <Time>10:02AM</Time>
   </line>
   <line>
     <name>456</name>
-    <status>PLANNED WORK</status>
+    <status>SERVICE CHANGE</status>
     <text>
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;08/08/2016&amp;nbsp;10:02AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;P&gt;Due to signal problems at &lt;STRONG&gt;Bowling Green&lt;/STRONG&gt;, the following service changes are in effect:&lt;/P&gt;
+&lt;P&gt;Northbound [4] and [5] trains are running with delays. &lt;/P&gt;
+&lt;P&gt;Some northbound [5] trains are running on the [2] line from &lt;STRONG&gt;Nevins St&lt;/STRONG&gt; to 1&lt;STRONG&gt;49 St-Grand Concourse&lt;/STRONG&gt;.&lt;/P&gt;
+&lt;P&gt;Expect delays in northbound [2] train service. &lt;/P&gt;
+&lt;P&gt;Allow additonal travel time. &lt;/P&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              
                     &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
                     &lt;br/&gt;
-                  &lt;a class="plannedWorkDetailLink" onclick=ShowHide(128354);&gt;
-&lt;b&gt;[6D] Pelham Bay Park-bound trains run local from 3 Av-138 St to Parkchester
-&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 128354 class="plannedWorkDetail" &gt;&lt;/b&gt;Days, 1 PM to 3 PM, Mon to Fri, Aug 8 - 12
+                  &lt;a class="plannedWorkDetailLink" onclick=ShowHide(128353);&gt;
+&lt;b&gt;[6D] Brooklyn Bridge-bound trains run local from Parkchester to 3 Av-138 St
+&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 128353 class="plannedWorkDetail" &gt;&lt;/b&gt;Days, 10:15 AM to 1 PM, Mon to Fri, until Aug 19 
 &lt;br&gt;
 &lt;br&gt;&amp;bull; Please allow additional travel time.
 &lt;br&gt;&lt;b&gt;
@@ -50,7 +72,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>08/08/2016</Date>
-    <Time> 1:42PM</Time>
+    <Time>10:02AM</Time>
   </line>
   <line>
     <name>7</name>
@@ -141,7 +163,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>08/08/2016</Date>
-    <Time> 1:42PM</Time>
+    <Time>10:32AM</Time>
   </line>
 </subway><bus>
   <line>
@@ -150,14 +172,16 @@
     <text>
                   &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
                   &lt;span class="DateStyle"&gt;
-                  &amp;nbsp;Posted:&amp;nbsp;08/08/2016&amp;nbsp;11:38AM
+                  &amp;nbsp;Posted:&amp;nbsp;08/08/2016&amp;nbsp;10:38AM
                   &lt;/span&gt;
                   &lt;br/&gt;
                   &lt;br/&gt;
-                &lt;P&gt;&lt;STRONG&gt;B11&lt;/STRONG&gt; buses are detoured due to milling on 9 Av between 49 St and 50 St. &lt;BR&gt;&lt;BR&gt;Detour is as follows:&lt;BR&gt;&lt;BR&gt;&lt;STRONG&gt;1 Av-bound:&lt;/STRONG&gt; Via 49 St, right on Ft. Hamilton Pkwy, left on 47 St, left on 8 Av, right on 49 St and regular route.&lt;/P&gt;
-&lt;P&gt;&lt;STRONG&gt;Flatbush Av-bound:&lt;/STRONG&gt; Via 50 St, right on 8 Av, left on 52 St, left on Ft Hamilton Pkwy, left on 50 St and regular route.&lt;/P&gt;
-&lt;P&gt;Corresponding stops will be made along detoured route.&lt;/P&gt;
-&lt;P&gt;Allow additional travel time. &lt;/P&gt;
+                &lt;P&gt;&lt;STRONG&gt;B24, B60&lt;/STRONG&gt; and&lt;STRONG&gt; Q54&lt;/STRONG&gt; buses are detoured due to an obstruction at Marcy Av at South 4 St. &lt;/P&gt;
+&lt;P&gt;Detour is as follows: &lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;B24 Washington Plaza Bound&lt;/STRONG&gt;: Via Marcy Av, right on Boriquen Pl into South 4 St, left on Driggs Av, left on Broadway, left on Washington Plaza Terminal.&lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;B60 Washington Plaza Bound&lt;/STRONG&gt;: Via South 4 St, right on Rodney St, left on Driggs Av, left on Broadway, left into Washington Plaza Terminal. &lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;Q54 Washington Plaza Bound&lt;/STRONG&gt;: Via Boriguen into South 4 St, left on Driggs Av, left on Broadway, left into Washington Plaza Terminal. &lt;/P&gt;
+&lt;P&gt;Allow additonal travel time. &lt;/P&gt;
               &lt;br/&gt;
               &lt;br/&gt;
             
@@ -260,7 +284,7 @@
               &lt;br/&gt;
             </text>
     <Date>08/08/2016</Date>
-    <Time>11:38AM</Time>
+    <Time>10:38AM</Time>
   </line>
   <line>
     <name>B100 - B103</name>
@@ -352,31 +376,16 @@
     <text>
                   &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
                   &lt;span class="DateStyle"&gt;
-                  &amp;nbsp;Posted:&amp;nbsp;08/08/2016&amp;nbsp;11:38AM
+                  &amp;nbsp;Posted:&amp;nbsp;08/08/2016&amp;nbsp;10:38AM
                   &lt;/span&gt;
                   &lt;br/&gt;
                   &lt;br/&gt;
-                &lt;P&gt;&lt;STRONG&gt;Q25&lt;/STRONG&gt; and &lt;STRONG&gt;Q34&lt;/STRONG&gt; buses are detoured in both directions due to milling on Kissena Blvd between 71 Av and Parsons Blvd. &lt;/P&gt;
-&lt;P&gt;Detour is as follows:&lt;/P&gt;
-&lt;P&gt;&lt;STRONG&gt;Northbound&lt;/STRONG&gt;: Via Parsons Blvd, left on 71 Av, right on Kissena Blvd to regular route. &lt;/P&gt;
-&lt;P&gt;&lt;STRONG&gt;Southbound&lt;/STRONG&gt;: Via Kissena Blvd, left on 71 Av, right on Parsons Blvd to regular route. &lt;/P&gt;
-&lt;P&gt;All corresponding stops will be made along detoured route. &lt;/P&gt;
-&lt;P&gt;Allow additional travel time.&lt;/P&gt;
-              &lt;br/&gt;
-              &lt;br/&gt;
-            
-                  &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
-                  &lt;span class="DateStyle"&gt;
-                  &amp;nbsp;Posted:&amp;nbsp;08/08/2016&amp;nbsp;11:32AM
-                  &lt;/span&gt;
-                  &lt;br/&gt;
-                  &lt;br/&gt;
-                &lt;P&gt;&lt;STRONG&gt;Q39&lt;/STRONG&gt; buses are detoured in both directions due to road work on 48 Av between 44 St and 49 St. &lt;/P&gt;
-&lt;P&gt;Detour is as follows:&lt;/P&gt;
-&lt;P&gt;&lt;STRONG&gt;Westbound&lt;/STRONG&gt;: Via 48 St, left on 50 Av, right on 43 St, left on 48 Av to regular route. &lt;/P&gt;
-&lt;P&gt;&lt;STRONG&gt;Eastbound&lt;/STRONG&gt;: Via 48 Av, right on 43 St, left on 50 Av, right on 48 St to regular route.&lt;/P&gt;
-&lt;P&gt;All corresponding stops will be made along detoured route. &lt;/P&gt;
-&lt;P&gt;Allow additional travel time.&lt;/P&gt;
+                &lt;P&gt;&lt;STRONG&gt;B24, B60&lt;/STRONG&gt; and&lt;STRONG&gt; Q54&lt;/STRONG&gt; buses are detoured due to an obstruction at Marcy Av at South 4 St. &lt;/P&gt;
+&lt;P&gt;Detour is as follows: &lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;B24 Washington Plaza Bound&lt;/STRONG&gt;: Via Marcy Av, right on Boriquen Pl into South 4 St, left on Driggs Av, left on Broadway, left on Washington Plaza Terminal.&lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;B60 Washington Plaza Bound&lt;/STRONG&gt;: Via South 4 St, right on Rodney St, left on Driggs Av, left on Broadway, left into Washington Plaza Terminal. &lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;Q54 Washington Plaza Bound&lt;/STRONG&gt;: Via Boriguen into South 4 St, left on Driggs Av, left on Broadway, left into Washington Plaza Terminal. &lt;/P&gt;
+&lt;P&gt;Allow additonal travel time. &lt;/P&gt;
               &lt;br/&gt;
               &lt;br/&gt;
             
@@ -401,6 +410,17 @@
 &lt;P&gt;&lt;STRONG&gt;Eastbound:&lt;/STRONG&gt; Via 35 Av, left on 87 St, right on Northern Blvd, left on 94 St, right on Astoria Blvd and regular route.&lt;/P&gt;
 &lt;P&gt;Corresponding stops will be made along detoured route.&lt;/P&gt;
 &lt;P&gt;Allow additional travel time. &lt;/P&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
+                  &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                  &lt;span class="DateStyle"&gt;
+                  &amp;nbsp;Posted:&amp;nbsp;08/08/2016&amp;nbsp;10:03AM
+                  &lt;/span&gt;
+                  &lt;br/&gt;
+                  &lt;br/&gt;
+                &lt;P&gt;&lt;STRONG&gt;Q27&lt;/STRONG&gt; buses are running with delays southbound due to a Non MTA accident on Holly Av and Kissena Blvd. &lt;/P&gt;
+&lt;P&gt;Allow additonal travel time.&lt;/P&gt;
               &lt;br/&gt;
               &lt;br/&gt;
             
@@ -460,7 +480,7 @@
               &lt;br/&gt;
             </text>
     <Date>08/08/2016</Date>
-    <Time>11:38AM</Time>
+    <Time>10:38AM</Time>
   </line>
   <line>
     <name>QM1 - QM44</name>
@@ -551,7 +571,7 @@
               &lt;br/&gt;
             </text>
     <Date>08/08/2016</Date>
-    <Time> 1:42PM</Time>
+    <Time>10:32AM</Time>
   </line>
 </bus><BT>
   <line>
@@ -608,22 +628,15 @@
   </line>
   <line>
     <name>Robert F. Kennedy</name>
-    <status>SERVICE CHANGE</status>
+    <status>PLANNED WORK</status>
     <text>
-                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;08/08/2016&amp;nbsp; 1:38PM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  RFK: DISABLED VEHICLE; BRONX SPAN - QUEENS / MANHATTAN BOUND. 2 LANES BLOCKED. EXPECT DELAYS.
-                &lt;br/&gt;&lt;br/&gt;
-              
                     &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
                     &lt;br/&gt;
                   RFK - One roadway closed Manhattan/Bronx bound for planned work. Expect delays.
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>08/08/2016</Date>
-    <Time> 1:38PM</Time>
+    <Time> 6:41AM</Time>
   </line>
   <line>
     <name>Throgs Neck</name>
@@ -643,16 +656,11 @@
     <text>
                     &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
                     &lt;br/&gt;
-                  VNB: PLANNED WORK; BROOKLYN BOUND LOWER LEVEL - ONE LANE CLOSED; EXPECT DELAYS.
-                &lt;br/&gt;&lt;br/&gt;
-              
-                    &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
-                    &lt;br/&gt;
                   VNB: PLANNED WORK; S. I. BOUND LOWER LEVEL - ONE LANE CLOSED; EXPECT DELAYS.
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>08/08/2016</Date>
-    <Time>10:46AM</Time>
+    <Time> 4:47AM</Time>
   </line>
 </BT><LIRR>
   <line>
@@ -668,13 +676,17 @@
     <text>
                     &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;08/08/2016&amp;nbsp; 1:41PM
+                    &amp;nbsp;Posted:&amp;nbsp;08/08/2016&amp;nbsp;10:08AM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  The 1:11PM train from Hempstead due Atlantic Terminal at 2:03PM is being delayed west of Bellerose Station due to switch trouble.
+                  &lt;P&gt;&lt;STRONG&gt;&lt;U&gt;Westbound:&lt;/U&gt;&lt;/STRONG&gt;&lt;/P&gt;
+&lt;P&gt;The 7:00AM train from Montauk due Hunterspoint Ave. at 9:57AM is 89 minutes late operating at a reduced speed due to equipment trouble. Customers will be accommodated by substitute equipment upon arrival at Babylon Station.&lt;/P&gt;
+&lt;P&gt; &lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;&lt;U&gt;Eastbound:&lt;/U&gt;&lt;/STRONG&gt;&lt;/P&gt;
+&lt;P&gt;The 8:52AM train from Babylon due Montauk at 10:52AM is operating 11 minutes late due to congestion caused by a delayed westbound train in single-track territory.&lt;/P&gt;
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>08/08/2016</Date>
-    <Time> 1:41PM</Time>
+    <Time>10:08AM</Time>
   </line>
   <line>
     <name>Far Rockaway</name>
@@ -685,17 +697,10 @@
   </line>
   <line>
     <name>Hempstead</name>
-    <status>DELAYS</status>
-    <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;08/08/2016&amp;nbsp; 1:41PM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  The 1:11PM train from Hempstead due Atlantic Terminal at 2:03PM is being delayed west of Bellerose Station due to switch trouble.
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>08/08/2016</Date>
-    <Time> 1:41PM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>Long Beach</name>
@@ -710,16 +715,17 @@
     <text>
                     &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;08/08/2016&amp;nbsp; 1:21PM
+                    &amp;nbsp;Posted:&amp;nbsp;08/08/2016&amp;nbsp;10:08AM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  &lt;P&gt;&lt;U&gt;&lt;STRONG&gt;Westbound:&lt;/STRONG&gt;&lt;/U&gt;&lt;/P&gt;
-&lt;P&gt;The 11:18AM train from Montauk due Jamaica at 2:21PM is operating 12 minutes late due to congestion caused by a delayed train ahead.&lt;/P&gt;
-&lt;P&gt;&lt;SPAN style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; FLOAT: none; COLOR: rgb(0,0,0); FONT: medium Arial, Helvetica; WIDOWS: 1; DISPLAY: inline !important; LETTER-SPACING: normal; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px"&gt;&lt;FONT size=2&gt;&lt;U&gt;&lt;STRONG&gt;Eastbound:&lt;/STRONG&gt;&lt;/U&gt;&lt;/FONT&gt;&lt;/SPAN&gt;&lt;/P&gt;
-&lt;P&gt;&lt;SPAN style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; FLOAT: none; COLOR: rgb(0,0,0); FONT: medium Arial, Helvetica; WIDOWS: 1; DISPLAY: inline !important; LETTER-SPACING: normal; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px"&gt;&lt;FONT size=2&gt;The 11:30AM train from Jamaica due Montauk at 2:15PM is operating 10 minutes late due to a delayed westbound train in single-track territory.&lt;/FONT&gt;&lt;/SPAN&gt;&lt;/P&gt;
+                  &lt;P&gt;&lt;STRONG&gt;&lt;U&gt;Westbound:&lt;/U&gt;&lt;/STRONG&gt;&lt;/P&gt;
+&lt;P&gt;The 7:00AM train from Montauk due Hunterspoint Ave. at 9:57AM is 89 minutes late operating at a reduced speed due to equipment trouble. Customers will be accommodated by substitute equipment upon arrival at Babylon Station.&lt;/P&gt;
+&lt;P&gt; &lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;&lt;U&gt;Eastbound:&lt;/U&gt;&lt;/STRONG&gt;&lt;/P&gt;
+&lt;P&gt;The 8:52AM train from Babylon due Montauk at 10:52AM is operating 11 minutes late due to congestion caused by a delayed westbound train in single-track territory.&lt;/P&gt;
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>08/08/2016</Date>
-    <Time> 1:21PM</Time>
+    <Time>10:08AM</Time>
   </line>
   <line>
     <name>Oyster Bay</name>
