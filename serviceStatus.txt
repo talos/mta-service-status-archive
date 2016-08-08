@@ -87,10 +87,22 @@
   </line>
   <line>
     <name>SIR</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>PLANNED WORK</status>
+    <text>
+                    &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
+                    &lt;br/&gt;
+                  &lt;a class="plannedWorkDetailLink" onclick=ShowHide(131658);&gt;
+&lt;b&gt;[SIR] Trains board at the St. George-bound platform from Prince's Bay to Atlantic Stations
+&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 131658 class="plannedWorkDetail" &gt;&lt;/b&gt;Day, 9 AM to 2 PM, Monday, Aug 8
+&lt;br&gt;
+&lt;br&gt;&amp;bull; Boarding change includes &lt;b&gt;Prince's Bay&lt;/b&gt;, &lt;b&gt;Pleasant Plains&lt;/b&gt;, &lt;b&gt;Richmond Valley&lt;/b&gt;, &lt;b&gt;Nassau&lt;/b&gt; and 
+&lt;br&gt;  &lt;b&gt;Atlantic Stations&lt;/b&gt;.
+&lt;br&gt;&lt;b&gt;
+&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>08/08/2016</Date>
+    <Time> 9:02AM</Time>
   </line>
 </subway><bus>
   <line>
@@ -602,17 +614,10 @@
   </line>
   <line>
     <name>Far Rockaway</name>
-    <status>DELAYS</status>
-    <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;08/08/2016&amp;nbsp; 8:43AM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  &lt;P&gt;The 7:49AM train from Far Rockaway due Penn at 8:42AM is canceled due to congestion caused by earlier signal trouble at Valley Stream. Customers will be accommodated by the 8:10AM train from Far Rockaway due Penn at 9:05AM.&lt;/P&gt;
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>08/08/2016</Date>
-    <Time> 8:43AM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>Hempstead</name>
