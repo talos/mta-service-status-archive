@@ -1,10 +1,27 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>PLANNED WORK</status>
+    <text>
+                    &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
+                    &lt;br/&gt;
+                  &lt;a class="plannedWorkDetailLink" onclick=ShowHide(129484);&gt;
+&lt;b&gt;[2] Wakefield-bound trains skip Bronx Park East, Pelham Pkwy, Allerton Av and Burke Av
+&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 129484 class="plannedWorkDetail" &gt;&lt;/b&gt;Day, 10:15 AM to 3 PM, Tuesday, Aug 9
+&lt;br&gt;
+&lt;br&gt;For service &lt;i&gt;to &lt;/i&gt;these stations, take the [2] to Gun Hill Rd and transfer to a Flatbush Av-bound [2].
+&lt;br&gt;
+&lt;br&gt;For service &lt;i&gt;from &lt;/i&gt;these stations, take the [2] to E 180 St and transfer to a Wakefield-bound [2].
+&lt;br&gt;
+&lt;br&gt;&lt;/font&gt;&lt;b&gt;&lt;i&gt;Alternate travel note:
+&lt;br&gt;&lt;/b&gt;From&lt;/i&gt; these stations, take the &lt;a href=http://web.mta.info/nyct/bus/schedule/bronx/bx039cur.pdf target=_blank&gt;&lt;font color=#0000FF&gt;&lt;b&gt;&lt;u&gt;Bx39&lt;/u&gt;&lt;/b&gt;&lt;/font&gt;&lt;/a&gt; bus.
+&lt;br&gt;&lt;b&gt;
+&lt;br&gt;
+&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>08/09/2016</Date>
+    <Time>10:22AM</Time>
   </line>
   <line>
     <name>456</name>
@@ -16,6 +33,32 @@
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
                   &lt;P&gt;Due to signal problems at &lt;STRONG&gt;Morris Park&lt;/STRONG&gt;, northbound [5] trains are running with delays.&lt;/P&gt;
 &lt;P&gt;Allow additional travel time.&lt;/P&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              
+                    &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
+                    &lt;br/&gt;
+                  &lt;a class="plannedWorkDetailLink" onclick=ShowHide(128353);&gt;
+&lt;b&gt;[6D] Brooklyn Bridge-bound trains run local from Parkchester to 3 Av-138 St
+&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 128353 class="plannedWorkDetail" &gt;&lt;/b&gt;Days, 10:15 AM to 1 PM, Mon to Fri, until Aug 19 
+&lt;br&gt;
+&lt;br&gt;&amp;bull; Please allow additional travel time.
+&lt;br&gt;&lt;b&gt;
+&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              
+                    &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
+                    &lt;br/&gt;
+                  &lt;a class="plannedWorkDetailLink" onclick=ShowHide(128889);&gt;
+&lt;b&gt;[6] Pelham Bay Park-bound trains run express from Parkchester to Pelham Bay Park
+&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 128889 class="plannedWorkDetail" &gt;&lt;/b&gt;Days, 10:15 AM to 3 PM, Mon to Fri, Aug 8 - 12
+&lt;br&gt;
+&lt;br&gt;&lt;/font&gt;For service &lt;i&gt;to&lt;/i&gt; Castle Hill, Zerega Avs, Westchester Sq, Middletown Rd and Buhre Av, take the [6] to 
+&lt;br&gt;Pelham Bay Park and transfer to a &lt;/font&gt;Brooklyn Bridge-bound [6].
+&lt;br&gt;
+&lt;br&gt;For service &lt;i&gt;from&lt;/i&gt; these stations, take the [6] to Parkchester and transfer to a
+&lt;br&gt;Pelham Bay Park-bound [6].
+&lt;br&gt;&lt;b&gt;
+&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>08/09/2016</Date>
@@ -101,7 +144,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>08/09/2016</Date>
-    <Time>10:12AM</Time>
+    <Time>10:22AM</Time>
   </line>
 </subway><bus>
   <line>
@@ -569,7 +612,7 @@
               &lt;br/&gt;
             </text>
     <Date>08/09/2016</Date>
-    <Time>10:12AM</Time>
+    <Time>10:22AM</Time>
   </line>
 </bus><BT>
   <line>
