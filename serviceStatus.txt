@@ -94,8 +94,23 @@
 </subway><bus>
   <line>
     <name>B1 - B84</name>
-    <status>PLANNED WORK</status>
+    <status>SERVICE CHANGE</status>
     <text>
+                  &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                  &lt;span class="DateStyle"&gt;
+                  &amp;nbsp;Posted:&amp;nbsp;08/10/2016&amp;nbsp; 7:42AM
+                  &lt;/span&gt;
+                  &lt;br/&gt;
+                  &lt;br/&gt;
+                &lt;P&gt;&lt;STRONG&gt;B6&lt;/STRONG&gt; buses are detoured in both directions due to paving on Glenwood Rd between Flatbush Av and New York Av. &lt;/P&gt;
+&lt;P&gt;Detour is as follows:&lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;Eastbound&lt;/STRONG&gt;: Via Glenwood Rd, left on Flatbush Av, right on Farragut Rd, right on New York Av, left on Glenwood Rd to regular route. &lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;Westbound&lt;/STRONG&gt;: Via Glenwood Rd, right on New York Av, left on Farragut Rd, left on Flatbush Av, right on Glenwood Rd to regular route. &lt;/P&gt;
+&lt;P&gt;Allow additional travel time.&lt;/P&gt;
+&lt;P&gt; &lt;/P&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
                   &lt;span class="TitlePlannedWork" &gt;Planned Detour&lt;/span&gt;
                   &lt;br/&gt;
                 &lt;a class="plannedWorkDetailLink" onclick=ShowHide(117571);&gt;
@@ -162,7 +177,7 @@
               &lt;br/&gt;
             </text>
     <Date>08/10/2016</Date>
-    <Time> 7:32AM</Time>
+    <Time> 7:42AM</Time>
   </line>
   <line>
     <name>B100 - B103</name>
@@ -249,7 +264,7 @@
               &lt;br/&gt;
             </text>
     <Date>08/10/2016</Date>
-    <Time> 7:32AM</Time>
+    <Time> 7:42AM</Time>
   </line>
   <line>
     <name>Q1 - Q113</name>
@@ -421,7 +436,7 @@
               &lt;br/&gt;
             </text>
     <Date>08/10/2016</Date>
-    <Time> 7:32AM</Time>
+    <Time> 7:42AM</Time>
   </line>
   <line>
     <name>x1 - x68</name>
@@ -648,10 +663,17 @@
   </line>
   <line>
     <name>New Haven</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>DELAYS</status>
+    <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;08/10/2016&amp;nbsp; 7:42AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  New Haven Line Customers should anticipate 15-20 minute delays due to switch failure in the vicinity of Woodlawn.  Please listen for announcements at your station.
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>08/10/2016</Date>
+    <Time> 7:42AM</Time>
   </line>
   <line>
     <name>New Canaan</name>
