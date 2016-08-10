@@ -1,17 +1,10 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>DELAYS</status>
-    <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;08/09/2016&amp;nbsp; 8:22PM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  Following an earlier incident at &lt;STRONG&gt;86 St&lt;/STRONG&gt;, [1] service has resumed with residual delays.
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>08/09/2016</Date>
-    <Time> 8:22PM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>456</name>
@@ -218,8 +211,18 @@
   </line>
   <line>
     <name>BX1 - BX55</name>
-    <status>SERVICE CHANGE</status>
+    <status>DELAYS</status>
     <text>
+                  &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                  &lt;span class="DateStyle"&gt;
+                  &amp;nbsp;Posted:&amp;nbsp;08/09/2016&amp;nbsp; 8:35PM
+                  &lt;/span&gt;
+                  &lt;br/&gt;
+                  &lt;br/&gt;
+                Following an earlier incident on St Nicholas Av, &lt;STRONG&gt;M3&lt;/STRONG&gt; and &lt;STRONG&gt;Bx19&lt;/STRONG&gt; bus service has resumed with residual delays.
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
                   &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
                   &lt;span class="DateStyle"&gt;
                   &amp;nbsp;Posted:&amp;nbsp;08/09/2016&amp;nbsp; 7:52PM
@@ -249,17 +252,6 @@
               &lt;br/&gt;
               &lt;br/&gt;
             
-                  &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                  &lt;span class="DateStyle"&gt;
-                  &amp;nbsp;Posted:&amp;nbsp;08/09/2016&amp;nbsp; 6:40PM
-                  &lt;/span&gt;
-                  &lt;br/&gt;
-                  &lt;br/&gt;
-                &lt;P&gt;&lt;STRONG&gt;M3&lt;/STRONG&gt; and &lt;STRONG&gt;Bx19&lt;/STRONG&gt; buses are running with delays in both directions, due to NYPD activity on St Nicholas Av and 149 St. &lt;/P&gt;
-&lt;P&gt;Allow additional travel time.&lt;/P&gt;
-              &lt;br/&gt;
-              &lt;br/&gt;
-            
                   &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
                   &lt;span class="DateStyle"&gt;
                   &amp;nbsp;Posted:&amp;nbsp;08/09/2016&amp;nbsp; 6:38PM
@@ -275,7 +267,7 @@
               &lt;br/&gt;
             </text>
     <Date>08/09/2016</Date>
-    <Time> 7:52PM</Time>
+    <Time> 8:35PM</Time>
   </line>
   <line>
     <name>BXM1 - BXM18</name>
@@ -301,6 +293,16 @@
     <text>
                   &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                   &lt;span class="DateStyle"&gt;
+                  &amp;nbsp;Posted:&amp;nbsp;08/09/2016&amp;nbsp; 8:35PM
+                  &lt;/span&gt;
+                  &lt;br/&gt;
+                  &lt;br/&gt;
+                Following an earlier incident on St Nicholas Av, &lt;STRONG&gt;M3&lt;/STRONG&gt; and &lt;STRONG&gt;Bx19&lt;/STRONG&gt; bus service has resumed with residual delays.
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
+                  &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                  &lt;span class="DateStyle"&gt;
                   &amp;nbsp;Posted:&amp;nbsp;08/09/2016&amp;nbsp; 6:41PM
                   &lt;/span&gt;
                   &lt;br/&gt;
@@ -318,17 +320,6 @@
                   &lt;br/&gt;
                 &lt;P&gt;&lt;STRONG&gt;BXM2, M7, M20&lt;/STRONG&gt; and &lt;STRONG&gt;M104&lt;/STRONG&gt; buses are running with delays southbound due to construction on Broadway from 49 St to 42 St. &lt;/P&gt;
 &lt;P&gt;Allow additonal travel time.&lt;/P&gt;
-              &lt;br/&gt;
-              &lt;br/&gt;
-            
-                  &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                  &lt;span class="DateStyle"&gt;
-                  &amp;nbsp;Posted:&amp;nbsp;08/09/2016&amp;nbsp; 6:40PM
-                  &lt;/span&gt;
-                  &lt;br/&gt;
-                  &lt;br/&gt;
-                &lt;P&gt;&lt;STRONG&gt;M3&lt;/STRONG&gt; and &lt;STRONG&gt;Bx19&lt;/STRONG&gt; buses are running with delays in both directions, due to NYPD activity on St Nicholas Av and 149 St. &lt;/P&gt;
-&lt;P&gt;Allow additional travel time.&lt;/P&gt;
               &lt;br/&gt;
               &lt;br/&gt;
             
@@ -357,7 +348,7 @@
               &lt;br/&gt;
             </text>
     <Date>08/09/2016</Date>
-    <Time> 6:41PM</Time>
+    <Time> 8:35PM</Time>
   </line>
   <line>
     <name>Q1 - Q113</name>
