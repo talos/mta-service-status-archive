@@ -64,20 +64,17 @@
   </line>
   <line>
     <name>NQR</name>
-    <status>SERVICE CHANGE</status>
+    <status>DELAYS</status>
     <text>
-                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;08/11/2016&amp;nbsp; 4:34PM
+                    &amp;nbsp;Posted:&amp;nbsp;08/11/2016&amp;nbsp; 7:39PM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  &lt;P&gt;Due to single track operation causing delays at &lt;STRONG&gt;Coney Island-Stillwell Av&lt;/STRONG&gt;, the following service changes are in effect:&lt;/P&gt;
-&lt;P&gt;Some northbound [N] trains are running on the [D] line from &lt;STRONG&gt;Coney Island-Stillwell Av &lt;/STRONG&gt;to &lt;STRONG&gt;36 St&lt;/STRONG&gt;. &lt;/P&gt;
-&lt;P&gt;[N] trains are running with delays both directions. &lt;/P&gt;
-&lt;P&gt;Allow additional travel time.&lt;/P&gt;
+                  &lt;SPAN id=ctl00_ContentPlaceHolder_gvwServiceStatus_ctl03_lblStatusTitle&gt;Following an earlier incident at &lt;STRONG&gt;Coney Island-Stillwell Av&lt;/STRONG&gt;, [N] train service has resumed with residual delays.&lt;/SPAN&gt;
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>08/11/2016</Date>
-    <Time> 4:34PM</Time>
+    <Time> 7:39PM</Time>
   </line>
   <line>
     <name>S</name>
@@ -698,17 +695,10 @@
   </line>
   <line>
     <name>Montauk</name>
-    <status>DELAYS</status>
-    <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;08/11/2016&amp;nbsp; 6:16PM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  The 4:30PM train from Hunterspoint Ave. due Montauk at 7:34PM is operating 10 minutes late due to earlier congestion in Babylon caused by a late-arriving train with equipment trouble.
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>08/11/2016</Date>
-    <Time> 6:16PM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>Oyster Bay</name>
