@@ -205,8 +205,19 @@
   </line>
   <line>
     <name>L</name>
-    <status>PLANNED WORK</status>
+    <status>SERVICE CHANGE</status>
     <text>
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;08/12/2016&amp;nbsp; 2:46AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;P&gt;Due to FDNY activity at &lt;STRONG&gt;Wyckoff Av&lt;/STRONG&gt;, [L] train [S] buses are detoured in both directions. &lt;/P&gt;
+&lt;P&gt;Detour is as follows:&lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;Southbound&lt;/STRONG&gt;: Via Wyckoff Av, left on Stockholm St, right on Saint Nicholas St, right on Gates Av, left on Wyckoff Av and regular route. &lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;Northbound&lt;/STRONG&gt;: Via Wyckoff Av, right on Gates Av, left on Saint Nicholas St, left on Stanhope St, right on Wyckoff Av and regular route.&lt;/P&gt;
+&lt;P&gt;Allow additional travel time. &lt;/P&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              
                     &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
                     &lt;br/&gt;
                   &lt;a class="plannedWorkDetailLink" onclick=ShowHide(128986);&gt;
@@ -232,7 +243,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>08/12/2016</Date>
-    <Time> 2:42AM</Time>
+    <Time> 2:46AM</Time>
   </line>
   <line>
     <name>NQR</name>
@@ -874,10 +885,17 @@ minutes late due to a late eastbound train in single-track territory.
   </line>
   <line>
     <name>Ronkonkoma</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>DELAYS</status>
+    <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;08/12/2016&amp;nbsp; 2:45AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  The 1:46AM train from Ronkonkoma due Penn at 3:05AM is operating 12 minutes late due to earlier switch trouble.
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>08/12/2016</Date>
+    <Time> 2:45AM</Time>
   </line>
   <line>
     <name>West Hempstead</name>
