@@ -87,8 +87,18 @@
 </subway><bus>
   <line>
     <name>B1 - B84</name>
-    <status>SERVICE CHANGE</status>
+    <status>DELAYS</status>
     <text>
+                  &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                  &lt;span class="DateStyle"&gt;
+                  &amp;nbsp;Posted:&amp;nbsp;08/15/2016&amp;nbsp; 3:36PM
+                  &lt;/span&gt;
+                  &lt;br/&gt;
+                  &lt;br/&gt;
+                Following an earlier incident on 49 St, &lt;STRONG&gt;B11&lt;/STRONG&gt; bus service has resumed with residual delays.
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
                   &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
                   &lt;span class="DateStyle"&gt;
                   &amp;nbsp;Posted:&amp;nbsp;08/15/2016&amp;nbsp; 2:11PM
@@ -111,20 +121,6 @@
                   &lt;br/&gt;
                 &lt;P&gt;&lt;STRONG&gt;B48&lt;/STRONG&gt; buses are detoured due to paving on Lorimer St between Driggs Av and Bedford Av. &lt;BR&gt;&lt;BR&gt;Detour is as follows:&lt;BR&gt;&lt;BR&gt;&lt;STRONG&gt;Northbound:&lt;/STRONG&gt; Via Lorimer St, left on Driggs Av, right on N 12 St, right on Bedford Av into Nassau Av and regular route.&lt;/P&gt;
 &lt;P&gt;Corresponding stops will be made along detoured route.&lt;/P&gt;
-              &lt;br/&gt;
-              &lt;br/&gt;
-            
-                  &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
-                  &lt;span class="DateStyle"&gt;
-                  &amp;nbsp;Posted:&amp;nbsp;08/15/2016&amp;nbsp; 2:09PM
-                  &lt;/span&gt;
-                  &lt;br/&gt;
-                  &lt;br/&gt;
-                &lt;P&gt;&lt;STRONG&gt;B11&lt;/STRONG&gt; buses are detoured due to paving on 49 St from 18 Av to 16 Av. &lt;/P&gt;
-&lt;P&gt;Detour is as follows:&lt;/P&gt;
-&lt;P&gt;&lt;STRONG&gt;1 Av-bound:&lt;/STRONG&gt; Via 47 St, left on 16 Av, right on 49 St and regular route. &lt;/P&gt;
-&lt;P&gt;Corresponding stops will be made along detoured route. &lt;/P&gt;
-&lt;P&gt;Allow additional travel time. &lt;/P&gt;
               &lt;br/&gt;
               &lt;br/&gt;
             
@@ -217,7 +213,7 @@
               &lt;br/&gt;
             </text>
     <Date>08/15/2016</Date>
-    <Time> 2:11PM</Time>
+    <Time> 3:36PM</Time>
   </line>
   <line>
     <name>B100 - B103</name>
@@ -663,31 +659,17 @@
 </LIRR><MetroNorth>
   <line>
     <name>Hudson</name>
-    <status>DELAYS</status>
-    <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;08/15/2016&amp;nbsp; 3:14PM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  Customers traveling into and out of Grand Central Terminal should anticipate delays of 10 to 15 minutes due to a track condition requiring attention. Please listen for announcements at your station.
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>08/15/2016</Date>
-    <Time> 3:14PM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>Harlem</name>
-    <status>DELAYS</status>
-    <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;08/15/2016&amp;nbsp; 3:14PM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  Customers traveling into and out of Grand Central Terminal should anticipate delays of 10 to 15 minutes due to a track condition requiring attention. Please listen for announcements at your station.
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>08/15/2016</Date>
-    <Time> 3:14PM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>Wassaic</name>
@@ -698,17 +680,10 @@
   </line>
   <line>
     <name>New Haven</name>
-    <status>DELAYS</status>
-    <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;08/15/2016&amp;nbsp; 3:14PM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  Customers traveling into and out of Grand Central Terminal should anticipate delays of 10 to 15 minutes due to a track condition requiring attention. Please listen for announcements at your station.
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>08/15/2016</Date>
-    <Time> 3:14PM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>New Canaan</name>
