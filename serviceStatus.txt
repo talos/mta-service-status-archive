@@ -158,22 +158,36 @@
 </subway><bus>
   <line>
     <name>B1 - B84</name>
-    <status>DELAYS</status>
+    <status>SERVICE CHANGE</status>
     <text>
-                  &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                  &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
                   &lt;span class="DateStyle"&gt;
-                  &amp;nbsp;Posted:&amp;nbsp;08/15/2016&amp;nbsp; 2:08PM
+                  &amp;nbsp;Posted:&amp;nbsp;08/15/2016&amp;nbsp; 2:11PM
                   &lt;/span&gt;
                   &lt;br/&gt;
                   &lt;br/&gt;
-                &lt;P&gt;&lt;STRONG&gt;B24&lt;/STRONG&gt; buses are running with delays in both directions due to traffic conditions on the Brooklyn Queens Expressway near the Kosciuszko Bridge. &lt;/P&gt;
+                &lt;P&gt;&lt;STRONG&gt;B26&lt;/STRONG&gt; and &lt;STRONG&gt;Q58&lt;/STRONG&gt; Ridgewood bound buses are detoured, due to Con Ed work on Putnam Av between Wyckoff Av and Ridgewood Pl. &lt;/P&gt;
+&lt;P&gt;Detour is as follows:&lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;B26 Ridgewood bound&lt;/STRONG&gt;: Via Wyckoff Av, right on Palmetto St and regular route.&lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;Q58 Ridgewood bound&lt;/STRONG&gt;: Via Myrtle Av, left on Gates Av, left on Irving Av, left on Palmetto St and regular route. &lt;/P&gt;
 &lt;P&gt;Allow additional travel time.&lt;/P&gt;
               &lt;br/&gt;
               &lt;br/&gt;
             
                   &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
                   &lt;span class="DateStyle"&gt;
-                  &amp;nbsp;Posted:&amp;nbsp;08/15/2016&amp;nbsp;12:05PM
+                  &amp;nbsp;Posted:&amp;nbsp;08/15/2016&amp;nbsp; 2:10PM
+                  &lt;/span&gt;
+                  &lt;br/&gt;
+                  &lt;br/&gt;
+                &lt;P&gt;&lt;STRONG&gt;B48&lt;/STRONG&gt; buses are detoured due to paving on Lorimer St between Driggs Av and Bedford Av. &lt;BR&gt;&lt;BR&gt;Detour is as follows:&lt;BR&gt;&lt;BR&gt;&lt;STRONG&gt;Northbound:&lt;/STRONG&gt; Via Lorimer St, left on Driggs Av, right on N 12 St, right on Bedford Av into Nassau Av and regular route.&lt;/P&gt;
+&lt;P&gt;Corresponding stops will be made along detoured route.&lt;/P&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
+                  &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                  &lt;span class="DateStyle"&gt;
+                  &amp;nbsp;Posted:&amp;nbsp;08/15/2016&amp;nbsp; 2:09PM
                   &lt;/span&gt;
                   &lt;br/&gt;
                   &lt;br/&gt;
@@ -185,27 +199,13 @@
               &lt;br/&gt;
               &lt;br/&gt;
             
-                  &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                  &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                   &lt;span class="DateStyle"&gt;
-                  &amp;nbsp;Posted:&amp;nbsp;08/15/2016&amp;nbsp;12:04PM
+                  &amp;nbsp;Posted:&amp;nbsp;08/15/2016&amp;nbsp; 2:08PM
                   &lt;/span&gt;
                   &lt;br/&gt;
                   &lt;br/&gt;
-                &lt;P&gt;&lt;STRONG&gt;B48&lt;/STRONG&gt; buses are detoured due to paving on Lorimer St between Driggs Av and Bedford Av. &lt;BR&gt;&lt;BR&gt;Detour is as follows:&lt;BR&gt;&lt;BR&gt;&lt;STRONG&gt;Northbound:&lt;/STRONG&gt; Via Lorimer St, left on Driggs Av, right on N 12 St, right on Bedford Av into Nassau Av and regular route.&lt;/P&gt;
-&lt;P&gt;Corresponding stops will be made along detoured route.&lt;/P&gt;
-              &lt;br/&gt;
-              &lt;br/&gt;
-            
-                  &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
-                  &lt;span class="DateStyle"&gt;
-                  &amp;nbsp;Posted:&amp;nbsp;08/15/2016&amp;nbsp;12:04PM
-                  &lt;/span&gt;
-                  &lt;br/&gt;
-                  &lt;br/&gt;
-                &lt;P&gt;&lt;STRONG&gt;B26&lt;/STRONG&gt; and &lt;STRONG&gt;Q58&lt;/STRONG&gt; Ridgewood bound buses are detoured, due to Con Ed work on Putnam Av between Wyckoff Av and Ridgewood Pl. &lt;/P&gt;
-&lt;P&gt;Detour is as follows:&lt;/P&gt;
-&lt;P&gt;&lt;STRONG&gt;B26 Ridgewood bound&lt;/STRONG&gt;: Via Wyckoff Av, right on Palmetto St and regular route.&lt;/P&gt;
-&lt;P&gt;&lt;STRONG&gt;Q58 Ridgewood bound&lt;/STRONG&gt;: Via Myrtle Av, left on Gates Av, left on Irving Av, left on Palmetto St and regular route. &lt;/P&gt;
+                &lt;P&gt;&lt;STRONG&gt;B24&lt;/STRONG&gt; buses are running with delays in both directions due to traffic conditions on the Brooklyn Queens Expressway near the Kosciuszko Bridge. &lt;/P&gt;
 &lt;P&gt;Allow additional travel time.&lt;/P&gt;
               &lt;br/&gt;
               &lt;br/&gt;
@@ -288,7 +288,7 @@
               &lt;br/&gt;
             </text>
     <Date>08/15/2016</Date>
-    <Time> 2:08PM</Time>
+    <Time> 2:11PM</Time>
   </line>
   <line>
     <name>B100 - B103</name>
@@ -366,8 +366,37 @@
   </line>
   <line>
     <name>Q1 - Q113</name>
-    <status>DELAYS</status>
+    <status>SERVICE CHANGE</status>
     <text>
+                  &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                  &lt;span class="DateStyle"&gt;
+                  &amp;nbsp;Posted:&amp;nbsp;08/15/2016&amp;nbsp; 2:11PM
+                  &lt;/span&gt;
+                  &lt;br/&gt;
+                  &lt;br/&gt;
+                &lt;P&gt;&lt;STRONG&gt;Q8&lt;/STRONG&gt; buses are detoured due to a funeral procession from Grant Av and Pitkin Av to Liberty Av and 79 St. &lt;/P&gt;
+&lt;P&gt;Detour is as follows: &lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;Westbound: &lt;/STRONG&gt;From&lt;STRONG&gt; &lt;/STRONG&gt;Liberty Av, left on S Conduit Blvd, right on Pitkin Av and regular route. &lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;Eastbound&lt;/STRONG&gt;: From Pitkin Av, left on 84 St, right on Liberty Av, left on 86 St, right on 101 Av and regular route.&lt;/P&gt;
+&lt;P&gt;Corresponding stops will be made along detoured route. &lt;/P&gt;
+&lt;P&gt;Allow additional travel time. &lt;/P&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
+                  &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                  &lt;span class="DateStyle"&gt;
+                  &amp;nbsp;Posted:&amp;nbsp;08/15/2016&amp;nbsp; 2:11PM
+                  &lt;/span&gt;
+                  &lt;br/&gt;
+                  &lt;br/&gt;
+                &lt;P&gt;&lt;STRONG&gt;B26&lt;/STRONG&gt; and &lt;STRONG&gt;Q58&lt;/STRONG&gt; Ridgewood bound buses are detoured, due to Con Ed work on Putnam Av between Wyckoff Av and Ridgewood Pl. &lt;/P&gt;
+&lt;P&gt;Detour is as follows:&lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;B26 Ridgewood bound&lt;/STRONG&gt;: Via Wyckoff Av, right on Palmetto St and regular route.&lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;Q58 Ridgewood bound&lt;/STRONG&gt;: Via Myrtle Av, left on Gates Av, left on Irving Av, left on Palmetto St and regular route. &lt;/P&gt;
+&lt;P&gt;Allow additional travel time.&lt;/P&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
                   &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                   &lt;span class="DateStyle"&gt;
                   &amp;nbsp;Posted:&amp;nbsp;08/15/2016&amp;nbsp; 2:09PM
@@ -388,21 +417,6 @@
                 &lt;P&gt;&lt;STRONG&gt;Q47&lt;/STRONG&gt; buses are detoured due to paving on 74 St between 35 Av and Northern Blvd. &lt;/P&gt;
 &lt;P&gt;Detour is as follows: &lt;/P&gt;
 &lt;P&gt;&lt;STRONG&gt;Northbound:&lt;/STRONG&gt; Via 74 St, right on 35 Av, left on 81 St, left on Northern Blvd, right on 74 St and regular route. &lt;/P&gt;
-&lt;P&gt;Corresponding stops will be made along detoured route. &lt;/P&gt;
-&lt;P&gt;Allow additional travel time. &lt;/P&gt;
-              &lt;br/&gt;
-              &lt;br/&gt;
-            
-                  &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
-                  &lt;span class="DateStyle"&gt;
-                  &amp;nbsp;Posted:&amp;nbsp;08/15/2016&amp;nbsp; 1:22PM
-                  &lt;/span&gt;
-                  &lt;br/&gt;
-                  &lt;br/&gt;
-                &lt;P&gt;&lt;STRONG&gt;Q8&lt;/STRONG&gt; buses are detoured due to a funeral procession from Grant Av and Pitkin Av to Liberty Av and 79 St. &lt;/P&gt;
-&lt;P&gt;Detour is as follows: &lt;/P&gt;
-&lt;P&gt;&lt;STRONG&gt;Westbound: &lt;/STRONG&gt;From&lt;STRONG&gt; &lt;/STRONG&gt;Liberty Av, left on S Conduit Blvd, right on Pitkin Av and regular route. &lt;/P&gt;
-&lt;P&gt;&lt;STRONG&gt;Eastbound&lt;/STRONG&gt;: From Pitkin Av, left on 84 St, right on Liberty Av, left on 86 St, right on 101 Av and regular route.&lt;/P&gt;
 &lt;P&gt;Corresponding stops will be made along detoured route. &lt;/P&gt;
 &lt;P&gt;Allow additional travel time. &lt;/P&gt;
               &lt;br/&gt;
@@ -434,20 +448,6 @@
 &lt;P&gt;&lt;STRONG&gt;Southbound:&lt;/STRONG&gt; Via Guy R Brewer Blvd, left on 147 Av, right on Brookville Blvd, left on Rockaway Blvd and regular route. &lt;/P&gt;
 &lt;P&gt;Corresponding stops will be made along detoured route. &lt;/P&gt;
 &lt;P&gt;Allow additional travel time. &lt;/P&gt;
-              &lt;br/&gt;
-              &lt;br/&gt;
-            
-                  &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
-                  &lt;span class="DateStyle"&gt;
-                  &amp;nbsp;Posted:&amp;nbsp;08/15/2016&amp;nbsp;12:04PM
-                  &lt;/span&gt;
-                  &lt;br/&gt;
-                  &lt;br/&gt;
-                &lt;P&gt;&lt;STRONG&gt;B26&lt;/STRONG&gt; and &lt;STRONG&gt;Q58&lt;/STRONG&gt; Ridgewood bound buses are detoured, due to Con Ed work on Putnam Av between Wyckoff Av and Ridgewood Pl. &lt;/P&gt;
-&lt;P&gt;Detour is as follows:&lt;/P&gt;
-&lt;P&gt;&lt;STRONG&gt;B26 Ridgewood bound&lt;/STRONG&gt;: Via Wyckoff Av, right on Palmetto St and regular route.&lt;/P&gt;
-&lt;P&gt;&lt;STRONG&gt;Q58 Ridgewood bound&lt;/STRONG&gt;: Via Myrtle Av, left on Gates Av, left on Irving Av, left on Palmetto St and regular route. &lt;/P&gt;
-&lt;P&gt;Allow additional travel time.&lt;/P&gt;
               &lt;br/&gt;
               &lt;br/&gt;
             
@@ -516,7 +516,7 @@
               &lt;br/&gt;
             </text>
     <Date>08/15/2016</Date>
-    <Time> 2:09PM</Time>
+    <Time> 2:11PM</Time>
   </line>
   <line>
     <name>QM1 - QM44</name>
