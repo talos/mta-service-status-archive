@@ -78,10 +78,21 @@
   </line>
   <line>
     <name>SIR</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>PLANNED WORK</status>
+    <text>
+                    &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
+                    &lt;br/&gt;
+                  &lt;a class="plannedWorkDetailLink" onclick=ShowHide(132093);&gt;
+&lt;b&gt;[SIR] Trains board at the Tottenville-bound platform from Jefferson Av to Old Town Stations
+&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 132093 class="plannedWorkDetail" &gt;&lt;/b&gt;Day, 9 AM to 2 PM, Monday, Aug 15
+&lt;br&gt;
+&lt;br&gt;&amp;bull; Boarding change includes &lt;b&gt;Jefferson Av&lt;/b&gt;, &lt;b&gt;Dongan Hills&lt;/b&gt;, and &lt;b&gt;Old Town Stations&lt;/b&gt;. 
+&lt;br&gt;&lt;b&gt;
+&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>08/15/2016</Date>
+    <Time> 9:02AM</Time>
   </line>
 </subway><bus>
   <line>
@@ -131,25 +142,6 @@
 &lt;br&gt;
 &lt;br&gt;Due to construction, please follow directional signage to the nearby stop&lt;b&gt; on Jay St &lt;/b&gt;between Fulton St and Willoughby St.
 &lt;br&gt;&lt;b&gt;
-&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
-              &lt;br/&gt;
-              &lt;br/&gt;
-            
-                  &lt;span class="TitlePlannedWork" &gt;Planned Detour&lt;/span&gt;
-                  &lt;br/&gt;
-                &lt;a class="plannedWorkDetailLink" onclick=ShowHide(132220);&gt;
-&lt;b&gt;B43 &lt;/b&gt;-&lt;b&gt; Southbound buses rerouted from Empire Blvd at  Rogers Av
-&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 132220 class="plannedWorkDetail" &gt;&lt;/b&gt;6 AM Saturday, Aug 13 until further notice
-&lt;br&gt;
-&lt;br&gt;Due to National Grid work, buses make corresponding stops along the detoured route.
-&lt;br&gt;
-&lt;br&gt;&lt;b&gt;&lt;i&gt;&lt;a style="cursor:pointer; text-decoration:underline;" onclick=ShowHide(1322200);&gt;Show Reroute Details&lt;/a&gt;&lt;/i&gt;&lt;/b&gt;
-&lt;br&gt;&lt;div id="1322200"; style="display:none;"&gt;Via Empire Blvd
-&lt;br&gt;Right on Rogers Av
-&lt;br&gt;Left on Sullivan Pl
-&lt;br&gt;Left on Bedford Av
-&lt;br&gt;Right on Empire Blvd then regular route&lt;/div&gt;
-&lt;br&gt;
 &lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
               &lt;br/&gt;
               &lt;br/&gt;
@@ -270,7 +262,7 @@
               &lt;br/&gt;
             </text>
     <Date>08/15/2016</Date>
-    <Time> 8:52AM</Time>
+    <Time> 9:02AM</Time>
   </line>
   <line>
     <name>Q1 - Q113</name>
@@ -394,7 +386,7 @@
               &lt;br/&gt;
             </text>
     <Date>08/15/2016</Date>
-    <Time> 8:52AM</Time>
+    <Time> 9:02AM</Time>
   </line>
   <line>
     <name>x1 - x68</name>
