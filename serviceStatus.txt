@@ -139,8 +139,16 @@
   </line>
   <line>
     <name>BDFM</name>
-    <status>DELAYS</status>
+    <status>SERVICE CHANGE</status>
     <text>
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;08/16/2016&amp;nbsp;11:45AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;P&gt;Due to track maintenance at&lt;STRONG&gt; Myrtle Av,&lt;/STRONG&gt; Jamaica-bound [J] and Metropolitan Av bound [M] trains are running express from&lt;STRONG&gt; Marcy Av&lt;/STRONG&gt; to &lt;STRONG&gt;Myrtle Av.&lt;/STRONG&gt;&lt;/P&gt;
+&lt;P&gt;Allow additional travel time.&lt;/P&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              
                     &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
                     &amp;nbsp;Posted:&amp;nbsp;08/16/2016&amp;nbsp;10:38AM
@@ -149,7 +157,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>08/16/2016</Date>
-    <Time>10:38AM</Time>
+    <Time>11:45AM</Time>
   </line>
   <line>
     <name>G</name>
@@ -160,10 +168,18 @@
   </line>
   <line>
     <name>JZ</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>SERVICE CHANGE</status>
+    <text>
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;08/16/2016&amp;nbsp;11:45AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;P&gt;Due to track maintenance at&lt;STRONG&gt; Myrtle Av,&lt;/STRONG&gt; Jamaica-bound [J] and Metropolitan Av bound [M] trains are running express from&lt;STRONG&gt; Marcy Av&lt;/STRONG&gt; to &lt;STRONG&gt;Myrtle Av.&lt;/STRONG&gt;&lt;/P&gt;
+&lt;P&gt;Allow additional travel time.&lt;/P&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>08/16/2016</Date>
+    <Time>11:45AM</Time>
   </line>
   <line>
     <name>L</name>
@@ -866,18 +882,10 @@ connection. Please listen for announcements at your station.
   </line>
   <line>
     <name>Waterbury</name>
-    <status>DELAYS</status>
-    <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;08/16/2016&amp;nbsp;11:12AM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  Waterbury Branch Service is now operating up to 15 minutes late due to a late 
-connection. Please listen for announcements at your station.
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>08/16/2016</Date>
-    <Time>11:12AM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>Pascack Valley</name>
