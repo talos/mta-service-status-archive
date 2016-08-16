@@ -1,17 +1,52 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>PLANNED WORK</status>
+    <text>
+                    &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
+                    &lt;br/&gt;
+                  &lt;a class="plannedWorkDetailLink" onclick=ShowHide(130056);&gt;
+&lt;b&gt;[1] Van Cortlandt Park-bound trains skip Franklin, Canal, Houston, Christopher, 18, 23 and 28 Sts
+&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 130056 class="plannedWorkDetail" &gt;&lt;/b&gt;Late Nights, 10:45 PM to 5 AM, Mon to Fri, Aug 15 - 19
+&lt;br&gt;
+&lt;br&gt;For service &lt;i&gt;to&lt;/i&gt; these stations, take the [1] to 14 St or 34 St-Penn Station and transfer to a 
+&lt;br&gt;downtown [1] or [2] &lt;i&gt;local&lt;/i&gt;.
+&lt;br&gt;
+&lt;br&gt;For service &lt;i&gt;from &lt;/i&gt;these stations, take the [1] or [2] to 14 St or Chambers St and transfer to a
+&lt;br&gt;Van Cortlandt Park-bound [1].
+&lt;br&gt;&lt;b&gt;
+&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>08/15/2016</Date>
+    <Time>10:52PM</Time>
   </line>
   <line>
     <name>456</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>PLANNED WORK</status>
+    <text>
+                    &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
+                    &lt;br/&gt;
+                  &lt;a class="plannedWorkDetailLink" onclick=ShowHide(130059);&gt;
+&lt;b&gt;[6] Brooklyn Bridge-bound trains skip 33, 28, 23 Sts, Astor Pl, Bleecker, Spring and Canal Sts
+&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 130059 class="plannedWorkDetail" &gt;&lt;/b&gt;&lt;/font&gt;Late Nights, 10:45 PM to 5 AM, Mon to Fri, Aug 15 - 19                              
+&lt;br&gt;
+&lt;br&gt;For service&lt;i&gt; to&lt;/i&gt; these stations, take the [6] to 14 St-Union Sq or Brooklyn Bridge and transfer 
+&lt;br&gt;to an uptown [4] &lt;i&gt;local&lt;/i&gt; or [6].
+&lt;br&gt;
+&lt;br&gt;For service&lt;i&gt; from &lt;/i&gt;these stations, take the [4] or [6] to 14 St-Union Sq or Grand Central-42 St 
+&lt;br&gt;and transfer to a Brooklyn Bridge-bound [6]&lt;/font&gt;.
+&lt;br&gt;
+&lt;br&gt;&lt;b&gt;&lt;i&gt;Alternate travel note:&lt;/b&gt;&lt;/i&gt; 
+&lt;br&gt;For service&lt;i&gt; from &lt;/i&gt;Canal St, take the [J] to Chambers St-Brooklyn Bridge.
+&lt;br&gt;
+&lt;br&gt;&lt;table class=plannedworkTableStyle  border=1 cellspacing=1 cellpadding=5 rules=none frame=box&gt;&lt;td&gt;&amp;nbsp;&amp;nbsp;[ad]&amp;nbsp;&amp;nbsp;&lt;td&gt;&lt;font size=1&gt;This service change affects one or more ADA accessible stations. Please call 511 for help with planning&lt;br&gt;your trip. If you are deaf or hard of hearing, use your preferred relay service provider or the free 711 relay.&amp;nbsp;&amp;nbsp;&lt;/font&gt;&lt;/table&gt;
+&lt;br&gt;&lt;b&gt;
+&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>08/15/2016</Date>
+    <Time>10:52PM</Time>
   </line>
   <line>
     <name>7</name>
@@ -33,6 +68,21 @@
 &lt;P&gt;Southbound [A] and [D] trains are running with delays. &lt;/P&gt;
 &lt;P&gt;Expect delays in southbound [C] train service. &lt;/P&gt;
 &lt;P&gt;Allow additional travel time. &lt;/P&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              
+                    &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
+                    &lt;br/&gt;
+                  &lt;a class="plannedWorkDetailLink" onclick=ShowHide(130308);&gt;
+&lt;b&gt;[E] World Trade Center-bound trains skip 67 Av, 63 Dr, Woodhaven Blvd, Grand Av and Elmhurst Av
+&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 130308 class="plannedWorkDetail" &gt;&lt;/b&gt;Late Nights, 10:45 PM to 5 AM, Mon to Fri, Aug 15 - 19
+&lt;br&gt;
+&lt;br&gt;For service &lt;i&gt;to &lt;/i&gt;these stations, take the [E] to Roosevelt Av and transfer to a Jamaica Center-bound [E] &lt;i&gt;local, &lt;/i&gt;Jamaica-bound [F]* or Forest Hills-bound [R].
+&lt;br&gt;
+&lt;br&gt;For service &lt;i&gt;from &lt;/i&gt;these stations, take the [E] to 71 Av and transfer to a World Trade Center-bound [E].
+&lt;br&gt;
+&lt;br&gt;&lt;i&gt;*This detour has taken into account additional planned service changes.
+&lt;br&gt;&lt;/i&gt;&lt;b&gt;
+&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
                 &lt;br/&gt;&lt;br/&gt;
               
                     &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
@@ -120,6 +170,23 @@
 &lt;br&gt;&lt;b&gt;
 &lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
                 &lt;br/&gt;&lt;br/&gt;
+              
+                    &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
+                    &lt;br/&gt;
+                  &lt;a class="plannedWorkDetailLink" onclick=ShowHide(130319);&gt;
+&lt;b&gt;[D] No trains between 205 St and Bedford Park Blvd 
+&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 130319 class="plannedWorkDetail" &gt;[SB] Free shuttle buses provide alternate service
+&lt;br&gt;&lt;/b&gt;&lt;/font&gt;Late Nights, 10:45 PM to 4:45 AM, Mon to Fri, Aug 15 - 19
+&lt;br&gt;
+&lt;br&gt;&lt;b&gt;[D]&lt;/b&gt; service operates between &lt;b&gt;Bedford Park Blvd&lt;/b&gt; and &lt;b&gt;Stillwell Av&lt;/b&gt;.
+&lt;br&gt;
+&lt;br&gt;[SB] buses operate between &lt;b&gt;205 St &lt;/b&gt;and &lt;b&gt;Bedford Park Blvd&lt;/b&gt;&lt;/font&gt;.
+&lt;br&gt;  &amp;#149; Transfer between [D] trains and [SB] buses at &lt;/font&gt;&lt;b&gt;Bedford Pk Blvd&lt;/b&gt;.
+&lt;br&gt;
+&lt;br&gt;&lt;table class=plannedworkTableStyle  border=1 cellspacing=1 cellpadding=3 rules=rows frame=hsides&gt;&lt;tr bgcolor=#FAF8CC&gt;&lt;td&gt;&lt;b&gt;Station&lt;/b&gt;&lt;td&gt;&lt;b&gt;Shuttle Bus Stop&lt;/b&gt;&lt;tr&gt;&lt;td&gt;Bedford Pk Blvd  [D]&amp;nbsp;&lt;td&gt;Grand Concourse at Bedford Pk Blvd&lt;tr&gt;&lt;td&gt;205 St&lt;td&gt;Bainbridge Av at E 206 St&lt;/table&gt;
+&lt;br&gt;&lt;/font&gt;&lt;b&gt;
+&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+                &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>08/15/2016</Date>
     <Time>10:02PM</Time>
@@ -167,7 +234,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>08/15/2016</Date>
-    <Time>10:42PM</Time>
+    <Time>10:52PM</Time>
   </line>
   <line>
     <name>NQR</name>
@@ -187,7 +254,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>08/15/2016</Date>
-    <Time>10:42PM</Time>
+    <Time>10:52PM</Time>
   </line>
   <line>
     <name>S</name>
@@ -704,20 +771,13 @@
     <text>
                     &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;08/15/2016&amp;nbsp;10:27PM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  The 9:53PM train from Long Beach due Penn at 10:44PM is operating 10 minutes late due to earlier police activity.
-                &lt;br/&gt;&lt;br/&gt;
-              
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
                     &amp;nbsp;Posted:&amp;nbsp;08/15/2016&amp;nbsp; 9:46PM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
                   The 9:00PM train from Atlantic Terminal due Long Beach at 9:50PM is delayed at Valley Stream due to police activity.
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>08/15/2016</Date>
-    <Time>10:27PM</Time>
+    <Time> 9:46PM</Time>
   </line>
   <line>
     <name>Montauk</name>
