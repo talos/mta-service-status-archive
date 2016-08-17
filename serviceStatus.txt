@@ -29,10 +29,19 @@
   </line>
   <line>
     <name>ACE</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>SERVICE CHANGE</status>
+    <text>
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;08/17/2016&amp;nbsp; 8:18AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;P&gt;Due to signal problems at &lt;STRONG&gt;Lafayette Av&lt;/STRONG&gt;, northbound [A] trains are running local from &lt;STRONG&gt;Utica Av&lt;/STRONG&gt; to &lt;STRONG&gt;Hoyt-Schermerhorn Sts.&lt;/STRONG&gt;&lt;/P&gt;
+&lt;P&gt;Expect delays on northbound [C] trains.&lt;/P&gt;
+&lt;P&gt;Allow additional travel time.&lt;/P&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>08/17/2016</Date>
+    <Time> 8:18AM</Time>
   </line>
   <line>
     <name>BDFM</name>
@@ -94,8 +103,22 @@
 </subway><bus>
   <line>
     <name>B1 - B84</name>
-    <status>PLANNED WORK</status>
+    <status>SERVICE CHANGE</status>
     <text>
+                  &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                  &lt;span class="DateStyle"&gt;
+                  &amp;nbsp;Posted:&amp;nbsp;08/17/2016&amp;nbsp; 8:18AM
+                  &lt;/span&gt;
+                  &lt;br/&gt;
+                  &lt;br/&gt;
+                &lt;P&gt;&lt;STRONG&gt;B45&lt;/STRONG&gt; and &lt;STRONG&gt;B65&lt;/STRONG&gt; buses are detoured, due to NYPD activity on St Marks Av and Buffalo Av. &lt;/P&gt;
+&lt;P&gt;Detour is as follows:&lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;B45 Eastbound&lt;/STRONG&gt;: Via Buffalo Av, right on Park Pl, right on Ralph Av and regular route.&lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;B65 Eastbound&lt;/STRONG&gt;: Via St Marks Av, right on Buffalo Av, left on Park Pl, right on Ralph Av and regular route.&lt;/P&gt;
+&lt;P&gt;Allow additional travel time.&lt;/P&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
                   &lt;span class="TitlePlannedWork" &gt;Planned Detour&lt;/span&gt;
                   &lt;br/&gt;
                 &lt;a class="plannedWorkDetailLink" onclick=ShowHide(117571);&gt;
@@ -201,7 +224,7 @@
               &lt;br/&gt;
             </text>
     <Date>08/17/2016</Date>
-    <Time> 8:12AM</Time>
+    <Time> 8:18AM</Time>
   </line>
   <line>
     <name>B100 - B103</name>
