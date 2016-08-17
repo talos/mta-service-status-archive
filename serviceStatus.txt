@@ -123,10 +123,22 @@
   </line>
   <line>
     <name>SIR</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>PLANNED WORK</status>
+    <text>
+                    &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
+                    &lt;br/&gt;
+                  &lt;a class="plannedWorkDetailLink" onclick=ShowHide(132396);&gt;
+&lt;b&gt;[SIR] Trains board at the Tottenville-bound platform from Great Kills to Grant City Stations
+&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 132396 class="plannedWorkDetail" &gt;&lt;/b&gt;Day, 9:30 AM to 2 PM, Wednesday, Aug 17 
+&lt;br&gt;
+&lt;br&gt;&amp;bull; Boarding change includes &lt;b&gt;Great Kills&lt;/b&gt;, &lt;b&gt;Bay Terrace&lt;/b&gt;, &lt;b&gt;Oakwood Heights&lt;/b&gt;, &lt;b&gt;New Dorp&lt;/b&gt; and 
+&lt;br&gt;  &lt;b&gt;Grant City Stations&lt;/b&gt;. 
+&lt;br&gt;&lt;b&gt;
+&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>08/17/2016</Date>
+    <Time> 9:32AM</Time>
   </line>
 </subway><bus>
   <line>
@@ -338,7 +350,7 @@
               &lt;br/&gt;
             </text>
     <Date>08/17/2016</Date>
-    <Time> 9:22AM</Time>
+    <Time> 9:32AM</Time>
   </line>
   <line>
     <name>Q1 - Q113</name>
@@ -463,7 +475,7 @@
               &lt;br/&gt;
             </text>
     <Date>08/17/2016</Date>
-    <Time> 9:22AM</Time>
+    <Time> 9:32AM</Time>
   </line>
   <line>
     <name>x1 - x68</name>
