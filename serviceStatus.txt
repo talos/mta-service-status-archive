@@ -1,31 +1,17 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>DELAYS</status>
-    <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;08/19/2016&amp;nbsp; 8:45AM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  Following an earlier incident at &lt;STRONG&gt;225 St&lt;/STRONG&gt;, [2] and [5] train service has resumed with residual delays.
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>08/19/2016</Date>
-    <Time> 8:45AM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>456</name>
-    <status>DELAYS</status>
-    <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;08/19/2016&amp;nbsp; 8:45AM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  Following an earlier incident at &lt;STRONG&gt;225 St&lt;/STRONG&gt;, [2] and [5] train service has resumed with residual delays.
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>08/19/2016</Date>
-    <Time> 8:45AM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>7</name>
@@ -40,6 +26,17 @@
     <text>
                     &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;08/19/2016&amp;nbsp; 9:01AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;P&gt;Due to an unauthorized person on the roadbed at &lt;STRONG&gt;Elmhurst Av&lt;/STRONG&gt;, the following service changes are in effect:&lt;/P&gt;
+&lt;P&gt;71 Av-bound [M] trains terminate at &lt;STRONG&gt;Essex St&lt;/STRONG&gt;.&lt;/P&gt;
+&lt;P&gt;Southbound [R] trains are running express from &lt;STRONG&gt;Forest Hills-71 Av&lt;/STRONG&gt; to &lt;STRONG&gt;Jackson Hts-Roosevelt Av&lt;/STRONG&gt;.&lt;/P&gt;
+&lt;P&gt;Expect delays on [E], [F], [M] and [R] trains.&lt;/P&gt;
+&lt;P&gt;Allow additional travel time.&lt;/P&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
                     &amp;nbsp;Posted:&amp;nbsp;08/19/2016&amp;nbsp; 8:56AM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
                   &lt;P&gt;Due to signal problems at Lafayette Av, some northbound [A] trains are running local from &lt;STRONG&gt;Utica Av&lt;/STRONG&gt; to &lt;STRONG&gt;Hoyt-Schermerhorn Sts.&lt;/STRONG&gt;&lt;/P&gt;
@@ -48,14 +45,25 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>08/19/2016</Date>
-    <Time> 8:56AM</Time>
+    <Time> 9:01AM</Time>
   </line>
   <line>
     <name>BDFM</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>SERVICE CHANGE</status>
+    <text>
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;08/19/2016&amp;nbsp; 9:01AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;P&gt;Due to an unauthorized person on the roadbed at &lt;STRONG&gt;Elmhurst Av&lt;/STRONG&gt;, the following service changes are in effect:&lt;/P&gt;
+&lt;P&gt;71 Av-bound [M] trains terminate at &lt;STRONG&gt;Essex St&lt;/STRONG&gt;.&lt;/P&gt;
+&lt;P&gt;Southbound [R] trains are running express from &lt;STRONG&gt;Forest Hills-71 Av&lt;/STRONG&gt; to &lt;STRONG&gt;Jackson Hts-Roosevelt Av&lt;/STRONG&gt;.&lt;/P&gt;
+&lt;P&gt;Expect delays on [E], [F], [M] and [R] trains.&lt;/P&gt;
+&lt;P&gt;Allow additional travel time.&lt;/P&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>08/19/2016</Date>
+    <Time> 9:01AM</Time>
   </line>
   <line>
     <name>G</name>
@@ -80,10 +88,21 @@
   </line>
   <line>
     <name>NQR</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>SERVICE CHANGE</status>
+    <text>
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;08/19/2016&amp;nbsp; 9:01AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;P&gt;Due to an unauthorized person on the roadbed at &lt;STRONG&gt;Elmhurst Av&lt;/STRONG&gt;, the following service changes are in effect:&lt;/P&gt;
+&lt;P&gt;71 Av-bound [M] trains terminate at &lt;STRONG&gt;Essex St&lt;/STRONG&gt;.&lt;/P&gt;
+&lt;P&gt;Southbound [R] trains are running express from &lt;STRONG&gt;Forest Hills-71 Av&lt;/STRONG&gt; to &lt;STRONG&gt;Jackson Hts-Roosevelt Av&lt;/STRONG&gt;.&lt;/P&gt;
+&lt;P&gt;Expect delays on [E], [F], [M] and [R] trains.&lt;/P&gt;
+&lt;P&gt;Allow additional travel time.&lt;/P&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>08/19/2016</Date>
+    <Time> 9:01AM</Time>
   </line>
   <line>
     <name>S</name>
@@ -94,10 +113,21 @@
   </line>
   <line>
     <name>SIR</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>PLANNED WORK</status>
+    <text>
+                    &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
+                    &lt;br/&gt;
+                  &lt;a class="plannedWorkDetailLink" onclick=ShowHide(132097);&gt;
+&lt;b&gt;[SIR] Trains board at the Tottenville-bound platform from Jefferson Av to Old Town Stations
+&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 132097 class="plannedWorkDetail" &gt;&lt;/b&gt;Days, 9 AM to 2 PM, Thu &lt;i&gt;and&lt;/i&gt; Fri, Aug 18 - 19
+&lt;br&gt;
+&lt;br&gt;&amp;bull; Boarding change includes &lt;b&gt;Jefferson Av&lt;/b&gt;, &lt;b&gt;Dongan Hills&lt;/b&gt;, and &lt;b&gt;Old Town Stations&lt;/b&gt;. 
+&lt;br&gt;&lt;b&gt;
+&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>08/19/2016</Date>
+    <Time> 9:02AM</Time>
   </line>
 </subway><bus>
   <line>
@@ -177,6 +207,23 @@
 &lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 131811 class="plannedWorkDetail" &gt;&lt;/b&gt;Until further notice
 &lt;br&gt;
 &lt;br&gt;Due to construction, please follow directional signage to the nearby stop&lt;b&gt; on Jay St &lt;/b&gt;between Fulton St and Willoughby St.
+&lt;br&gt;&lt;b&gt;
+&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
+                  &lt;span class="TitlePlannedWork" &gt;Planned Detour&lt;/span&gt;
+                  &lt;br/&gt;
+                &lt;a class="plannedWorkDetailLink" onclick=ShowHide(132748);&gt;
+&lt;b&gt;B44 &lt;/b&gt;SBS&lt;b&gt; and B49&lt;/b&gt; - &lt;b&gt;Northbound buses rerouted from Rogers Av at Bergen St to Dean St
+&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 132748 class="plannedWorkDetail" &gt;&lt;/b&gt;9 AM to 8 PM, Friday, Aug 19
+&lt;br&gt;
+&lt;br&gt;Due to a local event, buses run via&lt;b&gt; Bedford Av &lt;/b&gt;making corresponding stops.
+&lt;br&gt;
+&lt;br&gt;&lt;i&gt;Reroute Details
+&lt;br&gt;&lt;/i&gt;Via Rogers Av
+&lt;br&gt;Left on Bergen St
+&lt;br&gt;Right on Bedford Av then regular route
 &lt;br&gt;&lt;b&gt;
 &lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
               &lt;br/&gt;
@@ -299,7 +346,7 @@
               &lt;br/&gt;
             </text>
     <Date>08/19/2016</Date>
-    <Time> 8:52AM</Time>
+    <Time> 9:02AM</Time>
   </line>
   <line>
     <name>Q1 - Q113</name>
@@ -370,7 +417,7 @@
               &lt;br/&gt;
             </text>
     <Date>08/19/2016</Date>
-    <Time> 8:52AM</Time>
+    <Time> 9:02AM</Time>
   </line>
   <line>
     <name>QM1 - QM44</name>
@@ -409,7 +456,7 @@
               &lt;br/&gt;
             </text>
     <Date>08/19/2016</Date>
-    <Time> 8:52AM</Time>
+    <Time> 9:02AM</Time>
   </line>
   <line>
     <name>x1 - x68</name>
