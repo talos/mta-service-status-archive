@@ -211,7 +211,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>08/20/2016</Date>
-    <Time>10:52AM</Time>
+    <Time>11:02AM</Time>
   </line>
   <line>
     <name>7</name>
@@ -322,7 +322,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>08/20/2016</Date>
-    <Time>10:52AM</Time>
+    <Time>11:02AM</Time>
   </line>
   <line>
     <name>BDFM</name>
@@ -403,7 +403,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>08/20/2016</Date>
-    <Time>10:52AM</Time>
+    <Time>11:02AM</Time>
   </line>
   <line>
     <name>G</name>
@@ -438,7 +438,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>08/20/2016</Date>
-    <Time>10:52AM</Time>
+    <Time>11:02AM</Time>
   </line>
   <line>
     <name>L</name>
@@ -469,7 +469,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>08/20/2016</Date>
-    <Time>10:52AM</Time>
+    <Time>11:02AM</Time>
   </line>
   <line>
     <name>NQR</name>
@@ -488,7 +488,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>08/20/2016</Date>
-    <Time>10:52AM</Time>
+    <Time>11:02AM</Time>
   </line>
   <line>
     <name>S</name>
@@ -514,7 +514,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>08/20/2016</Date>
-    <Time>10:52AM</Time>
+    <Time>11:02AM</Time>
   </line>
 </subway><bus>
   <line>
@@ -628,6 +628,23 @@
             
                   &lt;span class="TitlePlannedWork" &gt;Planned Detour&lt;/span&gt;
                   &lt;br/&gt;
+                &lt;a class="plannedWorkDetailLink" onclick=ShowHide(132747);&gt;
+&lt;b&gt;B6 and B84&lt;/b&gt; - &lt;b&gt;North/Eastbound buses rerouted from Cleveland St at Hegeman Av to New Lots Av
+&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 132747 class="plannedWorkDetail" &gt;&lt;/b&gt;11 AM to 10 PM, Saturday, Aug 20
+&lt;br&gt;
+&lt;br&gt;Due to a local event, buses run via&lt;b&gt; Elton St &lt;/b&gt;making corresponding stops.
+&lt;br&gt;
+&lt;br&gt;&lt;i&gt;Reroute Details
+&lt;br&gt;&lt;/i&gt;Via Hegeman Av
+&lt;br&gt;Left on Elton St
+&lt;br&gt;Left on New Lots Av then regular route
+&lt;br&gt;&lt;b&gt;
+&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
+                  &lt;span class="TitlePlannedWork" &gt;Planned Detour&lt;/span&gt;
+                  &lt;br/&gt;
                 &lt;a class="plannedWorkDetailLink" onclick=ShowHide(131804);&gt;
 &lt;b&gt;B57 and B62&lt;/b&gt; - &lt;b&gt;East/Northbound stop on Tillary St at Bridge St temporarily closed
 &lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 131804 class="plannedWorkDetail" &gt;&lt;/b&gt;Until further notice
@@ -700,6 +717,33 @@
 &lt;br&gt;Right on Gates Av
 &lt;br&gt;Right on Classon Av
 &lt;br&gt;Left on DeKalb Av then regular route&lt;/div&gt;
+&lt;br&gt;&lt;b&gt;
+&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
+                  &lt;span class="TitlePlannedWork" &gt;Planned Detour&lt;/span&gt;
+                  &lt;br/&gt;
+                &lt;a class="plannedWorkDetailLink" onclick=ShowHide(132768);&gt;
+&lt;b&gt;B36 buses rerouted from Surf Av between Stillwell Av and W 12 St 
+&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 132768 class="plannedWorkDetail" &gt;&lt;/b&gt;11 AM to 10 PM, Saturday, Aug 20
+&lt;br&gt;
+&lt;br&gt;Due to a local event, buses run via &lt;b&gt;Neptune Av &lt;/b&gt;making corresponding stops in both directions.
+&lt;br&gt;
+&lt;br&gt;&lt;b&gt;&lt;i&gt;&lt;a style="cursor:pointer; text-decoration:underline;" onclick=ShowHide(1327680);&gt;Show Reroute Details&lt;/a&gt;&lt;/i&gt;&lt;/b&gt;
+&lt;br&gt;&lt;div id="1327680"; style="display:none;"&gt;&lt;b&gt;Eastbound
+&lt;br&gt;&lt;/b&gt;Via Surf Av
+&lt;br&gt;Left on Stillwell Av
+&lt;br&gt;Right on Neptune Av
+&lt;br&gt;Right on W 12 St
+&lt;br&gt;Left on Surf Av then regular route
+&lt;br&gt;
+&lt;br&gt;&lt;b&gt;Westbound
+&lt;br&gt;&lt;/b&gt;Via Surf Av
+&lt;br&gt;Right on W 12 St
+&lt;br&gt;Left on Neptune Av
+&lt;br&gt;Left on Stillwell Av
+&lt;br&gt;Right on Surf Av then regular route&lt;/div&gt;
 &lt;br&gt;&lt;b&gt;
 &lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
               &lt;br/&gt;
@@ -781,6 +825,24 @@
 &lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
               &lt;br/&gt;
               &lt;br/&gt;
+            
+                  &lt;span class="TitlePlannedWork" &gt;Planned Detour&lt;/span&gt;
+                  &lt;br/&gt;
+                &lt;a class="plannedWorkDetailLink" onclick=ShowHide(132752);&gt;
+&lt;b&gt;B11 &lt;/b&gt;- &lt;b&gt;Westbound buses rerouted from 55 St at 3 Av to 4 Av
+&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 132752 class="plannedWorkDetail" &gt;&lt;/b&gt;11 AM to 11 PM, Saturday, Aug 20
+&lt;br&gt;
+&lt;br&gt;Due to a local event, buses run via &lt;b&gt;60 St&lt;/b&gt; making corresponding stops.
+&lt;br&gt;
+&lt;br&gt;&lt;b&gt;&lt;i&gt;&lt;a style="cursor:pointer; text-decoration:underline;" onclick=ShowHide(1327520);&gt;Show Reroute Details&lt;/a&gt;&lt;/i&gt;&lt;/b&gt;
+&lt;br&gt;&lt;div id="1327520"; style="display:none;"&gt;Via 4 Av
+&lt;br&gt;Right on 60 St
+&lt;br&gt;Right on 2 Av
+&lt;br&gt;Left on 53 St then regular route&lt;/div&gt;
+&lt;br&gt;&lt;b&gt;
+&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
             </text>
     <Date>08/20/2016</Date>
     <Time>10:03AM</Time>
@@ -833,7 +895,7 @@
               &lt;br/&gt;
             </text>
     <Date>08/20/2016</Date>
-    <Time>10:52AM</Time>
+    <Time>11:02AM</Time>
   </line>
   <line>
     <name>BXM1 - BXM18</name>
@@ -901,6 +963,18 @@
 &lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 130593 class="plannedWorkDetail" &gt;&lt;/b&gt;Until Jan 2017
 &lt;br&gt;
 &lt;br&gt;Due to construction, please follow directional signage to the temporary nearby stop &lt;b&gt;on 57 St&lt;/b&gt;.
+&lt;br&gt;&lt;b&gt;
+&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
+                  &lt;span class="TitlePlannedWork" &gt;Planned Detour&lt;/span&gt;
+                  &lt;br/&gt;
+                &lt;a class="plannedWorkDetailLink" onclick=ShowHide(132408);&gt;
+&lt;b&gt;M106 &lt;/b&gt;-&lt;b&gt; No service on 106 St between 1 Av and the FDR Drive
+&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 132408 class="plannedWorkDetail" &gt;&lt;/b&gt;11 AM to 8 PM, Saturday, Aug 20
+&lt;br&gt;
+&lt;br&gt;Due to a local event, buses operate between 1 Av at 106 St and 96 St at West End Av in both directions.
 &lt;br&gt;&lt;b&gt;
 &lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
               &lt;br/&gt;
@@ -1090,7 +1164,7 @@
               &lt;br/&gt;
             </text>
     <Date>08/20/2016</Date>
-    <Time>10:52AM</Time>
+    <Time>11:02AM</Time>
   </line>
   <line>
     <name>x1 - x68</name>
@@ -1152,7 +1226,7 @@
               &lt;br/&gt;
             </text>
     <Date>08/20/2016</Date>
-    <Time>10:52AM</Time>
+    <Time>11:02AM</Time>
   </line>
 </bus><BT>
   <line>
@@ -1276,10 +1350,17 @@
   </line>
   <line>
     <name>Montauk</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>DELAYS</status>
+    <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;08/20/2016&amp;nbsp;11:01AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  The 9:41AM train from Jamaica due Speonk at 11:17AM is operating 10 minutes late due to a high volume of customers traveling.
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>08/20/2016</Date>
+    <Time>11:01AM</Time>
   </line>
   <line>
     <name>Oyster Bay</name>
@@ -1311,8 +1392,15 @@
   </line>
   <line>
     <name>Ronkonkoma</name>
-    <status>SERVICE CHANGE</status>
+    <status>DELAYS</status>
     <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;08/20/2016&amp;nbsp;11:00AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  The 10:37AM train from Ronkonkoma due Greenport at 12:02PM is operating 14 minutes late after being held to accommodate a bus connection.
+                &lt;br/&gt;&lt;br/&gt;
+              
                     &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
                     &amp;nbsp;Posted:&amp;nbsp;08/19/2016&amp;nbsp;10:00PM
@@ -1320,8 +1408,8 @@
                   &lt;span&gt;&lt;font size="3"&gt;&lt;b&gt;Buses Replace Trains between Ronkonkoma &amp; Hicksville This Weekend, August 20 &amp; 21&lt;/b&gt;&lt;/font&gt;&lt;br&gt;&lt;br&gt;Buses will replace trains between Ronkonkoma and Hicksville from 12:45AM Saturday, August 20, until 12:45AM Monday, August 22, to accommodate trackwork and maintenance of the grade crossing at Straight Path in Wyandanch. As a result of the trackwork, all trains this weekend will originate/terminate at Farmingdale. &lt;br&gt;&lt;br&gt;&lt;b&gt;&lt;font size="2"&gt;Bethpage and Farmingdale customers will have normal train service in both directions throughout the weekend. &lt;/font&gt;&lt;/b&gt;&lt;br&gt;&lt;br&gt;For details on this weekend's busing on the Ronkonkoma Branch, see the Special Ronkonkoma Branch Weekend Track Work Schedule, dated August 20-21, at: &lt;a href="http://bit.ly/2bdn9No"&gt;http://bit.ly/2bdn9No&lt;/a&gt;&lt;br&gt;&lt;br&gt;Ronkonkoma Branch service will be affected as follows: &lt;br&gt;&lt;br&gt;&lt;b&gt;Westbound:&lt;/b&gt;&lt;br&gt;&lt;/span&gt;&lt;ul&gt;&lt;li&gt;&lt;span&gt;Customers traveling from stations Ronkonkoma through Pinelawn will board buses to Hicksville, and transfer to train service to points west. &lt;b&gt;Westbound buses will depart up to 44 minutes earlier than normal train time in order to connect with trains in Hicksville.&lt;/b&gt;&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;The 10:05AM, 11:05AM and the 12:05PM westbound trains from Ronkonkoma will originate instead at Farmingdale. Bus service will NOT be provided from Ronkonkoma to Hicksville for these three trains.&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;span&gt;&lt;b&gt;Eastbound:&lt;/b&gt;&lt;br&gt;&lt;/span&gt;&lt;ul&gt;&lt;li&gt;&lt;span&gt;Customers traveling to stations Pinelawn through Ronkonkoma will board buses at Hicksville. Please plan for up to 44 minutes of extra travel time.&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;The 4:32PM, 5:32PM and 6:32PM eastbound trains from Penn Station will terminate at Farmingdale. Bus service will NOT be provided from Hicksville to Ronkonkoma for these three trains.&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;span&gt;&lt;b&gt;&lt;font size="3"&gt;East of Ronkonkoma (North Fork) Customers:&lt;/font&gt;&lt;/b&gt;&lt;br&gt;Weekend Greenport service is also affected with adjusted schedules.  &lt;br&gt;&lt;br&gt;&lt;b&gt;Westbound:&lt;/b&gt;&lt;br&gt;Westbound customers from North Fork stations Greenport through Medford board regularly scheduled trains and transfer to buses at Ronkonkoma, 21 minutes later for Hicksville, where train service to points west will resume. Westbound North Fork customers will arrive at LIRR western terminals one hour later than normal. Westbound North Fork customers traveling to stations Central Islip through Bethpage will board a local bus at Ronkonkoma to their final destinations.&lt;br&gt;&lt;br&gt;&lt;b&gt;Eastbound:&lt;/b&gt;&lt;br&gt;&lt;/span&gt;&lt;ul&gt;&lt;li&gt;&lt;span&gt;Eastbound customers who normally take the 9:12AM from Penn Station to Ronkonkoma to connect with the train to Greenport must &lt;b&gt;instead take a train one hour earlier than normal, departing Penn Station at 8:12AM&lt;/b&gt; for Hicksville. Then, at Hicksville, transfer to buses to Ronkonkoma where normal train service to Greenport will resume. Customers at stations Bethpage through Central Islip will board a local bus for Ronkonkoma, where normal train service to Greenport will resume.&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;Eastbound customers who normally take the 2:12PM from Penn Station to Ronkonkoma to connect with the train to Greenport must&lt;b&gt; instead take a train one hour earlier than normal, departing Penn Station at 1:12PM&lt;/b&gt; for Hicksville. Then, at Hicksville, transfer to buses to Ronkonkoma where normal train service to Greenport will resume. Customers at stations Bethpage through Central Islip will board a local bus for Ronkonkoma, where normal train service to Greenport will resume.  &lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;span&gt;&lt;b&gt;To avoid busing on the weekend of August 20-21, Ronkonkoma Branch customers may wish to use the Babylon, Montauk or Port Jefferson Branches, as these branches will not be affected by trackwork. &lt;/b&gt;&lt;br&gt;&lt;br&gt;For details on this weekend's busing on the Ronkonkoma Branch, see the Special Ronkonkoma Branch Weekend Track Work Schedule, dated August 20-21, at: &lt;a href="http://bit.ly/2bdn9No"&gt;http://bit.ly/2bdn9No &lt;/a&gt;   &lt;/span&gt;
                 &lt;br/&gt;&lt;br/&gt;
               </text>
-    <Date>08/19/2016</Date>
-    <Time>10:00PM</Time>
+    <Date>08/20/2016</Date>
+    <Time>11:00AM</Time>
   </line>
   <line>
     <name>West Hempstead</name>
