@@ -1,8 +1,15 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>PLANNED WORK</status>
+    <status>SERVICE CHANGE</status>
     <text>
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;08/20/2016&amp;nbsp;10:41AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  Due to signal problems at &lt;STRONG&gt;145 St,&lt;/STRONG&gt; southbound [1] trains are running with delays.&lt;BR&gt;&lt;BR&gt;Allow additional travel time. 
+                &lt;br/&gt;&lt;br/&gt;
+              
                     &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
                     &lt;br/&gt;
                   &lt;a class="plannedWorkDetailLink" onclick=ShowHide(130179);&gt;
@@ -100,7 +107,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>08/20/2016</Date>
-    <Time>10:32AM</Time>
+    <Time>10:41AM</Time>
   </line>
   <line>
     <name>456</name>
@@ -197,7 +204,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>08/20/2016</Date>
-    <Time>10:32AM</Time>
+    <Time>10:42AM</Time>
   </line>
   <line>
     <name>7</name>
@@ -308,7 +315,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>08/20/2016</Date>
-    <Time>10:32AM</Time>
+    <Time>10:42AM</Time>
   </line>
   <line>
     <name>BDFM</name>
@@ -389,7 +396,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>08/20/2016</Date>
-    <Time>10:32AM</Time>
+    <Time>10:42AM</Time>
   </line>
   <line>
     <name>G</name>
@@ -424,7 +431,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>08/20/2016</Date>
-    <Time>10:32AM</Time>
+    <Time>10:42AM</Time>
   </line>
   <line>
     <name>L</name>
@@ -455,7 +462,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>08/20/2016</Date>
-    <Time>10:32AM</Time>
+    <Time>10:42AM</Time>
   </line>
   <line>
     <name>NQR</name>
@@ -474,7 +481,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>08/20/2016</Date>
-    <Time>10:32AM</Time>
+    <Time>10:42AM</Time>
   </line>
   <line>
     <name>S</name>
@@ -500,7 +507,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>08/20/2016</Date>
-    <Time>10:32AM</Time>
+    <Time>10:42AM</Time>
   </line>
 </subway><bus>
   <line>
@@ -819,7 +826,7 @@
               &lt;br/&gt;
             </text>
     <Date>08/20/2016</Date>
-    <Time>10:32AM</Time>
+    <Time>10:42AM</Time>
   </line>
   <line>
     <name>BXM1 - BXM18</name>
@@ -1076,7 +1083,7 @@
               &lt;br/&gt;
             </text>
     <Date>08/20/2016</Date>
-    <Time>10:32AM</Time>
+    <Time>10:42AM</Time>
   </line>
   <line>
     <name>x1 - x68</name>
@@ -1138,7 +1145,7 @@
               &lt;br/&gt;
             </text>
     <Date>08/20/2016</Date>
-    <Time>10:32AM</Time>
+    <Time>10:42AM</Time>
   </line>
 </bus><BT>
   <line>
