@@ -1,10 +1,91 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>PLANNED WORK</status>
+    <text>
+                    &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
+                    &lt;br/&gt;
+                  &lt;a class="plannedWorkDetailLink" onclick=ShowHide(130179);&gt;
+&lt;b&gt;[FF]&lt;br clear=left&gt;[3] No trains between 14 St and New Lots Av&lt;br clear=left&gt;[4] [N] [Q] [R] trains provide alternate service
+&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 130179 class="plannedWorkDetail" &gt;&lt;/b&gt;Weekends, 11:30 PM Fri to 5 AM Mon, Aug 19 - 22&amp;nbsp;&amp;nbsp;&amp;bull;&amp;nbsp;&amp;nbsp;Aug 26 - 29
+&lt;br&gt;
+&lt;br&gt;[3] service operates express between &lt;/font&gt;&lt;b&gt;148 St&lt;/b&gt; and &lt;b&gt;14 St&lt;/b&gt; &lt;i&gt;all weekend&lt;/i&gt;.
+&lt;br&gt;
+&lt;br&gt;Weekend [4] service is extended to New Lots Av.
+&lt;br&gt;
+&lt;br&gt;&lt;/font&gt;&lt;b&gt;[S]&lt;/b&gt; 42 Street Shuttle service operates overnight.
+&lt;br&gt;
+&lt;br&gt;&lt;table class=plannedworkTableStyle  width=80%&gt;&lt;tr&gt;&lt;td&gt;&lt;font size=3&gt;&lt;b&gt;Travel Alternatives&lt;/b&gt;&lt;/font&gt;&lt;td align=right&gt;[TP]&lt;/table&gt;
+&lt;br&gt;&lt;/font&gt;For service between &lt;b&gt;Manhattan&lt;/b&gt; and &lt;b&gt;Brooklyn&lt;/b&gt;, take the [N] [Q] [R].
+&lt;br&gt;
+&lt;br&gt;For &lt;b&gt;Chambers St&lt;/b&gt;, take the [1] or [2] instead.
+&lt;br&gt;
+&lt;br&gt;For &lt;b&gt;Park Place&lt;/b&gt;,&lt;b&gt; Fulton St&lt;/b&gt;, &lt;b&gt;Wall St&lt;/b&gt;,&lt;b&gt; Clark St, Borough Hall&lt;/b&gt; and &lt;b&gt;Hoyt St&lt;/b&gt;,
+&lt;br&gt;use nearby [4] [5] or [R] stations instead.
+&lt;br&gt;
+&lt;br&gt;In &lt;b&gt;Brooklyn&lt;/b&gt;, take the [4] instead, making all stops between Atlantic Av-Barclays Ctr
+&lt;br&gt;and New Lots Av.
+&lt;br&gt;
+&lt;br&gt;&amp;#149; &lt;/font&gt;Transfer between [3] and [1] [2] trains at 14 St.
+&lt;br&gt;&amp;#149; &lt;/font&gt;Transfer between [3] and [N] [Q] [R] trains at Times Sq-42 St.
+&lt;br&gt;&amp;#149; &lt;/font&gt;Transfer between [N] [Q] [R] and [4] [5] trains at Atlantic Av-Barclays Ctr.
+&lt;br&gt;&amp;#149; &lt;/font&gt;Transfer between [3] and [4] trains via the &lt;b&gt;[S]&lt;/b&gt; 42 Street Shuttle at Times Sq-42 St.
+&lt;br&gt;
+&lt;br&gt;Out-of-system transfer is available (request a transfer ticket):
+&lt;br&gt;&lt;i&gt;&amp;#149;&lt;/i&gt; Between Rector St &lt;b&gt;[1] [2] &lt;/b&gt;and Wall St&lt;b&gt; [4] [5]&lt;/b&gt;.
+&lt;br&gt;
+&lt;br&gt;&lt;table class=plannedworkTableStyle  border=1 cellspacing=1 cellpadding=3 rules=rows frame=hsides&gt;&lt;tr bgcolor=#FAF8CC&gt;&lt;td&gt;&lt;b&gt;Affected Station&lt;/b&gt;&lt;td&gt;&lt;b&gt;Nearby [4] [5] Station&lt;/b&gt;&lt;td&gt;&lt;b&gt;Nearby [R] Station&lt;/b&gt;&lt;tr&gt;&lt;td&gt;Park Place&lt;/font&gt; [A] [C] &lt;td&gt;Brooklyn Bridge&lt;td&gt;City Hall&lt;tr&gt;&lt;td&gt;Fulton St&lt;/font&gt; [A] [C]&lt;td&gt;Fulton St [ad]&lt;td&gt;Cortlandt St [ad]&lt;tr&gt;&lt;td&gt;Wall St&lt;td&gt;Wall St (at Broadway)&lt;td&gt;Rector St&lt;tr&gt;&lt;td&gt;Clark St&lt;td&gt;Borough Hall  [ad] &lt;font size=1&gt;&lt;i&gt;4, 5 northbound only&lt;/i&gt;&lt;/font&gt;  &lt;td&gt;Court St&lt;tr&gt;&lt;td rowspan=2&gt;Borough Hall&lt;td rowspan=2&gt;Borough Hall  [ad] &lt;font size=1&gt;&lt;i&gt;4, 5 northbound only&lt;/i&gt;&lt;/font&gt;&lt;td&gt;Court St&lt;tr&gt;&lt;td&gt;Jay St-MetroTech  [ad]  [A] [C] [F]&lt;tr&gt;&lt;td rowspan=2&gt;Hoyt St&lt;td&gt;Borough Hall  [ad] &lt;font size=1&gt;&lt;i&gt;4, 5 northbound only&lt;/i&gt;&lt;/font&gt;&lt;td&gt;Jay St-MetroTech  [ad]  [A] [C] [F]&lt;tr&gt;&lt;td&gt;Nevins St&lt;td&gt;DeKalb Av  [ad]  [Q]&lt;/table&gt;
+&lt;br&gt;&lt;b&gt;Note:&lt;/b&gt; No [2] trains between Manhattan and Brooklyn during this time.
+&lt;br&gt;
+&lt;br&gt;&lt;b&gt;Reminder:&lt;/b&gt; &lt;a href=http://advisory.mtanyct.info/pdf_files/NightMap.pdf target=_blank&gt;&lt;font color=#0000FF&gt;&lt;b&gt;&lt;u&gt;Late Night&lt;/u&gt;&lt;/b&gt;&lt;/font&gt;&lt;/a&gt; [N] service replaces the [R] between Canal St and Atlantic Av-Barclays Ctr.
+&lt;br&gt;
+&lt;br&gt;&lt;/font&gt;&lt;table class=plannedworkTableStyle  border=1 cellspacing=1 cellpadding=5 rules=none frame=box&gt;&lt;td&gt;&amp;nbsp;&amp;nbsp;[ad]&amp;nbsp;&amp;nbsp;&lt;td&gt;&lt;font size=1&gt;This service change affects one or more ADA accessible stations. Please call 511 for help with planning&lt;br&gt;your trip. If you are deaf or hard of hearing, use your preferred relay service provider or the free 711 relay.&amp;nbsp;&amp;nbsp;&lt;/font&gt;&lt;/table&gt;
+&lt;br&gt;&lt;b&gt;
+&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              
+                    &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
+                    &lt;br/&gt;
+                  &lt;a class="plannedWorkDetailLink" onclick=ShowHide(130651);&gt;
+&lt;b&gt;[2] No trains between Manhattan and Brooklyn&lt;br clear=left&gt;[5] trains replace the [2] in the Bronx and Brooklyn
+&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 130651 class="plannedWorkDetail" &gt;&lt;/b&gt;Weekends, 11:30 PM Fri to 5 AM Mon, Aug 19 - 22  &amp;#149;  Aug 26 - 29
+&lt;br&gt;
+&lt;br&gt;[2] service operates between &lt;/font&gt;&lt;b&gt;E 180 St&lt;/b&gt; and &lt;b&gt;Chambers St&lt;/b&gt;, and via the [1] &lt;i&gt;to/from&lt;/i&gt; &lt;b&gt;Rector St&lt;/b&gt;.
+&lt;br&gt;&amp;#149; &lt;/font&gt;Trains run local between &lt;b&gt;34 St-Penn Station&lt;/b&gt; and &lt;b&gt;Chambers St&lt;/b&gt; &lt;i&gt;all weekend&lt;/i&gt;.
+&lt;br&gt;
+&lt;br&gt;[5] service operates between &lt;/font&gt;&lt;b&gt;Flatbush Av&lt;/b&gt; and &lt;b&gt;E 180 St&lt;/b&gt;, and via the [2] &lt;i&gt;to/from&lt;/i&gt; &lt;/font&gt;&lt;b&gt;241 St&lt;/b&gt;.
+&lt;br&gt;&amp;#149; Trains run express in Manhattan and local in Brooklyn &lt;i&gt;all weekend&lt;/i&gt;.
+&lt;br&gt;
+&lt;br&gt;&lt;/font&gt;&lt;b&gt;[S]&lt;/b&gt; 42 Street Shuttle service operates overnight.
+&lt;br&gt;
+&lt;br&gt;&lt;table class=plannedworkTableStyle  width=80%&gt;&lt;tr&gt;&lt;td&gt;&lt;font size=3&gt;&lt;b&gt;Travel Alternatives&lt;/b&gt;&lt;/font&gt;&lt;td align=right&gt;[TP]&lt;/table&gt;
+&lt;br&gt;&lt;/font&gt;For service between &lt;b&gt;Manhattan&lt;/b&gt; and &lt;b&gt;Brooklyn&lt;/b&gt;, take the [N] [Q] [R].
+&lt;br&gt;
+&lt;br&gt;For &lt;b&gt;Park Place&lt;/b&gt;,&lt;b&gt; Fulton St&lt;/b&gt;, &lt;b&gt;Wall St&lt;/b&gt;,&lt;b&gt; Clark St&lt;/b&gt;, &lt;b&gt;Borough Hall&lt;/b&gt; and &lt;b&gt;Hoyt St&lt;/b&gt;,
+&lt;br&gt;use nearby [4] [5] or [R] stations instead.
+&lt;br&gt;
+&lt;br&gt;In the &lt;b&gt;Bronx&lt;/b&gt; and &lt;b&gt;Brooklyn&lt;/b&gt;, take the [5] instead.
+&lt;br&gt;
+&lt;br&gt;&lt;/font&gt;&amp;#149; Transfer between [2] and [5] trains at E 180 St.
+&lt;br&gt;&amp;#149; &lt;/font&gt;Transfer between [2] and [N] [Q] [R] trains at Times Sq-42 St.
+&lt;br&gt;&amp;#149; &lt;/font&gt;Transfer between [N] [Q] [R] and [4] [5] trains at Atlantic Av-Barclays Ctr.
+&lt;br&gt;&amp;#149; &lt;/font&gt;Transfer between [2] and [4] [5] trains via the &lt;b&gt;[S]&lt;/b&gt; 42 Street Shuttle at Times Sq-42 St.
+&lt;br&gt;
+&lt;br&gt;Out-of-system transfer is available (request a transfer ticket):
+&lt;br&gt;&lt;i&gt;&amp;#149;&lt;/i&gt; Between Rector St &lt;b&gt;[1] [2] &lt;/b&gt;and Wall St&lt;b&gt; [4] [5]&lt;/b&gt;.
+&lt;br&gt;
+&lt;br&gt;&lt;table class=plannedworkTableStyle  border=1 cellspacing=1 cellpadding=3 rules=rows frame=hsides&gt;&lt;tr bgcolor=#FAF8CC&gt;&lt;td&gt;&lt;b&gt;Affected Station&lt;/b&gt;&lt;td&gt;&lt;b&gt;Nearby [4] [5] Station&lt;/b&gt;&lt;td&gt;&lt;b&gt;Nearby [R] Station&lt;/b&gt;&lt;tr&gt;&lt;td&gt;Park Place&lt;/font&gt; [A] [C] &lt;td&gt;Brooklyn Bridge&lt;td&gt;City Hall&lt;tr&gt;&lt;td&gt;Fulton St&lt;/font&gt; [A] [C]&lt;td&gt;Fulton St [ad]&lt;td&gt;Cortlandt St [ad]&lt;tr&gt;&lt;td&gt;Wall St&lt;td&gt;Wall St (at Broadway)&lt;td&gt;Rector St&lt;tr&gt;&lt;td&gt;Clark St&lt;td&gt;Borough Hall  [ad] &lt;font size=1&gt;&lt;i&gt;4, 5 northbound only&lt;/i&gt;&lt;/font&gt;  &lt;td&gt;Court St&lt;tr&gt;&lt;td rowspan=2&gt;Borough Hall&lt;td rowspan=2&gt;Borough Hall  [ad] &lt;font size=1&gt;&lt;i&gt;4, 5 northbound only&lt;/i&gt;&lt;/font&gt;&lt;td&gt;Court St&lt;tr&gt;&lt;td&gt;Jay St-MetroTech  [ad]  [A] [C] [F]&lt;tr&gt;&lt;td rowspan=2&gt;Hoyt St&lt;td&gt;Borough Hall  [ad] &lt;font size=1&gt;&lt;i&gt;4, 5 northbound only&lt;/i&gt;&lt;/font&gt;&lt;td&gt;Jay St-MetroTech  [ad]  [A] [C] [F]&lt;tr&gt;&lt;td&gt;Nevins St&lt;td&gt;DeKalb Av  [ad]  [Q]&lt;/table&gt;
+&lt;br&gt;&lt;b&gt;Note:&lt;/b&gt; No [3] trains between 14 St and New Lots Av during this time.
+&lt;br&gt;
+&lt;br&gt;&lt;b&gt;Reminder:&lt;/b&gt; &lt;a href=http://advisory.mtanyct.info/pdf_files/NightMap.pdf target=_blank&gt;&lt;font color=#0000FF&gt;&lt;b&gt;&lt;u&gt;Late Night&lt;/u&gt;&lt;/b&gt;&lt;/font&gt;&lt;/a&gt; [N] service replaces the [R] between Canal St and Atlantic Av-Barclays Ctr.
+&lt;br&gt;
+&lt;br&gt;&lt;/font&gt;&lt;table class=plannedworkTableStyle  border=1 cellspacing=1 cellpadding=5 rules=none frame=box&gt;&lt;td&gt;&amp;nbsp;&amp;nbsp;[ad]&amp;nbsp;&amp;nbsp;&lt;td&gt;&lt;font size=1&gt;This service change affects one or more ADA accessible stations. Please call 511 for help with planning&lt;br&gt;your trip. If you are deaf or hard of hearing, use your preferred relay service provider or the free 711 relay.&amp;nbsp;&amp;nbsp;&lt;/font&gt;&lt;/table&gt;
+&lt;br&gt;&lt;b&gt;
+&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>08/19/2016</Date>
+    <Time>11:32PM</Time>
   </line>
   <line>
     <name>456</name>
@@ -16,6 +97,46 @@
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
                   &lt;P&gt;Due to signal problems at &lt;STRONG&gt;Borough Hall&lt;/STRONG&gt;, northbound [4] and [5] trains are running with delays. &lt;/P&gt;
 &lt;P&gt;Allow additional travel time.&lt;/P&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              
+                    &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
+                    &lt;br/&gt;
+                  &lt;a class="plannedWorkDetailLink" onclick=ShowHide(130651);&gt;
+&lt;b&gt;[2] No trains between Manhattan and Brooklyn&lt;br clear=left&gt;[5] trains replace the [2] in the Bronx and Brooklyn
+&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 130651 class="plannedWorkDetail" &gt;&lt;/b&gt;Weekends, 11:30 PM Fri to 5 AM Mon, Aug 19 - 22  &amp;#149;  Aug 26 - 29
+&lt;br&gt;
+&lt;br&gt;[2] service operates between &lt;/font&gt;&lt;b&gt;E 180 St&lt;/b&gt; and &lt;b&gt;Chambers St&lt;/b&gt;, and via the [1] &lt;i&gt;to/from&lt;/i&gt; &lt;b&gt;Rector St&lt;/b&gt;.
+&lt;br&gt;&amp;#149; &lt;/font&gt;Trains run local between &lt;b&gt;34 St-Penn Station&lt;/b&gt; and &lt;b&gt;Chambers St&lt;/b&gt; &lt;i&gt;all weekend&lt;/i&gt;.
+&lt;br&gt;
+&lt;br&gt;[5] service operates between &lt;/font&gt;&lt;b&gt;Flatbush Av&lt;/b&gt; and &lt;b&gt;E 180 St&lt;/b&gt;, and via the [2] &lt;i&gt;to/from&lt;/i&gt; &lt;/font&gt;&lt;b&gt;241 St&lt;/b&gt;.
+&lt;br&gt;&amp;#149; Trains run express in Manhattan and local in Brooklyn &lt;i&gt;all weekend&lt;/i&gt;.
+&lt;br&gt;
+&lt;br&gt;&lt;/font&gt;&lt;b&gt;[S]&lt;/b&gt; 42 Street Shuttle service operates overnight.
+&lt;br&gt;
+&lt;br&gt;&lt;table class=plannedworkTableStyle  width=80%&gt;&lt;tr&gt;&lt;td&gt;&lt;font size=3&gt;&lt;b&gt;Travel Alternatives&lt;/b&gt;&lt;/font&gt;&lt;td align=right&gt;[TP]&lt;/table&gt;
+&lt;br&gt;&lt;/font&gt;For service between &lt;b&gt;Manhattan&lt;/b&gt; and &lt;b&gt;Brooklyn&lt;/b&gt;, take the [N] [Q] [R].
+&lt;br&gt;
+&lt;br&gt;For &lt;b&gt;Park Place&lt;/b&gt;,&lt;b&gt; Fulton St&lt;/b&gt;, &lt;b&gt;Wall St&lt;/b&gt;,&lt;b&gt; Clark St&lt;/b&gt;, &lt;b&gt;Borough Hall&lt;/b&gt; and &lt;b&gt;Hoyt St&lt;/b&gt;,
+&lt;br&gt;use nearby [4] [5] or [R] stations instead.
+&lt;br&gt;
+&lt;br&gt;In the &lt;b&gt;Bronx&lt;/b&gt; and &lt;b&gt;Brooklyn&lt;/b&gt;, take the [5] instead.
+&lt;br&gt;
+&lt;br&gt;&lt;/font&gt;&amp;#149; Transfer between [2] and [5] trains at E 180 St.
+&lt;br&gt;&amp;#149; &lt;/font&gt;Transfer between [2] and [N] [Q] [R] trains at Times Sq-42 St.
+&lt;br&gt;&amp;#149; &lt;/font&gt;Transfer between [N] [Q] [R] and [4] [5] trains at Atlantic Av-Barclays Ctr.
+&lt;br&gt;&amp;#149; &lt;/font&gt;Transfer between [2] and [4] [5] trains via the &lt;b&gt;[S]&lt;/b&gt; 42 Street Shuttle at Times Sq-42 St.
+&lt;br&gt;
+&lt;br&gt;Out-of-system transfer is available (request a transfer ticket):
+&lt;br&gt;&lt;i&gt;&amp;#149;&lt;/i&gt; Between Rector St &lt;b&gt;[1] [2] &lt;/b&gt;and Wall St&lt;b&gt; [4] [5]&lt;/b&gt;.
+&lt;br&gt;
+&lt;br&gt;&lt;table class=plannedworkTableStyle  border=1 cellspacing=1 cellpadding=3 rules=rows frame=hsides&gt;&lt;tr bgcolor=#FAF8CC&gt;&lt;td&gt;&lt;b&gt;Affected Station&lt;/b&gt;&lt;td&gt;&lt;b&gt;Nearby [4] [5] Station&lt;/b&gt;&lt;td&gt;&lt;b&gt;Nearby [R] Station&lt;/b&gt;&lt;tr&gt;&lt;td&gt;Park Place&lt;/font&gt; [A] [C] &lt;td&gt;Brooklyn Bridge&lt;td&gt;City Hall&lt;tr&gt;&lt;td&gt;Fulton St&lt;/font&gt; [A] [C]&lt;td&gt;Fulton St [ad]&lt;td&gt;Cortlandt St [ad]&lt;tr&gt;&lt;td&gt;Wall St&lt;td&gt;Wall St (at Broadway)&lt;td&gt;Rector St&lt;tr&gt;&lt;td&gt;Clark St&lt;td&gt;Borough Hall  [ad] &lt;font size=1&gt;&lt;i&gt;4, 5 northbound only&lt;/i&gt;&lt;/font&gt;  &lt;td&gt;Court St&lt;tr&gt;&lt;td rowspan=2&gt;Borough Hall&lt;td rowspan=2&gt;Borough Hall  [ad] &lt;font size=1&gt;&lt;i&gt;4, 5 northbound only&lt;/i&gt;&lt;/font&gt;&lt;td&gt;Court St&lt;tr&gt;&lt;td&gt;Jay St-MetroTech  [ad]  [A] [C] [F]&lt;tr&gt;&lt;td rowspan=2&gt;Hoyt St&lt;td&gt;Borough Hall  [ad] &lt;font size=1&gt;&lt;i&gt;4, 5 northbound only&lt;/i&gt;&lt;/font&gt;&lt;td&gt;Jay St-MetroTech  [ad]  [A] [C] [F]&lt;tr&gt;&lt;td&gt;Nevins St&lt;td&gt;DeKalb Av  [ad]  [Q]&lt;/table&gt;
+&lt;br&gt;&lt;b&gt;Note:&lt;/b&gt; No [3] trains between 14 St and New Lots Av during this time.
+&lt;br&gt;
+&lt;br&gt;&lt;b&gt;Reminder:&lt;/b&gt; &lt;a href=http://advisory.mtanyct.info/pdf_files/NightMap.pdf target=_blank&gt;&lt;font color=#0000FF&gt;&lt;b&gt;&lt;u&gt;Late Night&lt;/u&gt;&lt;/b&gt;&lt;/font&gt;&lt;/a&gt; [N] service replaces the [R] between Canal St and Atlantic Av-Barclays Ctr.
+&lt;br&gt;
+&lt;br&gt;&lt;/font&gt;&lt;table class=plannedworkTableStyle  border=1 cellspacing=1 cellpadding=5 rules=none frame=box&gt;&lt;td&gt;&amp;nbsp;&amp;nbsp;[ad]&amp;nbsp;&amp;nbsp;&lt;td&gt;&lt;font size=1&gt;This service change affects one or more ADA accessible stations. Please call 511 for help with planning&lt;br&gt;your trip. If you are deaf or hard of hearing, use your preferred relay service provider or the free 711 relay.&amp;nbsp;&amp;nbsp;&lt;/font&gt;&lt;/table&gt;
+&lt;br&gt;&lt;b&gt;
+&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>08/19/2016</Date>
@@ -37,10 +158,45 @@
   </line>
   <line>
     <name>BDFM</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>PLANNED WORK</status>
+    <text>
+                    &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
+                    &lt;br/&gt;
+                  &lt;a class="plannedWorkDetailLink" onclick=ShowHide(130281);&gt;
+&lt;b&gt;[D] No trains between 34 St-Herald Sq and Atlantic Av-Barclays Ctr
+&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 130281 class="plannedWorkDetail" &gt;[F] [N] [Q] [R] trains and [SB] free shuttle buses provide alternate service
+&lt;br&gt;&lt;/b&gt;Weekend, 11:30 PM Fri to 5 AM Mon, Aug 19 - 22
+&lt;br&gt;
+&lt;br&gt;&lt;b&gt;[D] service operates in two sections:
+&lt;br&gt;&lt;/b&gt;  1. Between &lt;b&gt;205 St&lt;/b&gt; and &lt;b&gt;34 St-Herald Sq
+&lt;br&gt;&lt;/b&gt;  2. Between &lt;b&gt;Atlantic Av-Barclays Ctr&lt;/b&gt; and&lt;b&gt; Stillwell Av
+&lt;br&gt;&lt;/b&gt;      Trains run &lt;i&gt;express&lt;/i&gt; in both directions between &lt;b&gt;Atlantic Av-Barclays Ctr&lt;/b&gt; and &lt;b&gt;36 St&lt;/b&gt;.
+&lt;br&gt;
+&lt;br&gt;[SB] Buses operate between &lt;b&gt;W 4 St&lt;/b&gt; and &lt;b&gt;Grand St&lt;/b&gt;, stopping at &lt;b&gt;B'way-Lafayette St&lt;/b&gt;.
+&lt;br&gt;
+&lt;br&gt;&lt;font size=3&gt;&lt;b&gt;&lt;a style="cursor:pointer; text-decoration:underline;" onclick=ShowHide(1302810);&gt;Show Shuttle Bus Stops&lt;/a&gt;&lt;/b&gt;&lt;/font&gt;&lt;div id="1302810"; style="display:none;"&gt;&lt;table class=plannedworkTableStyle  border=1 cellspacing=1 cellpadding=3 rules=rows frame=hsides&gt;&lt;tr bgcolor=#FAF8CC&gt;&lt;td&gt;&lt;b&gt;Station&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/b&gt;&lt;/td&gt;&lt;td&gt;&lt;b&gt;Bus Stop&lt;/b&gt;&lt;td&gt;&lt;b&gt;Bus&lt;/b&gt;&lt;tr&gt;&lt;td&gt;W 4 St [ad] [F]&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;td&gt;6 Av at W 3 St&lt;td&gt;&lt;b&gt;M5&lt;/b&gt;&lt;tr&gt;&lt;td&gt;B'way-Lafayette St [ad] [F]&amp;nbsp;&amp;nbsp;&lt;td&gt;Houston St at Broadway&lt;td&gt;&lt;b&gt;M21&lt;/b&gt;&lt;tr&gt;&lt;td&gt;Grand St&lt;td&gt;Grand St at Chrystie St&amp;nbsp;&amp;nbsp;&lt;td align=center&gt;&amp;mdash;&lt;/table&gt;&lt;/div&gt;
+&lt;br&gt;
+&lt;br&gt;&lt;table class=plannedworkTableStyle  width=75%&gt;&lt;tr&gt;&lt;td&gt;&lt;font size=3&gt;&lt;b&gt;Travel Alternatives&lt;/b&gt;&lt;/font&gt;&lt;td align=right&gt;[TP]&lt;/table&gt;
+&lt;br&gt;For service between &lt;b&gt;Manhattan&lt;/b&gt; and &lt;b&gt;Brooklyn&lt;/b&gt;, take the &lt;b&gt;[N] [Q] [R]&lt;/b&gt;.
+&lt;br&gt;&lt;/font&gt;&amp;#149; Transfer between &lt;b&gt;[D]&lt;/b&gt; and &lt;b&gt;[N] [Q] [R]&lt;/b&gt; trains at &lt;b&gt;34 St-Herald Sq&lt;/b&gt; &lt;i&gt;and/or&lt;/i&gt; &lt;b&gt;Atlantic Av-Barclays Ctr&lt;/b&gt;.
+&lt;br&gt;
+&lt;br&gt;For &lt;b&gt;W 4 St&lt;/b&gt; and &lt;/font&gt;&lt;b&gt;B'way-Lafayette St&lt;/b&gt;, take the &lt;b&gt;[F]&lt;/b&gt; instead.
+&lt;br&gt;&amp;#149; Transfer between &lt;b&gt;[F]&lt;/b&gt; and &lt;b&gt;[D]&lt;/b&gt; &lt;b&gt;[N] [Q] [R]&lt;/b&gt; trains at &lt;b&gt;34 St-Herald Sq&lt;/b&gt;.
+&lt;br&gt;
+&lt;br&gt;For &lt;b&gt;Grand St&lt;/b&gt;, take a [SB] bus via transfer at &lt;b&gt;W 4 St &lt;/b&gt;or &lt;b&gt;B'way-Lafayette St [F] Stations&lt;/b&gt;.
+&lt;br&gt;
+&lt;br&gt;For &lt;b&gt;Union St&lt;/b&gt;, &lt;b&gt;4 Av-9 St&lt;/b&gt;, &lt;b&gt;Prospect Av&lt;/b&gt; and &lt;b&gt;25 St&lt;/b&gt;, take the &lt;b&gt;[N] [R]&lt;/b&gt; instead.
+&lt;br&gt;&amp;#149; Transfer between &lt;b&gt;[D] &lt;/b&gt;and&lt;b&gt; [N] [R]&lt;/b&gt; trains at &lt;b&gt;36 St&lt;/b&gt;.
+&lt;br&gt;
+&lt;br&gt;&lt;b&gt;&lt;i&gt;Alternate travel note:
+&lt;br&gt;&lt;/b&gt;&lt;/i&gt;For Grand St, use nearby &lt;a href=http://web.mta.info/weekender/tileMap.html?staID=18639 target=_blank&gt;&lt;font color=#0000FF&gt;&lt;b&gt;&lt;u&gt;Canal St&lt;/u&gt;&lt;/b&gt;&lt;/font&gt;&lt;/a&gt; [N] [Q] [R] station instead.
+&lt;br&gt;For B'way-Lafayette St, use nearby &lt;a href=http://web.mta.info/weekender/tileMap.html?staID=18648 target=_blank&gt;&lt;font color=#0000FF&gt;&lt;b&gt;&lt;u&gt;Prince St&lt;/u&gt;&lt;/b&gt;&lt;/font&gt;&lt;/a&gt; [N] [R] station instead.
+&lt;br&gt;&lt;b&gt;
+&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>08/19/2016</Date>
+    <Time>11:32PM</Time>
   </line>
   <line>
     <name>G</name>
@@ -58,10 +214,34 @@
   </line>
   <line>
     <name>L</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>PLANNED WORK</status>
+    <text>
+                    &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
+                    &lt;br/&gt;
+                  &lt;a class="plannedWorkDetailLink" onclick=ShowHide(130165);&gt;
+&lt;b&gt;[L] No trains between Myrtle-Wyckoff Avs and Rockaway Pkwy
+&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 130165 class="plannedWorkDetail" &gt;[SB] Free shuttle buses provide alternate service
+&lt;br&gt;&lt;/b&gt;Weekend, 11:30 PM Fri to 5 AM Mon, &lt;/font&gt;Aug 19 - 22            
+&lt;br&gt;
+&lt;br&gt;&lt;b&gt;[L]&lt;/b&gt; service operates between &lt;b&gt;8 Av&lt;/b&gt; and &lt;b&gt;Myrtle-Wyckoff Avs&lt;/b&gt;.
+&lt;br&gt;
+&lt;br&gt;&lt;i&gt;Local&lt;/i&gt;&lt;b&gt; [SB]&lt;/b&gt; buses make all &lt;b&gt;[L]&lt;/b&gt; stops between &lt;b&gt;Myrtle-Wyckoff Avs &lt;/b&gt;and&lt;b&gt; Rockaway Pkwy&lt;/b&gt;.
+&lt;br&gt;&lt;i&gt;Express&lt;/i&gt; [SB] buses operate &lt;i&gt;days/evenings only&lt;/i&gt; between &lt;b&gt;Myrtle-Wyckoff Avs&lt;/b&gt; and &lt;b&gt;Rockaway Pkwy,&lt;/b&gt; 
+&lt;br&gt;stopping at Broadway Junction.
+&lt;br&gt;
+&lt;br&gt;&amp;bull; Transfer between &lt;b&gt;[L]&lt;/b&gt; trains and &lt;b&gt;[SB]&lt;/b&gt; buses at &lt;b&gt;Myrtle-Wyckoff Avs&lt;/b&gt;.
+&lt;br&gt;&amp;bull; For service between Brooklyn and Manhattan consider the &lt;b&gt;[A] [C] &lt;/b&gt;or &lt;b&gt;[J]&lt;/b&gt; via transfer 
+&lt;br&gt;   between trains and [SB] buses at &lt;b&gt;Broadway Junction&lt;/b&gt;.
+&lt;br&gt;
+&lt;br&gt;&lt;font size=3&gt;&lt;b&gt;&lt;a style="cursor:pointer; text-decoration:underline;" onclick=ShowHide(1301650);&gt;Show Shuttle Bus Stops&lt;/a&gt;&lt;/b&gt;&lt;/font&gt;&lt;div id="1301650"; style="display:none;"&gt;&lt;table class=plannedworkTableStyle  width=90% border=1 cellspacing=1 cellpadding=3 rules=rows frame=hsides&gt;&lt;tr bgcolor=#FAF8CC&gt;&lt;td&gt;&lt;b&gt;Station&lt;/b&gt;&lt;td&gt;&lt;b&gt;Shuttle Bus Stop&lt;/b&gt;&lt;tr&gt;&lt;td&gt;Myrtle-Wyckoff Avs [ad] [L] [M]&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;td&gt; Myrtle Av at Wyckoff Av &lt;i&gt;&lt;b&gt;(Express/Local)&lt;/i&gt;&lt;/b&gt;&lt;tr&gt;&lt;td rowspan=2&gt;Halsey St&lt;td&gt;Wyckoff Av at Weirfield St (to Myrtle-Wyckoff Avs)&lt;tr&gt;&lt;td&gt; Wyckoff Av at Halsey St (to Rockaway Pkwy)&lt;tr&gt;&lt;td rowspan=2&gt;Wilson Av&lt;td&gt;Cooper St at Wilson Av (to Rockaway Pkwy)&lt;tr&gt;&lt;td&gt;Decatur St at Wilson Av (to Myrtle-Wyckoff Avs)&lt;tr&gt;&lt;td rowspan=2&gt;Bushwick Av/Aberdeen St&lt;td&gt; Bushwick Av at De Sales Pl (to Rockaway Pkwy)&lt;tr&gt;&lt;td&gt;Bushwick Av at Aberdeen St (to Myrtle-Wyckoff Avs)&lt;tr&gt;&lt;td&gt;Broadway Junction [A] [C] [J]&lt;td&gt; Fulton St at Van Sinderen Av &lt;i&gt;&lt;b&gt;(Express/Local)&lt;/b&gt;&lt;/i&gt;&lt;tr&gt;&lt;td rowspan=2&gt;Atlantic Av&lt;td&gt;Junius St at Liberty Av (to Rockaway Pkwy)&lt;tr&gt;&lt;td&gt;Snediker Av at Atlantic Av (to Myrtle-Wyckoff Avs)&lt;tr&gt;&lt;td rowspan=2&gt;Sutter Av&lt;td&gt;Junius St at Sutter Av (to Rockaway Pkwy)&lt;tr&gt;&lt;td&gt;Snediker Av at Sutter Av (to Myrtle-Wyckoff Avs)&lt;tr&gt;&lt;td rowspan=2&gt;Livonia Av&lt;td&gt;Junius St at Livonia Av (to Rockaway Pkwy)&lt;tr&gt;&lt;td&gt;Snediker Av at Livonia Av (to Myrtle-Wyckoff Avs)&lt;tr&gt;&lt;td rowspan=2&gt;New Lots Av&lt;td&gt;New Lots Av at station entrance (to Rockaway Pkwy)&lt;tr&gt;&lt;td&gt;Snediker Av at New Lots Av (to Myrtle-Wyckoff Avs)&lt;tr&gt;&lt;td&gt;East 105 St&lt;td&gt;Farragut Rd at 105 St &lt;tr&gt;&lt;td&gt;Rockaway Pkwy&lt;td&gt;&lt;b&gt;B42&lt;/b&gt; bus terminal at Rockaway Pkwy &lt;i&gt;&lt;b&gt;(Express/Local)&lt;/i&gt;&lt;/b&gt;&lt;/table&gt; &lt;/div&gt;
+&lt;br&gt;
+&lt;br&gt;&lt;table class=plannedworkTableStyle  border=1 cellspacing=1 cellpadding=5 rules=none frame=box&gt;&lt;td&gt;&amp;nbsp;&amp;nbsp;[ad]&amp;nbsp;&amp;nbsp;&lt;td&gt;&lt;font size=1&gt;This service change affects one or more ADA accessible stations. Please call 511 for help with planning&lt;br&gt;your trip. If you are deaf or hard of hearing, use your preferred relay service provider or the free 711 relay.&amp;nbsp;&amp;nbsp;&lt;/font&gt;&lt;/table&gt;
+&lt;br&gt;&lt;b&gt;
+&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>08/19/2016</Date>
+    <Time>11:32PM</Time>
   </line>
   <line>
     <name>NQR</name>
@@ -403,7 +583,7 @@
               &lt;br/&gt;
             </text>
     <Date>08/19/2016</Date>
-    <Time>11:22PM</Time>
+    <Time>11:32PM</Time>
   </line>
   <line>
     <name>QM1 - QM44</name>
