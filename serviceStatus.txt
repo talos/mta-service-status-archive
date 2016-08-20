@@ -1,15 +1,8 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>DELAYS</status>
+    <status>PLANNED WORK</status>
     <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;08/20/2016&amp;nbsp; 3:09PM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  Following earlier FDNY activity at &lt;STRONG&gt;42 St-Times Square&lt;/STRONG&gt;, [1] train service has resumed with residual delays.
-                &lt;br/&gt;&lt;br/&gt;
-              
                     &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
                     &lt;br/&gt;
                   &lt;a class="plannedWorkDetailLink" onclick=ShowHide(130179);&gt;
@@ -107,7 +100,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>08/20/2016</Date>
-    <Time> 3:09PM</Time>
+    <Time> 3:22PM</Time>
   </line>
   <line>
     <name>456</name>
@@ -197,15 +190,8 @@
   </line>
   <line>
     <name>ACE</name>
-    <status>DELAYS</status>
+    <status>PLANNED WORK</status>
     <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;08/20/2016&amp;nbsp; 2:59PM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  Following an earlier passenger injury at &lt;STRONG&gt;42 St-Bryant Park&lt;/STRONG&gt;, [E] [F] train service has resumed with residual delays.
-                &lt;br/&gt;&lt;br/&gt;
-              
                     &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
                     &lt;br/&gt;
                   &lt;a class="plannedWorkDetailLink" onclick=ShowHide(130299);&gt;
@@ -304,7 +290,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>08/20/2016</Date>
-    <Time> 2:59PM</Time>
+    <Time> 3:22PM</Time>
   </line>
   <line>
     <name>BDFM</name>
@@ -316,13 +302,6 @@
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
                   &lt;P&gt;Due to track maintenace at &lt;STRONG&gt;Myrtle Av,&lt;/STRONG&gt; Broad St bound [J] trains and Essex St bound [M] trains are running with delays. &lt;/P&gt;
 &lt;P&gt;Allow additional travel time. &lt;/P&gt;
-                &lt;br/&gt;&lt;br/&gt;
-              
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;08/20/2016&amp;nbsp; 2:59PM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  Following an earlier passenger injury at &lt;STRONG&gt;42 St-Bryant Park&lt;/STRONG&gt;, [E] [F] train service has resumed with residual delays.
                 &lt;br/&gt;&lt;br/&gt;
               
                     &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
@@ -1298,8 +1277,15 @@
   </line>
   <line>
     <name>Verrazano-Narrows</name>
-    <status>DELAYS</status>
+    <status>SERVICE CHANGE</status>
     <text>
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;08/20/2016&amp;nbsp; 3:28PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  VNB - COLLISION: BROOKLYN BOUND BELT PARKWAY RAMP. ONE LANE BLOCKED. EXPECT DELAYS.
+                &lt;br/&gt;&lt;br/&gt;
+              
                     &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
                     &amp;nbsp;Posted:&amp;nbsp;08/20/2016&amp;nbsp; 3:23PM
@@ -1308,7 +1294,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>08/20/2016</Date>
-    <Time> 3:23PM</Time>
+    <Time> 3:28PM</Time>
   </line>
 </BT><LIRR>
   <line>
@@ -1419,17 +1405,10 @@
   </line>
   <line>
     <name>New Haven</name>
-    <status>DELAYS</status>
-    <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;08/20/2016&amp;nbsp; 2:11PM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  New Haven Line Customers should anticipate 5-10 minute delays due to planned track work in the vicinity of Stamford. Please listen for announcements at your station.
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>08/20/2016</Date>
-    <Time> 2:11PM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>New Canaan</name>
