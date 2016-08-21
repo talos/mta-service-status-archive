@@ -1182,10 +1182,19 @@
 </BT><LIRR>
   <line>
     <name>Babylon</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>DELAYS</status>
+    <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;08/21/2016&amp;nbsp; 5:48PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;DIV class=logbody&gt;
+&lt;DIV class=mainmsg&gt;The 5:48PM train from Freeport due Penn at 6:31PM is canceled due to equipment trouble prior to departure. Customers will be accommodated by the 5:56PM train from Freeport due Penn at 6:45PM, which will make local stops. &lt;/DIV&gt;
+&lt;DIV class=shortmsg&gt; &lt;/DIV&gt;&lt;/DIV&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>08/21/2016</Date>
+    <Time> 5:48PM</Time>
   </line>
   <line>
     <name>City Terminal Zone</name>
@@ -1217,17 +1226,10 @@
   </line>
   <line>
     <name>Montauk</name>
-    <status>DELAYS</status>
-    <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;08/21/2016&amp;nbsp; 5:13PM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  The 3:08PM train from Bridgehampton due Jamaica at 5:23PM is operating 30 minutes late due to a broken rail between Babylon and Bethpage.
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>08/21/2016</Date>
-    <Time> 5:13PM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>Oyster Bay</name>
