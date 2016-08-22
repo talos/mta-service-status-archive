@@ -1,8 +1,17 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>PLANNED WORK</status>
+    <status>SERVICE CHANGE</status>
     <text>
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;08/21/2016&amp;nbsp; 9:38PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;P&gt;Due to a station maintenance at &lt;STRONG&gt;174 St&lt;/STRONG&gt;, [2][5] trains are bypassing &lt;STRONG&gt;174 St&lt;/STRONG&gt; in both directions. &lt;/P&gt;
+&lt;P&gt;For service to/from &lt;STRONG&gt;174 St&lt;/STRONG&gt;, use Bx19 bus service serving &lt;STRONG&gt;Freeman St&lt;/STRONG&gt; station.  &lt;/P&gt;
+&lt;P&gt;Allow additional travel time. &lt;/P&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              
                     &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
                     &lt;br/&gt;
                   &lt;a class="plannedWorkDetailLink" onclick=ShowHide(130179);&gt;
@@ -100,12 +109,21 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>08/21/2016</Date>
-    <Time> 9:32PM</Time>
+    <Time> 9:38PM</Time>
   </line>
   <line>
     <name>456</name>
-    <status>PLANNED WORK</status>
+    <status>SERVICE CHANGE</status>
     <text>
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;08/21/2016&amp;nbsp; 9:38PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;P&gt;Due to a station maintenance at &lt;STRONG&gt;174 St&lt;/STRONG&gt;, [2][5] trains are bypassing &lt;STRONG&gt;174 St&lt;/STRONG&gt; in both directions. &lt;/P&gt;
+&lt;P&gt;For service to/from &lt;STRONG&gt;174 St&lt;/STRONG&gt;, use Bx19 bus service serving &lt;STRONG&gt;Freeman St&lt;/STRONG&gt; station.  &lt;/P&gt;
+&lt;P&gt;Allow additional travel time. &lt;/P&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              
                     &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
                     &lt;br/&gt;
                   &lt;a class="plannedWorkDetailLink" onclick=ShowHide(130185);&gt;
@@ -179,7 +197,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>08/21/2016</Date>
-    <Time> 9:32PM</Time>
+    <Time> 9:38PM</Time>
   </line>
   <line>
     <name>7</name>
