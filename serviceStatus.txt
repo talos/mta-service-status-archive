@@ -293,12 +293,11 @@
     <text>
                   &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                   &lt;span class="DateStyle"&gt;
-                  &amp;nbsp;Posted:&amp;nbsp;08/25/2016&amp;nbsp; 8:29AM
+                  &amp;nbsp;Posted:&amp;nbsp;08/25/2016&amp;nbsp; 9:34AM
                   &lt;/span&gt;
                   &lt;br/&gt;
                   &lt;br/&gt;
-                &lt;P&gt;&lt;STRONG&gt;M21&lt;/STRONG&gt; buses are running with delays in both directions, due to construction on Houston St. &lt;/P&gt;
-&lt;P&gt;Allow additional travel time.&lt;/P&gt;
+                Following an earlier incident on Houston St, &lt;STRONG&gt;M21&lt;/STRONG&gt; bus service has resumed with residual delays.
               &lt;br/&gt;
               &lt;br/&gt;
             
@@ -355,7 +354,7 @@
               &lt;br/&gt;
             </text>
     <Date>08/25/2016</Date>
-    <Time> 8:29AM</Time>
+    <Time> 9:34AM</Time>
   </line>
   <line>
     <name>Q1 - Q113</name>
@@ -734,10 +733,17 @@
   </line>
   <line>
     <name>New Haven</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>DELAYS</status>
+    <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;08/25/2016&amp;nbsp; 9:33AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  New Haven Line Service is currently experiencing delays of 5 to 10 minutes due to signal problems between Green's Farms and Westport. Please listen for announcements at your station.
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>08/25/2016</Date>
+    <Time> 9:33AM</Time>
   </line>
   <line>
     <name>New Canaan</name>
@@ -762,24 +768,10 @@
   </line>
   <line>
     <name>Pascack Valley</name>
-    <status>DELAYS</status>
-    <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;08/25/2016&amp;nbsp; 8:32AM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  &lt;SPAN style="FONT-SIZE: 12px; FONT-FAMILY: helvetica, arial, sans-serif; WHITE-SPACE: normal; TEXT-TRANSFORM: none; WORD-SPACING: 0px; FLOAT: none; FONT-WEIGHT: bold; COLOR: rgb(0,0,0); FONT-STYLE: normal; ORPHANS: 2; WIDOWS: 2; DISPLAY: inline !important; LETTER-SPACING: normal; LINE-HEIGHT: normal; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px"&gt;PVL train #1614 the 8:14am from Secaucus is up to 15 min. late, due to operational issues.&lt;/SPAN&gt;
-                &lt;br/&gt;&lt;br/&gt;
-              
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;08/25/2016&amp;nbsp; 8:17AM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  &lt;SPAN style="FONT-SIZE: 12px; FONT-FAMILY: helvetica, arial, sans-serif; WHITE-SPACE: normal; TEXT-TRANSFORM: none; WORD-SPACING: 0px; FLOAT: none; FONT-WEIGHT: bold; COLOR: rgb(0,0,0); FONT-STYLE: normal; ORPHANS: 2; WIDOWS: 2; DISPLAY: inline !important; LETTER-SPACING: normal; LINE-HEIGHT: normal; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px"&gt;PVL train #1612 the 7:10am from Spring Valley is Cancelled due to mechanical problem, customers to train #1614 the 7:23am from Spring Valley.&lt;/SPAN&gt;
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>08/25/2016</Date>
-    <Time> 8:32AM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>Port Jervis</name>
