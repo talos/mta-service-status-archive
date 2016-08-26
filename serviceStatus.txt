@@ -497,17 +497,10 @@
 </bus><BT>
   <line>
     <name>Bronx-Whitestone</name>
-    <status>SERVICE CHANGE</status>
-    <text>
-                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;08/26/2016&amp;nbsp; 7:43AM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  BRONX WHITESTONE BRIDGE DISABLED BUS BRONX BOUND CLEARED
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>08/26/2016</Date>
-    <Time> 7:43AM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>Cross Bay</name>
@@ -552,20 +545,6 @@
                     &lt;span class="DateStyle"&gt;
                     &amp;nbsp;Posted:&amp;nbsp;08/26/2016&amp;nbsp; 6:06AM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  RFK DISABLED TRUCK BRONX BOUND TOLL PLAZA TWO LANE BLOCKED EXPECT DELAYS
-                &lt;br/&gt;&lt;br/&gt;
-              
-                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;08/26/2016&amp;nbsp; 6:06AM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  BRONX WHITESTONE BRIDGE DISABLED BUS BRONX BOUND LEFT LANE BLOCKED EXPECT DELAYS
-                &lt;br/&gt;&lt;br/&gt;
-              
-                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;08/26/2016&amp;nbsp; 6:06AM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
                   QMT - HOV Lane Open 6 AM to 10 AM. Two-Way Operation in effect. Three (3) lanes Manhattan bound. One (1) lane Queens bound.
                 &lt;br/&gt;&lt;br/&gt;
               
@@ -579,8 +558,15 @@
   </line>
   <line>
     <name>Robert F. Kennedy</name>
-    <status>PLANNED WORK</status>
+    <status>DELAYS</status>
     <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;08/26/2016&amp;nbsp; 6:06AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  RFK DISABLED TRUCK BRONX BOUND TOLL PLAZA ONE LANE BLOCKED EXPECT DELAYS
+                &lt;br/&gt;&lt;br/&gt;
+              
                     &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
                     &lt;br/&gt;
                   RFK planned work Queens bound. One lane closed. Expect delays.
@@ -592,7 +578,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>08/26/2016</Date>
-    <Time> 7:07AM</Time>
+    <Time> 6:06AM</Time>
   </line>
   <line>
     <name>Throgs Neck</name>
