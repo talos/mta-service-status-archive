@@ -507,10 +507,17 @@
 </bus><BT>
   <line>
     <name>Bronx-Whitestone</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>SERVICE CHANGE</status>
+    <text>
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;08/26/2016&amp;nbsp; 7:43AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  BRONX WHITESTONE BRIDGE DISABLED BUS BRONX BOUND CLEARED
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>08/26/2016</Date>
+    <Time> 7:43AM</Time>
   </line>
   <line>
     <name>Cross Bay</name>
