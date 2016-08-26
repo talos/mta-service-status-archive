@@ -15,10 +15,18 @@
   </line>
   <line>
     <name>7</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>SERVICE CHANGE</status>
+    <text>
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;08/26/2016&amp;nbsp;10:15AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;P&gt;Due to a train with mechanical problems at &lt;STRONG&gt;Grand Central-42 St&lt;/STRONG&gt;, some 34 St bound [7] trains are terminating at &lt;STRONG&gt;Queensboro Plaza&lt;/STRONG&gt; or &lt;STRONG&gt;Hunters Point Av&lt;/STRONG&gt;. &lt;/P&gt;
+&lt;P&gt;Allow additional travel time.&lt;/P&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>08/26/2016</Date>
+    <Time>10:15AM</Time>
   </line>
   <line>
     <name>ACE</name>
@@ -434,8 +442,23 @@
   </line>
   <line>
     <name>Q1 - Q113</name>
-    <status>PLANNED WORK</status>
+    <status>SERVICE CHANGE</status>
     <text>
+                  &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                  &lt;span class="DateStyle"&gt;
+                  &amp;nbsp;Posted:&amp;nbsp;08/26/2016&amp;nbsp;10:14AM
+                  &lt;/span&gt;
+                  &lt;br/&gt;
+                  &lt;br/&gt;
+                &lt;P&gt;&lt;STRONG&gt;Q23&lt;/STRONG&gt; buses are detoured in both directions, due to water main repairs on Burns St at 69 Av. &lt;/P&gt;
+&lt;P&gt;Detour is as follows: &lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;Northbound to Ditmars Blvd&lt;/STRONG&gt;: Via Kessel St, right on Yellowstone Blvd and regular route. &lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;Southbound to Union Tpke&lt;/STRONG&gt;: Via Yellowstone Blvd, left on Juno St, right on 69 Av and regular route. &lt;/P&gt;
+&lt;P&gt;All corresponding stops will be made. &lt;/P&gt;
+&lt;P&gt;Allow additional travel time. &lt;/P&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
                   &lt;span class="TitlePlannedWork" &gt;Planned Detour&lt;/span&gt;
                   &lt;br/&gt;
                 &lt;a class="plannedWorkDetailLink" onclick=ShowHide(68484);&gt;
@@ -501,7 +524,7 @@
               &lt;br/&gt;
             </text>
     <Date>08/26/2016</Date>
-    <Time>10:12AM</Time>
+    <Time>10:14AM</Time>
   </line>
   <line>
     <name>QM1 - QM44</name>
