@@ -673,17 +673,10 @@
   </line>
   <line>
     <name>Verrazano-Narrows</name>
-    <status>SERVICE CHANGE</status>
-    <text>
-                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;08/26/2016&amp;nbsp; 4:26PM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  VNB: DISABLED VEHICLE; STATEN ISLAND-BOUND LOWER LEVEL; ONE LANE BLOCKED. EXPECT DELAYS.
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>08/26/2016</Date>
-    <Time> 4:26PM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
 </BT><LIRR>
   <line>
@@ -723,10 +716,17 @@
   </line>
   <line>
     <name>Montauk</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>DELAYS</status>
+    <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;08/26/2016&amp;nbsp; 4:36PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  The 1:47PM train from Hunterspoint Ave. due Montauk at 4:45PM is operating 21 minutes late due to a late-arriving westbound train in single-track territory.
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>08/26/2016</Date>
+    <Time> 4:36PM</Time>
   </line>
   <line>
     <name>Oyster Bay</name>
