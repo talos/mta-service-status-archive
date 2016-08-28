@@ -100,7 +100,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>08/28/2016</Date>
-    <Time> 8:52AM</Time>
+    <Time> 9:02AM</Time>
   </line>
   <line>
     <name>456</name>
@@ -179,7 +179,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>08/28/2016</Date>
-    <Time> 8:52AM</Time>
+    <Time> 9:02AM</Time>
   </line>
   <line>
     <name>7</name>
@@ -236,7 +236,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>08/28/2016</Date>
-    <Time> 8:52AM</Time>
+    <Time> 9:02AM</Time>
   </line>
   <line>
     <name>BDFM</name>
@@ -432,7 +432,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>08/28/2016</Date>
-    <Time> 8:52AM</Time>
+    <Time> 9:02AM</Time>
   </line>
   <line>
     <name>S</name>
@@ -458,7 +458,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>08/28/2016</Date>
-    <Time> 8:52AM</Time>
+    <Time> 9:02AM</Time>
   </line>
 </subway><bus>
   <line>
@@ -530,6 +530,18 @@
             
                   &lt;span class="TitlePlannedWork" &gt;Planned Detour&lt;/span&gt;
                   &lt;br/&gt;
+                &lt;a class="plannedWorkDetailLink" onclick=ShowHide(133485);&gt;
+&lt;b&gt;B67 and B69 &lt;/b&gt;-&lt;b&gt; No service on McDonald Av between Church Av and Cortelyou Rd
+&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 133485 class="plannedWorkDetail" &gt;&lt;/b&gt;9 AM to 8 PM, Sunday, Aug 28
+&lt;br&gt;
+&lt;br&gt;Due to a local event, buses operate between Sands St/Jay St and McDonald Av/Church Av in both directions.
+&lt;br&gt;&lt;b&gt;
+&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
+                  &lt;span class="TitlePlannedWork" &gt;Planned Detour&lt;/span&gt;
+                  &lt;br/&gt;
                 &lt;a class="plannedWorkDetailLink" onclick=ShowHide(133214);&gt;
 &lt;b&gt;B62&lt;/b&gt; - &lt;b&gt;Northbound buses rerouted from South 4 St to South 3 St
 &lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 133214 class="plannedWorkDetail" &gt;&lt;/b&gt;9 AM to 5 PM, every day, until Sep 24
@@ -566,6 +578,33 @@
 &lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 131811 class="plannedWorkDetail" &gt;&lt;/b&gt;Until further notice
 &lt;br&gt;
 &lt;br&gt;Due to construction, please follow directional signage to the nearby stop&lt;b&gt; on Jay St &lt;/b&gt;between Fulton St and Willoughby St.
+&lt;br&gt;&lt;b&gt;
+&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
+                  &lt;span class="TitlePlannedWork" &gt;Planned Detour&lt;/span&gt;
+                  &lt;br/&gt;
+                &lt;a class="plannedWorkDetailLink" onclick=ShowHide(133478);&gt;
+&lt;b&gt;B49 buses rerouted from Ocean Av between Farragut Rd and Avenue I 
+&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 133478 class="plannedWorkDetail" &gt;&lt;/b&gt;9 AM to 8 PM, Sunday, Aug 28
+&lt;br&gt;
+&lt;br&gt;Due to a local event, buses run via &lt;b&gt;Bedford Av &lt;/b&gt;making corresponding stops in both directions.
+&lt;br&gt;
+&lt;br&gt;&lt;b&gt;&lt;i&gt;&lt;a style="cursor:pointer; text-decoration:underline;" onclick=ShowHide(1334780);&gt;Show Reroute Details&lt;/a&gt;&lt;/i&gt;&lt;/b&gt;
+&lt;br&gt;&lt;div id="1334780"; style="display:none;"&gt;&lt;b&gt;Northbound
+&lt;br&gt;&lt;/b&gt;Via Ocean Av
+&lt;br&gt;Right on Avenue I
+&lt;br&gt;Left on Bedford Av
+&lt;br&gt;Left on Farragut Rd
+&lt;br&gt;Right on Ocean Av then regular route
+&lt;br&gt;
+&lt;br&gt;&lt;b&gt;Southbound
+&lt;br&gt;&lt;/b&gt;Via Ocean Av
+&lt;br&gt;Left on Farragut Rd
+&lt;br&gt;Right on Bedford Av
+&lt;br&gt;Right on Avenue I
+&lt;br&gt;Left on Ocean Av then regular route&lt;/div&gt;
 &lt;br&gt;&lt;b&gt;
 &lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
               &lt;br/&gt;
@@ -650,6 +689,23 @@
             
                   &lt;span class="TitlePlannedWork" &gt;Planned Detour&lt;/span&gt;
                   &lt;br/&gt;
+                &lt;a class="plannedWorkDetailLink" onclick=ShowHide(133464);&gt;
+&lt;b&gt;B15 &lt;/b&gt;- &lt;b&gt;Westbound buses rerouted from Lewis Av at Myrtle Av to Broadway
+&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 133464 class="plannedWorkDetail" &gt;&lt;/b&gt;9 AM to 5 PM, Sunday, Aug 28
+&lt;br&gt;
+&lt;br&gt;Due to a local event, buses run via &lt;b&gt;Broadway &lt;/b&gt;making corresponding stops.
+&lt;br&gt;
+&lt;br&gt;&lt;i&gt;Reroute Details
+&lt;br&gt;&lt;/i&gt;Via Lewis Av
+&lt;br&gt;Right on Myrtle Av
+&lt;br&gt;Left on Broadway then regular route
+&lt;br&gt;&lt;b&gt;
+&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
+                  &lt;span class="TitlePlannedWork" &gt;Planned Detour&lt;/span&gt;
+                  &lt;br/&gt;
                 &lt;a class="plannedWorkDetailLink" onclick=ShowHide(133451);&gt;
 &lt;b&gt;B1 buses rerouted from Brighton Beach Av between Corbin Pl and Coney Island Av
 &lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 133451 class="plannedWorkDetail" &gt;&lt;/b&gt;8 AM to 8 PM, Sunday, Aug 28
@@ -725,12 +781,29 @@
               &lt;br/&gt;
             </text>
     <Date>08/28/2016</Date>
-    <Time> 8:52AM</Time>
+    <Time> 9:02AM</Time>
   </line>
   <line>
     <name>BXM1 - BXM18</name>
     <status>PLANNED WORK</status>
     <text>
+                  &lt;span class="TitlePlannedWork" &gt;Planned Detour&lt;/span&gt;
+                  &lt;br/&gt;
+                &lt;a class="plannedWorkDetailLink" onclick=ShowHide(133443);&gt;
+&lt;b&gt;BxM6, BxM7, BxM8, BxM9 and BxM10&lt;/b&gt; - &lt;b&gt;Northbound buses rerouted from Madison Av at 27 St to 29 St
+&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 133443 class="plannedWorkDetail" &gt;&lt;/b&gt;9 AM to 12:30 PM  &amp;#149;  4 PM to 8 PM, Sunday, Aug 28
+&lt;br&gt;
+&lt;br&gt;Due to a local event, buses run via &lt;b&gt;Park Av South/Park Av &lt;/b&gt;making corresponding stops.   
+&lt;br&gt;
+&lt;br&gt;&lt;i&gt;Reroute Details
+&lt;br&gt;&lt;/i&gt;Via Park Av South/Park Av
+&lt;br&gt;Left on 29 St
+&lt;br&gt;Right on Madison Av then regular route
+&lt;br&gt;&lt;/font&gt;&lt;b&gt;
+&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
                   &lt;span class="TitlePlannedWork" &gt;Planned Detour&lt;/span&gt;
                   &lt;br/&gt;
                 &lt;a class="plannedWorkDetailLink" onclick=ShowHide(133109);&gt;
@@ -744,7 +817,7 @@
               &lt;br/&gt;
             </text>
     <Date>08/28/2016</Date>
-    <Time> 8:52AM</Time>
+    <Time> 9:02AM</Time>
   </line>
   <line>
     <name>M1 - M116</name>
@@ -801,9 +874,26 @@
 &lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
               &lt;br/&gt;
               &lt;br/&gt;
+            
+                  &lt;span class="TitlePlannedWork" &gt;Planned Detour&lt;/span&gt;
+                  &lt;br/&gt;
+                &lt;a class="plannedWorkDetailLink" onclick=ShowHide(133199);&gt;
+&lt;b&gt;M1, M2/M2&lt;/b&gt; LTD &lt;b&gt;and M3&lt;/b&gt; - &lt;b&gt;Northbound buses rerouted from Madison Av at 23 St to 39 St 
+&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 133199 class="plannedWorkDetail" &gt;&lt;/b&gt;9 AM to 8 PM, Sunday, Aug 28
+&lt;br&gt;
+&lt;br&gt;Due to a local event, buses run via &lt;b&gt;Park Av South/Park Av &lt;/b&gt;making corresponding stops.
+&lt;br&gt;
+&lt;br&gt;&lt;i&gt;Reroute Details
+&lt;br&gt;&lt;/i&gt;Via Park Av South (Park Av)
+&lt;br&gt;Left on 39 St
+&lt;br&gt;Right on Madison Av then regular route
+&lt;br&gt;&lt;/font&gt;&lt;b&gt;
+&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
             </text>
     <Date>08/28/2016</Date>
-    <Time> 8:52AM</Time>
+    <Time> 9:02AM</Time>
   </line>
   <line>
     <name>Q1 - Q113</name>
@@ -874,7 +964,7 @@
               &lt;br/&gt;
             </text>
     <Date>08/28/2016</Date>
-    <Time> 8:52AM</Time>
+    <Time> 9:02AM</Time>
   </line>
   <line>
     <name>QM1 - QM44</name>
@@ -913,7 +1003,7 @@
               &lt;br/&gt;
             </text>
     <Date>08/28/2016</Date>
-    <Time> 8:52AM</Time>
+    <Time> 9:02AM</Time>
   </line>
   <line>
     <name>x1 - x68</name>
