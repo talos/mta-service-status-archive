@@ -100,7 +100,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>08/28/2016</Date>
-    <Time>12:52PM</Time>
+    <Time> 1:02PM</Time>
   </line>
   <line>
     <name>456</name>
@@ -179,7 +179,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>08/28/2016</Date>
-    <Time>12:52PM</Time>
+    <Time> 1:02PM</Time>
   </line>
   <line>
     <name>7</name>
@@ -243,7 +243,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>08/28/2016</Date>
-    <Time>12:52PM</Time>
+    <Time> 1:02PM</Time>
   </line>
   <line>
     <name>BDFM</name>
@@ -441,7 +441,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>08/28/2016</Date>
-    <Time>12:52PM</Time>
+    <Time> 1:02PM</Time>
   </line>
   <line>
     <name>S</name>
@@ -467,7 +467,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>08/28/2016</Date>
-    <Time>12:52PM</Time>
+    <Time> 1:02PM</Time>
   </line>
 </subway><bus>
   <line>
@@ -827,7 +827,7 @@
               &lt;br/&gt;
             </text>
     <Date>08/28/2016</Date>
-    <Time>12:52PM</Time>
+    <Time> 1:02PM</Time>
   </line>
   <line>
     <name>BXM1 - BXM18</name>
@@ -863,7 +863,7 @@
               &lt;br/&gt;
             </text>
     <Date>08/28/2016</Date>
-    <Time>12:52PM</Time>
+    <Time> 1:02PM</Time>
   </line>
   <line>
     <name>M1 - M116</name>
@@ -1107,14 +1107,33 @@
               &lt;br/&gt;
             </text>
     <Date>08/28/2016</Date>
-    <Time>12:52PM</Time>
+    <Time> 1:02PM</Time>
   </line>
   <line>
     <name>x1 - x68</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>PLANNED WORK</status>
+    <text>
+                  &lt;span class="TitlePlannedWork" &gt;Planned Detour&lt;/span&gt;
+                  &lt;br/&gt;
+                &lt;a class="plannedWorkDetailLink" onclick=ShowHide(133363);&gt;
+&lt;b&gt;X10, X17C and X27 &lt;/b&gt;-&lt;b&gt; Northbound buses rerouted from Madison Av at 23 St to 42 St
+&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 133363 class="plannedWorkDetail" &gt;&lt;/b&gt;9 AM to 8 PM, Sunday, Aug 28
+&lt;br&gt;
+&lt;br&gt;Due to a local event, buses run via&lt;b&gt; 3 Av &lt;/b&gt;making corresponding stops.
+&lt;br&gt;
+&lt;br&gt;&lt;b&gt;&lt;i&gt;&lt;a style="cursor:pointer; text-decoration:underline;" onclick=ShowHide(1333630);&gt;Show Reroute Details&lt;/a&gt;&lt;/i&gt;&lt;/b&gt;
+&lt;br&gt;&lt;div id="1333630"; style="display:none;"&gt;Via 23 St
+&lt;br&gt;Left on 3 Av
+&lt;br&gt;Left on 42
+&lt;br&gt;Right on Madison Av then regular route&lt;/div&gt;
+&lt;br&gt;&lt;b&gt;
+&lt;br&gt;
+&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            </text>
+    <Date>08/28/2016</Date>
+    <Time> 1:02PM</Time>
   </line>
 </bus><BT>
   <line>
