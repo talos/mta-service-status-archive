@@ -1,10 +1,18 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>DELAYS</status>
+    <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;08/29/2016&amp;nbsp; 6:51AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;P&gt;Due to a sick passenger at &lt;STRONG&gt;157 St, &lt;/STRONG&gt;[1] trains are running with delays in both directions. &lt;/P&gt;
+&lt;P&gt;Allow additional travel time.&lt;/P&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>08/29/2016</Date>
+    <Time> 6:51AM</Time>
   </line>
   <line>
     <name>456</name>
@@ -223,7 +231,7 @@
               &lt;br/&gt;
             </text>
     <Date>08/29/2016</Date>
-    <Time> 6:42AM</Time>
+    <Time> 6:52AM</Time>
   </line>
   <line>
     <name>BXM1 - BXM18</name>
@@ -242,7 +250,7 @@
               &lt;br/&gt;
             </text>
     <Date>08/29/2016</Date>
-    <Time> 6:42AM</Time>
+    <Time> 6:52AM</Time>
   </line>
   <line>
     <name>M1 - M116</name>
@@ -301,7 +309,7 @@
               &lt;br/&gt;
             </text>
     <Date>08/29/2016</Date>
-    <Time> 6:42AM</Time>
+    <Time> 6:52AM</Time>
   </line>
   <line>
     <name>Q1 - Q113</name>
@@ -372,7 +380,7 @@
               &lt;br/&gt;
             </text>
     <Date>08/29/2016</Date>
-    <Time> 6:42AM</Time>
+    <Time> 6:52AM</Time>
   </line>
   <line>
     <name>QM1 - QM44</name>
@@ -411,7 +419,7 @@
               &lt;br/&gt;
             </text>
     <Date>08/29/2016</Date>
-    <Time> 6:42AM</Time>
+    <Time> 6:52AM</Time>
   </line>
   <line>
     <name>x1 - x68</name>
