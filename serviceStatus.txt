@@ -8,10 +8,34 @@
   </line>
   <line>
     <name>456</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>PLANNED WORK</status>
+    <text>
+                    &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
+                    &lt;br/&gt;
+                  &lt;a class="plannedWorkDetailLink" onclick=ShowHide(131300);&gt;
+&lt;b&gt;[6D] Brooklyn Bridge-bound trains run local from Parkchester to 3 Av-138 St
+&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 131300 class="plannedWorkDetail" &gt;&lt;/b&gt;Days, 10:30 AM to 1 PM, Mon to Fri, Aug 29 - Sep 2
+&lt;br&gt;
+&lt;br&gt;&amp;bull; Please allow additional travel time.
+&lt;br&gt;&lt;b&gt;
+&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              
+                    &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
+                    &lt;br/&gt;
+                  &lt;a class="plannedWorkDetailLink" onclick=ShowHide(127720);&gt;
+&lt;b&gt;[6] The last stop for alternate trains headed toward Pelham Bay Park is 3 Av-138 St
+&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 127720 class="plannedWorkDetail" &gt;&lt;/b&gt;Days, 10:30 AM to 3 PM, Mon to Fri, until Sep 23 (&lt;i&gt;except Sep 5&lt;/i&gt;) 
+&lt;br&gt;
+&lt;br&gt;&amp;bull; &lt;/font&gt;Please allow additional travel time in the Bronx.                             &lt;b&gt; &lt;/b&gt;&lt;a href=http://apps.mta.info/traintime/ target=_blank&gt;&lt;img height=26px src=http://apps.mta.info/traintime/desktop2Images/logoSm.png&gt;&lt;/a&gt;
+&lt;br&gt;      
+&lt;br&gt;&lt;/font&gt;&lt;table class=plannedworkTableStyle  border=1 cellspacing=1 cellpadding=5 rules=none frame=box&gt;&lt;td&gt;&amp;nbsp;&amp;nbsp;[ad]&amp;nbsp;&amp;nbsp;&lt;td&gt;&lt;font size=1&gt;This service change affects one or more ADA accessible stations. Please call 511 for help with planning&lt;br&gt;your trip. If you are deaf or hard of hearing, use your preferred relay service provider or the free 711 relay.&amp;nbsp;&amp;nbsp;&lt;/font&gt;&lt;/table&gt;
+&lt;br&gt;&lt;b&gt;
+&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>08/30/2016</Date>
+    <Time>10:32AM</Time>
   </line>
   <line>
     <name>7</name>
@@ -102,7 +126,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>08/30/2016</Date>
-    <Time>10:27AM</Time>
+    <Time>10:32AM</Time>
   </line>
   <line>
     <name>S</name>
@@ -127,7 +151,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>08/30/2016</Date>
-    <Time>10:27AM</Time>
+    <Time>10:32AM</Time>
   </line>
 </subway><bus>
   <line>
@@ -416,8 +440,22 @@
   </line>
   <line>
     <name>Q1 - Q113</name>
-    <status>DELAYS</status>
+    <status>SERVICE CHANGE</status>
     <text>
+                  &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                  &lt;span class="DateStyle"&gt;
+                  &amp;nbsp;Posted:&amp;nbsp;08/30/2016&amp;nbsp;10:32AM
+                  &lt;/span&gt;
+                  &lt;br/&gt;
+                  &lt;br/&gt;
+                &lt;P&gt;&lt;STRONG&gt;Q39 &lt;/STRONG&gt;buses are detoured, due to construction on 48 Av between 34 St and 35 St. &lt;/P&gt;
+&lt;P&gt;Detour is as follows:&lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;To Queens Plaza&lt;/STRONG&gt;: Via 48 Av, right on 35 St, left on 47 Av, right on Van Dam St and regular route.&lt;/P&gt;
+&lt;P&gt;Corresponding stops will be made along detour route.&lt;/P&gt;
+&lt;P&gt;Allow additional travel time.&lt;/P&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
                   &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                   &lt;span class="DateStyle"&gt;
                   &amp;nbsp;Posted:&amp;nbsp;08/30/2016&amp;nbsp;10:09AM
@@ -532,7 +570,7 @@
               &lt;br/&gt;
             </text>
     <Date>08/30/2016</Date>
-    <Time>10:09AM</Time>
+    <Time>10:32AM</Time>
   </line>
   <line>
     <name>QM1 - QM44</name>
