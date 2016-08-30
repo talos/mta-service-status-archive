@@ -1,75 +1,24 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>PLANNED WORK</status>
-    <text>
-                    &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
-                    &lt;br/&gt;
-                  &lt;a class="plannedWorkDetailLink" onclick=ShowHide(131428);&gt;
-&lt;b&gt;[2] No trains between 149 St-Grand Concourse and 96 St&lt;br clear=left&gt; [3] No trains running
-&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 131428 class="plannedWorkDetail" &gt;[SB] Free shuttle buses provide alternate service
-&lt;br&gt;&lt;/b&gt;Late Nights, 11:30 PM to 5 AM, Mon to Fri, until Sep 23 
-&lt;br&gt;                       (&lt;i&gt;except 11:30 PM Mon to 5 AM Tue, Sep 5 - 6&lt;/i&gt;)
-&lt;br&gt;
-&lt;br&gt;&lt;b&gt;[2] service operates in two sections:
-&lt;br&gt;&lt;/b&gt;  1. Between &lt;b&gt;241 St&lt;/b&gt; and &lt;b&gt;149 St-Grand Concourse
-&lt;br&gt;&lt;/b&gt;  2. Between &lt;b&gt;96 St&lt;/b&gt; and &lt;b&gt;Flatbush Av
-&lt;br&gt;
-&lt;br&gt;[4]&lt;/b&gt; trains make all &lt;b&gt;[3] &lt;/b&gt;stops between Nevins St and New Lots Av&lt;b&gt;.
-&lt;br&gt;&lt;/b&gt;      
-&lt;br&gt;&lt;table class=plannedworkTableStyle  width=80%&gt;&lt;tr&gt;&lt;td&gt;&lt;/font&gt;&lt;font size=3&gt;&lt;b&gt;Travel Alternatives&lt;/b&gt;&lt;/font&gt;&lt;td align=right&gt;[TP]&lt;/table&gt; 
-&lt;br&gt;[SB]&lt;/font&gt; Buses operate in two sections:
-&lt;br&gt;  1.&lt;i&gt; Bronx-Manhattan &lt;/i&gt;between &lt;b&gt;149 St-Grand Concourse [2] [4]&lt;/b&gt; and &lt;b&gt;96 St [1] [2]&lt;/b&gt;, 
-&lt;br&gt;      stopping at 145, 135, 125, 116, and 110 Sts.
-&lt;br&gt;  2.&lt;i&gt; Manhattan &lt;/i&gt;between &lt;b&gt;148 St &lt;/b&gt;and &lt;b&gt;96 St [1] [2]&lt;/b&gt;,&lt;b&gt; &lt;/b&gt;stopping at 145, 135, 125, 116, and 110 Sts.
-&lt;br&gt;
-&lt;br&gt;&amp;#149; Transfer between &lt;b&gt;[2]&lt;/b&gt; trains and [SB] buses at 149 St-Grand Concourse &lt;i&gt;and/or&lt;/i&gt; 96 St.
-&lt;br&gt;&amp;#149; Transfer between &lt;b&gt;[4] &lt;/b&gt;trains and [SB] buses at 149 St-Grand Concourse.
-&lt;br&gt;&amp;#149; Transfer between &lt;b&gt;[2] &lt;/b&gt;and&lt;b&gt; [4] &lt;/b&gt;trains at 149 St-Grand Concourse &lt;i&gt;and/or &lt;/i&gt;Franklin Av.
-&lt;br&gt;
-&lt;br&gt;&lt;font size=3&gt;&lt;b&gt;&lt;a style="cursor:pointer; text-decoration:underline;" onclick=ShowHide(1314280);&gt;Show Shuttle Bus Stops&lt;/a&gt;&lt;/b&gt;&lt;/font&gt;&lt;div id="1314280"; style="display:none;"&gt;&lt;table class=plannedworkTableStyle  border=1 cellspacing=1 cellpadding=3 rules=rows frame=hsides width=80%&gt;&lt;tr bgcolor=#FAF8CC&gt;&lt;td&gt;&lt;b&gt;Station&lt;td align=justify&gt;&lt;b&gt;Bronx-Manhattan Shuttle Bus Stop&lt;tr&gt;&lt;td&gt;149 St-Grand Concourse [2] [4]&lt;td&gt;Grand Concourse at 149 St&lt;tr&gt;&lt;td&gt;145 St&lt;td&gt;Lenox Av at 145 St&lt;tr&gt;&lt;td&gt;135 St&lt;td&gt;Lenox Av at 135 St&lt;tr&gt;&lt;td&gt;125 St&lt;td&gt;Lenox Av at 125 St&lt;tr&gt;&lt;td&gt;116 St&lt;td&gt;Lenox Av at 116 St&lt;tr&gt;&lt;td&gt;110 St&lt;td&gt;Lenox Av at 111 St&lt;tr&gt;&lt;td&gt;96 St  [ad] [1] [2]&lt;td&gt;Broadway at 95 St&lt;/table&gt;
-&lt;br&gt;&lt;table class=plannedworkTableStyle  border=1 cellspacing=1 cellpadding=3 rules=rows frame=hsides width=80%&gt;&lt;tr bgcolor=#FAF8CC&gt;&lt;td&gt;&lt;b&gt;Station&lt;td align=left&gt;&lt;b&gt;Manhattan Shuttle Bus Stop&lt;tr&gt;&lt;td&gt;148 St&lt;td&gt;Adam Clayton Powell Blvd at 149 St&lt;tr&gt;&lt;td&gt;145 St&lt;td&gt;Lenox Av at 145 St&lt;tr&gt;&lt;td&gt;135 St&lt;td&gt;Lenox Av at 135 St&lt;tr&gt;&lt;td&gt;125 St&lt;td&gt;Lenox Av at 125 St&lt;tr&gt;&lt;td&gt;116 St&lt;td&gt;Lenox Av at 116 St&lt;tr&gt;&lt;td&gt;110 St&lt;td&gt;Lenox Av at 111 St&lt;tr&gt;&lt;td&gt;96 St  [ad] [1] [2]&lt;td&gt;Broadway at 94 St&lt;/table&gt;&lt;/div&gt;  
-&lt;br&gt;          
-&lt;br&gt;&lt;table class=plannedworkTableStyle  border=1 cellspacing=1 cellpadding=5 rules=none frame=box&gt;&lt;td&gt;&amp;nbsp;&amp;nbsp;[ad]&amp;nbsp;&amp;nbsp;&lt;td&gt;&lt;font size=1&gt;This service change affects one or more ADA accessible stations. Please call 511 for help with planning&lt;br&gt;your trip. If you are deaf or hard of hearing, use your preferred relay service provider or the free 711 relay.&amp;nbsp;&amp;nbsp;&lt;/font&gt;&lt;/table&gt;
-&lt;br&gt;&lt;b&gt;
-&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>08/29/2016</Date>
-    <Time>11:32PM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>456</name>
-    <status>PLANNED WORK</status>
-    <text>
-                    &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
-                    &lt;br/&gt;
-                  &lt;a class="plannedWorkDetailLink" onclick=ShowHide(131240);&gt;
-&lt;b&gt;[4] Trains run local in both directions between Grand Central-42 St and Brooklyn Bridge
-&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 131240 class="plannedWorkDetail" &gt;&lt;/b&gt;Late Nights, beginning 11 PM, Mon to Thu, Aug 29 - Sep 1
-&lt;br&gt;
-&lt;br&gt;&amp;bull; Please allow additional travel time.
-&lt;br&gt;&lt;b&gt;
-&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>08/29/2016</Date>
-    <Time>11:32PM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>7</name>
-    <status>DELAYS</status>
-    <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;08/29/2016&amp;nbsp;10:00PM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  &lt;P&gt;Due to signal problems at &lt;STRONG&gt;5 Av&lt;/STRONG&gt;, Main St bound [7] trains are running with delays.&lt;/P&gt;
-&lt;P&gt;Allow additional travel time.&lt;/P&gt;
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>08/29/2016</Date>
-    <Time>10:00PM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>ACE</name>
@@ -231,8 +180,8 @@
               &lt;br/&gt;
               &lt;br/&gt;
             </text>
-    <Date>08/29/2016</Date>
-    <Time>11:32PM</Time>
+    <Date>08/30/2016</Date>
+    <Time> 6:27AM</Time>
   </line>
   <line>
     <name>B100 - B103</name>
@@ -250,19 +199,8 @@
   </line>
   <line>
     <name>BX1 - BX55</name>
-    <status>DELAYS</status>
+    <status>PLANNED WORK</status>
     <text>
-                  &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                  &lt;span class="DateStyle"&gt;
-                  &amp;nbsp;Posted:&amp;nbsp;08/29/2016&amp;nbsp;10:07PM
-                  &lt;/span&gt;
-                  &lt;br/&gt;
-                  &lt;br/&gt;
-                &lt;P&gt;&lt;STRONG&gt;Bx21, Bx31&lt;/STRONG&gt; and &lt;STRONG&gt;BxM10 &lt;/STRONG&gt;buses are running with delays in both directions, due to construction on Morris Park Av. &lt;/P&gt;
-&lt;P&gt;Allow additional travel time.&lt;/P&gt;
-              &lt;br/&gt;
-              &lt;br/&gt;
-            
                   &lt;span class="TitlePlannedWork" &gt;Planned Detour&lt;/span&gt;
                   &lt;br/&gt;
                 &lt;a class="plannedWorkDetailLink" onclick=ShowHide(133101);&gt;
@@ -279,8 +217,8 @@
               &lt;br/&gt;
               &lt;br/&gt;
             </text>
-    <Date>08/29/2016</Date>
-    <Time>10:07PM</Time>
+    <Date>08/30/2016</Date>
+    <Time> 6:27AM</Time>
   </line>
   <line>
     <name>BXM1 - BXM18</name>
@@ -288,24 +226,13 @@
     <text>
                   &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
                   &lt;span class="DateStyle"&gt;
-                  &amp;nbsp;Posted:&amp;nbsp;08/29/2016&amp;nbsp;10:12PM
+                  &amp;nbsp;Posted:&amp;nbsp;08/30/2016&amp;nbsp; 4:01AM
                   &lt;/span&gt;
                   &lt;br/&gt;
                   &lt;br/&gt;
                 &lt;P&gt;&lt;STRONG&gt;BxM1&lt;/STRONG&gt;,&lt;STRONG&gt; BxM2&lt;/STRONG&gt;,&lt;STRONG&gt; BxM3&lt;/STRONG&gt;,&lt;STRONG&gt; BxM4&lt;/STRONG&gt;,&lt;STRONG&gt; BxM6&lt;/STRONG&gt;,&lt;STRONG&gt; BxM7&lt;/STRONG&gt;,&lt;STRONG&gt; BxM8&lt;/STRONG&gt;,&lt;STRONG&gt; BxM9&lt;/STRONG&gt;,&lt;STRONG&gt; BxM10&lt;/STRONG&gt; and &lt;STRONG&gt;BxM11&lt;/STRONG&gt; are detoured, due to milling on 3 Av. &lt;/P&gt;
 &lt;P&gt;Detour is as follows:&lt;/P&gt;
 &lt;P&gt;&lt;STRONG&gt;Northbound&lt;/STRONG&gt;: Via 3 Av, right on 72 St, left on 1 Av, left on 86 St, right on 3 Av and regular route.&lt;/P&gt;
-&lt;P&gt;Allow additional travel time.&lt;/P&gt;
-              &lt;br/&gt;
-              &lt;br/&gt;
-            
-                  &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                  &lt;span class="DateStyle"&gt;
-                  &amp;nbsp;Posted:&amp;nbsp;08/29/2016&amp;nbsp;10:07PM
-                  &lt;/span&gt;
-                  &lt;br/&gt;
-                  &lt;br/&gt;
-                &lt;P&gt;&lt;STRONG&gt;Bx21, Bx31&lt;/STRONG&gt; and &lt;STRONG&gt;BxM10 &lt;/STRONG&gt;buses are running with delays in both directions, due to construction on Morris Park Av. &lt;/P&gt;
 &lt;P&gt;Allow additional travel time.&lt;/P&gt;
               &lt;br/&gt;
               &lt;br/&gt;
@@ -322,8 +249,8 @@
               &lt;br/&gt;
               &lt;br/&gt;
             </text>
-    <Date>08/29/2016</Date>
-    <Time>10:12PM</Time>
+    <Date>08/30/2016</Date>
+    <Time> 4:01AM</Time>
   </line>
   <line>
     <name>M1 - M116</name>
@@ -331,7 +258,7 @@
     <text>
                   &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
                   &lt;span class="DateStyle"&gt;
-                  &amp;nbsp;Posted:&amp;nbsp;08/29/2016&amp;nbsp;10:13PM
+                  &amp;nbsp;Posted:&amp;nbsp;08/30/2016&amp;nbsp; 4:01AM
                   &lt;/span&gt;
                   &lt;br/&gt;
                   &lt;br/&gt;
@@ -346,7 +273,7 @@
             
                   &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
                   &lt;span class="DateStyle"&gt;
-                  &amp;nbsp;Posted:&amp;nbsp;08/29/2016&amp;nbsp;10:09PM
+                  &amp;nbsp;Posted:&amp;nbsp;08/30/2016&amp;nbsp; 4:00AM
                   &lt;/span&gt;
                   &lt;br/&gt;
                   &lt;br/&gt;
@@ -410,8 +337,8 @@
               &lt;br/&gt;
               &lt;br/&gt;
             </text>
-    <Date>08/29/2016</Date>
-    <Time>10:13PM</Time>
+    <Date>08/30/2016</Date>
+    <Time> 4:01AM</Time>
   </line>
   <line>
     <name>Q1 - Q113</name>
@@ -481,8 +408,8 @@
               &lt;br/&gt;
               &lt;br/&gt;
             </text>
-    <Date>08/29/2016</Date>
-    <Time>11:32PM</Time>
+    <Date>08/30/2016</Date>
+    <Time> 6:27AM</Time>
   </line>
   <line>
     <name>QM1 - QM44</name>
@@ -497,22 +424,7 @@
     <text>
                   &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
                   &lt;span class="DateStyle"&gt;
-                  &amp;nbsp;Posted:&amp;nbsp;08/29/2016&amp;nbsp;10:10PM
-                  &lt;/span&gt;
-                  &lt;br/&gt;
-                  &lt;br/&gt;
-                &lt;P&gt;&lt;STRONG&gt;S54&lt;/STRONG&gt; buses are detoured in both directions, due to paving on Manor Rd between Westwood Av and Rockland Av. &lt;/P&gt;
-&lt;P&gt;Detour is as follows:&lt;/P&gt;
-&lt;P&gt;&lt;STRONG&gt;S54 Hylan Blvd Bound&lt;/STRONG&gt;: Via Manor Rd, right on Westwood Av, left on Mountainview Av, left on Brielle Av and regular route.&lt;/P&gt;
-&lt;P&gt;&lt;STRONG&gt;S54 Richmond Terrace Bound&lt;/STRONG&gt;: Via Brielle Av, left on Mountainview Av, left on Manor Rd and regular route.&lt;/P&gt;
-&lt;P&gt;Corresponding stops will be made along detour route.&lt;/P&gt;
-&lt;P&gt;Allow additional travel time.&lt;/P&gt;
-              &lt;br/&gt;
-              &lt;br/&gt;
-            
-                  &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
-                  &lt;span class="DateStyle"&gt;
-                  &amp;nbsp;Posted:&amp;nbsp;08/29/2016&amp;nbsp;10:04PM
+                  &amp;nbsp;Posted:&amp;nbsp;08/30/2016&amp;nbsp; 4:00AM
                   &lt;/span&gt;
                   &lt;br/&gt;
                   &lt;br/&gt;
@@ -549,8 +461,8 @@
               &lt;br/&gt;
               &lt;br/&gt;
             </text>
-    <Date>08/29/2016</Date>
-    <Time>10:10PM</Time>
+    <Date>08/30/2016</Date>
+    <Time> 4:00AM</Time>
   </line>
   <line>
     <name>x1 - x68</name>
@@ -583,15 +495,17 @@
   </line>
   <line>
     <name>Hugh L. Carey</name>
-    <status>PLANNED WORK</status>
+    <status>SERVICE CHANGE</status>
     <text>
-                    &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
-                    &lt;br/&gt;
-                  HLC: Planned work; Brooklyn bound tube closed. 2-way operation in the Manhattan-bound tube. Motorists are advised to expect delays.
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;08/30/2016&amp;nbsp; 5:50AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  HLC - HOV Lane Open 6 AM to 10 AM. Two-Way Operations in effect. Three (3) lanes Manhattan-bound. One (1) lane Brooklyn-bound.
                 &lt;br/&gt;&lt;br/&gt;
               </text>
-    <Date>08/29/2016</Date>
-    <Time> 7:52PM</Time>
+    <Date>08/30/2016</Date>
+    <Time> 5:50AM</Time>
   </line>
   <line>
     <name>Marine Parkway</name>
@@ -602,15 +516,22 @@
   </line>
   <line>
     <name>Queens Midtown</name>
-    <status>PLANNED WORK</status>
+    <status>SERVICE CHANGE</status>
     <text>
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;08/30/2016&amp;nbsp; 5:52AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  QMT - HOV Lane Open 6 AM to 10 AM. Two-Way Operations in effect. Three (3) lanes Manhattan-bound. One (1) lane Queens-bound.
+                &lt;br/&gt;&lt;br/&gt;
+              
                     &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
                     &lt;br/&gt;
                   QMT- MANHATTAN PLAZA WORK REQUIRES CLOSURE OF "CROSSTOWN" LANES FOR 2 MONTHS. CUSTOMERS SEEKING A CROSSTOWN MANHATTAN ROUTE USE THE UPTOWN LANES; EXPECT DELAYS.
                 &lt;br/&gt;&lt;br/&gt;
               </text>
-    <Date>07/18/2016</Date>
-    <Time>10:42AM</Time>
+    <Date>08/30/2016</Date>
+    <Time> 5:52AM</Time>
   </line>
   <line>
     <name>Robert F. Kennedy</name>
@@ -618,16 +539,11 @@
     <text>
                     &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
                     &lt;br/&gt;
-                  RFK: PLANNED WORK QUEENS BOUND ON THE BRONX SPAN TWO ROADWAYS CLOSED. EXPECT DELAYS.
-                &lt;br/&gt;&lt;br/&gt;
-              
-                    &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
-                    &lt;br/&gt;
                   &lt;P  style="MARGIN: 0in 0in 0pt"&gt;&lt;SPAN style="COLOR: #1f497d"&gt;&lt;FONT size=3 face=Calibri&gt;Starting Monday, August 15, 2016 and through early 2018, one lane will be closed on the Queens-to-Manhattan ramp at the Robert F. Kennedy Bridge for roadway rehabilitation. In addition, overnight on Thursday, August 18 and Friday, August 19, there will be a series of intermittent FULL ramp closures, lasting 15-20 minutes each.&lt;/FONT&gt;&lt;/SPAN&gt;&lt;/P&gt;
                 &lt;br/&gt;&lt;br/&gt;
               </text>
-    <Date>08/29/2016</Date>
-    <Time>11:16PM</Time>
+    <Date>08/15/2016</Date>
+    <Time> 3:56PM</Time>
   </line>
   <line>
     <name>Throgs Neck</name>
@@ -643,20 +559,10 @@
   </line>
   <line>
     <name>Verrazano-Narrows</name>
-    <status>PLANNED WORK</status>
-    <text>
-                    &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
-                    &lt;br/&gt;
-                  VNB: PLANNED WORK UPPER LEVEL BROOKLYN BOUND FULL CLOSURE. EXPECT DELAYS.
-                &lt;br/&gt;&lt;br/&gt;
-              
-                    &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
-                    &lt;br/&gt;
-                  VNB: Planned work; Brooklyn bound Lower Level one lane closed. Motorists are advised to expect delays.
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>08/29/2016</Date>
-    <Time>10:17PM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
 </BT><LIRR>
   <line>
@@ -724,18 +630,10 @@
   </line>
   <line>
     <name>Ronkonkoma</name>
-    <status>DELAYS</status>
-    <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;08/29/2016&amp;nbsp;11:32PM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  &lt;P&gt;The 11:08PM train from Ronkonkoma due Penn at 12:35AM continues to be held prior to departure to accommodate a late-arriving connection currently operating 38 minutes late. &lt;/P&gt;
-&lt;P&gt;The 9:39PM train from Greenport due Ronkonkoma at 11:02PM is operating 38 minutes late due to earlier police activity near Southhold Station.&lt;/P&gt;
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>08/29/2016</Date>
-    <Time>11:32PM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>West Hempstead</name>
