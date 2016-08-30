@@ -5,17 +5,6 @@
     <text>
                     &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
                     &lt;br/&gt;
-                  &lt;a class="plannedWorkDetailLink" onclick=ShowHide(131444);&gt;
-&lt;b&gt;[2] Trains run local in both directions between 96 St and Chambers St
-&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 131444 class="plannedWorkDetail" &gt;&lt;/b&gt;Late Nights, beginning at 12:01 AM, Tue to Fri, until Sep 23 (&lt;i&gt;except Sep 6&lt;/i&gt;)
-&lt;br&gt;
-&lt;br&gt;&amp;bull; Please allow additional travel time.
-&lt;br&gt;&lt;b&gt;
-&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
-                &lt;br/&gt;&lt;br/&gt;
-              
-                    &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
-                    &lt;br/&gt;
                   &lt;a class="plannedWorkDetailLink" onclick=ShowHide(131428);&gt;
 &lt;b&gt;[2] No trains between 149 St-Grand Concourse and 96 St&lt;br clear=left&gt; [3] No trains running
 &lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 131428 class="plannedWorkDetail" &gt;[SB] Free shuttle buses provide alternate service
@@ -47,7 +36,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>08/30/2016</Date>
-    <Time>12:47AM</Time>
+    <Time>12:52AM</Time>
   </line>
   <line>
     <name>456</name>
@@ -65,7 +54,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>08/30/2016</Date>
-    <Time>12:47AM</Time>
+    <Time>12:52AM</Time>
   </line>
   <line>
     <name>7</name>
@@ -120,7 +109,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>08/30/2016</Date>
-    <Time>12:47AM</Time>
+    <Time>12:52AM</Time>
   </line>
   <line>
     <name>BDFM</name>
@@ -152,7 +141,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>08/30/2016</Date>
-    <Time>12:47AM</Time>
+    <Time>12:52AM</Time>
   </line>
   <line>
     <name>G</name>
@@ -213,7 +202,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>08/30/2016</Date>
-    <Time>12:47AM</Time>
+    <Time>12:52AM</Time>
   </line>
   <line>
     <name>S</name>
@@ -229,7 +218,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>08/30/2016</Date>
-    <Time>12:47AM</Time>
+    <Time>12:52AM</Time>
   </line>
   <line>
     <name>SIR</name>
@@ -331,7 +320,7 @@
               &lt;br/&gt;
             </text>
     <Date>08/30/2016</Date>
-    <Time>12:47AM</Time>
+    <Time>12:52AM</Time>
   </line>
   <line>
     <name>B100 - B103</name>
@@ -635,7 +624,7 @@
               &lt;br/&gt;
             </text>
     <Date>08/30/2016</Date>
-    <Time>12:47AM</Time>
+    <Time>12:52AM</Time>
   </line>
   <line>
     <name>QM1 - QM44</name>
@@ -849,10 +838,17 @@
   </line>
   <line>
     <name>Montauk</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>DELAYS</status>
+    <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;08/30/2016&amp;nbsp;12:53AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  The 10:38PM train from Montauk due Jamaica at 1:47AM is operating 10 minutes late after accommodating a late-arriving eastbound train in single-track territory.
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>08/30/2016</Date>
+    <Time>12:53AM</Time>
   </line>
   <line>
     <name>Oyster Bay</name>
@@ -877,17 +873,10 @@
   </line>
   <line>
     <name>Ronkonkoma</name>
-    <status>DELAYS</status>
-    <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;08/29/2016&amp;nbsp;11:43PM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  &lt;P&gt;The 11:08PM train from Ronkonkoma due Penn at 12:35AM is operating 29 minutes late after accommodating a late-arriving connection at Ronkonkoma Station. &lt;/P&gt;
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>08/29/2016</Date>
-    <Time>11:43PM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>West Hempstead</name>
