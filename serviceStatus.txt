@@ -1,29 +1,15 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>DELAYS</status>
-    <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;08/30/2016&amp;nbsp; 2:30PM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  Following an earlier incident at &lt;STRONG&gt;Freeman St&lt;/STRONG&gt;, [2] and [5] train service has resumed with residual delays.
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>08/30/2016</Date>
-    <Time> 2:30PM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>456</name>
-    <status>DELAYS</status>
+    <status>PLANNED WORK</status>
     <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;08/30/2016&amp;nbsp; 2:30PM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  Following an earlier incident at &lt;STRONG&gt;Freeman St&lt;/STRONG&gt;, [2] and [5] train service has resumed with residual delays.
-                &lt;br/&gt;&lt;br/&gt;
-              
                     &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
                     &lt;br/&gt;
                   &lt;a class="plannedWorkDetailLink" onclick=ShowHide(130766);&gt;
@@ -49,7 +35,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>08/30/2016</Date>
-    <Time> 2:30PM</Time>
+    <Time> 2:42PM</Time>
   </line>
   <line>
     <name>7</name>
@@ -89,17 +75,10 @@
   </line>
   <line>
     <name>JZ</name>
-    <status>DELAYS</status>
-    <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;08/30/2016&amp;nbsp; 2:28PM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  Following an earlier incident at &lt;STRONG&gt;Canal St&lt;/STRONG&gt;, [J] train service has resumed with residual delays.
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>08/30/2016</Date>
-    <Time> 2:28PM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>L</name>
@@ -311,18 +290,8 @@
   </line>
   <line>
     <name>BX1 - BX55</name>
-    <status>DELAYS</status>
+    <status>SERVICE CHANGE</status>
     <text>
-                  &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                  &lt;span class="DateStyle"&gt;
-                  &amp;nbsp;Posted:&amp;nbsp;08/30/2016&amp;nbsp; 2:26PM
-                  &lt;/span&gt;
-                  &lt;br/&gt;
-                  &lt;br/&gt;
-                Following an earlier incident at 238 St, &lt;STRONG&gt;Bx9&lt;/STRONG&gt; bus service has resumed with residual delays.
-              &lt;br/&gt;
-              &lt;br/&gt;
-            
                   &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
                   &lt;span class="DateStyle"&gt;
                   &amp;nbsp;Posted:&amp;nbsp;08/30/2016&amp;nbsp;12:14PM
@@ -381,7 +350,7 @@
               &lt;br/&gt;
             </text>
     <Date>08/30/2016</Date>
-    <Time> 2:26PM</Time>
+    <Time>12:14PM</Time>
   </line>
   <line>
     <name>BXM1 - BXM18</name>
@@ -464,18 +433,8 @@
   </line>
   <line>
     <name>Q1 - Q113</name>
-    <status>DELAYS</status>
+    <status>SERVICE CHANGE</status>
     <text>
-                  &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                  &lt;span class="DateStyle"&gt;
-                  &amp;nbsp;Posted:&amp;nbsp;08/30/2016&amp;nbsp; 2:22PM
-                  &lt;/span&gt;
-                  &lt;br/&gt;
-                  &lt;br/&gt;
-                Following an earlier incident on Jamaica Av, &lt;STRONG&gt;Q77&lt;/STRONG&gt; bus service has resumed with residual delays.
-              &lt;br/&gt;
-              &lt;br/&gt;
-            
                   &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
                   &lt;span class="DateStyle"&gt;
                   &amp;nbsp;Posted:&amp;nbsp;08/30/2016&amp;nbsp;12:12PM
@@ -559,7 +518,7 @@
               &lt;br/&gt;
             </text>
     <Date>08/30/2016</Date>
-    <Time> 2:22PM</Time>
+    <Time>12:12PM</Time>
   </line>
   <line>
     <name>QM1 - QM44</name>
