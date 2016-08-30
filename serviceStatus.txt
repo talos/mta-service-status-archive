@@ -604,10 +604,17 @@
   </line>
   <line>
     <name>Throgs Neck</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>DELAYS</status>
+    <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;08/30/2016&amp;nbsp; 7:16PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  TNB disabled vehicle Queens bound. One roadway blocked. Expect delays.
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>08/30/2016</Date>
+    <Time> 7:16PM</Time>
   </line>
   <line>
     <name>Verrazano-Narrows</name>
@@ -660,7 +667,7 @@
               
                     &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;08/30/2016&amp;nbsp; 7:14PM
+                    &amp;nbsp;Posted:&amp;nbsp;08/30/2016&amp;nbsp; 7:17PM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
                   &lt;P&gt; &lt;/P&gt;
 &lt;P&gt;&lt;STRONG&gt;&lt;U&gt;Eastbound:&lt;/U&gt;&lt;/STRONG&gt;&lt;/P&gt;
@@ -669,6 +676,7 @@
 &lt;P&gt;&lt;STRONG&gt;&lt;U&gt;Westbound:&lt;/U&gt;&lt;/STRONG&gt;&lt;/P&gt;
 &lt;P&gt;The 5:53PM train from Far Rockaway due Penn at 6:47PM is operating 53 minutes late due to earlier signal trouble at Valley Stream.&lt;/P&gt;
 &lt;P&gt;The 6:28PM train from Far Rockaway due Atlantic Terminal `is operating 43 minutes late due to earlier signal trouble at Valley Stream.&lt;/P&gt;
+&lt;P&gt;The 7:00PM train from Far Rockaway due Atlantic Terminal at 7:51PM is being held prior to departure due to late-arriving equipment caused by earlier signal trouble.&lt;/P&gt;
 &lt;P&gt; &lt;/P&gt;
 &lt;P&gt; &lt;/P&gt;
                 &lt;br/&gt;&lt;br/&gt;
@@ -762,17 +770,10 @@
   </line>
   <line>
     <name>Port Washington</name>
-    <status>DELAYS</status>
-    <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;08/30/2016&amp;nbsp; 7:00PM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  The 6:24PM train from Penn due Port Washington at 7:04PM is operating 12 minutes late due to a high volume of customers traveling.
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>08/30/2016</Date>
-    <Time> 7:00PM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>Ronkonkoma</name>
