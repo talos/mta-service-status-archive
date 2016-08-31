@@ -1,8 +1,17 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>DELAYS</status>
+    <status>SERVICE CHANGE</status>
     <text>
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;08/31/2016&amp;nbsp;11:11AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;P&gt;Due to signal problems at&lt;STRONG&gt; 72 St&lt;/STRONG&gt;, some northbound [1] trains are running express from&lt;STRONG&gt; 42 St-Times Sq&lt;/STRONG&gt; to &lt;STRONG&gt;96 St.&lt;/STRONG&gt;&lt;/P&gt;
+&lt;P&gt;Expect delays on northbound [2] and [3] trains.&lt;/P&gt;
+&lt;P&gt;Allow additional travel time.&lt;/P&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              
                     &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
                     &amp;nbsp;Posted:&amp;nbsp;08/31/2016&amp;nbsp;10:43AM
@@ -37,7 +46,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>08/31/2016</Date>
-    <Time>10:43AM</Time>
+    <Time>11:11AM</Time>
   </line>
   <line>
     <name>456</name>
