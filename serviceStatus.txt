@@ -682,10 +682,17 @@
 </bus><BT>
   <line>
     <name>Bronx-Whitestone</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>DELAYS</status>
+    <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;08/31/2016&amp;nbsp; 6:20PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  BWB - Queens bound delays due to an off property collision on the Whitestone Expressway. Expect delays.
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>08/31/2016</Date>
+    <Time> 6:20PM</Time>
   </line>
   <line>
     <name>Cross Bay</name>
