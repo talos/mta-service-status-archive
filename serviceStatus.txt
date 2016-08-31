@@ -127,8 +127,37 @@
 </subway><bus>
   <line>
     <name>B1 - B84</name>
-    <status>DELAYS</status>
+    <status>SERVICE CHANGE</status>
     <text>
+                  &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                  &lt;span class="DateStyle"&gt;
+                  &amp;nbsp;Posted:&amp;nbsp;08/31/2016&amp;nbsp; 6:06PM
+                  &lt;/span&gt;
+                  &lt;br/&gt;
+                  &lt;br/&gt;
+                &lt;P&gt;&lt;STRONG&gt;B62&lt;/STRONG&gt; buses are detoured, due to road work at Division St between Bedford Av and Roebling St. &lt;/P&gt;
+&lt;P&gt;Details as follows:&lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;Northbound&lt;/STRONG&gt;: Via Division Av, left on Bedford Av and regular route.&lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;Southbound&lt;/STRONG&gt;: Via Roebling St, right on Bedford Av, left on Clymer St, left on Wythe Av and regular route.&lt;/P&gt;
+&lt;P&gt;Allow additional travel time.&lt;/P&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
+                  &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                  &lt;span class="DateStyle"&gt;
+                  &amp;nbsp;Posted:&amp;nbsp;08/31/2016&amp;nbsp; 6:05PM
+                  &lt;/span&gt;
+                  &lt;br/&gt;
+                  &lt;br/&gt;
+                &lt;P&gt;&lt;STRONG&gt;B41&lt;/STRONG&gt; buses are detoured, due to road work on Avenue N and E 53 St. &lt;/P&gt;
+&lt;P&gt;Detour is as follows:&lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;B41 Northbound&lt;/STRONG&gt;: Via Avenue N, right on E 53 St, left on Avenue M, left on Schenectady Av, right on Avenue N and regular route.&lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;B41 Southbound&lt;/STRONG&gt;: Via Flatbush Av, left on Fillmore Av, left on Utica Av, right on Avenue O, left on E 53 St, right on Avenue N and regular route.&lt;/P&gt;
+&lt;P&gt;Allow additional travel time.&lt;/P&gt;
+&lt;P&gt; &lt;/P&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
                   &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                   &lt;span class="DateStyle"&gt;
                   &amp;nbsp;Posted:&amp;nbsp;08/31/2016&amp;nbsp; 6:02PM
@@ -151,35 +180,6 @@
 &lt;P&gt;&lt;STRONG&gt;Northbound:&lt;/STRONG&gt; Via Bedford Av, right on Broadway and regular route.&lt;/P&gt;
 &lt;P&gt;&lt;STRONG&gt;Southbound&lt;/STRONG&gt;: Via Broadway, right on Wythe St, left on Ross St, right on Lee Av and regular route.&lt;/P&gt;
 &lt;P&gt;Allow additional travel time.&lt;/P&gt;
-              &lt;br/&gt;
-              &lt;br/&gt;
-            
-                  &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
-                  &lt;span class="DateStyle"&gt;
-                  &amp;nbsp;Posted:&amp;nbsp;08/31/2016&amp;nbsp; 4:15PM
-                  &lt;/span&gt;
-                  &lt;br/&gt;
-                  &lt;br/&gt;
-                &lt;P&gt;&lt;STRONG&gt;B62&lt;/STRONG&gt; buses are detoured, due to road work at Division St between Bedford Av and Roebling St. &lt;/P&gt;
-&lt;P&gt;Details as follows:&lt;/P&gt;
-&lt;P&gt;&lt;STRONG&gt;Northbound&lt;/STRONG&gt;: Via Division Av, left on Bedford Av and regular route.&lt;/P&gt;
-&lt;P&gt;&lt;STRONG&gt;Southbound&lt;/STRONG&gt;: Via Roebling St, right on Bedford Av, left on Clymer St, left on Wythe Av and regular route.&lt;/P&gt;
-&lt;P&gt;Allow additional travel time.&lt;/P&gt;
-              &lt;br/&gt;
-              &lt;br/&gt;
-            
-                  &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
-                  &lt;span class="DateStyle"&gt;
-                  &amp;nbsp;Posted:&amp;nbsp;08/31/2016&amp;nbsp; 4:14PM
-                  &lt;/span&gt;
-                  &lt;br/&gt;
-                  &lt;br/&gt;
-                &lt;P&gt;&lt;STRONG&gt;B41&lt;/STRONG&gt; buses are detoured, due to road work on Avenue N and E 53 St. &lt;/P&gt;
-&lt;P&gt;Detour is as follows:&lt;/P&gt;
-&lt;P&gt;&lt;STRONG&gt;B41 Northbound&lt;/STRONG&gt;: Via Avenue N, right on E 53 St, left on Avenue M, left on Schenectady Av, right on Avenue N and regular route.&lt;/P&gt;
-&lt;P&gt;&lt;STRONG&gt;B41 Southbound&lt;/STRONG&gt;: Via Flatbush Av, left on Fillmore Av, left on Utica Av, right on Avenue O, left on E 53 St, right on Avenue N and regular route.&lt;/P&gt;
-&lt;P&gt;Allow additional travel time.&lt;/P&gt;
-&lt;P&gt; &lt;/P&gt;
               &lt;br/&gt;
               &lt;br/&gt;
             
@@ -283,7 +283,7 @@
               &lt;br/&gt;
             </text>
     <Date>08/31/2016</Date>
-    <Time> 6:02PM</Time>
+    <Time> 6:06PM</Time>
   </line>
   <line>
     <name>B100 - B103</name>
@@ -305,6 +305,17 @@
     <text>
                   &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
                   &lt;span class="DateStyle"&gt;
+                  &amp;nbsp;Posted:&amp;nbsp;08/31/2016&amp;nbsp; 6:06PM
+                  &lt;/span&gt;
+                  &lt;br/&gt;
+                  &lt;br/&gt;
+                &lt;P&gt;&lt;STRONG&gt;Bx1 &lt;/STRONG&gt;and &lt;STRONG&gt;Bx2&lt;/STRONG&gt; bus stop on Grand Concourse at McClellan St has moved to nearside of McClellan St, due to construction. &lt;/P&gt;
+&lt;P&gt;Allow additional travel time.&lt;/P&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
+                  &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                  &lt;span class="DateStyle"&gt;
                   &amp;nbsp;Posted:&amp;nbsp;08/31/2016&amp;nbsp; 6:02PM
                   &lt;/span&gt;
                   &lt;br/&gt;
@@ -314,17 +325,6 @@
 &lt;P&gt;&lt;STRONG&gt;Westbound&lt;/STRONG&gt;: Terminate at University Av and Burnside Av.&lt;/P&gt;
 &lt;P&gt;&lt;STRONG&gt;Eastbound&lt;/STRONG&gt;: Via University Av, left on Tremont Av, left on Davidson Av, right on Burnside Av and regular route.&lt;/P&gt;
 &lt;P&gt;Corresponding stops will be made along detour route.&lt;/P&gt;
-&lt;P&gt;Allow additional travel time.&lt;/P&gt;
-              &lt;br/&gt;
-              &lt;br/&gt;
-            
-                  &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
-                  &lt;span class="DateStyle"&gt;
-                  &amp;nbsp;Posted:&amp;nbsp;08/31/2016&amp;nbsp; 4:16PM
-                  &lt;/span&gt;
-                  &lt;br/&gt;
-                  &lt;br/&gt;
-                &lt;P&gt;&lt;STRONG&gt;Bx1 &lt;/STRONG&gt;and &lt;STRONG&gt;Bx2&lt;/STRONG&gt; bus stop on Grand Concourse at McClellan St has moved to nearside of McClellan St, due to construction. &lt;/P&gt;
 &lt;P&gt;Allow additional travel time.&lt;/P&gt;
               &lt;br/&gt;
               &lt;br/&gt;
@@ -371,7 +371,7 @@
               &lt;br/&gt;
             </text>
     <Date>08/31/2016</Date>
-    <Time> 6:02PM</Time>
+    <Time> 6:06PM</Time>
   </line>
   <line>
     <name>BXM1 - BXM18</name>
@@ -494,8 +494,19 @@
   </line>
   <line>
     <name>Q1 - Q113</name>
-    <status>SERVICE CHANGE</status>
+    <status>DELAYS</status>
     <text>
+                  &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                  &lt;span class="DateStyle"&gt;
+                  &amp;nbsp;Posted:&amp;nbsp;08/31/2016&amp;nbsp; 6:07PM
+                  &lt;/span&gt;
+                  &lt;br/&gt;
+                  &lt;br/&gt;
+                &lt;P&gt;&lt;STRONG&gt;Q44-SBS&lt;/STRONG&gt; and &lt;STRONG&gt;Q50 Ltd &lt;/STRONG&gt;buses are running with delays northbound, due to traffic conditions on the Whitestone Bridge. &lt;/P&gt;
+&lt;P&gt;Allow additional travel time.&lt;/P&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
                   &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
                   &lt;span class="DateStyle"&gt;
                   &amp;nbsp;Posted:&amp;nbsp;08/31/2016&amp;nbsp; 6:05PM
@@ -566,17 +577,6 @@
               &lt;br/&gt;
               &lt;br/&gt;
             
-                  &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                  &lt;span class="DateStyle"&gt;
-                  &amp;nbsp;Posted:&amp;nbsp;08/31/2016&amp;nbsp; 4:17PM
-                  &lt;/span&gt;
-                  &lt;br/&gt;
-                  &lt;br/&gt;
-                &lt;P&gt;&lt;STRONG&gt;Q44-SBS&lt;/STRONG&gt; and &lt;STRONG&gt;Q50 Ltd &lt;/STRONG&gt;buses are running with delays northbound, due to traffic conditions on the Whitestone Bridge. &lt;/P&gt;
-&lt;P&gt;Allow additional travel time.&lt;/P&gt;
-              &lt;br/&gt;
-              &lt;br/&gt;
-            
                   &lt;span class="TitlePlannedWork" &gt;Planned Detour&lt;/span&gt;
                   &lt;br/&gt;
                 &lt;a class="plannedWorkDetailLink" onclick=ShowHide(68484);&gt;
@@ -624,7 +624,7 @@
               &lt;br/&gt;
             </text>
     <Date>08/31/2016</Date>
-    <Time> 6:05PM</Time>
+    <Time> 6:07PM</Time>
   </line>
   <line>
     <name>QM1 - QM44</name>
