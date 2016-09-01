@@ -1,8 +1,16 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>PLANNED WORK</status>
+    <status>DELAYS</status>
     <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;09/01/2016&amp;nbsp; 2:12PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;P&gt;Due to a train with mechanical problems at &lt;STRONG&gt;Harlem-148 St&lt;/STRONG&gt;, [2] and [3] trains are running with delays in both directions. &lt;/P&gt;
+&lt;P&gt;Allow additional travel time.&lt;/P&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              
                     &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
                     &lt;br/&gt;
                   &lt;a class="plannedWorkDetailLink" onclick=ShowHide(131090);&gt;
@@ -29,7 +37,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>09/01/2016</Date>
-    <Time> 2:07PM</Time>
+    <Time> 2:12PM</Time>
   </line>
   <line>
     <name>456</name>
@@ -56,7 +64,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>09/01/2016</Date>
-    <Time> 2:07PM</Time>
+    <Time> 2:12PM</Time>
   </line>
   <line>
     <name>7</name>
@@ -110,7 +118,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>09/01/2016</Date>
-    <Time> 2:07PM</Time>
+    <Time> 2:12PM</Time>
   </line>
   <line>
     <name>G</name>
@@ -159,7 +167,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>09/01/2016</Date>
-    <Time> 2:07PM</Time>
+    <Time> 2:12PM</Time>
   </line>
   <line>
     <name>L</name>
@@ -218,7 +226,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>09/01/2016</Date>
-    <Time> 2:07PM</Time>
+    <Time> 2:12PM</Time>
   </line>
   <line>
     <name>S</name>
@@ -241,7 +249,7 @@
     <text>
                   &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
                   &lt;span class="DateStyle"&gt;
-                  &amp;nbsp;Posted:&amp;nbsp;09/01/2016&amp;nbsp; 2:10PM
+                  &amp;nbsp;Posted:&amp;nbsp;09/01/2016&amp;nbsp; 2:13PM
                   &lt;/span&gt;
                   &lt;br/&gt;
                   &lt;br/&gt;
@@ -464,7 +472,7 @@
               &lt;br/&gt;
             </text>
     <Date>09/01/2016</Date>
-    <Time> 2:10PM</Time>
+    <Time> 2:13PM</Time>
   </line>
   <line>
     <name>B100 - B103</name>
@@ -652,6 +660,19 @@
     <text>
                   &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
                   &lt;span class="DateStyle"&gt;
+                  &amp;nbsp;Posted:&amp;nbsp;09/01/2016&amp;nbsp; 2:13PM
+                  &lt;/span&gt;
+                  &lt;br/&gt;
+                  &lt;br/&gt;
+                &lt;P&gt;&lt;STRONG&gt;Q29&lt;/STRONG&gt; buses are detoured, due to DOT road work on 90 St from 52 Av to Corona Av. &lt;/P&gt;
+&lt;P&gt;Detour is as follows:&lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;Northbound&lt;/STRONG&gt;: Via 90 St, left on Justice Av, right on Broadway, right on Corona Av, left on Hampton St and regular route. &lt;/P&gt;
+&lt;P&gt;Allow additional travel time.&lt;/P&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
+                  &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                  &lt;span class="DateStyle"&gt;
                   &amp;nbsp;Posted:&amp;nbsp;09/01/2016&amp;nbsp; 2:08PM
                   &lt;/span&gt;
                   &lt;br/&gt;
@@ -682,19 +703,6 @@
                   &lt;br/&gt;
                   &lt;br/&gt;
                 &lt;P&gt;&lt;STRONG&gt;Q59&lt;/STRONG&gt; buses are delayed, due to heavy traffic in the vicinity of Grand Av Bridge and Depot. &lt;/P&gt;
-&lt;P&gt;Allow additional travel time.&lt;/P&gt;
-              &lt;br/&gt;
-              &lt;br/&gt;
-            
-                  &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
-                  &lt;span class="DateStyle"&gt;
-                  &amp;nbsp;Posted:&amp;nbsp;09/01/2016&amp;nbsp;10:05AM
-                  &lt;/span&gt;
-                  &lt;br/&gt;
-                  &lt;br/&gt;
-                &lt;P&gt;&lt;STRONG&gt;Q29&lt;/STRONG&gt; buses are detoured, due to DOT road work on 90 St from 52 Av to Corona Av. &lt;/P&gt;
-&lt;P&gt;Detour is as follows:&lt;/P&gt;
-&lt;P&gt;&lt;STRONG&gt;Northbound&lt;/STRONG&gt;: Via 90 St, left on Justice Av, right on Broadway, right on Corona Av, left on Hampton St and regular route. &lt;/P&gt;
 &lt;P&gt;Allow additional travel time.&lt;/P&gt;
               &lt;br/&gt;
               &lt;br/&gt;
@@ -757,7 +765,7 @@
               &lt;br/&gt;
             </text>
     <Date>09/01/2016</Date>
-    <Time> 2:08PM</Time>
+    <Time> 2:13PM</Time>
   </line>
   <line>
     <name>QM1 - QM44</name>
@@ -798,7 +806,7 @@
               &lt;br/&gt;
             </text>
     <Date>09/01/2016</Date>
-    <Time> 2:07PM</Time>
+    <Time> 2:12PM</Time>
   </line>
   <line>
     <name>x1 - x68</name>
