@@ -237,8 +237,26 @@
 </subway><bus>
   <line>
     <name>B1 - B84</name>
-    <status>DELAYS</status>
+    <status>SERVICE CHANGE</status>
     <text>
+                  &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                  &lt;span class="DateStyle"&gt;
+                  &amp;nbsp;Posted:&amp;nbsp;09/01/2016&amp;nbsp; 2:10PM
+                  &lt;/span&gt;
+                  &lt;br/&gt;
+                  &lt;br/&gt;
+                &lt;P&gt;&lt;STRONG&gt;B4, B36&lt;/STRONG&gt; and &lt;STRONG&gt;B49&lt;/STRONG&gt; buses are detoured in both directions, due to paving on Avenue Z between E 14 St and E 18 St. &lt;/P&gt;
+&lt;P&gt;Detour is as follows:&lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;B4 Narrows Rd Bound:&lt;/STRONG&gt; Via Ocean Av, left on Voorhies Av, right on E 14 St, right on Sheepshead Bay Rd and regular route.&lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;B4 Knapp St Bound&lt;/STRONG&gt;: Via E 14 St, right on Sheepshead Bay Rd, bear left into Jerome Av, right on Ocean Av and regular route.&lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;B36 Avenue U Bound&lt;/STRONG&gt;: Via Avenue Z into Sheepshead Bay Rd, bear left into Jerome Av, left on Ocean Av, right on Avenue Z and regular route.&lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;B36 37 St Bound:&lt;/STRONG&gt; Via Avenue Z, right on Ocean Av, left on Avenue Y, left on Coney Island Av, left on Avenue Z and regular route.&lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;B49 Eastbound&lt;/STRONG&gt;: Via E 14 St, right on Sheepshead Bay Rd, bear left into Jerome Av, left on Ocean Av and regular route.&lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;B49 Mackenzie Loop Bound&lt;/STRONG&gt;: Via Ocean Av, right on Voorhies Av, right on E 14 St, right on Sheepshead Bay Rd and regular route.&lt;/P&gt;
+&lt;P&gt;Allow additional travel time.&lt;/P&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
                   &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                   &lt;span class="DateStyle"&gt;
                   &amp;nbsp;Posted:&amp;nbsp;09/01/2016&amp;nbsp; 2:08PM
@@ -290,24 +308,6 @@
 &lt;P&gt;&lt;STRONG&gt;B41 Southbound&lt;/STRONG&gt;: Via Flatbush Av, left on Fillmore Av, left on Utica Av, right on Avenue O, left on E 53 St, right on Avenue N and regular route.&lt;/P&gt;
 &lt;P&gt;Allow additional travel time.&lt;/P&gt;
 &lt;P&gt; &lt;/P&gt;
-              &lt;br/&gt;
-              &lt;br/&gt;
-            
-                  &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
-                  &lt;span class="DateStyle"&gt;
-                  &amp;nbsp;Posted:&amp;nbsp;09/01/2016&amp;nbsp;12:00PM
-                  &lt;/span&gt;
-                  &lt;br/&gt;
-                  &lt;br/&gt;
-                &lt;P&gt;&lt;STRONG&gt;B4, B36&lt;/STRONG&gt; and &lt;STRONG&gt;B49&lt;/STRONG&gt; buses are detoured, due to paving on Avenue Z between E 14 St and E 18 St. &lt;/P&gt;
-&lt;P&gt;Detour is as follows:&lt;/P&gt;
-&lt;P&gt;&lt;STRONG&gt;B4 Narrows Rd-bound:&lt;/STRONG&gt; Via Ocean Av, left on Voorhies Av, right on E 14 St, right on Sheepshead Bay Rd and regular route.&lt;/P&gt;
-&lt;P&gt;&lt;STRONG&gt;B4 Knapp St-bound&lt;/STRONG&gt;: Via E 14 St, right on Sheepshead Bay Rd, bear left into Jerome Av, right on Ocean Av and regular route.&lt;/P&gt;
-&lt;P&gt;&lt;STRONG&gt;B36 Avenue U-bound&lt;/STRONG&gt;: Via Avenue Z, into Sheepshead Bay Rd, bear left into Jerome Av, left on Ocean Av, right on Avenue Z and regular route.&lt;/P&gt;
-&lt;P&gt;&lt;STRONG&gt;B36 37 St Bound:&lt;/STRONG&gt; Via Avenue Z, right on Ocean Av, left on Avenue Y, left on Coney Island Av, left on Avenue Z and regular route.&lt;/P&gt;
-&lt;P&gt;&lt;STRONG&gt;B49 Eastbound&lt;/STRONG&gt;: Via E 14 St, right on Sheepshead Bay Rd, bear left into Jerome Av, left on Ocean Av and regular route.&lt;/P&gt;
-&lt;P&gt;&lt;STRONG&gt;B49 Mackenzie Loop-bound&lt;/STRONG&gt;: Via Ocean Av, right on Voorhies Av, right on E 14 St, right on Sheepshead Bay Rd and regular route.&lt;/P&gt;
-&lt;P&gt;Allow additional travel time.&lt;/P&gt;
               &lt;br/&gt;
               &lt;br/&gt;
             
@@ -464,7 +464,7 @@
               &lt;br/&gt;
             </text>
     <Date>09/01/2016</Date>
-    <Time> 2:08PM</Time>
+    <Time> 2:10PM</Time>
   </line>
   <line>
     <name>B100 - B103</name>
