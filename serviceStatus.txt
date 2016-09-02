@@ -1,15 +1,8 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>DELAYS</status>
+    <status>PLANNED WORK</status>
     <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;09/02/2016&amp;nbsp;11:37AM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  Following an earlier incident at &lt;STRONG&gt;168 St&lt;/STRONG&gt;, [1] train service has resumed with residual delays.
-                &lt;br/&gt;&lt;br/&gt;
-              
                     &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
                     &lt;br/&gt;
                   &lt;a class="plannedWorkDetailLink" onclick=ShowHide(131090);&gt;
@@ -36,7 +29,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>09/02/2016</Date>
-    <Time>11:37AM</Time>
+    <Time>11:47AM</Time>
   </line>
   <line>
     <name>456</name>
@@ -585,8 +578,22 @@
   </line>
   <line>
     <name>Q1 - Q113</name>
-    <status>DELAYS</status>
+    <status>SERVICE CHANGE</status>
     <text>
+                  &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                  &lt;span class="DateStyle"&gt;
+                  &amp;nbsp;Posted:&amp;nbsp;09/02/2016&amp;nbsp;11:49AM
+                  &lt;/span&gt;
+                  &lt;br/&gt;
+                  &lt;br/&gt;
+                &lt;P&gt;&lt;STRONG&gt;Q29&lt;/STRONG&gt; buses are detoured, due to DOT road work on 92 St between Corona Av and 57 Av. &lt;/P&gt;
+&lt;P&gt;Detour is as follows:&lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;Northbound Q29&lt;/STRONG&gt;: Via Corona Av, right on Junction Blvd, right on 57 Av and regular route.&lt;/P&gt;
+&lt;P&gt;Corresponding stops will be be made along detour route.&lt;/P&gt;
+&lt;P&gt;Allow additional travel time.&lt;/P&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
                   &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                   &lt;span class="DateStyle"&gt;
                   &amp;nbsp;Posted:&amp;nbsp;09/02/2016&amp;nbsp;10:04AM
@@ -681,7 +688,7 @@
               &lt;br/&gt;
             </text>
     <Date>09/02/2016</Date>
-    <Time>10:04AM</Time>
+    <Time>11:49AM</Time>
   </line>
   <line>
     <name>QM1 - QM44</name>
