@@ -219,10 +219,18 @@
   </line>
   <line>
     <name>S</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>SERVICE CHANGE</status>
+    <text>
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;09/02/2016&amp;nbsp;12:29AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;P&gt;Due to NYPD activity at &lt;STRONG&gt;Botanic Garden&lt;/STRONG&gt;, there is no Franklin Av [S] service between &lt;STRONG&gt;Franklin Av&lt;/STRONG&gt; and &lt;STRONG&gt;Prospect Park&lt;/STRONG&gt; in both directions.  &lt;/P&gt;
+&lt;P&gt;Allow additional travel time.&lt;/P&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>09/02/2016</Date>
+    <Time>12:29AM</Time>
   </line>
   <line>
     <name>SIR</name>
@@ -483,18 +491,8 @@
   </line>
   <line>
     <name>M1 - M116</name>
-    <status>DELAYS</status>
+    <status>SERVICE CHANGE</status>
     <text>
-                  &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                  &lt;span class="DateStyle"&gt;
-                  &amp;nbsp;Posted:&amp;nbsp;09/02/2016&amp;nbsp;12:12AM
-                  &lt;/span&gt;
-                  &lt;br/&gt;
-                  &lt;br/&gt;
-                Following an earlier incident on 3 Av, &lt;STRONG&gt;M101, M102&lt;/STRONG&gt; and &lt;STRONG&gt;M103&lt;/STRONG&gt; bus service has resumed with residual delays.
-              &lt;br/&gt;
-              &lt;br/&gt;
-            
                   &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
                   &lt;span class="DateStyle"&gt;
                   &amp;nbsp;Posted:&amp;nbsp;09/02/2016&amp;nbsp;12:11AM
@@ -576,7 +574,7 @@
               &lt;br/&gt;
             </text>
     <Date>09/02/2016</Date>
-    <Time>12:12AM</Time>
+    <Time>12:11AM</Time>
   </line>
   <line>
     <name>Q1 - Q113</name>
