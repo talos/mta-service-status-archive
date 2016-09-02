@@ -861,17 +861,10 @@
   </line>
   <line>
     <name>City Terminal Zone</name>
-    <status>DELAYS</status>
-    <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;09/02/2016&amp;nbsp; 8:33AM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  The 5:39AM train from Montauk due Long Island City at 8:44AM is operating 10 minutes late at this time.
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>09/02/2016</Date>
-    <Time> 8:33AM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>Far Rockaway</name>
@@ -907,15 +900,8 @@
   </line>
   <line>
     <name>Montauk</name>
-    <status>DELAYS</status>
+    <status>SERVICE CHANGE</status>
     <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;09/02/2016&amp;nbsp; 8:33AM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  The 5:39AM train from Montauk due Long Island City at 8:44AM is operating 10 minutes late at this time.
-                &lt;br/&gt;&lt;br/&gt;
-              
                     &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
                     &amp;nbsp;Posted:&amp;nbsp;09/02/2016&amp;nbsp;10:00AM
@@ -943,7 +929,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>09/02/2016</Date>
-    <Time> 8:33AM</Time>
+    <Time>10:00AM</Time>
   </line>
   <line>
     <name>Oyster Bay</name>
