@@ -59,8 +59,8 @@
 &lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
                 &lt;br/&gt;&lt;br/&gt;
               </text>
-    <Date>09/01/2016</Date>
-    <Time>11:52PM</Time>
+    <Date>09/02/2016</Date>
+    <Time>12:02AM</Time>
   </line>
   <line>
     <name>7</name>
@@ -109,6 +109,17 @@
     <text>
                     &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
                     &lt;br/&gt;
+                  &lt;a class="plannedWorkDetailLink" onclick=ShowHide(130871);&gt;
+&lt;b&gt;[D] Coney Island-bound trains run local from 125 St to 59 St-Columbus Circle
+&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 130871 class="plannedWorkDetail" &gt;&lt;/b&gt;Late Nights, 12:01 AM to 5 AM, Tue to Fri, &lt;/font&gt;until Sep 16 (&lt;i&gt;except Sep 6&lt;/i&gt;)
+&lt;br&gt;
+&lt;br&gt;&amp;bull; Please allow additional travel time.
+&lt;br&gt;&lt;b&gt;
+&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              
+                    &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
+                    &lt;br/&gt;
                   &lt;a class="plannedWorkDetailLink" onclick=ShowHide(130860);&gt;
 &lt;b&gt;[D] Norwood&lt;/font&gt;-bound trains skip 25 St, Prospect Av, 4 Av-9 St and Union St
 &lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 130860 class="plannedWorkDetail" &gt;&lt;/b&gt;Late Nights, 11:45 PM to 5 AM, Mon to Fri, Aug 29 - Sep 2
@@ -121,8 +132,8 @@
 &lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
                 &lt;br/&gt;&lt;br/&gt;
               </text>
-    <Date>09/01/2016</Date>
-    <Time>11:52PM</Time>
+    <Date>09/02/2016</Date>
+    <Time>12:02AM</Time>
   </line>
   <line>
     <name>G</name>
@@ -190,8 +201,8 @@
 &lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
                 &lt;br/&gt;&lt;br/&gt;
               </text>
-    <Date>09/01/2016</Date>
-    <Time>11:52PM</Time>
+    <Date>09/02/2016</Date>
+    <Time>12:02AM</Time>
   </line>
   <line>
     <name>S</name>
@@ -268,18 +279,6 @@
 &lt;P&gt;&lt;STRONG&gt;B41 Southbound&lt;/STRONG&gt;: Via Flatbush Av, left on Fillmore Av, left on Utica Av, right on Avenue O, left on E 53 St, right on Avenue N and regular route.&lt;/P&gt;
 &lt;P&gt;Allow additional travel time.&lt;/P&gt;
 &lt;P&gt; &lt;/P&gt;
-              &lt;br/&gt;
-              &lt;br/&gt;
-            
-                  &lt;span class="TitlePlannedWork" &gt;Planned Detour&lt;/span&gt;
-                  &lt;br/&gt;
-                &lt;a class="plannedWorkDetailLink" onclick=ShowHide(117571);&gt;
-&lt;b&gt;B9 buses may experience delays due to track work on the N line between Stillwell Av and 8 Av 
-&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 117571 class="plannedWorkDetail" &gt;&lt;/b&gt;Until further notice
-&lt;br&gt;
-&lt;br&gt;&amp;#149; Please allow additional travel time.
-&lt;br&gt;&lt;b&gt;          &lt;/b&gt;&lt;/font&gt;&lt;a href=http://bustime.mta.info/#b9 target=_blank&gt;&lt;img height=30px src=http://web.mta.info/nyct/images/Bus_Time_logo.png&gt;&lt;/a&gt;
-&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
               &lt;br/&gt;
               &lt;br/&gt;
             
@@ -404,6 +403,33 @@
             
                   &lt;span class="TitlePlannedWork" &gt;Planned Detour&lt;/span&gt;
                   &lt;br/&gt;
+                &lt;a class="plannedWorkDetailLink" onclick=ShowHide(122692);&gt;
+&lt;b&gt;Bx7, M5 and M100 buses rerouted from Broadway between 178 St and 179 St
+&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 122692 class="plannedWorkDetail" &gt;&lt;/b&gt;12 midnight to 1:30 AM, every night, until further notice
+&lt;br&gt;
+&lt;br&gt;Due to construction, buses make corresponding stops along the detoured route.
+&lt;br&gt;
+&lt;br&gt;&lt;b&gt;&lt;i&gt;&lt;a style="cursor:pointer; text-decoration:underline;" onclick=ShowHide(1226920);&gt;Show Reroute Details&lt;/a&gt;&lt;/i&gt;&lt;/b&gt;
+&lt;br&gt;&lt;div id="1226920"; style="display:none;"&gt;&lt;b&gt;Northbound
+&lt;br&gt;&lt;/b&gt;Via Broadway
+&lt;br&gt;Right on 178 St
+&lt;br&gt;Left on Wadsworth Av
+&lt;br&gt;Left on 179 St 
+&lt;br&gt;Right on Broadway then regular route
+&lt;br&gt;
+&lt;br&gt;&lt;b&gt;Southbound
+&lt;br&gt;&lt;/b&gt;Via Broadway
+&lt;br&gt;Right on 179 St
+&lt;br&gt;Left on Fort Washington Av
+&lt;br&gt;Left on 178 St
+&lt;br&gt;Right on Broadway then regular route&lt;/div&gt;
+&lt;br&gt;&lt;b&gt;
+&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
+                  &lt;span class="TitlePlannedWork" &gt;Planned Detour&lt;/span&gt;
+                  &lt;br/&gt;
                 &lt;a class="plannedWorkDetailLink" onclick=ShowHide(133101);&gt;
 &lt;b&gt;Bx21 stop on Morris Park Av at Eastchester Rd temporarily closed
 &lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 133101 class="plannedWorkDetail" &gt;&lt;/b&gt;Until Oct 2018
@@ -439,8 +465,8 @@
               &lt;br/&gt;
               &lt;br/&gt;
             </text>
-    <Date>09/01/2016</Date>
-    <Time>11:52PM</Time>
+    <Date>09/02/2016</Date>
+    <Time>12:02AM</Time>
   </line>
   <line>
     <name>M1 - M116</name>
@@ -505,6 +531,33 @@
 &lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 133197 class="plannedWorkDetail" &gt;&lt;/b&gt;Until further notice
 &lt;br&gt;
 &lt;br&gt;Due to construction, please use nearby stops &lt;b&gt;on Columbus Av&lt;/b&gt;.
+&lt;br&gt;&lt;b&gt;
+&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
+                  &lt;span class="TitlePlannedWork" &gt;Planned Detour&lt;/span&gt;
+                  &lt;br/&gt;
+                &lt;a class="plannedWorkDetailLink" onclick=ShowHide(122692);&gt;
+&lt;b&gt;Bx7, M5 and M100 buses rerouted from Broadway between 178 St and 179 St
+&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 122692 class="plannedWorkDetail" &gt;&lt;/b&gt;12 midnight to 1:30 AM, every night, until further notice
+&lt;br&gt;
+&lt;br&gt;Due to construction, buses make corresponding stops along the detoured route.
+&lt;br&gt;
+&lt;br&gt;&lt;b&gt;&lt;i&gt;&lt;a style="cursor:pointer; text-decoration:underline;" onclick=ShowHide(1226920);&gt;Show Reroute Details&lt;/a&gt;&lt;/i&gt;&lt;/b&gt;
+&lt;br&gt;&lt;div id="1226920"; style="display:none;"&gt;&lt;b&gt;Northbound
+&lt;br&gt;&lt;/b&gt;Via Broadway
+&lt;br&gt;Right on 178 St
+&lt;br&gt;Left on Wadsworth Av
+&lt;br&gt;Left on 179 St 
+&lt;br&gt;Right on Broadway then regular route
+&lt;br&gt;
+&lt;br&gt;&lt;b&gt;Southbound
+&lt;br&gt;&lt;/b&gt;Via Broadway
+&lt;br&gt;Right on 179 St
+&lt;br&gt;Left on Fort Washington Av
+&lt;br&gt;Left on 178 St
+&lt;br&gt;Right on Broadway then regular route&lt;/div&gt;
 &lt;br&gt;&lt;b&gt;
 &lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
               &lt;br/&gt;
@@ -735,11 +788,16 @@
     <text>
                     &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
                     &lt;br/&gt;
+                  VNB: PLANNED WORK; STATEN ISLAND-BOUND UPPER LEVEL - ONE LANE OPEN. EXPECT DELAYS.
+                &lt;br/&gt;&lt;br/&gt;
+              
+                    &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
+                    &lt;br/&gt;
                   VNB: PLANNED WORK; BROOKLYN-BOUND UPPER LEVEL CLOSED; EXPECT DELAYS.
                 &lt;br/&gt;&lt;br/&gt;
               </text>
-    <Date>09/01/2016</Date>
-    <Time>10:21PM</Time>
+    <Date>09/02/2016</Date>
+    <Time>12:03AM</Time>
   </line>
 </BT><LIRR>
   <line>
