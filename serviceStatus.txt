@@ -1,17 +1,46 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>PLANNED WORK</status>
+    <text>
+                    &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
+                    &lt;br/&gt;
+                  &lt;a class="plannedWorkDetailLink" onclick=ShowHide(131350);&gt;
+&lt;b&gt;[3] Service is extended to New Lots Av
+&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 131350 class="plannedWorkDetail" &gt;&lt;/b&gt;&lt;a href=http://advisory.mtanyct.info/pdf_files/NightMap.pdf target=_blank&gt;&lt;font color=#0000FF&gt;&lt;b&gt;&lt;u&gt;Late Nights&lt;/u&gt;&lt;/b&gt;&lt;/font&gt;&lt;/a&gt;, 11:45 PM Fri to 5 AM &lt;b&gt;Sun&lt;/b&gt;, Sep 2 - 4
+&lt;br&gt;
+&lt;br&gt;&lt;/font&gt;&lt;b&gt;[3]&lt;/b&gt; service operates between &lt;b&gt;148 St&lt;/b&gt; and &lt;b&gt;New Lots Av&lt;/b&gt;, replacing the &lt;b&gt;[4]&lt;/b&gt; in Brooklyn.
+&lt;br&gt;&lt;b&gt;
+&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>09/02/2016</Date>
+    <Time>11:47PM</Time>
   </line>
   <line>
     <name>456</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>PLANNED WORK</status>
+    <text>
+                    &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
+                    &lt;br/&gt;
+                  &lt;a class="plannedWorkDetailLink" onclick=ShowHide(131349);&gt;
+&lt;b&gt;[FF]&lt;br clear=left&gt;[4] No trains between Bowling Green and Utica Av/New Lots Av&lt;br clear=left&gt;[2] [3] trains provide alternate service
+&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 131349 class="plannedWorkDetail" &gt;&lt;/b&gt;Weekend, 11:45 PM Fri to 5 AM &lt;b&gt;Sun&lt;/b&gt;, Sep 2 - 4
+&lt;br&gt;
+&lt;br&gt;&lt;b&gt;[4]&lt;/b&gt; service operates between &lt;b&gt;Woodlawn &lt;/b&gt;and &lt;b&gt;Bowling Green&lt;/b&gt;.
+&lt;br&gt;
+&lt;br&gt;Late Night &lt;b&gt;[3]&lt;/b&gt; service is extended to New Lots Av.
+&lt;br&gt;
+&lt;br&gt;For service between Borough Hall and Franklin Av, take the &lt;b&gt;[2] &lt;/b&gt;or &lt;b&gt;[3]&lt;/b&gt;.
+&lt;br&gt;Take the &lt;b&gt;[3] &lt;/b&gt;between Franklin and New Lots Avs.
+&lt;br&gt; 
+&lt;br&gt;&amp;bull; Transfer between the &lt;b&gt;[4]&lt;/b&gt; and &lt;b&gt;[2]&lt;/b&gt; &lt;b&gt;[3] &lt;/b&gt;trains at Fulton St.
+&lt;br&gt;&lt;b&gt;
+&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>09/02/2016</Date>
+    <Time>11:47PM</Time>
   </line>
   <line>
     <name>7</name>
@@ -279,7 +308,7 @@
               &lt;br/&gt;
             </text>
     <Date>09/02/2016</Date>
-    <Time>11:42PM</Time>
+    <Time>11:47PM</Time>
   </line>
   <line>
     <name>M1 - M116</name>
