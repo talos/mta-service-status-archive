@@ -33,7 +33,7 @@
     <text>
                     &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;09/02/2016&amp;nbsp; 8:05PM
+                    &amp;nbsp;Posted:&amp;nbsp;09/02/2016&amp;nbsp; 8:06PM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
                   Due to forecasted weather conditions, [D] and [N] trains are running local in Brooklyn in both directions.
                 &lt;br/&gt;&lt;br/&gt;
@@ -49,7 +49,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>09/02/2016</Date>
-    <Time> 8:05PM</Time>
+    <Time> 8:06PM</Time>
   </line>
   <line>
     <name>G</name>
@@ -78,13 +78,13 @@
     <text>
                     &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;09/02/2016&amp;nbsp; 8:05PM
+                    &amp;nbsp;Posted:&amp;nbsp;09/02/2016&amp;nbsp; 8:06PM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
                   Due to forecasted weather conditions, [D] and [N] trains are running local in Brooklyn in both directions.
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>09/02/2016</Date>
-    <Time> 8:05PM</Time>
+    <Time> 8:06PM</Time>
   </line>
   <line>
     <name>S</name>
@@ -103,22 +103,26 @@
 </subway><bus>
   <line>
     <name>B1 - B84</name>
-    <status>DELAYS</status>
+    <status>SERVICE CHANGE</status>
     <text>
-                  &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                  &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
                   &lt;span class="DateStyle"&gt;
-                  &amp;nbsp;Posted:&amp;nbsp;09/02/2016&amp;nbsp; 4:05PM
+                  &amp;nbsp;Posted:&amp;nbsp;09/02/2016&amp;nbsp; 8:06PM
                   &lt;/span&gt;
                   &lt;br/&gt;
                   &lt;br/&gt;
-                &lt;P&gt;&lt;STRONG&gt;B24&lt;/STRONG&gt; buses are delayed in both directions, due to heavy traffic on the BQE westbound on Kosciusko Bridge and BQE/LIE Interchange. &lt;/P&gt;
+                &lt;P&gt;&lt;STRONG&gt;B41&lt;/STRONG&gt; buses are detoured in both directions, due to road work on Avenue N and E 53 St. &lt;/P&gt;
+&lt;P&gt;Detour is as follows:&lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;B41 Northbound&lt;/STRONG&gt;: Via Avenue N, right on E 53 St, left on Avenue M, left on Schenectady Av, right on Avenue N and regular route.&lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;B41 Southbound&lt;/STRONG&gt;: Via Flatbush Av, left on Fillmore Av, left on Utica Av, right on Avenue O, left on E 53 St, right on Avenue N and regular route.&lt;/P&gt;
 &lt;P&gt;Allow additional travel time.&lt;/P&gt;
+&lt;P&gt; &lt;/P&gt;
               &lt;br/&gt;
               &lt;br/&gt;
             
                   &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
                   &lt;span class="DateStyle"&gt;
-                  &amp;nbsp;Posted:&amp;nbsp;09/02/2016&amp;nbsp; 4:04PM
+                  &amp;nbsp;Posted:&amp;nbsp;09/02/2016&amp;nbsp; 8:06PM
                   &lt;/span&gt;
                   &lt;br/&gt;
                   &lt;br/&gt;
@@ -130,18 +134,14 @@
               &lt;br/&gt;
               &lt;br/&gt;
             
-                  &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                  &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                   &lt;span class="DateStyle"&gt;
-                  &amp;nbsp;Posted:&amp;nbsp;09/02/2016&amp;nbsp; 4:04PM
+                  &amp;nbsp;Posted:&amp;nbsp;09/02/2016&amp;nbsp; 4:05PM
                   &lt;/span&gt;
                   &lt;br/&gt;
                   &lt;br/&gt;
-                &lt;P&gt;&lt;STRONG&gt;B41&lt;/STRONG&gt; buses are detoured in both directions, due to road work on Avenue N and E 53 St. &lt;/P&gt;
-&lt;P&gt;Detour is as follows:&lt;/P&gt;
-&lt;P&gt;&lt;STRONG&gt;B41 Northbound&lt;/STRONG&gt;: Via Avenue N, right on E 53 St, left on Avenue M, left on Schenectady Av, right on Avenue N and regular route.&lt;/P&gt;
-&lt;P&gt;&lt;STRONG&gt;B41 Southbound&lt;/STRONG&gt;: Via Flatbush Av, left on Fillmore Av, left on Utica Av, right on Avenue O, left on E 53 St, right on Avenue N and regular route.&lt;/P&gt;
+                &lt;P&gt;&lt;STRONG&gt;B24&lt;/STRONG&gt; buses are delayed in both directions, due to heavy traffic on the BQE westbound on Kosciusko Bridge and BQE/LIE Interchange. &lt;/P&gt;
 &lt;P&gt;Allow additional travel time.&lt;/P&gt;
-&lt;P&gt; &lt;/P&gt;
               &lt;br/&gt;
               &lt;br/&gt;
             
@@ -226,7 +226,7 @@
               &lt;br/&gt;
             </text>
     <Date>09/02/2016</Date>
-    <Time> 4:05PM</Time>
+    <Time> 8:06PM</Time>
   </line>
   <line>
     <name>B100 - B103</name>
@@ -244,8 +244,19 @@
   </line>
   <line>
     <name>BX1 - BX55</name>
-    <status>DELAYS</status>
+    <status>SERVICE CHANGE</status>
     <text>
+                  &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                  &lt;span class="DateStyle"&gt;
+                  &amp;nbsp;Posted:&amp;nbsp;09/02/2016&amp;nbsp; 8:07PM
+                  &lt;/span&gt;
+                  &lt;br/&gt;
+                  &lt;br/&gt;
+                &lt;P&gt;&lt;STRONG&gt;Bx1 &lt;/STRONG&gt;and &lt;STRONG&gt;Bx2&lt;/STRONG&gt; bus stop on Grand Concourse at McClellan St has been moved to nearside of McClellan St, due to construction. &lt;/P&gt;
+&lt;P&gt;Allow additional travel time.&lt;/P&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
                   &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                   &lt;span class="DateStyle"&gt;
                   &amp;nbsp;Posted:&amp;nbsp;09/02/2016&amp;nbsp; 5:32PM
@@ -253,17 +264,6 @@
                   &lt;br/&gt;
                   &lt;br/&gt;
                 &lt;P&gt;&lt;STRONG&gt;M100, M101, M102, M60&lt;/STRONG&gt; and &lt;STRONG&gt;Bx15&lt;/STRONG&gt; buses are running with delays eastbound, due to traffic conditions on 125 St between Madison Av and 2 Av. &lt;/P&gt;
-&lt;P&gt;Allow additional travel time.&lt;/P&gt;
-              &lt;br/&gt;
-              &lt;br/&gt;
-            
-                  &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
-                  &lt;span class="DateStyle"&gt;
-                  &amp;nbsp;Posted:&amp;nbsp;09/02/2016&amp;nbsp; 4:05PM
-                  &lt;/span&gt;
-                  &lt;br/&gt;
-                  &lt;br/&gt;
-                &lt;P&gt;&lt;STRONG&gt;Bx1 &lt;/STRONG&gt;and &lt;STRONG&gt;Bx2&lt;/STRONG&gt; bus stop on Grand Concourse at McClellan St has been moved to nearside of McClellan St, due to construction. &lt;/P&gt;
 &lt;P&gt;Allow additional travel time.&lt;/P&gt;
               &lt;br/&gt;
               &lt;br/&gt;
@@ -299,7 +299,7 @@
               &lt;br/&gt;
             </text>
     <Date>09/02/2016</Date>
-    <Time> 5:32PM</Time>
+    <Time> 8:07PM</Time>
   </line>
   <line>
     <name>BXM1 - BXM18</name>
@@ -320,7 +320,7 @@
               &lt;br/&gt;
             </text>
     <Date>09/02/2016</Date>
-    <Time> 8:02PM</Time>
+    <Time> 8:07PM</Time>
   </line>
   <line>
     <name>M1 - M116</name>
@@ -393,8 +393,19 @@
   </line>
   <line>
     <name>Q1 - Q113</name>
-    <status>SERVICE CHANGE</status>
+    <status>DELAYS</status>
     <text>
+                  &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                  &lt;span class="DateStyle"&gt;
+                  &amp;nbsp;Posted:&amp;nbsp;09/02/2016&amp;nbsp; 8:07PM
+                  &lt;/span&gt;
+                  &lt;br/&gt;
+                  &lt;br/&gt;
+                &lt;P&gt;&lt;STRONG&gt;Q58&lt;/STRONG&gt; and &lt;STRONG&gt;Q88&lt;/STRONG&gt; westbound buses are delayed, due to heavy traffic on LIE from College Point Blvd to 108 St. &lt;/P&gt;
+&lt;P&gt;Allow additional travel time.&lt;/P&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
                   &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
                   &lt;span class="DateStyle"&gt;
                   &amp;nbsp;Posted:&amp;nbsp;09/02/2016&amp;nbsp; 4:37PM
@@ -405,17 +416,6 @@
 &lt;P&gt;Detour is as follows:&lt;/P&gt;
 &lt;P&gt;&lt;STRONG&gt;Q65 College Point Bound:&lt;/STRONG&gt; Via 110 St, right on 14 Av to temporary stand on 14 Av far side 110 St.&lt;/P&gt;
 &lt;P&gt;&lt;STRONG&gt;Q64 Jamaica Bound:&lt;/STRONG&gt; Via 14 Av, right on College Point Blvd and regular route.&lt;/P&gt;
-&lt;P&gt;Allow additional travel time.&lt;/P&gt;
-              &lt;br/&gt;
-              &lt;br/&gt;
-            
-                  &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                  &lt;span class="DateStyle"&gt;
-                  &amp;nbsp;Posted:&amp;nbsp;09/02/2016&amp;nbsp; 4:06PM
-                  &lt;/span&gt;
-                  &lt;br/&gt;
-                  &lt;br/&gt;
-                &lt;P&gt;&lt;STRONG&gt;Q58&lt;/STRONG&gt; and &lt;STRONG&gt;Q88&lt;/STRONG&gt; westbound buses are delayed, due to heavy traffic on LIE from College Point Blvd to 108 St. &lt;/P&gt;
 &lt;P&gt;Allow additional travel time.&lt;/P&gt;
               &lt;br/&gt;
               &lt;br/&gt;
@@ -478,7 +478,7 @@
               &lt;br/&gt;
             </text>
     <Date>09/02/2016</Date>
-    <Time> 4:37PM</Time>
+    <Time> 8:07PM</Time>
   </line>
   <line>
     <name>QM1 - QM44</name>
