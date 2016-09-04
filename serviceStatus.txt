@@ -1,10 +1,19 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>SERVICE CHANGE</status>
+    <text>
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;09/04/2016&amp;nbsp; 6:35AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;P&gt;Due to electronic gap filler problems at &lt;STRONG&gt;South Ferry&lt;/STRONG&gt;, [1] trains are bypassing the &lt;STRONG&gt;South Ferry&lt;/STRONG&gt; station in both directions. &lt;/P&gt;
+&lt;P&gt;For service to South Ferry use the &lt;STRONG&gt;Rector St&lt;/STRONG&gt; stop or take the [R] to &lt;STRONG&gt;Whitehall St-South Ferry&lt;/STRONG&gt; Station. &lt;/P&gt;
+&lt;P&gt;Allow additional travel time.&lt;/P&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>09/04/2016</Date>
+    <Time> 6:35AM</Time>
   </line>
   <line>
     <name>456</name>
