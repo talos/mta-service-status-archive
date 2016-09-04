@@ -1,10 +1,19 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>SERVICE CHANGE</status>
+    <text>
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;09/04/2016&amp;nbsp; 6:35AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;P&gt;Due to electronic gap filler problems at &lt;STRONG&gt;South Ferry&lt;/STRONG&gt;, [1] trains are bypassing the &lt;STRONG&gt;South Ferry&lt;/STRONG&gt; station in both directions. &lt;/P&gt;
+&lt;P&gt;For service to South Ferry use the &lt;STRONG&gt;Rector St&lt;/STRONG&gt; stop or take the [R] to &lt;STRONG&gt;Whitehall St-South Ferry&lt;/STRONG&gt; Station. &lt;/P&gt;
+&lt;P&gt;Allow additional travel time.&lt;/P&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>09/04/2016</Date>
+    <Time> 6:35AM</Time>
   </line>
   <line>
     <name>456</name>
@@ -75,7 +84,7 @@
     <text>
                     &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;09/04/2016&amp;nbsp; 4:01AM
+                    &amp;nbsp;Posted:&amp;nbsp;09/04/2016&amp;nbsp; 6:07AM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
                   &lt;P&gt;Due to forecasted weather conditions, [SIR] trains are running with delays in both directions between &lt;STRONG&gt;Great Kills&lt;/STRONG&gt; and &lt;STRONG&gt;Grand City&lt;/STRONG&gt;. &lt;/P&gt;
 &lt;P&gt;Customers will board trains on the westbound track.&lt;/P&gt;
@@ -83,7 +92,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>09/04/2016</Date>
-    <Time> 4:01AM</Time>
+    <Time> 6:07AM</Time>
   </line>
 </subway><bus>
   <line>
@@ -92,7 +101,7 @@
     <text>
                   &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
                   &lt;span class="DateStyle"&gt;
-                  &amp;nbsp;Posted:&amp;nbsp;09/04/2016&amp;nbsp; 5:02AM
+                  &amp;nbsp;Posted:&amp;nbsp;09/04/2016&amp;nbsp; 6:06AM
                   &lt;/span&gt;
                   &lt;br/&gt;
                   &lt;br/&gt;
@@ -100,6 +109,7 @@
 &lt;P&gt;Detour is as follows:&lt;/P&gt;
 &lt;P&gt;&lt;STRONG&gt;Eastbound&lt;/STRONG&gt;: Via Lafayette Av, right on Marcus Garvey Blvd, left on Quincy St, left on Lewis Av, right on Lafayette Av and regular route. &lt;/P&gt;
 &lt;P&gt;All corresponding stops will be made along detour route. &lt;/P&gt;
+&lt;P&gt;Allow additional travel time. &lt;/P&gt;
               &lt;br/&gt;
               &lt;br/&gt;
             
@@ -172,7 +182,7 @@
               &lt;br/&gt;
             </text>
     <Date>09/04/2016</Date>
-    <Time> 5:02AM</Time>
+    <Time> 6:06AM</Time>
   </line>
   <line>
     <name>B100 - B103</name>
@@ -219,7 +229,7 @@
               &lt;br/&gt;
             </text>
     <Date>09/04/2016</Date>
-    <Time> 5:02AM</Time>
+    <Time> 6:47AM</Time>
   </line>
   <line>
     <name>BXM1 - BXM18</name>
@@ -240,12 +250,26 @@
               &lt;br/&gt;
             </text>
     <Date>09/04/2016</Date>
-    <Time> 5:02AM</Time>
+    <Time> 6:47AM</Time>
   </line>
   <line>
     <name>M1 - M116</name>
-    <status>PLANNED WORK</status>
+    <status>SERVICE CHANGE</status>
     <text>
+                  &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                  &lt;span class="DateStyle"&gt;
+                  &amp;nbsp;Posted:&amp;nbsp;09/04/2016&amp;nbsp; 6:11AM
+                  &lt;/span&gt;
+                  &lt;br/&gt;
+                  &lt;br/&gt;
+                &lt;P&gt;&lt;STRONG&gt;M2&lt;/STRONG&gt; southbound buses are detoured due to a non-MTA accident on 153 St and 7 Av. &lt;/P&gt;
+&lt;P&gt;Detour is as follows:&lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;Southbound&lt;/STRONG&gt;: Via 155 St, right on McCombs Pl, right on 151 St, left on 8 Av, left on 145 St to regular route.&lt;/P&gt;
+&lt;P&gt;All corresponding stops will be made along detoured route. &lt;/P&gt;
+&lt;P&gt;Allow additional travel time.&lt;/P&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
                   &lt;span class="TitlePlannedWork" &gt;Planned Detour&lt;/span&gt;
                   &lt;br/&gt;
                 &lt;a class="plannedWorkDetailLink" onclick=ShowHide(132780);&gt;
@@ -273,7 +297,7 @@
               &lt;br/&gt;
             </text>
     <Date>09/04/2016</Date>
-    <Time> 5:02AM</Time>
+    <Time> 6:11AM</Time>
   </line>
   <line>
     <name>Q1 - Q113</name>
@@ -326,7 +350,7 @@
               &lt;br/&gt;
             </text>
     <Date>09/04/2016</Date>
-    <Time> 5:02AM</Time>
+    <Time> 6:47AM</Time>
   </line>
   <line>
     <name>QM1 - QM44</name>
@@ -392,7 +416,7 @@
               &lt;br/&gt;
             </text>
     <Date>09/04/2016</Date>
-    <Time> 5:02AM</Time>
+    <Time> 6:47AM</Time>
   </line>
   <line>
     <name>x1 - x68</name>
@@ -546,17 +570,10 @@
   </line>
   <line>
     <name>Ronkonkoma</name>
-    <status>DELAYS</status>
-    <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;09/04/2016&amp;nbsp; 4:31AM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  The 3:45AM train from Ronkonkoma due Penn at 5:03AM is operating 24 minutes late due to an earlier unauthorized person on the tracks east of Wyandanch Station.
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>09/04/2016</Date>
-    <Time> 4:31AM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>West Hempstead</name>
