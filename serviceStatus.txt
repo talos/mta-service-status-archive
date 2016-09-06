@@ -1,17 +1,10 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>DELAYS</status>
-    <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;09/06/2016&amp;nbsp; 9:10AM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  Following an earlier incident at &lt;STRONG&gt;Wall St&lt;/STRONG&gt;, [2] and [3] train service has resumed with residual delays.
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>09/06/2016</Date>
-    <Time> 9:10AM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>456</name>
@@ -36,17 +29,10 @@
   </line>
   <line>
     <name>BDFM</name>
-    <status>DELAYS</status>
-    <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;09/06/2016&amp;nbsp; 9:43AM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  Following an earlier incident at&lt;STRONG&gt; Northern Blvd&lt;/STRONG&gt;, [M] and [R] train service has resumed with residual delays.
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>09/06/2016</Date>
-    <Time> 9:43AM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>G</name>
@@ -71,17 +57,10 @@
   </line>
   <line>
     <name>NQR</name>
-    <status>DELAYS</status>
-    <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;09/06/2016&amp;nbsp; 9:43AM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  Following an earlier incident at&lt;STRONG&gt; Northern Blvd&lt;/STRONG&gt;, [M] and [R] train service has resumed with residual delays.
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>09/06/2016</Date>
-    <Time> 9:43AM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>S</name>
@@ -287,12 +266,11 @@
     <text>
                   &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                   &lt;span class="DateStyle"&gt;
-                  &amp;nbsp;Posted:&amp;nbsp;09/06/2016&amp;nbsp; 8:30AM
+                  &amp;nbsp;Posted:&amp;nbsp;09/06/2016&amp;nbsp;10:00AM
                   &lt;/span&gt;
                   &lt;br/&gt;
                   &lt;br/&gt;
-                &lt;P&gt;&lt;STRONG&gt;M66&lt;/STRONG&gt; eastbound buses are detoured, due to road obstruction on W 65 St from Amsterdam Av to Broadway. &lt;/P&gt;
-&lt;P&gt;Allow additional travel time.&lt;/P&gt;
+                Following an earlier incident on W 65 St from Amsterdam Av to Broadway, &lt;STRONG&gt;M66&lt;/STRONG&gt; bus service has resumed with residual delays.
               &lt;br/&gt;
               &lt;br/&gt;
             
@@ -323,7 +301,7 @@
               &lt;br/&gt;
             </text>
     <Date>09/06/2016</Date>
-    <Time> 8:30AM</Time>
+    <Time>10:00AM</Time>
   </line>
   <line>
     <name>Q1 - Q113</name>
@@ -413,8 +391,23 @@
   </line>
   <line>
     <name>S40 - S98</name>
-    <status>PLANNED WORK</status>
+    <status>SERVICE CHANGE</status>
     <text>
+                  &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                  &lt;span class="DateStyle"&gt;
+                  &amp;nbsp;Posted:&amp;nbsp;09/06/2016&amp;nbsp;10:00AM
+                  &lt;/span&gt;
+                  &lt;br/&gt;
+                  &lt;br/&gt;
+                &lt;P&gt;&lt;STRONG&gt;S78, X17&lt;/STRONG&gt; and &lt;STRONG&gt;X22&lt;/STRONG&gt; buses are detoured, due to FDNY Funeral along Amboy Rd.&lt;/P&gt;
+&lt;P&gt;Detour is as follows:&lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;S78 to Brick Town Mall:&lt;/STRONG&gt; Via Amboy Rd, right on Main St, left on Hylan Blvd, left on Paige Av, left on Richmond Valley Rd, right on Arthur Kill Rd and regular route.&lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;X17 and X22 To Manhattan&lt;/STRONG&gt;: Via Amboy Rd, right on Main St, left on Hylan Blvd, left on Paige Av, right on Amboy St and regular route.&lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;X17 and X22 To Tottenville via Arden Heights&lt;/STRONG&gt;: Via Amboy Rd, right on Paige Av, left on Richmond Valley Rd, left on Arthur Kill Rd, left on Main St, left on Hylan Blvd and regular route.&lt;/P&gt;
+&lt;P&gt;Allow additional travel time.&lt;/P&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
                   &lt;span class="TitlePlannedWork" &gt;Planned Detour&lt;/span&gt;
                   &lt;br/&gt;
                 &lt;a class="plannedWorkDetailLink" onclick=ShowHide(131538);&gt;
@@ -441,14 +434,29 @@
               &lt;br/&gt;
             </text>
     <Date>09/06/2016</Date>
-    <Time> 9:52AM</Time>
+    <Time>10:00AM</Time>
   </line>
   <line>
     <name>x1 - x68</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>SERVICE CHANGE</status>
+    <text>
+                  &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                  &lt;span class="DateStyle"&gt;
+                  &amp;nbsp;Posted:&amp;nbsp;09/06/2016&amp;nbsp;10:00AM
+                  &lt;/span&gt;
+                  &lt;br/&gt;
+                  &lt;br/&gt;
+                &lt;P&gt;&lt;STRONG&gt;S78, X17&lt;/STRONG&gt; and &lt;STRONG&gt;X22&lt;/STRONG&gt; buses are detoured, due to FDNY Funeral along Amboy Rd.&lt;/P&gt;
+&lt;P&gt;Detour is as follows:&lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;S78 to Brick Town Mall:&lt;/STRONG&gt; Via Amboy Rd, right on Main St, left on Hylan Blvd, left on Paige Av, left on Richmond Valley Rd, right on Arthur Kill Rd and regular route.&lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;X17 and X22 To Manhattan&lt;/STRONG&gt;: Via Amboy Rd, right on Main St, left on Hylan Blvd, left on Paige Av, right on Amboy St and regular route.&lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;X17 and X22 To Tottenville via Arden Heights&lt;/STRONG&gt;: Via Amboy Rd, right on Paige Av, left on Richmond Valley Rd, left on Arthur Kill Rd, left on Main St, left on Hylan Blvd and regular route.&lt;/P&gt;
+&lt;P&gt;Allow additional travel time.&lt;/P&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            </text>
+    <Date>09/06/2016</Date>
+    <Time>10:00AM</Time>
   </line>
 </bus><BT>
   <line>
