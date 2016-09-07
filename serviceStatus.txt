@@ -1,13 +1,15 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>DELAYS</status>
+    <status>SERVICE CHANGE</status>
     <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;09/07/2016&amp;nbsp; 4:27AM
+                    &amp;nbsp;Posted:&amp;nbsp;09/07/2016&amp;nbsp; 4:32AM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  &lt;P&gt;Due to a train with mechanical problems at &lt;STRONG&gt;14 St&lt;/STRONG&gt;, southbound [1] and [2] trains are running with delays. &lt;/P&gt;
+                  &lt;P&gt;Due to a train with mechanical problems at &lt;STRONG&gt;14 St&lt;/STRONG&gt;, the following service changes are in effect:&lt;/P&gt;
+&lt;P&gt;southbound [1] and [2] trains are running express from &lt;STRONG&gt;34 St-Penn Station&lt;/STRONG&gt; to &lt;STRONG&gt;Chambers St.&lt;/STRONG&gt; &lt;/P&gt;
+&lt;P&gt;This service change impacts [1][2] trains with delays in both directions. &lt;/P&gt;
 &lt;P&gt;Allow additional travel time.&lt;/P&gt;
                 &lt;br/&gt;&lt;br/&gt;
               
@@ -43,7 +45,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>09/07/2016</Date>
-    <Time> 4:27AM</Time>
+    <Time> 4:32AM</Time>
   </line>
   <line>
     <name>456</name>
@@ -115,7 +117,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>09/07/2016</Date>
-    <Time> 4:27AM</Time>
+    <Time> 4:32AM</Time>
   </line>
   <line>
     <name>BDFM</name>
@@ -184,7 +186,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>09/07/2016</Date>
-    <Time> 4:27AM</Time>
+    <Time> 4:32AM</Time>
   </line>
   <line>
     <name>G</name>
@@ -232,7 +234,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>09/07/2016</Date>
-    <Time> 4:27AM</Time>
+    <Time> 4:32AM</Time>
   </line>
   <line>
     <name>S</name>
@@ -248,7 +250,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>09/07/2016</Date>
-    <Time> 4:27AM</Time>
+    <Time> 4:32AM</Time>
   </line>
   <line>
     <name>SIR</name>
@@ -384,7 +386,7 @@
               &lt;br/&gt;
             </text>
     <Date>09/07/2016</Date>
-    <Time> 4:27AM</Time>
+    <Time> 4:32AM</Time>
   </line>
   <line>
     <name>BXM1 - BXM18</name>
@@ -403,7 +405,7 @@
               &lt;br/&gt;
             </text>
     <Date>09/07/2016</Date>
-    <Time> 4:27AM</Time>
+    <Time> 4:32AM</Time>
   </line>
   <line>
     <name>M1 - M116</name>
@@ -503,7 +505,7 @@
               &lt;br/&gt;
             </text>
     <Date>09/07/2016</Date>
-    <Time> 4:27AM</Time>
+    <Time> 4:32AM</Time>
   </line>
   <line>
     <name>QM1 - QM44</name>
