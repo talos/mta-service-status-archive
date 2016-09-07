@@ -8,24 +8,17 @@
   </line>
   <line>
     <name>456</name>
-    <status>SERVICE CHANGE</status>
+    <status>DELAYS</status>
     <text>
-                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;09/07/2016&amp;nbsp; 8:59AM
+                    &amp;nbsp;Posted:&amp;nbsp;09/07/2016&amp;nbsp; 9:36AM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  &lt;P&gt;Due to NYPD activity at &lt;STRONG&gt;77 St&lt;/STRONG&gt;, the following service changes are in effect:&lt;/P&gt;
-&lt;P&gt;[6] trains are running express between &lt;STRONG&gt;125 St&lt;/STRONG&gt; and &lt;STRONG&gt;Grand Central-42 St&lt;/STRONG&gt; in both directions.&lt;/P&gt;
-&lt;P&gt;Some southbound [5] trains are running on the [2] line from &lt;STRONG&gt;149 St-Grand Concourse&lt;/STRONG&gt; to &lt;STRONG&gt;Nevins St.&lt;/STRONG&gt;&lt;/P&gt;
-&lt;P&gt;Some southbound [4] and [5] trains are running local from &lt;STRONG&gt;Grand Central-42 St&lt;/STRONG&gt; to &lt;STRONG&gt;Brooklyn Bridge-City Hall&lt;/STRONG&gt;.&lt;/P&gt;
-&lt;P&gt;Expect extensive delays in [4], [5] and [6] train service.&lt;/P&gt;
-&lt;P&gt;As an alternative, customers are advised to use the &lt;STRONG&gt;M101&lt;/STRONG&gt;, &lt;STRONG&gt;M102&lt;/STRONG&gt; or &lt;STRONG&gt;M103&lt;/STRONG&gt; bus service making nearby station stops.&lt;/P&gt;
-&lt;P&gt;Allow additional travel time.&lt;/P&gt;
-&lt;P&gt; &lt;/P&gt;
+                  Following an earlier incident at &lt;STRONG&gt;77 St,&lt;/STRONG&gt; [4], [5] and [6] train service has resumed with extensive delays.
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>09/07/2016</Date>
-    <Time> 8:59AM</Time>
+    <Time> 9:36AM</Time>
   </line>
   <line>
     <name>7</name>
@@ -43,10 +36,21 @@
   </line>
   <line>
     <name>BDFM</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>PLANNED WORK</status>
+    <text>
+                    &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
+                    &lt;br/&gt;
+                  &lt;a class="plannedWorkDetailLink" onclick=ShowHide(130755);&gt;
+&lt;b&gt;[B] Brighton Beach-bound trains run local from Prospect Park to Kings Hwy
+&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 130755 class="plannedWorkDetail" &gt;&lt;/b&gt;Days, 9:45 AM to 3 PM, Wed to Fri, until Sep 16
+&lt;br&gt;
+&lt;br&gt;&amp;bull; Please allow additional travel time.
+&lt;br&gt;&lt;b&gt;
+&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>09/07/2016</Date>
+    <Time> 9:52AM</Time>
   </line>
   <line>
     <name>G</name>
@@ -71,10 +75,30 @@
   </line>
   <line>
     <name>NQR</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>PLANNED WORK</status>
+    <text>
+                    &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
+                    &lt;br/&gt;
+                  &lt;a class="plannedWorkDetailLink" onclick=ShowHide(130752);&gt;
+&lt;b&gt;[Q] Manhattan-bound trains run express from Kings Hwy to Prospect Park
+&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 130752 class="plannedWorkDetail" &gt;&lt;/b&gt;Days, 9:45 AM to 3 PM, Wed to Fri, until Sep 16
+&lt;br&gt;
+&lt;br&gt;Trains stop at Newkirk Plaza and Church Av.
+&lt;br&gt;
+&lt;br&gt;For service &lt;i&gt;to &lt;/i&gt;Avenue M, Avenue J, Avenue H, Cortelyou, Beverley Rds and Parkside Av, take
+&lt;br&gt;the [Q] to Newkirk Plaza, Church Av or Prospect Park and transfer to a Brighton Beach-bound [B]* 
+&lt;br&gt;or Coney Island-bound [Q].
+&lt;br&gt;
+&lt;br&gt;For service &lt;i&gt;from &lt;/i&gt;these stations, take the [B] or [Q] to Church Av, Newkirk Plaza or Kings Hwy
+&lt;br&gt;and transfer to a Manhattan-bound [Q].
+&lt;br&gt;
+&lt;br&gt;&lt;i&gt;*This detour has taken into account additional planned service changes.
+&lt;br&gt;&lt;/i&gt;&lt;b&gt;
+&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>09/07/2016</Date>
+    <Time> 9:52AM</Time>
   </line>
   <line>
     <name>S</name>
@@ -99,13 +123,25 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>09/07/2016</Date>
-    <Time> 9:07AM</Time>
+    <Time> 9:52AM</Time>
   </line>
 </subway><bus>
   <line>
     <name>B1 - B84</name>
     <status>SERVICE CHANGE</status>
     <text>
+                  &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                  &lt;span class="DateStyle"&gt;
+                  &amp;nbsp;Posted:&amp;nbsp;09/07/2016&amp;nbsp; 9:10AM
+                  &lt;/span&gt;
+                  &lt;br/&gt;
+                  &lt;br/&gt;
+                &lt;P&gt;&lt;STRONG&gt;B4&lt;/STRONG&gt; buses are detoured, due to road work on 78 St from Ridge Blvd to Colonial St. &lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;Knapp St bound&lt;/STRONG&gt;: Via 78 St, right on Ridge Blvd, left on Bay Ridge Pkwy, left on Colonial St, right on 78 St and regular route.&lt;/P&gt;
+&lt;P&gt;Allow additional travel time.&lt;/P&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
                   &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
                   &lt;span class="DateStyle"&gt;
                   &amp;nbsp;Posted:&amp;nbsp;09/07/2016&amp;nbsp; 7:10AM
@@ -199,7 +235,7 @@
               &lt;br/&gt;
             </text>
     <Date>09/07/2016</Date>
-    <Time> 7:10AM</Time>
+    <Time> 9:10AM</Time>
   </line>
   <line>
     <name>B100 - B103</name>
@@ -236,7 +272,7 @@
               &lt;br/&gt;
             </text>
     <Date>09/07/2016</Date>
-    <Time> 9:07AM</Time>
+    <Time> 9:52AM</Time>
   </line>
   <line>
     <name>BXM1 - BXM18</name>
@@ -255,7 +291,7 @@
               &lt;br/&gt;
             </text>
     <Date>09/07/2016</Date>
-    <Time> 9:07AM</Time>
+    <Time> 9:52AM</Time>
   </line>
   <line>
     <name>M1 - M116</name>
@@ -288,7 +324,7 @@
               &lt;br/&gt;
             </text>
     <Date>09/07/2016</Date>
-    <Time> 9:07AM</Time>
+    <Time> 9:52AM</Time>
   </line>
   <line>
     <name>Q1 - Q113</name>
@@ -492,23 +528,30 @@
     <text>
                     &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
                     &lt;br/&gt;
-                  RFK planned work Queens bound. One lane closed. Expect delays.
+                  &lt;P  style="MARGIN: 0in 0in 0pt"&gt;&lt;SPAN style="COLOR: #1f497d"&gt;&lt;FONT size=3 face=Calibri&gt;Starting Monday, August 15, 2016 and through early 2018, one lane will be closed on the Queens-to-Manhattan ramp at the Robert F. Kennedy Bridge for roadway rehabilitation. In addition, overnight on Thursday, August 18 and Friday, August 19, there will be a series of intermittent FULL ramp closures, lasting 15-20 minutes each.&lt;/FONT&gt;&lt;/SPAN&gt;&lt;/P&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>08/15/2016</Date>
+    <Time> 3:56PM</Time>
+  </line>
+  <line>
+    <name>Throgs Neck</name>
+    <status>SERVICE CHANGE</status>
+    <text>
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;09/07/2016&amp;nbsp; 9:54AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  TNB: PLANNED WORK; QUEENS BOUND. ONE LANE CLOSED. EXPECT DELAYS.
                 &lt;br/&gt;&lt;br/&gt;
               
                     &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
                     &lt;br/&gt;
-                  &lt;P  style="MARGIN: 0in 0in 0pt"&gt;&lt;SPAN style="COLOR: #1f497d"&gt;&lt;FONT size=3 face=Calibri&gt;Starting Monday, August 15, 2016 and through early 2018, one lane will be closed on the Queens-to-Manhattan ramp at the Robert F. Kennedy Bridge for roadway rehabilitation. In addition, overnight on Thursday, August 18 and Friday, August 19, there will be a series of intermittent FULL ramp closures, lasting 15-20 minutes each.&lt;/FONT&gt;&lt;/SPAN&gt;&lt;/P&gt;
+                  TNB: PLANNED WORK ; BRONX BOUND. ONE LANE CLOSED. EXPECT DELAYS.
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>09/07/2016</Date>
-    <Time> 7:15AM</Time>
-  </line>
-  <line>
-    <name>Throgs Neck</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <Time> 9:54AM</Time>
   </line>
   <line>
     <name>Verrazano-Narrows</name>
@@ -659,31 +702,17 @@
   </line>
   <line>
     <name>Pascack Valley</name>
-    <status>DELAYS</status>
-    <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;09/07/2016&amp;nbsp; 8:45AM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  &lt;P style="MARGIN: 0in 0in 0pt" class=MsoPlainText&gt;&lt;FONT size=3&gt;&lt;FONT face=Calibri&gt;NEC, NJCL, MidTown and RVL trains are subject to up to 30 minute delays in/out of NYPS due to Amtrak overhead power issue.&lt;/FONT&gt;&lt;/FONT&gt;&lt;/P&gt;
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>09/07/2016</Date>
-    <Time> 8:45AM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>Port Jervis</name>
-    <status>DELAYS</status>
-    <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;09/07/2016&amp;nbsp; 8:45AM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  &lt;P style="MARGIN: 0in 0in 0pt" class=MsoPlainText&gt;&lt;FONT size=3&gt;&lt;FONT face=Calibri&gt;NEC, NJCL, MidTown and RVL trains are subject to up to 30 minute delays in/out of NYPS due to Amtrak overhead power issue.&lt;/FONT&gt;&lt;/FONT&gt;&lt;/P&gt;
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>09/07/2016</Date>
-    <Time> 8:45AM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
 </MetroNorth></service>
 
