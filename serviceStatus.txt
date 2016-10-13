@@ -664,10 +664,17 @@
 </bus><BT>
   <line>
     <name>Bronx-Whitestone</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>SERVICE CHANGE</status>
+    <text>
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;10/13/2016&amp;nbsp; 7:14PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  BWB ACCIDENT QUEENS BOUND TWO ROADWAYS CLOSED EXPECT DELAYS
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>10/13/2016</Date>
+    <Time> 7:14PM</Time>
   </line>
   <line>
     <name>Cross Bay</name>
@@ -810,17 +817,10 @@
   </line>
   <line>
     <name>Port Washington</name>
-    <status>DELAYS</status>
-    <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;10/13/2016&amp;nbsp; 7:12PM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  The 6:24PM train from Penn due Port Washington at 7:04PM is operating 10 minutes late due to a late train ahead.
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>10/13/2016</Date>
-    <Time> 7:12PM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>Ronkonkoma</name>
