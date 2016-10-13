@@ -83,9 +83,9 @@
     <text>
                     &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;10/13/2016&amp;nbsp; 9:45AM
+                    &amp;nbsp;Posted:&amp;nbsp;10/13/2016&amp;nbsp;10:26AM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  &lt;P&gt;Due to NYPD activity at&lt;STRONG&gt; 61 St-Woodside&lt;/STRONG&gt;, Main St-bound [7] trains are running express from &lt;STRONG&gt;Queensboro Plaza &lt;/STRONG&gt;to &lt;STRONG&gt;74 St-Broadway, &lt;/STRONG&gt;bypassing&lt;STRONG&gt; 61 St-Woodside.&lt;/STRONG&gt;&lt;/P&gt;
+                  &lt;P&gt;Due to NYPD activity at&lt;STRONG&gt; 61 St-Woodside&lt;/STRONG&gt;, Main St-bound [7] trains are running express from &lt;STRONG&gt;Queensboro Plaza &lt;/STRONG&gt;to &lt;STRONG&gt;74 St-Broadway&lt;/STRONG&gt;&lt;STRONG&gt;.&lt;/STRONG&gt;&lt;/P&gt;
 &lt;P&gt;Allow additional travel time.&lt;/P&gt;
                 &lt;br/&gt;&lt;br/&gt;
               
@@ -105,7 +105,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>10/13/2016</Date>
-    <Time> 9:45AM</Time>
+    <Time>10:26AM</Time>
   </line>
   <line>
     <name>ACE</name>
@@ -572,8 +572,19 @@
   </line>
   <line>
     <name>M1 - M116</name>
-    <status>PLANNED WORK</status>
+    <status>DELAYS</status>
     <text>
+                  &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                  &lt;span class="DateStyle"&gt;
+                  &amp;nbsp;Posted:&amp;nbsp;10/13/2016&amp;nbsp;10:26AM
+                  &lt;/span&gt;
+                  &lt;br/&gt;
+                  &lt;br/&gt;
+                &lt;P&gt;&lt;STRONG&gt;M5, M7, M11&lt;/STRONG&gt; and &lt;STRONG&gt;M104&lt;/STRONG&gt; buses are delayed in both directions, due to gridlock conditions on Columbus Av and Broadway. &lt;/P&gt;
+&lt;P&gt;Allow additional travel time.&lt;/P&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
                   &lt;span class="TitlePlannedWork" &gt;Planned Detour&lt;/span&gt;
                   &lt;br/&gt;
                 &lt;a class="plannedWorkDetailLink" onclick=ShowHide(134847);&gt;
@@ -599,7 +610,7 @@
               &lt;br/&gt;
             </text>
     <Date>10/13/2016</Date>
-    <Time>10:22AM</Time>
+    <Time>10:26AM</Time>
   </line>
   <line>
     <name>Q1 - Q113</name>
