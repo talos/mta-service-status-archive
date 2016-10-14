@@ -1,60 +1,665 @@
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
-   "http://www.w3.org/TR/html4/strict.dtd">
-   
-<html>
-<head>
-<title>mta.info | Error 503 Service Unavailable</title>
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7" />
+<service><responsecode>0</responsecode><subway>
+  <line>
+    <name>123</name>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
+  </line>
+  <line>
+    <name>456</name>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
+  </line>
+  <line>
+    <name>7</name>
+    <status>DELAYS</status>
+    <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;10/14/2016&amp;nbsp; 7:03AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  Following an earlier incident at &lt;STRONG&gt;103 St-Corona Plaza&lt;/STRONG&gt;, [7] train service has resumed with delays.
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>10/14/2016</Date>
+    <Time> 7:03AM</Time>
+  </line>
+  <line>
+    <name>ACE</name>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
+  </line>
+  <line>
+    <name>BDFM</name>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
+  </line>
+  <line>
+    <name>G</name>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
+  </line>
+  <line>
+    <name>JZ</name>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
+  </line>
+  <line>
+    <name>L</name>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
+  </line>
+  <line>
+    <name>NQR</name>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
+  </line>
+  <line>
+    <name>S</name>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
+  </line>
+  <line>
+    <name>SIR</name>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
+  </line>
+</subway><bus>
+  <line>
+    <name>B1 - B84</name>
+    <status>SERVICE CHANGE</status>
+    <text>
+                  &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                  &lt;span class="DateStyle"&gt;
+                  &amp;nbsp;Posted:&amp;nbsp;10/14/2016&amp;nbsp; 6:07AM
+                  &lt;/span&gt;
+                  &lt;br/&gt;
+                  &lt;br/&gt;
+                &lt;P&gt;&lt;STRONG&gt;B8&lt;/STRONG&gt; buses are detoured in both directions, due to paving on 92 St between Dahlgren St and Cropsey Av. &lt;/P&gt;
+&lt;P&gt;Detour is as follows: &lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;Brownsville Bound&lt;/STRONG&gt;: Via 92 St, left on Dahlgren St, right on 86 St, right on 14 Av, left on Cropsey Av and regular route. &lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;4 Av Bound&lt;/STRONG&gt;: Via Cropsey Av, right on 14 Av, left on 86 St, left on Gatling Pl, right on 92 St and regular route. &lt;/P&gt;
+&lt;P&gt;Allow additional travel time. &lt;/P&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
+                  &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                  &lt;span class="DateStyle"&gt;
+                  &amp;nbsp;Posted:&amp;nbsp;10/14/2016&amp;nbsp; 6:06AM
+                  &lt;/span&gt;
+                  &lt;br/&gt;
+                  &lt;br/&gt;
+                &lt;P&gt;&lt;STRONG&gt;B70&lt;/STRONG&gt; buses are detoured in both directions due to paving on 92 St between Dahlgren St and Cropsey Av.&lt;/P&gt;
+&lt;P&gt;Detour is as follows:&lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;VA Hospital Bound:&lt;/STRONG&gt; Via 92 St, left on Dahlgren St, right on 86 St, right on 14 Av, left on Cropsey Av, to temporary bus stand at Cropsey Av and Bay 8 St. &lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;Sunset Park Bound&lt;/STRONG&gt;: Via Cropsey Av, left on Bay 7 St, left on Bath Av, right on 14 Av, left on 86 St, left on Gatling Pl, right on 92 St, and regular route. &lt;/P&gt;
+&lt;P&gt;Allow additional travel time. &lt;/P&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
+                  &lt;span class="TitlePlannedWork" &gt;Planned Detour&lt;/span&gt;
+                  &lt;br/&gt;
+                &lt;a class="plannedWorkDetailLink" onclick=ShowHide(117571);&gt;
+&lt;b&gt;B9 buses may experience delays due to track work on the N line between Stillwell Av and 8 Av 
+&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 117571 class="plannedWorkDetail" &gt;&lt;/b&gt;Until further notice
+&lt;br&gt;
+&lt;br&gt;&amp;#149; Please allow additional travel time.
+&lt;br&gt;&lt;b&gt;          &lt;/b&gt;&lt;/font&gt;&lt;a href=http://bustime.mta.info/#b9 target=_blank&gt;&lt;img height=30px src=http://web.mta.info/nyct/images/Bus_Time_logo.png&gt;&lt;/a&gt;
+&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
+                  &lt;span class="TitlePlannedWork" &gt;Planned Detour&lt;/span&gt;
+                  &lt;br/&gt;
+                &lt;a class="plannedWorkDetailLink" onclick=ShowHide(136492);&gt;
+&lt;b&gt;B62 buses rerouted from the Pulaski Bridge
+&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 136492 class="plannedWorkDetail" &gt;&lt;/b&gt;12 midnight Tue to 5 AM Sat, Oct 11 -15
+&lt;br&gt;
+&lt;br&gt;Due to bridge maintenance, buses make corresponding stops along the detoured route.
+&lt;br&gt;
+&lt;br&gt;&lt;b&gt;&lt;i&gt;&lt;a style="cursor:pointer; text-decoration:underline;" onclick=ShowHide(1364920);&gt;Show Reroute Details&lt;/a&gt;&lt;/i&gt;&lt;/b&gt;
+&lt;br&gt;&lt;div id="1364920"; style="display:none;"&gt;&lt;b&gt;Northbound
+&lt;br&gt;&lt;/b&gt;Via Manhattan Av
+&lt;br&gt;Right on Greenpoint Av
+&lt;br&gt;Left on Review Av
+&lt;br&gt;Left on Borden Av
+&lt;br&gt;Right on 27 St
+&lt;br&gt;Left on 49 Av
+&lt;br&gt;Right on 21 St
+&lt;br&gt;Right on Jackson Av then regular route
+&lt;br&gt;
+&lt;br&gt;&lt;b&gt;Southbound
+&lt;br&gt;&lt;/b&gt;Via Jackson Av
+&lt;br&gt;Left on 21 St
+&lt;br&gt;Left on 49 Av
+&lt;br&gt;Right on 27 St
+&lt;br&gt;Left on Borden Av
+&lt;br&gt;Right on Starr St
+&lt;br&gt;Right on Vandam Av
+&lt;br&gt;Right on Greenpoint Av Bridge into Greenpoint Av
+&lt;br&gt;Left on Manhattan Av then regular route&lt;/div&gt;
+&lt;br&gt;&lt;b&gt;
+&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
+                  &lt;span class="TitlePlannedWork" &gt;Planned Detour&lt;/span&gt;
+                  &lt;br/&gt;
+                &lt;a class="plannedWorkDetailLink" onclick=ShowHide(132028);&gt;
+&lt;b&gt;B35/B35&lt;/b&gt; LTD&lt;b&gt;, B63 and B70 buses may experience delays due to construction on 5 Av at 39 St
+&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 132028 class="plannedWorkDetail" &gt;&lt;/b&gt;Until further notice
+&lt;br&gt;
+&lt;br&gt;&amp;#149; &lt;/font&gt;Please allow additional travel time.
+&lt;br&gt;&lt;b&gt;          &lt;/b&gt;&lt;a href=http://bustime.mta.info/#b9 target=_blank&gt;&lt;img height=30px src=http://web.mta.info/nyct/images/Bus_Time_logo.png&gt;&lt;/a&gt;
+&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
+                  &lt;span class="TitlePlannedWork" &gt;Planned Detour&lt;/span&gt;
+                  &lt;br/&gt;
+                &lt;a class="plannedWorkDetailLink" onclick=ShowHide(136494);&gt;
+&lt;b&gt;B32 buses rerouted from the Pulaski Bridge
+&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 136494 class="plannedWorkDetail" &gt;&lt;/b&gt;12 midnight Tue to 5 AM Sat, Oct 11 -15
+&lt;br&gt;
+&lt;br&gt;Due to bridge maintenance, buses make corresponding stops along the detoured route.
+&lt;br&gt;
+&lt;br&gt;&lt;b&gt;&lt;i&gt;&lt;a style="cursor:pointer; text-decoration:underline;" onclick=ShowHide(1225980);&gt;Show Reroute Details&lt;/a&gt;&lt;/i&gt;&lt;/b&gt;
+&lt;br&gt;&lt;div id="1225980"; style="display:none;"&gt;&lt;b&gt;Northbound
+&lt;br&gt;&lt;/b&gt;Via Franklin St
+&lt;br&gt;Right on Greenpoint Av
+&lt;br&gt;Left on Review Av
+&lt;br&gt;Left on Borden Av
+&lt;br&gt;Right on 27 St
+&lt;br&gt;Left on 49 Av
+&lt;br&gt;Right on 21 St
+&lt;br&gt;Left on Jackson Av
+&lt;br&gt;Right on 48 Av
+&lt;br&gt;Right on 11 St
+&lt;br&gt;Right on 44 Dr
+&lt;br&gt;Right on 21 St and take a stand
+&lt;br&gt;
+&lt;br&gt;&lt;b&gt;Southbound
+&lt;br&gt;&lt;/b&gt;Via 21 St
+&lt;br&gt;Left on 49 Av
+&lt;br&gt;Right on 27 St
+&lt;br&gt;Left on Borden Av
+&lt;br&gt;Right on Starr St
+&lt;br&gt;Right on Vandam Av
+&lt;br&gt;Right on Greenpoint Av Bridge
+&lt;br&gt;Into Greenpoint Av
+&lt;br&gt;Left on Franklin St then regular route&lt;/div&gt;
+&lt;br&gt;&lt;b&gt;
+&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            </text>
+    <Date>10/14/2016</Date>
+    <Time> 6:07AM</Time>
+  </line>
+  <line>
+    <name>B100 - B103</name>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
+  </line>
+  <line>
+    <name>BM1 - BM5</name>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
+  </line>
+  <line>
+    <name>BX1 - BX55</name>
+    <status>SERVICE CHANGE</status>
+    <text>
+                  &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                  &lt;span class="DateStyle"&gt;
+                  &amp;nbsp;Posted:&amp;nbsp;10/14/2016&amp;nbsp; 6:08AM
+                  &lt;/span&gt;
+                  &lt;br/&gt;
+                  &lt;br/&gt;
+                &lt;P&gt;&lt;STRONG&gt;Bx15 LTD&lt;/STRONG&gt; buses are detoured, due to ConEd work at 125 St and Broadway. &lt;/P&gt;
+&lt;P&gt;Detour is as follows:&lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;Southbound&lt;/STRONG&gt;: Via 125 St, left on Amsterdam Av, right on 120 St, right on Broadway and take stand.&lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;Northbound&lt;/STRONG&gt;: Via Broadway, right on LaSalle St, left on Amsterdam Av, right on 125 St and regular route.&lt;/P&gt;
+&lt;P&gt;Allow additional travel time.&lt;/P&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            </text>
+    <Date>10/14/2016</Date>
+    <Time> 6:08AM</Time>
+  </line>
+  <line>
+    <name>BXM1 - BXM18</name>
+    <status>PLANNED WORK</status>
+    <text>
+                  &lt;span class="TitlePlannedWork" &gt;Planned Detour&lt;/span&gt;
+                  &lt;br/&gt;
+                &lt;a class="plannedWorkDetailLink" onclick=ShowHide(133109);&gt;
+&lt;b&gt;BxM10 stop on Morris Park Av at Eastchester Rd temporarily closed 
+&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 133109 class="plannedWorkDetail" &gt;&lt;/b&gt;Until Oct 2018
+&lt;br&gt;
+&lt;br&gt;Due to construction, please use the nearby stop &lt;b&gt;on Eastchester Rd &lt;/b&gt;at Morris Park Av in both directions.
+&lt;br&gt;&lt;b&gt;
+&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            </text>
+    <Date>10/14/2016</Date>
+    <Time> 7:27AM</Time>
+  </line>
+  <line>
+    <name>M1 - M116</name>
+    <status>PLANNED WORK</status>
+    <text>
+                  &lt;span class="TitlePlannedWork" &gt;Planned Detour&lt;/span&gt;
+                  &lt;br/&gt;
+                &lt;a class="plannedWorkDetailLink" onclick=ShowHide(136486);&gt;
+&lt;b&gt;M4 and M5 &lt;/b&gt;- &lt;b&gt;Northbound stop on Broadway at 137 St temporarily closed
+&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 136486 class="plannedWorkDetail" &gt;&lt;/b&gt;Until Oct 15
+&lt;br&gt;
+&lt;br&gt;Due to construction, please follow directional signage to nearby stops &lt;b&gt;on Broadway &lt;/b&gt;at 135 St or 139 St.
+&lt;br&gt;&lt;b&gt;
+&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            </text>
+    <Date>10/14/2016</Date>
+    <Time> 7:27AM</Time>
+  </line>
+  <line>
+    <name>Q1 - Q113</name>
+    <status>PLANNED WORK</status>
+    <text>
+                  &lt;span class="TitlePlannedWork" &gt;Planned Detour&lt;/span&gt;
+                  &lt;br/&gt;
+                &lt;a class="plannedWorkDetailLink" onclick=ShowHide(68484);&gt;
+&lt;b&gt;Q69 - Southbound stop on 28 St between Queens Plaza South and 42 Rd temporarily relocated
+&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 68484 class="plannedWorkDetail" &gt;&lt;/b&gt;Until further notice
+&lt;br&gt;
+&lt;br&gt;Due to construction, please use the nearby temporary stop &lt;b&gt;on 42 Rd&lt;/b&gt; between Jackson Av and 28 St.
+&lt;br&gt;&lt;/font&gt;&lt;b&gt;                                 [TP]
+&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
+                  &lt;span class="TitlePlannedWork" &gt;Planned Detour&lt;/span&gt;
+                  &lt;br/&gt;
+                &lt;a class="plannedWorkDetailLink" onclick=ShowHide(137403);&gt;
+&lt;b&gt;Q25/Q25&lt;/b&gt; LTD -&lt;b&gt; No service on 5 Av at  College Point Blvd to 119 St&lt;br clear=left&gt;and 119 St at 5 Av to College Point Blvd at 7 Av
+&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 137403 class="plannedWorkDetail" &gt;&lt;/b&gt;Until further notice
+&lt;br&gt;
+&lt;br&gt;Due to construction:
+&lt;br&gt;
+&lt;br&gt;&lt;b&gt;Northbound&lt;/b&gt;: Buses run via 127 St.
+&lt;br&gt;
+&lt;br&gt;&lt;b&gt;Southbound&lt;/b&gt;: Buses stops will not be made on 5 Av, 119 St or 9 Av.  Please board buses on College Point Blvd at 7 Av.
+&lt;br&gt;
+&lt;br&gt;&lt;b&gt;&lt;i&gt;&lt;a style="cursor:pointer; text-decoration:underline;" onclick=ShowHide(1374030);&gt;Show Reroute Details&lt;/a&gt;&lt;/i&gt;&lt;/b&gt;
+&lt;br&gt;&lt;div id="1374030"; style="display:none;"&gt;&lt;b&gt;Northbound
+&lt;br&gt;&lt;/b&gt;Via 127 St
+&lt;br&gt;Left on 5 Av at College Point Blvd (last/first stop)
+&lt;br&gt;
+&lt;br&gt;&lt;b&gt;Southbound
+&lt;br&gt;&lt;/b&gt;Via 5 Av
+&lt;br&gt;South on College Point Blvd
+&lt;br&gt;Left on 7 Av then regular route&lt;/div&gt;
+&lt;br&gt;&lt;b&gt;
+&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            </text>
+    <Date>10/14/2016</Date>
+    <Time> 7:27AM</Time>
+  </line>
+  <line>
+    <name>QM1 - QM44</name>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
+  </line>
+  <line>
+    <name>S40 - S98</name>
+    <status>SERVICE CHANGE</status>
+    <text>
+                  &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                  &lt;span class="DateStyle"&gt;
+                  &amp;nbsp;Posted:&amp;nbsp;10/14/2016&amp;nbsp; 6:07AM
+                  &lt;/span&gt;
+                  &lt;br/&gt;
+                  &lt;br/&gt;
+                &lt;P&gt;&lt;STRONG&gt;S78&lt;/STRONG&gt; buses are detoured in both directions due to paving on Arthur Kill Rd between Main St and Lion St. &lt;/P&gt;
+&lt;P&gt;Detour is as follows:&lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;St&lt;/STRONG&gt; &lt;STRONG&gt;George&lt;/STRONG&gt;-&lt;STRONG&gt;bound&lt;/STRONG&gt;: Via Arthur Kill Rd, left on Richmond Hill Rd, right on Page Av, right on Amboy Rd to regular route. &lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;Bricktown&lt;/STRONG&gt; &lt;STRONG&gt;Mall&lt;/STRONG&gt;-&lt;STRONG&gt;bound&lt;/STRONG&gt;: Via Amboy Rd, left on Page Av, left on Richmond Hill Rd, right on Arthur Kill Rd to regular route. &lt;/P&gt;
+&lt;P&gt;Allow additional travel time.&lt;/P&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            </text>
+    <Date>10/14/2016</Date>
+    <Time> 6:07AM</Time>
+  </line>
+  <line>
+    <name>x1 - x68</name>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
+  </line>
+</bus><BT>
+  <line>
+    <name>Bronx-Whitestone</name>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
+  </line>
+  <line>
+    <name>Cross Bay</name>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
+  </line>
+  <line>
+    <name>Henry Hudson</name>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
+  </line>
+  <line>
+    <name>Hugh L. Carey</name>
+    <status>SERVICE CHANGE</status>
+    <text>
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;10/14/2016&amp;nbsp; 6:03AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  HLC - HOV Lane Open 6 AM to 10 AM. Two-Way Operations in effect. Three (3) lanes Manhattan bound. One (1) lane Brooklyn bound.
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>10/14/2016</Date>
+    <Time> 6:03AM</Time>
+  </line>
+  <line>
+    <name>Marine Parkway</name>
+    <status>SERVICE CHANGE</status>
+    <text>
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;10/10/2016&amp;nbsp;12:23PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  Marine Parkway-Gil Hodges Memorial Bridge; One lane closed Rockaway-bound until December 2016. Motorists should allow extra time or use alternate route.
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>10/10/2016</Date>
+    <Time>12:23PM</Time>
+  </line>
+  <line>
+    <name>Queens Midtown</name>
+    <status>PLANNED WORK</status>
+    <text>
+                    &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
+                    &lt;br/&gt;
+                  Queens-Midtown Tunnel downtown exit; One lane closed. Use 37th St tunnel exit for access to 2nd Ave. Motorists should allow extra time and may wish to use an alternate route if possible" Drivers should expect delays and plan accordingly. Motorists can sign up for MTA e-mail or text alerts at &lt;A href="http://www.mta.info"&gt;www.mta.info&lt;/A&gt; and check the Bridges and Tunnels homepage or Facebook page for the latest information on this planned work.
+                &lt;br/&gt;&lt;br/&gt;
+              
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;10/14/2016&amp;nbsp; 6:03AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  QMT - HOV Lane Open 6 AM to 10 AM. Two-Way Operations in effect. Three (3) lanes Manhattan-bound. One (1) lane Queens-bound.
+                &lt;br/&gt;&lt;br/&gt;
+              
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;10/13/2016&amp;nbsp; 2:57PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  One tube of the Queens Midtown Tunnel will be closed every weekend, starting Friday nights, from 11:00 p.m. through Monday mornings at 5:30 a.m.
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>10/10/2016</Date>
+    <Time>12:23PM</Time>
+  </line>
+  <line>
+    <name>Robert F. Kennedy</name>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
+  </line>
+  <line>
+    <name>Throgs Neck</name>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
+  </line>
+  <line>
+    <name>Verrazano-Narrows</name>
+    <status>PLANNED WORK</status>
+    <text>
+                    &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
+                    &lt;br/&gt;
+                  VNB: PLANNED WORK; STATEN ISLAND BOUND LOWER LEVEL, ONE LANE CLOSED. EXPECT DELAYS.
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>10/14/2016</Date>
+    <Time> 5:24AM</Time>
+  </line>
+</BT><LIRR>
+  <line>
+    <name>Babylon</name>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
+  </line>
+  <line>
+    <name>City Terminal Zone</name>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
+  </line>
+  <line>
+    <name>Far Rockaway</name>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
+  </line>
+  <line>
+    <name>Hempstead</name>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
+  </line>
+  <line>
+    <name>Long Beach</name>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
+  </line>
+  <line>
+    <name>Montauk</name>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
+  </line>
+  <line>
+    <name>Oyster Bay</name>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
+  </line>
+  <line>
+    <name>Port Jefferson</name>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
+  </line>
+  <line>
+    <name>Port Washington</name>
+    <status>DELAYS</status>
+    <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;10/14/2016&amp;nbsp; 7:28AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  The 6:27AM train from Port Washington due Penn at 7:14AM is cancelled due to equipment trouble. Customers will be accommodated by the 6:45AM train from Port Washington due Penn at 7:32AM. Making added stops at Little Neck, Douglaston, Auburndale, Broadway, Murray Hill, Flushing and Woodside.
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>10/14/2016</Date>
+    <Time> 7:28AM</Time>
+  </line>
+  <line>
+    <name>Ronkonkoma</name>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
+  </line>
+  <line>
+    <name>West Hempstead</name>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
+  </line>
+</LIRR><MetroNorth>
+  <line>
+    <name>Hudson</name>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
+  </line>
+  <line>
+    <name>Harlem</name>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
+  </line>
+  <line>
+    <name>Wassaic</name>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
+  </line>
+  <line>
+    <name>New Haven</name>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
+  </line>
+  <line>
+    <name>New Canaan</name>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
+  </line>
+  <line>
+    <name>Danbury</name>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
+  </line>
+  <line>
+    <name>Waterbury</name>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
+  </line>
+  <line>
+    <name>Pascack Valley</name>
+    <status>SERVICE CHANGE</status>
+    <text>
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;10/14/2016&amp;nbsp; 7:00AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;TABLE style="FONT-SIZE: 8pt; FONT-FAMILY: arial, sans-serif; BORDER-COLLAPSE: collapse; TEXT-TRANSFORM: none; WORD-SPACING: 0px; COLOR: rgb(85,85,85); BORDER-SPACING: 0px; ORPHANS: 2; WIDOWS: 2; LETTER-SPACING: normal; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px" cellSpacing=0 cellPadding=5 border=0&gt;
+&lt;TBODY&gt;
+&lt;TR&gt;
+&lt;TD style="FONT-SIZE: 8pt; FONT-FAMILY: helvetica, arial, sans-serif; COLOR: rgb(85,85,85)"&gt;&lt;SPAN class=alerttype style="FONT-SIZE: 12px; FONT-WEIGHT: bold; COLOR: red"&gt;Travel Alerts&lt;/SPAN&gt;&lt;/TD&gt;&lt;/TR&gt;
+&lt;TR&gt;
+&lt;TD style="FONT-SIZE: 8pt; FONT-FAMILY: helvetica, arial, sans-serif; COLOR: rgb(85,85,85)"&gt;&lt;FONT class=text02 style="BACKGROUND: none transparent scroll repeat 0% 0%"&gt;Oct 14, 2016  06:37:02 AM&lt;/FONT&gt;&lt;BR&gt;&lt;FONT class=subTitle style="FONT-SIZE: 12px; BACKGROUND: none transparent scroll repeat 0% 0%; FONT-WEIGHT: bold; COLOR: rgb(0,0,0)"&gt;Cross-honoring with PATH has ended.&lt;/FONT&gt;
+&lt;P style="FONT-SIZE: 8pt; FONT-FAMILY: arial, sans-serif; COLOR: rgb(85,85,85)"&gt;&lt;FONT class=subTitle style="FONT-SIZE: 12px; BACKGROUND: none transparent scroll repeat 0% 0%; FONT-WEIGHT: bold; COLOR: rgb(0,0,0)"&gt;Cross-honoring remains in effect with Hudson-Bergen Light Rail, NJ TRANSIT bus and private carriers until further notice.&lt;/FONT&gt;&lt;/P&gt;&lt;/TD&gt;&lt;/TR&gt;
+&lt;TR&gt;
+&lt;TD style="FONT-SIZE: 8pt; FONT-FAMILY: helvetica, arial, sans-serif; COLOR: rgb(85,85,85)"&gt;&lt;FONT class=text02 style="BACKGROUND: none transparent scroll repeat 0% 0%"&gt;Oct 14, 2016  06:36:32 AM&lt;/FONT&gt;&lt;BR&gt;&lt;FONT class=subTitle style="FONT-SIZE: 12px; BACKGROUND: none transparent scroll repeat 0% 0%; FONT-WEIGHT: bold; COLOR: rgb(0,0,0)"&gt;Partial rail service has resumed for Hoboken Terminal.
+&lt;P style="FONT-SIZE: 8pt; FONT-FAMILY: arial, sans-serif; COLOR: rgb(85,85,85)"&gt;Customers may experience overcrowding and possible delays.&lt;/P&gt;&lt;/FONT&gt;
+&lt;P style="FONT-SIZE: 8pt; FONT-FAMILY: arial, sans-serif; COLOR: rgb(85,85,85)"&gt;&lt;FONT class=subTitle style="FONT-SIZE: 12px; BACKGROUND: none transparent scroll repeat 0% 0%; FONT-WEIGHT: bold; COLOR: rgb(0,0,0)"&gt;Please visit njtransit.com for schedules.&lt;/FONT&gt;&lt;/P&gt;&lt;/TD&gt;&lt;/TR&gt;
+&lt;TR&gt;
+&lt;TD style="FONT-SIZE: 8pt; FONT-FAMILY: helvetica, arial, sans-serif; COLOR: rgb(85,85,85)"&gt;&lt;FONT class=text02 style="BACKGROUND: none transparent scroll repeat 0% 0%"&gt;Oct 14, 2016  06:36:06 AM&lt;/FONT&gt;&lt;BR&gt;&lt;FONT class=subTitle style="FONT-SIZE: 12px; BACKGROUND: none transparent scroll repeat 0% 0%; FONT-WEIGHT: bold; COLOR: rgb(0,0,0)"&gt;Customers who need access to Secaucus are urged to take trains from New York Penn Station.&lt;/FONT&gt;&lt;/TD&gt;&lt;/TR&gt;
+&lt;TR&gt;
+&lt;TD style="FONT-SIZE: 8pt; FONT-FAMILY: helvetica, arial, sans-serif; COLOR: rgb(85,85,85)"&gt;&lt;FONT class=text02 style="BACKGROUND: none transparent scroll repeat 0% 0%"&gt;Oct 14, 2016  06:35:06 AM&lt;/FONT&gt;&lt;BR&gt;&lt;FONT class=subTitle style="FONT-SIZE: 12px; BACKGROUND: none transparent scroll repeat 0% 0%; FONT-WEIGHT: bold; COLOR: rgb(0,0,0)"&gt;Beginning Monday, October 10, Pascack Valley Line midday trains are being replaced by substitute bus service between Spring Valley and New Bridge Landing to accommodate grade crossing, utility work and other maintenance work.&lt;/FONT&gt;&lt;/TD&gt;&lt;/TR&gt;
+&lt;TR&gt;
+&lt;TD style="FONT-SIZE: 8pt; FONT-FAMILY: helvetica, arial, sans-serif; COLOR: rgb(85,85,85)"&gt;&lt;FONT class=text02 style="BACKGROUND: none transparent scroll repeat 0% 0%"&gt;Oct 14, 2016  06:35:01 AM&lt;/FONT&gt;&lt;BR&gt;&lt;FONT class=subTitle style="FONT-SIZE: 12px; BACKGROUND: none transparent scroll repeat 0% 0%; FONT-WEIGHT: bold; COLOR: rgb(0,0,0)"&gt;Pascack Valley Line trains will be replaced by substitute bus service between Spring Valley and Secaucus during the weekends of Oct. 8-9, 15-16, 22-23 and 29-30 due to grade crossing, utility work and maintenance work.&lt;/FONT&gt;&lt;/TD&gt;&lt;/TR&gt;&lt;/TBODY&gt;&lt;/TABLE&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>10/14/2016</Date>
+    <Time> 7:00AM</Time>
+  </line>
+  <line>
+    <name>Port Jervis</name>
+    <status>SERVICE CHANGE</status>
+    <text>
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;10/14/2016&amp;nbsp; 7:10AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;TABLE style="FONT-SIZE: 8pt; FONT-FAMILY: arial, sans-serif; BORDER-COLLAPSE: collapse; TEXT-TRANSFORM: none; WORD-SPACING: 0px; COLOR: rgb(85,85,85); BORDER-SPACING: 0px; ORPHANS: 2; WIDOWS: 2; LETTER-SPACING: normal; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px" cellSpacing=0 cellPadding=5 border=0&gt;
+&lt;TBODY&gt;
+&lt;TR&gt;
+&lt;TD style="FONT-SIZE: 8pt; FONT-FAMILY: helvetica, arial, sans-serif; COLOR: rgb(85,85,85)"&gt;&lt;SPAN class=alerttype style="FONT-SIZE: 12px; FONT-WEIGHT: bold; COLOR: red"&gt;Travel Alerts&lt;/SPAN&gt;&lt;/TD&gt;&lt;/TR&gt;
+&lt;TR&gt;
+&lt;TD style="FONT-SIZE: 8pt; FONT-FAMILY: helvetica, arial, sans-serif; COLOR: rgb(85,85,85)"&gt;&lt;FONT class=text02 style="BACKGROUND: none transparent scroll repeat 0% 0%"&gt;Oct 14, 2016  06:37:02 AM&lt;/FONT&gt;&lt;BR&gt;&lt;FONT class=subTitle style="FONT-SIZE: 12px; BACKGROUND: none transparent scroll repeat 0% 0%; FONT-WEIGHT: bold; COLOR: rgb(0,0,0)"&gt;Cross-honoring with PATH has ended.&lt;/FONT&gt;
+&lt;P style="FONT-SIZE: 8pt; FONT-FAMILY: arial, sans-serif; COLOR: rgb(85,85,85)"&gt;&lt;FONT class=subTitle style="FONT-SIZE: 12px; BACKGROUND: none transparent scroll repeat 0% 0%; FONT-WEIGHT: bold; COLOR: rgb(0,0,0)"&gt;Cross-honoring remains in effect with Hudson-Bergen Light Rail, NJ TRANSIT bus and private carriers until further notice.&lt;/FONT&gt;&lt;/P&gt;&lt;/TD&gt;&lt;/TR&gt;
+&lt;TR&gt;
+&lt;TD style="FONT-SIZE: 8pt; FONT-FAMILY: helvetica, arial, sans-serif; COLOR: rgb(85,85,85)"&gt;&lt;FONT class=text02 style="BACKGROUND: none transparent scroll repeat 0% 0%"&gt;Oct 14, 2016  06:36:32 AM&lt;/FONT&gt;&lt;BR&gt;&lt;FONT class=subTitle style="FONT-SIZE: 12px; BACKGROUND: none transparent scroll repeat 0% 0%; FONT-WEIGHT: bold; COLOR: rgb(0,0,0)"&gt;Partial rail service has resumed for Hoboken Terminal.
+&lt;P style="FONT-SIZE: 8pt; FONT-FAMILY: arial, sans-serif; COLOR: rgb(85,85,85)"&gt;Customers may experience overcrowding and possible delays.&lt;/P&gt;&lt;/FONT&gt;
+&lt;P style="FONT-SIZE: 8pt; FONT-FAMILY: arial, sans-serif; COLOR: rgb(85,85,85)"&gt;&lt;FONT class=subTitle style="FONT-SIZE: 12px; BACKGROUND: none transparent scroll repeat 0% 0%; FONT-WEIGHT: bold; COLOR: rgb(0,0,0)"&gt;Please visit njtransit.com for schedules.&lt;/FONT&gt;&lt;/P&gt;&lt;/TD&gt;&lt;/TR&gt;
+&lt;TR&gt;
+&lt;TD style="FONT-SIZE: 8pt; FONT-FAMILY: helvetica, arial, sans-serif; COLOR: rgb(85,85,85)"&gt;&lt;FONT class=text02 style="BACKGROUND: none transparent scroll repeat 0% 0%"&gt;Oct 14, 2016  06:36:06 AM&lt;/FONT&gt;&lt;BR&gt;&lt;FONT class=subTitle style="FONT-SIZE: 12px; BACKGROUND: none transparent scroll repeat 0% 0%; FONT-WEIGHT: bold; COLOR: rgb(0,0,0)"&gt;Customers who need access to Secaucus are urged to take trains from New York Penn Station.&lt;/FONT&gt;&lt;/TD&gt;&lt;/TR&gt;&lt;/TBODY&gt;&lt;/TABLE&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>10/14/2016</Date>
+    <Time> 7:10AM</Time>
+  </line>
+</MetroNorth></service>
 
-<link rel="shortcut icon" href="http://webserver.mta.info/siteimages/favicon.ico" />
-
-<style type="text/css">
-html { margin:0; padding:0; border:0; overflow-y:scroll; }
-
-body, div, h1, a, ol, ul, li, img { margin: 0; padding: 0; border: 0; font-size: 100%; vertical-align: baseline; }
-
-h1 { font-size:136%; color: #0055aa; font-size: 153.9%; display: block; padding-bottom: 4px; border-bottom: 1px solid #b4b4b4; }
-
-p { margin-bottom:1em; }
-
-body { font:13px/1.231 helvetica,arial,clean,sans-serif; }
-
-#mainbox { width: 960px; margin:0 auto; background-color: #fff; padding: 0 0 20px 0; }
-
-#contentbox { margin: 20px 10px; padding: 0 20px 20px 20px; }
-
-#contentbox a:link {text-decoration: none; color:#0055aa;}
-#contentbox a:visited {text-decoration: none; color:#0055aa;}
-#contentbox a:hover {text-decoration: underline}
-#contentbox a:active {text-decoration: underline}
-
-</style>
-
-</head>
-
-<body>
-
-<div id="mainbox">	
-			<div id="topbar">
-	
-		<div id="branding">
-		<img src="/apology_objects/mta_info.gif" alt="Metropolitan Transportation Authority web logo">
-		</div>
-				<div style="float:right;"><a href="http://mta-nyc.custhelp.com/app/ask">Contact Us</a></div>
-
-<div id="contentbox" class="roundCorners clearfix" >
-		
-<!-- Start Page Content -->
-			 				 		
-<h1>503 Service Unavailable</h1>																		  
-<p>Our site is temporarily unavailable. Please try visiting us again later.</p>
-<p>We apologize for the inconvenience.</p>						
-
-								<!-- End Page Content -->
-
-</div> <!-- close contentbox -->
-</div> <!-- close mainbox -->
-
-  </body>
-</html>
