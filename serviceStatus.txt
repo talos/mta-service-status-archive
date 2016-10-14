@@ -1,21 +1,10 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>PLANNED WORK</status>
-    <text>
-                    &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
-                    &lt;br/&gt;
-                  &lt;a class="plannedWorkDetailLink" onclick=ShowHide(135172);&gt;
-&lt;b&gt;Some [3] trains are rerouted via the [1] between 72 St and 137 St, &lt;i&gt;the last stop
-&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 135172 class="plannedWorkDetail" &gt;&lt;/b&gt;&lt;/i&gt;Rush Hours, 7:30 AM to 9:30 AM and 5 PM to 7:15 PM, Mon to Fri, until Oct 14
-&lt;br&gt;
-&lt;br&gt;&amp;bull; Transfer at 72 St or 96 St for a Harlem-bound [3] train.
-&lt;br&gt;&lt;b&gt;
-&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>10/14/2016</Date>
-    <Time> 9:27AM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>456</name>
@@ -108,7 +97,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>10/14/2016</Date>
-    <Time> 9:27AM</Time>
+    <Time> 9:32AM</Time>
   </line>
 </subway><bus>
   <line>
@@ -305,7 +294,7 @@
               &lt;br/&gt;
             </text>
     <Date>10/14/2016</Date>
-    <Time> 9:27AM</Time>
+    <Time> 9:32AM</Time>
   </line>
   <line>
     <name>M1 - M116</name>
