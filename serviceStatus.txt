@@ -1,15 +1,8 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>DELAYS</status>
+    <status>PLANNED WORK</status>
     <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;10/14/2016&amp;nbsp;10:34AM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  Following an earlier incident at &lt;STRONG&gt;145 St&lt;/STRONG&gt;, [1] train service has resumed with delays.
-                &lt;br/&gt;&lt;br/&gt;
-              
                     &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
                     &lt;br/&gt;
                   &lt;a class="plannedWorkDetailLink" onclick=ShowHide(134830);&gt;
@@ -31,7 +24,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>10/14/2016</Date>
-    <Time>10:34AM</Time>
+    <Time>10:47AM</Time>
   </line>
   <line>
     <name>456</name>
@@ -522,8 +515,22 @@
   </line>
   <line>
     <name>Q1 - Q113</name>
-    <status>DELAYS</status>
+    <status>SERVICE CHANGE</status>
     <text>
+                  &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                  &lt;span class="DateStyle"&gt;
+                  &amp;nbsp;Posted:&amp;nbsp;10/14/2016&amp;nbsp;10:51AM
+                  &lt;/span&gt;
+                  &lt;br/&gt;
+                  &lt;br/&gt;
+                &lt;P&gt;&lt;STRONG&gt;Q76 &lt;/STRONG&gt;buses are detoured, due to road obstruction on Francis Lewis Blvd and 80 Rd. &lt;/P&gt;
+&lt;P&gt;Detour is as follows:&lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;Northbound&lt;/STRONG&gt;: Via Hillside Av, left on Grand Central Pkwy, exit at Francis Lewis Blvd North, right on Francis Lewis Blvd and regular route.&lt;/P&gt;
+&lt;P&gt;Corresponding stops will be made along detour route.&lt;/P&gt;
+&lt;P&gt;Allow additional travel time.&lt;/P&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
                   &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                   &lt;span class="DateStyle"&gt;
                   &amp;nbsp;Posted:&amp;nbsp;10/14/2016&amp;nbsp;10:12AM
@@ -607,7 +614,7 @@
               &lt;br/&gt;
             </text>
     <Date>10/14/2016</Date>
-    <Time>10:12AM</Time>
+    <Time>10:51AM</Time>
   </line>
   <line>
     <name>QM1 - QM44</name>
