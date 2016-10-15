@@ -71,10 +71,17 @@
   </line>
   <line>
     <name>SIR</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>DELAYS</status>
+    <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;10/14/2016&amp;nbsp;10:57PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  Due to an earlier incident at &lt;STRONG&gt;Eltingville&lt;/STRONG&gt;, [SIR] train service has resumed with delays.
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>10/14/2016</Date>
+    <Time>10:57PM</Time>
   </line>
 </subway><bus>
   <line>
@@ -442,8 +449,13 @@
   </line>
   <line>
     <name>Queens Midtown</name>
-    <status>SERVICE CHANGE</status>
+    <status>PLANNED WORK</status>
     <text>
+                    &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
+                    &lt;br/&gt;
+                  QMT: WEEKEND PLANNED WORK; QUEENS BOUND TUBE CLOSED. 2-WAY OPERATION IN THE MANHATTAN BOUND TUBE UNTIL MONDAY 5:30 AM. EXPECT HEAVY DELAYS. USE ALTERNATE RTE.
+                &lt;br/&gt;&lt;br/&gt;
+              
                     &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
                     &amp;nbsp;Posted:&amp;nbsp;10/14/2016&amp;nbsp; 3:12PM
@@ -457,7 +469,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>10/14/2016</Date>
-    <Time> 3:12PM</Time>
+    <Time>10:55PM</Time>
   </line>
   <line>
     <name>Robert F. Kennedy</name>
