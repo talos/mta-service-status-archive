@@ -1,8 +1,16 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>DELAYS</status>
+    <status>SERVICE CHANGE</status>
     <text>
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;10/18/2016&amp;nbsp;10:26AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;P&gt;Due to signal problems at &lt;STRONG&gt;Simpson St&lt;/STRONG&gt;, some northbound [2] and [5] trains are running express from &lt;STRONG&gt;3 Av-149 St&lt;/STRONG&gt; to &lt;STRONG&gt;E 180 St&lt;/STRONG&gt;. &lt;/P&gt;
+&lt;P&gt;Allow additional travel time.&lt;/P&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              
                     &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
                     &amp;nbsp;Posted:&amp;nbsp;10/18/2016&amp;nbsp;10:04AM
@@ -27,12 +35,20 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>10/18/2016</Date>
-    <Time>10:04AM</Time>
+    <Time>10:26AM</Time>
   </line>
   <line>
     <name>456</name>
     <status>SERVICE CHANGE</status>
     <text>
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;10/18/2016&amp;nbsp;10:26AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;P&gt;Due to signal problems at &lt;STRONG&gt;Simpson St&lt;/STRONG&gt;, some northbound [2] and [5] trains are running express from &lt;STRONG&gt;3 Av-149 St&lt;/STRONG&gt; to &lt;STRONG&gt;E 180 St&lt;/STRONG&gt;. &lt;/P&gt;
+&lt;P&gt;Allow additional travel time.&lt;/P&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              
                     &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
                     &amp;nbsp;Posted:&amp;nbsp;10/18/2016&amp;nbsp;10:05AM
@@ -77,7 +93,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>10/18/2016</Date>
-    <Time>10:05AM</Time>
+    <Time>10:26AM</Time>
   </line>
   <line>
     <name>7</name>
@@ -160,7 +176,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>10/18/2016</Date>
-    <Time>10:22AM</Time>
+    <Time>10:27AM</Time>
   </line>
 </subway><bus>
   <line>
@@ -296,7 +312,7 @@
               &lt;br/&gt;
             </text>
     <Date>10/18/2016</Date>
-    <Time>10:22AM</Time>
+    <Time>10:27AM</Time>
   </line>
   <line>
     <name>M1 - M116</name>
