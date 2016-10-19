@@ -69,7 +69,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>10/19/2016</Date>
-    <Time> 8:52AM</Time>
+    <Time> 9:02AM</Time>
   </line>
   <line>
     <name>G</name>
@@ -108,10 +108,22 @@
   </line>
   <line>
     <name>SIR</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>PLANNED WORK</status>
+    <text>
+                    &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
+                    &lt;br/&gt;
+                  &lt;a class="plannedWorkDetailLink" onclick=ShowHide(137702);&gt;
+&lt;b&gt;[SIR] Trains board at the Tottenville-bound platform from Great Kills to Grant City Stations
+&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 137702 class="plannedWorkDetail" &gt;&lt;/b&gt;Days, 9 AM to 2 PM, Mon to Fri, Oct 17 - 21
+&lt;br&gt;
+&lt;br&gt;&amp;bull; Boarding change includes &lt;b&gt;Great Kills&lt;/b&gt;, &lt;b&gt;Bay Terrace&lt;/b&gt;, &lt;b&gt;Oakwood Heights&lt;/b&gt;, &lt;b&gt;New Dorp&lt;/b&gt; and 
+&lt;br&gt;  &lt;b&gt;Grant City Stations&lt;/b&gt;. 
+&lt;br&gt;&lt;b&gt;
+&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>10/19/2016</Date>
+    <Time> 9:02AM</Time>
   </line>
 </subway><bus>
   <line>
@@ -132,6 +144,23 @@
             
                   &lt;span class="TitlePlannedWork" &gt;Planned Detour&lt;/span&gt;
                   &lt;br/&gt;
+                &lt;a class="plannedWorkDetailLink" onclick=ShowHide(137596);&gt;
+&lt;b&gt;B44/B44 &lt;/b&gt;SBS - &lt;b&gt;Northbound buses rerouted from Taylor St at Lee Av to Bedford Av
+&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 137596 class="plannedWorkDetail" &gt;&lt;/b&gt;9 AM Wed to 10 PM Fri, Oct 19 - 21
+&lt;br&gt;
+&lt;br&gt;Due to a local event, buses make corresponding stops along the detoured route.
+&lt;br&gt;
+&lt;br&gt;&lt;i&gt;Reroute Details
+&lt;br&gt;&lt;/i&gt;Via Bedford Av
+&lt;br&gt;Right on Division Av
+&lt;br&gt;Left on Roebling St then regular route
+&lt;br&gt;&lt;b&gt;
+&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
+                  &lt;span class="TitlePlannedWork" &gt;Planned Detour&lt;/span&gt;
+                  &lt;br/&gt;
                 &lt;a class="plannedWorkDetailLink" onclick=ShowHide(132028);&gt;
 &lt;b&gt;B35/B35&lt;/b&gt; LTD&lt;b&gt;, B63 and B70 buses may experience delays due to construction on 5 Av at 39 St
 &lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 132028 class="plannedWorkDetail" &gt;&lt;/b&gt;Until further notice
@@ -143,7 +172,7 @@
               &lt;br/&gt;
             </text>
     <Date>10/19/2016</Date>
-    <Time> 8:52AM</Time>
+    <Time> 9:02AM</Time>
   </line>
   <line>
     <name>B100 - B103</name>
@@ -226,7 +255,7 @@
               &lt;br/&gt;
             </text>
     <Date>10/19/2016</Date>
-    <Time> 8:52AM</Time>
+    <Time> 9:02AM</Time>
   </line>
   <line>
     <name>M1 - M116</name>
