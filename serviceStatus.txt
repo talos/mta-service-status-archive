@@ -626,10 +626,17 @@
   </line>
   <line>
     <name>Oyster Bay</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>DELAYS</status>
+    <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;10/19/2016&amp;nbsp; 1:28PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  The 12:37PM train from Oyster Bay due Jamaica at 1:36PM is being delayed due to congestion caused by a track condition east of Mineola.
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>10/19/2016</Date>
+    <Time> 1:28PM</Time>
   </line>
   <line>
     <name>Port Jefferson</name>
@@ -647,20 +654,10 @@
   </line>
   <line>
     <name>Ronkonkoma</name>
-    <status>DELAYS</status>
-    <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;10/19/2016&amp;nbsp;12:47PM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  &lt;P&gt;Westbound:&lt;/P&gt;
-&lt;P&gt;The 12:16PM train from Farmingdale due Penn at 1:14PM is canceled today due to a track condition east of Mineola. Bus service will accommodate customers from Farmingdale and Bethpage making local stops to New Hyde Park. For service to Jamaica and points west, customers will be accommodated by the next scheduled westbound train.&lt;/P&gt;
-&lt;P&gt;Eastbound:&lt;/P&gt;
-&lt;P&gt;The 11:15AM train from Penn due Ronkonkoma at 12:37PM is operating 23 minutes late due to a customer in need of medical assistance. &lt;/P&gt;
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>10/19/2016</Date>
-    <Time>12:47PM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>West Hempstead</name>
