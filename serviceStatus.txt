@@ -216,8 +216,19 @@
 </subway><bus>
   <line>
     <name>B1 - B84</name>
-    <status>SERVICE CHANGE</status>
+    <status>DELAYS</status>
     <text>
+                  &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                  &lt;span class="DateStyle"&gt;
+                  &amp;nbsp;Posted:&amp;nbsp;10/20/2016&amp;nbsp;12:08AM
+                  &lt;/span&gt;
+                  &lt;br/&gt;
+                  &lt;br/&gt;
+                &lt;P&gt;&lt;STRONG&gt;B37&lt;/STRONG&gt; buses are running with delays in both directions due to traffic conditions on 3 Av between Union St and Atlantic Av.&lt;/P&gt;
+&lt;P&gt;Allow additonal travel time. &lt;/P&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
                   &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
                   &lt;span class="DateStyle"&gt;
                   &amp;nbsp;Posted:&amp;nbsp;10/20/2016&amp;nbsp;12:07AM
@@ -260,17 +271,6 @@
               &lt;br/&gt;
               &lt;br/&gt;
             
-                  &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                  &lt;span class="DateStyle"&gt;
-                  &amp;nbsp;Posted:&amp;nbsp;10/19/2016&amp;nbsp; 8:05PM
-                  &lt;/span&gt;
-                  &lt;br/&gt;
-                  &lt;br/&gt;
-                &lt;P&gt;&lt;STRONG&gt;B37&lt;/STRONG&gt; buses are running with delays in both directions due to traffic conditions on 3 Av between Union St and Atlantic Av.&lt;/P&gt;
-&lt;P&gt;Allow additonal travel time. &lt;/P&gt;
-              &lt;br/&gt;
-              &lt;br/&gt;
-            
                   &lt;span class="TitlePlannedWork" &gt;Planned Detour&lt;/span&gt;
                   &lt;br/&gt;
                 &lt;a class="plannedWorkDetailLink" onclick=ShowHide(137596);&gt;
@@ -301,7 +301,7 @@
               &lt;br/&gt;
             </text>
     <Date>10/20/2016</Date>
-    <Time>12:07AM</Time>
+    <Time>12:08AM</Time>
   </line>
   <line>
     <name>B100 - B103</name>
@@ -309,40 +309,7 @@
     <text>
                   &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
                   &lt;span class="DateStyle"&gt;
-                  &amp;nbsp;Posted:&amp;nbsp;10/19/2016&amp;nbsp; 8:04PM
-                  &lt;/span&gt;
-                  &lt;br/&gt;
-                  &lt;br/&gt;
-                &lt;P&gt;&lt;STRONG&gt;B103-Ltd&lt;/STRONG&gt; and &lt;STRONG&gt;BM2 &lt;/STRONG&gt;buses are detoured due to paving on Avenue M between Remsen Av and E. 95 St. &lt;/P&gt;
-&lt;P&gt;Detour is as follows: &lt;/P&gt;
-&lt;P&gt;&lt;STRONG&gt;Eastboun&lt;/STRONG&gt;d: Via Avenue M. right on Remsen Av, left on Avenue N, left on Rockaway Pkwy, right on Avenue M and regular route. &lt;/P&gt;
-&lt;P&gt;&lt;STRONG&gt;Westbound&lt;/STRONG&gt;: Via Avenue M, left on E. 95 St, right on Avenue N, right on E. 85 St, right on Remsen Av, left on Avenue M, and regular route. &lt;/P&gt;
-&lt;P&gt;All corresponding stops will be made along the detoured route. &lt;/P&gt;
-&lt;P&gt;Allow additional travel time. &lt;/P&gt;
-              &lt;br/&gt;
-              &lt;br/&gt;
-            </text>
-    <Date>10/19/2016</Date>
-    <Time> 8:04PM</Time>
-  </line>
-  <line>
-    <name>BM1 - BM5</name>
-    <status>DELAYS</status>
-    <text>
-                  &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                  &lt;span class="DateStyle"&gt;
-                  &amp;nbsp;Posted:&amp;nbsp;10/20/2016&amp;nbsp;12:07AM
-                  &lt;/span&gt;
-                  &lt;br/&gt;
-                  &lt;br/&gt;
-                &lt;P&gt;&lt;STRONG&gt;BM1, BM2, BM3, BM4, X1, X2, X3, X4, X5, X8, X9, X10, X11, X12, X14, X15, X17, X19, X27, X28, X37, X38 &lt;/STRONG&gt;and &lt;STRONG&gt;X42 &lt;/STRONG&gt;buses are running with delays in both directions due to traffic conditions on the Gowanus Expy between 39 St and the Brooklyn Queens Expy. &lt;/P&gt;
-&lt;P&gt;Allow additonal travel time.&lt;/P&gt;
-              &lt;br/&gt;
-              &lt;br/&gt;
-            
-                  &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
-                  &lt;span class="DateStyle"&gt;
-                  &amp;nbsp;Posted:&amp;nbsp;10/19/2016&amp;nbsp; 8:04PM
+                  &amp;nbsp;Posted:&amp;nbsp;10/20/2016&amp;nbsp;12:09AM
                   &lt;/span&gt;
                   &lt;br/&gt;
                   &lt;br/&gt;
@@ -356,12 +323,58 @@
               &lt;br/&gt;
             </text>
     <Date>10/20/2016</Date>
-    <Time>12:07AM</Time>
+    <Time>12:09AM</Time>
+  </line>
+  <line>
+    <name>BM1 - BM5</name>
+    <status>SERVICE CHANGE</status>
+    <text>
+                  &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                  &lt;span class="DateStyle"&gt;
+                  &amp;nbsp;Posted:&amp;nbsp;10/20/2016&amp;nbsp;12:09AM
+                  &lt;/span&gt;
+                  &lt;br/&gt;
+                  &lt;br/&gt;
+                &lt;P&gt;&lt;STRONG&gt;B103-Ltd&lt;/STRONG&gt; and &lt;STRONG&gt;BM2 &lt;/STRONG&gt;buses are detoured due to paving on Avenue M between Remsen Av and E. 95 St. &lt;/P&gt;
+&lt;P&gt;Detour is as follows: &lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;Eastboun&lt;/STRONG&gt;d: Via Avenue M. right on Remsen Av, left on Avenue N, left on Rockaway Pkwy, right on Avenue M and regular route. &lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;Westbound&lt;/STRONG&gt;: Via Avenue M, left on E. 95 St, right on Avenue N, right on E. 85 St, right on Remsen Av, left on Avenue M, and regular route. &lt;/P&gt;
+&lt;P&gt;All corresponding stops will be made along the detoured route. &lt;/P&gt;
+&lt;P&gt;Allow additional travel time. &lt;/P&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
+                  &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                  &lt;span class="DateStyle"&gt;
+                  &amp;nbsp;Posted:&amp;nbsp;10/20/2016&amp;nbsp;12:07AM
+                  &lt;/span&gt;
+                  &lt;br/&gt;
+                  &lt;br/&gt;
+                &lt;P&gt;&lt;STRONG&gt;BM1, BM2, BM3, BM4, X1, X2, X3, X4, X5, X8, X9, X10, X11, X12, X14, X15, X17, X19, X27, X28, X37, X38 &lt;/STRONG&gt;and &lt;STRONG&gt;X42 &lt;/STRONG&gt;buses are running with delays in both directions due to traffic conditions on the Gowanus Expy between 39 St and the Brooklyn Queens Expy. &lt;/P&gt;
+&lt;P&gt;Allow additonal travel time.&lt;/P&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            </text>
+    <Date>10/20/2016</Date>
+    <Time>12:09AM</Time>
   </line>
   <line>
     <name>BX1 - BX55</name>
     <status>SERVICE CHANGE</status>
     <text>
+                  &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                  &lt;span class="DateStyle"&gt;
+                  &amp;nbsp;Posted:&amp;nbsp;10/20/2016&amp;nbsp;12:08AM
+                  &lt;/span&gt;
+                  &lt;br/&gt;
+                  &lt;br/&gt;
+                &lt;P&gt;&lt;STRONG&gt;Bx41&lt;/STRONG&gt; and &lt;STRONG&gt;Bx41-SBS&lt;/STRONG&gt; buses are detoured, due to construction on 152 St. &lt;/P&gt;
+&lt;P&gt;Detour is as follows:&lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;Northbound&lt;/STRONG&gt;: Via 3 Av, left on 153 St, right on Melrose Av and regular route.&lt;/P&gt;
+&lt;P&gt;Allow additional travel time.&lt;/P&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
                   &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
                   &lt;span class="DateStyle"&gt;
                   &amp;nbsp;Posted:&amp;nbsp;10/20/2016&amp;nbsp;12:05AM
@@ -372,19 +385,6 @@
 &lt;P&gt;Detour is as follows:&lt;/P&gt;
 &lt;P&gt;&lt;STRONG&gt;BX40 and BX42 Westbound&lt;/STRONG&gt;: Via Burnside Av, left on Grand Concourse, right on Tremont Av to University Av and regular route.&lt;/P&gt;
 &lt;P&gt;&lt;STRONG&gt;BX40 and BX42 Eastbound&lt;/STRONG&gt;: Via Burnside Av, left on Tremont Av, left on Grand Concourse, right on Burnside Av and regular route.&lt;/P&gt;
-&lt;P&gt;Allow additional travel time.&lt;/P&gt;
-              &lt;br/&gt;
-              &lt;br/&gt;
-            
-                  &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
-                  &lt;span class="DateStyle"&gt;
-                  &amp;nbsp;Posted:&amp;nbsp;10/19/2016&amp;nbsp; 8:04PM
-                  &lt;/span&gt;
-                  &lt;br/&gt;
-                  &lt;br/&gt;
-                &lt;P&gt;&lt;STRONG&gt;Bx41&lt;/STRONG&gt; and &lt;STRONG&gt;Bx41-SBS&lt;/STRONG&gt; buses are detoured, due to construction on 152 St. &lt;/P&gt;
-&lt;P&gt;Detour is as follows:&lt;/P&gt;
-&lt;P&gt;&lt;STRONG&gt;Northbound&lt;/STRONG&gt;: Via 3 Av, left on 153 St, right on Melrose Av and regular route.&lt;/P&gt;
 &lt;P&gt;Allow additional travel time.&lt;/P&gt;
               &lt;br/&gt;
               &lt;br/&gt;
@@ -417,7 +417,7 @@
               &lt;br/&gt;
             </text>
     <Date>10/20/2016</Date>
-    <Time>12:05AM</Time>
+    <Time>12:08AM</Time>
   </line>
   <line>
     <name>BXM1 - BXM18</name>
