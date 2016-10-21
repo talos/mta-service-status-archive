@@ -60,25 +60,33 @@
   </line>
   <line>
     <name>ACE</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
-  </line>
-  <line>
-    <name>BDFM</name>
-    <status>DELAYS</status>
+    <status>SERVICE CHANGE</status>
     <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;10/20/2016&amp;nbsp; 9:46PM
+                    &amp;nbsp;Posted:&amp;nbsp;10/20/2016&amp;nbsp; 9:52PM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  &lt;P&gt;Due to rail condition at &lt;STRONG&gt;145 St&lt;/STRONG&gt;, southbound [B] trains are running with delays.&lt;/P&gt;
-&lt;P&gt;Allow additional travel time.&lt;/P&gt;
+                  &lt;P&gt;Due to rail condition at &lt;STRONG&gt;145 St&lt;/STRONG&gt;, southbound [B] and [C] trains are running express from &lt;STRONG&gt;145 St&lt;/STRONG&gt; to &lt;STRONG&gt;125 St&lt;/STRONG&gt;.&lt;/P&gt;
+&lt;P&gt; Allow additional travel time.&lt;/P&gt;
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>10/20/2016</Date>
-    <Time> 9:46PM</Time>
+    <Time> 9:52PM</Time>
+  </line>
+  <line>
+    <name>BDFM</name>
+    <status>SERVICE CHANGE</status>
+    <text>
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;10/20/2016&amp;nbsp; 9:52PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;P&gt;Due to rail condition at &lt;STRONG&gt;145 St&lt;/STRONG&gt;, southbound [B] and [C] trains are running express from &lt;STRONG&gt;145 St&lt;/STRONG&gt; to &lt;STRONG&gt;125 St&lt;/STRONG&gt;.&lt;/P&gt;
+&lt;P&gt; Allow additional travel time.&lt;/P&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>10/20/2016</Date>
+    <Time> 9:52PM</Time>
   </line>
   <line>
     <name>G</name>
@@ -223,12 +231,22 @@
               &lt;br/&gt;
             </text>
     <Date>10/20/2016</Date>
-    <Time> 9:47PM</Time>
+    <Time> 9:52PM</Time>
   </line>
   <line>
     <name>M1 - M116</name>
     <status>DELAYS</status>
     <text>
+                  &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                  &lt;span class="DateStyle"&gt;
+                  &amp;nbsp;Posted:&amp;nbsp;10/20/2016&amp;nbsp; 9:51PM
+                  &lt;/span&gt;
+                  &lt;br/&gt;
+                  &lt;br/&gt;
+                Following an earlier incident on 59 St, &lt;STRONG&gt;M5&lt;/STRONG&gt; bus service has resumed with delays.
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
                   &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                   &lt;span class="DateStyle"&gt;
                   &amp;nbsp;Posted:&amp;nbsp;10/20/2016&amp;nbsp; 9:50PM
@@ -294,20 +312,9 @@
 &lt;P&gt;Allow additional travel time.&lt;/P&gt;
               &lt;br/&gt;
               &lt;br/&gt;
-            
-                  &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                  &lt;span class="DateStyle"&gt;
-                  &amp;nbsp;Posted:&amp;nbsp;10/20/2016&amp;nbsp; 6:07PM
-                  &lt;/span&gt;
-                  &lt;br/&gt;
-                  &lt;br/&gt;
-                &lt;P&gt;&lt;STRONG&gt;M5&lt;/STRONG&gt; buses are running with delays southbound due to traffic conditions on 59 St between Columbus Circle and 5 Av. &lt;/P&gt;
-&lt;P&gt;Allow additional travel time.&lt;/P&gt;
-              &lt;br/&gt;
-              &lt;br/&gt;
             </text>
     <Date>10/20/2016</Date>
-    <Time> 9:50PM</Time>
+    <Time> 9:51PM</Time>
   </line>
   <line>
     <name>Q1 - Q113</name>
@@ -326,7 +333,7 @@
               &lt;br/&gt;
             </text>
     <Date>10/20/2016</Date>
-    <Time> 9:47PM</Time>
+    <Time> 9:52PM</Time>
   </line>
   <line>
     <name>QM1 - QM44</name>
@@ -477,17 +484,14 @@
     <text>
                     &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;10/20/2016&amp;nbsp; 9:20PM
+                    &amp;nbsp;Posted:&amp;nbsp;10/20/2016&amp;nbsp; 9:51PM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  &lt;DIV class="body portlet-content"&gt;The 6:17PM train from Jamaica due Montauk at 9:07PM is operating 44 minutes late due to a late train ahead.&lt;/DIV&gt;
-&lt;DIV class="body portlet-content"&gt; &lt;/DIV&gt;
-&lt;DIV class="body portlet-content"&gt;
-&lt;P&gt;The 8:36PM train from Babylon due Speonk at 9:38PM is operating 42 minutes late after being delayed due to late-arriving equipment as a result of earlier police activity in Sayville. &lt;/P&gt;&lt;/DIV&gt;
+                  &lt;DIV class="body portlet-content"&gt;The 8:36PM train from Babylon due Speonk at 9:38PM is operating 42 minutes late after being delayed due to late-arriving equipment as a result of earlier police activity in Sayville. &lt;/DIV&gt;
 &lt;DIV class="body portlet-content"&gt;&lt;STRONG&gt;&lt;/STRONG&gt; &lt;/DIV&gt;
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>10/20/2016</Date>
-    <Time> 9:20PM</Time>
+    <Time> 9:51PM</Time>
   </line>
   <line>
     <name>Oyster Bay</name>
