@@ -1,8 +1,16 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>PLANNED WORK</status>
+    <status>SERVICE CHANGE</status>
     <text>
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;10/21/2016&amp;nbsp; 2:05AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;P&gt;Due to an NYPD Investigation at &lt;STRONG&gt;86 St&lt;/STRONG&gt;, southbound [1] trains are running express from&lt;STRONG&gt; 96 St&lt;/STRONG&gt; to &lt;STRONG&gt;72 St&lt;/STRONG&gt;. &lt;/P&gt;
+&lt;P&gt;Allow additional travel time.&lt;/P&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              
                     &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
                     &lt;br/&gt;
                   &lt;a class="plannedWorkDetailLink" onclick=ShowHide(135515);&gt;
@@ -46,7 +54,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>10/21/2016</Date>
-    <Time> 2:02AM</Time>
+    <Time> 2:05AM</Time>
   </line>
   <line>
     <name>456</name>
