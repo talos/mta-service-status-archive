@@ -106,7 +106,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>10/22/2016</Date>
-    <Time> 6:52AM</Time>
+    <Time> 7:02AM</Time>
   </line>
   <line>
     <name>456</name>
@@ -201,7 +201,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>10/22/2016</Date>
-    <Time> 6:52AM</Time>
+    <Time> 7:02AM</Time>
   </line>
   <line>
     <name>7</name>
@@ -256,7 +256,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>10/22/2016</Date>
-    <Time> 6:52AM</Time>
+    <Time> 7:02AM</Time>
   </line>
   <line>
     <name>ACE</name>
@@ -313,7 +313,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>10/22/2016</Date>
-    <Time> 6:52AM</Time>
+    <Time> 7:02AM</Time>
   </line>
   <line>
     <name>BDFM</name>
@@ -348,7 +348,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>10/22/2016</Date>
-    <Time> 6:52AM</Time>
+    <Time> 7:02AM</Time>
   </line>
   <line>
     <name>G</name>
@@ -373,10 +373,22 @@
   </line>
   <line>
     <name>NQR</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>PLANNED WORK</status>
+    <text>
+                    &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
+                    &lt;br/&gt;
+                  &lt;a class="plannedWorkDetailLink" onclick=ShowHide(135610);&gt;
+&lt;b&gt;[Q] Service operates between Stillwell Av and Ditmars Blvd
+&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 135610 class="plannedWorkDetail" &gt;&lt;/b&gt;Weekend, 7 AM to 9 PM, Saturday, Oct 22
+&lt;br&gt;                9 AM to 7 PM, Sunday, Oct 23
+&lt;br&gt;
+&lt;br&gt;Weekend service operates between &lt;b&gt;Stillwell Av&lt;/b&gt; and &lt;b&gt;57 St-7Av &lt;/b&gt;all other times.
+&lt;br&gt;&lt;/font&gt;&lt;b&gt;
+&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>10/22/2016</Date>
+    <Time> 7:02AM</Time>
   </line>
   <line>
     <name>S</name>
@@ -409,7 +421,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>10/22/2016</Date>
-    <Time> 6:52AM</Time>
+    <Time> 7:02AM</Time>
   </line>
 </subway><bus>
   <line>
@@ -446,7 +458,7 @@
               &lt;br/&gt;
             </text>
     <Date>10/22/2016</Date>
-    <Time> 6:52AM</Time>
+    <Time> 7:02AM</Time>
   </line>
   <line>
     <name>B100 - B103</name>
@@ -486,7 +498,7 @@
               &lt;br/&gt;
             </text>
     <Date>10/22/2016</Date>
-    <Time> 6:52AM</Time>
+    <Time> 7:02AM</Time>
   </line>
   <line>
     <name>M1 - M116</name>
@@ -512,22 +524,12 @@
               &lt;br/&gt;
             </text>
     <Date>10/22/2016</Date>
-    <Time> 6:52AM</Time>
+    <Time> 7:02AM</Time>
   </line>
   <line>
     <name>Q1 - Q113</name>
-    <status>DELAYS</status>
+    <status>PLANNED WORK</status>
     <text>
-                  &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                  &lt;span class="DateStyle"&gt;
-                  &amp;nbsp;Posted:&amp;nbsp;10/22/2016&amp;nbsp; 5:29AM
-                  &lt;/span&gt;
-                  &lt;br/&gt;
-                  &lt;br/&gt;
-                Following an earlier incident on Woodhaven Blvd, &lt;STRONG&gt;Q11&lt;/STRONG&gt; and &lt;STRONG&gt;Q53&lt;/STRONG&gt; bus service has resumed with delays.
-              &lt;br/&gt;
-              &lt;br/&gt;
-            
                   &lt;span class="TitlePlannedWork" &gt;Planned Detour&lt;/span&gt;
                   &lt;br/&gt;
                 &lt;a class="plannedWorkDetailLink" onclick=ShowHide(68484);&gt;
@@ -541,7 +543,7 @@
               &lt;br/&gt;
             </text>
     <Date>10/22/2016</Date>
-    <Time> 5:29AM</Time>
+    <Time> 7:02AM</Time>
   </line>
   <line>
     <name>QM1 - QM44</name>
