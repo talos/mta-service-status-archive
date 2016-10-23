@@ -40,6 +40,25 @@
               
                     &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
                     &lt;br/&gt;
+                  &lt;a class="plannedWorkDetailLink" onclick=ShowHide(135505);&gt;
+&lt;b&gt;[3] No trains between Utica Av and New Lots Av
+&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 135505 class="plannedWorkDetail" &gt;[SB] Free shuttle buses provide alternate service
+&lt;br&gt;&lt;/b&gt;&lt;a href=http://advisory.mtanyct.info/pdf_files/ServiceGuide.pdf target=_blank&gt;&lt;font color=#0000FF&gt;&lt;b&gt;&lt;u&gt;Weekend&lt;/u&gt;&lt;/b&gt;&lt;/font&gt;&lt;/a&gt;, Saturday &lt;i&gt;and&lt;/i&gt; Sunday, Oct 22 - 23 
+&lt;br&gt;
+&lt;br&gt;[3] trains operate between 148 St and Utica Av,&lt;i&gt; all weekend&lt;/i&gt;.
+&lt;br&gt;
+&lt;br&gt;[SB] Buses operate between &lt;b&gt;Utica Av&lt;/b&gt; and &lt;b&gt;New Lots Av&lt;/b&gt;, making all stops.  
+&lt;br&gt; &amp;#149; Transfer between &lt;b&gt;[3]&lt;/b&gt; trains and [SB] buses at Utica Av.
+&lt;br&gt;
+&lt;br&gt;&lt;font size=3&gt;&lt;b&gt;&lt;a style="cursor:pointer; text-decoration:underline;" onclick=ShowHide(1355050);&gt;Show Shuttle Bus Stops&lt;/a&gt;&lt;/b&gt;&lt;/font&gt;&lt;div id="1355050"; style="display:none;"&gt;&lt;table class=plannedworkTableStyle  border=1 cellspacing=1 cellpadding=3 rules=rows frame=hsides&gt;&lt;tr bgcolor=#FAF8CC&gt;&lt;td&gt; [3] &lt;b&gt;Station&lt;/b&gt;&lt;td&gt;&lt;b&gt;Shuttle Bus Stop&lt;/b&gt;&lt;tr&gt;&lt;td&gt;Utica Av  [ad] [3] &lt;/font&gt;&amp;nbsp;&amp;nbsp;&lt;td&gt;Eastern Pkwy at Utica Av&lt;tr&gt;&lt;td&gt;Sutter Av&lt;td&gt;E 98 St at Sutter Av&lt;tr&gt;&lt;td&gt;Saratoga Av&lt;td&gt;Livonia Av at Saratoga Av&lt;tr&gt;&lt;td rowspan=2&gt;Rockaway Av&lt;td&gt;Livonia Av at Chester  Av&lt;tr&gt;&lt;td&gt; Livonia Av at Osborn St&lt;tr&gt;&lt;td&gt;Junius St&lt;td&gt;Livonia Av at Sackman St&lt;tr&gt;&lt;td&gt;Pennsylvania Av&lt;td&gt;Livonia Av at Pennsylvania Av&lt;tr&gt;&lt;td&gt;Van Siclen Av&lt;td&gt;Livonia Av at Van Siclen Av&lt;tr&gt;&lt;td&gt;New Lots Av&lt;td&gt;Livonia Av at Ashford St&lt;/table&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;br&gt;
+&lt;br&gt;&lt;b&gt;Note:&lt;/b&gt; Sutter Av-Rutland Rd and Junius St are closed for renovation.
+&lt;br&gt;&lt;b&gt;
+&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              
+                    &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
+                    &lt;br/&gt;
                   &lt;a class="plannedWorkDetailLink" onclick=ShowHide(135499);&gt;
 &lt;b&gt;[2] Trains run local in both directions between 34 St-Penn Station and Chambers St
 &lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 135499 class="plannedWorkDetail" &gt;&lt;/b&gt;Weekends, 11:30 PM Fri to 5 AM Mon, Oct 21 - 24&amp;nbsp;&amp;nbsp;&amp;bull;&amp;nbsp;&amp;nbsp;Oct 28 - 31
@@ -226,7 +245,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>10/23/2016</Date>
-    <Time> 8:02AM</Time>
+    <Time> 8:07AM</Time>
   </line>
   <line>
     <name>ACE</name>
@@ -283,7 +302,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>10/23/2016</Date>
-    <Time> 8:02AM</Time>
+    <Time> 8:07AM</Time>
   </line>
   <line>
     <name>BDFM</name>
@@ -318,7 +337,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>10/23/2016</Date>
-    <Time> 8:02AM</Time>
+    <Time> 8:07AM</Time>
   </line>
   <line>
     <name>G</name>
@@ -379,7 +398,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>10/23/2016</Date>
-    <Time> 8:02AM</Time>
+    <Time> 8:07AM</Time>
   </line>
 </subway><bus>
   <line>
@@ -481,7 +500,7 @@
               &lt;br/&gt;
             </text>
     <Date>10/23/2016</Date>
-    <Time> 8:02AM</Time>
+    <Time> 8:07AM</Time>
   </line>
   <line>
     <name>BXM1 - BXM18</name>
@@ -524,7 +543,7 @@
               &lt;br/&gt;
             </text>
     <Date>10/23/2016</Date>
-    <Time> 8:02AM</Time>
+    <Time> 8:07AM</Time>
   </line>
   <line>
     <name>M1 - M116</name>
@@ -550,7 +569,7 @@
               &lt;br/&gt;
             </text>
     <Date>10/23/2016</Date>
-    <Time> 8:02AM</Time>
+    <Time> 8:07AM</Time>
   </line>
   <line>
     <name>Q1 - Q113</name>
@@ -735,6 +754,11 @@
     <text>
                     &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
                     &lt;br/&gt;
+                  VNB: PLANNED WORK; S. I. BOUND UPPER LEVEL ONE LANE CLOSED; EXPECT DELAYS.
+                &lt;br/&gt;&lt;br/&gt;
+              
+                    &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
+                    &lt;br/&gt;
                   VNB: PLANNED WORK; S. I. BOUND LOWER LEVEL - CLOSED; EXPECT DELAYS.
                 &lt;br/&gt;&lt;br/&gt;
               
@@ -744,7 +768,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>10/23/2016</Date>
-    <Time> 1:45AM</Time>
+    <Time> 8:05AM</Time>
   </line>
 </BT><LIRR>
   <line>
