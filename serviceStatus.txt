@@ -109,10 +109,22 @@
   </line>
   <line>
     <name>SIR</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>PLANNED WORK</status>
+    <text>
+                    &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
+                    &lt;br/&gt;
+                  &lt;a class="plannedWorkDetailLink" onclick=ShowHide(138335);&gt;
+&lt;b&gt;[SIR] Trains board at the Tottenville-bound platform from Atlantic to Prince's Bay Stations
+&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 138335 class="plannedWorkDetail" &gt;&lt;/b&gt;Days, 9 AM to 2 PM, Mon to Wed, Oct 24 - 26
+&lt;br&gt;
+&lt;br&gt;&amp;bull; Boarding change includes &lt;b&gt;Atlantic&lt;/b&gt;, &lt;b&gt;Nassau&lt;/b&gt;, &lt;b&gt;Richmond Valley&lt;/b&gt;, &lt;b&gt;Pleasant Plains&lt;/b&gt; and 
+&lt;br&gt;  &lt;b&gt;Prince's Bay Stations&lt;/b&gt;. 
+&lt;br&gt;&lt;b&gt;
+&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>10/24/2016</Date>
+    <Time> 9:02AM</Time>
   </line>
 </subway><bus>
   <line>
@@ -223,7 +235,7 @@
               &lt;br/&gt;
             </text>
     <Date>10/24/2016</Date>
-    <Time> 8:52AM</Time>
+    <Time> 9:02AM</Time>
   </line>
   <line>
     <name>M1 - M116</name>
@@ -528,13 +540,13 @@
     <text>
                     &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;10/24/2016&amp;nbsp; 7:59AM
+                    &amp;nbsp;Posted:&amp;nbsp;10/24/2016&amp;nbsp; 9:00AM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  The 6:57AM train from Port Jefferson due Hunterspoint Ave. at 8:43AM and extended to Long Island City is operating 10 minutes late due to earlier equipment trouble.&lt;br&gt;&lt;br&gt;The 7:35AM train from Port Jefferson due Penn at 9:24AM is operating 10 minutes late due to a delayed eastbound train in single-track territory.&lt;br&gt;
+                  The 7:35AM train from Port Jefferson due Penn at 9:24AM is operating 10 minutes late due to a delayed eastbound train in single-track territory.&lt;br&gt;
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>10/24/2016</Date>
-    <Time> 7:59AM</Time>
+    <Time> 9:00AM</Time>
   </line>
   <line>
     <name>Port Washington</name>
