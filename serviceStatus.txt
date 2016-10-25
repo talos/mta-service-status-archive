@@ -1,10 +1,18 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>DELAYS</status>
+    <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;10/25/2016&amp;nbsp; 4:22PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;P&gt;Due to signal problems at &lt;STRONG&gt;207 St&lt;/STRONG&gt;, southbound [1] trains are running with delays  &lt;/P&gt;
+&lt;P&gt;Allow additional travel time.&lt;/P&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>10/25/2016</Date>
+    <Time> 4:22PM</Time>
   </line>
   <line>
     <name>456</name>
@@ -61,7 +69,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>10/25/2016</Date>
-    <Time> 4:12PM</Time>
+    <Time> 4:22PM</Time>
   </line>
   <line>
     <name>G</name>
@@ -183,7 +191,7 @@
               &lt;br/&gt;
             </text>
     <Date>10/25/2016</Date>
-    <Time> 4:12PM</Time>
+    <Time> 4:22PM</Time>
   </line>
   <line>
     <name>BX1 - BX55</name>
@@ -392,7 +400,7 @@
               &lt;br/&gt;
             </text>
     <Date>10/25/2016</Date>
-    <Time> 4:12PM</Time>
+    <Time> 4:22PM</Time>
   </line>
   <line>
     <name>S40 - S98</name>
