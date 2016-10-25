@@ -1,8 +1,16 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>SERVICE CHANGE</status>
+    <status>DELAYS</status>
     <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;10/25/2016&amp;nbsp;12:31PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;P&gt;Due to signal problems at &lt;STRONG&gt;Nevins St&lt;/STRONG&gt;, northbound [2] and [3] trains are running with delays.&lt;/P&gt;
+&lt;P&gt;Allow additional travel time.&lt;/P&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              
                     &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
                     &amp;nbsp;Posted:&amp;nbsp;10/25/2016&amp;nbsp;11:40AM
@@ -30,7 +38,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>10/25/2016</Date>
-    <Time>11:40AM</Time>
+    <Time>12:31PM</Time>
   </line>
   <line>
     <name>456</name>
@@ -76,7 +84,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>10/25/2016</Date>
-    <Time>12:27PM</Time>
+    <Time>12:32PM</Time>
   </line>
   <line>
     <name>7</name>
@@ -208,7 +216,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>10/25/2016</Date>
-    <Time>12:27PM</Time>
+    <Time>12:32PM</Time>
   </line>
   <line>
     <name>S</name>
@@ -234,7 +242,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>10/25/2016</Date>
-    <Time>12:27PM</Time>
+    <Time>12:32PM</Time>
   </line>
 </subway><bus>
   <line>
@@ -316,7 +324,7 @@
               &lt;br/&gt;
             </text>
     <Date>10/25/2016</Date>
-    <Time>12:27PM</Time>
+    <Time>12:32PM</Time>
   </line>
   <line>
     <name>BX1 - BX55</name>
@@ -342,7 +350,7 @@
               &lt;br/&gt;
             </text>
     <Date>10/25/2016</Date>
-    <Time>12:27PM</Time>
+    <Time>12:32PM</Time>
   </line>
   <line>
     <name>M1 - M116</name>
