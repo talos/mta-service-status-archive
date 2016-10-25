@@ -136,8 +136,21 @@
 </subway><bus>
   <line>
     <name>B1 - B84</name>
-    <status>PLANNED WORK</status>
+    <status>SERVICE CHANGE</status>
     <text>
+                  &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                  &lt;span class="DateStyle"&gt;
+                  &amp;nbsp;Posted:&amp;nbsp;10/25/2016&amp;nbsp; 9:17AM
+                  &lt;/span&gt;
+                  &lt;br/&gt;
+                  &lt;br/&gt;
+                &lt;P&gt;&lt;STRONG&gt;B44&lt;/STRONG&gt; buses are detoured, due to road work on New York Av from Av D to Cortelyou Rd. &lt;/P&gt;
+&lt;P&gt;Detour is as follows:&lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;Northbound&lt;/STRONG&gt;: Via New York Av, left on Avenue D, right on Rogers Av, right on Cortelyou Rd, left on New York Av and regular route.&lt;/P&gt;
+&lt;P&gt;Allow additional travel time.&lt;/P&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
                   &lt;span class="TitlePlannedWork" &gt;Planned Detour&lt;/span&gt;
                   &lt;br/&gt;
                 &lt;a class="plannedWorkDetailLink" onclick=ShowHide(117571);&gt;
@@ -163,7 +176,7 @@
               &lt;br/&gt;
             </text>
     <Date>10/25/2016</Date>
-    <Time> 9:12AM</Time>
+    <Time> 9:17AM</Time>
   </line>
   <line>
     <name>B100 - B103</name>
