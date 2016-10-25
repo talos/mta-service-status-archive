@@ -1,17 +1,10 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>DELAYS</status>
-    <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;10/25/2016&amp;nbsp; 8:40AM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  Following an earlier incident at &lt;STRONG&gt;72 St&lt;/STRONG&gt;, [1], [2] and [3] train service has resumed with delays.
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>10/25/2016</Date>
-    <Time> 8:40AM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>456</name>
@@ -22,18 +15,17 @@
   </line>
   <line>
     <name>7</name>
-    <status>SERVICE CHANGE</status>
+    <status>DELAYS</status>
     <text>
-                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;10/25/2016&amp;nbsp; 8:52AM
+                    &amp;nbsp;Posted:&amp;nbsp;10/25/2016&amp;nbsp; 9:00AM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  &lt;P&gt;Due to a sick passenger at&lt;STRONG&gt; 33 St-Rawson St&lt;/STRONG&gt;, 34 St-bound [7] trains are running express from &lt;STRONG&gt;74 St-Broadway&lt;/STRONG&gt; to &lt;STRONG&gt;Queensboro Plaza.&lt;/STRONG&gt;&lt;/P&gt;
-&lt;P&gt;Allow additional travel time.&lt;/P&gt;
+                  Following an earlier incident at &lt;STRONG&gt;33 St-Rawson St&lt;/STRONG&gt;, [7] train service has resumed with delays.
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>10/25/2016</Date>
-    <Time> 8:52AM</Time>
+    <Time> 9:00AM</Time>
   </line>
   <line>
     <name>ACE</name>
@@ -109,13 +101,13 @@
     <text>
                     &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;10/25/2016&amp;nbsp; 8:59AM
+                    &amp;nbsp;Posted:&amp;nbsp;10/25/2016&amp;nbsp; 9:00AM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
                   Due to an earlier incident at &lt;STRONG&gt;Morgan Av&lt;/STRONG&gt;, [L] train service has resumed with residual delays.
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>10/25/2016</Date>
-    <Time> 8:59AM</Time>
+    <Time> 9:00AM</Time>
   </line>
   <line>
     <name>NQR</name>
@@ -133,10 +125,22 @@
   </line>
   <line>
     <name>SIR</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>PLANNED WORK</status>
+    <text>
+                    &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
+                    &lt;br/&gt;
+                  &lt;a class="plannedWorkDetailLink" onclick=ShowHide(138335);&gt;
+&lt;b&gt;[SIR] Trains board at the Tottenville-bound platform from Atlantic to Prince's Bay Stations
+&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 138335 class="plannedWorkDetail" &gt;&lt;/b&gt;Days, 9 AM to 2 PM, Mon to Wed, Oct 24 - 26
+&lt;br&gt;
+&lt;br&gt;&amp;bull; Boarding change includes &lt;b&gt;Atlantic&lt;/b&gt;, &lt;b&gt;Nassau&lt;/b&gt;, &lt;b&gt;Richmond Valley&lt;/b&gt;, &lt;b&gt;Pleasant Plains&lt;/b&gt; and 
+&lt;br&gt;  &lt;b&gt;Prince's Bay Stations&lt;/b&gt;. 
+&lt;br&gt;&lt;b&gt;
+&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>10/25/2016</Date>
+    <Time> 9:02AM</Time>
   </line>
 </subway><bus>
   <line>
@@ -168,7 +172,7 @@
               &lt;br/&gt;
             </text>
     <Date>10/25/2016</Date>
-    <Time> 8:52AM</Time>
+    <Time> 9:02AM</Time>
   </line>
   <line>
     <name>B100 - B103</name>
@@ -194,7 +198,7 @@
               &lt;br/&gt;
             </text>
     <Date>10/25/2016</Date>
-    <Time> 8:52AM</Time>
+    <Time> 9:02AM</Time>
   </line>
   <line>
     <name>BX1 - BX55</name>
@@ -220,7 +224,7 @@
               &lt;br/&gt;
             </text>
     <Date>10/25/2016</Date>
-    <Time> 8:52AM</Time>
+    <Time> 9:02AM</Time>
   </line>
   <line>
     <name>M1 - M116</name>
