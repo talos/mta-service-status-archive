@@ -1,17 +1,31 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>DELAYS</status>
+    <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;10/26/2016&amp;nbsp; 8:29AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  Due to an earlier incident at &lt;STRONG&gt;Flatbush Av-Brooklyn College&lt;/STRONG&gt;, [2] and [5] train service has resumed with delays.
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>10/26/2016</Date>
+    <Time> 8:29AM</Time>
   </line>
   <line>
     <name>456</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>DELAYS</status>
+    <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;10/26/2016&amp;nbsp; 8:29AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  Due to an earlier incident at &lt;STRONG&gt;Flatbush Av-Brooklyn College&lt;/STRONG&gt;, [2] and [5] train service has resumed with delays.
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>10/26/2016</Date>
+    <Time> 8:29AM</Time>
   </line>
   <line>
     <name>7</name>
@@ -111,18 +125,8 @@
 </subway><bus>
   <line>
     <name>B1 - B84</name>
-    <status>DELAYS</status>
+    <status>PLANNED WORK</status>
     <text>
-                  &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                  &lt;span class="DateStyle"&gt;
-                  &amp;nbsp;Posted:&amp;nbsp;10/26/2016&amp;nbsp; 8:14AM
-                  &lt;/span&gt;
-                  &lt;br/&gt;
-                  &lt;br/&gt;
-                Following an earlier incident on 86 St between 19 Av and 20 Av, &lt;STRONG&gt;B1&lt;/STRONG&gt; bus service has resumed with delays.
-              &lt;br/&gt;
-              &lt;br/&gt;
-            
                   &lt;span class="TitlePlannedWork" &gt;Planned Detour&lt;/span&gt;
                   &lt;br/&gt;
                 &lt;a class="plannedWorkDetailLink" onclick=ShowHide(117571);&gt;
@@ -148,7 +152,7 @@
               &lt;br/&gt;
             </text>
     <Date>10/26/2016</Date>
-    <Time> 8:14AM</Time>
+    <Time> 8:27AM</Time>
   </line>
   <line>
     <name>B100 - B103</name>
