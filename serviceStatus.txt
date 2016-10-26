@@ -1,33 +1,89 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
-  </line>
-  <line>
-    <name>456</name>
-    <status>SERVICE CHANGE</status>
+    <status>PLANNED WORK</status>
     <text>
-                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;10/26/2016&amp;nbsp; 9:12AM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  &lt;P&gt;Due to ongoing signal problems at &lt;STRONG&gt;149 St-Grand Concourse&lt;/STRONG&gt;, southbound [4] trains are bypassing &lt;STRONG&gt;138 St-Grand Concourse&lt;/STRONG&gt;. &lt;/P&gt;
-&lt;P&gt;Southbound [5] trains are delayed.&lt;/P&gt;
-&lt;P&gt;Allow additional travel time.&lt;/P&gt;
+                    &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
+                    &lt;br/&gt;
+                  &lt;a class="plannedWorkDetailLink" onclick=ShowHide(136196);&gt;
+&lt;b&gt;[2] Wakefield-bound trains skip Bronx Park East, Pelham Pkwy, Allerton Av and Burke Av
+&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 136196 class="plannedWorkDetail" &gt;&lt;/b&gt;Days, 10:15 AM to 3 PM, Mon to Fri, Oct 24 - 28
+&lt;br&gt;
+&lt;br&gt;For service &lt;i&gt;to &lt;/i&gt;these stations, take the [2] to Gun Hill Rd and transfer to a Flatbush Av-bound [2].
+&lt;br&gt;
+&lt;br&gt;For service &lt;i&gt;from &lt;/i&gt;these stations, take the [2] to E 180 St and transfer to a Wakefield-bound [2].
+&lt;br&gt;
+&lt;br&gt;&lt;/font&gt;&lt;b&gt;&lt;i&gt;Alternate travel note:
+&lt;br&gt;&lt;/b&gt;From&lt;/i&gt; these stations, take the &lt;a href=http://web.mta.info/nyct/bus/schedule/bronx/bx039cur.pdf target=_blank&gt;&lt;font color=#0000FF&gt;&lt;b&gt;&lt;u&gt;Bx39&lt;/u&gt;&lt;/b&gt;&lt;/font&gt;&lt;/a&gt; bus.
+&lt;br&gt;&lt;b&gt;
+&lt;br&gt;
+&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>10/26/2016</Date>
-    <Time> 9:12AM</Time>
+    <Time>10:22AM</Time>
+  </line>
+  <line>
+    <name>456</name>
+    <status>DELAYS</status>
+    <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;10/26/2016&amp;nbsp;10:22AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  Following an earlier incident at &lt;STRONG&gt;149 St-Grand Concourse&lt;/STRONG&gt;, [4] and [5] train service has resumed with delays.
+                &lt;br/&gt;&lt;br/&gt;
+              
+                    &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
+                    &lt;br/&gt;
+                  &lt;a class="plannedWorkDetailLink" onclick=ShowHide(136263);&gt;
+&lt;b&gt;[6D] Brooklyn Bridge-bound trains run local from Parkchester to 3 Av-138 St
+&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 136263 class="plannedWorkDetail" &gt;&lt;/b&gt;Days, 10:15 AM to 1 PM, Mon to Fri, Oct 24 - 28&amp;nbsp;&amp;nbsp;&amp;bull;&amp;nbsp;&amp;nbsp;Oct 31 - Nov 4
+&lt;br&gt;
+&lt;br&gt;&amp;bull; Please allow additional travel time.
+&lt;br&gt;&lt;b&gt;
+&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              
+                    &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
+                    &lt;br/&gt;
+                  &lt;a class="plannedWorkDetailLink" onclick=ShowHide(136261);&gt;
+&lt;b&gt;[6] Brooklyn Bridge-bound trains run express from Pelham Bay Park to Parkchester
+&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 136261 class="plannedWorkDetail" &gt;&lt;/b&gt;Days, 10:15 AM to 3 PM, Mon to Fri, Oct 24 - 28
+&lt;br&gt;
+&lt;br&gt;&lt;/font&gt;For service &lt;i&gt;to&lt;/i&gt; Buhre Av, Middletown Rd, Westchester Sq, Zerega and Castle Hill Avs, 
+&lt;br&gt;take the [6] to Parkchester and transfer to a Pelham Bay Park-bound [6].
+&lt;br&gt;
+&lt;br&gt;For service &lt;i&gt;from&lt;/i&gt; these stations take the [6] to Pelham Bay Park and transfer 
+&lt;br&gt;to a Brooklyn Bridge-bound [6].
+&lt;br&gt;&lt;b&gt;
+&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>10/26/2016</Date>
+    <Time>10:22AM</Time>
   </line>
   <line>
     <name>7</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>PLANNED WORK</status>
+    <text>
+                    &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
+                    &lt;br/&gt;
+                  &lt;a class="plannedWorkDetailLink" onclick=ShowHide(136197);&gt;
+&lt;b&gt;[7] Flushing-bound trains skip 82, 90, 103 and 111 Sts
+&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 136197 class="plannedWorkDetail" &gt;&lt;/b&gt;Days, 10:15 AM to 3 PM, Wed to Fri, until Nov 18
+&lt;br&gt;
+&lt;br&gt;For service &lt;i&gt;to &lt;/i&gt;these stations, take the [7] to Junction Blvd or Willets Point
+&lt;br&gt;and transfer to a Hudson Yards-bound [7].
+&lt;br&gt;
+&lt;br&gt;For service &lt;i&gt;from &lt;/i&gt;these stations, take the [7] to Junction Blvd or 74 St
+&lt;br&gt;and transfer to a Flushing-bound [7].
+&lt;br&gt;&lt;b&gt;
+&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>10/26/2016</Date>
+    <Time>10:22AM</Time>
   </line>
   <line>
     <name>ACE</name>
@@ -88,7 +144,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>10/26/2016</Date>
-    <Time>10:12AM</Time>
+    <Time>10:22AM</Time>
   </line>
   <line>
     <name>G</name>
@@ -124,7 +180,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>10/26/2016</Date>
-    <Time>10:12AM</Time>
+    <Time>10:22AM</Time>
   </line>
   <line>
     <name>L</name>
@@ -139,10 +195,9 @@
     <text>
                     &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;10/26/2016&amp;nbsp; 9:45AM
+                    &amp;nbsp;Posted:&amp;nbsp;10/26/2016&amp;nbsp;10:20AM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  &lt;P&gt;Due to a sick passenger at&lt;STRONG&gt; Bay Ridge-95 St&lt;/STRONG&gt;, [R] trains are running with delays in both directions.&lt;/P&gt;
-&lt;P&gt;Allow additional travel time.&lt;/P&gt;
+                  Following an earlier incident at &lt;STRONG&gt;Bay Ridge-95 St&lt;/STRONG&gt;, [R] train service has resumed with delays.
                 &lt;br/&gt;&lt;br/&gt;
               
                     &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
@@ -192,9 +247,26 @@
 &lt;br&gt;&lt;/i&gt;&lt;b&gt;
 &lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
                 &lt;br/&gt;&lt;br/&gt;
+              
+                    &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
+                    &lt;br/&gt;
+                  &lt;a class="plannedWorkDetailLink" onclick=ShowHide(136156);&gt;
+&lt;b&gt;[N] Astoria-bound trains skip 39 Av, 36 Av, Broadway and 30 Av
+&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 136156 class="plannedWorkDetail" &gt;&lt;/b&gt;Days, 10:15 AM to 3 PM, Tue to Fri, Oct 25 - 28
+&lt;br&gt;
+&lt;br&gt;For service&lt;i&gt; to&lt;/i&gt; these stations, take the [N] to Astoria Blvd and transfer to a
+&lt;br&gt;Coney Island-bound [N].
+&lt;br&gt;
+&lt;br&gt;For service&lt;i&gt; from &lt;/i&gt;these stations, take the [N] to Queensboro Plaza and transfer
+&lt;br&gt;to an Astoria-bound [N].
+&lt;br&gt;
+&lt;br&gt;&lt;b&gt;Note:&lt;/b&gt; No [Q] service at these stations during this time.
+&lt;br&gt;&lt;b&gt;
+&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+                &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>10/26/2016</Date>
-    <Time> 9:45AM</Time>
+    <Time>10:20AM</Time>
   </line>
   <line>
     <name>S</name>
@@ -220,7 +292,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>10/26/2016</Date>
-    <Time>10:12AM</Time>
+    <Time>10:22AM</Time>
   </line>
 </subway><bus>
   <line>
@@ -300,7 +372,7 @@
               &lt;br/&gt;
             </text>
     <Date>10/26/2016</Date>
-    <Time>10:12AM</Time>
+    <Time>10:22AM</Time>
   </line>
   <line>
     <name>BX1 - BX55</name>
@@ -326,7 +398,7 @@
               &lt;br/&gt;
             </text>
     <Date>10/26/2016</Date>
-    <Time>10:12AM</Time>
+    <Time>10:22AM</Time>
   </line>
   <line>
     <name>M1 - M116</name>
@@ -442,7 +514,7 @@
               &lt;br/&gt;
             </text>
     <Date>10/26/2016</Date>
-    <Time>10:12AM</Time>
+    <Time>10:22AM</Time>
   </line>
   <line>
     <name>S40 - S98</name>
@@ -531,8 +603,13 @@
   </line>
   <line>
     <name>Queens Midtown</name>
-    <status>SERVICE CHANGE</status>
+    <status>PLANNED WORK</status>
     <text>
+                    &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
+                    &lt;br/&gt;
+                  HLC: Planned work; 2-way operation in the Brooklyn bound tube. Manhattan-bound tube one lane closed. Motorists are advised to expect delays.
+                &lt;br/&gt;&lt;br/&gt;
+              
                     &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
                     &amp;nbsp;Posted:&amp;nbsp;10/26/2016&amp;nbsp; 6:11AM
@@ -546,7 +623,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>10/26/2016</Date>
-    <Time> 6:11AM</Time>
+    <Time>10:21AM</Time>
   </line>
   <line>
     <name>Robert F. Kennedy</name>
