@@ -1,10 +1,17 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>DELAYS</status>
+    <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;10/26/2016&amp;nbsp; 5:32PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  Due to an earlier incident at &lt;STRONG&gt;14 St&lt;/STRONG&gt;, [1] service has resumed with delays.
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>10/26/2016</Date>
+    <Time> 5:32PM</Time>
   </line>
   <line>
     <name>456</name>
@@ -53,7 +60,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>10/26/2016</Date>
-    <Time> 5:27PM</Time>
+    <Time> 5:32PM</Time>
   </line>
   <line>
     <name>G</name>
@@ -183,7 +190,7 @@
               &lt;br/&gt;
             </text>
     <Date>10/26/2016</Date>
-    <Time> 5:27PM</Time>
+    <Time> 5:32PM</Time>
   </line>
   <line>
     <name>BX1 - BX55</name>
@@ -327,7 +334,7 @@
               &lt;br/&gt;
             </text>
     <Date>10/26/2016</Date>
-    <Time> 5:27PM</Time>
+    <Time> 5:32PM</Time>
   </line>
   <line>
     <name>QM1 - QM44</name>
@@ -346,7 +353,7 @@
               &lt;br/&gt;
             </text>
     <Date>10/26/2016</Date>
-    <Time> 5:27PM</Time>
+    <Time> 5:32PM</Time>
   </line>
   <line>
     <name>S40 - S98</name>
