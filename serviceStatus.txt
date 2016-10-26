@@ -1,8 +1,15 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>SERVICE CHANGE</status>
+    <status>DELAYS</status>
     <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;10/25/2016&amp;nbsp; 9:20PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  Following an earlier incident at &lt;STRONG&gt;207 St&lt;/STRONG&gt;, [1] service has resumed with delays.
+                &lt;br/&gt;&lt;br/&gt;
+              
                     &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
                     &amp;nbsp;Posted:&amp;nbsp;10/25/2016&amp;nbsp; 8:48PM
@@ -13,17 +20,9 @@
 &lt;P&gt;Expect delays in &lt;STRONG&gt;[2][3][4][5]&lt;/STRONG&gt; train service&lt;STRONG&gt;.&lt;/STRONG&gt; &lt;/P&gt;
 &lt;P&gt;Allow additional travel time.&lt;/P&gt;
                 &lt;br/&gt;&lt;br/&gt;
-              
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;10/25/2016&amp;nbsp; 6:04PM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  &lt;P&gt;Due to ongoing signal problems at &lt;STRONG&gt;207 St&lt;/STRONG&gt;, southbound [1] trains are running with delays  &lt;/P&gt;
-&lt;P&gt;Allow additional travel time.&lt;/P&gt;
-                &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>10/25/2016</Date>
-    <Time> 8:48PM</Time>
+    <Time> 9:20PM</Time>
   </line>
   <line>
     <name>456</name>
@@ -223,7 +222,7 @@
               &lt;br/&gt;
             </text>
     <Date>10/25/2016</Date>
-    <Time> 9:12PM</Time>
+    <Time> 9:22PM</Time>
   </line>
   <line>
     <name>B100 - B103</name>
@@ -290,7 +289,7 @@
               &lt;br/&gt;
             </text>
     <Date>10/25/2016</Date>
-    <Time> 9:12PM</Time>
+    <Time> 9:22PM</Time>
   </line>
   <line>
     <name>M1 - M116</name>
@@ -372,7 +371,7 @@
               &lt;br/&gt;
             </text>
     <Date>10/25/2016</Date>
-    <Time> 9:12PM</Time>
+    <Time> 9:22PM</Time>
   </line>
   <line>
     <name>S40 - S98</name>
