@@ -139,8 +139,19 @@
 </subway><bus>
   <line>
     <name>B1 - B84</name>
-    <status>PLANNED WORK</status>
+    <status>DELAYS</status>
     <text>
+                  &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                  &lt;span class="DateStyle"&gt;
+                  &amp;nbsp;Posted:&amp;nbsp;10/27/2016&amp;nbsp; 9:30AM
+                  &lt;/span&gt;
+                  &lt;br/&gt;
+                  &lt;br/&gt;
+                &lt;P&gt;&lt;STRONG&gt;B11&lt;/STRONG&gt; buses are running with delays in both directions, due to traffic conditions on Avenue I. &lt;/P&gt;
+&lt;P&gt;Allow additional travel time.&lt;/P&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
                   &lt;span class="TitlePlannedWork" &gt;Planned Detour&lt;/span&gt;
                   &lt;br/&gt;
                 &lt;a class="plannedWorkDetailLink" onclick=ShowHide(117571);&gt;
@@ -166,7 +177,7 @@
               &lt;br/&gt;
             </text>
     <Date>10/27/2016</Date>
-    <Time> 9:27AM</Time>
+    <Time> 9:30AM</Time>
   </line>
   <line>
     <name>B100 - B103</name>
@@ -593,10 +604,17 @@ trouble.
   </line>
   <line>
     <name>New Canaan</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>DELAYS</status>
+    <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;10/27/2016&amp;nbsp; 9:30AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  New Canaan Branch Service is currently experiencing delays of 15 to 20 minutes due to congestion in the vicinity of Stamford. Please listen for announcements at your station.
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>10/27/2016</Date>
+    <Time> 9:30AM</Time>
   </line>
   <line>
     <name>Danbury</name>
