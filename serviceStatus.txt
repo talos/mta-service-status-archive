@@ -1,8 +1,20 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>DELAYS</status>
+    <status>SERVICE CHANGE</status>
     <text>
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;10/27/2016&amp;nbsp; 7:49AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;P&gt;Due to a sick passenger at &lt;STRONG&gt;Clark St&lt;/STRONG&gt;, the following service changes are in effect:&lt;/P&gt;
+&lt;P&gt;Southbound  [2] and [3] trains are running with delays.&lt;/P&gt;
+&lt;P&gt;Some southbound [2] trains are running on the [5] line from &lt;STRONG&gt;149 St-Grand Concourse&lt;/STRONG&gt; to &lt;STRONG&gt;Nevins St.&lt;/STRONG&gt;&lt;/P&gt;
+&lt;P&gt;Some southbound [2] and [3] trains terminate at &lt;STRONG&gt;Times Sq-42 St&lt;/STRONG&gt; or &lt;STRONG&gt;Chambers St.&lt;/STRONG&gt;&lt;/P&gt;
+&lt;P&gt;Allow additional travel time.&lt;/P&gt;
+&lt;P&gt; &lt;/P&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              
                     &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
                     &amp;nbsp;Posted:&amp;nbsp;10/27/2016&amp;nbsp; 7:32AM
@@ -20,7 +32,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>10/27/2016</Date>
-    <Time> 7:32AM</Time>
+    <Time> 7:49AM</Time>
   </line>
   <line>
     <name>456</name>
