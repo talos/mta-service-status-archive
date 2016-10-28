@@ -1,8 +1,16 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>PLANNED WORK</status>
+    <status>DELAYS</status>
     <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;10/27/2016&amp;nbsp; 8:15PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;P&gt;Due to signal problems at &lt;STRONG&gt;Dyckman St&lt;/STRONG&gt;, southbound [1] trains are running with delays. &lt;/P&gt;
+&lt;P&gt;Allow additional travel time.&lt;/P&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              
                     &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
                     &lt;br/&gt;
                   &lt;a class="plannedWorkDetailLink" onclick=ShowHide(138951);&gt;
@@ -19,7 +27,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>10/27/2016</Date>
-    <Time> 8:12PM</Time>
+    <Time> 8:15PM</Time>
   </line>
   <line>
     <name>456</name>
@@ -696,8 +704,15 @@
   </line>
   <line>
     <name>New Canaan</name>
-    <status>SERVICE CHANGE</status>
+    <status>DELAYS</status>
     <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;10/27/2016&amp;nbsp; 8:16PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  Substitute Bus Service will be provided on the New Canaan Branch for the 8:15PM  train departing New Canaan making all stops to Stamford. Please listen for announcements at your station.
+                &lt;br/&gt;&lt;br/&gt;
+              
                     &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
                     &amp;nbsp;Posted:&amp;nbsp;10/27/2016&amp;nbsp; 7:56PM
@@ -713,7 +728,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>10/27/2016</Date>
-    <Time> 7:56PM</Time>
+    <Time> 8:16PM</Time>
   </line>
   <line>
     <name>Danbury</name>
