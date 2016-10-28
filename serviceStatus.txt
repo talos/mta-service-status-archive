@@ -1,8 +1,16 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>SERVICE CHANGE</status>
+    <status>DELAYS</status>
     <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;10/28/2016&amp;nbsp; 2:19AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;P&gt;Due to signal problems at &lt;STRONG&gt;219 St&lt;/STRONG&gt;, [2] trains are running with delays in both directions.   &lt;/P&gt;
+&lt;P&gt;Allow additional travel time.&lt;/P&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              
                     &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
                     &amp;nbsp;Posted:&amp;nbsp;10/28/2016&amp;nbsp; 2:03AM
@@ -79,7 +87,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>10/28/2016</Date>
-    <Time> 2:03AM</Time>
+    <Time> 2:19AM</Time>
   </line>
   <line>
     <name>456</name>
