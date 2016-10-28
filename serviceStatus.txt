@@ -19,7 +19,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>10/28/2016</Date>
-    <Time> 8:52AM</Time>
+    <Time> 9:02AM</Time>
   </line>
   <line>
     <name>456</name>
@@ -41,7 +41,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>10/28/2016</Date>
-    <Time> 8:52AM</Time>
+    <Time> 9:02AM</Time>
   </line>
   <line>
     <name>7</name>
@@ -76,7 +76,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>10/28/2016</Date>
-    <Time> 8:52AM</Time>
+    <Time> 9:02AM</Time>
   </line>
   <line>
     <name>G</name>
@@ -115,10 +115,22 @@
   </line>
   <line>
     <name>SIR</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>PLANNED WORK</status>
+    <text>
+                    &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
+                    &lt;br/&gt;
+                  &lt;a class="plannedWorkDetailLink" onclick=ShowHide(138337);&gt;
+&lt;b&gt;[SIR] Trains board at the St. George-bound platform from Prince's Bay to Atlantic Stations
+&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 138337 class="plannedWorkDetail" &gt;&lt;/b&gt;Days, 9 AM to 2 PM, Thu &lt;i&gt;and&lt;/i&gt; Fri, Oct 27 - 28
+&lt;br&gt;
+&lt;br&gt;&amp;bull; Boarding change includes &lt;b&gt;Prince's Bay&lt;/b&gt;, &lt;b&gt;Pleasant Plains&lt;/b&gt;, &lt;b&gt;Richmond Valley&lt;/b&gt;, &lt;b&gt;Nassau&lt;/b&gt; and 
+&lt;br&gt;  &lt;b&gt;Atlantic Stations&lt;/b&gt;.
+&lt;br&gt;&lt;b&gt;
+&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>10/28/2016</Date>
+    <Time> 9:02AM</Time>
   </line>
 </subway><bus>
   <line>
@@ -191,7 +203,7 @@
               &lt;br/&gt;
             </text>
     <Date>10/28/2016</Date>
-    <Time> 8:52AM</Time>
+    <Time> 9:02AM</Time>
   </line>
   <line>
     <name>BX1 - BX55</name>
@@ -381,7 +393,7 @@
               &lt;br/&gt;
             </text>
     <Date>10/28/2016</Date>
-    <Time> 8:52AM</Time>
+    <Time> 9:02AM</Time>
   </line>
   <line>
     <name>S40 - S98</name>
