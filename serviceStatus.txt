@@ -19,7 +19,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>10/28/2016</Date>
-    <Time> 9:52AM</Time>
+    <Time>10:02AM</Time>
   </line>
   <line>
     <name>456</name>
@@ -69,7 +69,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>10/28/2016</Date>
-    <Time> 9:52AM</Time>
+    <Time>10:02AM</Time>
   </line>
   <line>
     <name>G</name>
@@ -105,7 +105,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>10/28/2016</Date>
-    <Time> 9:52AM</Time>
+    <Time>10:02AM</Time>
   </line>
   <line>
     <name>L</name>
@@ -116,10 +116,29 @@
   </line>
   <line>
     <name>NQR</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>PLANNED WORK</status>
+    <text>
+                    &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
+                    &lt;br/&gt;
+                  &lt;a class="plannedWorkDetailLink" onclick=ShowHide(136158);&gt;
+&lt;b&gt;[Q] No trains between 57 St-7 Av and Ditmars Blvd&lt;br clear=left&gt;[N] trains provide alternate service
+&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 136158 class="plannedWorkDetail" &gt;&lt;/b&gt;Days, 10 AM to 3 PM, Tue to Fri, Oct 25 - 28
+&lt;br&gt;
+&lt;br&gt;[Q] service operates between &lt;b&gt;Stillwell Av&lt;/b&gt; and &lt;b&gt;57 St-7 Av&lt;/b&gt;.
+&lt;br&gt;
+&lt;br&gt;&amp;bull; Transfer between [N]* and [Q] trains at Times Sq-42 St (across the platform).
+&lt;br&gt;
+&lt;br&gt;&lt;/font&gt;&lt;i&gt;*Please review [N] advisories for additional information that may affect your trip.
+&lt;br&gt;
+&lt;br&gt;&lt;b&gt;Alternate travel note:
+&lt;br&gt;&lt;/b&gt;&lt;/i&gt;[R] service is also available at 5 Av/59 St and Lexington Av/59 St. 
+&lt;br&gt;Transfer between [Q] and [R] at 57 St-7 Av.
+&lt;br&gt;&lt;b&gt;
+&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>10/28/2016</Date>
+    <Time>10:02AM</Time>
   </line>
   <line>
     <name>S</name>
@@ -145,7 +164,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>10/28/2016</Date>
-    <Time> 9:52AM</Time>
+    <Time>10:02AM</Time>
   </line>
 </subway><bus>
   <line>
@@ -254,22 +273,11 @@
   </line>
   <line>
     <name>M1 - M116</name>
-    <status>DELAYS</status>
+    <status>SERVICE CHANGE</status>
     <text>
-                  &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                  &lt;span class="DateStyle"&gt;
-                  &amp;nbsp;Posted:&amp;nbsp;10/28/2016&amp;nbsp; 8:57AM
-                  &lt;/span&gt;
-                  &lt;br/&gt;
-                  &lt;br/&gt;
-                &lt;P&gt;&lt;STRONG&gt;Bronx local&lt;/STRONG&gt; and &lt;STRONG&gt;express&lt;/STRONG&gt; buses are running with delays in both directions, due to the closure of upper level of the GW Bridge causing traffic conditions in the area.&lt;/P&gt;
-&lt;P&gt;Allow additional travel time.&lt;/P&gt;
-              &lt;br/&gt;
-              &lt;br/&gt;
-            
                   &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
                   &lt;span class="DateStyle"&gt;
-                  &amp;nbsp;Posted:&amp;nbsp;10/28/2016&amp;nbsp; 8:26AM
+                  &amp;nbsp;Posted:&amp;nbsp;10/28/2016&amp;nbsp;10:02AM
                   &lt;/span&gt;
                   &lt;br/&gt;
                   &lt;br/&gt;
@@ -278,6 +286,17 @@
 &lt;P&gt;&lt;STRONG&gt;Northbound&lt;/STRONG&gt;: Via Madison Av, left on 135 St, left on Lenox Av and regular route. &lt;/P&gt;
 &lt;P&gt;Customers can board the northbound &lt;STRONG&gt;M1&lt;/STRONG&gt; on Lenox Av and 137 St. &lt;/P&gt;
 &lt;P&gt;Allow additional travel time.  &lt;/P&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
+                  &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                  &lt;span class="DateStyle"&gt;
+                  &amp;nbsp;Posted:&amp;nbsp;10/28/2016&amp;nbsp; 8:57AM
+                  &lt;/span&gt;
+                  &lt;br/&gt;
+                  &lt;br/&gt;
+                &lt;P&gt;&lt;STRONG&gt;Bronx local&lt;/STRONG&gt; and &lt;STRONG&gt;express&lt;/STRONG&gt; buses are running with delays in both directions, due to the closure of upper level of the GW Bridge causing traffic conditions in the area.&lt;/P&gt;
+&lt;P&gt;Allow additional travel time.&lt;/P&gt;
               &lt;br/&gt;
               &lt;br/&gt;
             
@@ -313,12 +332,23 @@
               &lt;br/&gt;
             </text>
     <Date>10/28/2016</Date>
-    <Time> 8:57AM</Time>
+    <Time>10:02AM</Time>
   </line>
   <line>
     <name>Q1 - Q113</name>
-    <status>SERVICE CHANGE</status>
+    <status>DELAYS</status>
     <text>
+                  &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                  &lt;span class="DateStyle"&gt;
+                  &amp;nbsp;Posted:&amp;nbsp;10/28/2016&amp;nbsp;10:02AM
+                  &lt;/span&gt;
+                  &lt;br/&gt;
+                  &lt;br/&gt;
+                &lt;P&gt;&lt;STRONG&gt;Q25&lt;/STRONG&gt; buses are running with delays in both directions, due to construction on 5 Av and 119 St. &lt;/P&gt;
+&lt;P&gt;Allow additional travel time.&lt;/P&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
                   &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
                   &lt;span class="DateStyle"&gt;
                   &amp;nbsp;Posted:&amp;nbsp;10/28/2016&amp;nbsp; 9:34AM
@@ -330,17 +360,6 @@
 &lt;P&gt;&lt;STRONG&gt;Northbound&lt;/STRONG&gt;: Via 69 St, left on 50 Av and regular route. &lt;/P&gt;
 &lt;P&gt;All corresponding stops will be made. &lt;/P&gt;
 &lt;P&gt;Allow additional travel time. &lt;/P&gt;
-              &lt;br/&gt;
-              &lt;br/&gt;
-            
-                  &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                  &lt;span class="DateStyle"&gt;
-                  &amp;nbsp;Posted:&amp;nbsp;10/28/2016&amp;nbsp; 8:26AM
-                  &lt;/span&gt;
-                  &lt;br/&gt;
-                  &lt;br/&gt;
-                &lt;P&gt;&lt;STRONG&gt;Q25&lt;/STRONG&gt; buses are running with delays in both directions, due to construction on 5 Av and 119 St. &lt;/P&gt;
-&lt;P&gt;Allow additional travel time.&lt;/P&gt;
               &lt;br/&gt;
               &lt;br/&gt;
             
@@ -383,7 +402,7 @@
               &lt;br/&gt;
             </text>
     <Date>10/28/2016</Date>
-    <Time> 9:34AM</Time>
+    <Time>10:02AM</Time>
   </line>
   <line>
     <name>QM1 - QM44</name>
