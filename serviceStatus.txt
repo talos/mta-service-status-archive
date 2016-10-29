@@ -89,7 +89,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>10/29/2016</Date>
-    <Time>12:52AM</Time>
+    <Time> 1:02AM</Time>
   </line>
   <line>
     <name>456</name>
@@ -169,7 +169,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>10/29/2016</Date>
-    <Time>12:52AM</Time>
+    <Time> 1:02AM</Time>
   </line>
   <line>
     <name>7</name>
@@ -266,7 +266,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>10/29/2016</Date>
-    <Time>12:52AM</Time>
+    <Time> 1:02AM</Time>
   </line>
   <line>
     <name>BDFM</name>
@@ -451,7 +451,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>10/29/2016</Date>
-    <Time>12:52AM</Time>
+    <Time> 1:02AM</Time>
   </line>
   <line>
     <name>S</name>
@@ -462,10 +462,29 @@
   </line>
   <line>
     <name>SIR</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>PLANNED WORK</status>
+    <text>
+                    &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
+                    &lt;br/&gt;
+                  &lt;a class="plannedWorkDetailLink" onclick=ShowHide(138338);&gt;
+&lt;b&gt;[SIR] No trains between Tottenville and Huguenot
+&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 138338 class="plannedWorkDetail" &gt;[SB] Free shuttle buses provide alternate service&lt;/b&gt; 
+&lt;br&gt;Weekend, 1 AM Sat to 4 AM Mon, Oct 29 - 31
+&lt;br&gt;
+&lt;br&gt;[SIR] Service operates between &lt;b&gt;Huguenot &lt;/b&gt;and &lt;b&gt;St George Stations&lt;/b&gt;.
+&lt;br&gt;[SB] Buses make all stops between&lt;b&gt; Tottenville &lt;/b&gt;and &lt;b&gt;Huguenot Stations&lt;/b&gt;.
+&lt;br&gt;
+&lt;br&gt;&amp;#149; Transfer between trains and [SB] buses at Huguenot.
+&lt;br&gt;                                                                                                   [TP]
+&lt;br&gt;&lt;font size=3&gt;&lt;b&gt;&lt;a style="cursor:pointer; text-decoration:underline;" onclick=ShowHide(1383380);&gt;Show Shuttle Bus Stops&lt;/a&gt;&lt;/b&gt;&lt;/font&gt;&lt;div id="1383380"; style="display:none;"&gt;&lt;table class=plannedworkTableStyle  width=70% border=1 cellspacing=1 cellpadding=3 rules=rows frame=hsides&gt;&lt;tr bgcolor=#FAF8CC&gt;&lt;td&gt;&lt;b&gt;Station&lt;/b&gt;&lt;td&gt;&lt;b&gt;Shuttle Bus Stop&lt;/b&gt;&lt;td&gt;&lt;b&gt;Bus&lt;/b&gt;&lt;tr&gt;&lt;td&gt;Tottenville&lt;td&gt;Arthur Kill Rd at Main St&lt;td&gt;&lt;b&gt;S78&lt;/b&gt;&lt;tr&gt;&lt;td&gt;Atlantic&lt;td&gt;Arthur Kill Rd at Wood Av&lt;td&gt;&lt;b&gt;S78&lt;/b&gt;&lt;tr&gt;&lt;td&gt;Nassau&lt;td&gt;Nassau Pl at station entrance&lt;td align=center&gt;&amp;mdash;&lt;tr&gt;&lt;td&gt;Richmond Valley&lt;td&gt;Amboy Rd at Richmond Valley Rd&lt;td&gt;&lt;b&gt;X22&lt;/b&gt;&lt;tr&gt;&lt;td&gt;Pleasant Plains&lt;td&gt;Amboy Rd at Penton St&lt;td align=center&gt;&amp;mdash;&lt;tr&gt;&lt;td&gt;Prince's Bay&lt;td&gt;Amboy Rd at Seguine Av&lt;td align=center&gt;&amp;mdash;&lt;tr&gt;&lt;td&gt;Huguenot [SIR]&lt;td&gt;Huguenot Av at station entrance&lt;td align=center&gt;&amp;mdash;&lt;/table&gt;&lt;/div&gt;
+&lt;br&gt;
+&lt;br&gt;&lt;table class=plannedworkTableStyle  border=1 cellspacing=1 cellpadding=5 rules=none frame=box&gt;&lt;td&gt;&amp;nbsp;&amp;nbsp;[ad]&amp;nbsp;&amp;nbsp;&lt;td&gt;&lt;font size=1&gt;This service change affects one or more ADA accessible stations. Please call 511 for help with planning&lt;br&gt;your trip. If you are deaf or hard of hearing, use your preferred relay service provider or the free 711 relay.&amp;nbsp;&amp;nbsp;&lt;/font&gt;&lt;/table&gt;
+&lt;br&gt;&lt;b&gt;
+&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>10/29/2016</Date>
+    <Time> 1:02AM</Time>
   </line>
 </subway><bus>
   <line>
@@ -485,7 +504,7 @@
               &lt;br/&gt;
             </text>
     <Date>10/29/2016</Date>
-    <Time>12:52AM</Time>
+    <Time> 1:02AM</Time>
   </line>
   <line>
     <name>B100 - B103</name>
@@ -533,7 +552,7 @@
               &lt;br/&gt;
             </text>
     <Date>10/29/2016</Date>
-    <Time>12:52AM</Time>
+    <Time> 1:02AM</Time>
   </line>
   <line>
     <name>BXM1 - BXM18</name>
@@ -552,7 +571,7 @@
               &lt;br/&gt;
             </text>
     <Date>10/29/2016</Date>
-    <Time>12:52AM</Time>
+    <Time> 1:02AM</Time>
   </line>
   <line>
     <name>M1 - M116</name>
