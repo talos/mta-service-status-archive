@@ -1,15 +1,13 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>SERVICE CHANGE</status>
+    <status>DELAYS</status>
     <text>
-                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;10/28/2016&amp;nbsp; 9:19PM
+                    &amp;nbsp;Posted:&amp;nbsp;10/28/2016&amp;nbsp; 9:58PM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  &lt;P&gt;Due to switch problems at &lt;STRONG&gt;Harlem-148 St&lt;/STRONG&gt;, there is no [3] train service between&lt;STRONG&gt; Harlem-148 St&lt;/STRONG&gt; and &lt;STRONG&gt;135 St&lt;/STRONG&gt; in both directions.&lt;/P&gt;
-&lt;P&gt;For service between Harlem-148 St and 135 St use &lt;STRONG&gt;M7 &lt;/STRONG&gt;or &lt;STRONG&gt;M102&lt;/STRONG&gt; bus. &lt;/P&gt;
-&lt;P&gt;Expect delays in [2] and [3] train service.  &lt;/P&gt;
+                  &lt;P&gt;Due to switch problems at &lt;STRONG&gt;Harlem-148 St&lt;/STRONG&gt;, [3] trains are running with delays in both direction. &lt;/P&gt;
 &lt;P&gt;Allow additional travel time.&lt;/P&gt;
                 &lt;br/&gt;&lt;br/&gt;
               
@@ -29,7 +27,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>10/28/2016</Date>
-    <Time> 9:19PM</Time>
+    <Time> 9:58PM</Time>
   </line>
   <line>
     <name>456</name>
@@ -402,17 +400,36 @@
 </BT><LIRR>
   <line>
     <name>Babylon</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>PLANNED WORK</status>
+    <text>
+                    &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
+                    &lt;br/&gt;
+                  &lt;body bgcolor='White' style='font-family:sans-serif;font-size:10pt;'&gt;&lt;/body&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>10/28/2016</Date>
+    <Time>10:00PM</Time>
   </line>
   <line>
     <name>City Terminal Zone</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>PLANNED WORK</status>
+    <text>
+                    &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
+                    &lt;br/&gt;
+                  &lt;P class=MsoNoSpacing style="MARGIN: 0in 0in 0pt"&gt;&lt;B&gt;&lt;FONT face=Calibri&gt;&lt;FONT size=3&gt;Eastbound Forest Hills/Kew Gardens Service Reduced this Weekend&lt;/FONT&gt;&lt;/FONT&gt;&lt;/B&gt;&lt;/P&gt;
+&lt;P class=MsoNoSpacing style="MARGIN: 0in 0in 0pt"&gt;&lt;FONT face=Calibri&gt;&lt;FONT size=3&gt;Weekend trackwork will require schedule changes and a reduction in eastbound service to/from Forest Hills and Kew Gardens this weekend. Train service will be affected as follows:&lt;/FONT&gt;&lt;/FONT&gt;&lt;/P&gt;
+&lt;P class=MsoNoSpacing style="MARGIN: 0in 0in 0pt"&gt;&lt;B&gt;&lt;FONT face=Calibri&gt;&lt;FONT size=3&gt;Eastbound&lt;/FONT&gt;&lt;/FONT&gt;&lt;/B&gt;&lt;/P&gt;
+&lt;P class=MsoNoSpacing style="MARGIN: 0in 0in 0pt 0.5in; TEXT-INDENT: -0.25in"&gt;&lt;SPAN style="FONT-FAMILY: Symbol"&gt;&lt;FONT size=3&gt;·&lt;/FONT&gt;&lt;/SPAN&gt;&lt;SPAN style='FONT-SIZE: 7pt; FONT-FAMILY: "Times New Roman","serif"'&gt;         &lt;/SPAN&gt;&lt;FONT size=3&gt;&lt;FONT face=Calibri&gt;Weekend train service to/from Forest Hills and Kew Gardens will be reduced from half-hourly to hourly.&lt;/FONT&gt;&lt;/FONT&gt;&lt;/P&gt;
+&lt;P class=MsoNoSpacing style="MARGIN: 0in 0in 0pt"&gt;&lt;B&gt;&lt;FONT face=Calibri&gt;&lt;FONT size=3&gt;Westbound&lt;/FONT&gt;&lt;/FONT&gt;&lt;/B&gt;&lt;/P&gt;
+&lt;P class=MsoNoSpacing style="MARGIN: 0in 0in 0pt 0.5in; TEXT-INDENT: -0.25in"&gt;&lt;SPAN style="FONT-FAMILY: Symbol"&gt;&lt;FONT size=3&gt;·&lt;/FONT&gt;&lt;/SPAN&gt;&lt;SPAN style='FONT-SIZE: 7pt; FONT-FAMILY: "Times New Roman","serif"'&gt;         &lt;/SPAN&gt;&lt;FONT size=3&gt;&lt;FONT face=Calibri&gt;The train that normally stops at Kew Gardens at 10:56 PM and Forest Hills at 10:58 PM (arriving Penn Station at 11:14 PM), will instead operate 9 minutes later, stopping at Kew Gardens at 11:05 PM and Forest Hills at 11:07 PM. It will make an added stop at Woodside at 11:10 PM and arrive at Penn Station at 11:21 PM.&lt;/FONT&gt;&lt;/FONT&gt;&lt;/P&gt;
+&lt;P class=MsoNoSpacing style="MARGIN: 0in 0in 0pt"&gt;&lt;FONT size=3 face=Calibri&gt; &lt;/FONT&gt;&lt;/P&gt;
+&lt;P class=MsoNoSpacing style="MARGIN: 0in 0in 0pt"&gt;&lt;FONT size=3 face=Calibri&gt;For additional information, pick up a copy of the Forest Hills/Kew Gardens Timetable, dated October 29-30, 2016 or see &lt;/FONT&gt;&lt;A href="http://bit.ly/2eSvALS"&gt;&lt;FONT color=#0000ff size=3 face=Calibri&gt;http://bit.ly/2eSvALS&lt;/FONT&gt;&lt;/A&gt;&lt;FONT size=3&gt;&lt;FONT face=Calibri&gt; &lt;/FONT&gt;&lt;/FONT&gt;&lt;/P&gt;
+&lt;P class=MsoNoSpacing style="MARGIN: 0in 0in 0pt"&gt;&lt;FONT size=3 face=Calibri&gt; &lt;/FONT&gt;&lt;/P&gt;
+&lt;P class=MsoNoSpacing style="MARGIN: 0in 0in 0pt"&gt;&lt;B&gt;&lt;FONT size=3 face=Calibri&gt;Similar changes will be in effect on the weekend of November 5-6. Please look for a special weekend timetable for that weekend. &lt;/FONT&gt;&lt;/B&gt;&lt;SPAN style="COLOR: black"&gt;&lt;/SPAN&gt;&lt;/P&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>10/28/2016</Date>
+    <Time>10:00PM</Time>
   </line>
   <line>
     <name>Far Rockaway</name>
@@ -423,31 +440,55 @@
   </line>
   <line>
     <name>Hempstead</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
-  </line>
-  <line>
-    <name>Long Beach</name>
-    <status>DELAYS</status>
+    <status>PLANNED WORK</status>
     <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;10/28/2016&amp;nbsp; 9:19PM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  The 9:00PM train from Atlantic Terminal due Long Beach at 9:50PM is operating 12 minutes late at this time.
+                    &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
+                    &lt;br/&gt;
+                  &lt;p class="MsoNoSpacing" style="MARGIN: 0in 0in 0pt"&gt;&lt;b&gt;&lt;font face="Calibri"&gt;&lt;font size="3"&gt;Buses Replace Weekend Trains&lt;/font&gt;&lt;/font&gt;&lt;/b&gt;&lt;/p&gt;
+&lt;p class="MsoNoSpacing" style="MARGIN: 0in 0in 0pt 0.25in; TEXT-AUTOSPACE: "&gt;&lt;font face="Calibri"&gt;&lt;font size="3"&gt;Switch maintenance work in the Garden City area means buses will replace trains between Jamaica and Hempstead on Saturday, October 29. On Sunday, October 30, buses will replace trains between Garden City and Hempstead. Train service will be affected as follows:&lt;/font&gt;&lt;/font&gt;&lt;/p&gt;
+&lt;p class="MsoNoSpacing" style="MARGIN: 0in 0in 0pt 0.25in; TEXT-AUTOSPACE: "&gt;&lt;font face="Calibri" size="3"&gt; &lt;/font&gt;&lt;/p&gt;
+&lt;p class="MsoNoSpacing" style="MARGIN: 0in 0in 0pt"&gt;&lt;b&gt;&lt;font face="Calibri"&gt;&lt;font size="3"&gt;Saturday, October 29&lt;/font&gt;&lt;/font&gt;&lt;/b&gt;&lt;/p&gt;
+&lt;p class="MsoNoSpacing" style="MARGIN: 0in 0in 0pt"&gt;&lt;b&gt;&lt;font face="Calibri"&gt;&lt;font size="3"&gt;Westbound&lt;/font&gt;&lt;/font&gt;&lt;/b&gt;&lt;/p&gt;
+&lt;p class="MsoNoSpacing" style="MARGIN: 0in 0in 0pt 0.5in; TEXT-AUTOSPACE: ; TEXT-INDENT: -0.25in"&gt;&lt;span style="FONT-FAMILY: Symbol; COLOR: black"&gt;&lt;font size="3"&gt;·&lt;/font&gt;&lt;/span&gt;&lt;span style="FONT-SIZE: 7pt; FONT-FAMILY: "Times New Roman","serif"; COLOR: black"&gt;        &lt;/span&gt;&lt;font size="3"&gt;&lt;font face="Calibri"&gt;Customers at stations Hempstead through Hollis will board buses or vans to Jamaica, then connect with trains for service to points west.&lt;span style="COLOR: black"&gt;&lt;/span&gt;&lt;/font&gt;&lt;/font&gt;&lt;/p&gt;
+&lt;p class="MsoNoSpacing" style="MARGIN: 0in 0in 0pt 0.5in; TEXT-AUTOSPACE: ; TEXT-INDENT: -0.25in"&gt;&lt;span style="FONT-FAMILY: Symbol"&gt;&lt;font size="3"&gt;·&lt;/font&gt;&lt;/span&gt;&lt;span style="FONT-SIZE: 7pt; FONT-FAMILY: "Times New Roman","serif""&gt;        &lt;/span&gt;&lt;font face="Calibri"&gt;&lt;font size="3"&gt;&lt;span style="COLOR: black"&gt;Buses/vans will depart up to 32 minutes earlier than usual train time.&lt;/span&gt;&lt;/font&gt;&lt;/font&gt;&lt;/p&gt;
+&lt;p class="MsoNoSpacing" style="MARGIN: 0in 0in 0pt 0.5in; TEXT-AUTOSPACE: ; TEXT-INDENT: -0.25in"&gt;&lt;span style="FONT-FAMILY: Symbol"&gt;&lt;font size="3"&gt;·&lt;/font&gt;&lt;/span&gt;&lt;span style="FONT-SIZE: 7pt; FONT-FAMILY: "Times New Roman","serif""&gt;        &lt;/span&gt;&lt;font face="Calibri"&gt;&lt;font size="3"&gt;&lt;span style="COLOR: black"&gt;Country Life Press customers will board vans 50 minutes earlier than usual.&lt;/span&gt;&lt;/font&gt;&lt;/font&gt;&lt;/p&gt;
+&lt;p style="MARGIN: 0in 0in 10pt; LINE-HEIGHT: 115%"&gt;&lt;b&gt;&lt;font face="Calibri"&gt;&lt;font size="3"&gt;Eastbound&lt;/font&gt;&lt;/font&gt;&lt;/b&gt;&lt;/p&gt;
+&lt;p class="MsoNoSpacing" style="MARGIN: 0in 0in 0pt 0.5in; TEXT-AUTOSPACE: ; TEXT-INDENT: -0.25in"&gt;&lt;span style="FONT-FAMILY: Symbol"&gt;&lt;font size="3"&gt;·&lt;/font&gt;&lt;/span&gt;&lt;span style="FONT-SIZE: 7pt; FONT-FAMILY: "Times New Roman","serif""&gt;        &lt;/span&gt;&lt;font size="3"&gt;&lt;font face="Calibri"&gt;Customers will board buses or vans at Jamaica for transportation to stations Hollis through Hempstead.&lt;/font&gt;&lt;/font&gt;&lt;/p&gt;
+&lt;p class="MsoNoSpacing" style="MARGIN: 0in 0in 0pt 0.5in; TEXT-AUTOSPACE: ; TEXT-INDENT: -0.25in;"&gt;&lt;span style="FONT-FAMILY: Symbol;"&gt;&lt;span style=""&gt;&lt;font size="3"&gt;·&lt;/font&gt;&lt;span style="FONT: 7pt "Times New Roman""&gt;         &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;font size="3"&gt;&lt;font face="Calibri"&gt;Country Life Press customers will board local vans. &lt;/font&gt;&lt;/font&gt;&lt;/p&gt;
+&lt;p class="MsoNoSpacing" style="MARGIN: 0in 0in 0pt 0.5in; TEXT-AUTOSPACE: ; TEXT-INDENT: -0.25in;"&gt;&lt;span style="FONT-FAMILY: Symbol;"&gt;&lt;span style=""&gt;&lt;font size="3"&gt;·&lt;/font&gt;&lt;span style="FONT: 7pt "Times New Roman""&gt;         &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;font size="3"&gt;&lt;font face="Calibri"&gt;Please plan for up to 33 minutes of additional travel time.&lt;/font&gt;&lt;/font&gt;&lt;/p&gt;
+&lt;p class="MsoNoSpacing" style="MARGIN: 0in 0in 0pt; TEXT-AUTOSPACE: "&gt;&lt;font face="Calibri" size="3"&gt; &lt;/font&gt;&lt;/p&gt;
+&lt;p class="MsoNoSpacing" style="MARGIN: 0in 0in 0pt"&gt;&lt;b&gt;&lt;font face="Calibri"&gt;&lt;font size="3"&gt;Sunday, October 30&lt;/font&gt;&lt;/font&gt;&lt;/b&gt;&lt;/p&gt;
+&lt;p class="MsoNoSpacing" style="MARGIN: 0in 0in 0pt"&gt;&lt;b&gt;&lt;font face="Calibri"&gt;&lt;font size="3"&gt;Westbound&lt;/font&gt;&lt;/font&gt;&lt;/b&gt;&lt;/p&gt;
+&lt;p class="MsoNoSpacing" style="MARGIN: 0in 0in 0pt"&gt;&lt;b&gt;&lt;font face="Calibri" size="3"&gt; &lt;/font&gt;&lt;/b&gt;&lt;/p&gt;
+&lt;p class="MsoNoSpacing" style="MARGIN: 0in 0in 0pt 0.5in; TEXT-AUTOSPACE: ; TEXT-INDENT: -0.25in"&gt;&lt;span style="FONT-FAMILY: Symbol; COLOR: black"&gt;&lt;font size="3"&gt;·&lt;/font&gt;&lt;/span&gt;&lt;span style="FONT-SIZE: 7pt; FONT-FAMILY: "Times New Roman","serif"; COLOR: black"&gt;        &lt;/span&gt;&lt;font size="3"&gt;&lt;font face="Calibri"&gt;Customers at Hempstead and Country Life Press will board buses or vans to Garden City, then connect with trains for service to points west.&lt;span style="COLOR: black"&gt;&lt;/span&gt;&lt;/font&gt;&lt;/font&gt;&lt;/p&gt;
+&lt;p class="MsoNoSpacing" style="MARGIN: 0in 0in 0pt 0.5in; TEXT-AUTOSPACE: ; TEXT-INDENT: -0.25in"&gt;&lt;span style="FONT-FAMILY: Symbol"&gt;&lt;font size="3"&gt;·&lt;/font&gt;&lt;/span&gt;&lt;span style="FONT-SIZE: 7pt; FONT-FAMILY: "Times New Roman","serif""&gt;        &lt;/span&gt;&lt;font face="Calibri"&gt;&lt;font size="3"&gt;&lt;span style="COLOR: black"&gt;Buses/vans will depart up to 15 minutes earlier than usual train time.&lt;/span&gt;&lt;/font&gt;&lt;/font&gt;&lt;/p&gt;
+&lt;p style="MARGIN: 0in 0in 10pt; LINE-HEIGHT: 115%"&gt;&lt;b&gt;&lt;font face="Calibri"&gt;&lt;font size="3"&gt;Eastbound&lt;/font&gt;&lt;/font&gt;&lt;/b&gt;&lt;/p&gt;
+&lt;p class="MsoNoSpacing" style="MARGIN: 0in 0in 0pt 0.5in; TEXT-AUTOSPACE: ; TEXT-INDENT: -0.25in"&gt;&lt;span style="FONT-FAMILY: Symbol"&gt;&lt;font size="3"&gt;·&lt;/font&gt;&lt;/span&gt;&lt;span style="FONT-SIZE: 7pt; FONT-FAMILY: "Times New Roman","serif""&gt;        &lt;/span&gt;&lt;font size="3"&gt;&lt;font face="Calibri"&gt;Customers will board buses or vans at Garden City for transportation to stations Country Life Press and Hempstead. &lt;/font&gt;&lt;/font&gt;&lt;/p&gt;
+&lt;p class="MsoNoSpacing" style="MARGIN: 0in 0in 0pt; TEXT-AUTOSPACE: "&gt;&lt;font face="Calibri" size="3"&gt; &lt;/font&gt;&lt;/p&gt;
+&lt;p class="MsoNoSpacing" style="MARGIN: 0in 0in 0pt; TEXT-AUTOSPACE: "&gt;&lt;span style="COLOR: black"&gt;&lt;font face="Calibri" size="3"&gt;For additional information, pick up a copy of the Hempstead Branch Weekend Timetable, dated Saturday - Sunday October 29-30, 2016. Or see &lt;/font&gt;&lt;/span&gt;&lt;a href="http://bit.ly/2f8qa4n"&gt;&lt;font color="#0000ff" face="Calibri" size="3"&gt;http://bit.ly/2f8qa4n&lt;/font&gt;&lt;/a&gt;&lt;font face="Calibri" size="3"&gt; &lt;/font&gt;&lt;/p&gt;
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>10/28/2016</Date>
-    <Time> 9:19PM</Time>
+    <Time>10:00PM</Time>
   </line>
   <line>
-    <name>Montauk</name>
+    <name>Long Beach</name>
     <status>GOOD SERVICE</status>
     <text />
     <Date></Date>
     <Time></Time>
+  </line>
+  <line>
+    <name>Montauk</name>
+    <status>PLANNED WORK</status>
+    <text>
+                    &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
+                    &lt;br/&gt;
+                  &lt;body bgcolor='White' style='font-family:sans-serif;font-size:10pt;'&gt;&lt;body bgcolor='White' style='font-family:sans-serif;font-size:10pt;'&gt;&lt;/body&gt;&lt;/body&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>10/28/2016</Date>
+    <Time>10:00PM</Time>
   </line>
   <line>
     <name>Oyster Bay</name>
@@ -465,10 +506,15 @@
   </line>
   <line>
     <name>Port Washington</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>PLANNED WORK</status>
+    <text>
+                    &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
+                    &lt;br/&gt;
+                  &lt;body bgcolor='White' style='font-family:sans-serif;font-size:10pt;'&gt;&lt;/body&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>10/28/2016</Date>
+    <Time>10:00PM</Time>
   </line>
   <line>
     <name>Ronkonkoma</name>
@@ -479,10 +525,24 @@
   </line>
   <line>
     <name>West Hempstead</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>PLANNED WORK</status>
+    <text>
+                    &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
+                    &lt;br/&gt;
+                  &lt;P class=MsoNoSpacing style="MARGIN: 0in 0in 0pt"&gt;&lt;B&gt;&lt;SPAN style="COLOR: black"&gt;&lt;FONT face=Calibri&gt;&lt;FONT size=3&gt;Weekend Trackwork Affects St. Albans&lt;/FONT&gt;&lt;/FONT&gt;&lt;/SPAN&gt;&lt;/B&gt;&lt;/P&gt;
+&lt;P class=MsoNoSpacing style="MARGIN: 0in 0in 0pt"&gt;&lt;SPAN style="COLOR: black"&gt;&lt;FONT face=Calibri&gt;&lt;FONT size=3&gt;On Saturday, October 29 and Sunday, October 30, weekend trackwork on the Babylon Branch will require changes to weekend train service at St. Albans. Train service will be affected as follows:&lt;/FONT&gt;&lt;/FONT&gt;&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P class=MsoNoSpacing style="MARGIN: 0in 0in 0pt"&gt;&lt;B&gt;&lt;SPAN style="COLOR: black"&gt;&lt;FONT face=Calibri&gt;&lt;FONT size=3&gt;Westbound&lt;/FONT&gt;&lt;/FONT&gt;&lt;/SPAN&gt;&lt;/B&gt;&lt;/P&gt;
+&lt;P class=MsoNoSpacing style="MARGIN: 0in 0in 0pt 0.5in; TEXT-INDENT: -0.25in"&gt;&lt;SPAN style="FONT-FAMILY: Symbol; COLOR: black"&gt;&lt;FONT size=3&gt;·&lt;/FONT&gt;&lt;/SPAN&gt;&lt;SPAN style='FONT-SIZE: 7pt; FONT-FAMILY: "Times New Roman","serif"; COLOR: black'&gt;         &lt;/SPAN&gt;&lt;SPAN style="COLOR: black"&gt;&lt;FONT face=Calibri&gt;&lt;FONT size=3&gt;Westbound trains will depart St. Albans up to 30 minutes later than usual.&lt;/FONT&gt;&lt;/FONT&gt;&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P class=MsoNoSpacing style="MARGIN: 0in 0in 0pt"&gt;&lt;B&gt;&lt;SPAN style="COLOR: black"&gt;&lt;FONT face=Calibri&gt;&lt;FONT size=3&gt;Eastbound&lt;/FONT&gt;&lt;/FONT&gt;&lt;/SPAN&gt;&lt;/B&gt;&lt;/P&gt;
+&lt;P class=MsoNoSpacing style="MARGIN: 0in 0in 0pt 0.5in; TEXT-INDENT: -0.25in"&gt;&lt;SPAN style="FONT-FAMILY: Symbol; COLOR: black"&gt;&lt;FONT size=3&gt;·&lt;/FONT&gt;&lt;/SPAN&gt;&lt;SPAN style='FONT-SIZE: 7pt; FONT-FAMILY: "Times New Roman","serif"; COLOR: black'&gt;         &lt;/SPAN&gt;&lt;SPAN style="COLOR: black"&gt;&lt;FONT size=3&gt;&lt;FONT face=Calibri&gt;Eastbound trains to St. Albans will depart up to 30 minutes later than usual.&lt;/FONT&gt;&lt;/FONT&gt;&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P class=MsoNoSpacing style="MARGIN: 0in 0in 0pt"&gt;&lt;SPAN style="COLOR: black"&gt;&lt;FONT size=3 face=Calibri&gt; &lt;/FONT&gt;&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P class=MsoNoSpacing style="MARGIN: 0in 0in 0pt"&gt;&lt;SPAN style="COLOR: black"&gt;&lt;FONT size=3 face=Calibri&gt;For additional information, pick up a copy of the special West Hempstead Branch Timetable, dated October 29-30, 2016 or see &lt;/FONT&gt;&lt;/SPAN&gt;&lt;A href="http://bit.ly/2eHkwlI"&gt;&lt;FONT color=#0000ff size=3 face=Calibri&gt;http://bit.ly/2eHkwlI&lt;/FONT&gt;&lt;/A&gt;&lt;FONT size=3&gt;&lt;FONT face=Calibri&gt; &lt;SPAN style="COLOR: black"&gt;&lt;/SPAN&gt;&lt;/FONT&gt;&lt;/FONT&gt;&lt;/P&gt;
+&lt;P  style="MARGIN: 0in 0in 0pt"&gt;&lt;B&gt;&lt;U&gt;&lt;SPAN style="COLOR: red"&gt;&lt;SPAN style="TEXT-DECORATION: none"&gt;&lt;FONT size=3 face=Calibri&gt; &lt;/FONT&gt;&lt;/SPAN&gt;&lt;/SPAN&gt;&lt;/U&gt;&lt;/B&gt;&lt;/P&gt;
+&lt;P  style="MARGIN: 0in 0in 0pt"&gt;&lt;B&gt;&lt;FONT size=3 face=Calibri&gt;Similar changes will be in effect on the weekend of November 5-6, 2016. Please look for a special weekend timetable for that weekend.&lt;/FONT&gt;&lt;/B&gt;&lt;/P&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>10/28/2016</Date>
+    <Time>10:00PM</Time>
   </line>
 </LIRR><MetroNorth>
   <line>
