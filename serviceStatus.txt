@@ -1,15 +1,8 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>DELAYS</status>
+    <status>PLANNED WORK</status>
     <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;10/29/2016&amp;nbsp;10:10PM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  Following an earlier incident at &lt;STRONG&gt;Junius St&lt;/STRONG&gt;, [3] train service has resumed with delays.
-                &lt;br/&gt;&lt;br/&gt;
-              
                     &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
                     &lt;br/&gt;
                   &lt;a class="plannedWorkDetailLink" onclick=ShowHide(136268);&gt;
@@ -108,7 +101,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>10/29/2016</Date>
-    <Time>10:10PM</Time>
+    <Time>10:22PM</Time>
   </line>
   <line>
     <name>456</name>
@@ -221,15 +214,8 @@
   </line>
   <line>
     <name>7</name>
-    <status>DELAYS</status>
+    <status>PLANNED WORK</status>
     <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;10/29/2016&amp;nbsp;10:10PM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  Following an earlier incident at &lt;STRONG&gt;Junction Blvd&lt;/STRONG&gt;, [7] train service has resumed with delays.
-                &lt;br/&gt;&lt;br/&gt;
-              
                     &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
                     &lt;br/&gt;
                   &lt;a class="plannedWorkDetailLink" onclick=ShowHide(136063);&gt;
@@ -245,7 +231,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>10/29/2016</Date>
-    <Time>10:10PM</Time>
+    <Time>10:22PM</Time>
   </line>
   <line>
     <name>ACE</name>
@@ -667,20 +653,10 @@
   </line>
   <line>
     <name>B100 - B103</name>
-    <status>DELAYS</status>
-    <text>
-                  &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                  &lt;span class="DateStyle"&gt;
-                  &amp;nbsp;Posted:&amp;nbsp;10/29/2016&amp;nbsp;10:08PM
-                  &lt;/span&gt;
-                  &lt;br/&gt;
-                  &lt;br/&gt;
-                Following an earlier incident on Fillmore Av, &lt;STRONG&gt;B100&lt;/STRONG&gt; bus service has resumed with delays.
-              &lt;br/&gt;
-              &lt;br/&gt;
-            </text>
-    <Date>10/29/2016</Date>
-    <Time>10:08PM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>BM1 - BM5</name>
