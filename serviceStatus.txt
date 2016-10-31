@@ -1,14 +1,16 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>DELAYS</status>
+    <status>SERVICE CHANGE</status>
     <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;10/31/2016&amp;nbsp;11:44AM
+                    &amp;nbsp;Posted:&amp;nbsp;10/31/2016&amp;nbsp;11:52AM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  &lt;P&gt;Due to signal problems at &lt;STRONG&gt;Eastern Pkwy-Brooklyn Museum&lt;/STRONG&gt;, southbound [2] and [3] trains are running with delays. &lt;/P&gt;
-&lt;P&gt;Allow additional travel time.&lt;/P&gt;
+                  &lt;P&gt;Due to signal problems at &lt;STRONG&gt;Eastern Pkwy-Brooklyn Museum&lt;/STRONG&gt;, the following service changes are in effect: &lt;/P&gt;
+&lt;P&gt;Some southbound [2] and [3] trains will run express from &lt;STRONG&gt;Atlantic Av-Barclays Ctr&lt;/STRONG&gt; to &lt;STRONG&gt;Franklin Av&lt;/STRONG&gt;. &lt;/P&gt;
+&lt;P&gt;Southbound [2] and [3] trains are running with delays in both directions. &lt;/P&gt;
+&lt;P&gt;Allow additional travel time.&lt;/P&gt;.
                 &lt;br/&gt;&lt;br/&gt;
               
                     &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
@@ -32,7 +34,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>10/31/2016</Date>
-    <Time>11:44AM</Time>
+    <Time>11:52AM</Time>
   </line>
   <line>
     <name>456</name>
@@ -166,7 +168,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>10/31/2016</Date>
-    <Time>11:47AM</Time>
+    <Time>11:52AM</Time>
   </line>
   <line>
     <name>NQR</name>
@@ -206,7 +208,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>10/31/2016</Date>
-    <Time>11:47AM</Time>
+    <Time>11:52AM</Time>
   </line>
 </subway><bus>
   <line>
@@ -306,7 +308,7 @@
               &lt;br/&gt;
             </text>
     <Date>10/31/2016</Date>
-    <Time>11:47AM</Time>
+    <Time>11:52AM</Time>
   </line>
   <line>
     <name>M1 - M116</name>
