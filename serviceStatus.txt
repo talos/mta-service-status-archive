@@ -306,10 +306,17 @@
 </bus><BT>
   <line>
     <name>Bronx-Whitestone</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>DELAYS</status>
+    <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;10/31/2016&amp;nbsp; 8:35AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  BWB collision Bronx bound. One roadway blocked. Expect delays.
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>10/31/2016</Date>
+    <Time> 8:35AM</Time>
   </line>
   <line>
     <name>Cross Bay</name>
@@ -407,22 +414,15 @@
   </line>
   <line>
     <name>Verrazano-Narrows</name>
-    <status>DELAYS</status>
+    <status>PLANNED WORK</status>
     <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;10/31/2016&amp;nbsp; 8:20AM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  VNB collision upper level Brooklyn bound. One lane blocked. Expect delays.
-                &lt;br/&gt;&lt;br/&gt;
-              
                     &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
                     &lt;br/&gt;
                   VNB: Planned work; Staten Island bound one lane closed until 3 PM, expect delays.
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>10/31/2016</Date>
-    <Time> 8:20AM</Time>
+    <Time> 5:09AM</Time>
   </line>
 </BT><LIRR>
   <line>
