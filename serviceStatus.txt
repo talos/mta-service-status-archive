@@ -1,8 +1,15 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>PLANNED WORK</status>
+    <status>DELAYS</status>
     <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;10/31/2016&amp;nbsp; 5:33AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  Due to an earlier incident at &lt;STRONG&gt;Intervale Av&lt;/STRONG&gt;, [2] train service has resumed with delays.
+                &lt;br/&gt;&lt;br/&gt;
+              
                     &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
                     &lt;br/&gt;
                   &lt;a class="plannedWorkDetailLink" onclick=ShowHide(138951);&gt;
@@ -19,7 +26,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>10/31/2016</Date>
-    <Time> 5:27AM</Time>
+    <Time> 5:33AM</Time>
   </line>
   <line>
     <name>456</name>
@@ -41,7 +48,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>10/31/2016</Date>
-    <Time> 5:27AM</Time>
+    <Time> 5:32AM</Time>
   </line>
   <line>
     <name>7</name>
@@ -206,7 +213,7 @@
               &lt;br/&gt;
             </text>
     <Date>10/31/2016</Date>
-    <Time> 5:27AM</Time>
+    <Time> 5:32AM</Time>
   </line>
   <line>
     <name>M1 - M116</name>
@@ -246,7 +253,7 @@
               &lt;br/&gt;
             </text>
     <Date>10/31/2016</Date>
-    <Time> 5:27AM</Time>
+    <Time> 5:32AM</Time>
   </line>
   <line>
     <name>QM1 - QM44</name>
