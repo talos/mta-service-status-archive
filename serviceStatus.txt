@@ -29,10 +29,24 @@
   </line>
   <line>
     <name>BDFM</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>PLANNED WORK</status>
+    <text>
+                    &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
+                    &lt;br/&gt;
+                  &lt;a class="plannedWorkDetailLink" onclick=ShowHide(135741);&gt;
+&lt;b&gt;&amp;lt;F&amp;gt; Some northbound trains skip 75 Av, Briarwood, Sutphin Blvd &lt;i&gt;and &lt;/i&gt;terminate at Parsons Blvd
+&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 135741 class="plannedWorkDetail" &gt;Rush Hours&lt;/b&gt;, 6 AM to 10 AM &lt;i&gt;and&lt;/i&gt; 3:30 PM to 8:30 PM, Mon to Fri, until Nov 18
+&lt;br&gt;
+&lt;br&gt;For service &lt;i&gt;to&lt;/i&gt; skipped stations, 169 St and 179 St, transfer to a Jamaica-bound &amp;lt;F&amp;gt; at 71 Av, 
+&lt;br&gt;Union Tpke, or Parsons Blvd.
+&lt;br&gt;
+&lt;br&gt;&amp;amp;bull; Please allow additional travel time for these stations.
+&lt;br&gt;&lt;b&gt;
+&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>11/01/2016</Date>
+    <Time> 3:42PM</Time>
   </line>
   <line>
     <name>G</name>
@@ -647,17 +661,10 @@
   </line>
   <line>
     <name>Waterbury</name>
-    <status>SERVICE CHANGE</status>
-    <text>
-                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;11/01/2016&amp;nbsp; 1:14PM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  Substitute Bus Service will be provided on the Waterbury Branch for the 1:01PM train from Bridgeport to Waterbury and the 2:10PM train from Waterbury to Bridgeport due to mechanical difficulties. Please listen for announcements at your station.
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>11/01/2016</Date>
-    <Time> 1:14PM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>Pascack Valley</name>
