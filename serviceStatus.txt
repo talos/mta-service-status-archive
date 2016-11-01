@@ -1,10 +1,25 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>PLANNED WORK</status>
+    <text>
+                    &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
+                    &lt;br/&gt;
+                  &lt;a class="plannedWorkDetailLink" onclick=ShowHide(136754);&gt;
+&lt;b&gt;[1] South Ferry-bound trains skip 86, 79, 66, 59 and 50 Sts
+&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 136754 class="plannedWorkDetail" &gt;&lt;/b&gt;Late Nights, 10:45 PM to 5 AM, Mon to Fri, Oct 31 - Nov 4
+&lt;br&gt;
+&lt;br&gt;For service &lt;i&gt;to &lt;/i&gt;these stations, take the [1] to 72 St or Times Sq-42 St and transfer
+&lt;br&gt;to an uptown [1] or [2] &lt;i&gt;local&lt;/i&gt;.
+&lt;br&gt;
+&lt;br&gt;For service &lt;i&gt;from &lt;/i&gt;these stations, take the [1] or [2] to 72 St or 96 St and transfer
+&lt;br&gt;to a South Ferry-bound [1].
+&lt;br&gt;&lt;b&gt;
+&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>10/31/2016</Date>
+    <Time>10:47PM</Time>
   </line>
   <line>
     <name>456</name>
@@ -64,6 +79,21 @@
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
                   &lt;P&gt;Due to signal problems at &lt;STRONG&gt;Lexington Av-53 St, &lt;/STRONG&gt; northbound [E] and [M] trains are running with delays. &lt;/P&gt;
 &lt;P&gt;Allow additional travel time. &lt;/P&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              
+                    &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
+                    &lt;br/&gt;
+                  &lt;a class="plannedWorkDetailLink" onclick=ShowHide(136682);&gt;
+&lt;b&gt;[D] Norwood-bound trains skip 155, 161, 167, 170 and 174-175 Sts
+&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 136682 class="plannedWorkDetail" &gt;&lt;/b&gt;Late Nights, 10:45 PM to 5 AM, Mon to Fri, Oct 31 - Nov 4
+&lt;br&gt;
+&lt;br&gt;For service &lt;i&gt;to &lt;/i&gt;these stations, take the [D] to Tremont Av and transfer to a Coney Island-bound [D].
+&lt;br&gt;
+&lt;br&gt;For service &lt;i&gt;from&lt;/i&gt; these stations, take the [D] to 145 St and transfer to a Norwood-bound [D].
+&lt;br&gt;
+&lt;br&gt;&lt;/font&gt;&lt;table class=plannedworkTableStyle  border=1 cellspacing=1 cellpadding=5 rules=none frame=box&gt;&lt;td&gt;&amp;nbsp;&amp;nbsp;[ad]&amp;nbsp;&amp;nbsp;&lt;td&gt;&lt;font size=1&gt;This service change affects one or more ADA accessible stations. Please call 511 for help with planning&lt;br&gt;your trip. If you are deaf or hard of hearing, use your preferred relay service provider or the free 711 relay.&amp;nbsp;&amp;nbsp;&lt;/font&gt;&lt;/table&gt;
+&lt;br&gt;&lt;b&gt;
+&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>10/31/2016</Date>
@@ -227,7 +257,7 @@
               &lt;br/&gt;
             </text>
     <Date>10/31/2016</Date>
-    <Time>10:42PM</Time>
+    <Time>10:47PM</Time>
   </line>
   <line>
     <name>M1 - M116</name>
