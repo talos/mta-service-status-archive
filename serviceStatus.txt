@@ -38,6 +38,17 @@
                   &lt;P&gt;Due to signal problems at &lt;STRONG&gt;Lexington Av-53 St, &lt;/STRONG&gt; northbound [E] and [M] trains are running with delays. &lt;/P&gt;
 &lt;P&gt;Allow additional travel time. &lt;/P&gt;
                 &lt;br/&gt;&lt;br/&gt;
+              
+                    &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
+                    &lt;br/&gt;
+                  &lt;a class="plannedWorkDetailLink" onclick=ShowHide(136047);&gt;
+&lt;b&gt;[C] Service ends early&lt;br clear=left&gt;[A] trains run local between 168 St and Euclid Av
+&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 136047 class="plannedWorkDetail" &gt;&lt;/b&gt;Late Evenings, 10 PM to 11:30 PM, Mon to Thu, Oct 31 - Nov 3  
+&lt;br&gt;
+&lt;br&gt;&amp;bull; Please allow additional travel time.
+&lt;br&gt;&lt;/font&gt;&lt;b&gt;
+&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+                &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>10/31/2016</Date>
     <Time> 9:58PM</Time>
@@ -228,7 +239,7 @@
               &lt;br/&gt;
             </text>
     <Date>10/31/2016</Date>
-    <Time> 9:52PM</Time>
+    <Time>10:02PM</Time>
   </line>
   <line>
     <name>M1 - M116</name>
@@ -552,10 +563,15 @@
 </bus><BT>
   <line>
     <name>Bronx-Whitestone</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>PLANNED WORK</status>
+    <text>
+                    &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
+                    &lt;br/&gt;
+                  BWB: PLANNED WORK; QUEENS-BOUND; ONE LANE CLOSED. EXPECT DELAYS.
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>10/31/2016</Date>
+    <Time>10:00PM</Time>
   </line>
   <line>
     <name>Cross Bay</name>
