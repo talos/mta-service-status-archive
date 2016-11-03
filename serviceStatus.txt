@@ -8,10 +8,18 @@
   </line>
   <line>
     <name>456</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>DELAYS</status>
+    <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;11/03/2016&amp;nbsp; 8:51AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;P&gt;Due to rail condition at &lt;STRONG&gt;Crown Hts-Utica Av&lt;/STRONG&gt;, [4] trains are running with delays in both directions. &lt;/P&gt;
+&lt;P&gt;Allow additional travel time. &lt;/P&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>11/03/2016</Date>
+    <Time> 8:51AM</Time>
   </line>
   <line>
     <name>7</name>
@@ -37,7 +45,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>11/03/2016</Date>
-    <Time> 8:47AM</Time>
+    <Time> 8:52AM</Time>
   </line>
   <line>
     <name>G</name>
@@ -158,12 +166,26 @@
               &lt;br/&gt;
             </text>
     <Date>11/03/2016</Date>
-    <Time> 8:47AM</Time>
+    <Time> 8:52AM</Time>
   </line>
   <line>
     <name>M1 - M116</name>
-    <status>PLANNED WORK</status>
+    <status>SERVICE CHANGE</status>
     <text>
+                  &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                  &lt;span class="DateStyle"&gt;
+                  &amp;nbsp;Posted:&amp;nbsp;11/03/2016&amp;nbsp; 8:52AM
+                  &lt;/span&gt;
+                  &lt;br/&gt;
+                  &lt;br/&gt;
+                &lt;P&gt;&lt;STRONG&gt;M9 &lt;/STRONG&gt;buses are detoured, due to construction on Warren St between Broadway and Church St. &lt;/P&gt;
+&lt;P&gt;Detour is as follows:&lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;Northbound&lt;/STRONG&gt;: Via W Broadway to Warren St, continue straight on West St, right on Chambers St, right on Broadway to Warren St and regular route.&lt;/P&gt;
+&lt;P&gt;Corresponding stops on Warren St between Greenwich St and Broadway will be made on Chambers St at M22 bus stops.&lt;/P&gt;
+&lt;P&gt;Allow additional travel time. &lt;/P&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
                   &lt;span class="TitlePlannedWork" &gt;Planned Detour&lt;/span&gt;
                   &lt;br/&gt;
                 &lt;a class="plannedWorkDetailLink" onclick=ShowHide(139431);&gt;&lt;b&gt;M35 &lt;/b&gt;-&lt;b&gt; Westbound stop on Hell's Gate Circle at Central Rd temporarily relocated&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 139431 class="plannedWorkDetail" &gt;&lt;/b&gt;7 AM to 3 PM, Wed to Fri, Nov 2 - 4&lt;br&gt;&lt;br&gt;Due to construction, please follow directional signage to the nearby stop on Central Rd at Icahn Stadium.&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
@@ -177,7 +199,7 @@
               &lt;br/&gt;
             </text>
     <Date>11/03/2016</Date>
-    <Time> 8:47AM</Time>
+    <Time> 8:52AM</Time>
   </line>
   <line>
     <name>Q1 - Q113</name>
