@@ -91,8 +91,16 @@
   </line>
   <line>
     <name>NQR</name>
-    <status>DELAYS</status>
+    <status>SERVICE CHANGE</status>
     <text>
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;11/04/2016&amp;nbsp; 6:14PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;P&gt;Due to a train with mechanical problems at &lt;STRONG&gt;Whitehall St-South Ferry&lt;/STRONG&gt;, southbound [R] trains are running on the [Q] line from &lt;STRONG&gt;Canal St&lt;/STRONG&gt; to &lt;STRONG&gt;DeKalb Av&lt;/STRONG&gt;. &lt;/P&gt;
+&lt;P&gt;Allow additional travel time. &lt;/P&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              
                     &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
                     &amp;nbsp;Posted:&amp;nbsp;11/04/2016&amp;nbsp; 6:10PM
@@ -101,7 +109,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>11/04/2016</Date>
-    <Time> 6:10PM</Time>
+    <Time> 6:14PM</Time>
   </line>
   <line>
     <name>S</name>
@@ -427,16 +435,6 @@
               &lt;br/&gt;
               &lt;br/&gt;
             
-                  &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                  &lt;span class="DateStyle"&gt;
-                  &amp;nbsp;Posted:&amp;nbsp;11/04/2016&amp;nbsp; 5:51PM
-                  &lt;/span&gt;
-                  &lt;br/&gt;
-                  &lt;br/&gt;
-                Following an earlier incident on Myrtle Av, &lt;STRONG&gt;Q55&lt;/STRONG&gt; bus service has resumed with delays.
-              &lt;br/&gt;
-              &lt;br/&gt;
-            
                   &lt;span class="TitlePlannedWork" &gt;Planned Detour&lt;/span&gt;
                   &lt;br/&gt;
                 &lt;a class="plannedWorkDetailLink" onclick=ShowHide(68484);&gt;&lt;b&gt;Q69 - Southbound stop on 28 St between Queens Plaza South and 42 Rd temporarily relocated&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 68484 class="plannedWorkDetail" &gt;&lt;/b&gt;Until further notice&lt;br&gt;&lt;br&gt;Due to construction, please use the nearby temporary stop &lt;b&gt;on 42 Rd&lt;/b&gt; between Jackson Av and 28 St.&lt;br&gt;&lt;/font&gt;&lt;b&gt;                                 [TP]&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
@@ -634,10 +632,17 @@
   </line>
   <line>
     <name>Oyster Bay</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>DELAYS</status>
+    <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;11/04/2016&amp;nbsp; 6:14PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  The 6:00PM train from Jamaica due Oyster Bay at 6:58PM is operating 10 minutes late due to a late-arriving connection.
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>11/04/2016</Date>
+    <Time> 6:14PM</Time>
   </line>
   <line>
     <name>Port Jefferson</name>
@@ -712,10 +717,17 @@
   </line>
   <line>
     <name>Danbury</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>DELAYS</status>
+    <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;11/04/2016&amp;nbsp; 6:13PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  Danbury Branch Line Service is currently experiencing delays of 15 to 20 minutes due to a late equipment and congestion. Please listen for announcements at your station.
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>11/04/2016</Date>
+    <Time> 6:13PM</Time>
   </line>
   <line>
     <name>Waterbury</name>
