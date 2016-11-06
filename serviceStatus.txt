@@ -1,60 +1,1007 @@
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
-   "http://www.w3.org/TR/html4/strict.dtd">
-   
-<html>
-<head>
-<title>mta.info | Error 503 Service Unavailable</title>
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7" />
+<service><responsecode>0</responsecode><subway>
+  <line>
+    <name>123</name>
+    <status>DELAYS</status>
+    <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;11/06/2016&amp;nbsp; 8:55AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;P&gt;Due to NYPD Activity at &lt;STRONG&gt;Newkirk Av&lt;/STRONG&gt;,the following service changes are in effect:&lt;/P&gt;
+&lt;P&gt;Northbound [2] trains are running with delays.&lt;/P&gt;
+&lt;P&gt;Southbound [2] trains are terminating at &lt;STRONG&gt;Church Av&lt;/STRONG&gt;.&lt;/P&gt;
+&lt;P&gt;Allow additional travel time.&lt;/P&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              
+                    &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
+                    &lt;br/&gt;
+                  &lt;a class="plannedWorkDetailLink" onclick=ShowHide(136849);&gt;&lt;b&gt;[3] Harlem-bound trains skip Eastern Pkwy, Grand Army Plaza and Bergen St&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 136849 class="plannedWorkDetail" &gt;&lt;/font&gt; &lt;/b&gt;&lt;a href=http://advisory.mtanyct.info/pdf_files/ServiceGuide.pdf target=_blank&gt;&lt;font color=#0000FF&gt;&lt;b&gt;&lt;u&gt;Weekend&lt;/u&gt;&lt;/b&gt;&lt;/font&gt;&lt;/a&gt;, Saturday &lt;i&gt;and&lt;/i&gt; Sunday, Nov 5 - 6&lt;br&gt;&lt;br&gt;For service &lt;i&gt;to&lt;/i&gt; these stations, take the [3] to Atlantic Av-Barclays Ctr and transfer &lt;br&gt;to a Flatbush Av-bound [2] or New Lots Av-bound [3].&lt;br&gt;&lt;br&gt;For service&lt;i&gt; from&lt;/i&gt; these stations, take the [2] or [3] to Franklin Av &lt;br&gt;and transfer to a Harlem-bound [3].&lt;br&gt;&lt;/font&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              
+                    &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
+                    &lt;br/&gt;
+                  &lt;a class="plannedWorkDetailLink" onclick=ShowHide(136848);&gt;&lt;b&gt;[2] Manhattan-bound trains skip Eastern Pkwy, Grand Army Plaza and Bergen St&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 136848 class="plannedWorkDetail" &gt;&lt;/b&gt;&lt;/font&gt;Weekend, 11:45 PM Fri to 5 AM Mon, Nov 4 - 7&lt;br&gt;&lt;br&gt;For service&lt;i&gt; to&lt;/i&gt; these stations, take the [2] to Atlantic Av-Barclays Ctr and transfer to a&lt;br&gt;Flatbush Av-bound [2], New Lots Av-bound [3] or [4] &lt;i&gt;local&lt;/i&gt;.&lt;br&gt;&lt;br&gt;For service&lt;i&gt; from&lt;/i&gt; these stations, take the [2] [3] or [4] to Franklin Av and transfer to a&lt;br&gt;Manhattan-bound [2].&lt;br&gt;&lt;/font&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>11/06/2016</Date>
+    <Time> 8:55AM</Time>
+  </line>
+  <line>
+    <name>456</name>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
+  </line>
+  <line>
+    <name>7</name>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
+  </line>
+  <line>
+    <name>ACE</name>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
+  </line>
+  <line>
+    <name>BDFM</name>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
+  </line>
+  <line>
+    <name>G</name>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
+  </line>
+  <line>
+    <name>JZ</name>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
+  </line>
+  <line>
+    <name>L</name>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
+  </line>
+  <line>
+    <name>NQR</name>
+    <status>DELAYS</status>
+    <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;11/06/2016&amp;nbsp; 8:34AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  Following an earlier incident at &lt;STRONG&gt;4 Av-9 St&lt;/STRONG&gt;, [R] service has resumed with delays.
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>11/06/2016</Date>
+    <Time> 8:34AM</Time>
+  </line>
+  <line>
+    <name>S</name>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
+  </line>
+  <line>
+    <name>SIR</name>
+    <status>PLANNED WORK</status>
+    <text>
+                    &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
+                    &lt;br/&gt;
+                  &lt;a class="plannedWorkDetailLink" onclick=ShowHide(139766);&gt;&lt;b&gt;[SIR] Service runs on an adjusted schedule in both directions&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 139766 class="plannedWorkDetail" &gt;&lt;/b&gt;Weekend, 6:30 AM to 7 PM, Sat and Sun, Nov 5 - 6    Nov 12 - 13&lt;br&gt;&lt;br&gt; Tottenville-bound trains depart 2 minutes &lt;i&gt;later&lt;/i&gt; than regularly scheduled.&lt;br&gt;&lt;br&gt; St George-bound trains depart 5 minutes &lt;i&gt;earlier&lt;/i&gt; than regularly scheduled.&lt;br&gt;&lt;br&gt;&lt;b&gt;Note:&lt;/b&gt; Trains will not hold for connections with the Staten Island Ferry at St George Terminal.&lt;br&gt;&lt;b&gt;&lt;/b&gt;          &lt;/font&gt;&lt;a href=http://apps.mta.info/traintime/ target=_blank&gt;&lt;img height=32px src=http://apps.mta.info/traintime/desktop2Images/logoSm.png&gt;&lt;/a&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>11/06/2016</Date>
+    <Time> 8:48AM</Time>
+  </line>
+</subway><bus>
+  <line>
+    <name>B1 - B84</name>
+    <status>PLANNED WORK</status>
+    <text>
+                  &lt;span class="TitlePlannedWork" &gt;Planned Detour&lt;/span&gt;
+                  &lt;br/&gt;
+                &lt;a class="plannedWorkDetailLink" onclick=ShowHide(117571);&gt;&lt;b&gt;B9 buses may experience delays due to track work on the N line between Stillwell Av and 8 Av &lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 117571 class="plannedWorkDetail" &gt;&lt;/b&gt;Until further notice&lt;br&gt;&lt;br&gt; Please allow additional travel time.&lt;br&gt;&lt;b&gt;          &lt;/b&gt;&lt;/font&gt;&lt;a href=http://bustime.mta.info/#b9 target=_blank&gt;&lt;img height=30px src=http://web.mta.info/nyct/images/Bus_Time_logo.png&gt;&lt;/a&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
+                  &lt;span class="TitlePlannedWork" &gt;Planned Detour&lt;/span&gt;
+                  &lt;br/&gt;
+                &lt;a class="plannedWorkDetailLink" onclick=ShowHide(137984);&gt;&lt;b&gt;B9&lt;/b&gt; - &lt;b&gt;No service between 5 Av at 60 St and 3 Av at Bay Ridge Av&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 137984 class="plannedWorkDetail" &gt;&lt;/b&gt;7 AM to 7 PM, Sunday, Nov 6&lt;br&gt;&lt;br&gt;Due to the &lt;a href=http://bit.ly/TCSRun target=_blank&gt;&lt;font color=#0000FF&gt;&lt;b&gt;&lt;u&gt;TCS New York City Marathon&lt;/u&gt;&lt;/b&gt;&lt;/font&gt;&lt;/a&gt;, buses operate in two sections:&lt;br&gt;1. Between Kings Plaza and 60 St at 5 Av&lt;br&gt;2. Shuttle service between 60 St at 3 Av and Shore Rd at 71 St&lt;br&gt;&lt;br&gt;&lt;b&gt;&lt;i&gt;&lt;a style="cursor:pointer; text-decoration:underline;" onclick=ShowHide(1379840);&gt;Show Reroute Details&lt;/a&gt;&lt;/i&gt;&lt;/b&gt;&lt;br&gt;&lt;div id="1379840"; style="display:none;"&gt;&lt;b&gt;Eastbound&lt;br&gt;&lt;/b&gt;Via 60 St&lt;br&gt;Left on 6 Av&lt;br&gt;Right on 65 St&lt;br&gt;Right on 5 Av&lt;br&gt;Right on 60 St then regular route &lt;br&gt;&lt;br&gt;&lt;b&gt;Westbound&lt;br&gt;&lt;/b&gt;&lt;i&gt;Shuttle service from 60 St at 3 Av to Shore Rd and turnaround&lt;br&gt;&lt;/i&gt;Via Bay Ridge Av&lt;br&gt;Left on Ridge Blvd into 2 Av&lt;br&gt;Right on 60 St and take temporary stand at 3 Av&lt;/div&gt;&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
+                  &lt;span class="TitlePlannedWork" &gt;Planned Detour&lt;/span&gt;
+                  &lt;br/&gt;
+                &lt;a class="plannedWorkDetailLink" onclick=ShowHide(137983);&gt;&lt;b&gt;B8&lt;/b&gt; - &lt;b&gt;No service between 4 Av at 95 St and the VA Hospital&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 137983 class="plannedWorkDetail" &gt;&lt;/b&gt;7 AM to 7 PM, Sunday, Nov 6&lt;br&gt;&lt;br&gt;Due to the &lt;a href=http://bit.ly/TCSRun target=_blank&gt;&lt;font color=#0000FF&gt;&lt;b&gt;&lt;u&gt;TCS New York City Marathon&lt;/u&gt;&lt;/b&gt;&lt;/font&gt;&lt;/a&gt;, buses operate between Hegeman Av at Rockaway Av and the VA Hospital in both directions. &lt;br&gt;&lt;/font&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
+                  &lt;span class="TitlePlannedWork" &gt;Planned Detour&lt;/span&gt;
+                  &lt;br/&gt;
+                &lt;a class="plannedWorkDetailLink" onclick=ShowHide(138632);&gt;&lt;b&gt;B70&lt;/b&gt; - &lt;b&gt;No service on 39 St between 5 Av and 1 Av&lt;br clear=left&gt;Buses rerouted between 8 Av at Bay Ridge Av and 7 Av at 86 St&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 138632 class="plannedWorkDetail" &gt;&lt;/b&gt;7 AM to 7 PM, Sunday, Nov 6&lt;br&gt;&lt;br&gt;Due to the &lt;a href=http://bit.ly/TCSRun target=_blank&gt;&lt;font color=#0000FF&gt;&lt;b&gt;&lt;u&gt;TCS New York City Marathon&lt;/u&gt;&lt;/b&gt;&lt;/font&gt;&lt;/a&gt;, buses run via &lt;b&gt;10 Av&lt;/b&gt; making corresponding stops in both directions.&lt;br&gt;&lt;br&gt;&lt;b&gt;&lt;i&gt;&lt;a style="cursor:pointer; text-decoration:underline;" onclick=ShowHide(1097500);&gt;Show Reroute Details&lt;/a&gt;&lt;/i&gt;&lt;/b&gt;&lt;br&gt;&lt;div id="1097500"; style="display:none;"&gt;&lt;b&gt;Northbound&lt;br&gt;&lt;/b&gt;Via 7 Av&lt;br&gt;Right on 86 St&lt;br&gt;Left on 10 Av&lt;br&gt;Left on Bay Ridge Av (69 St)&lt;br&gt;Right on 8 Av&lt;br&gt;Regular route to 39 St and 5 Av and take stand&lt;br&gt;&lt;br&gt;&lt;b&gt;Southbound&lt;br&gt;&lt;/b&gt;Left on 36 St&lt;br&gt;Left on 5 Av&lt;br&gt;Left on 39 St&lt;br&gt;Regular route to Bay Ridge Av (69 St)&lt;br&gt;Left on Bay Ridge Av&lt;br&gt;Right on 10 Av&lt;br&gt;Right on 86 St&lt;br&gt;Left on 7 Av then regular route&lt;/div&gt;&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
+                  &lt;span class="TitlePlannedWork" &gt;Planned Detour&lt;/span&gt;
+                  &lt;br/&gt;
+                &lt;a class="plannedWorkDetailLink" onclick=ShowHide(138627);&gt;&lt;b&gt;B69 &lt;/b&gt;-&lt;b&gt; No service on Vanderbilt Av between Dean St and DeKalb Av&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 138627 class="plannedWorkDetail" &gt;&lt;/b&gt;7 AM to 7 PM, Sunday, Nov 6&lt;br&gt;&lt;br&gt;Due to the &lt;a href=http://bit.ly/TCSRun target=_blank&gt;&lt;font color=#0000FF&gt;&lt;b&gt;&lt;u&gt;TCS New York City Marathon&lt;/u&gt;&lt;/b&gt;&lt;/font&gt;&lt;/a&gt;, buses operate in two sections:&lt;br&gt;1. Between Cortelyou Rd at McDonald Av and Vanderbilt Av at Dean St&lt;br&gt;2. Between Sands St at Jay St and Vanderbilt Av at DeKalb Av&lt;br&gt;&lt;br&gt;&lt;b&gt;&lt;i&gt;&lt;a style="cursor:pointer; text-decoration:underline;" onclick=ShowHide(1386270);&gt;Show Reroute Details&lt;/a&gt;&lt;/i&gt;&lt;/b&gt;&lt;br&gt;&lt;div id="1386270"; style="display:none;"&gt;&lt;b&gt;Section 1&lt;br&gt;&lt;/b&gt;Via Vanderbilt Av&lt;br&gt;Right on Dean St&lt;br&gt;Left on Washington Av&lt;br&gt;Left on Atlantic Av&lt;br&gt;Left on Vanderbilt Av and take temporary stand at Dean St&lt;br&gt;&lt;br&gt;&lt;b&gt;Section 2&lt;br&gt;&lt;/b&gt;Via Vanderbilt Av&lt;br&gt;Right on DeKalb Av&lt;br&gt;Right on Clermont Av&lt;br&gt;Right on Myrtle Av&lt;br&gt;Left on Vanderbilt Av then regular route&lt;/div&gt;&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
+                  &lt;span class="TitlePlannedWork" &gt;Planned Detour&lt;/span&gt;
+                  &lt;br/&gt;
+                &lt;a class="plannedWorkDetailLink" onclick=ShowHide(138626);&gt;&lt;b&gt;B67&lt;/b&gt; - &lt;b&gt;No service between Flatbush Av at 5 Av to Sands St and Jay St&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 138626 class="plannedWorkDetail" &gt;&lt;/b&gt;7 AM to 7 PM, Sunday, Nov 6&lt;br&gt;&lt;br&gt;Due to the &lt;a href=http://bit.ly/TCSRun target=_blank&gt;&lt;font color=#0000FF&gt;&lt;b&gt;&lt;u&gt;TCS New York City Marathon&lt;/u&gt;&lt;/b&gt;&lt;/font&gt;&lt;/a&gt;, buses operate between Cortelyou Rd at McDonald Av and Flatbush Av at 5 Av in both directions.&lt;br&gt;&lt;/font&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
+                  &lt;span class="TitlePlannedWork" &gt;Planned Detour&lt;/span&gt;
+                  &lt;br/&gt;
+                &lt;a class="plannedWorkDetailLink" onclick=ShowHide(138630);&gt;&lt;b&gt;B65 &lt;/b&gt;-&lt;b&gt; No service between Bergen St at 5 Av and Smith St at Fulton St&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 138630 class="plannedWorkDetail" &gt;&lt;/b&gt;7 AM to 7 PM, Sunday, Nov 6&lt;br&gt;&lt;br&gt;Due to the &lt;a href=http://bit.ly/TCSRun target=_blank&gt;&lt;font color=#0000FF&gt;&lt;b&gt;&lt;u&gt;TCS New York City Marathon&lt;/u&gt;&lt;/b&gt;&lt;/font&gt;&lt;/a&gt;, buses operate between Ralph Av at St Johns Pl and Bergen St at 5 Av in both directions.&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
+                  &lt;span class="TitlePlannedWork" &gt;Planned Detour&lt;/span&gt;
+                  &lt;br/&gt;
+                &lt;a class="plannedWorkDetailLink" onclick=ShowHide(138542);&gt;&lt;b&gt;B64&lt;/b&gt; - &lt;b&gt;No service on Bay Ridge Av between 5 Av and 3 Av&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 138542 class="plannedWorkDetail" &gt;&lt;/b&gt;7 AM to 7 PM, Sunday, Nov 6&lt;br&gt;&lt;br&gt;Due to the &lt;a href=http://bit.ly/TCSRun target=_blank&gt;&lt;font color=#0000FF&gt;&lt;b&gt;&lt;u&gt;TCS New York City Marathon&lt;/u&gt;&lt;/b&gt;&lt;/font&gt;&lt;/a&gt;, buses operate in two sections:&lt;br&gt;1. Between Stillwell Av at Mermaid Av and Bay Ridge Av at 5 Av&lt;br&gt;2. Shuttle service between Shore Rd at 71 St and 3 Av at Bay Ridge Av&lt;br&gt;&lt;br&gt;&lt;b&gt;&lt;i&gt;&lt;a style="cursor:pointer; text-decoration:underline;" onclick=ShowHide(1385420);&gt;Show Reroute Details&lt;/a&gt;&lt;/i&gt;&lt;/b&gt;&lt;br&gt;&lt;div id="1385420"; style="display:none;"&gt;&lt;b&gt;Northbound&lt;br&gt;&lt;/b&gt;Via Bay Ridge Av and take temporary stand at 5 Av&lt;br&gt;&lt;br&gt;&lt;b&gt;Southbound&lt;br&gt;&lt;/b&gt;From temporary stand on Bay Ridge Av at 5 Av&lt;br&gt;Right on 5 Av&lt;br&gt;Right on 67 St&lt;br&gt;Right on 6 Av&lt;br&gt;Left on Bay Ridge Av then regular route&lt;br&gt;&lt;br&gt;&lt;b&gt;Shuttle between Shore Rd and 3 Av&lt;br&gt;&lt;/b&gt;Via Bay Ridge Av&lt;br&gt;Right on 3 Av&lt;br&gt;Right on Bay Ridge Pkwy&lt;br&gt;Right on Ridge Blvd&lt;br&gt;Left on Bay Ridge Av then regular route&lt;/div&gt;&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
+                  &lt;span class="TitlePlannedWork" &gt;Planned Detour&lt;/span&gt;
+                  &lt;br/&gt;
+                &lt;a class="plannedWorkDetailLink" onclick=ShowHide(138541);&gt;&lt;b&gt;B63 &lt;/b&gt;- &lt;b&gt;No service between 5 Av at 9 St and 3 Av at Atlantic Av&lt;br clear=left&gt;No service on 5 Av between 69 St and Shore Rd &lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 138541 class="plannedWorkDetail" &gt;&lt;/b&gt;7 AM to 7 PM, Sunday, Nov 6&lt;br&gt;&lt;br&gt;Due to the &lt;a href=http://bit.ly/TCSRun target=_blank&gt;&lt;font color=#0000FF&gt;&lt;b&gt;&lt;u&gt;TCS New York City Marathon&lt;/u&gt;&lt;/b&gt;&lt;/font&gt;&lt;/a&gt;, buses operate in two sections:&lt;br&gt;1. Between Pier 6 at Atlantic Av and Atlantic Av at 3 Av&lt;br&gt;2. Between Bay Ridge Av at 5 Av and 5 Av at 9 St&lt;br&gt;&lt;br&gt;&lt;b&gt;&lt;i&gt;&lt;a style="cursor:pointer; text-decoration:underline;" onclick=ShowHide(1385410);&gt;Show Reroute Details&lt;/a&gt;&lt;/i&gt;&lt;/b&gt;&lt;br&gt;&lt;div id="1385410"; style="display:none;"&gt;&lt;b&gt;Northbound&lt;br&gt;&lt;/b&gt;Via 5 Av&lt;br&gt;Right on 3 Av&lt;br&gt;Right on 7 Av&lt;br&gt;Right on 9 St&lt;br&gt;Left on 5 Av and take temporary stand at 9 St&lt;br&gt;&lt;br&gt;&lt;b&gt;Southbound&lt;br&gt;&lt;/b&gt;Via 5 Av at 9 St&lt;br&gt;Left on 67 St&lt;br&gt;Right on 6 Av&lt;br&gt;Right on 69 St (Bay Ridge Av)&lt;br&gt;Right on 5 Av and take temporary stand&lt;/div&gt;&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
+                  &lt;span class="TitlePlannedWork" &gt;Planned Detour&lt;/span&gt;
+                  &lt;br/&gt;
+                &lt;a class="plannedWorkDetailLink" onclick=ShowHide(138539);&gt;&lt;b&gt;B62 - No service between Long Island City and Williamsburg&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 138539 class="plannedWorkDetail" &gt;&lt;/b&gt;7 AM to 7 PM, Sunday, Nov 6&lt;br&gt;&lt;br&gt;Due to the &lt;a href=http://bit.ly/TCSRun target=_blank&gt;&lt;font color=#0000FF&gt;&lt;b&gt;&lt;u&gt;TCS New York City Marathon&lt;/u&gt;&lt;/b&gt;&lt;/font&gt;&lt;/a&gt;, buses operate between Boerum Pl at Livingston St and Wythe Av at Clymer St in both directions.&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
+                  &lt;span class="TitlePlannedWork" &gt;Planned Detour&lt;/span&gt;
+                  &lt;br/&gt;
+                &lt;a class="plannedWorkDetailLink" onclick=ShowHide(138537);&gt;&lt;b&gt;B61 &lt;/b&gt;-&lt;b&gt; No service on 9 St between 3 Av and 5 Av&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 138537 class="plannedWorkDetail" &gt;&lt;/b&gt;7 AM to 7 PM, Sunday, Nov 6&lt;br&gt;&lt;br&gt;Due to the &lt;a href=http://bit.ly/TCSRun target=_blank&gt;&lt;font color=#0000FF&gt;&lt;b&gt;&lt;u&gt;TCS New York City Marathon&lt;/u&gt;&lt;/b&gt;&lt;/font&gt;&lt;/a&gt;, buses operate in two sections:&lt;br&gt;1. Between 20 St at Prospect Park West and 9 St at 5 Av&lt;br&gt;2. Between 9 St at 3 Av and Smith St at Fulton St&lt;br&gt;&lt;br&gt;&lt;b&gt;&lt;i&gt;&lt;a style="cursor:pointer; text-decoration:underline;" onclick=ShowHide(1385370);&gt;Show Reroute Details&lt;/a&gt;&lt;/i&gt;&lt;/b&gt;&lt;br&gt;&lt;div id="1385370"; style="display:none;"&gt;&lt;b&gt;Northbound&lt;br&gt;&lt;/b&gt;Via 9 St&lt;br&gt;Left on 5 Av&lt;br&gt;Left on 10 St&lt;br&gt;Left on 6 Av&lt;br&gt;Right on 9 St then regular route&lt;br&gt;&lt;br&gt;&lt;b&gt;Southbound&lt;br&gt;&lt;/b&gt;Via 9 St&lt;br&gt;Right on 2 Av&lt;br&gt;Left on 10 St&lt;br&gt;Left on 3 Av and take temporary stand at 9 St&lt;/div&gt;&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
+                  &lt;span class="TitlePlannedWork" &gt;Planned Detour&lt;/span&gt;
+                  &lt;br/&gt;
+                &lt;a class="plannedWorkDetailLink" onclick=ShowHide(138520);&gt;&lt;b&gt;B57&lt;/b&gt; - &lt;b&gt;No service on Flushing Av between Franklin Av and Nostrand Av&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 138520 class="plannedWorkDetail" &gt;&lt;/b&gt;7 AM to 7 PM, Sunday, Nov 6&lt;br&gt;&lt;br&gt;Due to the &lt;a href=http://bit.ly/TCSRun target=_blank&gt;&lt;font color=#0000FF&gt;&lt;b&gt;&lt;u&gt;TCS New York City Marathon&lt;/u&gt;&lt;/b&gt;&lt;/font&gt;&lt;/a&gt;, buses operate in two sections:&lt;br&gt;1. Between Flushing Av at Franklin Av and Otsego St at Beard St&lt;br&gt;2. Between Nostrand Av and 61 St on Flushing Av&lt;br&gt;&lt;br&gt;&lt;b&gt;&lt;i&gt;&lt;a style="cursor:pointer; text-decoration:underline;" onclick=ShowHide(1385200);&gt;Show Reroute Details&lt;/a&gt;&lt;/i&gt;&lt;/b&gt;&lt;br&gt;&lt;div id="1385200"; style="display:none;"&gt;&lt;b&gt;Section 1&lt;br&gt;&lt;/b&gt;Via Flushing Av&lt;br&gt;Left on Nostrand Av&lt;br&gt;Left on Park Av&lt;br&gt;Left on Marcy Av&lt;br&gt;Right on Flushing Av&lt;br&gt;Regular route back to 61 St at Flushing Av&lt;br&gt;&lt;br&gt;&lt;b&gt;Section 2&lt;br&gt;&lt;/b&gt;Via Flushing Av&lt;br&gt;Left on Classon Av&lt;br&gt;Right on Wallabout St&lt;br&gt;Right on Franklin Av&lt;br&gt;Right on Flushing Av&lt;br&gt;Regular route back to Otsego St at Beard St&lt;/div&gt;&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
+                  &lt;span class="TitlePlannedWork" &gt;Planned Detour&lt;/span&gt;
+                  &lt;br/&gt;
+                &lt;a class="plannedWorkDetailLink" onclick=ShowHide(138326);&gt;&lt;b&gt;B54 &lt;/b&gt;-&lt;b&gt; No service on Myrtle Av between Nostrand Av and Skillman St &lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 138326 class="plannedWorkDetail" &gt;&lt;/b&gt;7 AM to 7 PM, Sunday, Nov 6&lt;br&gt;&lt;br&gt;Due to the &lt;a href=http://bit.ly/TCSRun target=_blank&gt;&lt;font color=#0000FF&gt;&lt;b&gt;&lt;u&gt;TCS New York City Marathon&lt;/u&gt;&lt;/b&gt;&lt;/font&gt;&lt;/a&gt;, buses operate in two sections:&lt;br&gt;1. Between Jay St and Skillman St on Myrtle Av&lt;br&gt;2. Between Palmetto St at Wyckoff Av and Myrtle Av at Nostrand Av&lt;br&gt;&lt;br&gt;&lt;b&gt;&lt;i&gt;&lt;a style="cursor:pointer; text-decoration:underline;" onclick=ShowHide(1383260);&gt;Show Reroute Details&lt;/a&gt;&lt;/i&gt;&lt;/b&gt;&lt;br&gt;&lt;div id="1383260"; style="display:none;"&gt;&lt;b&gt;Section 1&lt;br&gt;&lt;/b&gt;Via Fulton St&lt;br&gt;Left on Ashland Pl&lt;br&gt;Right on Myrtle Av&lt;br&gt;Left on Skillman St&lt;br&gt;Left on Park Av&lt;br&gt;Left on Franklin Av&lt;br&gt;Right on Myrtle Av&lt;br&gt;Regular route to Jay St&lt;br&gt;&lt;br&gt;&lt;b&gt;Section 2&lt;br&gt;&lt;/b&gt;Regular route to Myrtle Av&lt;br&gt;Left on Nostrand Av&lt;br&gt;Left on Willoughby St&lt;br&gt;Left on Marcy Av&lt;br&gt;Right on Myrtle Av&lt;br&gt;Regular route to Ridgewood&lt;/div&gt;&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
+                  &lt;span class="TitlePlannedWork" &gt;Planned Detour&lt;/span&gt;
+                  &lt;br/&gt;
+                &lt;a class="plannedWorkDetailLink" onclick=ShowHide(138322);&gt;&lt;b&gt;B52 &lt;/b&gt;- &lt;b&gt;No service on Fulton St between Flatbush Av and Greene Av&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 138322 class="plannedWorkDetail" &gt;&lt;/b&gt;7 AM to 7 PM, Sunday, Nov 6&lt;br&gt;&lt;br&gt;Due to the &lt;a href=http://bit.ly/TCSRun target=_blank&gt;&lt;font color=#0000FF&gt;&lt;b&gt;&lt;u&gt;TCS New York City Marathon&lt;/u&gt;&lt;/b&gt;&lt;/font&gt;&lt;/a&gt;, buses operates in two sections:&lt;br&gt;1. Between Ridgewood and Greene Av at Fulton St&lt;br&gt;2. Between Cadman Plaza and Flatbush Av at Ashland Pl&lt;br&gt;&lt;br&gt;&lt;b&gt;&lt;i&gt;&lt;a style="cursor:pointer; text-decoration:underline;" onclick=ShowHide(1383220);&gt;Show Reroute Details&lt;/a&gt;&lt;/i&gt;&lt;/b&gt;&lt;br&gt;&lt;div id="1383220"; style="display:none;"&gt;&lt;b&gt;Eastbound&lt;/b&gt; (leaving Cadman Plaza)&lt;br&gt;Via Tillary St&lt;br&gt;Right on Flatbush Av&lt;br&gt;Left on Myrtle Av&lt;br&gt;Right on Ashland Pl&lt;br&gt;Right on Fulton St&lt;br&gt;Then regular route back to Cadman Plaza&lt;br&gt;&lt;br&gt;&lt;b&gt;Westbound&lt;/b&gt; (leaving Ridgewood)&lt;br&gt;Regular route to Green Av at Fulton St (last stop)&lt;br&gt;Right on Fulton St&lt;br&gt;Left on South Portland Av&lt;br&gt;Left on Hanson Pl&lt;br&gt;Straight into Greene Av&lt;br&gt;Regular route to Ridgewood&lt;/div&gt;&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
+                  &lt;span class="TitlePlannedWork" &gt;Planned Detour&lt;/span&gt;
+                  &lt;br/&gt;
+                &lt;a class="plannedWorkDetailLink" onclick=ShowHide(138319);&gt;&lt;b&gt;B48 buses rerouted in Clinton Hill and Williamsburg&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 138319 class="plannedWorkDetail" &gt;&lt;/b&gt;7 AM to 7 PM, Sunday, Nov 6&lt;br&gt;&lt;br&gt;Due to the &lt;a href=http://bit.ly/TCSRun target=_blank&gt;&lt;font color=#0000FF&gt;&lt;b&gt;&lt;u&gt;TCS New York City Marathon&lt;/u&gt;&lt;/b&gt;&lt;/font&gt;&lt;/a&gt;, buses run via &lt;b&gt;McGuinness Blvd &lt;/b&gt;making corresponding stops.&lt;br&gt;&lt;br&gt;&lt;b&gt;&lt;i&gt;&lt;a style="cursor:pointer; text-decoration:underline;" onclick=ShowHide(1383190);&gt;Show Reroute Details&lt;/a&gt;&lt;/i&gt;&lt;/b&gt;&lt;br&gt;&lt;div id="1383190"; style="display:none;"&gt;&lt;b&gt;Northbound&lt;br&gt;&lt;/b&gt;Regular route to Greene Av&lt;br&gt;Right on Greene Av&lt;br&gt;Left on Marcy Av&lt;br&gt;Right on Lorimer St&lt;br&gt;Right on Meeker Av&lt;br&gt;Left on Humboldt St into McGuinness Blvd&lt;br&gt;Right on Nassau Av then regular route&lt;br&gt;&lt;br&gt;&lt;b&gt;Southbound&lt;br&gt;&lt;/b&gt;Via Nassau Av&lt;br&gt;Left on McGuinness Blvd&lt;br&gt;Right on Driggs Av&lt;br&gt;Left on Lorimer St&lt;br&gt;Left on Lee Av to Nostrand Av&lt;br&gt;Right on Putnam Av&lt;br&gt;Left on Franklin Av then regular route&lt;/div&gt;&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
+                  &lt;span class="TitlePlannedWork" &gt;Planned Detour&lt;/span&gt;
+                  &lt;br/&gt;
+                &lt;a class="plannedWorkDetailLink" onclick=ShowHide(138617);&gt;&lt;b&gt;B45 &lt;/b&gt;-&lt;b&gt; No service between Atlantic Av at Vanderbilt Av and Livingston St at Nevins St&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 138617 class="plannedWorkDetail" &gt;&lt;/b&gt;7 AM to 7 PM, Sunday, Nov 6&lt;br&gt;&lt;br&gt;Due to the &lt;a href=http://bit.ly/TCSRun target=_blank&gt;&lt;font color=#0000FF&gt;&lt;b&gt;&lt;u&gt;TCS New York City Marathon&lt;/u&gt;&lt;/b&gt;&lt;/font&gt;&lt;/a&gt;, buses operate in two sections:&lt;br&gt;1. Between Court St at Livingston St and Livingston St at Nevins St&lt;br&gt;2. Between St Johns Pl at Ralph Av and Atlantic Av at Vanderbilt Av&lt;br&gt;&lt;br&gt;&lt;b&gt;&lt;i&gt;&lt;a style="cursor:pointer; text-decoration:underline;" onclick=ShowHide(1386170);&gt;Show Reroute Details&lt;/a&gt;&lt;/i&gt;&lt;/b&gt;&lt;br&gt;&lt;div id="1386170"; style="display:none;"&gt;&lt;b&gt;Section 1&lt;br&gt;&lt;/b&gt;&lt;i&gt;(Buses leaving Court St)&lt;br&gt;&lt;/i&gt;Via Livingston St&lt;br&gt;Right on Nevins St&lt;br&gt;Left on Schermerhorn St&lt;br&gt;Left on Flatbush Av&lt;br&gt;Left on Livingston St then regular route&lt;br&gt;&lt;br&gt;&lt;b&gt;Section 2&lt;br&gt;&lt;/b&gt;&lt;i&gt;(Buses leaving Ralph Av)&lt;br&gt;&lt;/i&gt;Via Atlantic Av&lt;br&gt;Left on Vanderbilt Av&lt;br&gt;Right on Bergen St and take temporary stand at 5 Av&lt;br&gt;Right on 5 Av&lt;br&gt;Right on Dean St&lt;br&gt;Left on Vanderbilt Av&lt;br&gt;Right on Atlantic Av then regular route&lt;/div&gt;&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
+                  &lt;span class="TitlePlannedWork" &gt;Planned Detour&lt;/span&gt;
+                  &lt;br/&gt;
+                &lt;a class="plannedWorkDetailLink" onclick=ShowHide(138316);&gt;&lt;b&gt;B44/B44 &lt;/b&gt;SBS - &lt;b&gt;Northbound buses rerouted from Bedford Av at Gates Av, Lynch St and Lee Av&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 138316 class="plannedWorkDetail" &gt;&lt;/b&gt;7 AM to 7 PM, Sunday, Nov 6&lt;br&gt;&lt;br&gt;Due to the &lt;a href=http://bit.ly/TCSRun target=_blank&gt;&lt;font color=#0000FF&gt;&lt;b&gt;&lt;u&gt;TCS New York City Marathon&lt;/u&gt;&lt;/b&gt;&lt;/font&gt;&lt;/a&gt;, buses run via &lt;b&gt;Marcy Av &lt;/b&gt;and&lt;b&gt; Lorimer St&lt;/b&gt; making corresponding stops.&lt;br&gt;&lt;br&gt;&lt;b&gt;&lt;i&gt;&lt;a style="cursor:pointer; text-decoration:underline;" onclick=ShowHide(1383160);&gt;Show Reroute Details&lt;/a&gt;&lt;/i&gt;&lt;/b&gt;&lt;br&gt;&lt;div id="1383160"; style="display:none;"&gt;&lt;b&gt;Emmons Av to Washington Plaza&lt;br&gt;&lt;/b&gt;Via Bedford Av&lt;br&gt;Right on Gates Av&lt;br&gt;Left on Marcy Av&lt;br&gt;Continue into Union Av&lt;br&gt;Left on Harrison Av&lt;br&gt;Left onto Division Av&lt;br&gt;Right on Roebling St&lt;br&gt;Left on Broadway then regular route&lt;br&gt;&lt;br&gt;&lt;b&gt;Avenue U to Lee Av/Flushing Av&lt;br&gt;&lt;/b&gt;Via Bedford Av&lt;br&gt;Right on Gates Av&lt;br&gt;Left on Marcy Av&lt;br&gt;Left on Lorimer St&lt;br&gt;Left on Lee Av and terminate at Flushing Av&lt;/div&gt;&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
+                  &lt;span class="TitlePlannedWork" &gt;Planned Detour&lt;/span&gt;
+                  &lt;br/&gt;
+                &lt;a class="plannedWorkDetailLink" onclick=ShowHide(138315);&gt;&lt;b&gt;B43 &lt;/b&gt;- &lt;b&gt;No service on Manhattan Av between Driggs Av and Box St&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 138315 class="plannedWorkDetail" &gt;&lt;/b&gt;7 AM to 7 PM, Sunday, Nov 6&lt;br&gt;&lt;br&gt;Due to the &lt;a href=http://bit.ly/TCSRun target=_blank&gt;&lt;font color=#0000FF&gt;&lt;b&gt;&lt;u&gt;TCS New York City Marathon&lt;/u&gt;&lt;/b&gt;&lt;/font&gt;&lt;/a&gt;, buses operate between Lincoln Rd at Flatbush Av and Manhattan Av at Driggs Av in both directions.&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
+                  &lt;span class="TitlePlannedWork" &gt;Planned Detour&lt;/span&gt;
+                  &lt;br/&gt;
+                &lt;a class="plannedWorkDetailLink" onclick=ShowHide(137981);&gt;&lt;b&gt;B4&lt;/b&gt; - &lt;b&gt;No service between Bay Ridge Pkwy at 11 Av and Narrows Av at 77 St&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 137981 class="plannedWorkDetail" &gt;&lt;/b&gt;7 AM to 7 PM, Sunday, Nov 6&lt;br&gt;&lt;br&gt;Due to the &lt;a href=http://bit.ly/TCSRun target=_blank&gt;&lt;font color=#0000FF&gt;&lt;b&gt;&lt;u&gt;TCS New York City Marathon&lt;/u&gt;&lt;/b&gt;&lt;/font&gt;&lt;/a&gt;, buses operate between Knapp St at Voorhies Av and Bay Ridge Pkwy at 11 Av in both directions.&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
+                  &lt;span class="TitlePlannedWork" &gt;Planned Detour&lt;/span&gt;
+                  &lt;br/&gt;
+                &lt;a class="plannedWorkDetailLink" onclick=ShowHide(138220);&gt;&lt;b&gt;B38 buses rerouted from DeKalb Av and Lafayette Av between Nostrand Av and Franklin Av&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 138220 class="plannedWorkDetail" &gt;&lt;/b&gt;7 AM to 7 PM, Sunday, Nov 6&lt;br&gt;&lt;br&gt;Due to the &lt;a href=http://bit.ly/TCSRun target=_blank&gt;&lt;font color=#0000FF&gt;&lt;b&gt;&lt;u&gt;TCS New York City Marathon&lt;/u&gt;&lt;/b&gt;&lt;/font&gt;&lt;/a&gt;, buses operate in two sections:&lt;br&gt;1. Between Ridgewood and DeKalb Av at Nostrand Av&lt;br&gt;2. Between Cadman Plaza and Franklin Av at DeKalb Av&lt;br&gt;&lt;br&gt;&lt;b&gt;&lt;i&gt;&lt;a style="cursor:pointer; text-decoration:underline;" onclick=ShowHide(1382200);&gt;Show Reroute Details&lt;/a&gt;&lt;/i&gt;&lt;/b&gt;&lt;br&gt;&lt;div id="1382200"; style="display:none;"&gt;&lt;b&gt;Section 1&lt;br&gt;&lt;/b&gt;Via Fulton St&lt;br&gt;Left on Ashland Pl&lt;br&gt;Right on Myrtle Av&lt;br&gt;Right on Franklin Av&lt;br&gt;Right on DeKalb Av&lt;br&gt;Regular route to Cadman Plaza&lt;br&gt;&lt;br&gt;&lt;b&gt;Section 2&lt;br&gt;&lt;/b&gt;Via DeKalb Av&lt;br&gt;Left on Nostrand Av&lt;br&gt;Left on Lafayette Av&lt;br&gt;Regular route to Ridgewood&lt;/div&gt;&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
+                  &lt;span class="TitlePlannedWork" &gt;Planned Detour&lt;/span&gt;
+                  &lt;br/&gt;
+                &lt;a class="plannedWorkDetailLink" onclick=ShowHide(138213);&gt;&lt;b&gt;B37 &lt;/b&gt;-&lt;b&gt; No service on 4 Av between Shore Rd/Marine Av, 3 St/ Degraw St and Atlantic Av/Bergen St&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 138213 class="plannedWorkDetail" &gt;&lt;/b&gt;7 AM to 7 PM, Sunday, Nov 6&lt;br&gt;&lt;br&gt;Due to the &lt;a href=http://bit.ly/TCSRun target=_blank&gt;&lt;font color=#0000FF&gt;&lt;b&gt;&lt;u&gt;TCS New York City Marathon&lt;/u&gt;&lt;/b&gt;&lt;/font&gt;&lt;/a&gt;, buses operate on 3 Av between Shore Rd and Bergen St in both directions.&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
+                  &lt;span class="TitlePlannedWork" &gt;Planned Detour&lt;/span&gt;
+                  &lt;br/&gt;
+                &lt;a class="plannedWorkDetailLink" onclick=ShowHide(132028);&gt;&lt;b&gt;B35/B35&lt;/b&gt; LTD&lt;b&gt;, B63 and B70 buses may experience delays due to construction on 5 Av at 39 St&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 132028 class="plannedWorkDetail" &gt;&lt;/b&gt;Until further notice&lt;br&gt;&lt;br&gt; &lt;/font&gt;Please allow additional travel time.&lt;br&gt;&lt;b&gt;          &lt;/b&gt;&lt;a href=http://bustime.mta.info/#b9 target=_blank&gt;&lt;img height=30px src=http://web.mta.info/nyct/images/Bus_Time_logo.png&gt;&lt;/a&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
+                  &lt;span class="TitlePlannedWork" &gt;Planned Detour&lt;/span&gt;
+                  &lt;br/&gt;
+                &lt;a class="plannedWorkDetailLink" onclick=ShowHide(138210);&gt;&lt;b&gt;B35/B35&lt;/b&gt; LTD - &lt;b&gt;No&lt;/b&gt; &lt;b&gt;service on 39 St between 1 Av and 5 Av &lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 138210 class="plannedWorkDetail" &gt;&lt;/b&gt;7 AM to 7 PM, Sunday, Nov 6&lt;br&gt;&lt;br&gt;Due to the &lt;a href=http://bit.ly/TCSRun target=_blank&gt;&lt;font color=#0000FF&gt;&lt;b&gt;&lt;u&gt;TCS New York City Marathon&lt;/u&gt;&lt;/b&gt;&lt;/font&gt;&lt;/a&gt;, buses operate between 39 St at 5 Av and Mother Gaston Blvd at Hegeman Av in both directions.&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
+                  &lt;span class="TitlePlannedWork" &gt;Planned Detour&lt;/span&gt;
+                  &lt;br/&gt;
+                &lt;a class="plannedWorkDetailLink" onclick=ShowHide(138209);&gt;&lt;b&gt;B32&lt;/b&gt; - &lt;b&gt;No service between Long Island City and Manhattan Av&lt;br clear=left&gt;No service between Wythe Av at Broadway to Williamsburg Bridge Plaza&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 138209 class="plannedWorkDetail" &gt;&lt;/b&gt;7 AM to 7 PM, Sunday, Nov 6&lt;br&gt;&lt;br&gt;Due to the &lt;a href=http://bit.ly/TCSRun target=_blank&gt;&lt;font color=#0000FF&gt;&lt;b&gt;&lt;u&gt;TCS New York City Marathon&lt;/u&gt;&lt;/b&gt;&lt;/font&gt;&lt;/a&gt;, buses operate between Wythe Av at Broadway and Green St at Manhattan Av in both directions. &lt;br&gt;&lt;br&gt;&lt;/font&gt;&lt;b&gt;&lt;i&gt;&lt;a style="cursor:pointer; text-decoration:underline;" onclick=ShowHide(1382090);&gt;Show Reroute Details&lt;/a&gt;&lt;/i&gt;&lt;/b&gt;&lt;br&gt;&lt;div id="1382090"; style="display:none;"&gt;Via Green St&lt;br&gt;Right on Manhattan Av&lt;br&gt;Left on Freeman St&lt;br&gt;Left on Franklin St&lt;br&gt;Then regular route to Wythe Av and Broadway &lt;/div&gt;&lt;br&gt;&lt;/font&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
+                  &lt;span class="TitlePlannedWork" &gt;Planned Detour&lt;/span&gt;
+                  &lt;br/&gt;
+                &lt;a class="plannedWorkDetailLink" onclick=ShowHide(138111);&gt;&lt;b&gt;B26&lt;/b&gt; - &lt;b&gt;No service on Fulton St between South Portland Av and Ashland Pl&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 138111 class="plannedWorkDetail" &gt;&lt;/b&gt;7 AM to 7 PM, Sunday, Nov 6&lt;br&gt;&lt;br&gt;Due to the &lt;a href=http://bit.ly/TCSRun target=_blank&gt;&lt;font color=#0000FF&gt;&lt;b&gt;&lt;u&gt;TCS New York City Marathon&lt;/u&gt;&lt;/b&gt;&lt;/font&gt;&lt;/a&gt;, buses operate in two sections:&lt;br&gt;1. Between Wyckoff Av at Palmetto St and Fulton St at South Portland Av&lt;br&gt;2. Between Cadman Plaza and Fulton St at Ashland Pl&lt;br&gt;&lt;br&gt;&lt;b&gt;&lt;i&gt;&lt;a style="cursor:pointer; text-decoration:underline;" onclick=ShowHide(1381110);&gt;Show Reroute Details&lt;/a&gt;&lt;/i&gt;&lt;/b&gt;&lt;br&gt;&lt;div id="1381110"; style="display:none;"&gt;&lt;b&gt;Section 1&lt;br&gt;&lt;/b&gt;Via Fulton St&lt;br&gt;Left on Ashland Pl&lt;br&gt;Left on DeKalb Av&lt;br&gt;Right on Fulton Mall then regular route&lt;br&gt;&lt;br&gt;&lt;b&gt;Section 2&lt;br&gt;&lt;/b&gt;Via Fulton St&lt;br&gt;Left on South Portland Av&lt;br&gt;Left on Hanson Pl&lt;br&gt;Right on Fulton St then regular route&lt;/div&gt;&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
+                  &lt;span class="TitlePlannedWork" &gt;Planned Detour&lt;/span&gt;
+                  &lt;br/&gt;
+                &lt;a class="plannedWorkDetailLink" onclick=ShowHide(138101);&gt;&lt;b&gt;B25&lt;/b&gt; - &lt;b&gt;No service on Fulton St between Greene Av and DeKalb Av&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 138101 class="plannedWorkDetail" &gt;&lt;/b&gt;7 AM to 7 PM, Sunday, Nov 6&lt;br&gt;&lt;br&gt;Due to the &lt;a href=http://bit.ly/TCSRun target=_blank&gt;&lt;font color=#0000FF&gt;&lt;b&gt;&lt;u&gt;TCS New York City Marathon&lt;/u&gt;&lt;/b&gt;&lt;/font&gt;&lt;/a&gt;, buses operate in two sections:&lt;br&gt;1. Between Broadway Junction at Alabama Av and Fulton St at Greene Av&lt;br&gt;2. Between Front St and DeKalb Av along Fulton St&lt;br&gt;&lt;br&gt;&lt;b&gt;&lt;i&gt;&lt;a style="cursor:pointer; text-decoration:underline;" onclick=ShowHide(1381010);&gt;Show Reroute Details&lt;/a&gt;&lt;/i&gt;&lt;/b&gt;&lt;br&gt;&lt;div id="1381010"; style="display:none;"&gt;&lt;b&gt;Eastbound&lt;br&gt;&lt;/b&gt;Via Fulton Mall into Fulton St&lt;br&gt;Left on Ashland Pl&lt;br&gt;Left on DeKalb Av&lt;br&gt;Right into the Fulton Mall then regular route&lt;br&gt;&lt;br&gt;&lt;b&gt;Westbound&lt;br&gt;&lt;/b&gt;Via Fulton St&lt;br&gt;Right on Vanderbilt Av&lt;br&gt;Left on Greene Av (last stop Greene Av at Fulton St)&lt;/div&gt;&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
+                  &lt;span class="TitlePlannedWork" &gt;Planned Detour&lt;/span&gt;
+                  &lt;br/&gt;
+                &lt;a class="plannedWorkDetailLink" onclick=ShowHide(138092);&gt;&lt;b&gt;B24&lt;/b&gt; - &lt;b&gt;No service between Greenpoint Av at Jewel St and West St at Kent St&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 138092 class="plannedWorkDetail" &gt;&lt;/b&gt;7 AM to 7 PM, Sunday, Nov 6&lt;br&gt;&lt;br&gt;Due to the &lt;a href=http://bit.ly/TCSRun target=_blank&gt;&lt;font color=#0000FF&gt;&lt;b&gt;&lt;u&gt;TCS New York City Marathon&lt;/u&gt;&lt;/b&gt;&lt;/font&gt;&lt;/a&gt;, buses operate between Greenpoint Av at Jewel St and Williamsburg Bridge Plaza in both directions.&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
+                  &lt;span class="TitlePlannedWork" &gt;Planned Detour&lt;/span&gt;
+                  &lt;br/&gt;
+                &lt;a class="plannedWorkDetailLink" onclick=ShowHide(137986);&gt;&lt;b&gt;B16&lt;/b&gt; - &lt;b&gt;No service between Ft Hamilton Pkwy at 86 St and 3 Av at 86 St &lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 137986 class="plannedWorkDetail" &gt;&lt;/b&gt;7 AM to 7 PM, Sunday, Nov 6&lt;br&gt;&lt;br&gt;Due to the &lt;a href=http://bit.ly/TCSRun target=_blank&gt;&lt;font color=#0000FF&gt;&lt;b&gt;&lt;u&gt;TCS New York City Marathon&lt;/u&gt;&lt;/b&gt;&lt;/font&gt;&lt;/a&gt;, buses operate in two sections:&lt;br&gt;1. Between Ocean Av/Flatbush Av and Ft Hamilton Pkwy/86 St&lt;br&gt;2. Shuttle service between 86 St/3 Av and Shore Rd/4 Av&lt;br&gt;&lt;br&gt;&lt;b&gt;&lt;i&gt;&lt;a style="cursor:pointer; text-decoration:underline;" onclick=ShowHide(1379860);&gt;Show Reroute Details&lt;/a&gt;&lt;/i&gt;&lt;/b&gt;&lt;br&gt;&lt;div id="1379860"; style="display:none;"&gt;&lt;b&gt;Shuttle service between 86 St/3 Av and Shore Rd/4 Av&lt;br&gt;&lt;/b&gt;From temporary stand on 86 St at 3 Av&lt;br&gt;Right on 3 Av&lt;br&gt;Right on 87 St&lt;br&gt;Right on Ridge Blvd&lt;br&gt;Left on 86 St&lt;br&gt;Left on Shore Rd then regular route&lt;br&gt;&lt;br&gt;&lt;b&gt;Service from Ocean Av/Flatbush Av to Ft Hamilton Pkwy/86 St&lt;br&gt;&lt;/b&gt;Via Ft Hamilton Pkwy&lt;br&gt;Left on Bay Ridge Av&lt;br&gt;Right on 10 Av&lt;br&gt;Right on 86 St&lt;br&gt;Left on 5 Av&lt;br&gt;Left on 88 St&lt;br&gt;Left on Ft Hamilton Pkwy and take stand at 86 St&lt;/div&gt;&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
+                  &lt;span class="TitlePlannedWork" &gt;Planned Detour&lt;/span&gt;
+                  &lt;br/&gt;
+                &lt;a class="plannedWorkDetailLink" onclick=ShowHide(137985);&gt;&lt;b&gt;B11 &lt;/b&gt;-&lt;b&gt; No service between 49 St/50 St at 5 Av and 1 Av at 58 St&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 137985 class="plannedWorkDetail" &gt;&lt;/b&gt;7 AM to 7 PM, Sunday, Nov 6&lt;br&gt;&lt;br&gt;Due to the &lt;a href=http://bit.ly/TCSRun target=_blank&gt;&lt;font color=#0000FF&gt;&lt;b&gt;&lt;u&gt;TCS New York City Marathon&lt;/u&gt;&lt;/b&gt;&lt;/font&gt;&lt;/a&gt;, buses operate between 49 St/50 St&lt;b&gt; &lt;/b&gt;at 5 Av and&lt;b&gt; &lt;/b&gt;Flatbush Av at Nostrand Av in both directions.&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
+                  &lt;span class="TitlePlannedWork" &gt;Planned Detour&lt;/span&gt;
+                  &lt;br/&gt;
+                &lt;a class="plannedWorkDetailLink" onclick=ShowHide(137980);&gt;&lt;b&gt;B1 &lt;/b&gt;-&lt;b&gt; No service on 86 St between 4 Av and 5 Av&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 137980 class="plannedWorkDetail" &gt;&lt;/b&gt;7 AM to 7 PM, Sunday, Nov 6&lt;br&gt;&lt;br&gt;Due to the &lt;a href=http://bit.ly/TCSRun target=_blank&gt;&lt;font color=#0000FF&gt;&lt;b&gt;&lt;u&gt;TCS New York City Marathon&lt;/u&gt;&lt;/b&gt;&lt;/font&gt;&lt;/a&gt;, buses operate between 86 St at 5 Av and Oriental Blvd at Mackenzie St in both directions. &lt;br&gt;&lt;/font&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            </text>
+    <Date>11/06/2016</Date>
+    <Time> 8:48AM</Time>
+  </line>
+  <line>
+    <name>B100 - B103</name>
+    <status>SERVICE CHANGE</status>
+    <text>
+                  &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                  &lt;span class="DateStyle"&gt;
+                  &amp;nbsp;Posted:&amp;nbsp;11/06/2016&amp;nbsp; 8:22AM
+                  &lt;/span&gt;
+                  &lt;br/&gt;
+                  &lt;br/&gt;
+                &lt;P&gt;&lt;STRONG&gt;B103&lt;/STRONG&gt; buses are detoured both directions, due to New York City Marathon at Flatbush extension between Lafayette Av and Prospect Pkwy to Atlantic Av. &lt;/P&gt;
+&lt;P&gt;Detour is as follows:&lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;B103 Westbound&lt;/STRONG&gt;: Via Prospect Expwy exit 1 continue on Hamilton Av, right on Smith St, right on 9 St, left on 3 Av, left on Atlantic Av, right on Boerum Pl and regular route.&lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;B103 Eastbound:&lt;/STRONG&gt; Via Boerum Pl, right on Atlantic Av, left on Columbia st merge onto 278 Gowanus/BQE continue onto Prospect Expwy to 10 Av and regular route. &lt;/P&gt;
+&lt;P&gt;Corresponding stops will be made along 3 Av (Cadman Plaza Bound) and Atlantic Av (Canarsie Bound).&lt;/P&gt;
+&lt;P&gt;Allow additional travel time.&lt;/P&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            </text>
+    <Date>11/06/2016</Date>
+    <Time> 8:22AM</Time>
+  </line>
+  <line>
+    <name>BM1 - BM5</name>
+    <status>SERVICE CHANGE</status>
+    <text>
+                  &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                  &lt;span class="DateStyle"&gt;
+                  &amp;nbsp;Posted:&amp;nbsp;11/06/2016&amp;nbsp;12:00AM
+                  &lt;/span&gt;
+                  &lt;br/&gt;
+                  &lt;br/&gt;
+                There is no Sunday &lt;STRONG&gt;BM1, BM2, BM3, BM4&lt;/STRONG&gt; or &lt;STRONG&gt;BM5&lt;/STRONG&gt; bus service.
+              &lt;br/&gt;
+              &lt;br/&gt;
+            </text>
+    <Date>11/06/2016</Date>
+    <Time>12:00AM</Time>
+  </line>
+  <line>
+    <name>BX1 - BX55</name>
+    <status>PLANNED WORK</status>
+    <text>
+                  &lt;span class="TitlePlannedWork" &gt;Planned Detour&lt;/span&gt;
+                  &lt;br/&gt;
+                &lt;a class="plannedWorkDetailLink" onclick=ShowHide(138815);&gt;&lt;b&gt;Bx33 buses rerouted between 138 St at St Ann's Av and 135 St at Lenox Av&lt;br clear=left&gt;Rerouted from the Madison Av Bridge&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 138815 class="plannedWorkDetail" &gt;&lt;/b&gt;8:30 AM to 6 PM, Sunday, Nov 6&lt;br&gt;&lt;br&gt;Due to the &lt;a href=http://bit.ly/TCSRun target=_blank&gt;&lt;font color=#0000FF&gt;&lt;b&gt;&lt;u&gt;TCS New York City Marathon&lt;/u&gt;&lt;/b&gt;&lt;/font&gt;&lt;/a&gt;, buses run via the &lt;b&gt;145 St Bridge&lt;/b&gt; in both directions.&lt;br&gt;&lt;br&gt;&lt;b&gt;&lt;i&gt;&lt;a style="cursor:pointer; text-decoration:underline;" onclick=ShowHide(1388150);&gt;Show Reroute Details&lt;/a&gt;&lt;/i&gt;&lt;/b&gt;&lt;br&gt;&lt;div id="1388150"; style="display:none;"&gt;&lt;b&gt;Eastbound&lt;br&gt;&lt;/b&gt;Via 135 St&lt;br&gt;Left on Lenox Av&lt;br&gt;Right on 145 St&lt;br&gt;Cross the 145 St Bridge&lt;br&gt;Right on St Ann's Av&lt;br&gt;Left on 138 St then regular route&lt;br&gt;&lt;br&gt;&lt;b&gt;Westbound&lt;br&gt;&lt;/b&gt;Via 138 St&lt;br&gt;Right on St Ann's Av&lt;br&gt;Left on 149 St&lt;br&gt;Cross the 145 St Bridge&lt;br&gt;West on 145 St &lt;br&gt;Left on Lenox Av&lt;br&gt;Right on 135 St then regular route&lt;/div&gt;&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
+                  &lt;span class="TitlePlannedWork" &gt;Planned Detour&lt;/span&gt;
+                  &lt;br/&gt;
+                &lt;a class="plannedWorkDetailLink" onclick=ShowHide(139747);&gt;&lt;b&gt;Bx32 &lt;/b&gt;-&lt;b&gt; No service on Morris Av between 143 St and 138 St&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 139747 class="plannedWorkDetail" &gt;&lt;/b&gt;8:30 AM to 6 PM, Sunday, Nov 6&lt;br&gt;&lt;br&gt;Due to the &lt;a href=http://bit.ly/TCSRun target=_blank&gt;&lt;font color=#0000FF&gt;&lt;b&gt;&lt;u&gt;TCS New York City Marathon&lt;/u&gt;&lt;/b&gt;&lt;/font&gt;&lt;/a&gt;, buses operate between the Bronx VA Medical Center and 138 St at Lincoln Av in both directions.&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
+                  &lt;span class="TitlePlannedWork" &gt;Planned Detour&lt;/span&gt;
+                  &lt;br/&gt;
+                &lt;a class="plannedWorkDetailLink" onclick=ShowHide(139746);&gt;&lt;b&gt;Bx21 - No service between 3 Av at 144 St and 136 St at Lincoln Av&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 139746 class="plannedWorkDetail" &gt;&lt;/b&gt;8:30 AM to 6 PM, Sunday, Nov 6&lt;br&gt;&lt;br&gt;Due to the &lt;a href=http://bit.ly/TCSRun target=_blank&gt;&lt;font color=#0000FF&gt;&lt;b&gt;&lt;u&gt;TCS New York City Marathon&lt;/u&gt;&lt;/b&gt;&lt;/font&gt;&lt;/a&gt;, buses operate between Westchester Sq-E Tremont Av and 3 Av at 144 St in both directions.&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
+                  &lt;span class="TitlePlannedWork" &gt;Planned Detour&lt;/span&gt;
+                  &lt;br/&gt;
+                &lt;a class="plannedWorkDetailLink" onclick=ShowHide(139745);&gt;&lt;b&gt;Bx2&lt;/b&gt; - &lt;b&gt;No service between 3 Av at 144 St and 136 St at Lincoln Av&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 139745 class="plannedWorkDetail" &gt;&lt;/b&gt;8:30 AM to 6 PM, Sunday, Nov 6&lt;br&gt;&lt;br&gt;Due to the &lt;a href=http://bit.ly/TCSRun target=_blank&gt;&lt;font color=#0000FF&gt;&lt;b&gt;&lt;u&gt;TCS New York City Marathon&lt;/u&gt;&lt;/b&gt;&lt;/font&gt;&lt;/a&gt;, buses operate between Fort Independence St at Sedgwick Av and 3 Av at 144 St in both directions.&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
+                  &lt;span class="TitlePlannedWork" &gt;Planned Detour&lt;/span&gt;
+                  &lt;br/&gt;
+                &lt;a class="plannedWorkDetailLink" onclick=ShowHide(139742);&gt;&lt;b&gt;Bx15 buses rerouted from the Willis Av Bridge and from 3 Av at 149 St and Lenox Av at 125 St&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 139742 class="plannedWorkDetail" &gt;&lt;/b&gt;8:30 AM to 6 PM, Sunday, Nov &lt;br&gt;&lt;br&gt;Due to the &lt;a href=http://bit.ly/TCSRun target=_blank&gt;&lt;font color=#0000FF&gt;&lt;b&gt;&lt;u&gt;TCS New York City Marathon&lt;/u&gt;&lt;/b&gt;&lt;/font&gt;&lt;/a&gt;, buses run via the &lt;b&gt;145 St Bridge&lt;/b&gt; in both directions.&lt;br&gt;&lt;br&gt;&lt;b&gt;&lt;i&gt;&lt;a style="cursor:pointer; text-decoration:underline;" onclick=ShowHide(1397420);&gt;Show Reroute Details&lt;/a&gt;&lt;/i&gt;&lt;/b&gt;&lt;br&gt;&lt;div id="1397420"; style="display:none;"&gt;&lt;b&gt;Northbound&lt;br&gt;&lt;/b&gt;Via 125 St &lt;br&gt;Left on Lenox Av&lt;br&gt;Right on 145 St&lt;br&gt;Cross the 145 St Bridge into 149 St&lt;br&gt;Right on Courtlandt Av into 146 St&lt;br&gt;Left on Willis Av then regular route&lt;br&gt;&lt;br&gt;&lt;b&gt;Southbound&lt;br&gt;&lt;/b&gt;Via 3 Av&lt;br&gt;Right on 150 St&lt;br&gt;Left on Melrose Av&lt;br&gt;Right on 149 St&lt;br&gt;Cross the 145 St Bridge&lt;br&gt;Left on Lenox Av&lt;br&gt;Right on 125 St then regular route&lt;/div&gt;&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
+                  &lt;span class="TitlePlannedWork" &gt;Planned Detour&lt;/span&gt;
+                  &lt;br/&gt;
+                &lt;a class="plannedWorkDetailLink" onclick=ShowHide(138767);&gt;&lt;b&gt;Bx15 buses rerouted between 3 Av at 149 St and Lenox Av at 125 St&lt;br clear=left&gt;Rerouted from the Willis Av Bridge&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 138767 class="plannedWorkDetail" &gt;&lt;/b&gt;8:30 AM to 5 PM, Sunday, Nov 6&lt;br&gt;&lt;br&gt;Due to the &lt;a href=http://bit.ly/TCSRun target=_blank&gt;&lt;font color=#0000FF&gt;&lt;b&gt;&lt;u&gt;TCS New York City Marathon&lt;/u&gt;&lt;/b&gt;&lt;/font&gt;&lt;/a&gt;, buses run via the &lt;b&gt;145 St Bridge&lt;/b&gt; in both directions.&lt;br&gt;&lt;br&gt;&lt;b&gt;&lt;i&gt;&lt;a style="cursor:pointer; text-decoration:underline;" onclick=ShowHide(1387670);&gt;Show Reroute Details&lt;/a&gt;&lt;/i&gt;&lt;/b&gt;&lt;br&gt;&lt;div id="1387670"; style="display:none;"&gt;&lt;b&gt;Northbound&lt;br&gt;&lt;/b&gt;Via 125 St &lt;br&gt;Left on Lenox Av&lt;br&gt;Right on 145 St&lt;br&gt;Cross the 145 St Bridge to 3 Av&lt;br&gt;Left on 3 Av then regular route&lt;br&gt;&lt;br&gt;&lt;b&gt;Southbound&lt;br&gt;&lt;/b&gt;Via 3 Av&lt;br&gt;Right on 149 St&lt;br&gt;Cross the 145 St Bridge&lt;br&gt;Left on Lenox Av&lt;br&gt;Right on 125 St then regular route&lt;/div&gt;&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
+                  &lt;span class="TitlePlannedWork" &gt;Planned Detour&lt;/span&gt;
+                  &lt;br/&gt;
+                &lt;a class="plannedWorkDetailLink" onclick=ShowHide(139744);&gt;&lt;b&gt;Bx1&lt;/b&gt; - &lt;b&gt;No service between the Grand Concourse at 144 St and 136 St at Lincoln Av&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 139744 class="plannedWorkDetail" &gt;&lt;/b&gt;8:30 AM to 6 PM, Sunday, Nov 6&lt;br&gt;&lt;br&gt;Due to the &lt;a href=http://bit.ly/TCSRun target=_blank&gt;&lt;font color=#0000FF&gt;&lt;b&gt;&lt;u&gt;TCS New York City Marathon&lt;/u&gt;&lt;/b&gt;&lt;/font&gt;&lt;/a&gt;, buses operate between Riverdale Av at 231 St and 144 St at Grand Concourse in both directions.&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            </text>
+    <Date>11/06/2016</Date>
+    <Time> 8:48AM</Time>
+  </line>
+  <line>
+    <name>BXM1 - BXM18</name>
+    <status>PLANNED WORK</status>
+    <text>
+                  &lt;span class="TitlePlannedWork" &gt;Planned Detour&lt;/span&gt;
+                  &lt;br/&gt;
+                &lt;a class="plannedWorkDetailLink" onclick=ShowHide(139767);&gt;&lt;b&gt;BxM2 &lt;/b&gt;-&lt;b&gt; Northbound buses rerouted from 6 Av at 34 St to 42 St&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 139767 class="plannedWorkDetail" &gt;&lt;/b&gt;8 AM to 8 PM, Sunday, Nov 6&lt;br&gt;&lt;br&gt;Due to a local event, buses run via&lt;b&gt; 8 Av &lt;/b&gt;making corresponding stops.&lt;br&gt;&lt;br&gt;&lt;b&gt;&lt;i&gt;&lt;a style="cursor:pointer; text-decoration:underline;" onclick=ShowHide(1397670);&gt;Show Reroute Details&lt;/a&gt;&lt;/i&gt;&lt;/b&gt;&lt;br&gt;&lt;div id="1397670"; style="display:none;"&gt;Via 7 Av&lt;br&gt;Right on 34 St&lt;br&gt;Right on 8 Av&lt;br&gt;Right on 42 St&lt;br&gt;Left on 6 Av then regular route&lt;/div&gt;&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
+                  &lt;span class="TitlePlannedWork" &gt;Planned Detour&lt;/span&gt;
+                  &lt;br/&gt;
+                &lt;a class="plannedWorkDetailLink" onclick=ShowHide(133109);&gt;&lt;b&gt;BxM10 stop on Morris Park Av at Eastchester Rd temporarily closed &lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 133109 class="plannedWorkDetail" &gt;&lt;/b&gt;Until Oct 2018&lt;br&gt;&lt;br&gt;Due to construction, please use the nearby stop &lt;b&gt;on Eastchester Rd &lt;/b&gt;at Morris Park Av in both directions.&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            </text>
+    <Date>11/06/2016</Date>
+    <Time> 8:48AM</Time>
+  </line>
+  <line>
+    <name>M1 - M116</name>
+    <status>PLANNED WORK</status>
+    <text>
+                  &lt;span class="TitlePlannedWork" &gt;Planned Detour&lt;/span&gt;
+                  &lt;br/&gt;
+                &lt;a class="plannedWorkDetailLink" onclick=ShowHide(138922);&gt;&lt;b&gt;M96 &lt;/b&gt;-&lt;b&gt; No service between 96 St at 3 Av and 97 St at 1 Av&lt;br clear=left&gt;Buses rerouted from the 96 St Transverse&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 138922 class="plannedWorkDetail" &gt;&lt;/b&gt;8:30 AM to 6 PM, Sunday, Nov 6&lt;br&gt;&lt;br&gt;Due to the &lt;a href=http://bit.ly/TCSRun target=_blank&gt;&lt;font color=#0000FF&gt;&lt;b&gt;&lt;u&gt;TCS New York City Marathon&lt;/u&gt;&lt;/b&gt;&lt;/font&gt;&lt;/a&gt;, buses operate between 96 St at 3 Av and 96 St at West End Av in both directions.&lt;br&gt;&lt;br&gt;Buses use the &lt;b&gt;86 St Transverse &lt;/b&gt;in both directions.&lt;br&gt;&lt;br&gt;&lt;b&gt;&lt;i&gt;&lt;a style="cursor:pointer; text-decoration:underline;" onclick=ShowHide(1107800);&gt;Show Reroute Details&lt;/a&gt;&lt;/i&gt;&lt;/b&gt;&lt;br&gt;&lt;div id="1107800"; style="display:none;"&gt;&lt;b&gt;Eastbound&lt;br&gt;&lt;/b&gt;Regular route to Central Park West&lt;br&gt;Right on Central Park West&lt;br&gt;Left on 86 St&lt;br&gt;Through the Central Park Transverse&lt;br&gt;Left on Madison Av&lt;br&gt;Right on 96 St&lt;br&gt;Left on 3 Av&lt;br&gt;Right on 97 St&lt;br&gt;Right on 2 Av&lt;br&gt;Right on 96 St and take stand at 3 Av&lt;br&gt;&lt;br&gt;&lt;b&gt;Westbound&lt;br&gt;&lt;/b&gt;From stand on 96 St at 3 Av&lt;br&gt;Via 96 St&lt;br&gt;Left on Park Av&lt;br&gt;Right on 86 St&lt;br&gt;Left on 5 Av&lt;br&gt;Right on 85 St&lt;br&gt;Through the Central Park Transverse&lt;br&gt;Right on Central Park West&lt;br&gt;Left on 96 St then regular route&lt;/div&gt;&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
+                  &lt;span class="TitlePlannedWork" &gt;Planned Detour&lt;/span&gt;
+                  &lt;br/&gt;
+                &lt;a class="plannedWorkDetailLink" onclick=ShowHide(138921);&gt;&lt;b&gt;M86 &lt;/b&gt;SBS -&lt;b&gt; No service between 86 St at 2 Av and 92 St at York Av &lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 138921 class="plannedWorkDetail" &gt;&lt;/b&gt;8:30 AM to 4 PM, Sunday, Nov 6&lt;br&gt;&lt;br&gt;Due to the &lt;a href=http://bit.ly/TCSRun target=_blank&gt;&lt;font color=#0000FF&gt;&lt;b&gt;&lt;u&gt;TCS New York City Marathon&lt;/u&gt;&lt;/b&gt;&lt;/font&gt;&lt;/a&gt;, buses operate between 86 St at West End Av and 86 St at 2 Av in both directions.&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
+                  &lt;span class="TitlePlannedWork" &gt;Planned Detour&lt;/span&gt;
+                  &lt;br/&gt;
+                &lt;a class="plannedWorkDetailLink" onclick=ShowHide(138914);&gt;&lt;b&gt;M79&lt;/b&gt; - &lt;b&gt;No service on 79 St between 2 Av and East End Av&lt;br clear=left&gt;Buses rerouted from the 79 St Transverse&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 138914 class="plannedWorkDetail" &gt;&lt;/b&gt;7 AM to 6 PM, Sunday, Nov 6&lt;br&gt;&lt;br&gt;Due to the &lt;a href=http://bit.ly/TCSRun target=_blank&gt;&lt;font color=#0000FF&gt;&lt;b&gt;&lt;u&gt;TCS New York City Marathon&lt;/u&gt;&lt;/b&gt;&lt;/font&gt;&lt;/a&gt;, buses operate between 79 St at 2 Av and 79 St at  Riverside Dr in both directions.&lt;br&gt;&lt;br&gt;Buses use the &lt;b&gt;86 St Transverse &lt;/b&gt;in both directions.&lt;br&gt;&lt;br&gt;&lt;b&gt;&lt;i&gt;&lt;a style="cursor:pointer; text-decoration:underline;" onclick=ShowHide(1389140);&gt;Show Reroute Details&lt;/a&gt;&lt;/i&gt;&lt;/b&gt;&lt;br&gt;&lt;div id="1389140"; style="display:none;"&gt;&lt;b&gt;Eastbound&lt;br&gt;&lt;/b&gt;Regular route to Amsterdam Av&lt;br&gt;Left on Amsterdam Av&lt;br&gt;Right on 86 St&lt;br&gt;Through the 86 St Transverse&lt;br&gt;Right on 5 Av&lt;br&gt;Left on 79 St&lt;br&gt;Left on 3 Av&lt;br&gt;Right on 86 St&lt;br&gt;Right on 2 Av&lt;br&gt;Right on 79 St and take stand on 2 Av&lt;br&gt;&lt;br&gt;&lt;b&gt;Westbound&lt;br&gt;&lt;/b&gt;From temporary stand&lt;br&gt;West on 79 St&lt;br&gt;Right on Madison Av&lt;br&gt;Left on 85 St&lt;br&gt;Through the Central Park Transverse&lt;br&gt;Left on Columbus Av&lt;br&gt;Right on 79 St then regular route&lt;/div&gt;&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
+                  &lt;span class="TitlePlannedWork" &gt;Planned Detour&lt;/span&gt;
+                  &lt;br/&gt;
+                &lt;a class="plannedWorkDetailLink" onclick=ShowHide(138911);&gt;&lt;b&gt;M72&lt;/b&gt; - &lt;b&gt;No service on 72 St between 2 Av and York Av&lt;br clear=left&gt;buses rerouted from the 66 St Transverse&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 138911 class="plannedWorkDetail" &gt;&lt;/b&gt;8 AM to 6 PM, Sunday, Nov 6&lt;br&gt;&lt;br&gt;Due to the &lt;a href=http://bit.ly/TCSRun target=_blank&gt;&lt;font color=#0000FF&gt;&lt;b&gt;&lt;u&gt;TCS New York City Marathon&lt;/u&gt;&lt;/b&gt;&lt;/font&gt;&lt;/a&gt;, buses operate between 72 St at 2 Av and 66 St at Freedom Pl in both directions.&lt;br&gt;&lt;br&gt;Buses run via &lt;b&gt;57 St &lt;/b&gt;making corresponding stops in both directions.&lt;br&gt;&lt;br&gt;&lt;b&gt;&lt;i&gt;&lt;a style="cursor:pointer; text-decoration:underline;" onclick=ShowHide(1389110);&gt;Show Reroute Details&lt;/a&gt;&lt;/i&gt;&lt;/b&gt;&lt;br&gt;&lt;div id="1389110"; style="display:none;"&gt;&lt;b&gt;Eastbound&lt;br&gt;&lt;/b&gt;Via 72 St&lt;br&gt;Right on Columbus Av&lt;br&gt;Left on 57 St&lt;br&gt;Left on Madison Av&lt;br&gt;Right on 79 St&lt;br&gt;Right on 2 Av&lt;br&gt;Right on 72 St to 3 Av and take stand&lt;br&gt;&lt;br&gt;&lt;b&gt;Westbound&lt;br&gt;&lt;/b&gt;Via temporary stand&lt;br&gt;Continue to 5 Av&lt;br&gt;Left on 5 Av&lt;br&gt;Right on 57 St&lt;br&gt;Right on 10 Av into Broadway&lt;br&gt;Left on 72 St then regular route&lt;/div&gt;&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
+                  &lt;span class="TitlePlannedWork" &gt;Planned Detour&lt;/span&gt;
+                  &lt;br/&gt;
+                &lt;a class="plannedWorkDetailLink" onclick=ShowHide(138821);&gt;&lt;b&gt;M66&lt;/b&gt; - &lt;b&gt;No service on 67 St and 68 St between 2 Av and York Av&lt;br clear=left&gt;Buses rerouted from 65 St at Broadway and 68 St at 2 Av  &lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 138821 class="plannedWorkDetail" &gt;&lt;/b&gt;8 AM to 6 PM, Sunday, Nov 6&lt;br&gt;&lt;br&gt;Due to the &lt;a href=http://bit.ly/TCSRun target=_blank&gt;&lt;font color=#0000FF&gt;&lt;b&gt;&lt;u&gt;TCS New York City Marathon&lt;/u&gt;&lt;/b&gt;&lt;/font&gt;&lt;/a&gt;, buses run via &lt;b&gt;57 St &lt;/b&gt;making corresponding stops in both directions.&lt;br&gt;&lt;br&gt;&lt;b&gt;&lt;i&gt;&lt;a style="cursor:pointer; text-decoration:underline;" onclick=ShowHide(1388210);&gt;Show Reroute Details&lt;/a&gt;&lt;/i&gt;&lt;/b&gt;&lt;br&gt;&lt;div id="1388210"; style="display:none;"&gt;&lt;b&gt;Eastbound&lt;br&gt;&lt;/b&gt;Via 65 St&lt;br&gt;Right on Broadway &lt;br&gt;Left on 57 St&lt;br&gt;Left on Madison Av&lt;br&gt;Right on 68 St and terminate at 2 Av&lt;br&gt;&lt;br&gt;&lt;b&gt;Southbound&lt;br&gt;&lt;/b&gt;From temporary stand&lt;br&gt;South on 2 Av to 67 St&lt;br&gt;Right on 67 St&lt;br&gt;Left on 5 Av&lt;br&gt;Right on 57 St&lt;br&gt;Right on 8 Av to Broadway&lt;br&gt;Left on 66 St then regular route&lt;/div&gt;&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
+                  &lt;span class="TitlePlannedWork" &gt;Planned Detour&lt;/span&gt;
+                  &lt;br/&gt;
+                &lt;a class="plannedWorkDetailLink" onclick=ShowHide(138819);&gt;&lt;b&gt;M60&lt;/b&gt; SBS&lt;b&gt; buses rerouted from the Robert F. Kennedy Bridge to/from Manhattan&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 138819 class="plannedWorkDetail" &gt;&lt;/b&gt;8:30 AM to 5 PM, Sunday, Nov 6&lt;br&gt;&lt;br&gt;Due to the &lt;a href=http://bit.ly/TCSRun target=_blank&gt;&lt;font color=#0000FF&gt;&lt;b&gt;&lt;u&gt;TCS New York City Marathon&lt;/u&gt;&lt;/b&gt;&lt;/font&gt;&lt;/a&gt;, buses use the&lt;b&gt; RFK Bridge &lt;/b&gt;between Queens and the &lt;b&gt;&lt;i&gt;Bronx&lt;/b&gt;&lt;/i&gt;&lt;/font&gt; in both directions.&lt;br&gt;&lt;br&gt;&lt;b&gt;&lt;i&gt;&lt;a style="cursor:pointer; text-decoration:underline;" onclick=ShowHide(1388190);&gt;Show Reroute Details&lt;/a&gt;&lt;/i&gt;&lt;/b&gt;&lt;br&gt;&lt;div id="1388190"; style="display:none;"&gt;&lt;b&gt;Eastbound&lt;br&gt;&lt;/b&gt;East on 125 St&lt;br&gt;Left on Lenox Av&lt;br&gt;Right on 145 St&lt;br&gt;Cross the 145 St Bridge&lt;br&gt;Right on the Grand Concourse&lt;br&gt;Left onto the Major Deegan Expy&lt;br&gt;Cross the RFK Bridge into Queens then regular route&lt;br&gt;&lt;br&gt;&lt;b&gt;Westbound&lt;br&gt;&lt;/b&gt;Via the RFK Bridge to the Bronx&lt;br&gt;Take the Major Deegan Expy to the Grand Concourse&lt;br&gt;Left on 149 St&lt;br&gt;Cross the 145 St Bridge&lt;br&gt;Left on Lenox Av&lt;br&gt;Rigth on 125 St then regular route&lt;/div&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Note&lt;/b&gt;: M60 Shuttle buses operate between 125 St at Lexington Av and 31 St at Hoyt Av.&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
+                  &lt;span class="TitlePlannedWork" &gt;Planned Detour&lt;/span&gt;
+                  &lt;br/&gt;
+                &lt;a class="plannedWorkDetailLink" onclick=ShowHide(138818);&gt;&lt;b&gt;M57 &lt;/b&gt;-&lt;b&gt; No service between 57 St at 1 Av and 60 St at York Av&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 138818 class="plannedWorkDetail" &gt;&lt;/b&gt;8:30 AM to 4:15 PM, Sunday, Nov 6&lt;br&gt;&lt;br&gt;Due to the &lt;a href=http://bit.ly/TCSRun target=_blank&gt;&lt;font color=#0000FF&gt;&lt;b&gt;&lt;u&gt;TCS New York City Marathon&lt;/u&gt;&lt;/b&gt;&lt;/font&gt;&lt;/a&gt;, buses operate between 57 St at 1 Av and 72 St at Broadway.&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
+                  &lt;span class="TitlePlannedWork" &gt;Planned Detour&lt;/span&gt;
+                  &lt;br/&gt;
+                &lt;a class="plannedWorkDetailLink" onclick=ShowHide(139235);&gt;&lt;b&gt;M5 and M7 &lt;/b&gt;-&lt;b&gt; Northbound buses rerouted from 6 Av at 31 St to 42 St &lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 139235 class="plannedWorkDetail" &gt;&lt;/b&gt;8 AM to 8 PM, Sunday, Nov 6&lt;br&gt;&lt;br&gt;Due to a local event, buses run via&lt;b&gt; 8 Av &lt;/b&gt;making corresponding stops.&lt;br&gt;&lt;br&gt;&lt;b&gt;&lt;i&gt;&lt;a style="cursor:pointer; text-decoration:underline;" onclick=ShowHide(1392350);&gt;Show Reroute Details&lt;/a&gt;&lt;/i&gt;&lt;/b&gt;&lt;br&gt;&lt;div id="1392350"; style="display:none;"&gt;Via 6 Av&lt;br&gt;Left on 31 St&lt;br&gt;Right on 8 Av&lt;br&gt;Right on 42 St&lt;br&gt;Left on 6 Av then regular route&lt;/div&gt;&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
+                  &lt;span class="TitlePlannedWork" &gt;Planned Detour&lt;/span&gt;
+                  &lt;br/&gt;
+                &lt;a class="plannedWorkDetailLink" onclick=ShowHide(138676);&gt;&lt;b&gt;M5 and M7 buses rerouted from 6 Av/Broadway between 57 St and 65 St&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 138676 class="plannedWorkDetail" &gt;&lt;/b&gt;8:30 AM to 5 PM, Sunday, Nov 6&lt;br&gt;&lt;br&gt;Due to the &lt;a href=http://bit.ly/TCSRun target=_blank&gt;&lt;font color=#0000FF&gt;&lt;b&gt;&lt;u&gt;TCS New York City Marathon&lt;/u&gt;&lt;/b&gt;&lt;/font&gt;&lt;/a&gt;:&lt;br&gt;&lt;br&gt;&lt;b&gt;Northbound&lt;/b&gt;: Buses run via Amsterdam Av.&lt;br&gt;&lt;br&gt;&lt;b&gt;Southbound&lt;/b&gt;: Buses run via Columbus Av.&lt;br&gt;&lt;br&gt;Buses make corresponding stops along the detoured route.&lt;br&gt;&lt;br&gt;&lt;b&gt;&lt;i&gt;&lt;a style="cursor:pointer; text-decoration:underline;" onclick=ShowHide(1386760);&gt;Show Reroute Details&lt;/a&gt;&lt;/i&gt;&lt;/b&gt;&lt;br&gt;&lt;div id="1386760"; style="display:none;"&gt;&lt;b&gt;M5 Northbound&lt;br&gt;&lt;/b&gt;Regular route to 57 St&lt;br&gt;Right on Amsterdam Av into Broadway then regular route&lt;br&gt;&lt;br&gt;&lt;b&gt;M5 Southbound&lt;br&gt;&lt;/b&gt;Regular to 65 St into Columbus Av&lt;br&gt;Left on 57 St&lt;br&gt;Right on 5 Av then regular route&lt;br&gt;&lt;br&gt;&lt;b&gt;M7 Northbound&lt;br&gt;&lt;/b&gt;Via 6 Av&lt;br&gt;Left on 57 St&lt;br&gt;Right on Amsterdam Av into Broadway then regular route&lt;br&gt;&lt;br&gt;&lt;b&gt;M7 Southbound&lt;br&gt;&lt;/b&gt;Regular route to 65 St into Columbus Av&lt;br&gt;Left on 57 St&lt;br&gt;Right on 7 Av then regular route&lt;/div&gt;&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
+                  &lt;span class="TitlePlannedWork" &gt;Planned Detour&lt;/span&gt;
+                  &lt;br/&gt;
+                &lt;a class="plannedWorkDetailLink" onclick=ShowHide(138971);&gt;&lt;b&gt;M4 buses rerouted between 5 Av/Madison Av at 86 St and 110 St at Central Park West &lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 138971 class="plannedWorkDetail" &gt;&lt;/b&gt;8:30 AM to 5 PM, Sunday, Nov 6&lt;br&gt;&lt;br&gt;Due to the &lt;a href=http://bit.ly/TCSRun target=_blank&gt;&lt;font color=#0000FF&gt;&lt;b&gt;&lt;u&gt;TCS New York City Marathon&lt;/u&gt;&lt;/b&gt;&lt;/font&gt;&lt;/a&gt;, buses run via &lt;b&gt;Central Park West &lt;/b&gt;making corresponding stops in both directions.&lt;br&gt;&lt;br&gt;&lt;b&gt;&lt;i&gt;&lt;a style="cursor:pointer; text-decoration:underline;" onclick=ShowHide(1389710);&gt;Show Reroute Details&lt;/a&gt;&lt;/i&gt;&lt;/b&gt;&lt;br&gt;&lt;div id="1389710"; style="display:none;"&gt;&lt;b&gt;Northbound&lt;br&gt;&lt;/b&gt;Via Madison Av&lt;br&gt;Left on 85 St&lt;br&gt;Through the Central Park Transverse&lt;br&gt;Right on Central Park West&lt;br&gt;Left on 110 St then regular route&lt;br&gt;&lt;br&gt;&lt;b&gt;Southbound&lt;br&gt;&lt;/b&gt;Via 110 St&lt;br&gt;Right on Central Park West&lt;br&gt;Left into the 86 St Transverse&lt;br&gt;Right on 5 Av then regular route&lt;/div&gt;&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
+                  &lt;span class="TitlePlannedWork" &gt;Planned Detour&lt;/span&gt;
+                  &lt;br/&gt;
+                &lt;a class="plannedWorkDetailLink" onclick=ShowHide(138808);&gt;&lt;b&gt;M31&lt;/b&gt; - &lt;b&gt;No service on York Av between 86 St and 92 St&lt;br clear=left&gt;Buses rerouted from York Av between 57 St and 86 St &lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 138808 class="plannedWorkDetail" &gt;&lt;/b&gt;7 AM to 7 PM, Sunday, Nov 6&lt;br&gt;&lt;br&gt;Due to the &lt;a href=http://bit.ly/TCSRun target=_blank&gt;&lt;font color=#0000FF&gt;&lt;b&gt;&lt;u&gt;TCS New York City Marathon&lt;/u&gt;&lt;/b&gt;&lt;/font&gt;&lt;/a&gt;, buses operate between York Av at 86 St and 54 St at 11 Av in both directions.&lt;br&gt;&lt;br&gt;&lt;b&gt;Northbound&lt;/b&gt;: Buses run via 3 Av.&lt;br&gt;&lt;br&gt;&lt;b&gt;Southbound&lt;/b&gt;: Buses run via 2 Av.&lt;br&gt;&lt;br&gt;Buses make corresponding stops along the detoured route.&lt;br&gt;&lt;br&gt;&lt;b&gt;&lt;i&gt;&lt;a style="cursor:pointer; text-decoration:underline;" onclick=ShowHide(1388080);&gt;Show Reroute Details&lt;/a&gt;&lt;/i&gt;&lt;/b&gt;&lt;br&gt;&lt;div id="1388080"; style="display:none;"&gt;&lt;b&gt;Northbound&lt;br&gt;&lt;/b&gt;Via 57 St&lt;br&gt;Left on 3 Av&lt;br&gt;Right on 86 St&lt;br&gt;Right on 2 Av and take stand&lt;br&gt;&lt;br&gt;&lt;b&gt;Southbound&lt;br&gt;&lt;/b&gt;From temporary stand on 2 Av at 86 St &lt;br&gt;Continue on 2 Av&lt;br&gt;Right on 57 St then regular route&lt;/div&gt;&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
+                  &lt;span class="TitlePlannedWork" &gt;Planned Detour&lt;/span&gt;
+                  &lt;br/&gt;
+                &lt;a class="plannedWorkDetailLink" onclick=ShowHide(138970);&gt;&lt;b&gt;M3 buses rerouted between 5 Av/Madison Av at 86 St and 110 St at Central Park West&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 138970 class="plannedWorkDetail" &gt;&lt;/b&gt;8:30 AM to 5 PM, Sunday, Nov 6&lt;br&gt;&lt;br&gt;Due to the &lt;a href=http://bit.ly/TCSRun target=_blank&gt;&lt;font color=#0000FF&gt;&lt;b&gt;&lt;u&gt;TCS New York City Marathon&lt;/u&gt;&lt;/b&gt;&lt;/font&gt;&lt;/a&gt;, buses run via &lt;b&gt;Central Park West&lt;/b&gt; making corresponding stops in both directions.&lt;br&gt;&lt;br&gt;&lt;b&gt;&lt;i&gt;&lt;a style="cursor:pointer; text-decoration:underline;" onclick=ShowHide(1389700);&gt;Show Reroute Details&lt;/a&gt;&lt;/i&gt;&lt;/b&gt;&lt;br&gt;&lt;div id="1389700"; style="display:none;"&gt;&lt;b&gt;Northbound&lt;br&gt;&lt;/b&gt;Via Madison Av&lt;br&gt;Left on 85 St&lt;br&gt;Through the Central Park Transverse&lt;br&gt;Right on Central Park West&lt;br&gt;Left on 110 St&lt;br&gt;Right on Manhattan Av then regular route&lt;br&gt;&lt;br&gt;&lt;b&gt;Southbound&lt;br&gt;&lt;/b&gt;Via Manhattan Av&lt;br&gt;Left on 110 St&lt;br&gt;Right on Central Park West&lt;br&gt;Left into the 86 St Transverse&lt;br&gt;Right on 5 Av then regular route&lt;/div&gt;&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
+                  &lt;span class="TitlePlannedWork" &gt;Planned Detour&lt;/span&gt;
+                  &lt;br/&gt;
+                &lt;a class="plannedWorkDetailLink" onclick=ShowHide(138784);&gt;&lt;b&gt;M20 &lt;/b&gt;-&lt;b&gt; No service between 8 Av at 57 St and 63 St at Broadway&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 138784 class="plannedWorkDetail" &gt;&lt;/b&gt;8:30 AM to 5 PM, Sunday, Nov 6&lt;br&gt;&lt;br&gt;Due to the &lt;a href=http://bit.ly/TCSRun target=_blank&gt;&lt;font color=#0000FF&gt;&lt;b&gt;&lt;u&gt;TCS New York City Marathon&lt;/u&gt;&lt;/b&gt;&lt;/font&gt;&lt;/a&gt;, buses operate between 7 Av at 57 St and South Ferry in both directions.&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
+                  &lt;span class="TitlePlannedWork" &gt;Planned Detour&lt;/span&gt;
+                  &lt;br/&gt;
+                &lt;a class="plannedWorkDetailLink" onclick=ShowHide(138968);&gt;&lt;b&gt;M2/M2 &lt;/b&gt;LTD &lt;b&gt;buses rerouted between 5 Av/Madison Av at 85 St and 110 St at Adam Clayton Powell Jr Blvd&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 138968 class="plannedWorkDetail" &gt;&lt;/b&gt;8:30 AM to 5 PM, Sunday, Nov 6&lt;br&gt;&lt;br&gt;Due to the &lt;a href=http://bit.ly/TCSRun target=_blank&gt;&lt;font color=#0000FF&gt;&lt;b&gt;&lt;u&gt;TCS New York City Marathon&lt;/u&gt;&lt;/b&gt;&lt;/font&gt;&lt;/a&gt;, buses run via &lt;b&gt;Central Park West&lt;/b&gt; making corresponding stops in both directions.&lt;br&gt;&lt;br&gt;&lt;b&gt;&lt;i&gt;&lt;a style="cursor:pointer; text-decoration:underline;" onclick=ShowHide(1389680);&gt;Show Reroute Details&lt;/a&gt;&lt;/i&gt;&lt;/b&gt;&lt;br&gt;&lt;div id="1389680"; style="display:none;"&gt;&lt;b&gt;Northbound&lt;br&gt;&lt;/b&gt;Via Madison Av&lt;br&gt;Left on 85 St&lt;br&gt;Through the Central Park Transverse&lt;br&gt;Right on Central Park West&lt;br&gt;Right on 110 St&lt;br&gt;Left on Adam Clayton Powell Jr Blvd then regular route&lt;br&gt;&lt;br&gt;&lt;b&gt;Southbound&lt;br&gt;&lt;/b&gt;Via Adam Clayton Powell Jr Blvd&lt;br&gt;Right on 110 St&lt;br&gt;Left on Central Park West&lt;br&gt;Left into the 86 St Transverse&lt;br&gt;Right on 5 Av then regular route&lt;/div&gt;&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
+                  &lt;span class="TitlePlannedWork" &gt;Planned Detour&lt;/span&gt;
+                  &lt;br/&gt;
+                &lt;a class="plannedWorkDetailLink" onclick=ShowHide(138765);&gt;&lt;b&gt;M15/M15 &lt;/b&gt;SBS&lt;b&gt; - Northbound buses rerouted from 1 Av at 53 St to 128 St &lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 138765 class="plannedWorkDetail" &gt;&lt;/b&gt;8:30 AM to 4 PM, Sunday, Nov 6&lt;br&gt;&lt;br&gt;Due to the &lt;a href=http://bit.ly/TCSRun target=_blank&gt;&lt;font color=#0000FF&gt;&lt;b&gt;&lt;u&gt;TCS New York City Marathon&lt;/u&gt;&lt;/b&gt;&lt;/font&gt;&lt;/a&gt;, buses run via &lt;b&gt;3 Av &lt;/b&gt;making corresponding stops.&lt;br&gt;&lt;br&gt;&lt;b&gt;&lt;i&gt;&lt;a style="cursor:pointer; text-decoration:underline;" onclick=ShowHide(1094250);&gt;Show Reroute Details&lt;/a&gt;&lt;/i&gt;&lt;/b&gt;&lt;br&gt;&lt;div id="1094250"; style="display:none;"&gt;Via 1 Av&lt;br&gt;Left on 53 St&lt;br&gt;Right on 3 Av&lt;br&gt;Right on 128 St &lt;br&gt;Right on 2 Av to temporary stand at 126 St&lt;/div&gt;&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
+                  &lt;span class="TitlePlannedWork" &gt;Planned Detour&lt;/span&gt;
+                  &lt;br/&gt;
+                &lt;a class="plannedWorkDetailLink" onclick=ShowHide(138763);&gt;&lt;b&gt;M12&lt;/b&gt; - &lt;b&gt;No service on 58 St at Broadway&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 138763 class="plannedWorkDetail" &gt;&lt;/b&gt;8:30 AM to 5 PM, Sunday, Nov 6&lt;br&gt;&lt;br&gt;Due to the &lt;a href=http://bit.ly/TCSRun target=_blank&gt;&lt;font color=#0000FF&gt;&lt;b&gt;&lt;u&gt;TCS New York City Marathon&lt;/u&gt;&lt;/b&gt;&lt;/font&gt;&lt;/a&gt;, buses operate between 57 St at Broadway and 8 Av at Jane St in both directions.&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
+                  &lt;span class="TitlePlannedWork" &gt;Planned Detour&lt;/span&gt;
+                  &lt;br/&gt;
+                &lt;a class="plannedWorkDetailLink" onclick=ShowHide(138940);&gt;&lt;b&gt;M116&lt;/b&gt; - &lt;b&gt;No service between 116 St at 2 Av and 120 St at Pleasant Av&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 138940 class="plannedWorkDetail" &gt;&lt;/b&gt;8:30 AM to 5 PM, Sunday, Nov 6&lt;br&gt;&lt;br&gt;Due to the &lt;a href=http://bit.ly/TCSRun target=_blank&gt;&lt;font color=#0000FF&gt;&lt;b&gt;&lt;u&gt;TCS New York City Marathon&lt;/u&gt;&lt;/b&gt;&lt;/font&gt;&lt;/a&gt;, buses operate between&lt;b&gt; &lt;/b&gt;115 St at 2 Av and 106 St at Broadway in both directions.&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
+                  &lt;span class="TitlePlannedWork" &gt;Planned Detour&lt;/span&gt;
+                  &lt;br/&gt;
+                &lt;a class="plannedWorkDetailLink" onclick=ShowHide(138936);&gt;&lt;b&gt;M106 &lt;/b&gt;-&lt;b&gt; No service on 106 St at 2 Av to 106 St at the F. D. R. Drive&lt;br clear=left&gt;Buses rerouted from the 96 St Transverse&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 138936 class="plannedWorkDetail" &gt;&lt;/b&gt;8:30 AM to 6 PM, Sunday, Nov 6&lt;br&gt;&lt;br&gt;Due to the &lt;a href=http://bit.ly/TCSRun target=_blank&gt;&lt;font color=#0000FF&gt;&lt;b&gt;&lt;u&gt;TCS New York City Marathon&lt;/u&gt;&lt;/b&gt;&lt;/font&gt;&lt;/a&gt;, buses operate from 116 St at 2 Av and 96 St at West End Av and run via the 86 St Transverse in both directions.&lt;br&gt;&lt;br&gt;&lt;b&gt;&lt;i&gt;&lt;a style="cursor:pointer; text-decoration:underline;" onclick=ShowHide(1389360);&gt;Show Reroute Details&lt;/a&gt;&lt;/i&gt;&lt;/b&gt;&lt;br&gt;&lt;div id="1389360"; style="display:none;"&gt;&lt;b&gt;Eastbound&lt;br&gt;&lt;/b&gt;Regular route to Central Park West&lt;br&gt;Right on Central Park West&lt;br&gt;Left on 86 St&lt;br&gt;Through the Central Park Transverse&lt;br&gt;Left on Madison Av&lt;br&gt;Right on 106 St&lt;br&gt;Left on 3 Av&lt;br&gt;Right on 112 St&lt;br&gt;Right on 2 Av&lt;br&gt;Right on 106 St and take stand&lt;br&gt;&lt;br&gt;&lt;b&gt;Westbound&lt;br&gt;&lt;/b&gt;From temporary stand on 106 St at 2 Av&lt;br&gt;Via 106 St&lt;br&gt;Left on Lexington Av&lt;br&gt;Right on 86 St&lt;br&gt;Left on 5 Av&lt;br&gt;Right on 85 St&lt;br&gt;Through the Central Park Transverse&lt;br&gt;Right on Central Park West&lt;br&gt;Left on 96 St then regular route&lt;/div&gt;&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
+                  &lt;span class="TitlePlannedWork" &gt;Planned Detour&lt;/span&gt;
+                  &lt;br/&gt;
+                &lt;a class="plannedWorkDetailLink" onclick=ShowHide(139274);&gt;&lt;b&gt;M104 &lt;/b&gt;-&lt;b&gt; Southbound buses rerouted from 125 St at Broadway to La Salle St at Broadway&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 139274 class="plannedWorkDetail" &gt;&lt;/b&gt;Until further notice&lt;br&gt;&lt;br&gt;Due to construction, buses run via&lt;b&gt; Amsterdam Av&lt;/b&gt; and &lt;b&gt;La Salle St &lt;/b&gt;making corresponding stops.&lt;br&gt;&lt;br&gt;&lt;b&gt;&lt;i&gt;&lt;a style="cursor:pointer; text-decoration:underline;" onclick=ShowHide(1392740);&gt;Show Reroute Details&lt;/a&gt;&lt;/i&gt;&lt;/b&gt;&lt;br&gt;&lt;div id="1392740"; style="display:none;"&gt;Via 125 St&lt;br&gt;Left on Amsterdam Av&lt;br&gt;Right on La Salle St&lt;br&gt;Left on Broadway then regular route&lt;/div&gt;&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
+                  &lt;span class="TitlePlannedWork" &gt;Planned Detour&lt;/span&gt;
+                  &lt;br/&gt;
+                &lt;a class="plannedWorkDetailLink" onclick=ShowHide(138930);&gt;&lt;b&gt;M104 buses rerouted from Broadway between 57 St and 65 St&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 138930 class="plannedWorkDetail" &gt;&lt;/b&gt;8:30 AM to 5 PM, Sunday, Nov 6&lt;br&gt;&lt;br&gt;Due to the &lt;a href=http://bit.ly/TCSRun target=_blank&gt;&lt;font color=#0000FF&gt;&lt;b&gt;&lt;u&gt;TCS New York City Marathon&lt;/u&gt;&lt;/b&gt;&lt;/font&gt;&lt;/a&gt;:&lt;br&gt;&lt;br&gt;&lt;b&gt;Northbound&lt;/b&gt;: Buses run via Amsterdam Av.&lt;br&gt;&lt;br&gt;&lt;b&gt;Southbound&lt;/b&gt;: Buses run via Columbus Av.&lt;br&gt;&lt;br&gt;Buses make corresponding stops along the detoured route.&lt;br&gt;&lt;br&gt;&lt;b&gt;&lt;i&gt;&lt;a style="cursor:pointer; text-decoration:underline;" onclick=ShowHide(1389300);&gt;Show Reroute Details&lt;/a&gt;&lt;/i&gt;&lt;/b&gt;&lt;br&gt;&lt;div id="1389300"; style="display:none;"&gt;&lt;b&gt;Northbound&lt;br&gt;&lt;/b&gt;Via 8 Av&lt;br&gt;Left on 57 St&lt;br&gt;Right on Amsterdam Av into Broadway then regular route&lt;br&gt;&lt;br&gt;&lt;b&gt;Southbound&lt;br&gt;&lt;/b&gt;Regular route to 65 St&lt;br&gt;Continue south on Columbus Av&lt;br&gt;Left on 57 St&lt;br&gt;Right on 7 Av then regular route&lt;/div&gt;&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
+                  &lt;span class="TitlePlannedWork" &gt;Planned Detour&lt;/span&gt;
+                  &lt;br/&gt;
+                &lt;a class="plannedWorkDetailLink" onclick=ShowHide(138929);&gt;&lt;b&gt;M102 buses rerouted between 3 Av/Lexington Av at 86 St to 116 St at Lenox Av&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 138929 class="plannedWorkDetail" &gt;&lt;/b&gt;8:30 AM to 6 PM, Sunday, Nov 6&lt;br&gt;&lt;br&gt;Due to the &lt;a href=http://bit.ly/TCSRun target=_blank&gt;&lt;font color=#0000FF&gt;&lt;b&gt;&lt;u&gt;TCS New York City Marathon&lt;/u&gt;&lt;/b&gt;&lt;/font&gt;&lt;/a&gt;, buses run via &lt;b&gt;Central Park West&lt;/b&gt; making corresponding stops in both directions.&lt;br&gt;&lt;br&gt;&lt;b&gt;&lt;i&gt;&lt;a style="cursor:pointer; text-decoration:underline;" onclick=ShowHide(1389290);&gt;Show Reroute Details&lt;/a&gt;&lt;/i&gt;&lt;/b&gt;&lt;br&gt;&lt;div id="1389290"; style="display:none;"&gt;&lt;b&gt;Northbound&lt;br&gt;&lt;/b&gt;North on 3 Av&lt;br&gt;Left on 86 St&lt;br&gt;Left on 5 Av&lt;br&gt;Right on 85 St&lt;br&gt;Through the Central Park Transverse&lt;br&gt;Right on Central Park West into Frederick Douglass Blvd&lt;br&gt;Right on 116 St&lt;br&gt;Left on Lenox Av then regular route&lt;br&gt;&lt;br&gt;&lt;b&gt;Southbound&lt;br&gt;&lt;/b&gt;South on Lenox Av&lt;br&gt;Right on 116 St&lt;br&gt;Left on Frederick Douglass Blvd&lt;br&gt;South on Central Park West&lt;br&gt;Left on 86 St&lt;br&gt;Through the Central Park Transverse&lt;br&gt;Left on Madison Av&lt;br&gt;Right on 96 St&lt;br&gt;Right on Lexington Av then regular route&lt;/div&gt;&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
+                  &lt;span class="TitlePlannedWork" &gt;Planned Detour&lt;/span&gt;
+                  &lt;br/&gt;
+                &lt;a class="plannedWorkDetailLink" onclick=ShowHide(138925);&gt;&lt;b&gt;M101/M101 &lt;/b&gt;LTD&lt;b&gt; buses rerouted between 3 Av at 86 St and Frederick Douglass Blvd at 125 St&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 138925 class="plannedWorkDetail" &gt;&lt;/b&gt;8:30 AM to 6 PM, Sunday, Nov 6&lt;br&gt;&lt;br&gt;Due to the &lt;a href=http://bit.ly/TCSRun target=_blank&gt;&lt;font color=#0000FF&gt;&lt;b&gt;&lt;u&gt;TCS New York City Marathon&lt;/u&gt;&lt;/b&gt;&lt;/font&gt;&lt;/a&gt;, buses run via&lt;b&gt; Central Park West &lt;/b&gt;making corresponding stops&lt;br&gt;in both directions.&lt;br&gt;&lt;br&gt;&lt;b&gt;&lt;i&gt;&lt;a style="cursor:pointer; text-decoration:underline;" onclick=ShowHide(1389250);&gt;Show Reroute Details&lt;/a&gt;&lt;/i&gt;&lt;/b&gt;&lt;br&gt;&lt;div id="1389250"; style="display:none;"&gt;&lt;b&gt;Northbound&lt;br&gt;&lt;/b&gt;North on 3 Av&lt;br&gt;Left on 86 St&lt;br&gt;Left on 5 Av&lt;br&gt;Right on 85 St&lt;br&gt;Through the Central Park Transverse&lt;br&gt;Right on Central Park West&lt;br&gt;North on 8 Av (Frederick Douglass Blvd)&lt;br&gt;Left on 125 St then regular route&lt;br&gt;&lt;br&gt;&lt;b&gt;Southbound&lt;br&gt;&lt;/b&gt;Via 125 St&lt;br&gt;Right on 8 Av (Frederick Douglass Blvd)&lt;br&gt;South on Central Park West&lt;br&gt;Left on 86 St&lt;br&gt;Through the Central Park Transverse&lt;br&gt;Left on Madison Av&lt;br&gt;Right on 96 St&lt;br&gt;Right on Lexington Av then regular route&lt;/div&gt;&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
+                  &lt;span class="TitlePlannedWork" &gt;Planned Detour&lt;/span&gt;
+                  &lt;br/&gt;
+                &lt;a class="plannedWorkDetailLink" onclick=ShowHide(138924);&gt;&lt;b&gt;M100&lt;/b&gt; - &lt;b&gt;No service on 125 St between 1 Av and Lenox Av&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 138924 class="plannedWorkDetail" &gt;&lt;/b&gt;8:30 AM to 6 PM, Sunday, Nov 6&lt;br&gt;&lt;br&gt;Due to the &lt;a href=http://bit.ly/TCSRun target=_blank&gt;&lt;font color=#0000FF&gt;&lt;b&gt;&lt;u&gt;TCS New York City Marathon&lt;/u&gt;&lt;/b&gt;&lt;/font&gt;&lt;/a&gt;, buses operate between 126 St at Lenox Av and 220 St at Broadway in both directions.&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
+                  &lt;span class="TitlePlannedWork" &gt;Planned Detour&lt;/span&gt;
+                  &lt;br/&gt;
+                &lt;a class="plannedWorkDetailLink" onclick=ShowHide(138755);&gt;&lt;b&gt;M10 buses rerouted from Central Park West between 57 St and 86 St&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 138755 class="plannedWorkDetail" &gt;&lt;/b&gt;8:30 AM to 5 PM, Sunday, Nov 6&lt;br&gt;&lt;br&gt;Due to the &lt;a href=http://bit.ly/TCSRun target=_blank&gt;&lt;font color=#0000FF&gt;&lt;b&gt;&lt;u&gt;TCS New York City Marathon&lt;/u&gt;&lt;/b&gt;&lt;/font&gt;&lt;/a&gt;:&lt;br&gt;&lt;br&gt;&lt;b&gt;Northbound&lt;/b&gt;: Buses run via 10 Av.&lt;br&gt;&lt;br&gt;&lt;b&gt;Southbound&lt;/b&gt;: Buses run via Columbus Av.&lt;br&gt;&lt;br&gt;Buses make corresponding stops along the detoured route.&lt;br&gt;&lt;br&gt;&lt;b&gt;&lt;i&gt;&lt;a style="cursor:pointer; text-decoration:underline;" onclick=ShowHide(1387550);&gt;Show Reroute Details&lt;/a&gt;&lt;/i&gt;&lt;/b&gt;&lt;br&gt;&lt;div id="1387550"; style="display:none;"&gt;&lt;b&gt;Northbound&lt;br&gt;&lt;/b&gt;From temporary stand on Columbus Av at 57 St&lt;br&gt;Right on 10 Av into Amsterdam Av&lt;br&gt;Right on 86 St&lt;br&gt;Left on Central Park West then regular route&lt;br&gt;&lt;br&gt;&lt;b&gt;Southbound&lt;br&gt;&lt;/b&gt;Regular route via Central Park West&lt;br&gt;Right on 86 St&lt;br&gt;Left on Columbus Av&lt;br&gt;Right on 57 St and take stand&lt;/div&gt;&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
+                  &lt;span class="TitlePlannedWork" &gt;Planned Detour&lt;/span&gt;
+                  &lt;br/&gt;
+                &lt;a class="plannedWorkDetailLink" onclick=ShowHide(138966);&gt;&lt;b&gt;M1 buses rerouted from 5 Av/Madison Av at 85 St and Lenox Av at 139 St &lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 138966 class="plannedWorkDetail" &gt;&lt;/b&gt;8:30 AM to 5 PM, Sunday, Nov 6&lt;br&gt;&lt;br&gt;Due to the &lt;a href=http://bit.ly/TCSRun target=_blank&gt;&lt;font color=#0000FF&gt;&lt;b&gt;&lt;u&gt;TCS New York City Marathon&lt;/u&gt;&lt;/b&gt;&lt;/font&gt;&lt;/a&gt;, buses run via &lt;b&gt;Central Park West&lt;/b&gt; making corresponding stops in both directions.&lt;br&gt;&lt;br&gt;&lt;b&gt;&lt;i&gt;&lt;a style="cursor:pointer; text-decoration:underline;" onclick=ShowHide(1389660);&gt;Show Reroute Details&lt;/a&gt;&lt;/i&gt;&lt;/b&gt;&lt;br&gt;&lt;div id="1389660"; style="display:none;"&gt;&lt;b&gt;Northbound&lt;br&gt;&lt;/b&gt;Via Madison Av&lt;br&gt;Left on 85 St&lt;br&gt;Through the Central Park Transverse&lt;br&gt;Right on Central Park West&lt;br&gt;Right on 110 St&lt;br&gt;Left on Lenox Av then regular route&lt;br&gt;&lt;br&gt;&lt;b&gt;Southbound&lt;br&gt;&lt;/b&gt;Via Lenox Av&lt;br&gt;Right on 110 St&lt;br&gt;Left on Central Park West&lt;br&gt;Left into the 86 St Transverse&lt;br&gt;Right on 5 Av then regular route&lt;/div&gt;&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            </text>
+    <Date>11/06/2016</Date>
+    <Time> 8:48AM</Time>
+  </line>
+  <line>
+    <name>Q1 - Q113</name>
+    <status>SERVICE CHANGE</status>
+    <text>
+                  &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                  &lt;span class="DateStyle"&gt;
+                  &amp;nbsp;Posted:&amp;nbsp;11/06/2016&amp;nbsp; 8:29AM
+                  &lt;/span&gt;
+                  &lt;br/&gt;
+                  &lt;br/&gt;
+                &lt;P&gt;&lt;STRONG&gt;Q32&lt;/STRONG&gt; and &lt;STRONG&gt;Q60&lt;/STRONG&gt; buses are detoured due to the NYC Marathon at the intersection of Northern Blvd and Skillman Av. &lt;/P&gt;
+&lt;P&gt;Detour is as follows: &lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;Q32 Westbound:&lt;/STRONG&gt; Via Queens Blvd, right on 35 St, left on Northern Blvd, right on 41 Av into Queens Plz N into 21 St entrance of the upper level roadway of the Queensboro Br to 63 St, left on 2 Av, right on 60 St, left on Lexington Av, right on 57 St, left on 5 Av and regular route. &lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;Q60 Westbound: &lt;/STRONG&gt;Via Queens Blvd, right on 35 St, left on Northern Blvd, right on 41 Av into Queens Plz N into 21 St entrance of the upper level of the Queensboro Br to 63 St, left on 63 St, left on 2 Av to 60 St and take stand near side of 60 St. &lt;/P&gt;
+&lt;P&gt;Allow additional travel time. &lt;/P&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
+                  &lt;span class="TitlePlannedWork" &gt;Planned Detour&lt;/span&gt;
+                  &lt;br/&gt;
+                &lt;a class="plannedWorkDetailLink" onclick=ShowHide(68484);&gt;&lt;b&gt;Q69 - Southbound stop on 28 St between Queens Plaza South and 42 Rd temporarily relocated&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 68484 class="plannedWorkDetail" &gt;&lt;/b&gt;Until further notice&lt;br&gt;&lt;br&gt;Due to construction, please use the nearby temporary stop &lt;b&gt;on 42 Rd&lt;/b&gt; between Jackson Av and 28 St.&lt;br&gt;&lt;/font&gt;&lt;b&gt;                                 [TP]&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
+                  &lt;span class="TitlePlannedWork" &gt;Planned Detour&lt;/span&gt;
+                  &lt;br/&gt;
+                &lt;a class="plannedWorkDetailLink" onclick=ShowHide(139077);&gt;&lt;b&gt;Q69 buses rerouted from Queens Plaza South/44 Dr between 21 St and Jackson Av &lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 139077 class="plannedWorkDetail" &gt;&lt;/b&gt;7 AM to 7 PM, Sunday, Nov 6&lt;br&gt;&lt;br&gt;Due to the &lt;a href=http://bit.ly/TCSRun target=_blank&gt;&lt;font color=#0000FF&gt;&lt;b&gt;&lt;u&gt;TCS New York City Marathon&lt;/u&gt;&lt;/b&gt;&lt;/font&gt;&lt;/a&gt;, please use the nearby temporary stop &lt;b&gt;on Queens Plaza North&lt;/b&gt; at 27 St.&lt;br&gt;&lt;br&gt;&lt;b&gt;&lt;i&gt;&lt;a style="cursor:pointer; text-decoration:underline;" onclick=ShowHide(1390770);&gt;Show Reroute Details&lt;/a&gt;&lt;/i&gt;&lt;/b&gt;&lt;br&gt;&lt;div id="1390770"; style="display:none;"&gt;&lt;b&gt;Northbound&lt;br&gt;&lt;/b&gt;From Queens Plaza North at 27 St (first stop)&lt;br&gt;Right on 21 St then regular route&lt;br&gt;&lt;br&gt;&lt;b&gt;Southbound&lt;br&gt;&lt;/b&gt;Regular route to 21 St at 41 Av&lt;br&gt;Left on 41 Av&lt;br&gt;Right on 28 St&lt;br&gt;Right on Queens Plaza North to 27 St (last stop)&lt;/div&gt;&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
+                  &lt;span class="TitlePlannedWork" &gt;Planned Detour&lt;/span&gt;
+                  &lt;br/&gt;
+                &lt;a class="plannedWorkDetailLink" onclick=ShowHide(139076);&gt;&lt;b&gt;Q67 buses rerouted from 21 St between Jackson Av and Queens Plaza South and from 44 Dr between Jackson Av and 21 St &lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 139076 class="plannedWorkDetail" &gt;&lt;/b&gt;7 AM to 7 PM, Sunday, Nov 6&lt;br&gt;&lt;br&gt;Due to the &lt;a href=http://bit.ly/TCSRun target=_blank&gt;&lt;font color=#0000FF&gt;&lt;b&gt;&lt;u&gt;TCS New York City Marathon&lt;/u&gt;&lt;/b&gt;&lt;/font&gt;&lt;/a&gt;, buses run via&lt;b&gt; Jackson Av&lt;/b&gt; making corresponding stops in both directions.&lt;br&gt;&lt;br&gt;&lt;b&gt;&lt;i&gt;&lt;a style="cursor:pointer; text-decoration:underline;" onclick=ShowHide(1390760);&gt;Show Reroute Details&lt;/a&gt;&lt;/i&gt;&lt;/b&gt;&lt;br&gt;&lt;div id="1390760"; style="display:none;"&gt;&lt;b&gt;Eastbound&lt;br&gt;&lt;/b&gt;From Jackson Av at 42 Rd&lt;br&gt;Continue on Jackson Av&lt;br&gt;Left on 21 St then regular route&lt;br&gt;&lt;br&gt;&lt;b&gt;Westbound&lt;br&gt;&lt;/b&gt;Regular route to 21 St at Jackson Av&lt;br&gt;Right on Jackson Av&lt;br&gt;Left on 42 Rd and take stand&lt;/div&gt;&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
+                  &lt;span class="TitlePlannedWork" &gt;Planned Detour&lt;/span&gt;
+                  &lt;br/&gt;
+                &lt;a class="plannedWorkDetailLink" onclick=ShowHide(139074);&gt;&lt;b&gt;Q66 buses rerouted from Queens Plaza between 21 St and Jackson Av&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 139074 class="plannedWorkDetail" &gt;&lt;/b&gt;7 AM to 7 PM, Sunday, Nov 6&lt;br&gt;&lt;br&gt;Due to the &lt;a href=http://bit.ly/TCSRun target=_blank&gt;&lt;font color=#0000FF&gt;&lt;b&gt;&lt;u&gt;TCS New York City Marathon&lt;/u&gt;&lt;/b&gt;&lt;/font&gt;&lt;/a&gt;, please use the temporary stop &lt;b&gt;on Queens Plaza North&lt;/b&gt; at 27 St in both directions.&lt;br&gt;&lt;br&gt;&lt;b&gt;&lt;i&gt;&lt;a style="cursor:pointer; text-decoration:underline;" onclick=ShowHide(1390740);&gt;Show Reroute Details&lt;/a&gt;&lt;/i&gt;&lt;/b&gt;&lt;br&gt;&lt;div id="1390740"; style="display:none;"&gt;&lt;b&gt;Eastbound&lt;br&gt;&lt;/b&gt;From stand on Queens Plaza North at 27 St&lt;br&gt;Right on 21 St then regular route&lt;br&gt;&lt;br&gt;&lt;b&gt;Westbound&lt;br&gt;&lt;/b&gt;Regular route to 21 St at 41 Av&lt;br&gt;Left on  41 Av&lt;br&gt;Right on 28 St&lt;br&gt;Right on Queens Plaza North and stand at 27 St&lt;/div&gt;&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
+                  &lt;span class="TitlePlannedWork" &gt;Planned Detour&lt;/span&gt;
+                  &lt;br/&gt;
+                &lt;a class="plannedWorkDetailLink" onclick=ShowHide(139073);&gt;&lt;b&gt;Q60 buses detoured from Queens Plaza South between 21 St and Crescent St &lt;/b&gt;- &lt;b&gt;No stops missed&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 139073 class="plannedWorkDetail" &gt;&lt;/b&gt;7 AM to 7 PM, Sunday, Nov 6&lt;br&gt;&lt;br&gt;Due to the &lt;a href=http://bit.ly/TCSRun target=_blank&gt;&lt;font color=#0000FF&gt;&lt;b&gt;&lt;u&gt;TCS New York City Marathon&lt;/u&gt;&lt;/b&gt;&lt;/font&gt;&lt;/a&gt;, please allow additional travel time.&lt;br&gt;&lt;b&gt;          &lt;/b&gt;&lt;a href=http://bustime.mta.info/#q60 target=_blank&gt;&lt;img height=30px src=http://web.mta.info/nyct/images/Bus_Time_logo.png&gt;&lt;/a&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
+                  &lt;span class="TitlePlannedWork" &gt;Planned Detour&lt;/span&gt;
+                  &lt;br/&gt;
+                &lt;a class="plannedWorkDetailLink" onclick=ShowHide(138320);&gt;&lt;b&gt;Q59 buses rerouted from Grand St&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 138320 class="plannedWorkDetail" &gt;&lt;/b&gt;7 AM to 7 PM, Sunday, Nov 6&lt;br&gt;&lt;br&gt;Due to the &lt;a href=http://bit.ly/TCSRun target=_blank&gt;&lt;font color=#0000FF&gt;&lt;b&gt;&lt;u&gt;TCS New York City Marathon&lt;/u&gt;&lt;/b&gt;&lt;/font&gt;&lt;/a&gt;:&lt;br&gt;&lt;br&gt;&lt;b&gt;Eastbound&lt;/b&gt;: Buses run via Roebling St.&lt;br&gt;&lt;br&gt;&lt;b&gt;Westbound&lt;/b&gt;: Buses run via Marcy Av.&lt;br&gt;&lt;br&gt;Buses make corresponding stops along the detoured route.&lt;br&gt;&lt;br&gt;&lt;b&gt;&lt;i&gt;&lt;a style="cursor:pointer; text-decoration:underline;" onclick=ShowHide(1383200);&gt;Show Reroute Details&lt;/a&gt;&lt;/i&gt;&lt;/b&gt;&lt;br&gt;&lt;div id="1383200"; style="display:none;"&gt;&lt;b&gt;Eastbound&lt;br&gt;&lt;/b&gt;Via Washington Bridge Plaza&lt;br&gt;Left on Havemeyer St&lt;br&gt;Left on S 4 St&lt;br&gt;Right on Roebling St then regular route&lt;br&gt;&lt;br&gt;&lt;b&gt;Westbound&lt;br&gt;&lt;/b&gt;Via Metropolitan Av&lt;br&gt;Left on Marcy Av&lt;br&gt;Right on Broadway and take stand at Roebling St&lt;/div&gt;&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
+                  &lt;span class="TitlePlannedWork" &gt;Planned Detour&lt;/span&gt;
+                  &lt;br/&gt;
+                &lt;a class="plannedWorkDetailLink" onclick=ShowHide(138804);&gt;&lt;b&gt;Q39 buses rerouted from 44 Dr between Jackson Av and 21 St and from 23 St between 44 Dr and Queens Plaza South&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 138804 class="plannedWorkDetail" &gt;&lt;/b&gt;7 AM to 7 PM, Sunday, Nov 6&lt;br&gt;&lt;br&gt;Due to the &lt;a href=http://bit.ly/TCSRun target=_blank&gt;&lt;font color=#0000FF&gt;&lt;b&gt;&lt;u&gt;TCS New York City Marathon&lt;/u&gt;&lt;/b&gt;&lt;/font&gt;&lt;/a&gt;, buses run via &lt;b&gt;Jackson Av &lt;/b&gt;making corresponding stops in both directions.&lt;br&gt;&lt;br&gt;&lt;b&gt;&lt;i&gt;&lt;a style="cursor:pointer; text-decoration:underline;" onclick=ShowHide(1388040);&gt;Show Reroute Details&lt;/a&gt;&lt;/i&gt;&lt;/b&gt;&lt;br&gt;&lt;div id="1388040"; style="display:none;"&gt;&lt;b&gt;Eastbound&lt;br&gt;&lt;/b&gt;From first stop on Jackson Av at 42 Rd&lt;br&gt;Continue on Jackson Av&lt;br&gt;Left on 44 Dr&lt;br&gt;Left on Thomson Av then regular route&lt;br&gt;&lt;br&gt;&lt;b&gt;Westbound&lt;br&gt;&lt;/b&gt;Regular route to Thomson Av&lt;br&gt;Right on 44 Dr&lt;br&gt;Right on Jackson Av&lt;br&gt;Left on 42 Rd (last stop)&lt;/div&gt;&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
+                  &lt;span class="TitlePlannedWork" &gt;Planned Detour&lt;/span&gt;
+                  &lt;br/&gt;
+                &lt;a class="plannedWorkDetailLink" onclick=ShowHide(138973);&gt;&lt;b&gt;Q32 buses rerouted from Queens Plaza South between Jackson Av and 21 St&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 138973 class="plannedWorkDetail" &gt;&lt;/b&gt;7 AM to 7 PM, Sunday, Nov 6&lt;br&gt;&lt;br&gt;Due to the &lt;a href=http://j.mp/1RgmGoH target=_blank&gt;&lt;font color=#0000FF&gt;&lt;b&gt;&lt;u&gt;TCS New York City Marathon&lt;/u&gt;&lt;/b&gt;&lt;/font&gt;&lt;/a&gt;:&lt;br&gt;&lt;br&gt;&lt;b&gt;Eastbound&lt;/b&gt;: Buses run via 57 St from Madison Av to 2 Av.&lt;br&gt;&lt;br&gt;&lt;b&gt;Westbound&lt;/b&gt;: Buses run via 57 St from Park Av to 5 Av.&lt;br&gt;&lt;br&gt;The Madison Av at 57 St stop will be made &lt;b&gt;on 57 St &lt;/b&gt;at Madison Av.&lt;br&gt;&lt;br&gt;Buses will not stop on Queens Plaza South at 28 St, please use the nearby stop &lt;b&gt;on Jackson Av&lt;/b&gt; at Orchard St.&lt;br&gt;&lt;br&gt;Buses make corresponding stops along the detoured routes.&lt;br&gt;&lt;br&gt;&lt;b&gt;&lt;i&gt;&lt;a style="cursor:pointer; text-decoration:underline;" onclick=ShowHide(1389730);&gt;Show Reroute Details&lt;/a&gt;&lt;/i&gt;&lt;/b&gt;&lt;br&gt;&lt;div id="1389730"; style="display:none;"&gt;&lt;b&gt;Eastbound&lt;br&gt;&lt;/b&gt;Regular route to 32 St at 6 Av&lt;br&gt;Left on 6 Av&lt;br&gt;&lt;br&gt;&lt;b&gt;Westbound&lt;br&gt;&lt;/b&gt;Via Queens Plaza North to 21 St&lt;br&gt;Enter upper level roadway of Bridge to 63 St&lt;br&gt;Left on 63 St&lt;br&gt;Left on 2 Av&lt;br&gt;Right on 60 St&lt;br&gt;Left on Lexington Av&lt;br&gt;Right on 57 St&lt;br&gt;Left on 5 Av then regular route&lt;/div&gt;&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
+                  &lt;span class="TitlePlannedWork" &gt;Planned Detour&lt;/span&gt;
+                  &lt;br/&gt;
+                &lt;a class="plannedWorkDetailLink" onclick=ShowHide(139083);&gt;&lt;b&gt;Q103 buses rerouted from Vernon Blvd between 44 Dr and 10 St &lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 139083 class="plannedWorkDetail" &gt;&lt;/b&gt;7 AM to 7 PM, Sunday, Nov 6&lt;br&gt;&lt;br&gt;Due to the &lt;a href=http://bit.ly/TCSRun target=_blank&gt;&lt;font color=#0000FF&gt;&lt;b&gt;&lt;u&gt;TCS New York City Marathon&lt;/u&gt;&lt;/b&gt;&lt;/font&gt;&lt;/a&gt;, please use the nearby stop &lt;b&gt;on 41 Av&lt;/b&gt; at 21 St.&lt;br&gt;&lt;br&gt;&lt;b&gt;&lt;i&gt;&lt;a style="cursor:pointer; text-decoration:underline;" onclick=ShowHide(1390830);&gt;Show Reroute Details&lt;/a&gt;&lt;/i&gt;&lt;/b&gt;&lt;br&gt;&lt;div id="1390830"; style="display:none;"&gt;&lt;b&gt;Northbound&lt;br&gt;&lt;/b&gt;Via 41 Av&lt;br&gt;Left on 21 St&lt;br&gt;Left on 40 Av&lt;br&gt;Right on Vernon Blvd then regular route&lt;br&gt;&lt;br&gt;&lt;b&gt;Southbound&lt;br&gt;&lt;/b&gt;Via Vernon Blvd&lt;br&gt;Left on 41 Av and take stand at 21 St (first/last stop)&lt;/div&gt;&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
+                  &lt;span class="TitlePlannedWork" &gt;Planned Detour&lt;/span&gt;
+                  &lt;br/&gt;
+                &lt;a class="plannedWorkDetailLink" onclick=ShowHide(139081);&gt;&lt;b&gt;Q102 &lt;/b&gt;-&lt;b&gt; Northbound buses rerouted from Queens Plaza South between 21 St and Jackson Av &lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 139081 class="plannedWorkDetail" &gt;&lt;/b&gt;7 AM to 7 PM, Sunday, Nov 6&lt;br&gt;&lt;br&gt;Due to the &lt;a href=http://bit.ly/TCSRun target=_blank&gt;&lt;font color=#0000FF&gt;&lt;b&gt;&lt;u&gt;TCS New York City Marathon&lt;/u&gt;&lt;/b&gt;&lt;/font&gt;&lt;/a&gt;, please use the nearby temporary stop &lt;b&gt;on Queens Plaza North &lt;/b&gt;at 27 St.&lt;br&gt;&lt;br&gt;&lt;b&gt;&lt;i&gt;&lt;a style="cursor:pointer; text-decoration:underline;" onclick=ShowHide(1390810);&gt;Show Reroute Details&lt;/a&gt;&lt;/i&gt;&lt;/b&gt;&lt;br&gt;&lt;div id="1390810"; style="display:none;"&gt;Regular route to 41 Av at 21 St&lt;br&gt;Continue on 41 Av&lt;br&gt;Right on 28 St&lt;br&gt;Right onto Queens Plaza North (make stop on 27 St)&lt;br&gt;Right on 23 St&lt;br&gt;Right on 38 Av&lt;br&gt;Left on 31 St then regular route&lt;/div&gt;&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
+                  &lt;span class="TitlePlannedWork" &gt;Planned Detour&lt;/span&gt;
+                  &lt;br/&gt;
+                &lt;a class="plannedWorkDetailLink" onclick=ShowHide(139080);&gt;&lt;b&gt;Q101 buses rerouted from Queens Plaza South between 21 St and Jackson Av&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 139080 class="plannedWorkDetail" &gt;&lt;/b&gt;7 AM to 7 PM, Sunday, Nov 6&lt;br&gt;&lt;br&gt;Due to the &lt;a href=http://bit.ly/TCSRun target=_blank&gt;&lt;font color=#0000FF&gt;&lt;b&gt;&lt;u&gt;TCS New York City Marathon&lt;/u&gt;&lt;/b&gt;&lt;/font&gt;&lt;/a&gt;, please use the nearby stop &lt;b&gt;on Jackson Av &lt;/b&gt;at Orchard St.&lt;br&gt;&lt;br&gt;&lt;b&gt;&lt;i&gt;&lt;a style="cursor:pointer; text-decoration:underline;" onclick=ShowHide(1390800);&gt;Show Reroute Details&lt;/a&gt;&lt;/i&gt;&lt;/b&gt;&lt;br&gt;&lt;div id="1390800"; style="display:none;"&gt;&lt;b&gt;Northbound&lt;br&gt;&lt;/b&gt;Regular route to the upper level roadway towards Queens Blvd at Jackson Av&lt;br&gt;Left towards Queens Blvd&lt;br&gt;Right on Thomson Av&lt;br&gt;Right on 44 Dr&lt;br&gt;Right on Jackson Av then regular route&lt;br&gt;&lt;br&gt;&lt;b&gt;Southbound&lt;br&gt;&lt;/b&gt;Regular route to Queens Plaza North&lt;br&gt;Continue on Queens Plaza North to 21 St entrance of the upper level roadway of the bridge to 63 St&lt;br&gt;Left on 63 St&lt;br&gt;Left on 2 Av to 61 St&lt;/div&gt;&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            </text>
+    <Date>11/06/2016</Date>
+    <Time> 8:29AM</Time>
+  </line>
+  <line>
+    <name>QM1 - QM44</name>
+    <status>PLANNED WORK</status>
+    <text>
+                  &lt;span class="TitlePlannedWork" &gt;Planned Detour&lt;/span&gt;
+                  &lt;br/&gt;
+                &lt;a class="plannedWorkDetailLink" onclick=ShowHide(139525);&gt;&lt;b&gt;QM4 &lt;/b&gt;-&lt;b&gt; Eastbound buses rerouted from 6 Av at 34 St to 42 St and from the Ed Koch Queensboro Bridge&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 139525 class="plannedWorkDetail" &gt;&lt;/b&gt;7 AM to 7 PM, Sunday, Nov 6&lt;br&gt;&lt;br&gt;Due to the &lt;a href=http://bit.ly/TCSRun target=_blank&gt;&lt;font color=#0000FF&gt;&lt;b&gt;&lt;u&gt;TCS New York City Marathon&lt;/u&gt;&lt;/b&gt;&lt;/font&gt;&lt;/a&gt;, and a local event, buses run via Madison Av making corresponding stops.&lt;br&gt;&lt;br&gt;Buses use the Queens Midtown Tunnel.&lt;br&gt;&lt;br&gt;&lt;b&gt;&lt;i&gt;&lt;a style="cursor:pointer; text-decoration:underline;" onclick=ShowHide(1395250);&gt;Show Reroute Details&lt;/a&gt;&lt;/i&gt;&lt;/b&gt;&lt;br&gt;&lt;div id="1395250"; style="display:none;"&gt;Via 34 St&lt;br&gt;Right on Madison Av&lt;br&gt;Left on 42 St&lt;br&gt;Right on 6 Av then regular route&lt;br&gt;Right on 57 St&lt;br&gt;Right on 2 Av to the Queens Midtown Tunnel&lt;br&gt;To the Long Island Epwy then regular route&lt;/div&gt;&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
+                  &lt;span class="TitlePlannedWork" &gt;Planned Detour&lt;/span&gt;
+                  &lt;br/&gt;
+                &lt;a class="plannedWorkDetailLink" onclick=ShowHide(139058);&gt;&lt;b&gt;QM2, QM4, QM5 and QM6, weekend delays in the Queens Midtown Tunnel&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 139058 class="plannedWorkDetail" &gt;&lt;/b&gt;Until Spring 2018&lt;br&gt;&lt;br&gt;Due to &lt;a href=http://web.mta.info/sandy/bandt.htm target=_blank&gt;&lt;font color=#0000FF&gt;&lt;b&gt;&lt;u&gt;Superstorm Sandy&lt;/u&gt;&lt;/b&gt;&lt;/font&gt;&lt;/a&gt; restoration and repair work, please allow additional travel time.&lt;br&gt;&lt;br&gt;&lt;b&gt;Reminder&lt;/b&gt;: &lt;a href=http://web.mta.info/busco/schedules/qm002cur.pdf target=_blank&gt;&lt;font color=#0000FF&gt;&lt;b&gt;&lt;u&gt;QM2&lt;/u&gt;&lt;/b&gt;&lt;/font&gt;&lt;/a&gt;, &lt;a href=http://web.mta.info/busco/schedules/qm004cur.pdf target=_blank&gt;&lt;font color=#0000FF&gt;&lt;b&gt;&lt;u&gt;QM4 &lt;/u&gt;&lt;/b&gt;&lt;/font&gt;&lt;/a&gt;, &lt;a href=http://web.mta.info/busco/schedules/qm001cur.pdf target=_blank&gt;&lt;font color=#0000FF&gt;&lt;b&gt;&lt;u&gt;QM5&lt;/u&gt;&lt;/b&gt;&lt;/font&gt;&lt;/a&gt; and &lt;a href=http://web.mta.info/busco/schedules/qm001cur.pdf target=_blank&gt;&lt;font color=#0000FF&gt;&lt;b&gt;&lt;u&gt;QM6&lt;/u&gt;&lt;/b&gt;&lt;/font&gt;&lt;/a&gt; buses do not operate overnight.&lt;br&gt;          &lt;a href=http://bustime.mta.info/#b9 target=_blank&gt;&lt;img height=30px src=http://web.mta.info/nyct/images/Bus_Time_logo.png&gt;&lt;/a&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
+                  &lt;span class="TitlePlannedWork" &gt;Planned Detour&lt;/span&gt;
+                  &lt;br/&gt;
+                &lt;a class="plannedWorkDetailLink" onclick=ShowHide(139751);&gt;&lt;b&gt;QM2, QM5 and QM6 &lt;/b&gt;-&lt;b&gt; Eastbound buses detoured from the Ed Koch Queensboro Bridge&lt;br clear=left&gt;No stops missed&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 139751 class="plannedWorkDetail" &gt;&lt;/b&gt;7 AM to 7 PM, Sunday, Nov 6&lt;br&gt;&lt;br&gt;Due to the &lt;a href=http://bit.ly/TCSRun target=_blank&gt;&lt;font color=#0000FF&gt;&lt;b&gt;&lt;u&gt;TCS New York City Marathon&lt;/u&gt;&lt;/b&gt;&lt;/font&gt;&lt;/a&gt;, buses may experience delays.&lt;br&gt;&lt;br&gt;  Please allow additional travel time.&lt;br&gt;&lt;b&gt;          &lt;/b&gt;&lt;a href=http://bustime.mta.info/ target=_blank&gt;&lt;img height=30px src=http://web.mta.info/nyct/images/Bus_Time_logo.png&gt;&lt;/a&gt;&lt;br&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            </text>
+    <Date>11/06/2016</Date>
+    <Time> 8:48AM</Time>
+  </line>
+  <line>
+    <name>S40 - S98</name>
+    <status>PLANNED WORK</status>
+    <text>
+                  &lt;span class="TitlePlannedWork" &gt;Planned Detour&lt;/span&gt;
+                  &lt;br/&gt;
+                &lt;a class="plannedWorkDetailLink" onclick=ShowHide(139733);&gt;&lt;b&gt;S79 &lt;/b&gt;SBS - &lt;b&gt;No service to/from Brooklyn&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 139733 class="plannedWorkDetail" &gt;&lt;/b&gt;7 AM to 3 PM, Sunday, Nov 6&lt;br&gt;&lt;br&gt;Due to the &lt;a href=http://bit.ly/TCSRun target=_blank&gt;&lt;font color=#0000FF&gt;&lt;b&gt;&lt;u&gt;TCS New York City Marathon&lt;/u&gt;&lt;/b&gt;&lt;/font&gt;&lt;/a&gt;, buses run via Sand Ln making corresponding stops in both directions. &lt;br&gt;&lt;br&gt;&lt;b&gt;Note&lt;/b&gt;: First/last stop at South Beach.&lt;br&gt;&lt;br&gt;&lt;b&gt;&lt;i&gt;&lt;a style="cursor:pointer; text-decoration:underline;" onclick=ShowHide(1397330);&gt;Show Reroute Details&lt;/a&gt;&lt;/i&gt;&lt;/b&gt;&lt;br&gt;&lt;div id="1397330"; style="display:none;"&gt;&lt;b&gt;Northbound&lt;br&gt;&lt;/b&gt;Via Hylan Blvd&lt;br&gt;Right on Sand Lane and take stand at South Beach&lt;br&gt;&lt;br&gt;&lt;b&gt;Southbound&lt;br&gt;&lt;/b&gt;From South Beach into Sand Lane&lt;br&gt;Left on Hylan Blvd&lt;br&gt;Right on Fingerboard Rd&lt;br&gt;Left on Narrows Rd North then regular route&lt;/div&gt;&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
+                  &lt;span class="TitlePlannedWork" &gt;Planned Detour&lt;/span&gt;
+                  &lt;br/&gt;
+                &lt;a class="plannedWorkDetailLink" onclick=ShowHide(139732);&gt;&lt;b&gt;S53 - No service to/from Brooklyn&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 139732 class="plannedWorkDetail" &gt;&lt;/b&gt;7 AM to 3 PM, Sunday, Nov 6&lt;br&gt;&lt;br&gt;Due to the &lt;a href=http://bit.ly/TCSRun target=_blank&gt;&lt;font color=#0000FF&gt;&lt;b&gt;&lt;u&gt;TCS New York City Marathon&lt;/u&gt;&lt;/b&gt;&lt;/font&gt;&lt;/a&gt;, buses run via Lily Pond Av, Father Capodanno Blvd making corresponding stops in both directions.&lt;br&gt;&lt;br&gt;&lt;b&gt;Note&lt;/b&gt;: First/last stop at &lt;b&gt;South Beach&lt;/b&gt;.&lt;br&gt;&lt;br&gt;&lt;b&gt;&lt;i&gt;&lt;a style="cursor:pointer; text-decoration:underline;" onclick=ShowHide(1397320);&gt;Show Reroute Details&lt;/a&gt;&lt;/i&gt;&lt;/b&gt;&lt;br&gt;&lt;div id="1397320"; style="display:none;"&gt;&lt;b&gt;Eastbound&lt;br&gt;&lt;/b&gt;Via McClean Av&lt;br&gt;Right on Lily Pond Av &lt;br&gt;Into Father Capodanno Blvd and take stand at South Beach&lt;br&gt;&lt;br&gt;&lt;b&gt;Westbound&lt;br&gt;&lt;/b&gt;From South Beach&lt;br&gt;Right on Father Capodanno Blvd into Lily Pond Av&lt;br&gt;Left on McClean Av then regular route&lt;/div&gt;&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
+                  &lt;span class="TitlePlannedWork" &gt;Planned Detour&lt;/span&gt;
+                  &lt;br/&gt;
+                &lt;a class="plannedWorkDetailLink" onclick=ShowHide(139731);&gt;&lt;b&gt;S51 buses rerouted from the Verrazano Bridge, Lily Pond Av and School Rd&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 139731 class="plannedWorkDetail" &gt;&lt;/b&gt;5 AM to 3 PM, Sunday, Nov 6&lt;br&gt;&lt;br&gt;Due to the &lt;a href=http://bit.ly/TCSRun target=_blank&gt;&lt;font color=#0000FF&gt;&lt;b&gt;&lt;u&gt;TCS New York City Marathon&lt;/u&gt;&lt;/b&gt;&lt;/font&gt;&lt;/a&gt;, buses run via &lt;b&gt;McClean Av&lt;/b&gt;, &lt;b&gt;Sand Ln&lt;/b&gt;,&lt;b&gt; Fingerboard Rd&lt;/b&gt;, &lt;b&gt;Tompkins Av &lt;/b&gt;and&lt;b&gt; Hylan Blvd&lt;/b&gt; in both directions. &lt;br&gt;&lt;br&gt;&lt;b&gt;&lt;i&gt;&lt;a style="cursor:pointer; text-decoration:underline;" onclick=ShowHide(1397310);&gt;Show Reroute Details&lt;/a&gt;&lt;/i&gt;&lt;/b&gt;&lt;br&gt;&lt;div id="1397310"; style="display:none;"&gt;&lt;b&gt;Northbound&lt;br&gt;&lt;/b&gt;Via Lily Pond Av&lt;br&gt;Left on McClean Av&lt;br&gt;Right on Sand Ln&lt;br&gt;Right on Hylan Blvd&lt;br&gt;Right on Fingerboard Rd&lt;br&gt;Left on Tompkins Av&lt;br&gt;Right on Hylan Blvd&lt;br&gt;Left on Bay St then regular route&lt;br&gt;&lt;br&gt;&lt;b&gt;Southbound&lt;br&gt;&lt;/b&gt;Via Bay St&lt;br&gt;Right on Hylan Blvd&lt;br&gt;Left on Tompkins Av&lt;br&gt;Right on Fingerboard Rd&lt;br&gt;Left on Hylan Blvd&lt;br&gt;Left on Sand Ln&lt;br&gt;Left on McClean Av&lt;br&gt;Right on Lily Pond Av then regular route&lt;/div&gt;&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            </text>
+    <Date>11/06/2016</Date>
+    <Time> 8:48AM</Time>
+  </line>
+  <line>
+    <name>x1 - x68</name>
+    <status>PLANNED WORK</status>
+    <text>
+                  &lt;span class="TitlePlannedWork" &gt;Planned Detour&lt;/span&gt;
+                  &lt;br/&gt;
+                &lt;a class="plannedWorkDetailLink" onclick=ShowHide(139721);&gt;&lt;b&gt;X1, X10 and X17C buses rerouted from Narrows Rd South, Verrazano Bridge and Central Park South&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 139721 class="plannedWorkDetail" &gt;&lt;/b&gt;6 AM to 3:30 PM, Sunday, Nov 6&lt;br&gt;&lt;br&gt;Due to the &lt;a href=http://bit.ly/TCSRun target=_blank&gt;&lt;font color=#0000FF&gt;&lt;b&gt;&lt;u&gt;TCS New York City Marathon&lt;/u&gt;&lt;/b&gt;&lt;/font&gt;&lt;/a&gt;, buses are rerouted through New Jersey.&lt;br&gt;&lt;br&gt;&lt;b&gt;&lt;i&gt;&lt;a style="cursor:pointer; text-decoration:underline;" onclick=ShowHide(1397210);&gt;Show Reroute Details&lt;/a&gt;&lt;/i&gt;&lt;/b&gt;&lt;br&gt;&lt;div id="1397210"; style="display:none;"&gt;&lt;b&gt;X1 &lt;/b&gt;-&lt;b&gt; Manhattan bound&lt;/b&gt; &lt;i&gt;(6:30 am to 3 pm)&lt;br&gt;&lt;/i&gt;Regular route to Narrows Rd South at Steuben St (last stop in Staten Island)&lt;br&gt;Left on Narrows Rd North&lt;br&gt;Via Staten Island Expy, Goethals Bridge, New Jersey Tpke and Lincoln Tunnel&lt;br&gt;Exit at 34 St&lt;br&gt;Right on 34 St&lt;br&gt;Left on West St&lt;br&gt;Left on Battery Pl then regular route&lt;br&gt;&lt;br&gt;&lt;b&gt;X1&lt;/b&gt; - &lt;b&gt;Staten Island bound &lt;/b&gt;&lt;i&gt;(6 am to 3 pm)&lt;br&gt;&lt;/i&gt;Regular route to Battery Pl at West St&lt;br&gt;Continue on West St&lt;br&gt;Right on 40 St&lt;br&gt;Via the Lincoln Tunnel, New Jersey Tpke, Goethals Bridge and Staten Island Epwy&lt;br&gt;Exit at Richmond Av&lt;br&gt;Left on Lamberts Ln&lt;br&gt;Right on Richmond Av &lt;br&gt;Left on Hylan Blvd&lt;br&gt;Left on Steuben St&lt;br&gt;Last stop on Hylan Blvd at Narrows Rd South&lt;br&gt;&lt;br&gt;&lt;b&gt;X10 &lt;/b&gt;-&lt;b&gt; Manhattan bound&lt;/b&gt; &lt;i&gt;(6:30 am to 3 pm)&lt;br&gt;&lt;/i&gt;Regular route to Slossan Av at Schmidts Ln (last stop) and then rerouted through New Jersey.&lt;br&gt;Via the Lincoln Tunnel exit onto 34 St&lt;br&gt;Right on 34 St&lt;br&gt;Left on West St&lt;br&gt;Left onto Battery Pl then regular route&lt;br&gt;&lt;br&gt;&lt;b&gt;X10&lt;/b&gt; - &lt;b&gt;Staten Island bound  &lt;/b&gt;&lt;i&gt;(6 am to 3 pm)&lt;br&gt;&lt;/i&gt;Regular route to Battery Pl at West St&lt;br&gt;Continue on West St &lt;br&gt;Right on 40 St&lt;br&gt;Via the Lincoln Tunnel, New Jersey Tpke, Goethals Bridge and then the Staten Island Epwy&lt;br&gt;Left on Slossan Av&lt;br&gt;Left on North Gannon Av then regular route&lt;br&gt;&lt;br&gt;&lt;b&gt;X17C &lt;/b&gt;-&lt;b&gt; Manhattan bound &lt;/b&gt;&lt;i&gt;(6:30 am to 3 pm)&lt;br&gt;&lt;/i&gt;Regular route to Richmond Av at Lamberts Ln&lt;br&gt;Continue on Richmond Av to the Goethals Bridge Rd North&lt;br&gt;Via the Goethals Bridge, the New Jersey Tpke, the Lincoln Tunnel and exit at 34 St &lt;br&gt;Right on 34 St&lt;br&gt;Left on West St &lt;br&gt;Left on Battery Pl then regular route.&lt;br&gt;&lt;br&gt;&lt;b&gt;X17C &lt;/b&gt;-&lt;b&gt; Staten Island bound  &lt;/b&gt;&lt;i&gt;(6 am to 3 pm)&lt;br&gt;&lt;/i&gt;Regular route to Battery Pl at West St&lt;br&gt;Continue on West St to 40 St into the Lincoln Tunnel&lt;br&gt;Via the New Jersey Tpke, the Goethals Bridge, the Staten Island Expy &lt;br&gt;Exit at Richmond Av&lt;br&gt;Left on Lamberts Ln&lt;br&gt;Right on Richmond Av then regular route&lt;/div&gt;&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            </text>
+    <Date>11/06/2016</Date>
+    <Time> 8:48AM</Time>
+  </line>
+</bus><BT>
+  <line>
+    <name>Bronx-Whitestone</name>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
+  </line>
+  <line>
+    <name>Cross Bay</name>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
+  </line>
+  <line>
+    <name>Henry Hudson</name>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
+  </line>
+  <line>
+    <name>Hugh L. Carey</name>
+    <status>SERVICE CHANGE</status>
+    <text>
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;11/06/2016&amp;nbsp; 1:02AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  HLC: Planned weekend work; One tube closed. 2 way operation in the remaining tube through Monday, Nov. 7th - 5am. Motorists are advised to expect delays.
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>11/06/2016</Date>
+    <Time> 1:02AM</Time>
+  </line>
+  <line>
+    <name>Marine Parkway</name>
+    <status>SERVICE CHANGE</status>
+    <text>
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;11/01/2016&amp;nbsp; 6:02AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  Marine Parkway-Gil Hodges Memorial Bridge; One lane closed Rockaway-bound until December 2016. Motorists should allow extra time or use alternate route.
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>11/01/2016</Date>
+    <Time> 6:02AM</Time>
+  </line>
+  <line>
+    <name>Queens Midtown</name>
+    <status>PLANNED WORK</status>
+    <text>
+                    &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
+                    &lt;br/&gt;
+                  Queens-Midtown Tunnel downtown exit; One lane closed. Use 37th St tunnel exit for access to 2nd Ave. Motorists should allow extra time and may wish to use an alternate route if possible" Drivers should expect delays and plan accordingly. Motorists can sign up for MTA e-mail or text alerts at &lt;A href="http://www.mta.info"&gt;www.mta.info&lt;/A&gt; and check the Bridges and Tunnels homepage or Facebook page for the latest information on this planned work.
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>11/01/2016</Date>
+    <Time> 6:02AM</Time>
+  </line>
+  <line>
+    <name>Robert F. Kennedy</name>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
+  </line>
+  <line>
+    <name>Throgs Neck</name>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
+  </line>
+  <line>
+    <name>Verrazano-Narrows</name>
+    <status>SERVICE CHANGE</status>
+    <text>
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;11/06/2016&amp;nbsp; 8:09AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  Verrazano Narrows Bridge - closed in both directions for NYC Marathon until approximately until 3pm.
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>11/06/2016</Date>
+    <Time> 8:09AM</Time>
+  </line>
+</BT><LIRR>
+  <line>
+    <name>Babylon</name>
+    <status>PLANNED WORK</status>
+    <text>
+                    &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
+                    &lt;br/&gt;
+                  &lt;P class=MsoNoSpacing style="MARGIN: 0in 0in 0pt"&gt;&lt;B&gt;&lt;FONT face=Calibri&gt;&lt;FONT size=3&gt;Babylon Weekend Service Reduced to Hourly Nov. 5-6; Buses Replace Trains Sunday Evening&lt;/FONT&gt;&lt;/FONT&gt;&lt;/B&gt;&lt;/P&gt;
+&lt;P class=MsoNoSpacing style="MARGIN: 0in 0in 0pt"&gt;&lt;FONT face=Calibri&gt;&lt;FONT size=3&gt;&lt;/FONT&gt;&lt;/FONT&gt; &lt;/P&gt;
+&lt;P class=MsoNoSpacing style="MARGIN: 0in 0in 0pt"&gt;&lt;FONT face=Calibri&gt;&lt;FONT size=3&gt;Concrete tie installation and switch replacement work in Freeport will require that one of two tracks between Rockville Centre and Wantagh be taken out of service for 48 hours on the weekend of November 5-6.  &lt;SPAN style="COLOR: black"&gt;As a result, service will be reduced to hourly on Saturday and Sunday. Then, starting at 5 PM Sunday, buses will replace trains between Rockville Centre and Wantagh. Busing will continue through 1 AM on Monday. Service will be affected as follows:&lt;/SPAN&gt;&lt;/FONT&gt;&lt;/FONT&gt;&lt;/P&gt;
+&lt;P class=MsoNoSpacing style="MARGIN: 0in 0in 0pt 39pt; TEXT-INDENT: -21pt"&gt;&lt;SPAN style="FONT-FAMILY: Symbol; COLOR: black"&gt;&lt;FONT size=3&gt;·&lt;/FONT&gt;&lt;/SPAN&gt;&lt;SPAN style='FONT-SIZE: 7pt; FONT-FAMILY: "Times New Roman","serif"; COLOR: black'&gt;           &lt;/SPAN&gt;&lt;SPAN style="COLOR: black"&gt;&lt;FONT face=Calibri&gt;&lt;FONT size=3&gt;Babylon Branch service will be reduced from half-hourly to hourly all weekend. &lt;/FONT&gt;&lt;/FONT&gt;&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P class=MsoNoSpacing style="MARGIN: 0in 0in 0pt 39pt; TEXT-INDENT: -21pt"&gt;&lt;SPAN style="FONT-FAMILY: Symbol; COLOR: black"&gt;&lt;FONT size=3&gt;·&lt;/FONT&gt;&lt;/SPAN&gt;&lt;SPAN style='FONT-SIZE: 7pt; FONT-FAMILY: "Times New Roman","serif"; COLOR: black'&gt;           &lt;/SPAN&gt;&lt;B&gt;&lt;SPAN style="COLOR: black"&gt;&lt;FONT face=Calibri&gt;&lt;FONT size=3&gt;Buses will replace trains between Rockville Centre and Wantagh starting at 5 PM Sunday, November 6 until 1 AM on Monday. &lt;/FONT&gt;&lt;/FONT&gt;&lt;/SPAN&gt;&lt;/B&gt;&lt;/P&gt;
+&lt;P class=MsoNoSpacing style="MARGIN: 0in 0in 0pt 39pt; TEXT-INDENT: -21pt"&gt;&lt;SPAN style="FONT-FAMILY: Symbol; COLOR: black"&gt;&lt;FONT size=3&gt;·&lt;/FONT&gt;&lt;/SPAN&gt;&lt;SPAN style='FONT-SIZE: 7pt; FONT-FAMILY: "Times New Roman","serif"; COLOR: black'&gt;           &lt;/SPAN&gt;&lt;SPAN style="COLOR: black"&gt;&lt;FONT face=Calibri&gt;&lt;FONT size=3&gt;Please plan for 45 minutes of additional travel time.&lt;/FONT&gt;&lt;/FONT&gt;&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P class=MsoNoSpacing style="MARGIN: 0in 0in 0pt 39pt; TEXT-INDENT: -21pt"&gt;&lt;SPAN style="FONT-FAMILY: Symbol; COLOR: black"&gt;&lt;FONT size=3&gt;·&lt;/FONT&gt;&lt;/SPAN&gt;&lt;SPAN style='FONT-SIZE: 7pt; FONT-FAMILY: "Times New Roman","serif"; COLOR: black'&gt;           &lt;/SPAN&gt;&lt;SPAN style="COLOR: black"&gt;&lt;FONT face=Calibri&gt;&lt;FONT size=3&gt;Some trains will depart up to 15 minutes later than usual. &lt;/FONT&gt;&lt;/FONT&gt;&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P class=MsoNoSpacing style="MARGIN: 0in 0in 0pt 39pt; TEXT-INDENT: -21pt"&gt;&lt;SPAN style="FONT-FAMILY: Symbol; COLOR: black"&gt;&lt;FONT size=3&gt;·&lt;/FONT&gt;&lt;/SPAN&gt;&lt;SPAN style='FONT-SIZE: 7pt; FONT-FAMILY: "Times New Roman","serif"; COLOR: black'&gt;           &lt;/SPAN&gt;&lt;SPAN style="COLOR: black"&gt;&lt;FONT size=3&gt;&lt;FONT face=Calibri&gt;The westbound 12:57 AM train from Babylon will depart 14 minutes earlier than usual at 12:43 AM.&lt;/FONT&gt;&lt;/FONT&gt;&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P class=MsoNoSpacing style="MARGIN: 0in 0in 0pt"&gt;&lt;SPAN style="COLOR: black"&gt;&lt;FONT size=3 face=Calibri&gt; &lt;/FONT&gt;&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P class=MsoNoSpacing style="MARGIN: 0in 0in 0pt"&gt;&lt;SPAN style="COLOR: black"&gt;&lt;FONT size=3 face=Calibri&gt;For additional information, pick up a copy of the Babylon Branch Weekend Timetable, dated November 5-6, 2016 Or see &lt;/FONT&gt;&lt;/SPAN&gt;&lt;A href="http://bit.ly/2eklvKk"&gt;&lt;FONT color=#0000ff size=3 face=Calibri&gt;http://bit.ly/2eklvKk&lt;/FONT&gt;&lt;/A&gt;&lt;FONT size=3 face=Calibri&gt; &lt;/FONT&gt;&lt;/P&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>11/04/2016</Date>
+    <Time>10:00PM</Time>
+  </line>
+  <line>
+    <name>City Terminal Zone</name>
+    <status>PLANNED WORK</status>
+    <text>
+                    &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
+                    &lt;br/&gt;
+                  &lt;P class=MsoNoSpacing style="MARGIN: 0in 0in 0pt"&gt;&lt;B&gt;&lt;FONT face=Calibri&gt;&lt;FONT size=3&gt;Eastbound Forest Hills/Kew Gardens Service Reduced this Weekend&lt;/FONT&gt;&lt;/FONT&gt;&lt;/B&gt;&lt;/P&gt;
+&lt;P class=MsoNoSpacing style="MARGIN: 0in 0in 0pt"&gt;&lt;FONT face=Calibri&gt;&lt;FONT size=3&gt;&lt;/FONT&gt;&lt;/FONT&gt; &lt;/P&gt;
+&lt;P class=MsoNoSpacing style="MARGIN: 0in 0in 0pt"&gt;&lt;FONT face=Calibri&gt;&lt;FONT size=3&gt;Weekend trackwork will require schedule changes and a reduction in eastbound service to/from Forest Hills and Kew Gardens this weekend. Train service will be affected as follows:&lt;/FONT&gt;&lt;/FONT&gt;&lt;/P&gt;
+&lt;P class=MsoNoSpacing style="MARGIN: 0in 0in 0pt"&gt;&lt;B&gt;&lt;FONT face=Calibri&gt;&lt;FONT size=3&gt;&lt;/FONT&gt;&lt;/FONT&gt;&lt;/B&gt; &lt;/P&gt;
+&lt;P class=MsoNoSpacing style="MARGIN: 0in 0in 0pt"&gt;&lt;B&gt;&lt;FONT face=Calibri&gt;&lt;FONT size=3&gt;Eastbound&lt;/FONT&gt;&lt;/FONT&gt;&lt;/B&gt;&lt;/P&gt;
+&lt;P class=MsoNoSpacing style="MARGIN: 0in 0in 0pt 0.5in; TEXT-INDENT: -0.25in"&gt;&lt;SPAN style="FONT-FAMILY: Symbol"&gt;&lt;FONT size=3&gt;·&lt;/FONT&gt;&lt;/SPAN&gt;&lt;SPAN style='FONT-SIZE: 7pt; FONT-FAMILY: "Times New Roman","serif"'&gt;         &lt;/SPAN&gt;&lt;FONT size=3&gt;&lt;FONT face=Calibri&gt;Train service to/from Forest Hills and Kew Gardens will be reduced from half-hourly to hourly.&lt;/FONT&gt;&lt;/FONT&gt;&lt;/P&gt;
+&lt;P class=MsoNoSpacing style="MARGIN: 0in 0in 0pt"&gt;&lt;B&gt;&lt;FONT face=Calibri&gt;&lt;FONT size=3&gt;Westbound&lt;/FONT&gt;&lt;/FONT&gt;&lt;/B&gt;&lt;/P&gt;
+&lt;P class=MsoNoSpacing style="MARGIN: 0in 0in 0pt 0.5in; TEXT-INDENT: -0.25in"&gt;&lt;SPAN style="FONT-FAMILY: Symbol"&gt;&lt;FONT size=3&gt;·&lt;/FONT&gt;&lt;/SPAN&gt;&lt;SPAN style='FONT-SIZE: 7pt; FONT-FAMILY: "Times New Roman","serif"'&gt;         &lt;/SPAN&gt;&lt;FONT size=3&gt;&lt;FONT face=Calibri&gt;The train that normally stops at Kew Gardens at 10:56 PM and Forest Hills at 10:58 PM (arriving Penn Station at 11:14 PM), will instead operate 9 minutes later, stopping at Kew Gardens at 11:05 PM and Forest Hills at 11:07 PM. It will make an added stop at Woodside at 11:10 PM and arrive at Penn Station at 11:21 PM.&lt;/FONT&gt;&lt;/FONT&gt;&lt;/P&gt;
+&lt;P class=MsoNoSpacing style="MARGIN: 0in 0in 0pt"&gt;&lt;FONT size=3 face=Calibri&gt; &lt;/FONT&gt;&lt;/P&gt;
+&lt;P class=MsoNoSpacing style="MARGIN: 0in 0in 0pt"&gt;&lt;FONT size=3 face=Calibri&gt;For additional information, pick up a copy of the Forest Hills/Kew Gardens Timetable, dated November 5-6, 2016 or see &lt;/FONT&gt;&lt;A href="http://bit.ly/2dZH7gI"&gt;&lt;FONT color=#0000ff size=3 face=Calibri&gt;http://bit.ly/2dZH7gI&lt;/FONT&gt;&lt;/A&gt;&lt;FONT size=3 face=Calibri&gt; &lt;/FONT&gt;&lt;/P&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>11/04/2016</Date>
+    <Time>10:00PM</Time>
+  </line>
+  <line>
+    <name>Far Rockaway</name>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
+  </line>
+  <line>
+    <name>Hempstead</name>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
+  </line>
+  <line>
+    <name>Long Beach</name>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
+  </line>
+  <line>
+    <name>Montauk</name>
+    <status>PLANNED WORK</status>
+    <text>
+                    &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
+                    &lt;br/&gt;
+                  &lt;P class=MsoNoSpacing style="MARGIN: 0in 0in 0pt"&gt;&lt;B&gt;&lt;FONT face=Calibri&gt;&lt;FONT size=3&gt;Buses Replace Weekend Trains between Babylon &amp; Speonk Nov. 5-6&lt;/FONT&gt;&lt;/FONT&gt;&lt;/B&gt;&lt;/P&gt;
+&lt;P class=MsoNoSpacing style="MARGIN: 0in 0in 0pt"&gt;&lt;FONT face=Calibri&gt;&lt;FONT size=3&gt;&lt;/FONT&gt;&lt;/FONT&gt; &lt;/P&gt;
+&lt;P class=MsoNoSpacing style="MARGIN: 0in 0in 0pt"&gt;&lt;FONT face=Calibri&gt;&lt;FONT size=3&gt;Concrete tie installation will require that the tracks between Babylon and Speonk be taken out of service from 12:05 AM Saturday, November 5 until 1:46 AM Monday, November 7. Train service will be affected as follows:&lt;B&gt;&lt;/B&gt;&lt;/FONT&gt;&lt;/FONT&gt;&lt;/P&gt;
+&lt;P class=MsoNoSpacing style="MARGIN: 0in 0in 0pt"&gt;&lt;B&gt;&lt;FONT face=Calibri&gt;&lt;FONT size=3&gt;&lt;/FONT&gt;&lt;/FONT&gt;&lt;/B&gt; &lt;/P&gt;
+&lt;P class=MsoNoSpacing style="MARGIN: 0in 0in 0pt"&gt;&lt;B&gt;&lt;FONT face=Calibri&gt;&lt;FONT size=3&gt;Westbound&lt;/FONT&gt;&lt;/FONT&gt;&lt;/B&gt;&lt;/P&gt;
+&lt;P class=MsoNoSpacing style="MARGIN: 0in 0in 0pt 39pt; TEXT-INDENT: -21pt"&gt;&lt;SPAN style="FONT-FAMILY: Symbol"&gt;&lt;FONT size=3&gt;·&lt;/FONT&gt;&lt;/SPAN&gt;&lt;SPAN style='FONT-SIZE: 7pt; FONT-FAMILY: "Times New Roman","serif"'&gt;           &lt;/SPAN&gt;&lt;FONT size=3&gt;&lt;FONT face=Calibri&gt;Customers at stations from Speonk through Bay Shore will board buses to Babylon, then connect with trains for service to points west.  &lt;/FONT&gt;&lt;/FONT&gt;&lt;/P&gt;
+&lt;P class=MsoNoSpacing style="MARGIN: 0in 0in 0pt 39pt; TEXT-INDENT: -21pt"&gt;&lt;SPAN style="FONT-FAMILY: Symbol"&gt;&lt;FONT size=3&gt;·&lt;/FONT&gt;&lt;/SPAN&gt;&lt;SPAN style='FONT-SIZE: 7pt; FONT-FAMILY: "Times New Roman","serif"'&gt;           &lt;/SPAN&gt;&lt;FONT size=3&gt;&lt;FONT face=Calibri&gt;Please plan for 37 minutes additional travel time.&lt;/FONT&gt;&lt;/FONT&gt;&lt;/P&gt;
+&lt;P class=MsoNoSpacing style="MARGIN: 0in 0in 0pt"&gt;&lt;FONT size=3 face=Calibri&gt; &lt;/FONT&gt;&lt;/P&gt;
+&lt;P class=MsoNoSpacing style="MARGIN: 0in 0in 0pt"&gt;&lt;B&gt;&lt;FONT face=Calibri&gt;&lt;FONT size=3&gt;Eastbound&lt;/FONT&gt;&lt;/FONT&gt;&lt;/B&gt;&lt;/P&gt;
+&lt;P class=MsoNoSpacing style="MARGIN: 0in 0in 0pt 39pt; TEXT-INDENT: -21pt"&gt;&lt;SPAN style="FONT-FAMILY: Symbol"&gt;&lt;FONT size=3&gt;·&lt;/FONT&gt;&lt;/SPAN&gt;&lt;SPAN style='FONT-SIZE: 7pt; FONT-FAMILY: "Times New Roman","serif"'&gt;           &lt;/SPAN&gt;&lt;FONT size=3&gt;&lt;FONT face=Calibri&gt;Customers will transfer to buses at Babylon for transportation to stations Bay Shore through Speonk. &lt;/FONT&gt;&lt;/FONT&gt;&lt;/P&gt;
+&lt;P class=MsoNoSpacing style="MARGIN: 0in 0in 0pt 39pt; TEXT-INDENT: -21pt"&gt;&lt;SPAN style="FONT-FAMILY: Symbol"&gt;&lt;FONT size=3&gt;·&lt;/FONT&gt;&lt;/SPAN&gt;&lt;SPAN style='FONT-SIZE: 7pt; FONT-FAMILY: "Times New Roman","serif"'&gt;           &lt;/SPAN&gt;&lt;FONT size=3&gt;&lt;FONT face=Calibri&gt;Please plan for 37 minutes additional travel time.&lt;/FONT&gt;&lt;/FONT&gt;&lt;/P&gt;
+&lt;P class=MsoNoSpacing style="MARGIN: 0in 0in 0pt"&gt;&lt;FONT size=3&gt;&lt;FONT face=Calibri&gt;                                                            &lt;/FONT&gt;&lt;/FONT&gt;&lt;/P&gt;
+&lt;P class=MsoNoSpacing style="MARGIN: 0in 0in 0pt"&gt;&lt;FONT face=Calibri&gt;&lt;FONT size=3&gt;Please pick up the special Montauk Branch Weekend Timetable dated November 5-6 for &lt;SPAN style="COLOR: black"&gt;specific train and bus info, &lt;/SPAN&gt;&lt;/FONT&gt;&lt;FONT size=3&gt;or see &lt;/FONT&gt;&lt;/FONT&gt;&lt;A href="http://bit.ly/2eRLg5j"&gt;&lt;FONT color=#0000ff size=3 face=Calibri&gt;http://bit.ly/2eRLg5j&lt;/FONT&gt;&lt;/A&gt;&lt;FONT size=3&gt;&lt;FONT face=Calibri&gt; &lt;/FONT&gt;&lt;/FONT&gt;&lt;/P&gt;
+&lt;P class=MsoNoSpacing style="MARGIN: 0in 0in 0pt"&gt;&lt;FONT size=3 face=Calibri&gt; &lt;/FONT&gt;&lt;/P&gt;
+&lt;P class=MsoNoSpacing style="MARGIN: 0in 0in 0pt"&gt;&lt;B&gt;&lt;FONT size=3 face=Calibri&gt;Similar changes will be in effect on the weekend of November 12-13.  Please look for a special timetable that weekend.&lt;/FONT&gt;&lt;/B&gt;&lt;/P&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>11/04/2016</Date>
+    <Time>10:00PM</Time>
+  </line>
+  <line>
+    <name>Oyster Bay</name>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
+  </line>
+  <line>
+    <name>Port Jefferson</name>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
+  </line>
+  <line>
+    <name>Port Washington</name>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
+  </line>
+  <line>
+    <name>Ronkonkoma</name>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
+  </line>
+  <line>
+    <name>West Hempstead</name>
+    <status>PLANNED WORK</status>
+    <text>
+                    &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
+                    &lt;br/&gt;
+                  &lt;P class=MsoNoSpacing style="MARGIN: 0in 0in 0pt"&gt;&lt;B&gt;&lt;SPAN style="COLOR: black"&gt;&lt;FONT face=Calibri&gt;&lt;FONT size=3&gt;Weekend Trackwork Affects St. Albans&lt;/FONT&gt;&lt;/FONT&gt;&lt;/SPAN&gt;&lt;/B&gt;&lt;/P&gt;
+&lt;P class=MsoNoSpacing style="MARGIN: 0in 0in 0pt"&gt;&lt;SPAN style="COLOR: black"&gt;&lt;FONT face=Calibri&gt;&lt;FONT size=3&gt;&lt;/FONT&gt;&lt;/FONT&gt;&lt;/SPAN&gt; &lt;/P&gt;
+&lt;P class=MsoNoSpacing style="MARGIN: 0in 0in 0pt"&gt;&lt;SPAN style="COLOR: black"&gt;&lt;FONT face=Calibri&gt;&lt;FONT size=3&gt;On Saturday, November 5 and Sunday, November 6, weekend trackwork on the Babylon Branch will require changes to weekend train service at St. Albans. Train service will be affected as follows:&lt;/FONT&gt;&lt;/FONT&gt;&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P class=MsoNoSpacing style="MARGIN: 0in 0in 0pt"&gt;&lt;B&gt;&lt;SPAN style="COLOR: black"&gt;&lt;FONT face=Calibri&gt;&lt;FONT size=3&gt;&lt;/FONT&gt;&lt;/FONT&gt;&lt;/SPAN&gt;&lt;/B&gt; &lt;/P&gt;
+&lt;P class=MsoNoSpacing style="MARGIN: 0in 0in 0pt"&gt;&lt;B&gt;&lt;SPAN style="COLOR: black"&gt;&lt;FONT face=Calibri&gt;&lt;FONT size=3&gt;Westbound&lt;/FONT&gt;&lt;/FONT&gt;&lt;/SPAN&gt;&lt;/B&gt;&lt;/P&gt;
+&lt;P class=MsoNoSpacing style="MARGIN: 0in 0in 0pt 0.5in; TEXT-INDENT: -0.25in"&gt;&lt;SPAN style="FONT-FAMILY: Symbol; COLOR: black"&gt;&lt;FONT size=3&gt;·&lt;/FONT&gt;&lt;/SPAN&gt;&lt;SPAN style='FONT-SIZE: 7pt; FONT-FAMILY: "Times New Roman","serif"; COLOR: black'&gt;         &lt;/SPAN&gt;&lt;SPAN style="COLOR: black"&gt;&lt;FONT face=Calibri&gt;&lt;FONT size=3&gt;Westbound trains will depart St. Albans up to 30 minutes later than usual.&lt;/FONT&gt;&lt;/FONT&gt;&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P class=MsoNoSpacing style="MARGIN: 0in 0in 0pt"&gt;&lt;B&gt;&lt;SPAN style="COLOR: black"&gt;&lt;FONT face=Calibri&gt;&lt;FONT size=3&gt;Eastbound&lt;/FONT&gt;&lt;/FONT&gt;&lt;/SPAN&gt;&lt;/B&gt;&lt;/P&gt;
+&lt;P class=MsoNoSpacing style="MARGIN: 0in 0in 0pt 0.5in; TEXT-INDENT: -0.25in"&gt;&lt;SPAN style="FONT-FAMILY: Symbol; COLOR: black"&gt;&lt;FONT size=3&gt;·&lt;/FONT&gt;&lt;/SPAN&gt;&lt;SPAN style='FONT-SIZE: 7pt; FONT-FAMILY: "Times New Roman","serif"; COLOR: black'&gt;         &lt;/SPAN&gt;&lt;SPAN style="COLOR: black"&gt;&lt;FONT size=3&gt;&lt;FONT face=Calibri&gt;Eastbound trains to St. Albans will depart up to 30 minutes later than usual.&lt;/FONT&gt;&lt;/FONT&gt;&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P class=MsoNoSpacing style="MARGIN: 0in 0in 0pt"&gt;&lt;SPAN style="COLOR: black"&gt;&lt;FONT size=3 face=Calibri&gt; &lt;/FONT&gt;&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P class=MsoNoSpacing style="MARGIN: 0in 0in 0pt"&gt;&lt;SPAN style="COLOR: black"&gt;&lt;FONT size=3 face=Calibri&gt;For additional information, pick up a copy of the special West Hempstead Branch Timetable, dated November 5-6, 2016 or see &lt;/FONT&gt;&lt;/SPAN&gt;&lt;A href="http://bit.ly/2ex7kz3"&gt;&lt;FONT color=#0000ff size=3 face=Calibri&gt;http://bit.ly/2ex7kz3&lt;/FONT&gt;&lt;/A&gt;&lt;FONT size=3 face=Calibri&gt; &lt;/FONT&gt;&lt;SPAN style="COLOR: black"&gt;&lt;/SPAN&gt;&lt;/P&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>11/04/2016</Date>
+    <Time>10:00PM</Time>
+  </line>
+</LIRR><MetroNorth>
+  <line>
+    <name>Hudson</name>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
+  </line>
+  <line>
+    <name>Harlem</name>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
+  </line>
+  <line>
+    <name>Wassaic</name>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
+  </line>
+  <line>
+    <name>New Haven</name>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
+  </line>
+  <line>
+    <name>New Canaan</name>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
+  </line>
+  <line>
+    <name>Danbury</name>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
+  </line>
+  <line>
+    <name>Waterbury</name>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
+  </line>
+  <line>
+    <name>Pascack Valley</name>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
+  </line>
+  <line>
+    <name>Port Jervis</name>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
+  </line>
+</MetroNorth></service>
 
-<link rel="shortcut icon" href="http://webserver.mta.info/siteimages/favicon.ico" />
-
-<style type="text/css">
-html { margin:0; padding:0; border:0; overflow-y:scroll; }
-
-body, div, h1, a, ol, ul, li, img { margin: 0; padding: 0; border: 0; font-size: 100%; vertical-align: baseline; }
-
-h1 { font-size:136%; color: #0055aa; font-size: 153.9%; display: block; padding-bottom: 4px; border-bottom: 1px solid #b4b4b4; }
-
-p { margin-bottom:1em; }
-
-body { font:13px/1.231 helvetica,arial,clean,sans-serif; }
-
-#mainbox { width: 960px; margin:0 auto; background-color: #fff; padding: 0 0 20px 0; }
-
-#contentbox { margin: 20px 10px; padding: 0 20px 20px 20px; }
-
-#contentbox a:link {text-decoration: none; color:#0055aa;}
-#contentbox a:visited {text-decoration: none; color:#0055aa;}
-#contentbox a:hover {text-decoration: underline}
-#contentbox a:active {text-decoration: underline}
-
-</style>
-
-</head>
-
-<body>
-
-<div id="mainbox">	
-			<div id="topbar">
-	
-		<div id="branding">
-		<img src="/apology_objects/mta_info.gif" alt="Metropolitan Transportation Authority web logo">
-		</div>
-				<div style="float:right;"><a href="http://mta-nyc.custhelp.com/app/ask">Contact Us</a></div>
-
-<div id="contentbox" class="roundCorners clearfix" >
-		
-<!-- Start Page Content -->
-			 				 		
-<h1>503 Service Unavailable</h1>																		  
-<p>Our site is temporarily unavailable. Please try visiting us again later.</p>
-<p>We apologize for the inconvenience.</p>						
-
-								<!-- End Page Content -->
-
-</div> <!-- close contentbox -->
-</div> <!-- close mainbox -->
-
-  </body>
-</html>
