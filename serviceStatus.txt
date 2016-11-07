@@ -8,10 +8,18 @@
   </line>
   <line>
     <name>456</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>SERVICE CHANGE</status>
+    <text>
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;11/07/2016&amp;nbsp; 7:56AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;P&gt;Due to a train with mechanical problems at &lt;STRONG&gt;14 St-Union Sq&lt;/STRONG&gt;, southbound [4] and [5] trains are running local from &lt;STRONG&gt;14 St-Union Sq&lt;/STRONG&gt; to &lt;STRONG&gt;Brooklyn Bridge-City Hall&lt;/STRONG&gt;. &lt;/P&gt;
+&lt;P&gt;Allow additional travel time.&lt;/P&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>11/07/2016</Date>
+    <Time> 7:56AM</Time>
   </line>
   <line>
     <name>7</name>
@@ -348,13 +356,13 @@
     <text>
                     &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;11/07/2016&amp;nbsp; 6:58AM
+                    &amp;nbsp;Posted:&amp;nbsp;11/07/2016&amp;nbsp; 7:54AM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  The 6:54AM train from Long Beach due Atlantic Terminal at 7:49AM will originate from Island Park today due to equipment trouble. Customers at Long Beach will be accommodated by the 7:04AM train from Long Beach due Penn at 7:57AM. This train will make an added stop at Jamaica for customers looking to transfer for service to Atlantic Terminal.
+                  The 5:39AM train from Montauk due Long Island City at 8:44AM is operating 10 minutes late due to slippery rail conditions - where train wheels slip while accelerating, or slide during braking - caused by oily residue left by crushed leaves on the rails. See &lt;A href="http://bit.ly/1vreZER"&gt;http://bit.ly/1vreZER&lt;/A&gt; for info on how we combat slippery rail conditions.
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>11/07/2016</Date>
-    <Time> 6:58AM</Time>
+    <Time> 7:54AM</Time>
   </line>
   <line>
     <name>Far Rockaway</name>
@@ -372,24 +380,24 @@
   </line>
   <line>
     <name>Long Beach</name>
-    <status>DELAYS</status>
-    <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;11/07/2016&amp;nbsp; 6:58AM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  The 6:54AM train from Long Beach due Atlantic Terminal at 7:49AM will originate from Island Park today due to equipment trouble. Customers at Long Beach will be accommodated by the 7:04AM train from Long Beach due Penn at 7:57AM. This train will make an added stop at Jamaica for customers looking to transfer for service to Atlantic Terminal.
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>11/07/2016</Date>
-    <Time> 6:58AM</Time>
-  </line>
-  <line>
-    <name>Montauk</name>
     <status>GOOD SERVICE</status>
     <text />
     <Date></Date>
     <Time></Time>
+  </line>
+  <line>
+    <name>Montauk</name>
+    <status>DELAYS</status>
+    <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;11/07/2016&amp;nbsp; 7:54AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  The 5:39AM train from Montauk due Long Island City at 8:44AM is operating 10 minutes late due to slippery rail conditions - where train wheels slip while accelerating, or slide during braking - caused by oily residue left by crushed leaves on the rails. See &lt;A href="http://bit.ly/1vreZER"&gt;http://bit.ly/1vreZER&lt;/A&gt; for info on how we combat slippery rail conditions.
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>11/07/2016</Date>
+    <Time> 7:54AM</Time>
   </line>
   <line>
     <name>Oyster Bay</name>
