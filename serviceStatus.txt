@@ -1,27 +1,17 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>PLANNED WORK</status>
-    <text>
-                    &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
-                    &lt;br/&gt;
-                  &lt;a class="plannedWorkDetailLink" onclick=ShowHide(136848);&gt;&lt;b&gt;[2] Manhattan-bound trains skip Eastern Pkwy, Grand Army Plaza and Bergen St&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 136848 class="plannedWorkDetail" &gt;&lt;/b&gt;&lt;/font&gt;Weekend, 11:45 PM Fri to 5 AM Mon, Nov 4 - 7&lt;br&gt;&lt;br&gt;For service&lt;i&gt; to&lt;/i&gt; these stations, take the [2] to Atlantic Av-Barclays Ctr and transfer to a&lt;br&gt;Flatbush Av-bound [2], New Lots Av-bound [3] or [4] &lt;i&gt;local&lt;/i&gt;.&lt;br&gt;&lt;br&gt;For service&lt;i&gt; from&lt;/i&gt; these stations, take the [2] [3] or [4] to Franklin Av and transfer to a&lt;br&gt;Manhattan-bound [2].&lt;br&gt;&lt;/font&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>11/07/2016</Date>
-    <Time> 4:52AM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>456</name>
-    <status>PLANNED WORK</status>
-    <text>
-                    &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
-                    &lt;br/&gt;
-                  &lt;a class="plannedWorkDetailLink" onclick=ShowHide(136851);&gt;&lt;b&gt;[4] Woodlawn-bound trains skip Eastern Pkwy, Grand Army Plaza and Bergen St&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 136851 class="plannedWorkDetail" &gt;&lt;/b&gt;&lt;/font&gt;&lt;a href=http://advisory.mtanyct.info/pdf_files/NightMap.pdf target=_blank&gt;&lt;font color=#0000FF&gt;&lt;b&gt;&lt;u&gt;Late Nights&lt;/u&gt;&lt;/b&gt;&lt;/font&gt;&lt;/a&gt;, 12:01 AM Sat to 5 AM Mon, Nov 5 - 7&lt;br&gt;&lt;br&gt;For service&lt;i&gt; to&lt;/i&gt; these stations, take the [4] to Atlantic Av-Barclays Ctr and transfer to a&lt;br&gt;Flatbush Av-bound [2] or New Lots Av-bound [4].&lt;br&gt;&lt;br&gt;For service &lt;i&gt;from&lt;/i&gt; these stations, take the [2] or [4] to Franklin Av and transfer to a&lt;br&gt;Woodlawn-bound [4].&lt;br&gt;&lt;/font&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>11/07/2016</Date>
-    <Time> 4:52AM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>7</name>
@@ -39,10 +29,18 @@
   </line>
   <line>
     <name>BDFM</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>DELAYS</status>
+    <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;11/07/2016&amp;nbsp; 5:02AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;P&gt;Due to signal problems at &lt;STRONG&gt;DeKalb Av&lt;/STRONG&gt;, southbound [D] and [Q] trains are running with delays.  &lt;/P&gt;
+&lt;P&gt;Allow additional travel time.&lt;/P&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>11/07/2016</Date>
+    <Time> 5:02AM</Time>
   </line>
   <line>
     <name>G</name>
@@ -67,10 +65,18 @@
   </line>
   <line>
     <name>NQR</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>DELAYS</status>
+    <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;11/07/2016&amp;nbsp; 5:02AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;P&gt;Due to signal problems at &lt;STRONG&gt;DeKalb Av&lt;/STRONG&gt;, southbound [D] and [Q] trains are running with delays.  &lt;/P&gt;
+&lt;P&gt;Allow additional travel time.&lt;/P&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>11/07/2016</Date>
+    <Time> 5:02AM</Time>
   </line>
   <line>
     <name>S</name>
@@ -98,7 +104,7 @@
               &lt;br/&gt;
             </text>
     <Date>11/07/2016</Date>
-    <Time> 4:52AM</Time>
+    <Time> 5:02AM</Time>
   </line>
   <line>
     <name>B100 - B103</name>
@@ -116,16 +122,10 @@
   </line>
   <line>
     <name>BX1 - BX55</name>
-    <status>PLANNED WORK</status>
-    <text>
-                  &lt;span class="TitlePlannedWork" &gt;Planned Detour&lt;/span&gt;
-                  &lt;br/&gt;
-                &lt;a class="plannedWorkDetailLink" onclick=ShowHide(139548);&gt;&lt;b&gt;Bx7 and M100 buses rerouted from Broadway between 178 St and 179 St &lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 139548 class="plannedWorkDetail" &gt;&lt;/b&gt;12 midnight to 5 AM, each night, Nov 7 - 14&lt;br&gt;&lt;br&gt;Due to DOT work:&lt;br&gt;&lt;br&gt;&lt;b&gt;Northbound&lt;/b&gt;: Buses run via Wadsworth Av.&lt;br&gt;&lt;br&gt;&lt;b&gt;Southbound&lt;/b&gt;: Buses run via Fort Washington Av.&lt;br&gt;&lt;br&gt;Buses make corresponding stops along the detoured route.&lt;br&gt;&lt;br&gt;&lt;b&gt;&lt;i&gt;&lt;a style="cursor:pointer; text-decoration:underline;" onclick=ShowHide(1395480);&gt;Show Reroute Details&lt;/a&gt;&lt;/i&gt;&lt;/b&gt;&lt;br&gt;&lt;div id="1395480"; style="display:none;"&gt;&lt;b&gt;Northbound&lt;br&gt;&lt;/b&gt;Via Broadway&lt;br&gt;Right on 178 St&lt;br&gt;Left on Wadsworth Av&lt;br&gt;Left on 179 St &lt;br&gt;Right on Broadway then regular route&lt;br&gt;&lt;br&gt;&lt;b&gt;Southbound&lt;br&gt;&lt;/b&gt;Via Broadway&lt;br&gt;Right on 179 St&lt;br&gt;Left on Fort Washington Av&lt;br&gt;Left on 178 St&lt;br&gt;Right on Broadway then regular route&lt;/div&gt;&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
-              &lt;br/&gt;
-              &lt;br/&gt;
-            </text>
-    <Date>11/07/2016</Date>
-    <Time> 4:52AM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>BXM1 - BXM18</name>
@@ -138,7 +138,7 @@
               &lt;br/&gt;
             </text>
     <Date>11/07/2016</Date>
-    <Time> 4:52AM</Time>
+    <Time> 5:02AM</Time>
   </line>
   <line>
     <name>M1 - M116</name>
@@ -152,24 +152,12 @@
             
                   &lt;span class="TitlePlannedWork" &gt;Planned Detour&lt;/span&gt;
                   &lt;br/&gt;
-                &lt;a class="plannedWorkDetailLink" onclick=ShowHide(139232);&gt;&lt;b&gt;M5&lt;/b&gt; - &lt;b&gt;Southbound buses rerouted from Broadway at 179 St to 178 St &lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 139232 class="plannedWorkDetail" &gt;&lt;/b&gt;12 midnight to 5 AM, each night, Nov 7 - 14&lt;br&gt;&lt;br&gt;Due to DOT work, buses run via &lt;b&gt;Fort Washington &lt;/b&gt;Av at 179 St to 178 St.&lt;br&gt;&lt;br&gt;&lt;b&gt;&lt;i&gt;&lt;a style="cursor:pointer; text-decoration:underline;" onclick=ShowHide(1392320);&gt;Show Reroute Details&lt;/a&gt;&lt;/i&gt;&lt;/b&gt;&lt;br&gt;&lt;div id="1392320"; style="display:none;"&gt;Via 179 St&lt;br&gt;Left on Fort Washington Av&lt;br&gt;Left on 178 St &lt;br&gt;Right on Broadway then regular route&lt;/div&gt;&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
-              &lt;br/&gt;
-              &lt;br/&gt;
-            
-                  &lt;span class="TitlePlannedWork" &gt;Planned Detour&lt;/span&gt;
-                  &lt;br/&gt;
                 &lt;a class="plannedWorkDetailLink" onclick=ShowHide(139274);&gt;&lt;b&gt;M104 &lt;/b&gt;-&lt;b&gt; Southbound buses rerouted from 125 St at Broadway to La Salle St at Broadway&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 139274 class="plannedWorkDetail" &gt;&lt;/b&gt;Until further notice&lt;br&gt;&lt;br&gt;Due to construction, buses run via&lt;b&gt; Amsterdam Av&lt;/b&gt; and &lt;b&gt;La Salle St &lt;/b&gt;making corresponding stops.&lt;br&gt;&lt;br&gt;&lt;b&gt;&lt;i&gt;&lt;a style="cursor:pointer; text-decoration:underline;" onclick=ShowHide(1392740);&gt;Show Reroute Details&lt;/a&gt;&lt;/i&gt;&lt;/b&gt;&lt;br&gt;&lt;div id="1392740"; style="display:none;"&gt;Via 125 St&lt;br&gt;Left on Amsterdam Av&lt;br&gt;Right on La Salle St&lt;br&gt;Left on Broadway then regular route&lt;/div&gt;&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
-              &lt;br/&gt;
-              &lt;br/&gt;
-            
-                  &lt;span class="TitlePlannedWork" &gt;Planned Detour&lt;/span&gt;
-                  &lt;br/&gt;
-                &lt;a class="plannedWorkDetailLink" onclick=ShowHide(139548);&gt;&lt;b&gt;Bx7 and M100 buses rerouted from Broadway between 178 St and 179 St &lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 139548 class="plannedWorkDetail" &gt;&lt;/b&gt;12 midnight to 5 AM, each night, Nov 7 - 14&lt;br&gt;&lt;br&gt;Due to DOT work:&lt;br&gt;&lt;br&gt;&lt;b&gt;Northbound&lt;/b&gt;: Buses run via Wadsworth Av.&lt;br&gt;&lt;br&gt;&lt;b&gt;Southbound&lt;/b&gt;: Buses run via Fort Washington Av.&lt;br&gt;&lt;br&gt;Buses make corresponding stops along the detoured route.&lt;br&gt;&lt;br&gt;&lt;b&gt;&lt;i&gt;&lt;a style="cursor:pointer; text-decoration:underline;" onclick=ShowHide(1395480);&gt;Show Reroute Details&lt;/a&gt;&lt;/i&gt;&lt;/b&gt;&lt;br&gt;&lt;div id="1395480"; style="display:none;"&gt;&lt;b&gt;Northbound&lt;br&gt;&lt;/b&gt;Via Broadway&lt;br&gt;Right on 178 St&lt;br&gt;Left on Wadsworth Av&lt;br&gt;Left on 179 St &lt;br&gt;Right on Broadway then regular route&lt;br&gt;&lt;br&gt;&lt;b&gt;Southbound&lt;br&gt;&lt;/b&gt;Via Broadway&lt;br&gt;Right on 179 St&lt;br&gt;Left on Fort Washington Av&lt;br&gt;Left on 178 St&lt;br&gt;Right on Broadway then regular route&lt;/div&gt;&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
               &lt;br/&gt;
               &lt;br/&gt;
             </text>
     <Date>11/07/2016</Date>
-    <Time> 4:52AM</Time>
+    <Time> 5:02AM</Time>
   </line>
   <line>
     <name>Q1 - Q113</name>
@@ -182,7 +170,7 @@
               &lt;br/&gt;
             </text>
     <Date>11/07/2016</Date>
-    <Time> 4:52AM</Time>
+    <Time> 5:02AM</Time>
   </line>
   <line>
     <name>QM1 - QM44</name>
