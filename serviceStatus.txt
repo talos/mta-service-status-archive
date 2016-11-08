@@ -1,17 +1,10 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>DELAYS</status>
-    <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;11/08/2016&amp;nbsp; 6:58AM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  Following an earlier incident at &lt;STRONG&gt;Rector St&lt;/STRONG&gt;, [1], [2] and [3] train service has resumed with delays.
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>11/08/2016</Date>
-    <Time> 6:58AM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>456</name>
@@ -325,13 +318,20 @@
     <text>
                     &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;11/08/2016&amp;nbsp; 7:19AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  RFK: Bronx bound delays due to an off property accident on the Major Deegan Expressway.Expect delays.
+                &lt;br/&gt;&lt;br/&gt;
+              
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
                     &amp;nbsp;Posted:&amp;nbsp;11/08/2016&amp;nbsp; 7:15AM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
                   RFK Bridge is experiencing delays Manhattan bound due to heavy volume on the southbound FDR and 125th St. exit .
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>11/08/2016</Date>
-    <Time> 7:15AM</Time>
+    <Time> 7:19AM</Time>
   </line>
   <line>
     <name>Throgs Neck</name>
