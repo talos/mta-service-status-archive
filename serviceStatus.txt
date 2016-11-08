@@ -87,15 +87,10 @@
   </line>
   <line>
     <name>NQR</name>
-    <status>PLANNED WORK</status>
-    <text>
-                    &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
-                    &lt;br/&gt;
-                  &lt;a class="plannedWorkDetailLink" onclick=ShowHide(136878);&gt;&lt;b&gt;[N] The last stop for some uptown trains is 57 St-7 Av&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 136878 class="plannedWorkDetail" &gt;Rush Hours&lt;/b&gt;, 8:30 AM to 10 AM &lt;i&gt;and&lt;/i&gt; 4 PM to 6 PM, Mon to Fri, until Dec 30 &lt;i&gt;(except Nov 24 &amp; Dec 26)&lt;br&gt;&lt;br&gt;&lt;/i&gt;&lt;/font&gt; Transfer at 57 St-7 Av to an Astoria-bound [N] or [W] to continue your trip.&lt;br&gt;&lt;br&gt;&lt;b&gt;&lt;i&gt;Alternate travel note:&lt;br&gt;&lt;/b&gt;&lt;/i&gt;[R] service is also available for 5 Av/59 St and Lexington Av/59 St. &lt;br&gt;Transfer between [N] and [R] at 57 St-7 Av.&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>11/08/2016</Date>
-    <Time> 9:52AM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>S</name>
@@ -125,7 +120,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>11/08/2016</Date>
-    <Time> 9:52AM</Time>
+    <Time>10:02AM</Time>
   </line>
 </subway><bus>
   <line>
@@ -145,7 +140,7 @@
               &lt;br/&gt;
             </text>
     <Date>11/08/2016</Date>
-    <Time> 9:52AM</Time>
+    <Time>10:02AM</Time>
   </line>
   <line>
     <name>B100 - B103</name>
@@ -185,12 +180,24 @@
               &lt;br/&gt;
             </text>
     <Date>11/08/2016</Date>
-    <Time> 9:52AM</Time>
+    <Time>10:02AM</Time>
   </line>
   <line>
     <name>M1 - M116</name>
-    <status>DELAYS</status>
+    <status>SERVICE CHANGE</status>
     <text>
+                  &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                  &lt;span class="DateStyle"&gt;
+                  &amp;nbsp;Posted:&amp;nbsp;11/08/2016&amp;nbsp;10:02AM
+                  &lt;/span&gt;
+                  &lt;br/&gt;
+                  &lt;br/&gt;
+                &lt;P&gt;The southbound &lt;STRONG&gt;M1&lt;/STRONG&gt;, &lt;STRONG&gt;M2&lt;/STRONG&gt;, &lt;STRONG&gt;M3&lt;/STRONG&gt;, &lt;STRONG&gt;M4&lt;/STRONG&gt;, &lt;STRONG&gt;M5&lt;/STRONG&gt;, &lt;STRONG&gt;Q32&lt;/STRONG&gt;, &lt;STRONG&gt;X27&lt;/STRONG&gt;, &lt;STRONG&gt;X28&lt;/STRONG&gt;, &lt;STRONG&gt;X37&lt;/STRONG&gt; and &lt;STRONG&gt;X38&lt;/STRONG&gt; bus stop on 5 Av between 56 St and 55 St is closed due to NYPD activity. &lt;/P&gt;
+&lt;P&gt;The buses will stop between 53 St and 52 St instead. &lt;/P&gt;
+&lt;P&gt;Allow additional travel time.&lt;/P&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
                   &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                   &lt;span class="DateStyle"&gt;
                   &amp;nbsp;Posted:&amp;nbsp;11/08/2016&amp;nbsp;10:01AM
@@ -209,18 +216,6 @@
                   &lt;br/&gt;
                   &lt;br/&gt;
                 &lt;P&gt;&lt;STRONG&gt;M31&lt;/STRONG&gt; buses are running with delays in both directions due to a road obstruction on York Av and 71 St. &lt;/P&gt;
-&lt;P&gt;Allow additional travel time.&lt;/P&gt;
-              &lt;br/&gt;
-              &lt;br/&gt;
-            
-                  &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
-                  &lt;span class="DateStyle"&gt;
-                  &amp;nbsp;Posted:&amp;nbsp;11/08/2016&amp;nbsp; 8:08AM
-                  &lt;/span&gt;
-                  &lt;br/&gt;
-                  &lt;br/&gt;
-                &lt;P&gt;The southbound &lt;STRONG&gt;M1&lt;/STRONG&gt;, &lt;STRONG&gt;M2&lt;/STRONG&gt;, &lt;STRONG&gt;M3&lt;/STRONG&gt;, &lt;STRONG&gt;M4&lt;/STRONG&gt;, &lt;STRONG&gt;M5&lt;/STRONG&gt;, &lt;STRONG&gt;Q32&lt;/STRONG&gt;, &lt;STRONG&gt;X27&lt;/STRONG&gt;, &lt;STRONG&gt;X28&lt;/STRONG&gt;, &lt;STRONG&gt;X37&lt;/STRONG&gt; and &lt;STRONG&gt;X38&lt;/STRONG&gt; bus stop on 5 Av between 56 St and 55 St is closed due to NYPD activity. &lt;/P&gt;
-&lt;P&gt;The buses will stop between 53 St and 52 St instead. &lt;/P&gt;
 &lt;P&gt;Allow additional travel time.&lt;/P&gt;
               &lt;br/&gt;
               &lt;br/&gt;
@@ -256,15 +251,27 @@
               &lt;br/&gt;
             </text>
     <Date>11/08/2016</Date>
-    <Time>10:01AM</Time>
+    <Time>10:02AM</Time>
   </line>
   <line>
     <name>Q1 - Q113</name>
-    <status>DELAYS</status>
+    <status>SERVICE CHANGE</status>
     <text>
+                  &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                  &lt;span class="DateStyle"&gt;
+                  &amp;nbsp;Posted:&amp;nbsp;11/08/2016&amp;nbsp;10:02AM
+                  &lt;/span&gt;
+                  &lt;br/&gt;
+                  &lt;br/&gt;
+                &lt;P&gt;The southbound &lt;STRONG&gt;M1&lt;/STRONG&gt;, &lt;STRONG&gt;M2&lt;/STRONG&gt;, &lt;STRONG&gt;M3&lt;/STRONG&gt;, &lt;STRONG&gt;M4&lt;/STRONG&gt;, &lt;STRONG&gt;M5&lt;/STRONG&gt;, &lt;STRONG&gt;Q32&lt;/STRONG&gt;, &lt;STRONG&gt;X27&lt;/STRONG&gt;, &lt;STRONG&gt;X28&lt;/STRONG&gt;, &lt;STRONG&gt;X37&lt;/STRONG&gt; and &lt;STRONG&gt;X38&lt;/STRONG&gt; bus stop on 5 Av between 56 St and 55 St is closed due to NYPD activity. &lt;/P&gt;
+&lt;P&gt;The buses will stop between 53 St and 52 St instead. &lt;/P&gt;
+&lt;P&gt;Allow additional travel time.&lt;/P&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
                   &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                   &lt;span class="DateStyle"&gt;
-                  &amp;nbsp;Posted:&amp;nbsp;11/08/2016&amp;nbsp; 8:17AM
+                  &amp;nbsp;Posted:&amp;nbsp;11/08/2016&amp;nbsp;10:02AM
                   &lt;/span&gt;
                   &lt;br/&gt;
                   &lt;br/&gt;
@@ -275,23 +282,11 @@
             
                   &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                   &lt;span class="DateStyle"&gt;
-                  &amp;nbsp;Posted:&amp;nbsp;11/08/2016&amp;nbsp; 8:16AM
+                  &amp;nbsp;Posted:&amp;nbsp;11/08/2016&amp;nbsp;10:02AM
                   &lt;/span&gt;
                   &lt;br/&gt;
                   &lt;br/&gt;
                 &lt;P&gt;&lt;STRONG&gt;Q55&lt;/STRONG&gt; buses are running with delays in both directions due to construction on Myrtle Av between 71 St and Cooper Av. &lt;/P&gt;
-&lt;P&gt;Allow additional travel time.&lt;/P&gt;
-              &lt;br/&gt;
-              &lt;br/&gt;
-            
-                  &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
-                  &lt;span class="DateStyle"&gt;
-                  &amp;nbsp;Posted:&amp;nbsp;11/08/2016&amp;nbsp; 8:08AM
-                  &lt;/span&gt;
-                  &lt;br/&gt;
-                  &lt;br/&gt;
-                &lt;P&gt;The southbound &lt;STRONG&gt;M1&lt;/STRONG&gt;, &lt;STRONG&gt;M2&lt;/STRONG&gt;, &lt;STRONG&gt;M3&lt;/STRONG&gt;, &lt;STRONG&gt;M4&lt;/STRONG&gt;, &lt;STRONG&gt;M5&lt;/STRONG&gt;, &lt;STRONG&gt;Q32&lt;/STRONG&gt;, &lt;STRONG&gt;X27&lt;/STRONG&gt;, &lt;STRONG&gt;X28&lt;/STRONG&gt;, &lt;STRONG&gt;X37&lt;/STRONG&gt; and &lt;STRONG&gt;X38&lt;/STRONG&gt; bus stop on 5 Av between 56 St and 55 St is closed due to NYPD activity. &lt;/P&gt;
-&lt;P&gt;The buses will stop between 53 St and 52 St instead. &lt;/P&gt;
 &lt;P&gt;Allow additional travel time.&lt;/P&gt;
               &lt;br/&gt;
               &lt;br/&gt;
@@ -309,7 +304,7 @@
               &lt;br/&gt;
             </text>
     <Date>11/08/2016</Date>
-    <Time> 8:17AM</Time>
+    <Time>10:02AM</Time>
   </line>
   <line>
     <name>QM1 - QM44</name>
@@ -331,7 +326,7 @@
     <text>
                   &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
                   &lt;span class="DateStyle"&gt;
-                  &amp;nbsp;Posted:&amp;nbsp;11/08/2016&amp;nbsp; 8:08AM
+                  &amp;nbsp;Posted:&amp;nbsp;11/08/2016&amp;nbsp;10:02AM
                   &lt;/span&gt;
                   &lt;br/&gt;
                   &lt;br/&gt;
@@ -342,7 +337,7 @@
               &lt;br/&gt;
             </text>
     <Date>11/08/2016</Date>
-    <Time> 8:08AM</Time>
+    <Time>10:02AM</Time>
   </line>
 </bus><BT>
   <line>
