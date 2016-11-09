@@ -121,8 +121,19 @@
 </subway><bus>
   <line>
     <name>B1 - B84</name>
-    <status>SERVICE CHANGE</status>
+    <status>DELAYS</status>
     <text>
+                  &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                  &lt;span class="DateStyle"&gt;
+                  &amp;nbsp;Posted:&amp;nbsp;11/09/2016&amp;nbsp;10:10AM
+                  &lt;/span&gt;
+                  &lt;br/&gt;
+                  &lt;br/&gt;
+                &lt;P&gt;&lt;STRONG&gt;B46&lt;/STRONG&gt; buses are delayed in both directions, due to road obstruction on Broadway between Rodney St and Hooper Av. &lt;/P&gt;
+&lt;P&gt;Allow additional travel time.&lt;/P&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
                   &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
                   &lt;span class="DateStyle"&gt;
                   &amp;nbsp;Posted:&amp;nbsp;11/09/2016&amp;nbsp; 9:57AM
@@ -149,7 +160,7 @@
               &lt;br/&gt;
             </text>
     <Date>11/09/2016</Date>
-    <Time> 9:57AM</Time>
+    <Time>10:10AM</Time>
   </line>
   <line>
     <name>B100 - B103</name>
@@ -330,10 +341,17 @@
 </bus><BT>
   <line>
     <name>Bronx-Whitestone</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>DELAYS</status>
+    <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;11/09/2016&amp;nbsp;10:09AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  BWB delays Bronx bound due to a multiple vehicle collision off property on the northbound Bronx Whitestone Expressway. Expect delays.
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>11/09/2016</Date>
+    <Time>10:09AM</Time>
   </line>
   <line>
     <name>Cross Bay</name>
