@@ -15,10 +15,15 @@
   </line>
   <line>
     <name>7</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>PLANNED WORK</status>
+    <text>
+                    &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
+                    &lt;br/&gt;
+                  &lt;a class="plannedWorkDetailLink" onclick=ShowHide(136197);&gt;&lt;b&gt;[7] Flushing-bound trains skip 82, 90, 103 and 111 Sts&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 136197 class="plannedWorkDetail" &gt;&lt;/b&gt;Days, 10:15 AM to 3 PM, Wed to Fri, until Nov 18 (&lt;i&gt;except Nov 10&lt;/i&gt;)&lt;br&gt;&lt;br&gt;For service &lt;i&gt;to &lt;/i&gt;these stations, take the [7] to Junction Blvd or Willets Point&lt;br&gt;and transfer to a Hudson Yards-bound [7].&lt;br&gt;&lt;br&gt;For service &lt;i&gt;from &lt;/i&gt;these stations, take the [7] to Junction Blvd or 74 St&lt;br&gt;and transfer to a Flushing-bound [7].&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>11/11/2016</Date>
+    <Time>10:22AM</Time>
   </line>
   <line>
     <name>ACE</name>
@@ -45,7 +50,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>11/11/2016</Date>
-    <Time>10:12AM</Time>
+    <Time>10:22AM</Time>
   </line>
   <line>
     <name>G</name>
@@ -78,7 +83,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>11/11/2016</Date>
-    <Time>10:12AM</Time>
+    <Time>10:22AM</Time>
   </line>
   <line>
     <name>S</name>
@@ -97,7 +102,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>11/11/2016</Date>
-    <Time>10:12AM</Time>
+    <Time>10:22AM</Time>
   </line>
 </subway><bus>
   <line>
@@ -161,7 +166,7 @@
               &lt;br/&gt;
             </text>
     <Date>11/11/2016</Date>
-    <Time>10:12AM</Time>
+    <Time>10:22AM</Time>
   </line>
   <line>
     <name>BX1 - BX55</name>
@@ -376,7 +381,7 @@
               &lt;br/&gt;
             </text>
     <Date>11/11/2016</Date>
-    <Time>10:12AM</Time>
+    <Time>10:22AM</Time>
   </line>
   <line>
     <name>S40 - S98</name>
@@ -420,7 +425,7 @@
               &lt;br/&gt;
             </text>
     <Date>11/11/2016</Date>
-    <Time>10:12AM</Time>
+    <Time>10:22AM</Time>
   </line>
 </bus><BT>
   <line>
