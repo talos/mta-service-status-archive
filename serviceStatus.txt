@@ -8,10 +8,18 @@
   </line>
   <line>
     <name>456</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>DELAYS</status>
+    <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;11/11/2016&amp;nbsp;11:00AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;P&gt;Due to signal problems at &lt;STRONG&gt;Atlantic Av-Barclays Ctr&lt;/STRONG&gt;, northbound [4] and [5] trains are delayed. &lt;/P&gt;
+&lt;P&gt;Allow additional travel time.&lt;/P&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>11/11/2016</Date>
+    <Time>11:00AM</Time>
   </line>
   <line>
     <name>7</name>
@@ -23,7 +31,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>11/11/2016</Date>
-    <Time>10:52AM</Time>
+    <Time>11:02AM</Time>
   </line>
   <line>
     <name>ACE</name>
@@ -50,7 +58,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>11/11/2016</Date>
-    <Time>10:52AM</Time>
+    <Time>11:02AM</Time>
   </line>
   <line>
     <name>G</name>
@@ -68,10 +76,15 @@
   </line>
   <line>
     <name>L</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>PLANNED WORK</status>
+    <text>
+                    &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
+                    &lt;br/&gt;
+                  &lt;a class="plannedWorkDetailLink" onclick=ShowHide(137422);&gt;&lt;b&gt;[L] Service operates every 12 minutes between Myrtle-Wyckoff Avs and Rockaway Pkwy&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 137422 class="plannedWorkDetail" &gt;&lt;/b&gt;Days, 11 AM to 3 PM, Mon to Fri, Nov 7 - 11 &lt;br&gt;&lt;br&gt;The last stop for &lt;b&gt;alternate&lt;/b&gt; trains &lt;i&gt;from &lt;/i&gt;Manhattan is Myrtle-Wyckoff Avs.&lt;br&gt;&lt;b&gt;&lt;/b&gt;          &lt;/font&gt;&lt;a href=http://apps.mta.info/traintime/ target=_blank&gt;&lt;img height=32px src=http://apps.mta.info/traintime/desktop2Images/logoSm.png&gt;&lt;/a&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>11/11/2016</Date>
+    <Time>11:02AM</Time>
   </line>
   <line>
     <name>NQR</name>
@@ -83,7 +96,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>11/11/2016</Date>
-    <Time>10:52AM</Time>
+    <Time>11:02AM</Time>
   </line>
   <line>
     <name>S</name>
@@ -102,7 +115,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>11/11/2016</Date>
-    <Time>10:52AM</Time>
+    <Time>11:02AM</Time>
   </line>
 </subway><bus>
   <line>
@@ -166,7 +179,7 @@
               &lt;br/&gt;
             </text>
     <Date>11/11/2016</Date>
-    <Time>10:52AM</Time>
+    <Time>11:02AM</Time>
   </line>
   <line>
     <name>BX1 - BX55</name>
@@ -255,6 +268,12 @@
                   &lt;br/&gt;
                 &lt;P&gt;&lt;STRONG&gt;M100 &lt;/STRONG&gt;and &lt;STRONG&gt;M101 &lt;/STRONG&gt;southbound bus stop on Amsterdam Av and 145 St is closed, due to construction. &lt;BR&gt;&lt;BR&gt;Passengers may use the Amsterdam Av and 143 St bus stop instead.&lt;/P&gt;
 &lt;P&gt;Allow additional travel time. &lt;/P&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
+                  &lt;span class="TitlePlannedWork" &gt;Planned Detour&lt;/span&gt;
+                  &lt;br/&gt;
+                &lt;a class="plannedWorkDetailLink" onclick=ShowHide(140035);&gt;&lt;b&gt;M50 buses rerouted from 49 St/50 St between Lexington Av and 7 Av&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 140035 class="plannedWorkDetail" &gt;&lt;/b&gt;11 AM to 5 PM, Friday, Nov 11&lt;br&gt;&lt;br&gt;Due to the &lt;a href=http://bit.ly/nycVets&gt;America's Veterans Day Parade&lt;/u&gt;&lt;/b&gt;&lt;/font&gt;&lt;a/&gt;::&lt;br&gt;&lt;br&gt;&lt;b&gt;Eastbound&lt;/b&gt;: Buses run via 42 St at 7 Av to Madison Av.&lt;br&gt;&lt;br&gt;&lt;b&gt;Westbound&lt;/b&gt;: Buses run via 42 St at Lexington Av to 6 Av.&lt;br&gt;&lt;br&gt;Buses make corresponding stops along the detoured route.&lt;br&gt;&lt;br&gt;&lt;b&gt;&lt;i&gt;&lt;a style="cursor:pointer; text-decoration:underline;" onclick=ShowHide(1400350);&gt;Show Reroute Details&lt;/a&gt;&lt;/i&gt;&lt;/b&gt;&lt;br&gt;&lt;div id="1400350"; style="display:none;"&gt;&lt;b&gt;Eastbound&lt;br&gt;&lt;/b&gt;Via 50 St&lt;br&gt;Right on 7 Av&lt;br&gt;Left on 42 St,&lt;br&gt;Left on Madison Av&lt;br&gt;Right on 50 St then regular route&lt;br&gt;&lt;br&gt;&lt;b&gt;Westbound&lt;br&gt;&lt;/b&gt;Via 49 St&lt;br&gt;Left on Lexington Av&lt;br&gt;Right on 42 St&lt;br&gt;Right on 6 Av&lt;br&gt;Left on 49 St then regular route&lt;/div&gt;&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
               &lt;br/&gt;
               &lt;br/&gt;
             
@@ -371,7 +390,7 @@
               &lt;br/&gt;
             </text>
     <Date>11/11/2016</Date>
-    <Time>10:52AM</Time>
+    <Time>11:02AM</Time>
   </line>
   <line>
     <name>S40 - S98</name>
@@ -415,7 +434,7 @@
               &lt;br/&gt;
             </text>
     <Date>11/11/2016</Date>
-    <Time>10:52AM</Time>
+    <Time>11:02AM</Time>
   </line>
 </bus><BT>
   <line>
