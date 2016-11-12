@@ -101,19 +101,15 @@
 </subway><bus>
   <line>
     <name>B1 - B84</name>
-    <status>SERVICE CHANGE</status>
+    <status>DELAYS</status>
     <text>
-                  &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                  &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                   &lt;span class="DateStyle"&gt;
-                  &amp;nbsp;Posted:&amp;nbsp;11/11/2016&amp;nbsp; 6:56PM
+                  &amp;nbsp;Posted:&amp;nbsp;11/11/2016&amp;nbsp; 9:26PM
                   &lt;/span&gt;
                   &lt;br/&gt;
                   &lt;br/&gt;
-                &lt;P&gt;&lt;STRONG&gt;B35&lt;/STRONG&gt; buses are detoured due to NYPD activity on Church Av between Kings Highway and E 57 St. &lt;BR&gt;&lt;BR&gt;Detour is as follows:&lt;/P&gt;
-&lt;P&gt;&lt;STRONG&gt;Westbound:&lt;/STRONG&gt; Via Church Av, left on Ralph Av, right on Snyder Av, left on E 55 St, left on Church Av and regular route.&lt;/P&gt;
-&lt;P&gt;&lt;STRONG&gt;Eastbound:&lt;/STRONG&gt; Via Church Av, right on E 56 St, left on Snyder Av, left on Kings Highway, right on Church Av and regular route.&lt;/P&gt;
-&lt;P&gt;Corresponding stops will be made along detoured route.&lt;/P&gt;
-&lt;P&gt;Allow additional travel time. &lt;/P&gt;
+                Following an earlier incident on Church Av between Kings Highway and E 57 St, &lt;STRONG&gt;B35&lt;/STRONG&gt; bus service has resumed with delays.
               &lt;br/&gt;
               &lt;br/&gt;
             
@@ -130,7 +126,7 @@
               &lt;br/&gt;
             </text>
     <Date>11/11/2016</Date>
-    <Time> 6:56PM</Time>
+    <Time> 9:26PM</Time>
   </line>
   <line>
     <name>B100 - B103</name>
@@ -611,10 +607,17 @@
   </line>
   <line>
     <name>Harlem</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>DELAYS</status>
+    <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;11/11/2016&amp;nbsp; 9:27PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  Harlem Line Service is currently delayed due to Fire Department activity between Scarsdale and White Plains. As more information becomes available we will notify you as soon as possible.  Please listen for announcements at your station.
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>11/11/2016</Date>
+    <Time> 9:27PM</Time>
   </line>
   <line>
     <name>Wassaic</name>
