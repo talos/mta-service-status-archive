@@ -1,14 +1,20 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>DELAYS</status>
+    <status>SERVICE CHANGE</status>
     <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;11/13/2016&amp;nbsp; 7:22AM
+                    &amp;nbsp;Posted:&amp;nbsp;11/13/2016&amp;nbsp; 7:49AM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  &lt;P&gt;Due to NYPD activity at &lt;STRONG&gt;18 St&lt;/STRONG&gt;,  [1], [2] and [3] trains are running with delays in both directions. &lt;/P&gt;
+                  &lt;P&gt;Due to NYPD activity at &lt;STRONG&gt;18 St&lt;/STRONG&gt;, the following service changes are in effect:&lt;/P&gt;
+&lt;P&gt;Southbound [1] and [2] trains are terminating at &lt;STRONG&gt;96 St.&lt;/STRONG&gt;&lt;/P&gt;
+&lt;P&gt;Northbound [2] and [3]&lt;STRONG&gt; &lt;/STRONG&gt;trains are terminating at &lt;STRONG&gt;Chambers St. &lt;/STRONG&gt;&lt;/P&gt;
+&lt;P&gt;There is no [3] train service in both directions between&lt;STRONG&gt; Harlem-148 St &lt;/STRONG&gt;and&lt;STRONG&gt; Chambers St.&lt;/STRONG&gt;&lt;/P&gt;
+&lt;P&gt;[1], [2] and [3] trains are running with delays in both directions. &lt;/P&gt;
 &lt;P&gt;Allow additional travel time.&lt;/P&gt;
+&lt;P&gt; &lt;/P&gt;
+&lt;P&gt; &lt;/P&gt;
                 &lt;br/&gt;&lt;br/&gt;
               
                     &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
@@ -37,7 +43,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>11/13/2016</Date>
-    <Time> 7:22AM</Time>
+    <Time> 7:49AM</Time>
   </line>
   <line>
     <name>456</name>
@@ -152,8 +158,6 @@
                     &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
                     &lt;br/&gt;
                   &lt;a class="plannedWorkDetailLink" onclick=ShowHide(137420);&gt;&lt;b&gt;[Q] Manhattan-bound trains run express from Kings Hwy to Prospect Park&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 137420 class="plannedWorkDetail" &gt;&lt;/b&gt;Weekend, 5:45 AM Sat to 7 PM Sun, Nov 12 - 13&lt;br&gt;&lt;br&gt;&lt;/font&gt;Trains stop at Newkirk Plaza and Church Av.&lt;br&gt;&lt;br&gt;For service &lt;i&gt;to &lt;/i&gt;Avenue M, Avenue J, Avenue H, Cortelyou, Beverley Rds and Parkside Av, take&lt;br&gt;the [Q] to Newkirk Plaza, Church Av or Prospect Park and transfer to a Coney Island-bound [Q].&lt;br&gt;&lt;br&gt;For service &lt;i&gt;from &lt;/i&gt;these stations, take the [Q] to Church Av, Newkirk Plaza or Kings Hwy&lt;br&gt;and transfer to a Manhattan-bound [Q].&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
-                &lt;br/&gt;&lt;br/&gt;
-              
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>11/13/2016</Date>
