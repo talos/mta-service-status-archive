@@ -1,15 +1,8 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>DELAYS</status>
+    <status>PLANNED WORK</status>
     <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;11/13/2016&amp;nbsp; 9:59AM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  Following an earlier incident at &lt;STRONG&gt;18 St&lt;/STRONG&gt;, [2] and [3] train service has resumed with delays.
-                &lt;br/&gt;&lt;br/&gt;
-              
                     &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
                     &lt;br/&gt;
                   &lt;a class="plannedWorkDetailLink" onclick=ShowHide(137326);&gt;&lt;b&gt;[3] Trains run local in both directions between 34 St-Penn Station and Chambers St&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 137326 class="plannedWorkDetail" &gt;&lt;/b&gt;Weekend, 11:30 PM Fri to 5 AM Mon, Nov 11 - 14&lt;br&gt;&lt;br&gt; Please allow additional travel time.&lt;br&gt;&lt;br&gt;&lt;b&gt;Note:&lt;/b&gt; [3]&lt;b&gt; s&lt;/b&gt;ervice operates between 148 St and New Lots Av, &lt;i&gt;all weekend&lt;/i&gt;.&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
@@ -36,7 +29,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>11/13/2016</Date>
-    <Time> 9:59AM</Time>
+    <Time>11:52AM</Time>
   </line>
   <line>
     <name>456</name>
@@ -158,15 +151,8 @@
   </line>
   <line>
     <name>NQR</name>
-    <status>DELAYS</status>
+    <status>PLANNED WORK</status>
     <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;11/13/2016&amp;nbsp;11:56AM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  Following an earlier incident at &lt;STRONG&gt;14 St-Union Sq&lt;/STRONG&gt;, [N] and [R] train service has resumed with delays.
-                &lt;br/&gt;&lt;br/&gt;
-              
                     &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
                     &lt;br/&gt;
                   &lt;a class="plannedWorkDetailLink" onclick=ShowHide(137480);&gt;&lt;b&gt;[Q] Service operates between Stillwell Av and Ditmars Blvd&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 137480 class="plannedWorkDetail" &gt;&lt;/b&gt;Weekends, 9 AM to 7 PM, Sundays, Nov 13 &lt;i&gt;and&lt;/i&gt; 20&lt;br&gt;&lt;br&gt;Service operates between &lt;b&gt;Stillwell Av&lt;/b&gt; and &lt;b&gt;57 St-7Av &lt;/b&gt;all other times.&lt;br&gt;&lt;/font&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
@@ -178,7 +164,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>11/13/2016</Date>
-    <Time>11:56AM</Time>
+    <Time>11:52AM</Time>
   </line>
   <line>
     <name>S</name>
@@ -544,10 +530,17 @@
 </BT><LIRR>
   <line>
     <name>Babylon</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>SERVICE CHANGE</status>
+    <text>
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;11/13/2016&amp;nbsp;12:00PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  The 11:25AM train from Penn due Babylon at 12:43PM is canceled at Jamaica due to equipment trouble. Customers will be accommodated by the 12:20PM train from Jamaica due Babylon at 1:12PM, making an added stop at Lynbrook.
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>11/13/2016</Date>
+    <Time>12:00PM</Time>
   </line>
   <line>
     <name>City Terminal Zone</name>
@@ -627,15 +620,8 @@
   </line>
   <line>
     <name>Port Jefferson</name>
-    <status>DELAYS</status>
+    <status>PLANNED WORK</status>
     <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;11/13/2016&amp;nbsp;11:34AM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  The 10:43AM train from Huntington due Penn at 11:51AM is operating 11 minutes late due to trackwork.
-                &lt;br/&gt;&lt;br/&gt;
-              
                     &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
                     &lt;br/&gt;
                   &lt;P class=MsoNoSpacing style="MARGIN: 0in 0in 0pt"&gt;&lt;B&gt;&lt;FONT size=4 face=Calibri&gt;Huntington-Port Jefferson Service Reduced this Weekend&lt;/FONT&gt;&lt;/B&gt;&lt;/P&gt;
@@ -651,8 +637,8 @@
 &lt;P class=MsoNoSpacing style="MARGIN: 0in 0in 0pt"&gt;&lt;B&gt;&lt;U&gt;&lt;SPAN style="COLOR: red"&gt;&lt;SPAN style="TEXT-DECORATION: none"&gt;&lt;FONT size=3 face=Calibri&gt; &lt;/FONT&gt;&lt;/SPAN&gt;&lt;/SPAN&gt;&lt;/U&gt;&lt;/B&gt;&lt;/P&gt;
                 &lt;br/&gt;&lt;br/&gt;
               </text>
-    <Date>11/13/2016</Date>
-    <Time>11:34AM</Time>
+    <Date>11/11/2016</Date>
+    <Time>10:00PM</Time>
   </line>
   <line>
     <name>Port Washington</name>
