@@ -8,25 +8,34 @@
   </line>
   <line>
     <name>456</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
-  </line>
-  <line>
-    <name>7</name>
     <status>SERVICE CHANGE</status>
     <text>
                     &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;11/14/2016&amp;nbsp; 8:16AM
+                    &amp;nbsp;Posted:&amp;nbsp;11/14/2016&amp;nbsp; 8:36AM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  &lt;P&gt;Due to signal problems from &lt;STRONG&gt;Flushing Main St&lt;/STRONG&gt; to &lt;STRONG&gt;74 St-Broadway, &lt;/STRONG&gt;34 St bound [7D] express trains are running local from &lt;STRONG&gt;Mets-Willets Point&lt;/STRONG&gt; to &lt;STRONG&gt;74 St-Broadway&lt;/STRONG&gt;. &lt;/P&gt;
+                  &lt;P&gt;Due to a train with mechanical problems at &lt;STRONG&gt;Wall St&lt;/STRONG&gt;, the following service changes are in effect:&lt;/P&gt;
+&lt;P&gt;Northbound [4] trains are running with delays.&lt;/P&gt;
+&lt;P&gt;Northbound [5] trains are running on the [2] line from &lt;STRONG&gt;Nevins St&lt;/STRONG&gt; to &lt;STRONG&gt;149 St-Grand Concourse&lt;/STRONG&gt;. &lt;/P&gt;
 &lt;P&gt;Allow additional travel time.&lt;/P&gt;
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>11/14/2016</Date>
-    <Time> 8:16AM</Time>
+    <Time> 8:36AM</Time>
+  </line>
+  <line>
+    <name>7</name>
+    <status>DELAYS</status>
+    <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;11/14/2016&amp;nbsp; 8:36AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  Following an earlier incident between Fl&lt;STRONG&gt;ushing Main St &lt;/STRONG&gt;to &lt;STRONG&gt;74 St-Broadway&lt;/STRONG&gt;, [7D] train service has resumed with delays.
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>11/14/2016</Date>
+    <Time> 8:36AM</Time>
   </line>
   <line>
     <name>ACE</name>
@@ -522,18 +531,10 @@
   </line>
   <line>
     <name>Ronkonkoma</name>
-    <status>DELAYS</status>
-    <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;11/14/2016&amp;nbsp; 8:10AM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  &lt;P&gt;The 6:56AM train from Ronkonkoma due Atlantic Terminal at 8:17AM is operating 10 minutes late due to congestion caused by earlier trackwork.&lt;/P&gt;
-&lt;P&gt;The 7:19AM train from Ronkonkoma due Penn at 8:28AM is operating 11 minutes late due to congestion caused by earlier trackwork.&lt;/P&gt;
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>11/14/2016</Date>
-    <Time> 8:10AM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>West Hempstead</name>
