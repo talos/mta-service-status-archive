@@ -1,39 +1,31 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>SERVICE CHANGE</status>
+    <status>DELAYS</status>
     <text>
-                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;11/16/2016&amp;nbsp; 4:28PM
+                    &amp;nbsp;Posted:&amp;nbsp;11/16/2016&amp;nbsp; 4:31PM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  &lt;P&gt;Due to FDNY activity at &lt;STRONG&gt;14&lt;/STRONG&gt; &lt;STRONG&gt;St&lt;/STRONG&gt;-&lt;STRONG&gt;Union&lt;/STRONG&gt; &lt;STRONG&gt;Square&lt;/STRONG&gt;, the following service changes and delays are in effect:&lt;/P&gt;
-&lt;P&gt;Some northbound [5] trains are running on the [2] line from &lt;STRONG&gt;Nevins&lt;/STRONG&gt; &lt;STRONG&gt;St&lt;/STRONG&gt; to &lt;STRONG&gt;149&lt;/STRONG&gt; &lt;STRONG&gt;St&lt;/STRONG&gt;-&lt;STRONG&gt;Grand&lt;/STRONG&gt; &lt;STRONG&gt;Concourse&lt;/STRONG&gt;.&lt;/P&gt;
-&lt;P&gt;Some northbound [4] and [5] trains are running local from &lt;STRONG&gt;Brooklyn&lt;/STRONG&gt; &lt;STRONG&gt;Bridge&lt;/STRONG&gt;-&lt;STRONG&gt;City&lt;/STRONG&gt; &lt;STRONG&gt;Hall&lt;/STRONG&gt; to &lt;STRONG&gt;Grand&lt;/STRONG&gt; &lt;STRONG&gt;Central&lt;/STRONG&gt;-&lt;STRONG&gt;42&lt;/STRONG&gt; &lt;STRONG&gt;St&lt;/STRONG&gt;.&lt;/P&gt;
-&lt;P&gt;[2], [3], [4], [5] and [6] trains are running with delays in both directions. &lt;/P&gt;
-&lt;P&gt;Allow additional travel time.&lt;/P&gt;
+                  Following an earlier incident at &lt;STRONG&gt;14&lt;/STRONG&gt; &lt;STRONG&gt;St&lt;/STRONG&gt;-&lt;STRONG&gt;Union&lt;/STRONG&gt; &lt;STRONG&gt;Square&lt;/STRONG&gt;, [4], [5] and [6] train service has resumed with delays.
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>11/16/2016</Date>
-    <Time> 4:28PM</Time>
+    <Time> 4:31PM</Time>
   </line>
   <line>
     <name>456</name>
-    <status>SERVICE CHANGE</status>
+    <status>DELAYS</status>
     <text>
-                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;11/16/2016&amp;nbsp; 4:28PM
+                    &amp;nbsp;Posted:&amp;nbsp;11/16/2016&amp;nbsp; 4:31PM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  &lt;P&gt;Due to FDNY activity at &lt;STRONG&gt;14&lt;/STRONG&gt; &lt;STRONG&gt;St&lt;/STRONG&gt;-&lt;STRONG&gt;Union&lt;/STRONG&gt; &lt;STRONG&gt;Square&lt;/STRONG&gt;, the following service changes and delays are in effect:&lt;/P&gt;
-&lt;P&gt;Some northbound [5] trains are running on the [2] line from &lt;STRONG&gt;Nevins&lt;/STRONG&gt; &lt;STRONG&gt;St&lt;/STRONG&gt; to &lt;STRONG&gt;149&lt;/STRONG&gt; &lt;STRONG&gt;St&lt;/STRONG&gt;-&lt;STRONG&gt;Grand&lt;/STRONG&gt; &lt;STRONG&gt;Concourse&lt;/STRONG&gt;.&lt;/P&gt;
-&lt;P&gt;Some northbound [4] and [5] trains are running local from &lt;STRONG&gt;Brooklyn&lt;/STRONG&gt; &lt;STRONG&gt;Bridge&lt;/STRONG&gt;-&lt;STRONG&gt;City&lt;/STRONG&gt; &lt;STRONG&gt;Hall&lt;/STRONG&gt; to &lt;STRONG&gt;Grand&lt;/STRONG&gt; &lt;STRONG&gt;Central&lt;/STRONG&gt;-&lt;STRONG&gt;42&lt;/STRONG&gt; &lt;STRONG&gt;St&lt;/STRONG&gt;.&lt;/P&gt;
-&lt;P&gt;[2], [3], [4], [5] and [6] trains are running with delays in both directions. &lt;/P&gt;
-&lt;P&gt;Allow additional travel time.&lt;/P&gt;
+                  Following an earlier incident at &lt;STRONG&gt;14&lt;/STRONG&gt; &lt;STRONG&gt;St&lt;/STRONG&gt;-&lt;STRONG&gt;Union&lt;/STRONG&gt; &lt;STRONG&gt;Square&lt;/STRONG&gt;, [4], [5] and [6] train service has resumed with delays.
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>11/16/2016</Date>
-    <Time> 4:28PM</Time>
+    <Time> 4:31PM</Time>
   </line>
   <line>
     <name>7</name>
@@ -518,10 +510,17 @@
   </line>
   <line>
     <name>Hugh L. Carey</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>SERVICE CHANGE</status>
+    <text>
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;11/16/2016&amp;nbsp; 4:28PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  HLC - PM Two-Way Operation in effect. Three (3) lanes Brooklyn bound. One (1) lane Manhattan bound.
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>11/16/2016</Date>
+    <Time> 4:28PM</Time>
   </line>
   <line>
     <name>Marine Parkway</name>
@@ -621,13 +620,13 @@
     <text>
                     &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;11/16/2016&amp;nbsp; 4:11PM
+                    &amp;nbsp;Posted:&amp;nbsp;11/16/2016&amp;nbsp; 4:31PM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  The 3:06PM train from Jamaica due Oyster Bay at 4:00PM is delayed west of Oyster Bay due to an equipment problem.
+                  The 4:20PM train from Oyster Bay due Jamaica at 5:13PM is being delayed due to late-arriving equipment.
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>11/16/2016</Date>
-    <Time> 4:11PM</Time>
+    <Time> 4:31PM</Time>
   </line>
   <line>
     <name>Port Jefferson</name>
