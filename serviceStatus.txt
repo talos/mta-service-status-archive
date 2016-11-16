@@ -1,24 +1,44 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>PLANNED WORK</status>
+    <text>
+                    &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
+                    &lt;br/&gt;
+                  &lt;a class="plannedWorkDetailLink" onclick=ShowHide(137957);&gt;&lt;b&gt;[2] Wakefield-bound trains skip 219 St, 225 St, 233 St and Nereid Av&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 137957 class="plannedWorkDetail" &gt;&lt;/b&gt;Days, 10:15 AM to 3 PM, Wed &lt;i&gt;and&lt;/i&gt; Thu, Nov 16 - 17&lt;br&gt;&lt;br&gt;&lt;/font&gt;For service&lt;i&gt; to &lt;/i&gt;these stations, take the [2] to 241 St &lt;/font&gt;and transfer to a Flatbush Av-bound [2].&lt;br&gt;&lt;br&gt;For service &lt;i&gt;from&lt;/i&gt; these stations, take the &lt;/font&gt;&lt;a href=http://web.mta.info/nyct/bus/schedule/bronx/bx039cur.pdf target=_blank&gt;&lt;font color=#0000FF&gt;&lt;b&gt;&lt;u&gt;Bx39&lt;/u&gt;&lt;/b&gt;&lt;/font&gt;&lt;/a&gt; bus instead.&lt;br&gt;&lt;br&gt;&lt;table class=plannedworkTableStyle  border=1 cellspacing=1 cellpadding=5 rules=none frame=box&gt;&lt;td&gt;  [ad]  &lt;td&gt;&lt;font size=1&gt;This service change affects one or more ADA accessible stations. Please call 511 for help with planning&lt;br&gt;your trip. If you are deaf or hard of hearing, use your preferred relay service provider or the free 711 relay.  &lt;/font&gt;&lt;/table&gt;&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>11/16/2016</Date>
+    <Time>10:22AM</Time>
   </line>
   <line>
     <name>456</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>PLANNED WORK</status>
+    <text>
+                    &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
+                    &lt;br/&gt;
+                  &lt;a class="plannedWorkDetailLink" onclick=ShowHide(137965);&gt;&lt;b&gt;[6D] Brooklyn Bridge-bound trains run local from Parkchester to 3 Av-138 St&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 137965 class="plannedWorkDetail" &gt;&lt;/b&gt;Days, 10:15 AM to 1 PM, Wed to Fri, Nov 16 - 18&lt;br&gt;&lt;br&gt; Please allow additional travel time.&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              
+                    &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
+                    &lt;br/&gt;
+                  &lt;a class="plannedWorkDetailLink" onclick=ShowHide(137963);&gt;&lt;b&gt;[6] Pelham Bay Park-bound trains run express from Hunts Point Av to Parkchester&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 137963 class="plannedWorkDetail" &gt;&lt;/b&gt;Days, 10:15 AM to 3 PM, Wed to Fri, Nov 16 - 18&lt;br&gt;&lt;br&gt;&lt;/font&gt;For service &lt;i&gt;to &lt;/i&gt;Whitlock, Elder Avs, Morrison Av-Soundview and St Lawrence Av,&lt;br&gt;take the [6] to Parkchester and transfer to a Brooklyn Bridge-bound [6].&lt;br&gt;&lt;br&gt;For service &lt;i&gt;from &lt;/i&gt;these stations, take the [6] to Hunts Point Av and transfer&lt;br&gt;to a Pelham Bay Park-bound [6].&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>11/16/2016</Date>
+    <Time>10:22AM</Time>
   </line>
   <line>
     <name>7</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>PLANNED WORK</status>
+    <text>
+                    &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
+                    &lt;br/&gt;
+                  &lt;a class="plannedWorkDetailLink" onclick=ShowHide(136197);&gt;&lt;b&gt;[7] Flushing-bound trains skip 82, 90, 103 and 111 Sts&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 136197 class="plannedWorkDetail" &gt;&lt;/b&gt;Days, 10:15 AM to 3 PM, Wed to Fri, until Nov 18 &lt;br&gt;&lt;br&gt;For service &lt;i&gt;to &lt;/i&gt;these stations, take the [7] to Junction Blvd or Willets Point&lt;br&gt;and transfer to a Hudson Yards-bound [7].&lt;br&gt;&lt;br&gt;For service &lt;i&gt;from &lt;/i&gt;these stations, take the [7] to Junction Blvd or 74 St&lt;br&gt;and transfer to a Flushing-bound [7].&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>11/16/2016</Date>
+    <Time>10:22AM</Time>
   </line>
   <line>
     <name>ACE</name>
@@ -37,7 +57,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>11/16/2016</Date>
-    <Time>10:12AM</Time>
+    <Time>10:22AM</Time>
   </line>
   <line>
     <name>G</name>
@@ -56,7 +76,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>11/16/2016</Date>
-    <Time>10:12AM</Time>
+    <Time>10:22AM</Time>
   </line>
   <line>
     <name>L</name>
@@ -75,7 +95,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>11/16/2016</Date>
-    <Time>10:12AM</Time>
+    <Time>10:22AM</Time>
   </line>
   <line>
     <name>S</name>
@@ -94,7 +114,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>11/16/2016</Date>
-    <Time>10:12AM</Time>
+    <Time>10:22AM</Time>
   </line>
 </subway><bus>
   <line>
