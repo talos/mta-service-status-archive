@@ -1,10 +1,18 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>SERVICE CHANGE</status>
+    <text>
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;11/18/2016&amp;nbsp; 5:44PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;P&gt;Due to an injured passenger at Christopher St-Sheridan Sq southbound [1] trains are running express from &lt;STRONG&gt;14 St&lt;/STRONG&gt; to &lt;STRONG&gt;Chambers St.&lt;/STRONG&gt; &lt;/P&gt;
+&lt;P&gt;Allow additional travel time.&lt;/P&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>11/18/2016</Date>
+    <Time> 5:44PM</Time>
   </line>
   <line>
     <name>456</name>
