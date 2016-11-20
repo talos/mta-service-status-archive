@@ -1,8 +1,15 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>PLANNED WORK</status>
+    <status>DELAYS</status>
     <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;11/20/2016&amp;nbsp; 5:56AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  Due to an earlier incident at &lt;STRONG&gt;West Farms Sq-E Tremont Av&lt;/STRONG&gt;, [2] train service has resumed with delays.
+                &lt;br/&gt;&lt;br/&gt;
+              
                     &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
                     &lt;br/&gt;
                   &lt;a class="plannedWorkDetailLink" onclick=ShowHide(137976);&gt;&lt;b&gt;[3] Service operates between 148 St and Utica Av&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 137976 class="plannedWorkDetail" &gt;&lt;/b&gt;Weekend, 11:45 PM Fri to 5 AM Mon, Nov 18 - 21&lt;br&gt;&lt;br&gt;&lt;b&gt;[3]&lt;/b&gt; service operates &lt;i&gt;all weekend&lt;/i&gt; between &lt;b&gt;148 St&lt;/b&gt; and &lt;b&gt;Utica Av&lt;/b&gt;.&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
@@ -14,7 +21,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>11/20/2016</Date>
-    <Time> 5:52AM</Time>
+    <Time> 5:56AM</Time>
   </line>
   <line>
     <name>456</name>
