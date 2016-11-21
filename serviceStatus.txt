@@ -1,20 +1,17 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>SERVICE CHANGE</status>
+    <status>DELAYS</status>
     <text>
-                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;11/21/2016&amp;nbsp; 7:17AM
+                    &amp;nbsp;Posted:&amp;nbsp;11/21/2016&amp;nbsp; 7:28AM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  &lt;P&gt;Due to a train with mechanical problems at &lt;STRONG&gt;Park Pl&lt;/STRONG&gt;, the following service changes are in effect:&lt;/P&gt;
-&lt;P&gt;Some northbound [2] trains are running on the [5] line from &lt;STRONG&gt;Nevins St&lt;/STRONG&gt; to &lt;STRONG&gt;149 St-Grand Concourse&lt;/STRONG&gt;.&lt;/P&gt;
-&lt;P&gt;Northbound [3] trains are running with delays. &lt;/P&gt;
-&lt;P&gt;Allow additional travel time.&lt;/P&gt;
+                  Following an earlier incident at &lt;STRONG&gt;Park Pl&lt;/STRONG&gt;, [2] and [3] train service has resumed with delays.
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>11/21/2016</Date>
-    <Time> 7:17AM</Time>
+    <Time> 7:28AM</Time>
   </line>
   <line>
     <name>456</name>
@@ -323,7 +320,7 @@
               &lt;br/&gt;
             </text>
     <Date>11/21/2016</Date>
-    <Time> 7:22AM</Time>
+    <Time> 7:27AM</Time>
   </line>
   <line>
     <name>QM1 - QM44</name>
@@ -334,10 +331,24 @@
   </line>
   <line>
     <name>S40 - S98</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>SERVICE CHANGE</status>
+    <text>
+                  &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                  &lt;span class="DateStyle"&gt;
+                  &amp;nbsp;Posted:&amp;nbsp;11/21/2016&amp;nbsp; 7:27AM
+                  &lt;/span&gt;
+                  &lt;br/&gt;
+                  &lt;br/&gt;
+                &lt;P&gt;&lt;STRONG&gt;S57&lt;/STRONG&gt; buses are detoured, due to DOT road resurfacing on Willowbrook Rd between College Av and Watchouge Rd. &lt;/P&gt;
+&lt;P&gt;Detour is as follows:&lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;S57 to Hylan Blvd/Ebbitts St&lt;/STRONG&gt;: Via Willowbrook Rd, left on College Av, right on Crystal Av, left on Watchouge Rd and regular route.&lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;S57 to Port Richmond&lt;/STRONG&gt;: Via Watchouge Rd, right on Crystal Av, left on College Av, right on Willowbrook Rd and regular route.&lt;/P&gt;
+&lt;P&gt;Allow additional travel time.&lt;/P&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            </text>
+    <Date>11/21/2016</Date>
+    <Time> 7:27AM</Time>
   </line>
   <line>
     <name>x1 - x68</name>
@@ -356,7 +367,7 @@
               &lt;br/&gt;
             </text>
     <Date>11/21/2016</Date>
-    <Time> 7:22AM</Time>
+    <Time> 7:27AM</Time>
   </line>
 </bus><BT>
   <line>
@@ -514,10 +525,17 @@
   </line>
   <line>
     <name>Port Washington</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>DELAYS</status>
+    <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;11/21/2016&amp;nbsp; 7:28AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  The 7:06AM train from Great Neck due Penn at 7:46AM is canceled at Little Neck Station due to equipment trouble. Customers will be accommodated by the 7:22AM train from Little Neck due Penn at 7:55AM making all combined stops.
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>11/21/2016</Date>
+    <Time> 7:28AM</Time>
   </line>
   <line>
     <name>Ronkonkoma</name>
