@@ -1,17 +1,10 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>DELAYS</status>
-    <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;11/21/2016&amp;nbsp; 7:28AM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  Following an earlier incident at &lt;STRONG&gt;Park Pl&lt;/STRONG&gt;, [2] and [3] train service has resumed with delays.
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>11/21/2016</Date>
-    <Time> 7:28AM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>456</name>
@@ -406,8 +399,15 @@
   </line>
   <line>
     <name>Hugh L. Carey</name>
-    <status>SERVICE CHANGE</status>
+    <status>DELAYS</status>
     <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;11/21/2016&amp;nbsp; 8:00AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  HLC DISABLED VEHICLE IN THE MANHATTAN BOUND TUBERIGHT LANE BLOCKED. MOTORIST SHOULD EXPECT DELAYS.
+                &lt;br/&gt;&lt;br/&gt;
+              
                     &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
                     &amp;nbsp;Posted:&amp;nbsp;11/21/2016&amp;nbsp; 5:59AM
@@ -416,7 +416,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>11/21/2016</Date>
-    <Time> 5:59AM</Time>
+    <Time> 8:00AM</Time>
   </line>
   <line>
     <name>Marine Parkway</name>
@@ -538,15 +538,29 @@
   </line>
   <line>
     <name>Oyster Bay</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>DELAYS</status>
+    <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;11/21/2016&amp;nbsp; 8:00AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;STRONG&gt;The LIRR is experiencing delays averaging 20 minutes through Mineola due to ongoing signal trouble. LIRR personnel are on scene working to correct the problem. Please allow extra travel time.&lt;/STRONG&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>11/21/2016</Date>
+    <Time> 8:00AM</Time>
   </line>
   <line>
     <name>Port Jefferson</name>
     <status>DELAYS</status>
     <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;11/21/2016&amp;nbsp; 8:00AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;STRONG&gt;The LIRR is experiencing delays averaging 20 minutes through Mineola due to ongoing signal trouble. LIRR personnel are on scene working to correct the problem. Please allow extra travel time.&lt;/STRONG&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              
                     &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
                     &amp;nbsp;Posted:&amp;nbsp;11/21/2016&amp;nbsp; 7:52AM
@@ -557,7 +571,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>11/21/2016</Date>
-    <Time> 7:52AM</Time>
+    <Time> 8:00AM</Time>
   </line>
   <line>
     <name>Port Washington</name>
@@ -572,6 +586,13 @@
     <text>
                     &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;11/21/2016&amp;nbsp; 8:00AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;STRONG&gt;The LIRR is experiencing delays averaging 20 minutes through Mineola due to ongoing signal trouble. LIRR personnel are on scene working to correct the problem. Please allow extra travel time.&lt;/STRONG&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
                     &amp;nbsp;Posted:&amp;nbsp;11/21/2016&amp;nbsp; 7:38AM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
                   &lt;P&gt;&lt;STRONG&gt;&lt;U&gt;Westbound:&lt;/U&gt;&lt;/STRONG&gt;&lt;/P&gt;
@@ -582,7 +603,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>11/21/2016</Date>
-    <Time> 7:38AM</Time>
+    <Time> 8:00AM</Time>
   </line>
   <line>
     <name>West Hempstead</name>
