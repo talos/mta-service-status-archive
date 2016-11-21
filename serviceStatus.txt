@@ -91,17 +91,10 @@
   </line>
   <line>
     <name>SIR</name>
-    <status>DELAYS</status>
-    <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;11/21/2016&amp;nbsp; 4:22PM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  Following an earlier incident, [SIR] service has resumed with delays.
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>11/21/2016</Date>
-    <Time> 4:22PM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
 </subway><bus>
   <line>
@@ -517,10 +510,17 @@
   </line>
   <line>
     <name>Hugh L. Carey</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>SERVICE CHANGE</status>
+    <text>
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;11/21/2016&amp;nbsp; 4:32PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;P  style="MARGIN: 0in 0in 0pt"&gt;&lt;FONT size=3&gt;&lt;STRONG&gt;&lt;SPAN style='FONT-FAMILY: "Calibri",sans-serif; COLOR: black;"Calibri",sans-serif; COLOR: black;- PM Two-Way Operations in effect 4:30 PM to 7:00 PM. Three (3) lanes Brooklyn-bound. One (1) lane Manhattan -bound.&lt;/SPAN&gt;&lt;/FONT&gt;&lt;/P&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>11/21/2016</Date>
+    <Time> 4:32PM</Time>
   </line>
   <line>
     <name>Marine Parkway</name>
