@@ -57,10 +57,15 @@
   </line>
   <line>
     <name>NQR</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>PLANNED WORK</status>
+    <text>
+                    &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
+                    &lt;br/&gt;
+                  &lt;a class="plannedWorkDetailLink" onclick=ShowHide(138642);&gt;&lt;b&gt;[Q] 57 St/7 Av-bound trains run express from Kings Hwy to Prospect Park&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 138642 class="plannedWorkDetail" &gt;&lt;/b&gt;Weekend, 11 PM Fri to 5 AM Mon, Nov 25 - 28&lt;br&gt;&lt;br&gt;&lt;/font&gt;Trains stop at Newkirk Plaza and Church Av.&lt;br&gt;&lt;br&gt;For service &lt;i&gt;to &lt;/i&gt;Avenue M, Avenue J, Avenue H, Cortelyou, Beverley Rds and Parkside Av, take&lt;br&gt;the [Q] to Newkirk Plaza, Church Av or Prospect Park and transfer to a Coney Island-bound [Q].&lt;br&gt;&lt;br&gt;For service &lt;i&gt;from &lt;/i&gt;these stations, take the [Q] to Church Av, Newkirk Plaza or Kings Hwy&lt;br&gt;and transfer to a 57 St/7 Av-bound [Q].&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>11/25/2016</Date>
+    <Time>11:02PM</Time>
   </line>
   <line>
     <name>S</name>
@@ -100,7 +105,7 @@
               &lt;br/&gt;
             </text>
     <Date>11/25/2016</Date>
-    <Time>10:52PM</Time>
+    <Time>11:02PM</Time>
   </line>
   <line>
     <name>B100 - B103</name>
@@ -133,7 +138,7 @@
               &lt;br/&gt;
             </text>
     <Date>11/25/2016</Date>
-    <Time>10:52PM</Time>
+    <Time>11:02PM</Time>
   </line>
   <line>
     <name>BXM1 - BXM18</name>
@@ -146,7 +151,7 @@
               &lt;br/&gt;
             </text>
     <Date>11/25/2016</Date>
-    <Time>10:52PM</Time>
+    <Time>11:02PM</Time>
   </line>
   <line>
     <name>M1 - M116</name>
@@ -240,7 +245,7 @@
               &lt;br/&gt;
             </text>
     <Date>11/25/2016</Date>
-    <Time>10:52PM</Time>
+    <Time>11:02PM</Time>
   </line>
   <line>
     <name>QM1 - QM44</name>
@@ -265,7 +270,7 @@
               &lt;br/&gt;
             </text>
     <Date>11/25/2016</Date>
-    <Time>10:52PM</Time>
+    <Time>11:02PM</Time>
   </line>
   <line>
     <name>S40 - S98</name>
@@ -291,7 +296,7 @@
               &lt;br/&gt;
             </text>
     <Date>11/25/2016</Date>
-    <Time>10:52PM</Time>
+    <Time>11:02PM</Time>
   </line>
 </bus><BT>
   <line>
