@@ -65,10 +65,15 @@
   </line>
   <line>
     <name>NQR</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>PLANNED WORK</status>
+    <text>
+                    &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
+                    &lt;br/&gt;
+                  &lt;a class="plannedWorkDetailLink" onclick=ShowHide(136878);&gt;&lt;b&gt;[N] The last stop for some uptown trains is 57 St-7 Av&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 136878 class="plannedWorkDetail" &gt;Rush Hours&lt;/b&gt;, 8:30 AM to 10 AM &lt;i&gt;and&lt;/i&gt; 4 PM to 6 PM, Mon to Fri, until Dec 30 &lt;i&gt;(except Nov 24 &amp; Dec 26)&lt;br&gt;&lt;br&gt;&lt;/i&gt;&lt;/font&gt;&amp;bull; Transfer at 57 St-7 Av to an Astoria-bound [N] or [W] to continue your trip.&lt;br&gt;&lt;br&gt;&lt;b&gt;&lt;i&gt;Alternate travel note:&lt;br&gt;&lt;/b&gt;&lt;/i&gt;[R] service is also available for 5 Av/59 St and Lexington Av/59 St. &lt;br&gt;Transfer between [N] and [R] at 57 St-7 Av.&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>11/28/2016</Date>
+    <Time> 8:32AM</Time>
   </line>
   <line>
     <name>S</name>
@@ -108,7 +113,7 @@
               &lt;br/&gt;
             </text>
     <Date>11/28/2016</Date>
-    <Time> 8:27AM</Time>
+    <Time> 8:32AM</Time>
   </line>
   <line>
     <name>B100 - B103</name>
@@ -168,12 +173,23 @@
               &lt;br/&gt;
             </text>
     <Date>11/28/2016</Date>
-    <Time> 8:27AM</Time>
+    <Time> 8:32AM</Time>
   </line>
   <line>
     <name>M1 - M116</name>
-    <status>SERVICE CHANGE</status>
+    <status>DELAYS</status>
     <text>
+                  &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                  &lt;span class="DateStyle"&gt;
+                  &amp;nbsp;Posted:&amp;nbsp;11/28/2016&amp;nbsp; 8:31AM
+                  &lt;/span&gt;
+                  &lt;br/&gt;
+                  &lt;br/&gt;
+                &lt;P&gt;&lt;STRONG&gt;M60 SBS, Q48&lt;/STRONG&gt;, &lt;STRONG&gt;Q70-SBS&lt;/STRONG&gt; and &lt;STRONG&gt;Q72&lt;/STRONG&gt; northbound buses are delayed, due to traffic condition at LaGuardia Airport, Terminal B. &lt;/P&gt;
+&lt;P&gt;Allow additional travel time.&lt;/P&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
                   &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
                   &lt;span class="DateStyle"&gt;
                   &amp;nbsp;Posted:&amp;nbsp;11/28/2016&amp;nbsp; 6:00AM
@@ -231,12 +247,23 @@
               &lt;br/&gt;
             </text>
     <Date>11/28/2016</Date>
-    <Time> 6:00AM</Time>
+    <Time> 8:31AM</Time>
   </line>
   <line>
     <name>Q1 - Q113</name>
-    <status>SERVICE CHANGE</status>
+    <status>DELAYS</status>
     <text>
+                  &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                  &lt;span class="DateStyle"&gt;
+                  &amp;nbsp;Posted:&amp;nbsp;11/28/2016&amp;nbsp; 8:31AM
+                  &lt;/span&gt;
+                  &lt;br/&gt;
+                  &lt;br/&gt;
+                &lt;P&gt;&lt;STRONG&gt;M60 SBS, Q48&lt;/STRONG&gt;, &lt;STRONG&gt;Q70-SBS&lt;/STRONG&gt; and &lt;STRONG&gt;Q72&lt;/STRONG&gt; northbound buses are delayed, due to traffic condition at LaGuardia Airport, Terminal B. &lt;/P&gt;
+&lt;P&gt;Allow additional travel time.&lt;/P&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
                   &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
                   &lt;span class="DateStyle"&gt;
                   &amp;nbsp;Posted:&amp;nbsp;11/28/2016&amp;nbsp; 8:03AM
@@ -278,17 +305,6 @@
               &lt;br/&gt;
               &lt;br/&gt;
             
-                  &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                  &lt;span class="DateStyle"&gt;
-                  &amp;nbsp;Posted:&amp;nbsp;11/28/2016&amp;nbsp; 6:54AM
-                  &lt;/span&gt;
-                  &lt;br/&gt;
-                  &lt;br/&gt;
-                &lt;P&gt;&lt;STRONG&gt;Q48&lt;/STRONG&gt;, &lt;STRONG&gt;Q60-SBS&lt;/STRONG&gt;, &lt;STRONG&gt;Q70-SBS&lt;/STRONG&gt; and &lt;STRONG&gt;Q72&lt;/STRONG&gt; northbound buses are delayed, due to traffic condition at LaGuardia Airport, Terminal B. &lt;/P&gt;
-&lt;P&gt;Allow additional travel time.&lt;/P&gt;
-              &lt;br/&gt;
-              &lt;br/&gt;
-            
                   &lt;span class="TitlePlannedWork" &gt;Planned Detour&lt;/span&gt;
                   &lt;br/&gt;
                 &lt;a class="plannedWorkDetailLink" onclick=ShowHide(68484);&gt;&lt;b&gt;Q69 - Southbound stop on 28 St between Queens Plaza South and 42 Rd temporarily relocated&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 68484 class="plannedWorkDetail" &gt;&lt;/b&gt;Until further notice&lt;br&gt;&lt;br&gt;Due to construction, please use the nearby temporary stop &lt;b&gt;on 42 Rd&lt;/b&gt; between Jackson Av and 28 St.&lt;br&gt;&lt;/font&gt;&lt;b&gt;                                 [TP]&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
@@ -320,7 +336,7 @@
               &lt;br/&gt;
             </text>
     <Date>11/28/2016</Date>
-    <Time> 8:03AM</Time>
+    <Time> 8:31AM</Time>
   </line>
   <line>
     <name>QM1 - QM44</name>
@@ -345,7 +361,7 @@
               &lt;br/&gt;
             </text>
     <Date>11/28/2016</Date>
-    <Time> 8:27AM</Time>
+    <Time> 8:32AM</Time>
   </line>
   <line>
     <name>S40 - S98</name>
@@ -371,7 +387,7 @@
               &lt;br/&gt;
             </text>
     <Date>11/28/2016</Date>
-    <Time> 8:27AM</Time>
+    <Time> 8:32AM</Time>
   </line>
 </bus><BT>
   <line>
