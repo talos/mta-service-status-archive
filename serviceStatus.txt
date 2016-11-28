@@ -43,10 +43,18 @@
   </line>
   <line>
     <name>JZ</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>SERVICE CHANGE</status>
+    <text>
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;11/28/2016&amp;nbsp;10:00AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;P&gt;Due to FDNY activity at &lt;STRONG&gt;Halsey&lt;/STRONG&gt; &lt;STRONG&gt;St&lt;/STRONG&gt;, Broad St-bound [J] trains are running express from &lt;STRONG&gt;Broadway&lt;/STRONG&gt; &lt;STRONG&gt;Junction&lt;/STRONG&gt; to &lt;STRONG&gt;Myrtle&lt;/STRONG&gt; &lt;STRONG&gt;Av&lt;/STRONG&gt;. &lt;/P&gt;
+&lt;P&gt;Allow additional travel time.&lt;/P&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>11/28/2016</Date>
+    <Time>10:00AM</Time>
   </line>
   <line>
     <name>L</name>
@@ -57,15 +65,10 @@
   </line>
   <line>
     <name>NQR</name>
-    <status>PLANNED WORK</status>
-    <text>
-                    &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
-                    &lt;br/&gt;
-                  &lt;a class="plannedWorkDetailLink" onclick=ShowHide(136878);&gt;&lt;b&gt;[N] The last stop for some uptown trains is 57 St-7 Av&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 136878 class="plannedWorkDetail" &gt;Rush Hours&lt;/b&gt;, 8:30 AM to 10 AM &lt;i&gt;and&lt;/i&gt; 4 PM to 6 PM, Mon to Fri, until Dec 30 &lt;i&gt;(except Dec 26)&lt;br&gt;&lt;br&gt;&lt;/i&gt;&lt;/font&gt;&amp;bull; Transfer at 57 St-7 Av to an Astoria-bound [N] or [W] to continue your trip.&lt;br&gt;&lt;br&gt;&lt;b&gt;&lt;i&gt;Alternate travel note:&lt;br&gt;&lt;/b&gt;&lt;/i&gt;[R] service is also available for 5 Av/59 St and Lexington Av/59 St. &lt;br&gt;Transfer between [N] and [R] at 57 St-7 Av.&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>11/28/2016</Date>
-    <Time> 9:52AM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>S</name>
@@ -80,11 +83,11 @@
     <text>
                     &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
                     &lt;br/&gt;
-                  &lt;a class="plannedWorkDetailLink" onclick=ShowHide(141680);&gt;&lt;b&gt;[SIR] Trains board at the Tottenville-bound platform from Grasmere to Tompkinsville Stations&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 141680 class="plannedWorkDetail" &gt;&lt;/b&gt;Day, 9 AM to 2 PM, Monday, Nov 28&lt;br&gt;&lt;br&gt;&amp;bull; Boarding change includes &lt;b&gt;Grasmere&lt;/b&gt;, &lt;b&gt;Clifton&lt;/b&gt;, &lt;b&gt;Stapleton&lt;/b&gt; and &lt;b&gt;Tompkinsville Stations&lt;/b&gt;. &lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+                  &lt;a class="plannedWorkDetailLink" onclick=ShowHide(141680);&gt;&lt;b&gt;[SIR] Trains board at the Tottenville-bound platform from Grasmere to Tompkinsville Stations&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 141680 class="plannedWorkDetail" &gt;&lt;/b&gt;Days, 9 AM to 3 PM, Mon to Wed, Nov 28 - 30&lt;br&gt;&lt;br&gt;&amp;bull; Boarding change includes &lt;b&gt;Grasmere&lt;/b&gt;, &lt;b&gt;Clifton&lt;/b&gt;, &lt;b&gt;Stapleton&lt;/b&gt; and &lt;b&gt;Tompkinsville Stations&lt;/b&gt;. &lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>11/28/2016</Date>
-    <Time> 9:52AM</Time>
+    <Time>10:02AM</Time>
   </line>
 </subway><bus>
   <line>
@@ -110,7 +113,7 @@
               &lt;br/&gt;
             </text>
     <Date>11/28/2016</Date>
-    <Time> 9:52AM</Time>
+    <Time>10:02AM</Time>
   </line>
   <line>
     <name>B100 - B103</name>
@@ -168,9 +171,15 @@
                 &lt;a class="plannedWorkDetailLink" onclick=ShowHide(133109);&gt;&lt;b&gt;BxM10 stop on Morris Park Av at Eastchester Rd temporarily closed &lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 133109 class="plannedWorkDetail" &gt;&lt;/b&gt;Until Oct 2018&lt;br&gt;&lt;br&gt;Due to construction, please use the nearby stop &lt;b&gt;on Eastchester Rd &lt;/b&gt;at Morris Park Av in both directions.&lt;br&gt;&lt;br&gt;&lt;b&gt;Reminder&lt;/b&gt;: &lt;a href=http://web.mta.info/nyct/bus/schedule/xpress/bxm10cur.pdf target=_blank&gt;&lt;font color=#0000FF&gt;&lt;b&gt;&lt;u&gt;BxM10&lt;/u&gt;&lt;/b&gt;&lt;/font&gt;&lt;/a&gt; buses do not operate overnight.&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
               &lt;br/&gt;
               &lt;br/&gt;
+            
+                  &lt;span class="TitlePlannedWork" &gt;Planned Detour&lt;/span&gt;
+                  &lt;br/&gt;
+                &lt;a class="plannedWorkDetailLink" onclick=ShowHide(141381);&gt;&lt;b&gt;M5/M5 &lt;/b&gt;LTD&lt;b&gt;, M7, M104 and BxM2&lt;/b&gt; - &lt;b&gt;Northbound buses bypass the stop on Broadway at 63 St to 64 St &lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 141381 class="plannedWorkDetail" &gt;&lt;/b&gt;10 AM to 10 PM, Monday, Nov 28&lt;br&gt;&lt;br&gt;Due to a local event, please use nearby stops &lt;b&gt;on Broadway &lt;/b&gt;at 61 St or 66 St.&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
             </text>
     <Date>11/28/2016</Date>
-    <Time> 9:52AM</Time>
+    <Time>10:02AM</Time>
   </line>
   <line>
     <name>M1 - M116</name>
@@ -222,6 +231,12 @@
                   &lt;span class="TitlePlannedWork" &gt;Planned Detour&lt;/span&gt;
                   &lt;br/&gt;
                 &lt;a class="plannedWorkDetailLink" onclick=ShowHide(141380);&gt;&lt;b&gt;M7, M11 and M20&lt;/b&gt; - &lt;b&gt;Southbound buses bypass the stop on Columbus Av at 66 St to 65 St&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 141380 class="plannedWorkDetail" &gt;&lt;/b&gt;8 AM to 10 PM, Monday, Nov 28&lt;br&gt;&lt;br&gt;Due to a local event, please use the nearby stop &lt;b&gt;on Columbus Av &lt;/b&gt;at 63 St.&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
+                  &lt;span class="TitlePlannedWork" &gt;Planned Detour&lt;/span&gt;
+                  &lt;br/&gt;
+                &lt;a class="plannedWorkDetailLink" onclick=ShowHide(141381);&gt;&lt;b&gt;M5/M5 &lt;/b&gt;LTD&lt;b&gt;, M7, M104 and BxM2&lt;/b&gt; - &lt;b&gt;Northbound buses bypass the stop on Broadway at 63 St to 64 St &lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 141381 class="plannedWorkDetail" &gt;&lt;/b&gt;10 AM to 10 PM, Monday, Nov 28&lt;br&gt;&lt;br&gt;Due to a local event, please use nearby stops &lt;b&gt;on Broadway &lt;/b&gt;at 61 St or 66 St.&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
               &lt;br/&gt;
               &lt;br/&gt;
             
@@ -364,7 +379,7 @@
               &lt;br/&gt;
             </text>
     <Date>11/28/2016</Date>
-    <Time> 9:52AM</Time>
+    <Time>10:02AM</Time>
   </line>
   <line>
     <name>S40 - S98</name>
@@ -390,7 +405,7 @@
               &lt;br/&gt;
             </text>
     <Date>11/28/2016</Date>
-    <Time> 9:52AM</Time>
+    <Time>10:02AM</Time>
   </line>
 </bus><BT>
   <line>
