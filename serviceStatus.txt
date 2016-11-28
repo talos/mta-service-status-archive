@@ -668,10 +668,17 @@ local stops to Port Jefferson
   </line>
   <line>
     <name>New Haven</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>DELAYS</status>
+    <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;11/28/2016&amp;nbsp; 6:53PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  New Haven Line Customers are currently experiencing delays of 5 to 10 minutes due to speed restrictions in the vicinity of Larchmont and Harrison. Please listen for announcements at your station.
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>11/28/2016</Date>
+    <Time> 6:53PM</Time>
   </line>
   <line>
     <name>New Canaan</name>
