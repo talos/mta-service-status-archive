@@ -8,10 +8,18 @@
   </line>
   <line>
     <name>456</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>SERVICE CHANGE</status>
+    <text>
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;11/29/2016&amp;nbsp; 9:16AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;P&gt;Due to NYPD activity, [4], [5] and [6] trains are bypassing &lt;STRONG&gt;125 St&lt;/STRONG&gt; in both directions.&lt;/P&gt;
+&lt;P&gt;Allow additional travel time.&lt;/P&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>11/29/2016</Date>
+    <Time> 9:16AM</Time>
   </line>
   <line>
     <name>7</name>
@@ -419,17 +427,10 @@
   </line>
   <line>
     <name>Throgs Neck</name>
-    <status>DELAYS</status>
-    <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;11/29/2016&amp;nbsp; 8:40AM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  TNB: Accident; Exit 9 blocked. Expect possible delays
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>11/29/2016</Date>
-    <Time> 8:40AM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>Verrazano-Narrows</name>
