@@ -1,10 +1,18 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>DELAYS</status>
+    <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;11/29/2016&amp;nbsp; 3:12PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;P&gt;Due to signal problems at&lt;STRONG&gt; 219 St&lt;/STRONG&gt;, southbound [2] trains are running with delays. &lt;/P&gt;
+&lt;P&gt;Allow additional travel time.&lt;/P&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>11/29/2016</Date>
+    <Time> 3:12PM</Time>
   </line>
   <line>
     <name>456</name>
@@ -206,7 +214,7 @@
               &lt;br/&gt;
             </text>
     <Date>11/29/2016</Date>
-    <Time> 3:07PM</Time>
+    <Time> 3:12PM</Time>
   </line>
   <line>
     <name>BXM1 - BXM18</name>
@@ -219,7 +227,7 @@
               &lt;br/&gt;
             </text>
     <Date>11/29/2016</Date>
-    <Time> 3:07PM</Time>
+    <Time> 3:12PM</Time>
   </line>
   <line>
     <name>M1 - M116</name>
@@ -477,7 +485,7 @@
                     &lt;span class="DateStyle"&gt;
                     &amp;nbsp;Posted:&amp;nbsp;11/29/2016&amp;nbsp; 2:56PM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  RFK: DISABLED VEHICLE; BRONX / MANHATTAN-BOUND; ONE LANE BLOCKED. EXPECT DELAYS.
+                  RFK: DISABLED VEHICLE; BRONX / MANHATTAN-BOUND; TWO LANES BLOCKED. EXPECT DELAYS.
                 &lt;br/&gt;&lt;br/&gt;
               
                     &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
@@ -551,6 +559,13 @@
     <text>
                     &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;11/29/2016&amp;nbsp; 3:12PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  The 3:03PM train from Jamaica due Patchogue at 4:10PM is held prior to departure due to switch trouble near Queens Village.
+                &lt;br/&gt;&lt;br/&gt;
+              
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
                     &amp;nbsp;Posted:&amp;nbsp;11/29/2016&amp;nbsp; 1:48PM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
                   &lt;P&gt;&lt;STRONG&gt;&lt;U&gt;Eastbound:&lt;/U&gt;&lt;/STRONG&gt;&lt;/P&gt;
@@ -560,7 +575,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>11/29/2016</Date>
-    <Time> 1:48PM</Time>
+    <Time> 3:12PM</Time>
   </line>
   <line>
     <name>Oyster Bay</name>
