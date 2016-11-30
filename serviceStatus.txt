@@ -29,8 +29,18 @@
   </line>
   <line>
     <name>BDFM</name>
-    <status>DELAYS</status>
+    <status>SERVICE CHANGE</status>
     <text>
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;11/30/2016&amp;nbsp; 9:00AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;P&gt;Due to a sick passenger at &lt;STRONG&gt;34 St-Herald Sq&lt;/STRONG&gt;, the following service changes are in effect:&lt;/P&gt;
+&lt;P&gt;Southbound [M] trains are running on the [E] line from &lt;STRONG&gt;Queens Plaza&lt;/STRONG&gt; to&lt;STRONG&gt; W 4 St-Washington Sq&lt;/STRONG&gt;.&lt;/P&gt;
+&lt;P&gt;Southbound [F] trains are running express from &lt;STRONG&gt;34 St-Herald Sq&lt;/STRONG&gt; to &lt;STRONG&gt;W 4 St-Washington Sq&lt;/STRONG&gt;.&lt;/P&gt;
+&lt;P&gt;Allow additional travel time.&lt;/P&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              
                     &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
                     &amp;nbsp;Posted:&amp;nbsp;11/30/2016&amp;nbsp; 8:16AM
@@ -38,16 +48,9 @@
                   &lt;P&gt;Due to signal problems at &lt;STRONG&gt;Church Av&lt;/STRONG&gt;, northbound [F] and [G] trains are running with delays.&lt;/P&gt;
 &lt;P&gt;Allow additional travel time. &lt;/P&gt;
                 &lt;br/&gt;&lt;br/&gt;
-              
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;11/30/2016&amp;nbsp; 8:04AM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  Following an earlier incident at&lt;STRONG&gt; Coney Island-Stillwell Av Yard&lt;/STRONG&gt;, [B], [N] and [Q] train service has resumed with delays.
-                &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>11/30/2016</Date>
-    <Time> 8:16AM</Time>
+    <Time> 9:00AM</Time>
   </line>
   <line>
     <name>G</name>
@@ -80,22 +83,15 @@
   </line>
   <line>
     <name>NQR</name>
-    <status>DELAYS</status>
+    <status>PLANNED WORK</status>
     <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;11/30/2016&amp;nbsp; 8:04AM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  Following an earlier incident at&lt;STRONG&gt; Coney Island-Stillwell Av Yard&lt;/STRONG&gt;, [B], [N] and [Q] train service has resumed with delays.
-                &lt;br/&gt;&lt;br/&gt;
-              
                     &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
                     &lt;br/&gt;
                   &lt;a class="plannedWorkDetailLink" onclick=ShowHide(136878);&gt;&lt;b&gt;[N] The last stop for some uptown trains is 57 St-7 Av&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 136878 class="plannedWorkDetail" &gt;Rush Hours&lt;/b&gt;, 8:30 AM to 10 AM &lt;i&gt;and&lt;/i&gt; 4 PM to 6 PM, Mon to Fri, until Dec 30 &lt;i&gt;(except Dec 26)&lt;br&gt;&lt;br&gt;&lt;/i&gt;&lt;/font&gt;&amp;bull; Transfer at 57 St-7 Av to an Astoria-bound [N] or [W] to continue your trip.&lt;br&gt;&lt;br&gt;&lt;b&gt;&lt;i&gt;Alternate travel note:&lt;br&gt;&lt;/b&gt;&lt;/i&gt;[R] service is also available for 5 Av/59 St and Lexington Av/59 St. &lt;br&gt;Transfer between [N] and [R] at 57 St-7 Av.&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>11/30/2016</Date>
-    <Time> 8:04AM</Time>
+    <Time> 8:52AM</Time>
   </line>
   <line>
     <name>S</name>
@@ -606,17 +602,10 @@
 </LIRR><MetroNorth>
   <line>
     <name>Hudson</name>
-    <status>DELAYS</status>
-    <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;11/30/2016&amp;nbsp; 8:36AM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  Hudson Line Service is currently experiencing residual delays of approximately 10 to 15 minutes due to earlier signal problems in the vicinity of Morris Heights. Please listen for announcements at your station.
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>11/30/2016</Date>
-    <Time> 8:36AM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>Harlem</name>
