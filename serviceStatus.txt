@@ -1,19 +1,18 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>SERVICE CHANGE</status>
+    <status>DELAYS</status>
     <text>
-                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;12/01/2016&amp;nbsp; 6:43AM
+                    &amp;nbsp;Posted:&amp;nbsp;12/01/2016&amp;nbsp; 7:16AM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  &lt;P&gt;Due to signal problems at &lt;STRONG&gt;Times Sq-42 St&lt;/STRONG&gt;, some northbound [1] trains are running express from &lt;STRONG&gt;Times Sq-42 St&lt;/STRONG&gt; to &lt;STRONG&gt;72 St&lt;/STRONG&gt;. &lt;/P&gt;
-&lt;P&gt;Expect delays in northbound [2] and [3] train service.&lt;/P&gt;
+                  &lt;P&gt;Due to signal problems at &lt;STRONG&gt;Times Sq-42 St&lt;/STRONG&gt;, northbound [1] trains are running with delays. &lt;/P&gt;
 &lt;P&gt;Allow additional travel time.&lt;/P&gt;
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>12/01/2016</Date>
-    <Time> 6:43AM</Time>
+    <Time> 7:16AM</Time>
   </line>
   <line>
     <name>456</name>
@@ -112,6 +111,17 @@
     <text>
                   &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                   &lt;span class="DateStyle"&gt;
+                  &amp;nbsp;Posted:&amp;nbsp;12/01/2016&amp;nbsp; 7:15AM
+                  &lt;/span&gt;
+                  &lt;br/&gt;
+                  &lt;br/&gt;
+                &lt;P&gt;&lt;STRONG&gt;B6, B6Ltd, B17, B42, B60&lt;/STRONG&gt; and &lt;STRONG&gt;B82&lt;/STRONG&gt; buses are running with delays in both directions, due to constriction on Rockaway Pkwy and Glenwood Rd. &lt;/P&gt;
+&lt;P&gt;Allow additional travel time.&lt;/P&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
+                  &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                  &lt;span class="DateStyle"&gt;
                   &amp;nbsp;Posted:&amp;nbsp;12/01/2016&amp;nbsp; 7:03AM
                   &lt;/span&gt;
                   &lt;br/&gt;
@@ -152,7 +162,7 @@
               &lt;br/&gt;
             </text>
     <Date>12/01/2016</Date>
-    <Time> 7:03AM</Time>
+    <Time> 7:15AM</Time>
   </line>
   <line>
     <name>B100 - B103</name>
