@@ -94,7 +94,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>12/15/2016</Date>
-    <Time>12:02PM</Time>
+    <Time>12:07PM</Time>
   </line>
   <line>
     <name>G</name>
@@ -113,7 +113,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>12/15/2016</Date>
-    <Time>12:02PM</Time>
+    <Time>12:07PM</Time>
   </line>
   <line>
     <name>L</name>
@@ -124,10 +124,15 @@
   </line>
   <line>
     <name>NQR</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>PLANNED WORK</status>
+    <text>
+                    &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
+                    &lt;br/&gt;
+                  &lt;a class="plannedWorkDetailLink" onclick=ShowHide(140054);&gt;&lt;b&gt;[N] [W] Astoria-bound trains skip 39 Av, 36 Av, Broadway and 30 Av&lt;br clear=left&gt;[W] Trains run every 20 minutes&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 140054 class="plannedWorkDetail" &gt;&lt;/b&gt;Days, 10:15 AM to 3 PM, Thu &lt;i&gt;and&lt;/i&gt; Fri, Dec 15 - 16&lt;br&gt;&lt;br&gt;For service&lt;i&gt; to&lt;/i&gt; these stations, take the [N] or [W] to Astoria Blvd and transfer to a &lt;br&gt;Manhattan-bound [N] or [W].&lt;br&gt;&lt;br&gt;For service&lt;i&gt; from &lt;/i&gt;these stations, take the [N] or [W] to Queensboro Plaza and transfer to an&lt;br&gt;Astoria-bound [N] or [W].&lt;br&gt;&lt;br&gt;&amp;bull; Please allow additional travel time.&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>12/15/2016</Date>
+    <Time>12:07PM</Time>
   </line>
   <line>
     <name>S</name>
@@ -146,7 +151,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>12/15/2016</Date>
-    <Time>12:02PM</Time>
+    <Time>12:07PM</Time>
   </line>
 </subway><bus>
   <line>
@@ -229,7 +234,7 @@
               &lt;br/&gt;
             </text>
     <Date>12/15/2016</Date>
-    <Time>12:02PM</Time>
+    <Time>12:07PM</Time>
   </line>
   <line>
     <name>BXM1 - BXM18</name>
@@ -248,7 +253,7 @@
               &lt;br/&gt;
             </text>
     <Date>12/15/2016</Date>
-    <Time>12:02PM</Time>
+    <Time>12:07PM</Time>
   </line>
   <line>
     <name>M1 - M116</name>
@@ -333,8 +338,22 @@
   </line>
   <line>
     <name>Q1 - Q113</name>
-    <status>DELAYS</status>
+    <status>SERVICE CHANGE</status>
     <text>
+                  &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                  &lt;span class="DateStyle"&gt;
+                  &amp;nbsp;Posted:&amp;nbsp;12/15/2016&amp;nbsp;12:07PM
+                  &lt;/span&gt;
+                  &lt;br/&gt;
+                  &lt;br/&gt;
+                &lt;P&gt;&lt;STRONG&gt;Q67&lt;/STRONG&gt; buses are detoured, due to construction on 42 Rd between Jackson Av and 28 St. &lt;/P&gt;
+&lt;P&gt;Detour is as follows:&lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;Q67 Westbound&lt;/STRONG&gt;: Via 44 Dr, left on 23 St, right on Queens Plaza S, right on Jackson Av and regular route.&lt;/P&gt;
+&lt;P&gt;Corresponding stops will be made along detour route.&lt;/P&gt;
+&lt;P&gt;Allow additional travel time.&lt;/P&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
                   &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                   &lt;span class="DateStyle"&gt;
                   &amp;nbsp;Posted:&amp;nbsp;12/15/2016&amp;nbsp;12:05PM
@@ -356,20 +375,6 @@
               &lt;br/&gt;
               &lt;br/&gt;
             
-                  &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
-                  &lt;span class="DateStyle"&gt;
-                  &amp;nbsp;Posted:&amp;nbsp;12/15/2016&amp;nbsp;10:11AM
-                  &lt;/span&gt;
-                  &lt;br/&gt;
-                  &lt;br/&gt;
-                &lt;P&gt;&lt;STRONG&gt;Q67&lt;/STRONG&gt; buses are detoured, due to construction on 42 Rd between Jackson Av and 28 St. &lt;/P&gt;
-&lt;P&gt;Detour is as follows:&lt;/P&gt;
-&lt;P&gt;&lt;STRONG&gt;Q67 Westbound&lt;/STRONG&gt;: Via 44 Dr, left on 23 St, right on Queens Plaza S, right on Jackson Av and regular route.&lt;/P&gt;
-&lt;P&gt;Corresponding stops will be made along detour route.&lt;/P&gt;
-&lt;P&gt;Allow additional travel time.&lt;/P&gt;
-              &lt;br/&gt;
-              &lt;br/&gt;
-            
                   &lt;span class="TitlePlannedWork" &gt;Planned Detour&lt;/span&gt;
                   &lt;br/&gt;
                 &lt;a class="plannedWorkDetailLink" onclick=ShowHide(141359);&gt;&lt;b&gt;M1/M1&lt;/b&gt; LTD&lt;b&gt;, M4/M4 &lt;/b&gt;LTD and &lt;b&gt;Q32 South/Westbound &lt;/b&gt;-&lt;b&gt; Holiday bus stop changes in Midtown&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 141359 class="plannedWorkDetail" &gt;&lt;/b&gt;All times, until Saturday, Jan 7, 2017&lt;br&gt;&lt;br&gt;Buses will not stop on 5 Av at 49 St.  Please use the nearby stop &lt;b&gt;on 52 St &lt;/b&gt;instead.&lt;br&gt;Local buses also stop &lt;b&gt;on 46 St&lt;/b&gt;.    &lt;br&gt;&lt;br&gt;&lt;b&gt;Reminder&lt;/b&gt;: &lt;a href=http://web.mta.info/nyct/bus/schedule/manh/m001cur.pdf target=_blank&gt;&lt;font color=#0000FF&gt;&lt;b&gt;&lt;u&gt;M1 LTD&lt;/u&gt;&lt;/b&gt;&lt;/font&gt;&lt;a/&gt; and &lt;a href=http://web.mta.info/nyct/bus/schedule/manh/m004cur.pdf target=_blank&gt;&lt;font color=#0000FF&gt;&lt;b&gt;&lt;u&gt;M4 LTD&lt;/u&gt;&lt;/b&gt;&lt;/font&gt;&lt;a/&gt;&lt;b&gt; &lt;/b&gt;buses do not operate on weekends.&lt;br&gt;&lt;br&gt;&lt;b&gt;                                           [TP]&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
@@ -383,7 +388,7 @@
               &lt;br/&gt;
             </text>
     <Date>12/15/2016</Date>
-    <Time>12:05PM</Time>
+    <Time>12:07PM</Time>
   </line>
   <line>
     <name>QM1 - QM44</name>
@@ -408,7 +413,7 @@
               &lt;br/&gt;
             </text>
     <Date>12/15/2016</Date>
-    <Time>12:02PM</Time>
+    <Time>12:07PM</Time>
   </line>
   <line>
     <name>S40 - S98</name>
@@ -440,7 +445,7 @@
               &lt;br/&gt;
             </text>
     <Date>12/15/2016</Date>
-    <Time>12:02PM</Time>
+    <Time>12:07PM</Time>
   </line>
 </bus><BT>
   <line>
