@@ -1,17 +1,10 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>DELAYS</status>
-    <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;12/19/2016&amp;nbsp;10:33PM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  Following an earlier incident at &lt;STRONG&gt;Van Cortlandt Park-242 St&lt;/STRONG&gt;, [1] train service has resumed with delays.
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>12/19/2016</Date>
-    <Time>10:33PM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>456</name>
@@ -40,10 +33,9 @@
     <text>
                     &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;12/19/2016&amp;nbsp;10:02PM
+                    &amp;nbsp;Posted:&amp;nbsp;12/19/2016&amp;nbsp;10:50PM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  &lt;P&gt;Due to signal problems at &lt;STRONG&gt;Halsey St&lt;/STRONG&gt;, Broad St-bound [J] and 71 Av-bound [M] trains are running with delays. &lt;/P&gt;
-&lt;P&gt;Allow additional travel time.&lt;/P&gt;
+                  Following an earlier incident at &lt;STRONG&gt;Halsey St&lt;/STRONG&gt;, [J] and [M] train service has resumed with delays.
                 &lt;br/&gt;&lt;br/&gt;
               
                     &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
@@ -57,7 +49,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>12/19/2016</Date>
-    <Time>10:02PM</Time>
+    <Time>10:50PM</Time>
   </line>
   <line>
     <name>G</name>
@@ -72,14 +64,13 @@
     <text>
                     &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;12/19/2016&amp;nbsp;10:02PM
+                    &amp;nbsp;Posted:&amp;nbsp;12/19/2016&amp;nbsp;10:50PM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  &lt;P&gt;Due to signal problems at &lt;STRONG&gt;Halsey St&lt;/STRONG&gt;, Broad St-bound [J] and 71 Av-bound [M] trains are running with delays. &lt;/P&gt;
-&lt;P&gt;Allow additional travel time.&lt;/P&gt;
+                  Following an earlier incident at &lt;STRONG&gt;Halsey St&lt;/STRONG&gt;, [J] and [M] train service has resumed with delays.
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>12/19/2016</Date>
-    <Time>10:02PM</Time>
+    <Time>10:50PM</Time>
   </line>
   <line>
     <name>L</name>
@@ -145,7 +136,7 @@
               &lt;br/&gt;
             </text>
     <Date>12/19/2016</Date>
-    <Time>10:47PM</Time>
+    <Time>10:52PM</Time>
   </line>
   <line>
     <name>B100 - B103</name>
@@ -320,7 +311,7 @@
               &lt;br/&gt;
             </text>
     <Date>12/19/2016</Date>
-    <Time>10:47PM</Time>
+    <Time>10:52PM</Time>
   </line>
   <line>
     <name>S40 - S98</name>
@@ -352,7 +343,7 @@
               &lt;br/&gt;
             </text>
     <Date>12/19/2016</Date>
-    <Time>10:47PM</Time>
+    <Time>10:52PM</Time>
   </line>
 </bus><BT>
   <line>
