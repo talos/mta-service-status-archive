@@ -1,22 +1,15 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>DELAYS</status>
+    <status>PLANNED WORK</status>
     <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;12/20/2016&amp;nbsp;11:50AM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  Due to an earlier incident at &lt;STRONG&gt;135 St&lt;/STRONG&gt;, [2] and [3] train service has resumed with delays.
-                &lt;br/&gt;&lt;br/&gt;
-              
                     &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
                     &lt;br/&gt;
                   &lt;a class="plannedWorkDetailLink" onclick=ShowHide(141217);&gt;&lt;b&gt;[1] Van Cortlandt Park-bound trains skip 103, 110, 116, 125 and 137 Sts&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 141217 class="plannedWorkDetail" &gt;&lt;/b&gt;Days, 10:45 AM to 3 PM, Tue to Fri, Dec 20 - 23&lt;br&gt;&lt;br&gt;For service &lt;i&gt;to &lt;/i&gt;these stations, take the [1] to 168 St* and transfer to a South Ferry-bound [1].&lt;br&gt;&lt;br&gt;For service &lt;i&gt;from &lt;/i&gt;these stations, take the [1] to 96 St and transfer to a Van Cortlandt Park-bound [1].&lt;br&gt;&lt;br&gt;&lt;/font&gt;&lt;i&gt;*Transfer at 145 St with &lt;/i&gt;&lt;a href=http://web.mta.info/metrocard/mcgtreng.htm#unlimited target=_blank&gt;&lt;font color=#0000FF&gt;&lt;i&gt;&lt;b&gt;&lt;u&gt;Unlimited Ride MetroCard&lt;/i&gt;&lt;/u&gt;&lt;/b&gt;&lt;/font&gt;&lt;/a&gt;.&lt;/i&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;&lt;i&gt;Alternate travel note:&lt;br&gt;&lt;/b&gt;&lt;/i&gt;For service &lt;i&gt;to &lt;/i&gt;&lt;b&gt;103&lt;/b&gt;, &lt;b&gt;110&lt;/b&gt;, &lt;b&gt;116 &lt;/b&gt;and &lt;b&gt;125 Sts&lt;/b&gt;, transfer to the &lt;a href=http://web.mta.info/nyct/bus/schedule/manh/m104cur.pdf target=_blank&gt;&lt;font color=#0000FF&gt;&lt;b&gt;&lt;u&gt;M104&lt;/u&gt;&lt;/b&gt;&lt;/font&gt;&lt;/a&gt; bus at 96 St.&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>12/20/2016</Date>
-    <Time>11:50AM</Time>
+    <Time>12:02PM</Time>
   </line>
   <line>
     <name>456</name>
@@ -650,10 +643,18 @@ rail near New Hyde Park
   </line>
   <line>
     <name>Port Washington</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>DELAYS</status>
+    <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;12/20/2016&amp;nbsp;12:05PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;!--[if gte mso 9]&gt;&lt;xml&gt;    &lt;/xml&gt;&lt;![endif]--&gt;
+&lt;p&gt;The 11:14AM train from Port Washington due Penn at 11:58AM is operating 29 minutes late due to earlier signal trouble east of Woodside.&lt;/p&gt;&lt;!--[if gte mso 9]&gt;&lt;xml&gt;   Normal  0          false  false  false    EN-US  X-NONE  X-NONE                                                                    &lt;/xml&gt;&lt;![endif]--&gt;&lt;!--[if gte mso 9]&gt;&lt;xml&gt;                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        &lt;/xml&gt;&lt;![endif]--&gt;&lt;!--[if gte mso 10]&gt;&lt;style&gt; /* Style Definitions */ table.MsoNormalTable	{mso-style-name:"Table Normal";	mso-style-parent:"";	line-height:107%;	font-size:11.0pt;	font-family:"Calibri",sans-serif;}&lt;/style&gt;&lt;![endif]--&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>12/20/2016</Date>
+    <Time>12:05PM</Time>
   </line>
   <line>
     <name>Ronkonkoma</name>
