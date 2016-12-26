@@ -1,33 +1,17 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>SERVICE CHANGE</status>
-    <text>
-                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;12/26/2016&amp;nbsp; 3:23AM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  &lt;P&gt;Due to track maintenance at &lt;STRONG&gt;96 St,&lt;/STRONG&gt; northbound [1] and [2] trains are running express from &lt;STRONG&gt;72 St&lt;/STRONG&gt; to &lt;STRONG&gt;96 St.&lt;/STRONG&gt; &lt;/P&gt;
-&lt;P&gt;Allow additional travel time. &lt;/P&gt;
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>12/26/2016</Date>
-    <Time> 3:23AM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>456</name>
-    <status>SERVICE CHANGE</status>
-    <text>
-                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;12/26/2016&amp;nbsp; 2:32AM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  &lt;P&gt;Due to track maintenance at &lt;STRONG&gt;86 St,&lt;/STRONG&gt; northbound [4] and [6] trains are running express from &lt;STRONG&gt;Grand Central-42&lt;/STRONG&gt; &lt;STRONG&gt;St&lt;/STRONG&gt; to &lt;STRONG&gt;125 St.&lt;/STRONG&gt;&lt;/P&gt;
-&lt;P&gt;Allow additional travel time. &lt;/P&gt;
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>12/26/2016</Date>
-    <Time> 2:32AM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>7</name>
@@ -38,34 +22,30 @@
   </line>
   <line>
     <name>ACE</name>
-    <status>DELAYS</status>
+    <status>SERVICE CHANGE</status>
     <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;12/26/2016&amp;nbsp; 3:14AM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  Following an earlier incident at &lt;STRONG&gt;Clinton-Washington Avs&lt;/STRONG&gt;, [A] train service has resumed with extensive delays.
-                &lt;br/&gt;&lt;br/&gt;
-              
                     &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;12/26/2016&amp;nbsp; 2:04AM
+                    &amp;nbsp;Posted:&amp;nbsp;12/26/2016&amp;nbsp; 9:05AM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  &lt;P&gt;Due to a 3rd rail loss of power at &lt;B&gt;7 Av,&lt;/B&gt; the following service changes are in effect:&lt;/P&gt;
-&lt;P&gt;[D] trains are running on the [A] line between &lt;STRONG&gt;59 St-Columbus Circle&lt;/STRONG&gt; and &lt;STRONG&gt;Jay St-MetroTech&lt;/STRONG&gt; then over the [F] line from &lt;B&gt;Jay St-MetroTech&lt;/B&gt; and &lt;B&gt;Coney Island-Stillwell Av&lt;/B&gt; in both directions.&lt;B&gt; &lt;/P&gt;&lt;/B&gt;
-&lt;P&gt;There is no service on the [E] line between &lt;B&gt;World Trade Center&lt;/B&gt; and &lt;B&gt;Queens Plaza&lt;/B&gt; in both directions, [E] trains are running on the [R] line between &lt;B&gt;Queens Plaza&lt;/B&gt; and &lt;B&gt;Whitehall St&lt;/B&gt; in both directions. &lt;/P&gt;
-&lt;P&gt;[F] trains are running on the [R] line between &lt;B&gt;Jackson Heights-Roosevelt Av&lt;/B&gt; and &lt;B&gt;34 St Herald Square&lt;/B&gt;, then over the [Q] line between &lt;B&gt;34 St-Herald Square&lt;/B&gt; and &lt;B&gt;DeKalb Av&lt;/B&gt;, then over the [D] line between &lt;B&gt;Atlantic Av-Barclays Center&lt;/B&gt; and &lt;STRONG&gt;Coney Island-Stillwell Av&lt;/STRONG&gt; in both directions.&lt;/P&gt;
-&lt;P&gt;For &lt;B&gt;Broadway-Lafayette&lt;/B&gt; and &lt;B&gt;2 Av,&lt;/B&gt; take [E] trains to nearby &lt;B&gt;Prince St&lt;/B&gt;. &lt;/P&gt;
-&lt;P&gt;For &lt;B&gt;Delancey-Essex Sts, Grand St&lt;/B&gt; and &lt;B&gt;East Broadway&lt;/B&gt; stations, take [E] trains to &lt;B&gt;Canal St&lt;/B&gt; or [D] train service to&lt;STRONG&gt; Fulton St&lt;/STRONG&gt; for [J] train service to nearby&lt;B&gt; Bowery&lt;/B&gt; and &lt;B&gt;Essex St stations&lt;/B&gt;. &lt;/P&gt;
-&lt;P&gt;For &lt;B&gt;York St&lt;/B&gt;, use nearby &lt;B&gt;High St&lt;/B&gt; for [D] train service. &lt;/P&gt;
-&lt;P&gt;[R] trains are running between &lt;B&gt;Bay Ridge-95 St&lt;/B&gt; and &lt;B&gt;36 St(Bklyn)&lt;/B&gt; in both directions. &lt;/P&gt;
-&lt;P&gt;Shuttle bus service is available between &lt;B&gt;Queens Plaza&lt;/B&gt; and &lt;B&gt;Roosevelt Island Stations.&lt;/B&gt; &lt;/P&gt;
-&lt;P&gt;As an alternative,  for service between Queens and Manhattan, use [7] and [N] train service.&lt;/P&gt;
+                  &lt;P&gt;Due to a third rail loss of power at &lt;STRONG&gt;7 Av &lt;/STRONG&gt;(Manhattan), the following service changes are in effect:&lt;/P&gt;
+&lt;P&gt;[F] train service has resumed between &lt;STRONG&gt;Coney Island-Stillwell Av&lt;/STRONG&gt; and &lt;STRONG&gt;Jamaica-179 St &lt;/STRONG&gt;in both directions with extensive delays.&lt;/P&gt;
+&lt;P&gt;There is no [D] train service between &lt;STRONG&gt;47-50 Sts-Rockefeller Ctr&lt;/STRONG&gt; and &lt;STRONG&gt;W 4 St-Washington Sq&lt;/STRONG&gt; in both directions. (&lt;U&gt;Reminder:&lt;/U&gt; Today, trains run on a holiday schedule, no [B] trains running, [M] trains operate between &lt;STRONG&gt;Delancey St-Essex St&lt;/STRONG&gt; and &lt;STRONG&gt;Middle Village-Metropolitan Av&lt;/STRONG&gt;.)&lt;/P&gt;
+&lt;P&gt;There is no service on the [E] line between &lt;B&gt;World Trade Center&lt;/B&gt; and &lt;B&gt;Queens Plaza&lt;/B&gt; in both directions.&lt;/P&gt;
+&lt;P&gt;[D] trains are running on the [A] line between &lt;STRONG&gt;59 St-Columbus Circle&lt;/STRONG&gt; and &lt;STRONG&gt;West 4 St-Washington Square&lt;/STRONG&gt;, then over the [F] line between &lt;STRONG&gt;Broadway-Lafayette St&lt;/STRONG&gt; and &lt;B&gt;Coney Island-Stillwell Av&lt;/B&gt; in both directions.&lt;B&gt; &lt;/B&gt;&lt;/P&gt;
+&lt;P&gt;[E] trains are running on the [R] line between &lt;B&gt;Queens Plaza&lt;/B&gt; and &lt;B&gt;Whitehall St&lt;/B&gt; in both directions. &lt;/P&gt;
+&lt;P&gt;[SB]Shuttle bus service is available between &lt;B&gt;Queens Plaza&lt;/B&gt; and &lt;STRONG&gt;Roosevelt Island&lt;/STRONG&gt; stations. &lt;/P&gt;
+&lt;P&gt;For &lt;STRONG&gt;Court Square-23 St,&lt;/STRONG&gt; take [7] train service instead. &lt;/P&gt;
+&lt;P&gt;For &lt;STRONG&gt;Lexington Av-53 St&lt;/STRONG&gt; and &lt;STRONG&gt;5 Av-53 St&lt;/STRONG&gt;, take [E] or [F] trains to &lt;STRONG&gt;Lexington Av-59 St&lt;/STRONG&gt; and transfer to the [6] train to nearby &lt;STRONG&gt;51 St&lt;/STRONG&gt; station. &lt;/P&gt;
+&lt;P&gt;For &lt;STRONG&gt;57 St&lt;/STRONG&gt;, &lt;STRONG&gt;7 Av,&lt;/STRONG&gt; and &lt;STRONG&gt;42 St-Bryant Park&lt;/STRONG&gt;, take [E] trains stopping at nearby [N] line stations. &lt;/P&gt;
+&lt;P&gt;For &lt;B&gt;Grand St&lt;/B&gt; station, take [D] trains stopping at nearby &lt;STRONG&gt;East Broadway&lt;/STRONG&gt; [F] station. &lt;/P&gt;
+&lt;P&gt;As an alternative, for service between Queens and Manhattan, use [7] and [N] train service.&lt;/P&gt;
+&lt;P&gt;Expect delays on [A], [D], [E], [F], [N], [Q] and [R] trains.  &lt;/P&gt;
 &lt;P&gt;Allow additional travel time. &lt;/P&gt;
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>12/26/2016</Date>
-    <Time> 3:14AM</Time>
+    <Time> 9:05AM</Time>
   </line>
   <line>
     <name>BDFM</name>
@@ -73,23 +53,26 @@
     <text>
                     &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;12/26/2016&amp;nbsp; 2:04AM
+                    &amp;nbsp;Posted:&amp;nbsp;12/26/2016&amp;nbsp; 9:05AM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  &lt;P&gt;Due to a 3rd rail loss of power at &lt;B&gt;7 Av,&lt;/B&gt; the following service changes are in effect:&lt;/P&gt;
-&lt;P&gt;[D] trains are running on the [A] line between &lt;STRONG&gt;59 St-Columbus Circle&lt;/STRONG&gt; and &lt;STRONG&gt;Jay St-MetroTech&lt;/STRONG&gt; then over the [F] line from &lt;B&gt;Jay St-MetroTech&lt;/B&gt; and &lt;B&gt;Coney Island-Stillwell Av&lt;/B&gt; in both directions.&lt;B&gt; &lt;/P&gt;&lt;/B&gt;
-&lt;P&gt;There is no service on the [E] line between &lt;B&gt;World Trade Center&lt;/B&gt; and &lt;B&gt;Queens Plaza&lt;/B&gt; in both directions, [E] trains are running on the [R] line between &lt;B&gt;Queens Plaza&lt;/B&gt; and &lt;B&gt;Whitehall St&lt;/B&gt; in both directions. &lt;/P&gt;
-&lt;P&gt;[F] trains are running on the [R] line between &lt;B&gt;Jackson Heights-Roosevelt Av&lt;/B&gt; and &lt;B&gt;34 St Herald Square&lt;/B&gt;, then over the [Q] line between &lt;B&gt;34 St-Herald Square&lt;/B&gt; and &lt;B&gt;DeKalb Av&lt;/B&gt;, then over the [D] line between &lt;B&gt;Atlantic Av-Barclays Center&lt;/B&gt; and &lt;STRONG&gt;Coney Island-Stillwell Av&lt;/STRONG&gt; in both directions.&lt;/P&gt;
-&lt;P&gt;For &lt;B&gt;Broadway-Lafayette&lt;/B&gt; and &lt;B&gt;2 Av,&lt;/B&gt; take [E] trains to nearby &lt;B&gt;Prince St&lt;/B&gt;. &lt;/P&gt;
-&lt;P&gt;For &lt;B&gt;Delancey-Essex Sts, Grand St&lt;/B&gt; and &lt;B&gt;East Broadway&lt;/B&gt; stations, take [E] trains to &lt;B&gt;Canal St&lt;/B&gt; or [D] train service to&lt;STRONG&gt; Fulton St&lt;/STRONG&gt; for [J] train service to nearby&lt;B&gt; Bowery&lt;/B&gt; and &lt;B&gt;Essex St stations&lt;/B&gt;. &lt;/P&gt;
-&lt;P&gt;For &lt;B&gt;York St&lt;/B&gt;, use nearby &lt;B&gt;High St&lt;/B&gt; for [D] train service. &lt;/P&gt;
-&lt;P&gt;[R] trains are running between &lt;B&gt;Bay Ridge-95 St&lt;/B&gt; and &lt;B&gt;36 St(Bklyn)&lt;/B&gt; in both directions. &lt;/P&gt;
-&lt;P&gt;Shuttle bus service is available between &lt;B&gt;Queens Plaza&lt;/B&gt; and &lt;B&gt;Roosevelt Island Stations.&lt;/B&gt; &lt;/P&gt;
-&lt;P&gt;As an alternative,  for service between Queens and Manhattan, use [7] and [N] train service.&lt;/P&gt;
+                  &lt;P&gt;Due to a third rail loss of power at &lt;STRONG&gt;7 Av &lt;/STRONG&gt;(Manhattan), the following service changes are in effect:&lt;/P&gt;
+&lt;P&gt;[F] train service has resumed between &lt;STRONG&gt;Coney Island-Stillwell Av&lt;/STRONG&gt; and &lt;STRONG&gt;Jamaica-179 St &lt;/STRONG&gt;in both directions with extensive delays.&lt;/P&gt;
+&lt;P&gt;There is no [D] train service between &lt;STRONG&gt;47-50 Sts-Rockefeller Ctr&lt;/STRONG&gt; and &lt;STRONG&gt;W 4 St-Washington Sq&lt;/STRONG&gt; in both directions. (&lt;U&gt;Reminder:&lt;/U&gt; Today, trains run on a holiday schedule, no [B] trains running, [M] trains operate between &lt;STRONG&gt;Delancey St-Essex St&lt;/STRONG&gt; and &lt;STRONG&gt;Middle Village-Metropolitan Av&lt;/STRONG&gt;.)&lt;/P&gt;
+&lt;P&gt;There is no service on the [E] line between &lt;B&gt;World Trade Center&lt;/B&gt; and &lt;B&gt;Queens Plaza&lt;/B&gt; in both directions.&lt;/P&gt;
+&lt;P&gt;[D] trains are running on the [A] line between &lt;STRONG&gt;59 St-Columbus Circle&lt;/STRONG&gt; and &lt;STRONG&gt;West 4 St-Washington Square&lt;/STRONG&gt;, then over the [F] line between &lt;STRONG&gt;Broadway-Lafayette St&lt;/STRONG&gt; and &lt;B&gt;Coney Island-Stillwell Av&lt;/B&gt; in both directions.&lt;B&gt; &lt;/B&gt;&lt;/P&gt;
+&lt;P&gt;[E] trains are running on the [R] line between &lt;B&gt;Queens Plaza&lt;/B&gt; and &lt;B&gt;Whitehall St&lt;/B&gt; in both directions. &lt;/P&gt;
+&lt;P&gt;[SB]Shuttle bus service is available between &lt;B&gt;Queens Plaza&lt;/B&gt; and &lt;STRONG&gt;Roosevelt Island&lt;/STRONG&gt; stations. &lt;/P&gt;
+&lt;P&gt;For &lt;STRONG&gt;Court Square-23 St,&lt;/STRONG&gt; take [7] train service instead. &lt;/P&gt;
+&lt;P&gt;For &lt;STRONG&gt;Lexington Av-53 St&lt;/STRONG&gt; and &lt;STRONG&gt;5 Av-53 St&lt;/STRONG&gt;, take [E] or [F] trains to &lt;STRONG&gt;Lexington Av-59 St&lt;/STRONG&gt; and transfer to the [6] train to nearby &lt;STRONG&gt;51 St&lt;/STRONG&gt; station. &lt;/P&gt;
+&lt;P&gt;For &lt;STRONG&gt;57 St&lt;/STRONG&gt;, &lt;STRONG&gt;7 Av,&lt;/STRONG&gt; and &lt;STRONG&gt;42 St-Bryant Park&lt;/STRONG&gt;, take [E] trains stopping at nearby [N] line stations. &lt;/P&gt;
+&lt;P&gt;For &lt;B&gt;Grand St&lt;/B&gt; station, take [D] trains stopping at nearby &lt;STRONG&gt;East Broadway&lt;/STRONG&gt; [F] station. &lt;/P&gt;
+&lt;P&gt;As an alternative, for service between Queens and Manhattan, use [7] and [N] train service.&lt;/P&gt;
+&lt;P&gt;Expect delays on [A], [D], [E], [F], [N], [Q] and [R] trains.  &lt;/P&gt;
 &lt;P&gt;Allow additional travel time. &lt;/P&gt;
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>12/26/2016</Date>
-    <Time> 2:04AM</Time>
+    <Time> 9:05AM</Time>
   </line>
   <line>
     <name>G</name>
@@ -118,23 +101,26 @@
     <text>
                     &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;12/26/2016&amp;nbsp; 2:04AM
+                    &amp;nbsp;Posted:&amp;nbsp;12/26/2016&amp;nbsp; 9:05AM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  &lt;P&gt;Due to a 3rd rail loss of power at &lt;B&gt;7 Av,&lt;/B&gt; the following service changes are in effect:&lt;/P&gt;
-&lt;P&gt;[D] trains are running on the [A] line between &lt;STRONG&gt;59 St-Columbus Circle&lt;/STRONG&gt; and &lt;STRONG&gt;Jay St-MetroTech&lt;/STRONG&gt; then over the [F] line from &lt;B&gt;Jay St-MetroTech&lt;/B&gt; and &lt;B&gt;Coney Island-Stillwell Av&lt;/B&gt; in both directions.&lt;B&gt; &lt;/P&gt;&lt;/B&gt;
-&lt;P&gt;There is no service on the [E] line between &lt;B&gt;World Trade Center&lt;/B&gt; and &lt;B&gt;Queens Plaza&lt;/B&gt; in both directions, [E] trains are running on the [R] line between &lt;B&gt;Queens Plaza&lt;/B&gt; and &lt;B&gt;Whitehall St&lt;/B&gt; in both directions. &lt;/P&gt;
-&lt;P&gt;[F] trains are running on the [R] line between &lt;B&gt;Jackson Heights-Roosevelt Av&lt;/B&gt; and &lt;B&gt;34 St Herald Square&lt;/B&gt;, then over the [Q] line between &lt;B&gt;34 St-Herald Square&lt;/B&gt; and &lt;B&gt;DeKalb Av&lt;/B&gt;, then over the [D] line between &lt;B&gt;Atlantic Av-Barclays Center&lt;/B&gt; and &lt;STRONG&gt;Coney Island-Stillwell Av&lt;/STRONG&gt; in both directions.&lt;/P&gt;
-&lt;P&gt;For &lt;B&gt;Broadway-Lafayette&lt;/B&gt; and &lt;B&gt;2 Av,&lt;/B&gt; take [E] trains to nearby &lt;B&gt;Prince St&lt;/B&gt;. &lt;/P&gt;
-&lt;P&gt;For &lt;B&gt;Delancey-Essex Sts, Grand St&lt;/B&gt; and &lt;B&gt;East Broadway&lt;/B&gt; stations, take [E] trains to &lt;B&gt;Canal St&lt;/B&gt; or [D] train service to&lt;STRONG&gt; Fulton St&lt;/STRONG&gt; for [J] train service to nearby&lt;B&gt; Bowery&lt;/B&gt; and &lt;B&gt;Essex St stations&lt;/B&gt;. &lt;/P&gt;
-&lt;P&gt;For &lt;B&gt;York St&lt;/B&gt;, use nearby &lt;B&gt;High St&lt;/B&gt; for [D] train service. &lt;/P&gt;
-&lt;P&gt;[R] trains are running between &lt;B&gt;Bay Ridge-95 St&lt;/B&gt; and &lt;B&gt;36 St(Bklyn)&lt;/B&gt; in both directions. &lt;/P&gt;
-&lt;P&gt;Shuttle bus service is available between &lt;B&gt;Queens Plaza&lt;/B&gt; and &lt;B&gt;Roosevelt Island Stations.&lt;/B&gt; &lt;/P&gt;
-&lt;P&gt;As an alternative,  for service between Queens and Manhattan, use [7] and [N] train service.&lt;/P&gt;
+                  &lt;P&gt;Due to a third rail loss of power at &lt;STRONG&gt;7 Av &lt;/STRONG&gt;(Manhattan), the following service changes are in effect:&lt;/P&gt;
+&lt;P&gt;[F] train service has resumed between &lt;STRONG&gt;Coney Island-Stillwell Av&lt;/STRONG&gt; and &lt;STRONG&gt;Jamaica-179 St &lt;/STRONG&gt;in both directions with extensive delays.&lt;/P&gt;
+&lt;P&gt;There is no [D] train service between &lt;STRONG&gt;47-50 Sts-Rockefeller Ctr&lt;/STRONG&gt; and &lt;STRONG&gt;W 4 St-Washington Sq&lt;/STRONG&gt; in both directions. (&lt;U&gt;Reminder:&lt;/U&gt; Today, trains run on a holiday schedule, no [B] trains running, [M] trains operate between &lt;STRONG&gt;Delancey St-Essex St&lt;/STRONG&gt; and &lt;STRONG&gt;Middle Village-Metropolitan Av&lt;/STRONG&gt;.)&lt;/P&gt;
+&lt;P&gt;There is no service on the [E] line between &lt;B&gt;World Trade Center&lt;/B&gt; and &lt;B&gt;Queens Plaza&lt;/B&gt; in both directions.&lt;/P&gt;
+&lt;P&gt;[D] trains are running on the [A] line between &lt;STRONG&gt;59 St-Columbus Circle&lt;/STRONG&gt; and &lt;STRONG&gt;West 4 St-Washington Square&lt;/STRONG&gt;, then over the [F] line between &lt;STRONG&gt;Broadway-Lafayette St&lt;/STRONG&gt; and &lt;B&gt;Coney Island-Stillwell Av&lt;/B&gt; in both directions.&lt;B&gt; &lt;/B&gt;&lt;/P&gt;
+&lt;P&gt;[E] trains are running on the [R] line between &lt;B&gt;Queens Plaza&lt;/B&gt; and &lt;B&gt;Whitehall St&lt;/B&gt; in both directions. &lt;/P&gt;
+&lt;P&gt;[SB]Shuttle bus service is available between &lt;B&gt;Queens Plaza&lt;/B&gt; and &lt;STRONG&gt;Roosevelt Island&lt;/STRONG&gt; stations. &lt;/P&gt;
+&lt;P&gt;For &lt;STRONG&gt;Court Square-23 St,&lt;/STRONG&gt; take [7] train service instead. &lt;/P&gt;
+&lt;P&gt;For &lt;STRONG&gt;Lexington Av-53 St&lt;/STRONG&gt; and &lt;STRONG&gt;5 Av-53 St&lt;/STRONG&gt;, take [E] or [F] trains to &lt;STRONG&gt;Lexington Av-59 St&lt;/STRONG&gt; and transfer to the [6] train to nearby &lt;STRONG&gt;51 St&lt;/STRONG&gt; station. &lt;/P&gt;
+&lt;P&gt;For &lt;STRONG&gt;57 St&lt;/STRONG&gt;, &lt;STRONG&gt;7 Av,&lt;/STRONG&gt; and &lt;STRONG&gt;42 St-Bryant Park&lt;/STRONG&gt;, take [E] trains stopping at nearby [N] line stations. &lt;/P&gt;
+&lt;P&gt;For &lt;B&gt;Grand St&lt;/B&gt; station, take [D] trains stopping at nearby &lt;STRONG&gt;East Broadway&lt;/STRONG&gt; [F] station. &lt;/P&gt;
+&lt;P&gt;As an alternative, for service between Queens and Manhattan, use [7] and [N] train service.&lt;/P&gt;
+&lt;P&gt;Expect delays on [A], [D], [E], [F], [N], [Q] and [R] trains.  &lt;/P&gt;
 &lt;P&gt;Allow additional travel time. &lt;/P&gt;
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>12/26/2016</Date>
-    <Time> 2:04AM</Time>
+    <Time> 9:05AM</Time>
   </line>
   <line>
     <name>S</name>
@@ -157,6 +143,12 @@
     <text>
                   &lt;span class="TitlePlannedWork" &gt;Planned Detour&lt;/span&gt;
                   &lt;br/&gt;
+                &lt;a class="plannedWorkDetailLink" onclick=ShowHide(117571);&gt;&lt;b&gt;B9 buses may experience delays due to track work on the N line between Stillwell Av and 8 Av &lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 117571 class="plannedWorkDetail" &gt;&lt;/b&gt;Until further notice&lt;br&gt;&lt;br&gt;&amp;bull; Please allow additional travel time.&lt;br&gt;&lt;/font&gt;&lt;b&gt;          &lt;/b&gt;&lt;/font&gt;&lt;a href=http://bustime.mta.info/#b9 target=_blank&gt;&lt;img height=30px src=http://web.mta.info/nyct/images/Bus_Time_logo.png&gt;&lt;/a&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
+                  &lt;span class="TitlePlannedWork" &gt;Planned Detour&lt;/span&gt;
+                  &lt;br/&gt;
                 &lt;a class="plannedWorkDetailLink" onclick=ShowHide(141960);&gt;&lt;b&gt;B25 and B26&lt;/b&gt; - &lt;b&gt;Eastbound stop on Fulton St at Vanderbilt Av to Clermont Av&lt;br clear=left&gt;temporarily closed&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 141960 class="plannedWorkDetail" &gt;&lt;/b&gt;Until further notice&lt;br&gt;&lt;br&gt;Due to construction, please use nearby stops &lt;b&gt;on Fulton St &lt;/b&gt;at Carlton Av or Clinton Av.&lt;br&gt;&lt;b&gt;                                         [TP]&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
               &lt;br/&gt;
               &lt;br/&gt;
@@ -174,7 +166,7 @@
               &lt;br/&gt;
             </text>
     <Date>12/26/2016</Date>
-    <Time> 3:27AM</Time>
+    <Time> 9:07AM</Time>
   </line>
   <line>
     <name>B100 - B103</name>
@@ -189,7 +181,7 @@
     <text>
                   &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
                   &lt;span class="DateStyle"&gt;
-                  &amp;nbsp;Posted:&amp;nbsp;12/25/2016&amp;nbsp; 6:01AM
+                  &amp;nbsp;Posted:&amp;nbsp;12/26/2016&amp;nbsp; 5:03AM
                   &lt;/span&gt;
                   &lt;br/&gt;
                   &lt;br/&gt;
@@ -197,15 +189,21 @@
               &lt;br/&gt;
               &lt;br/&gt;
             </text>
-    <Date>12/25/2016</Date>
-    <Time> 6:01AM</Time>
+    <Date>12/26/2016</Date>
+    <Time> 5:03AM</Time>
   </line>
   <line>
     <name>BX1 - BX55</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>PLANNED WORK</status>
+    <text>
+                  &lt;span class="TitlePlannedWork" &gt;Planned Detour&lt;/span&gt;
+                  &lt;br/&gt;
+                &lt;a class="plannedWorkDetailLink" onclick=ShowHide(141019);&gt;&lt;b&gt;Bx41/Bx41&lt;/b&gt; SBS - &lt;b&gt;Southbound buses rerouted from Melrose Av at 149 St&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 141019 class="plannedWorkDetail" &gt;&lt;/b&gt;7 AM to 4 PM, Mon to Fri, until further notice&lt;br&gt;&lt;br&gt;Due to road work, buses run via &lt;b&gt;3 Av &lt;/b&gt;making corresponding stops.&lt;br&gt;&lt;br&gt;&lt;b&gt;&lt;i&gt;&lt;a style="cursor:pointer; text-decoration:underline;" onclick=ShowHide(1410190);&gt;Show Reroute Details&lt;/a&gt;&lt;/i&gt;&lt;/b&gt;&lt;br&gt;&lt;div id="1410190"; style="display:none;"&gt;&lt;b&gt;Bx41&lt;br&gt;&lt;/b&gt;Via Melrose Av&lt;br&gt;Left on 151 St&lt;br&gt;Right on 3 Av&lt;br&gt;Left on E 146 St and take stand&lt;br&gt;&lt;br&gt;&lt;b&gt;Bx41 &lt;/b&gt;SBS&lt;br&gt;Via Melrose Av&lt;br&gt;Left on 161 St&lt;br&gt;Right on 3 Av&lt;br&gt;Left on E 146 St and take stand&lt;/div&gt;&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            </text>
+    <Date>12/26/2016</Date>
+    <Time> 9:07AM</Time>
   </line>
   <line>
     <name>BXM1 - BXM18</name>
@@ -224,7 +222,7 @@
               &lt;br/&gt;
             </text>
     <Date>12/26/2016</Date>
-    <Time> 3:27AM</Time>
+    <Time> 9:07AM</Time>
   </line>
   <line>
     <name>M1 - M116</name>
@@ -261,7 +259,7 @@
               &lt;br/&gt;
             </text>
     <Date>12/26/2016</Date>
-    <Time> 3:27AM</Time>
+    <Time> 9:07AM</Time>
   </line>
   <line>
     <name>Q1 - Q113</name>
@@ -274,7 +272,7 @@
               &lt;br/&gt;
             </text>
     <Date>12/26/2016</Date>
-    <Time> 3:27AM</Time>
+    <Time> 9:07AM</Time>
   </line>
   <line>
     <name>QM1 - QM44</name>
@@ -299,7 +297,7 @@
               &lt;br/&gt;
             </text>
     <Date>12/26/2016</Date>
-    <Time> 3:27AM</Time>
+    <Time> 9:07AM</Time>
   </line>
   <line>
     <name>S40 - S98</name>
@@ -331,7 +329,7 @@
               &lt;br/&gt;
             </text>
     <Date>12/26/2016</Date>
-    <Time> 3:27AM</Time>
+    <Time> 9:07AM</Time>
   </line>
 </bus><BT>
   <line>
@@ -357,10 +355,17 @@
   </line>
   <line>
     <name>Hugh L. Carey</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>SERVICE CHANGE</status>
+    <text>
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;12/26/2016&amp;nbsp; 6:15AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  HLC - HOV Lane Open 6 AM to 10 AM. Two-Way Operations in effect. Three (3) lanes Manhattan-bound. One (1) lane Brooklyn-bound.
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>12/26/2016</Date>
+    <Time> 6:15AM</Time>
   </line>
   <line>
     <name>Marine Parkway</name>
