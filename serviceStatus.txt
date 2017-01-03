@@ -15,10 +15,18 @@
   </line>
   <line>
     <name>7</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>DELAYS</status>
+    <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;01/03/2017&amp;nbsp; 4:50PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;P&gt;Due to a train with mechanical problems at &lt;STRONG&gt;34 St-Hudson Yards&lt;/STRONG&gt; [7] trains are running with delays in both directions.   &lt;/P&gt;
+&lt;P&gt;Allow additional travel time.&lt;/P&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>01/03/2017</Date>
+    <Time> 4:50PM</Time>
   </line>
   <line>
     <name>ACE</name>
@@ -436,17 +444,10 @@
   </line>
   <line>
     <name>Queens Midtown</name>
-    <status>DELAYS</status>
-    <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;01/03/2017&amp;nbsp; 4:34PM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  QMT collision Manhattan bound tube one lane blocked, expect delays.
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>01/03/2017</Date>
-    <Time> 4:34PM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>Robert F. Kennedy</name>
