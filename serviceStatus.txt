@@ -1,17 +1,31 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>DELAYS</status>
+    <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;01/03/2017&amp;nbsp; 9:42AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  Following an earlier incident at &lt;STRONG&gt;Borough Hall&lt;/STRONG&gt;, [2] and [3] train service has resumed with delays.
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>01/03/2017</Date>
+    <Time> 9:42AM</Time>
   </line>
   <line>
     <name>456</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>DELAYS</status>
+    <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;01/03/2017&amp;nbsp; 9:44AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  Following an earlier incident at &lt;STRONG&gt;Brooklyn Bridge-City Hall&lt;/STRONG&gt;, [4] and [5] train service has resumed with delays.
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>01/03/2017</Date>
+    <Time> 9:44AM</Time>
   </line>
   <line>
     <name>7</name>
@@ -33,6 +47,13 @@
     <text>
                     &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;01/03/2017&amp;nbsp;10:32AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  Following an earlier incident on the&lt;STRONG&gt; Manhattan Bridge&lt;/STRONG&gt;, [B] and [D] train service has resumed with delays.
+                &lt;br/&gt;&lt;br/&gt;
+              
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
                     &amp;nbsp;Posted:&amp;nbsp;01/03/2017&amp;nbsp;10:02AM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
                   &lt;P&gt;Due to signal problems at &lt;STRONG&gt;7 Av&lt;/STRONG&gt; (Manh), northbound [B] and [D] trains are running with delays.&lt;/P&gt;
@@ -42,7 +63,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>01/03/2017</Date>
-    <Time>10:02AM</Time>
+    <Time>10:32AM</Time>
   </line>
   <line>
     <name>G</name>
