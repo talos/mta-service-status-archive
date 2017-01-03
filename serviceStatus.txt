@@ -1,10 +1,18 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>DELAYS</status>
+    <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;01/03/2017&amp;nbsp; 6:33AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;P&gt;Due to an unauthorized person on the tracks &lt;STRONG&gt;125 St&lt;/STRONG&gt;, southbound [1] trains are running with delays.&lt;/P&gt;
+&lt;P&gt;Allow additional travel time.&lt;/P&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>01/03/2017</Date>
+    <Time> 6:33AM</Time>
   </line>
   <line>
     <name>456</name>
@@ -144,7 +152,7 @@
               &lt;br/&gt;
             </text>
     <Date>01/03/2017</Date>
-    <Time> 6:27AM</Time>
+    <Time> 6:32AM</Time>
   </line>
   <line>
     <name>B100 - B103</name>
@@ -178,7 +186,7 @@
               &lt;br/&gt;
             </text>
     <Date>01/03/2017</Date>
-    <Time> 6:27AM</Time>
+    <Time> 6:32AM</Time>
   </line>
   <line>
     <name>M1 - M116</name>
@@ -209,7 +217,7 @@
               &lt;br/&gt;
             </text>
     <Date>01/03/2017</Date>
-    <Time> 6:27AM</Time>
+    <Time> 6:32AM</Time>
   </line>
   <line>
     <name>Q1 - Q113</name>
@@ -222,7 +230,7 @@
               &lt;br/&gt;
             </text>
     <Date>01/03/2017</Date>
-    <Time> 6:27AM</Time>
+    <Time> 6:32AM</Time>
   </line>
   <line>
     <name>QM1 - QM44</name>
@@ -247,7 +255,7 @@
               &lt;br/&gt;
             </text>
     <Date>01/03/2017</Date>
-    <Time> 6:27AM</Time>
+    <Time> 6:32AM</Time>
   </line>
   <line>
     <name>S40 - S98</name>
@@ -273,7 +281,7 @@
               &lt;br/&gt;
             </text>
     <Date>01/03/2017</Date>
-    <Time> 6:27AM</Time>
+    <Time> 6:32AM</Time>
   </line>
 </bus><BT>
   <line>
