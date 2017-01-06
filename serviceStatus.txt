@@ -22,10 +22,18 @@
   </line>
   <line>
     <name>ACE</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>SERVICE CHANGE</status>
+    <text>
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;01/06/2017&amp;nbsp; 5:16AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;P&gt;Due to track maintenance at &lt;STRONG&gt;50 St&lt;/STRONG&gt;, northbound [E] trains are running on the [F] line from &lt;STRONG&gt;W 4 St-Washington Sq&lt;/STRONG&gt; to &lt;STRONG&gt;Jackson Heights-Roosevelt Av.&lt;/STRONG&gt; &lt;/P&gt;
+&lt;P&gt;Allow additional travel time.&lt;/P&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>01/06/2017</Date>
+    <Time> 5:16AM</Time>
   </line>
   <line>
     <name>BDFM</name>
@@ -447,8 +455,13 @@
   </line>
   <line>
     <name>Verrazano-Narrows</name>
-    <status>SERVICE CHANGE</status>
+    <status>PLANNED WORK</status>
     <text>
+                    &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
+                    &lt;br/&gt;
+                  VNB: PLANNED WORK; S. I. BOUND LOWER LEVEL - ONE LANE CLOSED; EXPECT DELAYS.
+                &lt;br/&gt;&lt;br/&gt;
+              
                     &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
                     &amp;nbsp;Posted:&amp;nbsp;01/06/2017&amp;nbsp;12:44AM
@@ -457,7 +470,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>01/06/2017</Date>
-    <Time>12:44AM</Time>
+    <Time> 5:16AM</Time>
   </line>
 </BT><LIRR>
   <line>
