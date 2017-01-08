@@ -174,8 +174,16 @@
   </line>
   <line>
     <name>NQR</name>
-    <status>SERVICE CHANGE</status>
+    <status>DELAYS</status>
     <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;01/07/2017&amp;nbsp; 7:20PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;P&gt;Due to signal problems at &lt;STRONG&gt;96 St,&lt;/STRONG&gt; southbound [Q] trains are running with delays.&lt;/P&gt;
+&lt;P&gt;Allow additional travel time. &lt;/P&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              
                     &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
                     &amp;nbsp;Posted:&amp;nbsp;01/07/2017&amp;nbsp; 7:14PM
@@ -195,7 +203,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>01/07/2017</Date>
-    <Time> 7:14PM</Time>
+    <Time> 7:20PM</Time>
   </line>
   <line>
     <name>S</name>
@@ -784,17 +792,10 @@
   </line>
   <line>
     <name>Hempstead</name>
-    <status>DELAYS</status>
-    <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;01/07/2017&amp;nbsp; 6:58PM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  The 6:13PM train from Hempstead due Atlantic Terminal at 7:07PM is operating 12 minutes late due to signal trouble at Jamaica.
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>01/07/2017</Date>
-    <Time> 6:58PM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>Long Beach</name>
@@ -819,31 +820,24 @@
   </line>
   <line>
     <name>Oyster Bay</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
-  </line>
-  <line>
-    <name>Port Jefferson</name>
     <status>DELAYS</status>
     <text>
                     &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;01/07/2017&amp;nbsp; 6:59PM
+                    &amp;nbsp;Posted:&amp;nbsp;01/07/2017&amp;nbsp; 7:18PM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  The 6:03PM train from Huntington due Penn at 7:09PM is operating 10 minutes late due to a broken crossing gate at New Hyde Park Road.
-                &lt;br/&gt;&lt;br/&gt;
-              
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;01/07/2017&amp;nbsp; 6:41PM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  The 5:51PM train from Penn due Huntington at 6:55PM is operating 25 minutes late due to switch trouble at Jamaica.
+                  The 6:52PM train from Jamaica due Oyster Bay at 7:46PM is operating 23 minutes late due to a broken crossing gate at New Hyde Park Road.
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>01/07/2017</Date>
-    <Time> 6:59PM</Time>
+    <Time> 7:18PM</Time>
+  </line>
+  <line>
+    <name>Port Jefferson</name>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>Port Washington</name>
