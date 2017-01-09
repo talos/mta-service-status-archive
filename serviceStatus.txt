@@ -114,13 +114,24 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>01/09/2017</Date>
-    <Time> 9:27AM</Time>
+    <Time> 9:32AM</Time>
   </line>
 </subway><bus>
   <line>
     <name>B1 - B84</name>
-    <status>SERVICE CHANGE</status>
+    <status>DELAYS</status>
     <text>
+                  &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                  &lt;span class="DateStyle"&gt;
+                  &amp;nbsp;Posted:&amp;nbsp;01/09/2017&amp;nbsp; 9:31AM
+                  &lt;/span&gt;
+                  &lt;br/&gt;
+                  &lt;br/&gt;
+                &lt;P&gt;&lt;STRONG&gt;B39&lt;/STRONG&gt; westbound buses are delayed, due to traffic condition on the Williamsburg Bridge. &lt;/P&gt;
+&lt;P&gt;Allow additional travel time.&lt;/P&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
                   &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
                   &lt;span class="DateStyle"&gt;
                   &amp;nbsp;Posted:&amp;nbsp;01/09/2017&amp;nbsp; 9:12AM
@@ -165,7 +176,7 @@
               &lt;br/&gt;
             </text>
     <Date>01/09/2017</Date>
-    <Time> 9:12AM</Time>
+    <Time> 9:31AM</Time>
   </line>
   <line>
     <name>B100 - B103</name>
@@ -192,7 +203,7 @@
               &lt;br/&gt;
             </text>
     <Date>01/09/2017</Date>
-    <Time> 9:27AM</Time>
+    <Time> 9:32AM</Time>
   </line>
   <line>
     <name>BXM1 - BXM18</name>
@@ -205,7 +216,7 @@
               &lt;br/&gt;
             </text>
     <Date>01/09/2017</Date>
-    <Time> 9:27AM</Time>
+    <Time> 9:32AM</Time>
   </line>
   <line>
     <name>M1 - M116</name>
@@ -483,19 +494,10 @@
 </BT><LIRR>
   <line>
     <name>Babylon</name>
-    <status>DELAYS</status>
-    <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;01/09/2017&amp;nbsp; 9:14AM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  &lt;p&gt;&lt;strong&gt;The Babylon Branch is experiencing delays averaging 10 to 15 minutes due to congestion caused by a train with equipment trouble. Customers transferring at Jamaica Station, please listen to announcements for possible track changes.&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;The 8:03AM train from Babylon due Penn at 9:11AM is operating 10 minutes late due to congestion caused by a delayed train ahead.&lt;/p&gt;&lt;p&gt;The 8:25AM train from Freeport due Penn at 9:08AM is operating 10 minutes late due to congestion caused by a delayed train ahead.&lt;br&gt;&lt;/p&gt;
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>01/09/2017</Date>
-    <Time> 9:14AM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>City Terminal Zone</name>
@@ -534,10 +536,17 @@
   </line>
   <line>
     <name>Montauk</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>DELAYS</status>
+    <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;01/09/2017&amp;nbsp; 9:31AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  The 8:52AM train from Babylon due Montauk at 10:52AM is operating 11 minutes late due to a late-arriving connection in Babylon.
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>01/09/2017</Date>
+    <Time> 9:31AM</Time>
   </line>
   <line>
     <name>Oyster Bay</name>
