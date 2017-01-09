@@ -1,8 +1,15 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>PLANNED WORK</status>
+    <status>DELAYS</status>
     <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;01/08/2017&amp;nbsp; 8:49PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  Due to an earlier incident at &lt;STRONG&gt;Park Place&lt;/STRONG&gt;, [2] and [3] train service has resumed with delays.
+                &lt;br/&gt;&lt;br/&gt;
+              
                     &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
                     &lt;br/&gt;
                   &lt;a class="plannedWorkDetailLink" onclick=ShowHide(142556);&gt;&lt;b&gt;[3] Trains run local in both directions between 34 St-Penn Station and Chambers St&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 142556 class="plannedWorkDetail" &gt;&lt;/b&gt;Weekend, 11:30 PM Fri to 5 AM Mon, Jan 6 - 9&lt;br&gt;&lt;br&gt;&amp;bull; Please allow additional travel time.&lt;br&gt;&lt;br&gt;&lt;b&gt;Note:&lt;/b&gt; [3]&lt;b&gt; &lt;/b&gt;service operates between 148 St and Utica Av, &lt;i&gt;all weekend&lt;/i&gt;.&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
@@ -34,7 +41,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>01/08/2017</Date>
-    <Time> 8:42PM</Time>
+    <Time> 8:49PM</Time>
   </line>
   <line>
     <name>456</name>
@@ -162,7 +169,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>01/08/2017</Date>
-    <Time> 8:42PM</Time>
+    <Time> 8:47PM</Time>
   </line>
   <line>
     <name>JZ</name>
@@ -181,7 +188,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>01/08/2017</Date>
-    <Time> 8:42PM</Time>
+    <Time> 8:47PM</Time>
   </line>
   <line>
     <name>NQR</name>
@@ -198,7 +205,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>01/08/2017</Date>
-    <Time> 8:42PM</Time>
+    <Time> 8:47PM</Time>
   </line>
   <line>
     <name>S</name>
@@ -225,7 +232,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>01/08/2017</Date>
-    <Time> 8:42PM</Time>
+    <Time> 8:47PM</Time>
   </line>
 </subway><bus>
   <line>
@@ -312,7 +319,7 @@
               &lt;br/&gt;
             </text>
     <Date>01/08/2017</Date>
-    <Time> 8:42PM</Time>
+    <Time> 8:47PM</Time>
   </line>
   <line>
     <name>M1 - M116</name>
@@ -388,7 +395,7 @@
               &lt;br/&gt;
             </text>
     <Date>01/08/2017</Date>
-    <Time> 8:42PM</Time>
+    <Time> 8:47PM</Time>
   </line>
   <line>
     <name>S40 - S98</name>
