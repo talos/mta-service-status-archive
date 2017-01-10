@@ -73,18 +73,19 @@
   </line>
   <line>
     <name>L</name>
-    <status>DELAYS</status>
+    <status>SERVICE CHANGE</status>
     <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;01/10/2017&amp;nbsp; 2:29PM
+                    &amp;nbsp;Posted:&amp;nbsp;01/10/2017&amp;nbsp; 2:42PM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  &lt;P&gt;Due to an investigation at&lt;STRONG&gt; Wilson Av&lt;/STRONG&gt;, 8 Av-bound [L] trains are running with delays. &lt;/P&gt;
+                  &lt;P&gt;Due to an unauthorized person on the tracks at&lt;STRONG&gt; Wilson Av&lt;/STRONG&gt;, there is no [L] service between &lt;STRONG&gt;Myrtle-Wyckoff Avs &lt;/STRONG&gt;and &lt;STRONG&gt;Canarsie-Rockaway Pkwy&lt;/STRONG&gt; in both directions.&lt;/P&gt;
 &lt;P&gt;Allow additional travel time.&lt;/P&gt;
+&lt;P&gt; &lt;/P&gt;
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>01/10/2017</Date>
-    <Time> 2:29PM</Time>
+    <Time> 2:42PM</Time>
   </line>
   <line>
     <name>NQR</name>
@@ -117,7 +118,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>01/10/2017</Date>
-    <Time> 2:32PM</Time>
+    <Time> 2:42PM</Time>
   </line>
 </subway><bus>
   <line>
@@ -222,7 +223,7 @@
               &lt;br/&gt;
             </text>
     <Date>01/10/2017</Date>
-    <Time> 2:32PM</Time>
+    <Time> 2:42PM</Time>
   </line>
   <line>
     <name>M1 - M116</name>
@@ -375,22 +376,10 @@
   </line>
   <line>
     <name>Throgs Neck</name>
-    <status>SERVICE CHANGE</status>
-    <text>
-                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;01/10/2017&amp;nbsp; 2:34PM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  Throgs Neck Bridge: Queens bound cleared.
-                &lt;br/&gt;&lt;br/&gt;
-              
-                    &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
-                    &lt;br/&gt;
-                  Throgs Neck Bridge: Queens bound. One lane closed. Expect delays.
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>01/10/2017</Date>
-    <Time> 2:34PM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>Verrazano-Narrows</name>
