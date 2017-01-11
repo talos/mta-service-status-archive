@@ -94,10 +94,18 @@
   </line>
   <line>
     <name>NQR</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>DELAYS</status>
+    <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;01/11/2017&amp;nbsp; 9:21AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;P&gt;Due to signal problems at &lt;STRONG&gt;Queensboro Plaza&lt;/STRONG&gt;, northbound [N] and [W] trains are running with delays. &lt;/P&gt;
+&lt;P&gt;Allow additional travel time.&lt;/P&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>01/11/2017</Date>
+    <Time> 9:21AM</Time>
   </line>
   <line>
     <name>S</name>
@@ -447,17 +455,10 @@
   </line>
   <line>
     <name>Montauk</name>
-    <status>DELAYS</status>
-    <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;01/11/2017&amp;nbsp; 8:49AM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  The 7:12AM train from Speonk due Hunterspoint Ave. at 9:11AM is operating 11 minutes late due to a track condition west of Hicksville.
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>01/11/2017</Date>
-    <Time> 8:49AM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>Oyster Bay</name>
