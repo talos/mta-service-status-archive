@@ -1,16 +1,13 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>SERVICE CHANGE</status>
+    <status>DELAYS</status>
     <text>
-                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;01/11/2017&amp;nbsp; 4:04PM
+                    &amp;nbsp;Posted:&amp;nbsp;01/11/2017&amp;nbsp; 4:11PM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  &lt;P&gt;Due to a rail condition at &lt;STRONG&gt;191 St&lt;/STRONG&gt;, the following service changes are in effect: &lt;/P&gt;
-&lt;P&gt;Some northbound [1] trains terminate at &lt;STRONG&gt;137 St-City College&lt;/STRONG&gt;. &lt;/P&gt;
-&lt;P&gt;There is no [1] train service between &lt;STRONG&gt;168 St&lt;/STRONG&gt; and &lt;STRONG&gt;Dyckman St&lt;/STRONG&gt; in both directions. &lt;/P&gt;
-&lt;P&gt;Allow additional travel time.&lt;/P&gt;
+                  Following an earlier incident at &lt;STRONG&gt;191 St,&lt;/STRONG&gt; [1] train service has resumed with extensive delays.
                 &lt;br/&gt;&lt;br/&gt;
               
                     &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
@@ -21,7 +18,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>01/11/2017</Date>
-    <Time> 4:04PM</Time>
+    <Time> 4:11PM</Time>
   </line>
   <line>
     <name>456</name>
