@@ -81,10 +81,15 @@
   </line>
   <line>
     <name>SIR</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>PLANNED WORK</status>
+    <text>
+                    &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
+                    &lt;br/&gt;
+                  &lt;a class="plannedWorkDetailLink" onclick=ShowHide(144627);&gt;&lt;b&gt;[SIR] Trains board at the Tottenville-bound platform from Great Kills to Grant City Stations&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 144627 class="plannedWorkDetail" &gt;&lt;/b&gt;Days, 9 AM to 3 PM, Mon to&lt;i&gt; &lt;/i&gt;Fri, Jan 9 - 13&lt;br&gt;&lt;br&gt;&amp;bull; Boarding change includes &lt;b&gt;Great Kills&lt;/b&gt;, &lt;b&gt;Bay Terrace&lt;/b&gt;, &lt;b&gt;Oakwood Heights&lt;/b&gt;, &lt;b&gt;New Dorp&lt;/b&gt; and &lt;br&gt;  &lt;b&gt;Grant City Stations&lt;/b&gt;. &lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>01/11/2017</Date>
+    <Time> 9:02AM</Time>
   </line>
 </subway><bus>
   <line>
@@ -122,7 +127,7 @@
               &lt;br/&gt;
             </text>
     <Date>01/11/2017</Date>
-    <Time> 8:52AM</Time>
+    <Time> 9:02AM</Time>
   </line>
   <line>
     <name>B100 - B103</name>
@@ -177,7 +182,7 @@
               &lt;br/&gt;
             </text>
     <Date>01/11/2017</Date>
-    <Time> 8:52AM</Time>
+    <Time> 9:02AM</Time>
   </line>
   <line>
     <name>M1 - M116</name>
@@ -265,6 +270,13 @@
     <text>
                     &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;01/11/2017&amp;nbsp; 9:00AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  HLC disabled vehicle has been cleared.
+                &lt;br/&gt;&lt;br/&gt;
+              
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
                     &amp;nbsp;Posted:&amp;nbsp;01/11/2017&amp;nbsp; 8:44AM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
                   HLC reports a disabled bus in two-way tube Manhattan bound, expect delays.
@@ -292,7 +304,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>01/11/2017</Date>
-    <Time> 8:44AM</Time>
+    <Time> 9:00AM</Time>
   </line>
   <line>
     <name>Marine Parkway</name>
@@ -362,13 +374,13 @@
     <text>
                     &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;01/11/2017&amp;nbsp; 8:46AM
+                    &amp;nbsp;Posted:&amp;nbsp;01/11/2017&amp;nbsp; 9:00AM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  The 8:03AM train from Babylon due Penn at 9:11AM is operating approximately 10 minutes late after being delayed due to a police investigation near Rockville Centre Station.
+                  The 8:03AM train from Babylon due Penn at 9:11AM is 15 minutes late after operating at a reduced speed due to an earlier police investigation near Rockville Centre Station.
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>01/11/2017</Date>
-    <Time> 8:46AM</Time>
+    <Time> 9:00AM</Time>
   </line>
   <line>
     <name>City Terminal Zone</name>
