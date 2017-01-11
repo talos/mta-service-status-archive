@@ -13,17 +13,10 @@
   </line>
   <line>
     <name>456</name>
-    <status>DELAYS</status>
-    <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;01/11/2017&amp;nbsp; 2:22PM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  Following an earlier incident at &lt;STRONG&gt;176 St&lt;/STRONG&gt;, [4] service has resumed with delays.
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>01/11/2017</Date>
-    <Time> 2:22PM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>7</name>
@@ -34,13 +27,6 @@
                     &amp;nbsp;Posted:&amp;nbsp;01/11/2017&amp;nbsp; 2:28PM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
                   Due to an earlier incident at &lt;STRONG&gt;90 St-Elmhurst Av&lt;/STRONG&gt;, [7] service has resumed with delays.
-                &lt;br/&gt;&lt;br/&gt;
-              
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;01/11/2017&amp;nbsp; 2:15PM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  Following an earlier incident at&lt;STRONG&gt; Flushing-Main St&lt;/STRONG&gt;, [7] service has resumed with delays.
                 &lt;br/&gt;&lt;br/&gt;
               
                     &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
@@ -500,10 +486,17 @@
 </BT><LIRR>
   <line>
     <name>Babylon</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>DELAYS</status>
+    <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;01/11/2017&amp;nbsp; 2:45PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  The 1:37PM train from Penn due Babylon at 2:53PM is operating 10 minutes late due to trackwork.
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>01/11/2017</Date>
+    <Time> 2:45PM</Time>
   </line>
   <line>
     <name>City Terminal Zone</name>
