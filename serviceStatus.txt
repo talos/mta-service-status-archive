@@ -386,10 +386,18 @@
 </BT><LIRR>
   <line>
     <name>Babylon</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>DELAYS</status>
+    <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;01/11/2017&amp;nbsp; 1:36AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;u&gt;&lt;b&gt;Westbound&lt;/b&gt;&lt;/u&gt;&lt;br&gt;The 12:56AM train from Babylon due Penn at 2:12AM is operating 11 minutes late due to track work.&lt;br&gt;&lt;br&gt;&lt;u&gt;&lt;b&gt;Eastbound&lt;/b&gt;&lt;/u&gt;&lt;br&gt;The 12:39AM train from Penn due Babylon at 1:57AM is operating 10 minutes late due to track work.
+        &lt;br&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>01/11/2017</Date>
+    <Time> 1:36AM</Time>
   </line>
   <line>
     <name>City Terminal Zone</name>
@@ -433,9 +441,10 @@ operating 11 minutes late due to a late-arriving connection at Jamaica.
     <text>
                     &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;01/11/2017&amp;nbsp; 1:30AM
+                    &amp;nbsp;Posted:&amp;nbsp;01/11/2017&amp;nbsp; 1:36AM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  The 12:56AM train from Babylon due Penn at 2:12AM is operating 11 minutes late due to track work.
+                  &lt;u&gt;&lt;b&gt;Westbound&lt;/b&gt;&lt;/u&gt;&lt;br&gt;The 12:56AM train from Babylon due Penn at 2:12AM is operating 11 minutes late due to track work.&lt;br&gt;&lt;br&gt;&lt;u&gt;&lt;b&gt;Eastbound&lt;/b&gt;&lt;/u&gt;&lt;br&gt;The 12:39AM train from Penn due Babylon at 1:57AM is operating 10 minutes late due to track work.
+        &lt;br&gt;
                 &lt;br/&gt;&lt;br/&gt;
               
                     &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
@@ -446,7 +455,7 @@ operating 11 minutes late due to a late-arriving connection at Jamaica.
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>01/11/2017</Date>
-    <Time> 1:30AM</Time>
+    <Time> 1:36AM</Time>
   </line>
   <line>
     <name>Oyster Bay</name>
