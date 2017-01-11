@@ -5,35 +5,35 @@
     <text>
                     &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;01/10/2017&amp;nbsp;10:19PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;P&gt;Due to switch problems at &lt;B&gt;138 St-Grand Concourse and 149 St-Grand Concourse&lt;/B&gt;, the following service changes are in effect:&lt;/P&gt;
+&lt;P&gt;Some southbound [4] trains terminate at &lt;B&gt;149 St-Grand Concourse.&lt;/P&gt;&lt;/B&gt;
+&lt;P&gt;Some northbound [4] trains are running on the [6] line from &lt;B&gt;125 St&lt;/B&gt; to &lt;B&gt;138 St-3 Av&lt;/B&gt; and terminate. &lt;/P&gt;
+&lt;P&gt;Some southbound [5] trains are running on running on the [2] line from &lt;B&gt;149 St-Grand Concourse&lt;/B&gt; to &lt;B&gt;Chambers St&lt;/B&gt; and terminate.&lt;/P&gt;
+&lt;P&gt;Expect delays in [1][2][3][4][5] and [6] train service in both directions. &lt;/P&gt;
+&lt;P&gt;Allow additional travel time.&lt;/P&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
                     &amp;nbsp;Posted:&amp;nbsp;01/10/2017&amp;nbsp;10:13PM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
                   &lt;P&gt;Due to a train with mechanical problems at &lt;STRONG&gt;72 St&lt;/STRONG&gt;, southbound [2] and [3] trains are running local from &lt;STRONG&gt;96 St&lt;/STRONG&gt; to &lt;STRONG&gt;Times Sq-42 St.&lt;/STRONG&gt;&lt;/P&gt;
 &lt;P&gt;Expect delays in southbound [1] train service. &lt;/P&gt;
 &lt;P&gt;Allow additional travel time.&lt;/P&gt;
                 &lt;br/&gt;&lt;br/&gt;
-              
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;01/10/2017&amp;nbsp;10:11PM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  &lt;P&gt;Due to switch problems at &lt;B&gt;138 St-Grand Concourse and 149 St-Grand Concourse&lt;/B&gt;, the following service changes are in effect:&lt;/P&gt;
-&lt;P&gt;Some southbound [4] trains terminate at &lt;B&gt;149 St-Grand Concourse.&lt;/P&gt;&lt;/B&gt;
-&lt;P&gt;Some northbound [4] trains are running on the [6] line from &lt;B&gt;125 St&lt;/B&gt; to &lt;B&gt;138 St-3 Av&lt;/B&gt; and terminate. &lt;/P&gt;
-&lt;P&gt;Some southbound [5] trains are running on running on the [2] line from &lt;B&gt;149 St-Grand Concourse&lt;/B&gt; to &lt;B&gt;Chambers St&lt;/B&gt; and terminate.&lt;/P&gt;
-&lt;P&gt;Expect delays in [1][2][3][4][5] and [6] train service in both directions. &lt;/P&gt;
-&lt;P&gt;Allow additional travel time.&lt;/P&gt;
-                &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>01/10/2017</Date>
-    <Time>10:13PM</Time>
+    <Time>10:19PM</Time>
   </line>
   <line>
     <name>456</name>
-    <status>DELAYS</status>
+    <status>SERVICE CHANGE</status>
     <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;01/10/2017&amp;nbsp;10:11PM
+                    &amp;nbsp;Posted:&amp;nbsp;01/10/2017&amp;nbsp;10:19PM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
                   &lt;P&gt;Due to switch problems at &lt;B&gt;138 St-Grand Concourse and 149 St-Grand Concourse&lt;/B&gt;, the following service changes are in effect:&lt;/P&gt;
 &lt;P&gt;Some southbound [4] trains terminate at &lt;B&gt;149 St-Grand Concourse.&lt;/P&gt;&lt;/B&gt;
@@ -44,7 +44,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>01/10/2017</Date>
-    <Time>10:11PM</Time>
+    <Time>10:19PM</Time>
   </line>
   <line>
     <name>7</name>
@@ -414,10 +414,17 @@
   </line>
   <line>
     <name>Throgs Neck</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>SERVICE CHANGE</status>
+    <text>
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;01/10/2017&amp;nbsp;10:18PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  TNB: Collision; Bronx bound, One lane blocked. Expect delays.
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>01/10/2017</Date>
+    <Time>10:18PM</Time>
   </line>
   <line>
     <name>Verrazano-Narrows</name>
