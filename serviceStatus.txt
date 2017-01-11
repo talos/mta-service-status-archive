@@ -49,13 +49,6 @@
 &lt;P&gt;Allow additional travel time.&lt;/P&gt;
                 &lt;br/&gt;&lt;br/&gt;
               
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;01/11/2017&amp;nbsp; 7:55AM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  Due to an earlier incident at &lt;STRONG&gt;Forest Hills-71 Av&lt;/STRONG&gt;, [M] and [R] train service has resumed with delays.
-                &lt;br/&gt;&lt;br/&gt;
-              
                     &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
                     &lt;br/&gt;
                   &lt;a class="plannedWorkDetailLink" onclick=ShowHide(142335);&gt;&lt;b&gt;[F] Some Jamaica-bound trains skip Smith-9 Sts, Carroll St and Bergen St&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 142335 class="plannedWorkDetail" &gt;Rush Hours&lt;/b&gt;, 7 AM to 9 AM &lt;i&gt;and&lt;/i&gt; 3:15 PM to 5:30 PM, Mon to Fri, until Jan 27&lt;br&gt;&lt;br&gt;For service &lt;i&gt;to&lt;/i&gt; these stations, take a Jamaica-bound [F] making these local stops&lt;br&gt;&lt;i&gt;or&lt;/i&gt; transfer at 4 Av-9 St to the [G]. &lt;br&gt;&lt;br&gt;&amp;bull; Please allow additional travel time.&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
@@ -87,17 +80,10 @@
   </line>
   <line>
     <name>NQR</name>
-    <status>DELAYS</status>
-    <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;01/11/2017&amp;nbsp; 7:55AM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  Due to an earlier incident at &lt;STRONG&gt;Forest Hills-71 Av&lt;/STRONG&gt;, [M] and [R] train service has resumed with delays.
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>01/11/2017</Date>
-    <Time> 7:55AM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>S</name>
@@ -512,10 +498,17 @@
   </line>
   <line>
     <name>Waterbury</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>DELAYS</status>
+    <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;01/11/2017&amp;nbsp; 8:15AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  Waterbury Branch Line Customers should anticipate delays of 10 to 15 minutes due to a late connection and congestion in the vicinity of Bridgeport. Please listen for announcements at your station.
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>01/11/2017</Date>
+    <Time> 8:15AM</Time>
   </line>
   <line>
     <name>Pascack Valley</name>
