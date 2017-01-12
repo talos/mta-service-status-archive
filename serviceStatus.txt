@@ -464,10 +464,17 @@
   </line>
   <line>
     <name>City Terminal Zone</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>DELAYS</status>
+    <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;01/12/2017&amp;nbsp; 7:29AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  The 6:57AM train from Port Jefferson due Hunterspoint Ave. at 8:43AM will be extended to Long Island City today to accommodate customers due to a delayed train.
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>01/12/2017</Date>
+    <Time> 7:29AM</Time>
   </line>
   <line>
     <name>Far Rockaway</name>
@@ -506,8 +513,15 @@
   </line>
   <line>
     <name>Port Jefferson</name>
-    <status>SERVICE CHANGE</status>
+    <status>DELAYS</status>
     <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;01/12/2017&amp;nbsp; 7:29AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  The 6:57AM train from Port Jefferson due Hunterspoint Ave. at 8:43AM will be extended to Long Island City today to accommodate customers due to a delayed train.
+                &lt;br/&gt;&lt;br/&gt;
+              
                     &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
                     &amp;nbsp;Posted:&amp;nbsp;01/12/2017&amp;nbsp; 6:09AM
@@ -516,7 +530,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>01/12/2017</Date>
-    <Time> 6:09AM</Time>
+    <Time> 7:29AM</Time>
   </line>
   <line>
     <name>Port Washington</name>
