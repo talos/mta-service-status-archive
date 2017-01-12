@@ -103,8 +103,21 @@
 </subway><bus>
   <line>
     <name>B1 - B84</name>
-    <status>DELAYS</status>
+    <status>SERVICE CHANGE</status>
     <text>
+                  &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                  &lt;span class="DateStyle"&gt;
+                  &amp;nbsp;Posted:&amp;nbsp;01/12/2017&amp;nbsp; 4:15PM
+                  &lt;/span&gt;
+                  &lt;br/&gt;
+                  &lt;br/&gt;
+                &lt;P&gt;&lt;STRONG&gt;B24&lt;/STRONG&gt; buses are detoured, due to National Grid road work on Kingsland Av between Maspeth Av and Jackson St. &lt;/P&gt;
+&lt;P&gt;Detour is as follows:&lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;Northbound:&lt;/STRONG&gt; Via Bushwick Av into Woodpoint Rd, left on Kingsland Av and regular route.&lt;/P&gt;
+&lt;P&gt;Allow additional travel time.&lt;/P&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
                   &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                   &lt;span class="DateStyle"&gt;
                   &amp;nbsp;Posted:&amp;nbsp;01/12/2017&amp;nbsp; 4:14PM
@@ -112,19 +125,6 @@
                   &lt;br/&gt;
                   &lt;br/&gt;
                 &lt;P&gt;&lt;STRONG&gt;B54&lt;/STRONG&gt; westbound buses are delayed, due to traffic condition on Myrtle Av from Marcy Av to Kent Av. &lt;/P&gt;
-&lt;P&gt;Allow additional travel time.&lt;/P&gt;
-              &lt;br/&gt;
-              &lt;br/&gt;
-            
-                  &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
-                  &lt;span class="DateStyle"&gt;
-                  &amp;nbsp;Posted:&amp;nbsp;01/12/2017&amp;nbsp; 2:19PM
-                  &lt;/span&gt;
-                  &lt;br/&gt;
-                  &lt;br/&gt;
-                &lt;P&gt;&lt;STRONG&gt;B24&lt;/STRONG&gt; buses are detoured, due to National Grid road work on Kingsland Av between Maspeth Av and Jackson St. &lt;/P&gt;
-&lt;P&gt;Detour is as follows:&lt;/P&gt;
-&lt;P&gt;&lt;STRONG&gt;Northbound:&lt;/STRONG&gt; Via Bushwick Av into Woodpoint Rd, left on Kingsland Av and regular route.&lt;/P&gt;
 &lt;P&gt;Allow additional travel time.&lt;/P&gt;
               &lt;br/&gt;
               &lt;br/&gt;
@@ -160,7 +160,7 @@
               &lt;br/&gt;
             </text>
     <Date>01/12/2017</Date>
-    <Time> 4:14PM</Time>
+    <Time> 4:15PM</Time>
   </line>
   <line>
     <name>B100 - B103</name>
@@ -213,6 +213,17 @@
     <text>
                   &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                   &lt;span class="DateStyle"&gt;
+                  &amp;nbsp;Posted:&amp;nbsp;01/12/2017&amp;nbsp; 4:15PM
+                  &lt;/span&gt;
+                  &lt;br/&gt;
+                  &lt;br/&gt;
+                &lt;P&gt;&lt;STRONG&gt;M15&lt;/STRONG&gt; and &lt;STRONG&gt;M15-SBS&lt;/STRONG&gt; northbound buses are delayed, due to construction on 1 Av from 64 St to 65 St. &lt;/P&gt;
+&lt;P&gt;Allow additional travel time.&lt;/P&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
+                  &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                  &lt;span class="DateStyle"&gt;
                   &amp;nbsp;Posted:&amp;nbsp;01/12/2017&amp;nbsp; 4:03PM
                   &lt;/span&gt;
                   &lt;br/&gt;
@@ -233,17 +244,6 @@
               &lt;br/&gt;
               &lt;br/&gt;
             
-                  &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                  &lt;span class="DateStyle"&gt;
-                  &amp;nbsp;Posted:&amp;nbsp;01/12/2017&amp;nbsp; 2:20PM
-                  &lt;/span&gt;
-                  &lt;br/&gt;
-                  &lt;br/&gt;
-                &lt;P&gt;&lt;STRONG&gt;M15&lt;/STRONG&gt; and &lt;STRONG&gt;M15-SBS&lt;/STRONG&gt; northbound buses are delayed, due to construction on 1 Av from 64 St to 65 St. &lt;/P&gt;
-&lt;P&gt;Allow additional travel time.&lt;/P&gt;
-              &lt;br/&gt;
-              &lt;br/&gt;
-            
                   &lt;span class="TitlePlannedWork" &gt;Planned Detour&lt;/span&gt;
                   &lt;br/&gt;
                 &lt;a class="plannedWorkDetailLink" onclick=ShowHide(142725);&gt;&lt;b&gt;M15/M15 &lt;/b&gt;SBS - &lt;b&gt;Southbound buses may experience delays&lt;br clear=left&gt;due to construction on 2 Av at 79 St to 68 St &lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 142725 class="plannedWorkDetail" &gt;&lt;/b&gt;7 AM to 5 PM, each day, until further notice&lt;br&gt;&lt;br&gt;&amp;bull; Please allow additional travel time.&lt;br&gt;&lt;/font&gt;&lt;b&gt;          &lt;/b&gt;&lt;/font&gt;&lt;a href=http://bustime.mta.info/ target=_blank&gt;&lt;img height=30px src=http://web.mta.info/nyct/images/Bus_Time_logo.png&gt;&lt;/a&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
@@ -257,12 +257,26 @@
               &lt;br/&gt;
             </text>
     <Date>01/12/2017</Date>
-    <Time> 4:03PM</Time>
+    <Time> 4:15PM</Time>
   </line>
   <line>
     <name>Q1 - Q113</name>
     <status>SERVICE CHANGE</status>
     <text>
+                  &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                  &lt;span class="DateStyle"&gt;
+                  &amp;nbsp;Posted:&amp;nbsp;01/12/2017&amp;nbsp; 4:16PM
+                  &lt;/span&gt;
+                  &lt;br/&gt;
+                  &lt;br/&gt;
+                &lt;P&gt;&lt;STRONG&gt;Q6, Q8, Q9 Q30, Q31, Q41&lt;/STRONG&gt; and &lt;STRONG&gt;Q110&lt;/STRONG&gt; buses are detoured, due to FDNY activity on Jamaica Av between 168 St and 165 St. &lt;/P&gt;
+&lt;P&gt;Detour is as follows:&lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;Q6, Q8, Q9, Q30, Q31, Q41 and Q110 Westbound&lt;/STRONG&gt;: Via Merrick Blvd, right on Archer Av, right on Guy R Brewer Blvd, left on Jamaica Av and regular route.&lt;/P&gt;
+&lt;P&gt;Corresponding stops will be made along detour route.&lt;/P&gt;
+&lt;P&gt;Allow additional travel time.&lt;/P&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
                   &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
                   &lt;span class="DateStyle"&gt;
                   &amp;nbsp;Posted:&amp;nbsp;01/12/2017&amp;nbsp; 4:11PM
@@ -349,7 +363,7 @@
               &lt;br/&gt;
             </text>
     <Date>01/12/2017</Date>
-    <Time> 4:11PM</Time>
+    <Time> 4:16PM</Time>
   </line>
   <line>
     <name>QM1 - QM44</name>
