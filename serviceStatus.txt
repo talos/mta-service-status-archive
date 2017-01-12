@@ -79,8 +79,21 @@
 </subway><bus>
   <line>
     <name>B1 - B84</name>
-    <status>DELAYS</status>
+    <status>SERVICE CHANGE</status>
     <text>
+                  &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                  &lt;span class="DateStyle"&gt;
+                  &amp;nbsp;Posted:&amp;nbsp;01/11/2017&amp;nbsp; 7:33PM
+                  &lt;/span&gt;
+                  &lt;br/&gt;
+                  &lt;br/&gt;
+                &lt;P&gt;&lt;STRONG&gt;B44 &lt;/STRONG&gt;buses are detoured due to a non MTA accident on Bedford Av and Lynch St. &lt;/P&gt;
+&lt;P&gt;Detour is as follows: &lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;Southbound:&lt;/STRONG&gt; Right on Wallabout St, right on Lee St and regular route. &lt;/P&gt;
+&lt;P&gt;Allow additional travel time. &lt;/P&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
                   &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                   &lt;span class="DateStyle"&gt;
                   &amp;nbsp;Posted:&amp;nbsp;01/11/2017&amp;nbsp; 6:02PM
@@ -117,7 +130,7 @@
               &lt;br/&gt;
             </text>
     <Date>01/11/2017</Date>
-    <Time> 6:02PM</Time>
+    <Time> 7:33PM</Time>
   </line>
   <line>
     <name>B100 - B103</name>
@@ -579,17 +592,10 @@
   </line>
   <line>
     <name>Ronkonkoma</name>
-    <status>DELAYS</status>
-    <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;01/11/2017&amp;nbsp; 7:07PM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  The 6:04PM train from Atlantic Terminal due Ronkonkoma at 7:27PM is operating 10 minutes late due to a broken rail in one of the East River Tunnels.
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>01/11/2017</Date>
-    <Time> 7:07PM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>West Hempstead</name>
