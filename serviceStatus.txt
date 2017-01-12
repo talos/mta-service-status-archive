@@ -12,13 +12,6 @@
     <text>
                     &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;01/12/2017&amp;nbsp; 8:33AM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  Due to an earlier incident at &lt;STRONG&gt;125 St&lt;/STRONG&gt;, [4], [5] and [6] train service has resumed with delays.
-                &lt;br/&gt;&lt;br/&gt;
-              
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
                     &amp;nbsp;Posted:&amp;nbsp;01/12/2017&amp;nbsp; 8:13AM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
                   &lt;P&gt;Due to signal problems at &lt;STRONG&gt;Castle Hill Av&lt;/STRONG&gt;, southbound [6] trains are running with delays. &lt;/P&gt;
@@ -26,7 +19,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>01/12/2017</Date>
-    <Time> 8:33AM</Time>
+    <Time> 8:13AM</Time>
   </line>
   <line>
     <name>7</name>
@@ -44,17 +37,33 @@
   </line>
   <line>
     <name>BDFM</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>SERVICE CHANGE</status>
+    <text>
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;01/12/2017&amp;nbsp; 9:02AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;P&gt;Due to FDNY activity at &lt;STRONG&gt;15 St-Prospect Park&lt;/STRONG&gt;, southbound [F] and [G] trains are running express from &lt;STRONG&gt;Smith-9 Sts&lt;/STRONG&gt; to &lt;STRONG&gt;Church Av&lt;/STRONG&gt;. &lt;/P&gt;
+&lt;P&gt;Allow additional travel time.&lt;/P&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>01/12/2017</Date>
+    <Time> 9:02AM</Time>
   </line>
   <line>
     <name>G</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>SERVICE CHANGE</status>
+    <text>
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;01/12/2017&amp;nbsp; 9:02AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;P&gt;Due to FDNY activity at &lt;STRONG&gt;15 St-Prospect Park&lt;/STRONG&gt;, southbound [F] and [G] trains are running express from &lt;STRONG&gt;Smith-9 Sts&lt;/STRONG&gt; to &lt;STRONG&gt;Church Av&lt;/STRONG&gt;. &lt;/P&gt;
+&lt;P&gt;Allow additional travel time.&lt;/P&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>01/12/2017</Date>
+    <Time> 9:02AM</Time>
   </line>
   <line>
     <name>JZ</name>
@@ -86,10 +95,15 @@
   </line>
   <line>
     <name>SIR</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>PLANNED WORK</status>
+    <text>
+                    &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
+                    &lt;br/&gt;
+                  &lt;a class="plannedWorkDetailLink" onclick=ShowHide(145190);&gt;&lt;b&gt;[SIR] Trains board at the Tottenville-bound platform from Atlantic to Prince's Bay Stations&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 145190 class="plannedWorkDetail" &gt;&lt;/b&gt;Day, 9 AM to 3 PM, Thursday, Jan 12&lt;br&gt;&lt;br&gt;&amp;bull; Boarding change includes &lt;b&gt;Atlantic&lt;/b&gt;, &lt;b&gt;Nassau&lt;/b&gt;, &lt;b&gt;Richmond Valley&lt;/b&gt;, &lt;b&gt;Pleasant Plains&lt;/b&gt; and &lt;br&gt;  &lt;b&gt;Prince's Bay Stations&lt;/b&gt;. &lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>01/12/2017</Date>
+    <Time> 9:02AM</Time>
   </line>
 </subway><bus>
   <line>
@@ -127,7 +141,7 @@
               &lt;br/&gt;
             </text>
     <Date>01/12/2017</Date>
-    <Time> 8:52AM</Time>
+    <Time> 9:02AM</Time>
   </line>
   <line>
     <name>B100 - B103</name>
@@ -154,7 +168,7 @@
               &lt;br/&gt;
             </text>
     <Date>01/12/2017</Date>
-    <Time> 8:52AM</Time>
+    <Time> 9:02AM</Time>
   </line>
   <line>
     <name>BXM1 - BXM18</name>
@@ -167,7 +181,7 @@
               &lt;br/&gt;
             </text>
     <Date>01/12/2017</Date>
-    <Time> 8:52AM</Time>
+    <Time> 9:02AM</Time>
   </line>
   <line>
     <name>M1 - M116</name>
