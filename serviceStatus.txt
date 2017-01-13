@@ -1,10 +1,19 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>SERVICE CHANGE</status>
+    <text>
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;01/13/2017&amp;nbsp; 4:08PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;P&gt;Due to FDNY activity at &lt;STRONG&gt;Wall St&lt;/STRONG&gt;, some southbound [2] trains are running on the [5] line from &lt;STRONG&gt;149 St&lt;/STRONG&gt;-&lt;STRONG&gt;Grand Concourse&lt;/STRONG&gt; to &lt;STRONG&gt;Nevins St.&lt;/STRONG&gt;&lt;/P&gt;
+&lt;P&gt;Southbound [3] trains are running with delays.&lt;/P&gt;
+&lt;P&gt;Allow additional travel time.&lt;/P&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>01/13/2017</Date>
+    <Time> 4:08PM</Time>
   </line>
   <line>
     <name>456</name>
