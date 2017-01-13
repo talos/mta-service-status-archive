@@ -1,10 +1,18 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>DELAYS</status>
+    <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;01/12/2017&amp;nbsp; 7:17PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;P&gt;Due FDNY activity at &lt;STRONG&gt;135 St&lt;/STRONG&gt;, northbound [2] and [3] trains are running with delays. &lt;/P&gt;
+&lt;P&gt;Allow additional travel time.&lt;/P&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>01/12/2017</Date>
+    <Time> 7:17PM</Time>
   </line>
   <line>
     <name>456</name>
@@ -639,14 +647,13 @@
     <text>
                     &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;01/12/2017&amp;nbsp; 6:57PM
+                    &amp;nbsp;Posted:&amp;nbsp;01/12/2017&amp;nbsp; 7:19PM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
                   &lt;P&gt;The 6:27PM train from Atlantic Terminal due Far Rockaway at 7:25PM is canceled this evening due to a broken rail east of the terminal. Customers will be accommodated by the 6:59PM train from Atlantic Terminal due Far Rockaway 7:51PM, making all combined stops.&lt;/P&gt;
-&lt;P&gt;The 6:02PM train from Penn due Far Rockaway at 6:58PM is operating 10 minutes late due to congestion caused by a broken rail east of Atlantic Terminal. &lt;/P&gt;
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>01/12/2017</Date>
-    <Time> 6:57PM</Time>
+    <Time> 7:19PM</Time>
   </line>
   <line>
     <name>Hempstead</name>
