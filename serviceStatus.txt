@@ -79,10 +79,15 @@
   </line>
   <line>
     <name>SIR</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>PLANNED WORK</status>
+    <text>
+                    &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
+                    &lt;br/&gt;
+                  &lt;a class="plannedWorkDetailLink" onclick=ShowHide(145191);&gt;&lt;b&gt;[SIR] Trains board at the St. George-bound platform from Richmond Valley to Atlantic Stations&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 145191 class="plannedWorkDetail" &gt;&lt;/b&gt;Day, 9 AM to 3 PM, Friday, Jan 13&lt;br&gt;&lt;br&gt;&amp;bull; Boarding change includes &lt;b&gt;Richmond Valley&lt;/b&gt;, &lt;b&gt;Nassau&lt;/b&gt; and &lt;b&gt;Atlantic Stations&lt;/b&gt;.&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>01/13/2017</Date>
+    <Time> 9:02AM</Time>
   </line>
 </subway><bus>
   <line>
@@ -120,7 +125,7 @@
               &lt;br/&gt;
             </text>
     <Date>01/13/2017</Date>
-    <Time> 8:52AM</Time>
+    <Time> 9:02AM</Time>
   </line>
   <line>
     <name>B100 - B103</name>
@@ -161,7 +166,7 @@
               &lt;br/&gt;
             </text>
     <Date>01/13/2017</Date>
-    <Time> 8:52AM</Time>
+    <Time> 9:02AM</Time>
   </line>
   <line>
     <name>BXM1 - BXM18</name>
@@ -180,7 +185,7 @@
               &lt;br/&gt;
             </text>
     <Date>01/13/2017</Date>
-    <Time> 8:52AM</Time>
+    <Time> 9:02AM</Time>
   </line>
   <line>
     <name>M1 - M116</name>
@@ -644,17 +649,10 @@
   </line>
   <line>
     <name>Oyster Bay</name>
-    <status>DELAYS</status>
-    <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;01/13/2017&amp;nbsp; 8:21AM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  The 6:29AM train from Oyster Bay due Jamaica at 7:24AM is operating 39 minutes late due to earlier equipment trouble at Glen Head.&lt;br&gt;&lt;br&gt;The 7:13AM train from Oyster Bay due Long Island City at 8:37AM is now operating 26 minutes late after being held in Oyster Bay due to train ahead with equipment trouble.&lt;br&gt;
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>01/13/2017</Date>
-    <Time> 8:21AM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>Port Jefferson</name>
