@@ -219,10 +219,23 @@
   </line>
   <line>
     <name>BX1 - BX55</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>SERVICE CHANGE</status>
+    <text>
+                  &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                  &lt;span class="DateStyle"&gt;
+                  &amp;nbsp;Posted:&amp;nbsp;01/15/2017&amp;nbsp;10:03PM
+                  &lt;/span&gt;
+                  &lt;br/&gt;
+                  &lt;br/&gt;
+                &lt;P&gt;&lt;STRONG&gt;Bx12-SBS&lt;/STRONG&gt; buses are detoured westbound, due to mezzanine beam repair on Fordham and Jerome Av.&lt;/P&gt;
+&lt;P&gt;Detour is as follows:&lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;BX12-SBS Westbound&lt;/STRONG&gt;: Via E. Fordham Rd, right into E. Kingsbridge Rd follow E Kingsbridge Rd into W. Kingsbridge Rd, left on University Av, right on W. Fordham Rd and regular router.&lt;/P&gt;
+&lt;P&gt;Allow additional travel time. &lt;/P&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            </text>
+    <Date>01/15/2017</Date>
+    <Time>10:03PM</Time>
   </line>
   <line>
     <name>BXM1 - BXM18</name>
@@ -613,17 +626,8 @@
   </line>
   <line>
     <name>Port Jefferson</name>
-    <status>DELAYS</status>
+    <status>SERVICE CHANGE</status>
     <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;01/15/2017&amp;nbsp; 9:53PM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  &lt;DIV class=logbody&gt;
-&lt;DIV class=mainmsg&gt;The 8:51PM train from Penn due Huntington at 9:55PM is operating 10 minutes late due to earlier equipment trouble. &lt;/DIV&gt;
-&lt;DIV class=shortmsg&gt; &lt;/DIV&gt;&lt;/DIV&gt;
-                &lt;br/&gt;&lt;br/&gt;
-              
                     &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
                     &amp;nbsp;Posted:&amp;nbsp;01/15/2017&amp;nbsp; 9:00PM
@@ -651,7 +655,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>01/15/2017</Date>
-    <Time> 9:53PM</Time>
+    <Time> 9:00PM</Time>
   </line>
   <line>
     <name>Port Washington</name>
