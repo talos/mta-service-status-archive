@@ -1,17 +1,10 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>DELAYS</status>
-    <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;01/17/2017&amp;nbsp; 8:19PM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  Following an earlier incident at &lt;STRONG&gt;181 St&lt;/STRONG&gt;, [1] service has resumed with delays.
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>01/17/2017</Date>
-    <Time> 8:19PM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>456</name>
@@ -82,14 +75,13 @@
     <text>
                     &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;01/17/2017&amp;nbsp; 6:52PM
+                    &amp;nbsp;Posted:&amp;nbsp;01/17/2017&amp;nbsp; 8:39PM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  &lt;P&gt;Due to a power outage in the &lt;STRONG&gt;Pleasant Plains&lt;/STRONG&gt; area, [SIR] trains are running with delays in both directions. &lt;/P&gt;
-&lt;P&gt;Allow additional travel time. &lt;/P&gt;
+                  Following an earlier incident &lt;STRONG&gt;Pleasant Plains&lt;/STRONG&gt;, [SIR] service has resumed with delays.
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>01/17/2017</Date>
-    <Time> 6:52PM</Time>
+    <Time> 8:39PM</Time>
   </line>
 </subway><bus>
   <line>
