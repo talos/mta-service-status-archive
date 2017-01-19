@@ -33,18 +33,20 @@
     <text>
                     &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;01/18/2017&amp;nbsp; 7:22PM
+                    &amp;nbsp;Posted:&amp;nbsp;01/18/2017&amp;nbsp; 7:37PM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
                   &lt;P&gt;Due to FDNY activity at &lt;STRONG&gt;W 4 St-Wash Sq&lt;/STRONG&gt;, the following service changes are in effect: &lt;/P&gt;
 &lt;P&gt;&lt;BR&gt;Southbound [F] trains are running express from &lt;STRONG&gt;34 St-Herald Sq&lt;/STRONG&gt; to &lt;STRONG&gt;W 4 St-Wash Sq.&lt;/STRONG&gt;&lt;/P&gt;
 &lt;P&gt;Southbound [M] trains are running on the [E] line from &lt;STRONG&gt;5 Av/53 St&lt;/STRONG&gt; to &lt;STRONG&gt;W 4 St-Wash Sq.&lt;/STRONG&gt;&lt;/P&gt;
+&lt;P&gt;Some [F] are running on the [G] line from &lt;STRONG&gt;36 St-QNS&lt;/STRONG&gt; to Bergen St.&lt;STRONG&gt; &lt;/STRONG&gt;&lt;/P&gt;
+&lt;P&gt;[B] trains are suspended in both directions from &lt;STRONG&gt;145 St&lt;/STRONG&gt; to &lt;STRONG&gt;Brighton Beach.&lt;/STRONG&gt; &lt;/P&gt;
 &lt;P&gt;As an alternative for missed stops customers may take a northbound [F] or [M] train from &lt;STRONG&gt;W4 St-Washington Sq. &lt;/STRONG&gt;&lt;/P&gt;
 &lt;P&gt;Expect delays in [E], [F] and [M] train service in both directions. &lt;/P&gt;
 &lt;P&gt;Allow additional travel time.&lt;/P&gt;
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>01/18/2017</Date>
-    <Time> 7:22PM</Time>
+    <Time> 7:37PM</Time>
   </line>
   <line>
     <name>G</name>
@@ -546,10 +548,17 @@
   </line>
   <line>
     <name>Port Jefferson</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>DELAYS</status>
+    <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;01/18/2017&amp;nbsp; 7:36PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  The 7:05PM train from Huntington due Penn at 8:09PM is operating 10 minutes late at this time.
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>01/18/2017</Date>
+    <Time> 7:36PM</Time>
   </line>
   <line>
     <name>Port Washington</name>
