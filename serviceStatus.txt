@@ -1,24 +1,29 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>SERVICE CHANGE</status>
+    <status>DELAYS</status>
     <text>
-                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;01/19/2017&amp;nbsp; 6:00PM
+                    &amp;nbsp;Posted:&amp;nbsp;01/19/2017&amp;nbsp; 6:22PM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  &lt;P&gt;Due to signal problems at &lt;STRONG&gt;138 St-Grand Concourse&lt;/STRONG&gt;, northbound [5] trains are running on the [2] line from &lt;STRONG&gt;Nevins St &lt;/STRONG&gt;to &lt;STRONG&gt;149 St-Grand Concourse. &lt;/STRONG&gt;&lt;/P&gt;
-&lt;P&gt;Expect delays on the [2], [3], [4], [5] and [6] trains. &lt;/P&gt;
-&lt;P&gt;Allow additional travel time. &lt;/P&gt;
+                  Following an earlier incident at &lt;STRONG&gt;138 St-Grand Concourse&lt;/STRONG&gt;, [2], [3], [4], [5] and [6] service has resumed with delays.
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>01/19/2017</Date>
-    <Time> 6:00PM</Time>
+    <Time> 6:22PM</Time>
   </line>
   <line>
     <name>456</name>
-    <status>SERVICE CHANGE</status>
+    <status>DELAYS</status>
     <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;01/19/2017&amp;nbsp; 6:22PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  Following an earlier incident at &lt;STRONG&gt;138 St-Grand Concourse&lt;/STRONG&gt;, [2], [3], [4], [5] and [6] service has resumed with delays.
+                &lt;br/&gt;&lt;br/&gt;
+              
                     &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
                     &amp;nbsp;Posted:&amp;nbsp;01/19/2017&amp;nbsp; 6:11PM
@@ -28,18 +33,9 @@
 &lt;P&gt;There is no northbound [6D] express service. &lt;/P&gt;
 &lt;P&gt;Allow additional travel time.&lt;/P&gt;
                 &lt;br/&gt;&lt;br/&gt;
-              
-                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;01/19/2017&amp;nbsp; 6:00PM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  &lt;P&gt;Due to signal problems at &lt;STRONG&gt;138 St-Grand Concourse&lt;/STRONG&gt;, northbound [5] trains are running on the [2] line from &lt;STRONG&gt;Nevins St &lt;/STRONG&gt;to &lt;STRONG&gt;149 St-Grand Concourse. &lt;/STRONG&gt;&lt;/P&gt;
-&lt;P&gt;Expect delays on the [2], [3], [4], [5] and [6] trains. &lt;/P&gt;
-&lt;P&gt;Allow additional travel time. &lt;/P&gt;
-                &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>01/19/2017</Date>
-    <Time> 6:11PM</Time>
+    <Time> 6:22PM</Time>
   </line>
   <line>
     <name>7</name>
@@ -269,7 +265,7 @@
               &lt;br/&gt;
             </text>
     <Date>01/19/2017</Date>
-    <Time> 6:12PM</Time>
+    <Time> 6:22PM</Time>
   </line>
   <line>
     <name>M1 - M116</name>
