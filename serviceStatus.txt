@@ -22,17 +22,10 @@
   </line>
   <line>
     <name>ACE</name>
-    <status>DELAYS</status>
-    <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;01/18/2017&amp;nbsp; 6:02PM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  Following an earlier incident at &lt;STRONG&gt;75 Av,&lt;/STRONG&gt; [E] and [F] train service has resumed with extensive delays.
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>01/18/2017</Date>
-    <Time> 6:02PM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>BDFM</name>
@@ -44,13 +37,6 @@
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
                   &lt;P&gt;Due to FDNY activity at &lt;STRONG&gt;W 4 St-Wash Sq&lt;/STRONG&gt;, southbound [F] and [M] trains are running express from &lt;STRONG&gt;34 St-Herald Sq&lt;/STRONG&gt; to &lt;STRONG&gt;W 4 St-Wash Sq.&lt;/STRONG&gt;&lt;/P&gt;
 &lt;P&gt;Allow additional travel time.&lt;/P&gt;
-                &lt;br/&gt;&lt;br/&gt;
-              
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;01/18/2017&amp;nbsp; 6:02PM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  Following an earlier incident at &lt;STRONG&gt;75 Av,&lt;/STRONG&gt; [E] and [F] train service has resumed with extensive delays.
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>01/18/2017</Date>
@@ -652,10 +638,17 @@ Station.
   </line>
   <line>
     <name>Port Washington</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>DELAYS</status>
+    <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;01/18/2017&amp;nbsp; 6:58PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  The 6:24PM train from Penn due Port Washington at 7:04PM is operating 11 minutes late due to a late train ahead.
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>01/18/2017</Date>
+    <Time> 6:58PM</Time>
   </line>
   <line>
     <name>Ronkonkoma</name>
