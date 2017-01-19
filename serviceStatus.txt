@@ -8,17 +8,10 @@
   </line>
   <line>
     <name>456</name>
-    <status>DELAYS</status>
-    <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;01/19/2017&amp;nbsp; 8:49AM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  Due to an earlier incident at &lt;STRONG&gt;161 St-Yankee Stadium&lt;/STRONG&gt;, [4] train service has resumed with delays.
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>01/19/2017</Date>
-    <Time> 8:49AM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>7</name>
@@ -76,14 +69,13 @@
     <text>
                     &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;01/19/2017&amp;nbsp; 8:46AM
+                    &amp;nbsp;Posted:&amp;nbsp;01/19/2017&amp;nbsp; 8:58AM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  &lt;P&gt;Due to a train with mechanical problems at &lt;STRONG&gt;Bedford Av&lt;/STRONG&gt;, some 8 Av bound [L] trains are terminating at &lt;STRONG&gt;Bedford Av&lt;/STRONG&gt;. &lt;/P&gt;
-&lt;P&gt;Allow additional travel time.&lt;/P&gt;
+                  Following an earlier incident at &lt;STRONG&gt;Bedford Av&lt;/STRONG&gt;, [L] train service has resumed with delays.
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>01/19/2017</Date>
-    <Time> 8:46AM</Time>
+    <Time> 8:58AM</Time>
   </line>
   <line>
     <name>NQR</name>
@@ -357,10 +349,15 @@
 </bus><BT>
   <line>
     <name>Bronx-Whitestone</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>PLANNED WORK</status>
+    <text>
+                    &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
+                    &lt;br/&gt;
+                  BWB: Planned work; One lane closed Bronx bound, expect delays.
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>01/19/2017</Date>
+    <Time> 8:58AM</Time>
   </line>
   <line>
     <name>Cross Bay</name>
