@@ -37,13 +37,15 @@
   </line>
   <line>
     <name>ACE</name>
-    <status>DELAYS</status>
+    <status>SERVICE CHANGE</status>
     <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;01/19/2017&amp;nbsp;11:55PM
+                    &amp;nbsp;Posted:&amp;nbsp;01/20/2017&amp;nbsp;12:03AM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  &lt;P&gt;Due to an unauthorized person on the tracks at &lt;STRONG&gt;42 St-Port Authority Bus Terminal&lt;/STRONG&gt;, southbound [A] and [E] trains are running with delays. &lt;/P&gt;
+                  &lt;P&gt;Due to an unauthorized person on the tracks at &lt;STRONG&gt;42 St-Port Authority Bus Terminal&lt;/STRONG&gt;, the following service changes are in effect:&lt;/P&gt;
+&lt;P&gt;Southbound [A] trains are running express from &lt;STRONG&gt;59 St-Columbus Circle&lt;/STRONG&gt; to &lt;STRONG&gt;Canal St&lt;/STRONG&gt;. &lt;/P&gt;
+&lt;P&gt;Southbound [E] trains are running express from &lt;STRONG&gt;42 St-Port Authority Bus Terminal&lt;/STRONG&gt; to &lt;STRONG&gt;Canal St&lt;/STRONG&gt;. &lt;/P&gt;
 &lt;P&gt;Allow additional travel time.&lt;/P&gt;
                 &lt;br/&gt;&lt;br/&gt;
               
@@ -74,8 +76,8 @@
                   &lt;a class="plannedWorkDetailLink" onclick=ShowHide(143109);&gt;&lt;b&gt;[A] Ozone Park/Far Rockaway-bound trains skip 50 St, 23 St and Spring St&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 143109 class="plannedWorkDetail" &gt;&lt;/b&gt;Late Nights, 11:45 PM to 5 AM, Mon to Fri, Jan 16 - 20&lt;br&gt;&lt;br&gt;For service &lt;i&gt;to&lt;/i&gt; these stations, take the &lt;b&gt;[A]&lt;/b&gt; to 42 St-Port Authority, 14 St or Canal St and transfer to an &lt;br&gt;uptown &lt;b&gt;[A]&lt;/b&gt; or &lt;b&gt;[E]&lt;/b&gt;.&lt;br&gt;&lt;br&gt;&lt;/font&gt;For service &lt;i&gt;from&lt;/i&gt; 50 St, take the &lt;b&gt;[E]&lt;/b&gt; to 42 St-Port Authority and transfer to the &lt;b&gt;[A]&lt;/b&gt;.&lt;br&gt;&lt;br&gt;For service &lt;i&gt;from&lt;/i&gt; 23 and Spring Sts, take the &lt;b&gt;[A]&lt;/b&gt; or &lt;b&gt;[E]&lt;/b&gt; to W 4 St or 34 St-Penn Station and transfer to an &lt;br&gt;Ozone Park/Far Rockaway-bound &lt;b&gt;[A]&lt;/b&gt;.&lt;br&gt;&lt;br&gt;&lt;/font&gt;&lt;table class=plannedworkTableStyle  border=1 cellspacing=1 cellpadding=5 rules=none frame=box&gt;&lt;td&gt;  [ad]  &lt;td&gt;&lt;font size=1&gt;This service change affects one or more ADA accessible stations. Please call 511 for help with planning&lt;br&gt;your trip. If you are deaf or hard of hearing, use your preferred relay service provider or the free 711 relay.  &lt;/font&gt;&lt;/table&gt;&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
                 &lt;br/&gt;&lt;br/&gt;
               </text>
-    <Date>01/19/2017</Date>
-    <Time>11:55PM</Time>
+    <Date>01/20/2017</Date>
+    <Time>12:03AM</Time>
   </line>
   <line>
     <name>BDFM</name>
@@ -561,10 +563,15 @@
   </line>
   <line>
     <name>Robert F. Kennedy</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>PLANNED WORK</status>
+    <text>
+                    &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
+                    &lt;br/&gt;
+                  RFK: PLANNED WORK; MANHATTAN SPAN - BRIDGE LIFTS BOTH DIRECTIONS UNTIL 5 A.M. INTERMITTENT FULL CLOSURES. EXPECT DELAYS AND USE AN ALTERNATE ROUTE.
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>01/19/2017</Date>
+    <Time>11:30PM</Time>
   </line>
   <line>
     <name>Throgs Neck</name>
