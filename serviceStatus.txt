@@ -1,28 +1,38 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>DELAYS</status>
+    <status>SERVICE CHANGE</status>
     <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;01/20/2017&amp;nbsp;11:26AM
+                    &amp;nbsp;Posted:&amp;nbsp;01/20/2017&amp;nbsp;11:36AM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  &lt;P&gt;Due to an investigation at &lt;STRONG&gt;President St&lt;/STRONG&gt;, southbound [2] and [5] trains are running with delays. &lt;/P&gt;
+                  &lt;P&gt;Due to an investigation at &lt;STRONG&gt;President St&lt;/STRONG&gt;, the following service changes are in effect:&lt;/P&gt;
+&lt;P&gt;Southbound [2] trains are running on the [3] line from &lt;STRONG&gt;Franklin Av&lt;/STRONG&gt; to &lt;STRONG&gt;New Lots Av&lt;/STRONG&gt;.&lt;/P&gt;
+&lt;P&gt;Southbound [5] trains are running on [4] line &lt;STRONG&gt;Franklin Av&lt;/STRONG&gt; to &lt;STRONG&gt;Crown Hts-Utica Av&lt;/STRONG&gt;.&lt;/P&gt;
+&lt;P&gt;Some southbound [2] trains are terminating at &lt;STRONG&gt;42 St-Times Sq&lt;/STRONG&gt; or &lt;STRONG&gt;14 St&lt;/STRONG&gt;.&lt;/P&gt;
+&lt;P&gt;Some southbound [5] trains are terminating at &lt;STRONG&gt;Bowling Green&lt;/STRONG&gt;. &lt;/P&gt;
+&lt;P&gt;Expect delays in southbound [3] and [4] train service.&lt;/P&gt;
 &lt;P&gt;Allow additional travel time.&lt;/P&gt;
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>01/20/2017</Date>
-    <Time>11:26AM</Time>
+    <Time>11:36AM</Time>
   </line>
   <line>
     <name>456</name>
-    <status>DELAYS</status>
+    <status>SERVICE CHANGE</status>
     <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;01/20/2017&amp;nbsp;11:26AM
+                    &amp;nbsp;Posted:&amp;nbsp;01/20/2017&amp;nbsp;11:36AM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  &lt;P&gt;Due to an investigation at &lt;STRONG&gt;President St&lt;/STRONG&gt;, southbound [2] and [5] trains are running with delays. &lt;/P&gt;
+                  &lt;P&gt;Due to an investigation at &lt;STRONG&gt;President St&lt;/STRONG&gt;, the following service changes are in effect:&lt;/P&gt;
+&lt;P&gt;Southbound [2] trains are running on the [3] line from &lt;STRONG&gt;Franklin Av&lt;/STRONG&gt; to &lt;STRONG&gt;New Lots Av&lt;/STRONG&gt;.&lt;/P&gt;
+&lt;P&gt;Southbound [5] trains are running on [4] line &lt;STRONG&gt;Franklin Av&lt;/STRONG&gt; to &lt;STRONG&gt;Crown Hts-Utica Av&lt;/STRONG&gt;.&lt;/P&gt;
+&lt;P&gt;Some southbound [2] trains are terminating at &lt;STRONG&gt;42 St-Times Sq&lt;/STRONG&gt; or &lt;STRONG&gt;14 St&lt;/STRONG&gt;.&lt;/P&gt;
+&lt;P&gt;Some southbound [5] trains are terminating at &lt;STRONG&gt;Bowling Green&lt;/STRONG&gt;. &lt;/P&gt;
+&lt;P&gt;Expect delays in southbound [3] and [4] train service.&lt;/P&gt;
 &lt;P&gt;Allow additional travel time.&lt;/P&gt;
                 &lt;br/&gt;&lt;br/&gt;
               
@@ -32,7 +42,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>01/20/2017</Date>
-    <Time>11:26AM</Time>
+    <Time>11:36AM</Time>
   </line>
   <line>
     <name>7</name>
