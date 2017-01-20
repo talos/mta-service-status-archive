@@ -37,10 +37,15 @@
   </line>
   <line>
     <name>BDFM</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>PLANNED WORK</status>
+    <text>
+                    &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
+                    &lt;br/&gt;
+                  &lt;a class="plannedWorkDetailLink" onclick=ShowHide(142335);&gt;&lt;b&gt;[F] Some Jamaica-bound trains skip Smith-9 Sts, Carroll St and Bergen St&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 142335 class="plannedWorkDetail" &gt;Rush Hours&lt;/b&gt;, 7 AM to 9 AM &lt;i&gt;and&lt;/i&gt; 3:15 PM to 5:30 PM, Mon to Fri, until Jan 27&lt;br&gt;&lt;br&gt;For service &lt;i&gt;to&lt;/i&gt; these stations, take a Jamaica-bound [F] making these local stops&lt;br&gt;&lt;i&gt;or&lt;/i&gt; transfer at 4 Av-9 St to the [G]. &lt;br&gt;&lt;br&gt;&amp;bull; Please allow additional travel time.&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>01/20/2017</Date>
+    <Time> 7:12AM</Time>
   </line>
   <line>
     <name>G</name>
@@ -108,7 +113,7 @@
               &lt;br/&gt;
             </text>
     <Date>01/20/2017</Date>
-    <Time> 7:07AM</Time>
+    <Time> 7:12AM</Time>
   </line>
   <line>
     <name>B100 - B103</name>
@@ -135,7 +140,7 @@
               &lt;br/&gt;
             </text>
     <Date>01/20/2017</Date>
-    <Time> 7:07AM</Time>
+    <Time> 7:12AM</Time>
   </line>
   <line>
     <name>BXM1 - BXM18</name>
@@ -148,12 +153,22 @@
               &lt;br/&gt;
             </text>
     <Date>01/20/2017</Date>
-    <Time> 7:07AM</Time>
+    <Time> 7:12AM</Time>
   </line>
   <line>
     <name>M1 - M116</name>
-    <status>SERVICE CHANGE</status>
+    <status>DELAYS</status>
     <text>
+                  &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                  &lt;span class="DateStyle"&gt;
+                  &amp;nbsp;Posted:&amp;nbsp;01/20/2017&amp;nbsp; 7:12AM
+                  &lt;/span&gt;
+                  &lt;br/&gt;
+                  &lt;br/&gt;
+                Following an earlier incident on 66 St, &lt;STRONG&gt;M66&lt;/STRONG&gt; bus service has resumed with delays.
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
                   &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
                   &lt;span class="DateStyle"&gt;
                   &amp;nbsp;Posted:&amp;nbsp;01/20/2017&amp;nbsp; 6:54AM
@@ -166,19 +181,6 @@
 &lt;P&gt;&lt;STRONG&gt;M3 Northbound&lt;/STRONG&gt;: Via St Nicholas Av, left on 155 St, right on Broadway, right on 165 St, left on St Nicholas Av and regular route. &lt;/P&gt;
 &lt;P&gt;&lt;STRONG&gt;M100&lt;/STRONG&gt; and &lt;STRONG&gt;M101 Southbound: &lt;/STRONG&gt;Via Amsterdam Av, right on 165 St, left on Broadway, left on 155 St, right on Amsterdam Av and regular route. &lt;/P&gt;
 &lt;P&gt;&lt;STRONG&gt;M100&lt;/STRONG&gt; and &lt;STRONG&gt;M101 Northbound:&lt;/STRONG&gt; Via Amsterdam Av, left on 155 St, right on Broadway, right on 166 St, left on Amsterdam Av and regular route. &lt;/P&gt;
-&lt;P&gt;Allow additional travel time. &lt;/P&gt;
-              &lt;br/&gt;
-              &lt;br/&gt;
-            
-                  &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
-                  &lt;span class="DateStyle"&gt;
-                  &amp;nbsp;Posted:&amp;nbsp;01/20/2017&amp;nbsp; 6:13AM
-                  &lt;/span&gt;
-                  &lt;br/&gt;
-                  &lt;br/&gt;
-                &lt;P&gt;&lt;STRONG&gt;M66&lt;/STRONG&gt; buses are detoured due to Con Edison work on 66 St. &lt;/P&gt;
-&lt;P&gt;Detour is as follows: &lt;/P&gt;
-&lt;P&gt;&lt;STRONG&gt;Eastbound: &lt;/STRONG&gt;Via 66 St, left on 3 Av, right on 72 St, right on 2 Av, right on 68 St and regular route. &lt;/P&gt;
 &lt;P&gt;Allow additional travel time. &lt;/P&gt;
               &lt;br/&gt;
               &lt;br/&gt;
@@ -208,7 +210,7 @@
               &lt;br/&gt;
             </text>
     <Date>01/20/2017</Date>
-    <Time> 6:54AM</Time>
+    <Time> 7:12AM</Time>
   </line>
   <line>
     <name>Q1 - Q113</name>
