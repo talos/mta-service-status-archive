@@ -1,15 +1,41 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>SERVICE CHANGE</status>
+    <text>
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;01/20/2017&amp;nbsp; 7:44PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;P&gt;Due to an injured passenger at &lt;STRONG&gt;Jackson Av,&lt;/STRONG&gt; the following service changes are in effect:&lt;/P&gt;
+&lt;P&gt;Southbound [2] and [5] trains skip &lt;STRONG&gt;Jackson Av.&lt;/STRONG&gt; &lt;/P&gt;
+&lt;P&gt;Northbound [5] trains are running local from &lt;STRONG&gt;3 Av-149 St&lt;/STRONG&gt; to &lt;STRONG&gt;East 180 St&lt;/STRONG&gt;. &lt;/P&gt;
+&lt;P&gt;Travel Alternative: &lt;/P&gt;
+&lt;P&gt;For service from &lt;STRONG&gt;Jackson Av&lt;/STRONG&gt;, take a northbound [2] or [5] train to &lt;STRONG&gt;Intervale Av&lt;/STRONG&gt; for southbound [2] and [5] trains. &lt;/P&gt;
+&lt;P&gt;For service to &lt;STRONG&gt;Jackson Av,&lt;/STRONG&gt; take a southbound [2] or [5] train to &lt;STRONG&gt;149 St-Grand Concourse&lt;/STRONG&gt; for a northbound [2] or [5] train. &lt;/P&gt;
+&lt;P&gt;Allow additional travel time. &lt;/P&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>01/20/2017</Date>
+    <Time> 7:44PM</Time>
   </line>
   <line>
     <name>456</name>
-    <status>DELAYS</status>
+    <status>SERVICE CHANGE</status>
     <text>
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;01/20/2017&amp;nbsp; 7:44PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;P&gt;Due to an injured passenger at &lt;STRONG&gt;Jackson Av,&lt;/STRONG&gt; the following service changes are in effect:&lt;/P&gt;
+&lt;P&gt;Southbound [2] and [5] trains skip &lt;STRONG&gt;Jackson Av.&lt;/STRONG&gt; &lt;/P&gt;
+&lt;P&gt;Northbound [5] trains are running local from &lt;STRONG&gt;3 Av-149 St&lt;/STRONG&gt; to &lt;STRONG&gt;East 180 St&lt;/STRONG&gt;. &lt;/P&gt;
+&lt;P&gt;Travel Alternative: &lt;/P&gt;
+&lt;P&gt;For service from &lt;STRONG&gt;Jackson Av&lt;/STRONG&gt;, take a northbound [2] or [5] train to &lt;STRONG&gt;Intervale Av&lt;/STRONG&gt; for southbound [2] and [5] trains. &lt;/P&gt;
+&lt;P&gt;For service to &lt;STRONG&gt;Jackson Av,&lt;/STRONG&gt; take a southbound [2] or [5] train to &lt;STRONG&gt;149 St-Grand Concourse&lt;/STRONG&gt; for a northbound [2] or [5] train. &lt;/P&gt;
+&lt;P&gt;Allow additional travel time. &lt;/P&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              
                     &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
                     &amp;nbsp;Posted:&amp;nbsp;01/20/2017&amp;nbsp; 6:06PM
@@ -19,7 +45,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>01/20/2017</Date>
-    <Time> 6:06PM</Time>
+    <Time> 7:44PM</Time>
   </line>
   <line>
     <name>7</name>
