@@ -19,14 +19,14 @@
     <text>
                     &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;01/23/2017&amp;nbsp; 6:32AM
+                    &amp;nbsp;Posted:&amp;nbsp;01/23/2017&amp;nbsp; 8:04AM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
                   &lt;P&gt;Due to signal problems at &lt;STRONG&gt;111 St&lt;/STRONG&gt;, 34 St-Hudson Yards bound [7] trains are running with delays.&lt;/P&gt;
 &lt;P&gt;Allow additonal travel time.&lt;/P&gt;
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>01/23/2017</Date>
-    <Time> 6:32AM</Time>
+    <Time> 8:04AM</Time>
   </line>
   <line>
     <name>ACE</name>
@@ -34,14 +34,14 @@
     <text>
                     &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;01/23/2017&amp;nbsp; 7:57AM
+                    &amp;nbsp;Posted:&amp;nbsp;01/23/2017&amp;nbsp; 8:04AM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
                   &lt;P&gt;Due to signal problems at &lt;STRONG&gt;Canal St&lt;/STRONG&gt;, southbound [A], [C] and [E] trains are running with delays.&lt;/P&gt;
 &lt;P&gt;Allow additonal travel time. &lt;/P&gt;
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>01/23/2017</Date>
-    <Time> 7:57AM</Time>
+    <Time> 8:04AM</Time>
   </line>
   <line>
     <name>BDFM</name>
@@ -49,7 +49,7 @@
     <text>
                     &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;01/23/2017&amp;nbsp; 6:37AM
+                    &amp;nbsp;Posted:&amp;nbsp;01/23/2017&amp;nbsp; 8:04AM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
                   &lt;P&gt;Due to switch problems at &lt;STRONG&gt;Forest Hills-71 Av&lt;/STRONG&gt;, northbound [M] and [R] trains are running with delays.&lt;/P&gt;
 &lt;P&gt;Allow additonal travel time.&lt;/P&gt;
@@ -61,7 +61,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>01/23/2017</Date>
-    <Time> 6:37AM</Time>
+    <Time> 8:04AM</Time>
   </line>
   <line>
     <name>G</name>
@@ -86,27 +86,27 @@
   </line>
   <line>
     <name>NQR</name>
-    <status>SERVICE CHANGE</status>
+    <status>DELAYS</status>
     <text>
-                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;01/23/2017&amp;nbsp; 7:45AM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  &lt;P&gt;Due to signal problems at &lt;STRONG&gt;Astoria Blvd&lt;/STRONG&gt;, southbound [N] and [W] trains are running with delays.&lt;/P&gt;
-&lt;P&gt;[W] trains will run express from &lt;STRONG&gt;Astoia Blvd&lt;/STRONG&gt; to &lt;STRONG&gt;Queensboro Plaza&lt;/STRONG&gt;. &lt;/P&gt;
-&lt;P&gt;Allow additonal travel time.&lt;/P&gt;
-                &lt;br/&gt;&lt;br/&gt;
-              
                     &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;01/23/2017&amp;nbsp; 6:37AM
+                    &amp;nbsp;Posted:&amp;nbsp;01/23/2017&amp;nbsp; 8:04AM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
                   &lt;P&gt;Due to switch problems at &lt;STRONG&gt;Forest Hills-71 Av&lt;/STRONG&gt;, northbound [M] and [R] trains are running with delays.&lt;/P&gt;
 &lt;P&gt;Allow additonal travel time.&lt;/P&gt;
                 &lt;br/&gt;&lt;br/&gt;
+              
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;01/23/2017&amp;nbsp; 8:03AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;P&gt;Due to signal problems at &lt;STRONG&gt;Astoria Blvd&lt;/STRONG&gt;, southbound [N] and [W] trains are running with delays.&lt;/P&gt;
+&lt;P&gt;Southbound [W] trains will run express from &lt;STRONG&gt;Astoia Blvd&lt;/STRONG&gt; to &lt;STRONG&gt;Queensboro Plaza&lt;/STRONG&gt;. &lt;/P&gt;
+&lt;P&gt;Allow additonal travel time.&lt;/P&gt;
+                &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>01/23/2017</Date>
-    <Time> 7:45AM</Time>
+    <Time> 8:04AM</Time>
   </line>
   <line>
     <name>S</name>
@@ -375,10 +375,17 @@
 </BT><LIRR>
   <line>
     <name>Babylon</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>SERVICE CHANGE</status>
+    <text>
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;01/23/2017&amp;nbsp; 8:03AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  The 7:43AM train from Merrick due Penn at 8:31AM will make an added stop at St Albans Station at approximately 8:02AM to accommodate customers due to a delayed train.
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>01/23/2017</Date>
+    <Time> 8:03AM</Time>
   </line>
   <line>
     <name>City Terminal Zone</name>
@@ -445,8 +452,15 @@
   </line>
   <line>
     <name>West Hempstead</name>
-    <status>DELAYS</status>
+    <status>SERVICE CHANGE</status>
     <text>
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;01/23/2017&amp;nbsp; 8:03AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  The 7:43AM train from Merrick due Penn at 8:31AM will make an added stop at St Albans Station at approximately 8:02AM to accommodate customers due to a delayed train.
+                &lt;br/&gt;&lt;br/&gt;
+              
                     &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
                     &amp;nbsp;Posted:&amp;nbsp;01/23/2017&amp;nbsp; 7:57AM
@@ -455,7 +469,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>01/23/2017</Date>
-    <Time> 7:57AM</Time>
+    <Time> 8:03AM</Time>
   </line>
 </LIRR><MetroNorth>
   <line>
