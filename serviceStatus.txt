@@ -1,8 +1,17 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>DELAYS</status>
+    <status>SERVICE CHANGE</status>
     <text>
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;01/23/2017&amp;nbsp; 9:28AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;P&gt;Due to rail condition at &lt;STRONG&gt;Crown Hts-Utica Av&lt;/STRONG&gt;, there is no [3] train service between &lt;STRONG&gt;New Lots Av&lt;/STRONG&gt; and &lt;STRONG&gt;Crown Hts-Utica Av&lt;/STRONG&gt; in both directions. &lt;/P&gt;
+&lt;P&gt;As an alternate customers can use the &lt;STRONG&gt;B14&lt;/STRONG&gt; bus making nearby station stops.&lt;/P&gt;
+&lt;P&gt;Allow additional travel time.&lt;/P&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              
                     &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
                     &amp;nbsp;Posted:&amp;nbsp;01/23/2017&amp;nbsp; 9:07AM
@@ -11,7 +20,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>01/23/2017</Date>
-    <Time> 9:07AM</Time>
+    <Time> 9:28AM</Time>
   </line>
   <line>
     <name>456</name>
@@ -154,7 +163,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>01/23/2017</Date>
-    <Time> 9:22AM</Time>
+    <Time> 9:27AM</Time>
   </line>
 </subway><bus>
   <line>
@@ -228,7 +237,7 @@
               &lt;br/&gt;
             </text>
     <Date>01/23/2017</Date>
-    <Time> 9:22AM</Time>
+    <Time> 9:27AM</Time>
   </line>
   <line>
     <name>BXM1 - BXM18</name>
@@ -241,7 +250,7 @@
               &lt;br/&gt;
             </text>
     <Date>01/23/2017</Date>
-    <Time> 9:22AM</Time>
+    <Time> 9:27AM</Time>
   </line>
   <line>
     <name>M1 - M116</name>
@@ -272,7 +281,7 @@
               &lt;br/&gt;
             </text>
     <Date>01/23/2017</Date>
-    <Time> 9:22AM</Time>
+    <Time> 9:27AM</Time>
   </line>
   <line>
     <name>Q1 - Q113</name>
