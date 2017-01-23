@@ -1,19 +1,17 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>SERVICE CHANGE</status>
+    <status>DELAYS</status>
     <text>
-                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;01/23/2017&amp;nbsp; 9:28AM
+                    &amp;nbsp;Posted:&amp;nbsp;01/23/2017&amp;nbsp; 9:53AM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  &lt;P&gt;Due to rail condition at &lt;STRONG&gt;Crown Hts-Utica Av&lt;/STRONG&gt;, there is no [3] train service between &lt;STRONG&gt;New Lots Av&lt;/STRONG&gt; and &lt;STRONG&gt;Crown Hts-Utica Av&lt;/STRONG&gt; in both directions. &lt;/P&gt;
-&lt;P&gt;As an alternate customers can use the &lt;STRONG&gt;B14&lt;/STRONG&gt; bus making nearby station stops.&lt;/P&gt;
-&lt;P&gt;Allow additional travel time.&lt;/P&gt;
+                  Following an earlier incident at &lt;STRONG&gt;Crown Hts-Utica Av&lt;/STRONG&gt;, [3] train service has resumed with delays.
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>01/23/2017</Date>
-    <Time> 9:28AM</Time>
+    <Time> 9:53AM</Time>
   </line>
   <line>
     <name>456</name>
@@ -537,10 +535,17 @@
   </line>
   <line>
     <name>Port Washington</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>DELAYS</status>
+    <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;01/23/2017&amp;nbsp; 9:54AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  The 9:22AM train from Penn due Port Washington at 10:08AM is canceled at Great Neck Station due to a fallen utility pole near Plandome caused by high winds and winter storm conditions. The LIRR is in the process of securing buses, but they are not on scene at this time.
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>01/23/2017</Date>
+    <Time> 9:54AM</Time>
   </line>
   <line>
     <name>Ronkonkoma</name>
