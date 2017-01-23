@@ -79,22 +79,23 @@
   </line>
   <line>
     <name>L</name>
-    <status>DELAYS</status>
-    <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;01/23/2017&amp;nbsp; 4:52PM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  Following an earlier incident at &lt;STRONG&gt;3 Avenue&lt;/STRONG&gt;, [L] train service has resumed with delays.
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>01/23/2017</Date>
-    <Time> 4:52PM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>NQR</name>
-    <status>DELAYS</status>
+    <status>SERVICE CHANGE</status>
     <text>
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;01/23/2017&amp;nbsp; 5:30PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;P&gt;Due to a tree on the tracks at&lt;STRONG&gt; Sheepshead Bay&lt;/STRONG&gt;, southbound [Q] trains are running express from &lt;STRONG&gt;Kings Hwy&lt;/STRONG&gt; to &lt;STRONG&gt;Sheepshead Bay&lt;/STRONG&gt;. &lt;/P&gt;
+&lt;P&gt;Allow additional travel time.&lt;/P&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              
                     &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
                     &amp;nbsp;Posted:&amp;nbsp;01/23/2017&amp;nbsp; 4:02PM
@@ -104,7 +105,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>01/23/2017</Date>
-    <Time> 4:02PM</Time>
+    <Time> 5:30PM</Time>
   </line>
   <line>
     <name>S</name>
@@ -123,18 +124,8 @@
 </subway><bus>
   <line>
     <name>B1 - B84</name>
-    <status>DELAYS</status>
+    <status>PLANNED WORK</status>
     <text>
-                  &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                  &lt;span class="DateStyle"&gt;
-                  &amp;nbsp;Posted:&amp;nbsp;01/23/2017&amp;nbsp; 5:19PM
-                  &lt;/span&gt;
-                  &lt;br/&gt;
-                  &lt;br/&gt;
-                Following an earlier incident on Gates Av, &lt;STRONG&gt;B13&lt;/STRONG&gt; bus service has resumed with delays.
-              &lt;br/&gt;
-              &lt;br/&gt;
-            
                   &lt;span class="TitlePlannedWork" &gt;Planned Detour&lt;/span&gt;
                   &lt;br/&gt;
                 &lt;a class="plannedWorkDetailLink" onclick=ShowHide(117571);&gt;&lt;b&gt;B9 buses may experience delays due to track work on the N line between Stillwell Av and 8 Av &lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 117571 class="plannedWorkDetail" &gt;&lt;/b&gt;Until further notice&lt;br&gt;&lt;br&gt;&amp;bull; Please allow additional travel time.&lt;br&gt;&lt;/font&gt;&lt;b&gt;          &lt;/b&gt;&lt;/font&gt;&lt;a href=http://bustime.mta.info/#b9 target=_blank&gt;&lt;img height=30px src=http://web.mta.info/nyct/images/Bus_Time_logo.png&gt;&lt;/a&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
@@ -148,7 +139,7 @@
               &lt;br/&gt;
             </text>
     <Date>01/23/2017</Date>
-    <Time> 5:19PM</Time>
+    <Time> 5:27PM</Time>
   </line>
   <line>
     <name>B100 - B103</name>
@@ -431,17 +422,10 @@
   </line>
   <line>
     <name>Long Beach</name>
-    <status>DELAYS</status>
-    <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;01/23/2017&amp;nbsp; 5:05PM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  The 4:29PM train from Long Beach due Atlantic Terminal at 5:19PM is operating 11 minutes late due to a fallen utility pole near Oceanside.
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>01/23/2017</Date>
-    <Time> 5:05PM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>Montauk</name>
@@ -459,13 +443,6 @@
                     &amp;nbsp;Posted:&amp;nbsp;01/23/2017&amp;nbsp; 5:28PM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
                   The LIRR is experiencing delays averaging 5-10 minutes on the Oyster Bay, Ronkonkoma and Port Jefferson Branches due to signal trouble at Mineola
-                &lt;br/&gt;&lt;br/&gt;
-              
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;01/23/2017&amp;nbsp; 4:43PM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  The 4:20PM train from Oyster Bay due Jamaica at 5:13PM is operating 18 minutes late due to signal trouble east of Mineola.
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>01/23/2017</Date>
