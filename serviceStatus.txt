@@ -63,10 +63,18 @@
   </line>
   <line>
     <name>L</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>SERVICE CHANGE</status>
+    <text>
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;01/23/2017&amp;nbsp; 4:42PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;P&gt;Due to a sick passenger at &lt;STRONG&gt;3 Avenue&lt;/STRONG&gt;, 8 Avenue bound [L] trains are terminating at &lt;STRONG&gt;Bedford Av&lt;/STRONG&gt;. &lt;/P&gt;
+&lt;P&gt;Allow additional travel time&lt;/P&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>01/23/2017</Date>
+    <Time> 4:42PM</Time>
   </line>
   <line>
     <name>NQR</name>
@@ -170,7 +178,7 @@
               &lt;br/&gt;
             </text>
     <Date>01/23/2017</Date>
-    <Time> 4:32PM</Time>
+    <Time> 4:42PM</Time>
   </line>
   <line>
     <name>M1 - M116</name>
@@ -448,10 +456,17 @@
   </line>
   <line>
     <name>Oyster Bay</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>DELAYS</status>
+    <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;01/23/2017&amp;nbsp; 4:43PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  The 4:20PM train from Oyster Bay due Jamaica at 5:13PM is operating 18 minutes late due to signal trouble east of Mineola.
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>01/23/2017</Date>
+    <Time> 4:43PM</Time>
   </line>
   <line>
     <name>Port Jefferson</name>
