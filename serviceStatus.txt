@@ -42,7 +42,7 @@
     <text>
                     &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;01/25/2017&amp;nbsp; 7:47AM
+                    &amp;nbsp;Posted:&amp;nbsp;01/25/2017&amp;nbsp; 8:14AM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
                   &lt;P&gt;Due to NYPD activity at &lt;STRONG&gt;170 St&lt;/STRONG&gt;, southbound [B] bypass station..&lt;/P&gt;
 &lt;P&gt;Expect delays on [D] train service.&lt;/P&gt;
@@ -55,7 +55,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>01/25/2017</Date>
-    <Time> 7:47AM</Time>
+    <Time> 8:14AM</Time>
   </line>
   <line>
     <name>G</name>
@@ -102,8 +102,21 @@
 </subway><bus>
   <line>
     <name>B1 - B84</name>
-    <status>PLANNED WORK</status>
+    <status>SERVICE CHANGE</status>
     <text>
+                  &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                  &lt;span class="DateStyle"&gt;
+                  &amp;nbsp;Posted:&amp;nbsp;01/25/2017&amp;nbsp; 8:13AM
+                  &lt;/span&gt;
+                  &lt;br/&gt;
+                  &lt;br/&gt;
+                &lt;P&gt;&lt;STRONG&gt;B9&lt;/STRONG&gt; buses are detoured, due to road obstruction. &lt;/P&gt;
+&lt;P&gt;Detour is as follows:&lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;Kings Plaza bound&lt;/STRONG&gt;: Via 60 St, right on 8 Av, left on 62 St, left on Fort Hamilton Pkwy, right on 60 St and regular route.&lt;/P&gt;
+&lt;P&gt;Allow additional travel time.&lt;/P&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
                   &lt;span class="TitlePlannedWork" &gt;Planned Detour&lt;/span&gt;
                   &lt;br/&gt;
                 &lt;a class="plannedWorkDetailLink" onclick=ShowHide(117571);&gt;&lt;b&gt;B9 buses may experience delays due to track work on the N line between Stillwell Av and 8 Av &lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 117571 class="plannedWorkDetail" &gt;&lt;/b&gt;Until further notice&lt;br&gt;&lt;br&gt;&amp;bull; Please allow additional travel time.&lt;br&gt;&lt;/font&gt;&lt;b&gt;          &lt;/b&gt;&lt;/font&gt;&lt;a href=http://bustime.mta.info/#b9 target=_blank&gt;&lt;img height=30px src=http://web.mta.info/nyct/images/Bus_Time_logo.png&gt;&lt;/a&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
@@ -123,7 +136,7 @@
               &lt;br/&gt;
             </text>
     <Date>01/25/2017</Date>
-    <Time> 8:12AM</Time>
+    <Time> 8:13AM</Time>
   </line>
   <line>
     <name>B100 - B103</name>
@@ -167,16 +180,15 @@
   </line>
   <line>
     <name>M1 - M116</name>
-    <status>SERVICE CHANGE</status>
+    <status>DELAYS</status>
     <text>
-                  &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                  &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                   &lt;span class="DateStyle"&gt;
-                  &amp;nbsp;Posted:&amp;nbsp;01/25/2017&amp;nbsp; 6:59AM
+                  &amp;nbsp;Posted:&amp;nbsp;01/25/2017&amp;nbsp; 8:13AM
                   &lt;/span&gt;
                   &lt;br/&gt;
                   &lt;br/&gt;
-                &lt;P&gt;&lt;STRONG&gt;M103&lt;/STRONG&gt; southbound bus stop at Houston St and Bowery St is closed for construction. &lt;/P&gt;
-&lt;P&gt;Allow additional travel time.&lt;/P&gt;
+                Following an earlier incident at Houston St,&lt;STRONG&gt; M103&lt;/STRONG&gt; bus service has resumed with delays.
               &lt;br/&gt;
               &lt;br/&gt;
             
@@ -193,7 +205,7 @@
               &lt;br/&gt;
             </text>
     <Date>01/25/2017</Date>
-    <Time> 6:59AM</Time>
+    <Time> 8:13AM</Time>
   </line>
   <line>
     <name>Q1 - Q113</name>
@@ -368,10 +380,17 @@
 </BT><LIRR>
   <line>
     <name>Babylon</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>DELAYS</status>
+    <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;01/25/2017&amp;nbsp; 8:15AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  The 7:31AM train from Penn due Babylon at 8:44AM is operating 10 minutes late due to a late-arriving connection.
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>01/25/2017</Date>
+    <Time> 8:15AM</Time>
   </line>
   <line>
     <name>City Terminal Zone</name>
