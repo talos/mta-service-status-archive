@@ -33,22 +33,43 @@
   </line>
   <line>
     <name>7</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>PLANNED WORK</status>
+    <text>
+                    &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
+                    &lt;br/&gt;
+                  &lt;a class="plannedWorkDetailLink" onclick=ShowHide(143076);&gt;&lt;b&gt;[7] Flushing-bound trains skip 33, 40, 46, 52 and 69 Sts&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 143076 class="plannedWorkDetail" &gt;&lt;/b&gt;&lt;/font&gt;Days, 10:15 AM to 3 PM, Wed to Fri, until Feb 24  &lt;br&gt;&lt;br&gt;&lt;/font&gt;For service &lt;i&gt;to&lt;/i&gt; these stations, take the [7] to 61 St-Woodside or 74 St and &lt;br&gt;transfer to a Hudson Yards-bound [7].&lt;br&gt;&lt;br&gt;For service &lt;i&gt;from&lt;/i&gt; these stations, take the [7] to 61 St-Woodside or Queensboro Plaza &lt;br&gt;and transfer to a Flushing-bound [7].&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>01/25/2017</Date>
+    <Time>10:22AM</Time>
   </line>
   <line>
     <name>ACE</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>DELAYS</status>
+    <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;01/25/2017&amp;nbsp;10:20AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;P&gt;Due to an unauthorized person on the tracks at &lt;STRONG&gt;Forest Hills-71 Av&lt;/STRONG&gt;, southbound [E] and [F] trains are running with delays.&lt;/P&gt;
+&lt;P&gt;Allow additional travel time.&lt;/P&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>01/25/2017</Date>
+    <Time>10:20AM</Time>
   </line>
   <line>
     <name>BDFM</name>
-    <status>SERVICE CHANGE</status>
+    <status>DELAYS</status>
     <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;01/25/2017&amp;nbsp;10:20AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;P&gt;Due to an unauthorized person on the tracks at &lt;STRONG&gt;Forest Hills-71 Av&lt;/STRONG&gt;, southbound [E] and [F] trains are running with delays.&lt;/P&gt;
+&lt;P&gt;Allow additional travel time.&lt;/P&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              
                     &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
                     &amp;nbsp;Posted:&amp;nbsp;01/25/2017&amp;nbsp;10:07AM
@@ -59,7 +80,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>01/25/2017</Date>
-    <Time>10:07AM</Time>
+    <Time>10:20AM</Time>
   </line>
   <line>
     <name>G</name>
@@ -106,7 +127,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>01/25/2017</Date>
-    <Time>10:12AM</Time>
+    <Time>10:22AM</Time>
   </line>
 </subway><bus>
   <line>
@@ -189,7 +210,7 @@
               &lt;br/&gt;
             </text>
     <Date>01/25/2017</Date>
-    <Time>10:12AM</Time>
+    <Time>10:22AM</Time>
   </line>
   <line>
     <name>BXM1 - BXM18</name>
@@ -202,7 +223,7 @@
               &lt;br/&gt;
             </text>
     <Date>01/25/2017</Date>
-    <Time>10:12AM</Time>
+    <Time>10:22AM</Time>
   </line>
   <line>
     <name>M1 - M116</name>
