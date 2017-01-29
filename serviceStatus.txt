@@ -1,8 +1,19 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>PLANNED WORK</status>
+    <status>SERVICE CHANGE</status>
     <text>
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;01/29/2017&amp;nbsp; 8:45AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;P&gt;Due to a road obstruction at &lt;STRONG&gt;Riverdale Av&lt;/STRONG&gt; and &lt;STRONG&gt;Pennsylvania Av&lt;/STRONG&gt;, southbound [3] shuttle buses are detoured.&lt;/P&gt;
+&lt;P&gt;Detour is as follows: &lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;Van Siclen Bound&lt;/STRONG&gt;: Via Pennsylvania Av, left on New Lots Av, left on Van Siclen Av and regular route. &lt;/P&gt;
+&lt;P&gt;All corresponding stops will be made along the detoured route. &lt;/P&gt;
+&lt;P&gt;Allow additional travel time. &lt;/P&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              
                     &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
                     &lt;br/&gt;
                   &lt;a class="plannedWorkDetailLink" onclick=ShowHide(144221);&gt;&lt;b&gt;[3] Trains run local in both directions between 34 St-Penn Station and Chambers St&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 144221 class="plannedWorkDetail" &gt;&lt;/b&gt;Weekend, 11:30 PM Fri to 5 AM Mon, Jan 27 - 30&lt;br&gt;&lt;br&gt;&amp;bull; Please allow additional travel time.&lt;br&gt;&lt;br&gt;&lt;b&gt;Note:&lt;/b&gt; [3]&lt;b&gt; &lt;/b&gt;service operates between 148 St and New Lots Av, &lt;i&gt;all weekend&lt;/i&gt;.&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
@@ -29,7 +40,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>01/29/2017</Date>
-    <Time> 8:42AM</Time>
+    <Time> 8:45AM</Time>
   </line>
   <line>
     <name>456</name>
@@ -361,10 +372,15 @@
 </bus><BT>
   <line>
     <name>Bronx-Whitestone</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>PLANNED WORK</status>
+    <text>
+                    &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
+                    &lt;br/&gt;
+                  BWB planned work Queens bound one lane blocked, expect delays.
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>01/29/2017</Date>
+    <Time> 8:44AM</Time>
   </line>
   <line>
     <name>Cross Bay</name>
