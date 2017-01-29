@@ -1,8 +1,16 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>PLANNED WORK</status>
+    <status>SERVICE CHANGE</status>
     <text>
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;01/29/2017&amp;nbsp; 2:00AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;P&gt;Due to track maintenance at &lt;STRONG&gt;34 St-Penn Station&lt;/STRONG&gt;, southbound [3] trains are running local from &lt;STRONG&gt;96 St&lt;/STRONG&gt; to &lt;STRONG&gt;34 St-Penn Station&lt;/STRONG&gt;. &lt;/P&gt;
+&lt;P&gt;Allow additional travel time.&lt;/P&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              
                     &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
                     &lt;br/&gt;
                   &lt;a class="plannedWorkDetailLink" onclick=ShowHide(144221);&gt;&lt;b&gt;[3] Trains run local in both directions between 34 St-Penn Station and Chambers St&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 144221 class="plannedWorkDetail" &gt;&lt;/b&gt;Weekend, 11:30 PM Fri to 5 AM Mon, Jan 27 - 30&lt;br&gt;&lt;br&gt;&amp;bull; Please allow additional travel time.&lt;br&gt;&lt;br&gt;&lt;b&gt;Note:&lt;/b&gt; [3]&lt;b&gt; &lt;/b&gt;service operates between 148 St and New Lots Av, &lt;i&gt;all weekend&lt;/i&gt;.&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
@@ -24,7 +32,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>01/29/2017</Date>
-    <Time> 1:52AM</Time>
+    <Time> 2:00AM</Time>
   </line>
   <line>
     <name>456</name>
@@ -49,7 +57,7 @@
     <text>
                     &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;01/29/2017&amp;nbsp;12:00AM
+                    &amp;nbsp;Posted:&amp;nbsp;01/29/2017&amp;nbsp; 2:01AM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
                   &lt;P&gt;Due to track maintenance at &lt;STRONG&gt;52 St&lt;/STRONG&gt;, Main St bound [7] trains are running express from &lt;STRONG&gt;Queensboro Plaza&lt;/STRONG&gt; to &lt;STRONG&gt;74 St-Broadway&lt;/STRONG&gt;.&lt;/P&gt;
 &lt;P&gt;Main St bound trains stop at &lt;STRONG&gt;61 St-Woodside&lt;/STRONG&gt;. &lt;/P&gt;
@@ -63,7 +71,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>01/29/2017</Date>
-    <Time>12:00AM</Time>
+    <Time> 2:01AM</Time>
   </line>
   <line>
     <name>ACE</name>
