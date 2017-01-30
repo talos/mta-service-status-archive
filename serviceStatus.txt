@@ -505,15 +505,15 @@
     <text>
                     &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;01/30/2017&amp;nbsp;10:17AM
+                    &amp;nbsp;Posted:&amp;nbsp;01/30/2017&amp;nbsp;10:20AM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  The 10:03AM train from Hicksville due Port Jefferson at 11:10AM is being
- held prior to departure to accommodate customers from a late-arriving 
-connection.
+                  The 10:03AM train from Hicksville due Port Jefferson at 11:10AM is 
+operating 10 minutes late after being held prior to departure to 
+accommodate customers from a late-arriving connection.
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>01/30/2017</Date>
-    <Time>10:17AM</Time>
+    <Time>10:20AM</Time>
   </line>
   <line>
     <name>Port Washington</name>
@@ -524,10 +524,17 @@ connection.
   </line>
   <line>
     <name>Ronkonkoma</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>DELAYS</status>
+    <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;01/30/2017&amp;nbsp;10:21AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  The 9:14AM train from Penn due Ronkonkoma at 10:39AM is operating 13 minutes late due to a track condition near Westbury Station.
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>01/30/2017</Date>
+    <Time>10:21AM</Time>
   </line>
   <line>
     <name>West Hempstead</name>
