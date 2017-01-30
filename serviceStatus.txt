@@ -71,26 +71,23 @@
   </line>
   <line>
     <name>SIR</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>DELAYS</status>
+    <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;01/30/2017&amp;nbsp; 5:25PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  Due to an earlier incident at &lt;STRONG&gt;Tompkinsville station&lt;/STRONG&gt;, [SIR] train service has resumed with delays.
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>01/30/2017</Date>
+    <Time> 5:25PM</Time>
   </line>
 </subway><bus>
   <line>
     <name>B1 - B84</name>
     <status>DELAYS</status>
     <text>
-                  &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                  &lt;span class="DateStyle"&gt;
-                  &amp;nbsp;Posted:&amp;nbsp;01/30/2017&amp;nbsp; 5:08PM
-                  &lt;/span&gt;
-                  &lt;br/&gt;
-                  &lt;br/&gt;
-                Following an earlier incident on Gates Av between Myrtle Av and Irving Av, &lt;STRONG&gt;B52, Q55&lt;/STRONG&gt; and &lt;STRONG&gt;Q58 &lt;/STRONG&gt;bus service has resumed with delays.
-              &lt;br/&gt;
-              &lt;br/&gt;
-            
                   &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                   &lt;span class="DateStyle"&gt;
                   &amp;nbsp;Posted:&amp;nbsp;01/30/2017&amp;nbsp; 4:31PM
@@ -177,7 +174,7 @@
               &lt;br/&gt;
             </text>
     <Date>01/30/2017</Date>
-    <Time> 5:08PM</Time>
+    <Time> 4:31PM</Time>
   </line>
   <line>
     <name>B100 - B103</name>
@@ -310,16 +307,6 @@
     <text>
                   &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                   &lt;span class="DateStyle"&gt;
-                  &amp;nbsp;Posted:&amp;nbsp;01/30/2017&amp;nbsp; 5:08PM
-                  &lt;/span&gt;
-                  &lt;br/&gt;
-                  &lt;br/&gt;
-                Following an earlier incident on Gates Av between Myrtle Av and Irving Av, &lt;STRONG&gt;B52, Q55&lt;/STRONG&gt; and &lt;STRONG&gt;Q58 &lt;/STRONG&gt;bus service has resumed with delays.
-              &lt;br/&gt;
-              &lt;br/&gt;
-            
-                  &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                  &lt;span class="DateStyle"&gt;
                   &amp;nbsp;Posted:&amp;nbsp;01/30/2017&amp;nbsp; 4:31PM
                   &lt;/span&gt;
                   &lt;br/&gt;
@@ -396,7 +383,7 @@
               &lt;br/&gt;
             </text>
     <Date>01/30/2017</Date>
-    <Time> 5:08PM</Time>
+    <Time> 4:31PM</Time>
   </line>
   <line>
     <name>QM1 - QM44</name>
