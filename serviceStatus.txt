@@ -1,8 +1,15 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>PLANNED WORK</status>
+    <status>DELAYS</status>
     <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;01/30/2017&amp;nbsp;11:25PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;body bgcolor='White' style='font-family:sans-serif;font-size:10pt;'&gt;&lt;body bgcolor='White' style='font-family:sans-serif;font-size:10pt;'&gt;n/b [1]. [2] &amp; [3] trains are running with delays, due to a NYPD activity. Allow additional travel time.&lt;/body&gt;&lt;/body&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              
                     &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
                     &lt;br/&gt;
                   &lt;a class="plannedWorkDetailLink" onclick=ShowHide(144432);&gt;&lt;b&gt;[3] Trains replace the [4] in Brooklyn&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 144432 class="plannedWorkDetail" &gt;&lt;/b&gt;Late Nights, 10 PM to 5 AM, Mon to Fri, Jan 30 - Feb 3&lt;br&gt;&lt;br&gt;&lt;b&gt;[3]&lt;/b&gt; service operates between &lt;b&gt;148 St&lt;/b&gt; and &lt;b&gt;New Lots Av&lt;/b&gt;, making &lt;b&gt;[4]&lt;/b&gt; stops in Brooklyn.&lt;br&gt;&lt;br&gt;&lt;b&gt;Notes:&lt;/b&gt; Sutter Av-Rutland Rd and Junius St are closed for renovation.&lt;br&gt;           Pennsylvania Av is temporarily closed for structural repairs.&lt;br&gt;&lt;/font&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
@@ -14,7 +21,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>01/30/2017</Date>
-    <Time>11:22PM</Time>
+    <Time>11:25PM</Time>
   </line>
   <line>
     <name>456</name>
