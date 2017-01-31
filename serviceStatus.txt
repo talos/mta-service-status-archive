@@ -1,10 +1,21 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>SERVICE CHANGE</status>
+    <text>
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;01/31/2017&amp;nbsp;12:34PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;P&gt;Due to sick passenger at &lt;STRONG&gt;125 St&lt;/STRONG&gt;, the following service changes are in effect:&lt;/P&gt;
+&lt;P&gt;There is no [3] train service &lt;STRONG&gt;96 St&lt;/STRONG&gt; and &lt;STRONG&gt;Harlem-148 St&lt;/STRONG&gt; in both directions.&lt;/P&gt;
+&lt;P&gt;Northbound [2] trains are delayed. &lt;/P&gt;
+&lt;P&gt;As an alternate customers may use the &lt;STRONG&gt;M7&lt;/STRONG&gt; bus making nearby station stops.&lt;/P&gt;
+&lt;P&gt;Allow additional travel time.&lt;/P&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>01/31/2017</Date>
+    <Time>12:34PM</Time>
   </line>
   <line>
     <name>456</name>
@@ -609,17 +620,10 @@
 </BT><LIRR>
   <line>
     <name>Babylon</name>
-    <status>DELAYS</status>
-    <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;01/31/2017&amp;nbsp;12:33PM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  The 11:19AM train from Penn due Babylon at 12:24PM is operating 10 minutes late due to trackwork.
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>01/31/2017</Date>
-    <Time>12:33PM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>City Terminal Zone</name>
