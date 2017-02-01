@@ -15,10 +15,17 @@
   </line>
   <line>
     <name>456</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>DELAYS</status>
+    <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;02/01/2017&amp;nbsp; 3:17PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  Due to an earlier incident at &lt;STRONG&gt;Grand Central-42 St&lt;/STRONG&gt;, [4] and [5] service has resumed with delays.
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>02/01/2017</Date>
+    <Time> 3:17PM</Time>
   </line>
   <line>
     <name>7</name>
@@ -444,15 +451,10 @@
   </line>
   <line>
     <name>Throgs Neck</name>
-    <status>PLANNED WORK</status>
-    <text>
-                    &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
-                    &lt;br/&gt;
-                  TNB planned work Queens bound one lane blocked, expect delays.
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>02/01/2017</Date>
-    <Time> 8:30AM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>Verrazano-Narrows</name>
