@@ -99,8 +99,21 @@
 </subway><bus>
   <line>
     <name>B1 - B84</name>
-    <status>DELAYS</status>
+    <status>SERVICE CHANGE</status>
     <text>
+                  &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                  &lt;span class="DateStyle"&gt;
+                  &amp;nbsp;Posted:&amp;nbsp;02/01/2017&amp;nbsp;10:09AM
+                  &lt;/span&gt;
+                  &lt;br/&gt;
+                  &lt;br/&gt;
+                &lt;P&gt;&lt;STRONG&gt;B6&lt;/STRONG&gt; and &lt;STRONG&gt;B84&lt;/STRONG&gt; buses are detoured, due to construction on New Lots Av from Ashford St to Cleveland St. &lt;/P&gt;
+&lt;P&gt;Detour is as follows:&lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;B6 and B84 Eastbound towards Livonia Av&lt;/STRONG&gt;: Via Ashford St, right on Hegeman Av, left on Elton St, left on New Lots Av, right on Livonia Av and regular route.&lt;/P&gt;
+&lt;P&gt;Allow additional travel time.&lt;/P&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
                   &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                   &lt;span class="DateStyle"&gt;
                   &amp;nbsp;Posted:&amp;nbsp;02/01/2017&amp;nbsp;10:07AM
@@ -121,19 +134,6 @@
                 &lt;P&gt;&lt;STRONG&gt;B52&lt;/STRONG&gt; buses are detoured, due to construction on Gates Av from Myrtle Av to Irving Av. &lt;/P&gt;
 &lt;P&gt;Detour is as follows:&lt;/P&gt;
 &lt;P&gt;&lt;STRONG&gt;Westbound&lt;/STRONG&gt;: Via Wyckoff Av, left on Grove St, left on Irving Av, right on Gates Av and regular route.&lt;/P&gt;
-&lt;P&gt;Allow additional travel time.&lt;/P&gt;
-              &lt;br/&gt;
-              &lt;br/&gt;
-            
-                  &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
-                  &lt;span class="DateStyle"&gt;
-                  &amp;nbsp;Posted:&amp;nbsp;02/01/2017&amp;nbsp; 6:08AM
-                  &lt;/span&gt;
-                  &lt;br/&gt;
-                  &lt;br/&gt;
-                &lt;P&gt;&lt;STRONG&gt;B6&lt;/STRONG&gt; and &lt;STRONG&gt;B84&lt;/STRONG&gt; buses are detoured, due to construction on New Lots Av from Ashford St to Cleveland St. &lt;/P&gt;
-&lt;P&gt;Detour is as follows:&lt;/P&gt;
-&lt;P&gt;&lt;STRONG&gt;B6 and B84 Eastbound towards Livonia Av&lt;/STRONG&gt;: Via Ashford St, right on Hegeman Av, left on Elton St, left on New Lots Av, right on Livonia Av and regular route.&lt;/P&gt;
 &lt;P&gt;Allow additional travel time.&lt;/P&gt;
               &lt;br/&gt;
               &lt;br/&gt;
@@ -163,7 +163,7 @@
               &lt;br/&gt;
             </text>
     <Date>02/01/2017</Date>
-    <Time>10:07AM</Time>
+    <Time>10:09AM</Time>
   </line>
   <line>
     <name>B100 - B103</name>
@@ -227,19 +227,7 @@
     <text>
                   &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
                   &lt;span class="DateStyle"&gt;
-                  &amp;nbsp;Posted:&amp;nbsp;02/01/2017&amp;nbsp;10:03AM
-                  &lt;/span&gt;
-                  &lt;br/&gt;
-                  &lt;br/&gt;
-                &lt;P&gt;&lt;STRONG&gt;M57&lt;/STRONG&gt; northbound buses will not stop on West End Av at W 64 St, due to construction. &lt;/P&gt;
-&lt;P&gt;Customers are advised to use the next bus stop is W 66 St. &lt;/P&gt;
-&lt;P&gt;Allow additional travel time.&lt;/P&gt;
-              &lt;br/&gt;
-              &lt;br/&gt;
-            
-                  &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
-                  &lt;span class="DateStyle"&gt;
-                  &amp;nbsp;Posted:&amp;nbsp;02/01/2017&amp;nbsp; 6:09AM
+                  &amp;nbsp;Posted:&amp;nbsp;02/01/2017&amp;nbsp;10:09AM
                   &lt;/span&gt;
                   &lt;br/&gt;
                   &lt;br/&gt;
@@ -248,6 +236,18 @@
 &lt;P&gt;&lt;STRONG&gt;Southbound&lt;/STRONG&gt;: Via 125 St, left on Amsterdam Av, right on La Salle St, left on Broadway, and regular route. &lt;/P&gt;
 &lt;P&gt;All corresponding stops will be made along the detoured route. &lt;/P&gt;
 &lt;P&gt;Allow additional travel time. &lt;/P&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
+                  &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                  &lt;span class="DateStyle"&gt;
+                  &amp;nbsp;Posted:&amp;nbsp;02/01/2017&amp;nbsp;10:03AM
+                  &lt;/span&gt;
+                  &lt;br/&gt;
+                  &lt;br/&gt;
+                &lt;P&gt;&lt;STRONG&gt;M57&lt;/STRONG&gt; northbound buses will not stop on West End Av at W 64 St, due to construction. &lt;/P&gt;
+&lt;P&gt;Customers are advised to use the next bus stop is W 66 St. &lt;/P&gt;
+&lt;P&gt;Allow additional travel time.&lt;/P&gt;
               &lt;br/&gt;
               &lt;br/&gt;
             
@@ -276,29 +276,15 @@
               &lt;br/&gt;
             </text>
     <Date>02/01/2017</Date>
-    <Time>10:03AM</Time>
+    <Time>10:09AM</Time>
   </line>
   <line>
     <name>Q1 - Q113</name>
-    <status>SERVICE CHANGE</status>
+    <status>DELAYS</status>
     <text>
-                  &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
-                  &lt;span class="DateStyle"&gt;
-                  &amp;nbsp;Posted:&amp;nbsp;02/01/2017&amp;nbsp;10:06AM
-                  &lt;/span&gt;
-                  &lt;br/&gt;
-                  &lt;br/&gt;
-                &lt;P&gt;&lt;STRONG&gt;Q11&lt;/STRONG&gt; buses are detoured, due to construction on Albert Rd and Centerville St. &lt;/P&gt;
-&lt;P&gt;Detour is as follows:&lt;/P&gt;
-&lt;P&gt;&lt;STRONG&gt;Northbound&lt;/STRONG&gt;: Via Cohancy St, left on North Conduit Av, right on Cross Bay Blvd, right on 149 Av, left on Centerville St and regular route.&lt;/P&gt;
-&lt;P&gt;Corresponding stops will be made along detour route.&lt;/P&gt;
-&lt;P&gt;Allow additional travel time.&lt;/P&gt;
-              &lt;br/&gt;
-              &lt;br/&gt;
-            
                   &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                   &lt;span class="DateStyle"&gt;
-                  &amp;nbsp;Posted:&amp;nbsp;02/01/2017&amp;nbsp; 7:01AM
+                  &amp;nbsp;Posted:&amp;nbsp;02/01/2017&amp;nbsp;10:09AM
                   &lt;/span&gt;
                   &lt;br/&gt;
                   &lt;br/&gt;
@@ -307,9 +293,24 @@
               &lt;br/&gt;
               &lt;br/&gt;
             
+                  &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                  &lt;span class="DateStyle"&gt;
+                  &amp;nbsp;Posted:&amp;nbsp;02/01/2017&amp;nbsp;10:08AM
+                  &lt;/span&gt;
+                  &lt;br/&gt;
+                  &lt;br/&gt;
+                &lt;P&gt;&lt;STRONG&gt;Q25&lt;/STRONG&gt; buses are detoured in both directions, due to construction on 5 Av in College Point.&lt;/P&gt;
+&lt;P&gt;Detour is as follows:&lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;Towards College Point: &lt;/STRONG&gt;Via 127 St, left on 5 Av to College Point Blvd and regular route.&lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;Towards Jamaica:&lt;/STRONG&gt; Via 5 Av, left on College Point Blvd, left on 7 Av and regular route. &lt;/P&gt;
+&lt;P&gt;All corresponding stops will be made along the detour route.&lt;/P&gt;
+&lt;P&gt;Allow additional travel time.&lt;/P&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
                   &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                   &lt;span class="DateStyle"&gt;
-                  &amp;nbsp;Posted:&amp;nbsp;02/01/2017&amp;nbsp; 7:00AM
+                  &amp;nbsp;Posted:&amp;nbsp;02/01/2017&amp;nbsp;10:08AM
                   &lt;/span&gt;
                   &lt;br/&gt;
                   &lt;br/&gt;
@@ -320,15 +321,14 @@
             
                   &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
                   &lt;span class="DateStyle"&gt;
-                  &amp;nbsp;Posted:&amp;nbsp;02/01/2017&amp;nbsp; 6:07AM
+                  &amp;nbsp;Posted:&amp;nbsp;02/01/2017&amp;nbsp;10:06AM
                   &lt;/span&gt;
                   &lt;br/&gt;
                   &lt;br/&gt;
-                &lt;P&gt;&lt;STRONG&gt;Q25&lt;/STRONG&gt; buses are detoured in both directions, due to construction on 5 Av in College Point.&lt;/P&gt;
+                &lt;P&gt;&lt;STRONG&gt;Q11&lt;/STRONG&gt; buses are detoured, due to construction on Albert Rd and Centerville St. &lt;/P&gt;
 &lt;P&gt;Detour is as follows:&lt;/P&gt;
-&lt;P&gt;&lt;STRONG&gt;Towards College Point: &lt;/STRONG&gt;Via 127 St, left on 5 Av to College Point Blvd and regular route.&lt;/P&gt;
-&lt;P&gt;&lt;STRONG&gt;Towards Jamaica:&lt;/STRONG&gt; Via 5 Av, left on College Point Blvd, left on 7 Av and regular route. &lt;/P&gt;
-&lt;P&gt;All corresponding stops will be made along the detour route.&lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;Northbound&lt;/STRONG&gt;: Via Cohancy St, left on North Conduit Av, right on Cross Bay Blvd, right on 149 Av, left on Centerville St and regular route.&lt;/P&gt;
+&lt;P&gt;Corresponding stops will be made along detour route.&lt;/P&gt;
 &lt;P&gt;Allow additional travel time.&lt;/P&gt;
               &lt;br/&gt;
               &lt;br/&gt;
@@ -346,7 +346,7 @@
               &lt;br/&gt;
             </text>
     <Date>02/01/2017</Date>
-    <Time>10:06AM</Time>
+    <Time>10:09AM</Time>
   </line>
   <line>
     <name>QM1 - QM44</name>
