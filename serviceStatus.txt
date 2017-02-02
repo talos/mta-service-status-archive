@@ -277,8 +277,19 @@
   </line>
   <line>
     <name>Q1 - Q113</name>
-    <status>SERVICE CHANGE</status>
+    <status>DELAYS</status>
     <text>
+                  &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                  &lt;span class="DateStyle"&gt;
+                  &amp;nbsp;Posted:&amp;nbsp;02/02/2017&amp;nbsp; 9:13AM
+                  &lt;/span&gt;
+                  &lt;br/&gt;
+                  &lt;br/&gt;
+                &lt;P&gt;&lt;STRONG&gt;Q46, QM1,QM5, QM6, QM7, QM8, QM31, QM35&lt;/STRONG&gt; and &lt;STRONG&gt;QM36&lt;/STRONG&gt; westbound buses are delayed, due to DEP work on Union Tpke and 175 St. &lt;/P&gt;
+&lt;P&gt;Allow additional travel time.&lt;/P&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
                   &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
                   &lt;span class="DateStyle"&gt;
                   &amp;nbsp;Posted:&amp;nbsp;02/02/2017&amp;nbsp; 9:11AM
@@ -334,14 +345,25 @@
               &lt;br/&gt;
             </text>
     <Date>02/02/2017</Date>
-    <Time> 9:11AM</Time>
+    <Time> 9:13AM</Time>
   </line>
   <line>
     <name>QM1 - QM44</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>DELAYS</status>
+    <text>
+                  &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                  &lt;span class="DateStyle"&gt;
+                  &amp;nbsp;Posted:&amp;nbsp;02/02/2017&amp;nbsp; 9:13AM
+                  &lt;/span&gt;
+                  &lt;br/&gt;
+                  &lt;br/&gt;
+                &lt;P&gt;&lt;STRONG&gt;Q46, QM1,QM5, QM6, QM7, QM8, QM31, QM35&lt;/STRONG&gt; and &lt;STRONG&gt;QM36&lt;/STRONG&gt; westbound buses are delayed, due to DEP work on Union Tpke and 175 St. &lt;/P&gt;
+&lt;P&gt;Allow additional travel time.&lt;/P&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            </text>
+    <Date>02/02/2017</Date>
+    <Time> 9:13AM</Time>
   </line>
   <line>
     <name>S40 - S98</name>
@@ -360,10 +382,15 @@
 </bus><BT>
   <line>
     <name>Bronx-Whitestone</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>PLANNED WORK</status>
+    <text>
+                    &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
+                    &lt;br/&gt;
+                  BWB: Bronx bound; One lane closed. Expect delays.
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>02/02/2017</Date>
+    <Time> 9:12AM</Time>
   </line>
   <line>
     <name>Cross Bay</name>
@@ -535,17 +562,10 @@
   </line>
   <line>
     <name>Oyster Bay</name>
-    <status>DELAYS</status>
-    <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;02/02/2017&amp;nbsp; 8:46AM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  The 8:06AM train from Jamaica due Oyster Bay at 9:03AM is operating 11 minutes late due to a track condition near Merillon Ave.
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>02/02/2017</Date>
-    <Time> 8:46AM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>Port Jefferson</name>
