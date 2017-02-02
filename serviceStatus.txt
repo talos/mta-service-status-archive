@@ -36,10 +36,20 @@
   </line>
   <line>
     <name>BDFM</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>SERVICE CHANGE</status>
+    <text>
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;02/02/2017&amp;nbsp; 8:17AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;P&gt;Due to a train with mechanical problems at &lt;STRONG&gt;W 4 St-Washington Sq&lt;/STRONG&gt;: the following service changes are in effect:&lt;/P&gt;
+&lt;P&gt;Southbound [M] trains are running on the [E] line from &lt;STRONG&gt;5 Av&lt;/STRONG&gt; to &lt;STRONG&gt;W 4 St-Washington Sq&lt;/STRONG&gt;.&lt;/P&gt;
+&lt;P&gt;Some southbound [F] trains are running on the [E] line to &lt;STRONG&gt;Jackson Hts-Roosevelt Av&lt;/STRONG&gt; to &lt;STRONG&gt;Queens Plaza&lt;/STRONG&gt; then via [G] to &lt;STRONG&gt;Bergen St&lt;/STRONG&gt;.&lt;/P&gt;
+&lt;P&gt;Allow additional travel time.&lt;/P&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>02/02/2017</Date>
+    <Time> 8:17AM</Time>
   </line>
   <line>
     <name>G</name>
@@ -50,10 +60,17 @@
   </line>
   <line>
     <name>JZ</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>DELAYS</status>
+    <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;02/02/2017&amp;nbsp; 8:20AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  Due to an earlier incident at &lt;STRONG&gt;Myrtle Av&lt;/STRONG&gt;, [J] train service has resumed with delays.
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>02/02/2017</Date>
+    <Time> 8:20AM</Time>
   </line>
   <line>
     <name>L</name>
@@ -399,10 +416,15 @@
   </line>
   <line>
     <name>Verrazano-Narrows</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>PLANNED WORK</status>
+    <text>
+                    &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
+                    &lt;br/&gt;
+                  VNB planned work lower level Staten Island bound one lane closed, expect delays.
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>02/02/2017</Date>
+    <Time> 8:19AM</Time>
   </line>
 </BT><LIRR>
   <line>
@@ -434,13 +456,6 @@
 &lt;P&gt;The 7:11AM train from Massapequa Park due Penn at 8:08AM is operating 13 minutes late due to a train ahead with equipment trouble. &lt;/P&gt;
 &lt;P&gt;The 7:26AM train from Wantagh due Penn at 8:16AM is operating 12 minutes late due to congestion caused by an earlier train with equipment trouble.&lt;/P&gt;
 &lt;P&gt;The 7:10AM train from Babylon due Penn at 8:20AM is operating 11 minutes late due to an earlier train with equipment trouble. &lt;/P&gt;
-                &lt;br/&gt;&lt;br/&gt;
-              
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;02/02/2017&amp;nbsp; 7:56AM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  The 6:18AM train from Port Jefferson due Long Island City at 8:07AM is operating 11 minutes late after being delayed at Jamaica Station to accommodate customers from a late-arriving connection.
                 &lt;br/&gt;&lt;br/&gt;
               
                     &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
@@ -497,17 +512,10 @@
   </line>
   <line>
     <name>Port Jefferson</name>
-    <status>DELAYS</status>
-    <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;02/02/2017&amp;nbsp; 7:56AM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  The 6:18AM train from Port Jefferson due Long Island City at 8:07AM is operating 11 minutes late after being delayed at Jamaica Station to accommodate customers from a late-arriving connection.
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>02/02/2017</Date>
-    <Time> 7:56AM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>Port Washington</name>
@@ -518,10 +526,17 @@
   </line>
   <line>
     <name>Ronkonkoma</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>DELAYS</status>
+    <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;02/02/2017&amp;nbsp; 8:19AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  The 7:39AM train from Penn due Ronkonkoma at 8:59AM is being delayed at Queens Village due to a track condition near Merillon Ave.
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>02/02/2017</Date>
+    <Time> 8:19AM</Time>
   </line>
   <line>
     <name>West Hempstead</name>
