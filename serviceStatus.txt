@@ -39,17 +39,10 @@
   </line>
   <line>
     <name>BDFM</name>
-    <status>DELAYS</status>
-    <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;02/03/2017&amp;nbsp; 1:32PM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  Due to an earlier incident at &lt;STRONG&gt;145 St&lt;/STRONG&gt;, [D] train service has resumed with delays.
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>02/03/2017</Date>
-    <Time> 1:32PM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>G</name>
@@ -624,10 +617,17 @@
   </line>
   <line>
     <name>Long Beach</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>DELAYS</status>
+    <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;02/03/2017&amp;nbsp; 1:45PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  The 1:11PM train from Penn due Long Beach at 2:04PM is operating 10 minutes late after being delayed at Jamaica Station to accommodate customers from a late-arriving connection.
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>02/03/2017</Date>
+    <Time> 1:45PM</Time>
   </line>
   <line>
     <name>Montauk</name>
