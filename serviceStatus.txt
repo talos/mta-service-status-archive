@@ -5,6 +5,13 @@
     <text>
                     &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;02/03/2017&amp;nbsp; 9:00AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;P&gt;Due to an earlier incident at &lt;STRONG&gt;Franklin Av&lt;/STRONG&gt;, [2] and [3] train service has resumed with delays. &lt;/P&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
                     &amp;nbsp;Posted:&amp;nbsp;02/03/2017&amp;nbsp; 8:38AM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
                   &lt;P&gt;Due to signal problems at &lt;STRONG&gt;96 St&lt;/STRONG&gt;, southbound [2] and [3] trains are running with delays. &lt;/P&gt;
@@ -19,7 +26,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>02/03/2017</Date>
-    <Time> 8:38AM</Time>
+    <Time> 9:00AM</Time>
   </line>
   <line>
     <name>456</name>
@@ -109,10 +116,15 @@
   </line>
   <line>
     <name>SIR</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>PLANNED WORK</status>
+    <text>
+                    &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
+                    &lt;br/&gt;
+                  &lt;a class="plannedWorkDetailLink" onclick=ShowHide(147000);&gt;&lt;b&gt;[SIR] Trains board at the Tottenville-bound platform from Huguenot to Eltingville&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 147000 class="plannedWorkDetail" &gt;&lt;/b&gt;Day, 9 AM to 3 PM, Friday, Feb 3 &lt;br&gt;&lt;br&gt;&amp;bull; Boarding change includes &lt;b&gt;Huguenot&lt;/b&gt;, &lt;b&gt;Annadale&lt;/b&gt; and &lt;b&gt;Eltingville Stations&lt;/b&gt;.&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>02/03/2017</Date>
+    <Time> 9:02AM</Time>
   </line>
 </subway><bus>
   <line>
@@ -218,7 +230,7 @@
               &lt;br/&gt;
             </text>
     <Date>02/03/2017</Date>
-    <Time> 8:52AM</Time>
+    <Time> 9:02AM</Time>
   </line>
   <line>
     <name>BXM1 - BXM18</name>
@@ -231,7 +243,7 @@
               &lt;br/&gt;
             </text>
     <Date>02/03/2017</Date>
-    <Time> 8:52AM</Time>
+    <Time> 9:02AM</Time>
   </line>
   <line>
     <name>M1 - M116</name>
@@ -307,6 +319,20 @@
     <name>Q1 - Q113</name>
     <status>SERVICE CHANGE</status>
     <text>
+                  &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                  &lt;span class="DateStyle"&gt;
+                  &amp;nbsp;Posted:&amp;nbsp;02/03/2017&amp;nbsp; 9:02AM
+                  &lt;/span&gt;
+                  &lt;br/&gt;
+                  &lt;br/&gt;
+                &lt;P&gt;&lt;STRONG&gt;Q103&lt;/STRONG&gt; buses are detoured, due to Non MTA accident on 34 Av at Vernon Blvd. &lt;/P&gt;
+&lt;P&gt;Detour is as follows:&lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;Q103 North to 1 St/27 Av:&lt;/STRONG&gt; Via Vernon Blvd, right on 36 Av, left on 21 St, left on Broadway, right on Vernon Blvd and regular route.&lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;Q103 South to Borden Av&lt;/STRONG&gt;: Via Vernon Blvd, left on Broadway, right on 21 St, right on 36 Av, left on Vernon Blvd and regular route.&lt;/P&gt;
+&lt;P&gt;Allow additional travel time.&lt;/P&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
                   &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
                   &lt;span class="DateStyle"&gt;
                   &amp;nbsp;Posted:&amp;nbsp;02/03/2017&amp;nbsp; 8:40AM
@@ -395,7 +421,7 @@
               &lt;br/&gt;
             </text>
     <Date>02/03/2017</Date>
-    <Time> 8:40AM</Time>
+    <Time> 9:02AM</Time>
   </line>
   <line>
     <name>QM1 - QM44</name>
@@ -614,7 +640,7 @@
     <text>
                     &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;02/03/2017&amp;nbsp; 8:59AM
+                    &amp;nbsp;Posted:&amp;nbsp;02/03/2017&amp;nbsp; 9:01AM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
                   Hudson Line Service is currently experiencing delays of up to 35 minutes due to 
 a disabled train in the vicinity of Tarrytown. Please listen for announcements 
@@ -622,7 +648,7 @@ at your station.
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>02/03/2017</Date>
-    <Time> 8:59AM</Time>
+    <Time> 9:01AM</Time>
   </line>
   <line>
     <name>Harlem</name>
