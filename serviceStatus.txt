@@ -491,10 +491,17 @@ trouble. Customers will be accommodated by the next eastbound train.
   </line>
   <line>
     <name>Ronkonkoma</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>DELAYS</status>
+    <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;02/02/2017&amp;nbsp;10:59PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  The 10:15PM train from Penn due Ronkonkoma at 11:38PM is operating 18 minutes late due to a train ahead with equipment trouble.
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>02/02/2017</Date>
+    <Time>10:59PM</Time>
   </line>
   <line>
     <name>West Hempstead</name>
