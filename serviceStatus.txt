@@ -1,17 +1,10 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>DELAYS</status>
-    <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;02/03/2017&amp;nbsp;12:04PM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>02/03/2017</Date>
-    <Time>12:04PM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>456</name>
@@ -27,13 +20,6 @@
 &lt;P&gt;Both directions, there is no [6] train service between &lt;STRONG&gt;Hunts Point Av&lt;/STRONG&gt; and &lt;STRONG&gt;125 St.&lt;/STRONG&gt;&lt;/P&gt;
 &lt;P&gt;Expect delays in both directions on the [4], [5] and [6] trains.&lt;/P&gt;
 &lt;P&gt;Allow additional travel time.&lt;/P&gt;
-                &lt;br/&gt;&lt;br/&gt;
-              
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;02/03/2017&amp;nbsp;12:04PM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  
                 &lt;br/&gt;&lt;br/&gt;
               
                     &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
@@ -54,7 +40,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>02/03/2017</Date>
-    <Time>12:32PM</Time>
+    <Time>12:42PM</Time>
   </line>
   <line>
     <name>ACE</name>
@@ -109,17 +95,10 @@
   </line>
   <line>
     <name>S</name>
-    <status>DELAYS</status>
-    <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;02/03/2017&amp;nbsp;12:04PM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>02/03/2017</Date>
-    <Time>12:04PM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>SIR</name>
@@ -131,7 +110,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>02/03/2017</Date>
-    <Time>12:32PM</Time>
+    <Time>12:42PM</Time>
   </line>
 </subway><bus>
   <line>
@@ -250,7 +229,7 @@
               &lt;br/&gt;
             </text>
     <Date>02/03/2017</Date>
-    <Time>12:32PM</Time>
+    <Time>12:42PM</Time>
   </line>
   <line>
     <name>BXM1 - BXM18</name>
@@ -263,7 +242,7 @@
               &lt;br/&gt;
             </text>
     <Date>02/03/2017</Date>
-    <Time>12:32PM</Time>
+    <Time>12:42PM</Time>
   </line>
   <line>
     <name>M1 - M116</name>
