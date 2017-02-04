@@ -1,31 +1,17 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>DELAYS</status>
-    <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;02/03/2017&amp;nbsp; 6:14PM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  Following an earlier incident at &lt;STRONG&gt;86 St,&lt;/STRONG&gt; [2], [3],[4], [5] and [6] train service has resumed with extensive delays.
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>02/03/2017</Date>
-    <Time> 6:14PM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>456</name>
-    <status>DELAYS</status>
-    <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;02/03/2017&amp;nbsp; 6:14PM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  Following an earlier incident at &lt;STRONG&gt;86 St,&lt;/STRONG&gt; [2], [3],[4], [5] and [6] train service has resumed with extensive delays.
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>02/03/2017</Date>
-    <Time> 6:14PM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>7</name>
@@ -44,13 +30,6 @@
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
                   &lt;P&gt;Due to switch problems at &lt;STRONG&gt;Hoyt-Schermerhorn Sts,&lt;/STRONG&gt; northbound [A] and [C] trains are running with delays. &lt;/P&gt;
 &lt;P&gt;Allow additional travel time. &lt;/P&gt;
-                &lt;br/&gt;&lt;br/&gt;
-              
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;02/03/2017&amp;nbsp; 6:39PM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  Following an earlier incident at &lt;STRONG&gt;168 St&lt;/STRONG&gt;, [A] and [C] train service has resumed with delays.
                 &lt;br/&gt;&lt;br/&gt;
               
                     &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
@@ -278,18 +257,8 @@
   </line>
   <line>
     <name>M1 - M116</name>
-    <status>DELAYS</status>
+    <status>SERVICE CHANGE</status>
     <text>
-                  &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                  &lt;span class="DateStyle"&gt;
-                  &amp;nbsp;Posted:&amp;nbsp;02/03/2017&amp;nbsp; 6:17PM
-                  &lt;/span&gt;
-                  &lt;br/&gt;
-                  &lt;br/&gt;
-                Following an earlier incident on East 9 St, &lt;STRONG&gt;M8&lt;/STRONG&gt; bus service has resumed with delays.
-              &lt;br/&gt;
-              &lt;br/&gt;
-            
                   &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
                   &lt;span class="DateStyle"&gt;
                   &amp;nbsp;Posted:&amp;nbsp;02/03/2017&amp;nbsp; 4:04PM
@@ -365,7 +334,7 @@
               &lt;br/&gt;
             </text>
     <Date>02/03/2017</Date>
-    <Time> 6:17PM</Time>
+    <Time> 4:04PM</Time>
   </line>
   <line>
     <name>Q1 - Q113</name>
