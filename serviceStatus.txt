@@ -1,17 +1,10 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>DELAYS</status>
-    <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;02/06/2017&amp;nbsp; 7:31AM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  Following an earlier incident at &lt;STRONG&gt;Harlem-148 St&lt;/STRONG&gt;, [3] train service has resumed with delays.
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>02/06/2017</Date>
-    <Time> 7:31AM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>456</name>
@@ -423,15 +416,22 @@
   </line>
   <line>
     <name>Robert F. Kennedy</name>
-    <status>PLANNED WORK</status>
+    <status>DELAYS</status>
     <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;02/06/2017&amp;nbsp; 7:49AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  RFK Bridge delays Manhattan bound due to heavy volume on the southbound FDR and 125th St. exit.
+                &lt;br/&gt;&lt;br/&gt;
+              
                     &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
                     &lt;br/&gt;
                   RFK: Planned work; Queens to Manhattan ramp. Expect Delays.
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>02/06/2017</Date>
-    <Time> 7:34AM</Time>
+    <Time> 7:49AM</Time>
   </line>
   <line>
     <name>Throgs Neck</name>
