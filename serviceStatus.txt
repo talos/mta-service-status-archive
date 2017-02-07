@@ -81,14 +81,17 @@
     <text>
                     &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;02/06/2017&amp;nbsp;11:00PM
+                    &amp;nbsp;Posted:&amp;nbsp;02/06/2017&amp;nbsp;11:16PM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  &lt;P&gt;Due to FDNY Activity between &lt;STRONG&gt;1 Av&lt;/STRONG&gt; and &lt;STRONG&gt;Bedford Av&lt;/STRONG&gt;,  [L] trains are running with delay in both directions.&lt;/P&gt;
+                  &lt;P&gt;Due to FDNY Activity between &lt;B&gt;1 Av&lt;/B&gt; and &lt;B&gt;Bedford Av&lt;/B&gt;, there is no [L] trains between &lt;B&gt;8 Av&lt;/B&gt; and &lt;B&gt;Bedford Av&lt;/B&gt; in both directions. &lt;/P&gt;
+&lt;P&gt;Travel Atlernative: For service between Brooklyn and Manhattan, use [A] or [J] train service instead. &lt;/P&gt;
+&lt;P&gt;In Manhattan, use &lt;B&gt;M14 &lt;/B&gt;bus service running along 14 St. &lt;/P&gt;
+&lt;P&gt;Expect extensive delays in both directions&lt;/P&gt;
 &lt;P&gt;Allow additional travel time. &lt;/P&gt;
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>02/06/2017</Date>
-    <Time>11:00PM</Time>
+    <Time>11:16PM</Time>
   </line>
   <line>
     <name>NQR</name>
@@ -192,18 +195,8 @@
   </line>
   <line>
     <name>M1 - M116</name>
-    <status>DELAYS</status>
+    <status>SERVICE CHANGE</status>
     <text>
-                  &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                  &lt;span class="DateStyle"&gt;
-                  &amp;nbsp;Posted:&amp;nbsp;02/06/2017&amp;nbsp;10:52PM
-                  &lt;/span&gt;
-                  &lt;br/&gt;
-                  &lt;br/&gt;
-                Following an earlier incident on West 81 St, &lt;STRONG&gt;M79 &lt;/STRONG&gt;bus service has resumed with delays.
-              &lt;br/&gt;
-              &lt;br/&gt;
-            
                   &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
                   &lt;span class="DateStyle"&gt;
                   &amp;nbsp;Posted:&amp;nbsp;02/06/2017&amp;nbsp;10:03PM
@@ -256,7 +249,7 @@
               &lt;br/&gt;
             </text>
     <Date>02/06/2017</Date>
-    <Time>10:52PM</Time>
+    <Time>10:03PM</Time>
   </line>
   <line>
     <name>Q1 - Q113</name>
@@ -481,17 +474,10 @@
   </line>
   <line>
     <name>Oyster Bay</name>
-    <status>DELAYS</status>
-    <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;02/06/2017&amp;nbsp;10:44PM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  The 10:11PM train from Jamaica due Oyster Bay at 11:04PM is operating 11 minutes late at this time.
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>02/06/2017</Date>
-    <Time>10:44PM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>Port Jefferson</name>
