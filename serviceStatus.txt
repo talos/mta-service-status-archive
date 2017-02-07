@@ -102,14 +102,13 @@
   </line>
   <line>
     <name>SIR</name>
-    <status>SERVICE CHANGE</status>
+    <status>DELAYS</status>
     <text>
-                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;02/07/2017&amp;nbsp;12:38PM
+                    &amp;nbsp;Posted:&amp;nbsp;02/07/2017&amp;nbsp;12:44PM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  &lt;P&gt;Due to FDNY activity at &lt;STRONG&gt;St George&lt;/STRONG&gt;, there is no [SIR] train service in both directions between &lt;STRONG&gt;St George&lt;/STRONG&gt; and &lt;STRONG&gt;Tompkinsville.&lt;/STRONG&gt;&lt;/P&gt;
-&lt;P&gt;Allow additional travel time.&lt;/P&gt;
+                  Following an earlier incident at &lt;STRONG&gt;St George&lt;/STRONG&gt;, [SIR] train service has resumed with delays.
                 &lt;br/&gt;&lt;br/&gt;
               
                     &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
@@ -118,7 +117,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>02/07/2017</Date>
-    <Time>12:38PM</Time>
+    <Time>12:44PM</Time>
   </line>
 </subway><bus>
   <line>
@@ -730,10 +729,17 @@
   </line>
   <line>
     <name>New Haven</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>DELAYS</status>
+    <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;02/07/2017&amp;nbsp;12:43PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  New Haven Line Service is currently experiencing delays of 5 to 10 minutes due to Circuit Issues in the vicinity of Stamford. Please listen for announcements at your station.
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>02/07/2017</Date>
+    <Time>12:43PM</Time>
   </line>
   <line>
     <name>New Canaan</name>
