@@ -405,10 +405,17 @@
   </line>
   <line>
     <name>Long Beach</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>DELAYS</status>
+    <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;02/07/2017&amp;nbsp; 7:37AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  The 6:47AM train from Atlantic Terminal due Long Beach at 7:36AM is operating 10 minutes late due to a late train ahead.
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>02/07/2017</Date>
+    <Time> 7:37AM</Time>
   </line>
   <line>
     <name>Montauk</name>
@@ -451,17 +458,10 @@
   </line>
   <line>
     <name>Ronkonkoma</name>
-    <status>DELAYS</status>
-    <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;02/07/2017&amp;nbsp; 7:22AM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  The 6:08AM train from Ronkonkoma due Penn at 7:27AM is operating 11 minutes late due to congestion caused by a delayed train ahead.
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>02/07/2017</Date>
-    <Time> 7:22AM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>West Hempstead</name>
