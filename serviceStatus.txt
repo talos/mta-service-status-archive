@@ -1,41 +1,31 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>SERVICE CHANGE</status>
+    <status>DELAYS</status>
     <text>
-                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;02/08/2017&amp;nbsp; 5:21PM
+                    &amp;nbsp;Posted:&amp;nbsp;02/08/2017&amp;nbsp; 5:30PM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  &lt;P&gt;Due to FDNY activity at &lt;STRONG&gt;Wall St&lt;/STRONG&gt;, the following service changes are in effect: &lt;/P&gt;
-&lt;P&gt;There is no [2] and [3] train service in both directions between &lt;STRONG&gt;Chambers&lt;/STRONG&gt; and &lt;STRONG&gt;Atlantic Av-Barclays&lt;/STRONG&gt; Ctr.  &lt;/P&gt;
-&lt;P&gt;[2] trains will operate on the [5] line from &lt;STRONG&gt;Nevins St&lt;/STRONG&gt; to &lt;STRONG&gt;149 St-Grand Concourse &lt;/STRONG&gt;in both directions&lt;STRONG&gt;. &lt;/STRONG&gt;&lt;/P&gt;
-&lt;P&gt;As an alternative customers may use &lt;STRONG&gt;M15&lt;/STRONG&gt; and &lt;STRONG&gt;M15-SBS&lt;/STRONG&gt; or &lt;STRONG&gt;M55&lt;/STRONG&gt; local bus service making nearby station stops.&lt;STRONG&gt; &lt;/STRONG&gt;&lt;/P&gt;
-&lt;P&gt;Expect delays on [2], [3], and [5] train service in both directions.&lt;STRONG&gt; &lt;/STRONG&gt;&lt;/P&gt;
-&lt;P&gt;Allow additional travel time.&lt;/P&gt;
+                  Following an earlier incident at &lt;STRONG&gt;Wall St,&lt;/STRONG&gt; [2] and [3] train service has resumed with delays.
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>02/08/2017</Date>
-    <Time> 5:21PM</Time>
+    <Time> 5:30PM</Time>
   </line>
   <line>
     <name>456</name>
-    <status>SERVICE CHANGE</status>
+    <status>DELAYS</status>
     <text>
-                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;02/08/2017&amp;nbsp; 5:21PM
+                    &amp;nbsp;Posted:&amp;nbsp;02/08/2017&amp;nbsp; 5:30PM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  &lt;P&gt;Due to FDNY activity at &lt;STRONG&gt;Wall St&lt;/STRONG&gt;, the following service changes are in effect: &lt;/P&gt;
-&lt;P&gt;There is no [2] and [3] train service in both directions between &lt;STRONG&gt;Chambers&lt;/STRONG&gt; and &lt;STRONG&gt;Atlantic Av-Barclays&lt;/STRONG&gt; Ctr.  &lt;/P&gt;
-&lt;P&gt;[2] trains will operate on the [5] line from &lt;STRONG&gt;Nevins St&lt;/STRONG&gt; to &lt;STRONG&gt;149 St-Grand Concourse &lt;/STRONG&gt;in both directions&lt;STRONG&gt;. &lt;/STRONG&gt;&lt;/P&gt;
-&lt;P&gt;As an alternative customers may use &lt;STRONG&gt;M15&lt;/STRONG&gt; and &lt;STRONG&gt;M15-SBS&lt;/STRONG&gt; or &lt;STRONG&gt;M55&lt;/STRONG&gt; local bus service making nearby station stops.&lt;STRONG&gt; &lt;/STRONG&gt;&lt;/P&gt;
-&lt;P&gt;Expect delays on [2], [3], and [5] train service in both directions.&lt;STRONG&gt; &lt;/STRONG&gt;&lt;/P&gt;
-&lt;P&gt;Allow additional travel time.&lt;/P&gt;
+                  Following an earlier incident at &lt;STRONG&gt;Wall St,&lt;/STRONG&gt; [2] and [3] train service has resumed with delays.
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>02/08/2017</Date>
-    <Time> 5:21PM</Time>
+    <Time> 5:30PM</Time>
   </line>
   <line>
     <name>7</name>
@@ -301,16 +291,6 @@
     <text>
                   &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                   &lt;span class="DateStyle"&gt;
-                  &amp;nbsp;Posted:&amp;nbsp;02/08/2017&amp;nbsp; 5:05PM
-                  &lt;/span&gt;
-                  &lt;br/&gt;
-                  &lt;br/&gt;
-                Following an earlier incident at Essex St and E. Broadway, &lt;STRONG&gt;M9&lt;/STRONG&gt; bus service has resumed with delays.
-              &lt;br/&gt;
-              &lt;br/&gt;
-            
-                  &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                  &lt;span class="DateStyle"&gt;
                   &amp;nbsp;Posted:&amp;nbsp;02/08/2017&amp;nbsp; 4:16PM
                   &lt;/span&gt;
                   &lt;br/&gt;
@@ -381,7 +361,7 @@
               &lt;br/&gt;
             </text>
     <Date>02/08/2017</Date>
-    <Time> 5:05PM</Time>
+    <Time> 4:16PM</Time>
   </line>
   <line>
     <name>Q1 - Q113</name>
@@ -679,6 +659,13 @@
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
                   &lt;b&gt;LIRR customers can expect some delays and cancellations systemwide during the PM Rush as a result of reduced track capacity at Jamaica due to the earlier derailment. Some trains will depart from different tracks at Jamaica. Please check departure boards and listen for announcements.&lt;/b&gt;&lt;br&gt;&lt;br&gt;As a result, the following trains will be canceled this evening:&lt;br&gt;&lt;ul&gt;&lt;li&gt;The 4:03PM train from Penn due Babylon at 5:05PM is cancelled. Customers will be accommodated by the 4:12PM train from Penn due Massapequa Park at 5:10PM with stops at Woodside, Forest Hills, Kew Gardens, Jamaica, Rockville Centre, and all further stops to Babylon.&lt;/li&gt;&lt;li&gt;The 4:34PM train from Penn due Babylon at 5:39PM is cancelled. Customers will be accommodated by the 4:37PM train from Penn due Wantagh at 5:27PM with stops at Rockville Centre, and all further stops to Babylon.&lt;/li&gt;&lt;li&gt;The 4:57PM train from Penn due Wantagh at 5:42PM is cancelled. Customers will be accommodated by the 5:03PM train from Penn due Freeport at 5:46PM with stops at Rockville Centre, Baldwin, Freeport, Merrick, Bellmore and Wantagh.&lt;/li&gt;&lt;li&gt;The 5:19PM train from Penn due Wantagh at 6:06PM is cancelled. Customers will be accommodated by the 5:24PM train from Penn due Freeport at 6:10PM with stops at Forest Hills, Kew Gardens, Jamaica, Rockville Centre, and all further stops to Wantagh.&lt;/li&gt;&lt;li&gt;The 6:05PM train from Penn due Wantagh at 6:51PM is cancelled. Customers will be accommodated by the 6:10PM train from Penn due Freeport at 6:54PM with a stop at Rockville Centre, and all further stops to Wantagh.&lt;/li&gt;&lt;li&gt;The 6:33PM train from Penn due Babylon at 7:35PM is cancelled. Customers will be accommodated by the 6:36PM train from Penn due Wantagh at 7:29PM with stops at Jamaica, St. Albans, Rockville Centre, and all further stops to Babylon.&lt;/li&gt;&lt;/ul&gt;&lt;br&gt; &lt;br&gt;&lt;br&gt;
                 &lt;br/&gt;&lt;br/&gt;
+              
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;02/08/2017&amp;nbsp; 5:30PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  The 4:56PM train from Atlantic Terminal due Babylon at 6:10PM is operating 12 minutes late due to reduced track capacity at Jamaica.
+                &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>02/08/2017</Date>
     <Time> 3:18PM</Time>
@@ -798,17 +785,10 @@ operating 12 minutes late due to switch trouble at Queens Village.&lt;br&gt;&lt;
   </line>
   <line>
     <name>Port Washington</name>
-    <status>DELAYS</status>
-    <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;02/08/2017&amp;nbsp; 5:05PM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  The 4:36PM train from Port Washington due Penn at 5:20PM is operating 10 minutes late at this time.
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>02/08/2017</Date>
-    <Time> 5:05PM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>Ronkonkoma</name>
@@ -816,21 +796,25 @@ operating 12 minutes late due to switch trouble at Queens Village.&lt;br&gt;&lt;
     <text>
                     &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;02/08/2017&amp;nbsp; 5:20PM
+                    &amp;nbsp;Posted:&amp;nbsp;02/08/2017&amp;nbsp; 5:30PM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  The LIRR is experiencing eastbound delays averaging 10-15 minutes on the Ronkonkoma, Port Jefferson and Oyster Bay branches due to switch trouble at Queens Village.
+                  &lt;div class="logbody"&gt;
+        &lt;div class="mainmsg"&gt;
+          The 4:54PM train from Penn due Farmingdale at 5:56PM is 
+operating 10 minutes late due to switch trouble at Queens Village.&lt;br&gt;
+        &lt;/div&gt;&lt;br&gt;The 4:34PM train from Atlantic Terminal due Ronkonkoma at 5:57PM is operating 16 minutes late due to switch trouble at Queens Village. &lt;/div&gt;
+&lt;p&gt;The 4:24PM train from Penn due Ronkonkoma at 5:44PM is operating 10 minutes late due to reduced track capacity at Jamaica.&lt;br&gt;&lt;br&gt;&lt;/p&gt;
                 &lt;br/&gt;&lt;br/&gt;
               
                     &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
                     &amp;nbsp;Posted:&amp;nbsp;02/08/2017&amp;nbsp; 5:20PM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  &lt;P&gt;The 4:34PM train from Atlantic Terminal due Ronkonkoma at 5:57PM is operating 16 minutes late due to switch trouble at Queens Village. &lt;/P&gt;
-&lt;P&gt;The 4:24PM train from Penn due Ronkonkoma at 5:44PM is operating 10 minutes late due to reduced track capacity at Jamaica.&lt;BR&gt;&lt;BR&gt;&lt;/P&gt;
+                  The LIRR is experiencing eastbound delays averaging 10-15 minutes on the Ronkonkoma, Port Jefferson and Oyster Bay branches due to switch trouble at Queens Village.
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>02/08/2017</Date>
-    <Time> 5:20PM</Time>
+    <Time> 5:30PM</Time>
   </line>
   <line>
     <name>West Hempstead</name>
