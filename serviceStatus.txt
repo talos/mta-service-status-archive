@@ -22,17 +22,10 @@
   </line>
   <line>
     <name>ACE</name>
-    <status>DELAYS</status>
-    <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;02/08/2017&amp;nbsp; 7:44AM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  Following an earlier incident at&lt;STRONG&gt; High St&lt;/STRONG&gt;, [A] and [C] service resumed with delays.
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>02/08/2017</Date>
-    <Time> 7:44AM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>BDFM</name>
@@ -99,10 +92,15 @@
   </line>
   <line>
     <name>SIR</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>PLANNED WORK</status>
+    <text>
+                    &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
+                    &lt;br/&gt;
+                  &lt;a class="plannedWorkDetailLink" onclick=ShowHide(147094);&gt;&lt;b&gt;[SIR] Trains board at the St. George-bound platform from Prince's Bay to Arthur Kill Stations&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 147094 class="plannedWorkDetail" &gt;&lt;/b&gt;Days, 9 AM to 3 PM, Mon to Thu, Feb 6 - 9&lt;br&gt;&lt;br&gt;&amp;bull; Boarding change includes &lt;b&gt;Prince's Bay&lt;/b&gt;, &lt;b&gt;Pleasant Plains&lt;/b&gt;, &lt;b&gt;Richmond Valley&lt;/b&gt; and &lt;br&gt;  &lt;b&gt;Arthur Kill Stations&lt;/b&gt;.&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>02/08/2017</Date>
+    <Time> 9:02AM</Time>
   </line>
 </subway><bus>
   <line>
@@ -180,7 +178,7 @@
               &lt;br/&gt;
             </text>
     <Date>02/08/2017</Date>
-    <Time> 8:52AM</Time>
+    <Time> 9:02AM</Time>
   </line>
   <line>
     <name>BXM1 - BXM18</name>
@@ -193,7 +191,7 @@
               &lt;br/&gt;
             </text>
     <Date>02/08/2017</Date>
-    <Time> 8:52AM</Time>
+    <Time> 9:02AM</Time>
   </line>
   <line>
     <name>M1 - M116</name>
@@ -236,7 +234,7 @@
               &lt;br/&gt;
             </text>
     <Date>02/08/2017</Date>
-    <Time> 8:52AM</Time>
+    <Time> 9:02AM</Time>
   </line>
   <line>
     <name>Q1 - Q113</name>
@@ -306,7 +304,7 @@
               &lt;br/&gt;
             </text>
     <Date>02/08/2017</Date>
-    <Time> 8:52AM</Time>
+    <Time> 9:02AM</Time>
   </line>
   <line>
     <name>S40 - S98</name>
@@ -325,8 +323,13 @@
 </bus><BT>
   <line>
     <name>Bronx-Whitestone</name>
-    <status>SERVICE CHANGE</status>
+    <status>PLANNED WORK</status>
     <text>
+                    &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
+                    &lt;br/&gt;
+                  Bronx Whitestone Bridge: Bronx bound; One lane closed. Expect delays.
+                &lt;br/&gt;&lt;br/&gt;
+              
                     &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
                     &amp;nbsp;Posted:&amp;nbsp;02/07/2017&amp;nbsp; 8:22AM
@@ -334,8 +337,8 @@
                   Drive at reduced speeds due to wet roadway conditions.
                 &lt;br/&gt;&lt;br/&gt;
               </text>
-    <Date>02/07/2017</Date>
-    <Time> 8:22AM</Time>
+    <Date>02/08/2017</Date>
+    <Time> 9:02AM</Time>
   </line>
   <line>
     <name>Cross Bay</name>
@@ -451,8 +454,13 @@
   </line>
   <line>
     <name>Throgs Neck</name>
-    <status>SERVICE CHANGE</status>
+    <status>PLANNED WORK</status>
     <text>
+                    &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
+                    &lt;br/&gt;
+                  Throgs Neck Bridge: Queens bound. One lane closed. Expect delays.
+                &lt;br/&gt;&lt;br/&gt;
+              
                     &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
                     &amp;nbsp;Posted:&amp;nbsp;02/07/2017&amp;nbsp; 8:22AM
@@ -460,8 +468,8 @@
                   Drive at reduced speeds due to wet roadway conditions.
                 &lt;br/&gt;&lt;br/&gt;
               </text>
-    <Date>02/07/2017</Date>
-    <Time> 8:22AM</Time>
+    <Date>02/08/2017</Date>
+    <Time> 8:58AM</Time>
   </line>
   <line>
     <name>Verrazano-Narrows</name>
@@ -573,9 +581,9 @@
               
                     &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;02/08/2017&amp;nbsp; 8:59AM
+                    &amp;nbsp;Posted:&amp;nbsp;02/08/2017&amp;nbsp; 9:01AM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  &lt;u&gt;&lt;b&gt;Westbound&lt;/b&gt;&lt;/u&gt;&lt;br&gt;The 8:03AM train from Long Beach due Penn at 8:54AM is operating 17 minutes late due to an earlier service suspension through Jamaica Station.&lt;br&gt;&lt;br&gt;&lt;u&gt;&lt;b&gt;Eastbound&lt;/b&gt;&lt;/u&gt;&lt;br&gt;The 8:04AM train from Atlantic Terminal due Long Beach at 8:55AM is operating 29 minutes late due to an earlier service suspension through Jamaica Station.
+                  &lt;u&gt;&lt;b&gt;Westbound&lt;/b&gt;&lt;/u&gt;&lt;br&gt;The 8:03AM train from Long Beach due Penn at 8:54AM is operating 17 minutes late due to an earlier service suspension through Jamaica Station.&lt;br&gt;&lt;br&gt;The 8:38AM train from Long Beach due Atlantic Terminal at 9:26AM is operating 12 minutes late due to an earlier service suspension through Jamaica Station.&lt;br&gt;&lt;br&gt;&lt;u&gt;&lt;b&gt;Eastbound&lt;/b&gt;&lt;/u&gt;&lt;br&gt;The 8:04AM train from Atlantic Terminal due Long Beach at 8:55AM is operating 29 minutes late due to an earlier service suspension through Jamaica Station.
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>02/08/2017</Date>
