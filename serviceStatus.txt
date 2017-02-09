@@ -1,17 +1,20 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>DELAYS</status>
+    <status>SERVICE CHANGE</status>
     <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;02/09/2017&amp;nbsp; 6:38AM
+                    &amp;nbsp;Posted:&amp;nbsp;02/09/2017&amp;nbsp; 6:55AM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  Due to switch problems at &lt;STRONG&gt;96 St&lt;/STRONG&gt;, [1], [2] and [3] trains are running with delays in both directions.&lt;BR&gt;&lt;BR&gt;Allow additional travel time.
+                  &lt;P&gt;Due to switch problems at &lt;STRONG&gt;96 St&lt;/STRONG&gt;, the following service changes are in effect:&lt;/P&gt;
+&lt;P&gt;Some southbound [1] trains are terminating at &lt;STRONG&gt;137 St-City College&lt;/STRONG&gt;.&lt;/P&gt;
+&lt;P&gt;Some northbound [2] trains are running on the [5] line from &lt;STRONG&gt;Nevins St&lt;/STRONG&gt; to &lt;STRONG&gt;149 St-Grand Concourse&lt;/STRONG&gt;.&lt;/P&gt;
+&lt;P&gt;[1], [2] and [3] trains are running with delays in both directions.&lt;BR&gt;&lt;BR&gt;Allow additional travel time.&lt;/P&gt;
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>02/09/2017</Date>
-    <Time> 6:38AM</Time>
+    <Time> 6:55AM</Time>
   </line>
   <line>
     <name>456</name>
