@@ -8,10 +8,17 @@
   </line>
   <line>
     <name>456</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>SERVICE CHANGE</status>
+    <text>
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;02/08/2017&amp;nbsp; 8:05PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  Due to NYCT Transit Cold Weather Plan preparations, northbound [6] trains are running local from&lt;STRONG&gt; 3 Av-138 St&lt;/STRONG&gt; to &lt;STRONG&gt;Parkchester.&lt;/STRONG&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>02/08/2017</Date>
+    <Time> 8:05PM</Time>
   </line>
   <line>
     <name>7</name>
@@ -962,24 +969,10 @@ Village.
   </line>
   <line>
     <name>Port Jervis</name>
-    <status>DELAYS</status>
-    <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;02/08/2017&amp;nbsp; 6:46PM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  UPDATE: MBPJ train #0057, the 6:23pm from Ramsey Rt. 17, is up to 20 min. late due to earlier police activity ahead. &lt;br&gt;
-                &lt;br/&gt;&lt;br/&gt;
-              
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;02/08/2017&amp;nbsp; 6:35PM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  MBPJ train #0057, the 6:23pm from Ramsey Rt. 17, is delayed due to police activity ahead. An update will follow.
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>02/08/2017</Date>
-    <Time> 6:46PM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
 </MetroNorth></service>
 
