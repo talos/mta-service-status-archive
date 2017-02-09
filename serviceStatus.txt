@@ -1,20 +1,18 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>SERVICE CHANGE</status>
+    <status>DELAYS</status>
     <text>
-                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;02/09/2017&amp;nbsp; 7:45AM
+                    &amp;nbsp;Posted:&amp;nbsp;02/09/2017&amp;nbsp; 8:31AM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  &lt;P&gt;Due to switch problems at &lt;STRONG&gt;96 St&lt;/STRONG&gt;, some northbound [2] trains are running on the [5] line from &lt;STRONG&gt;Nevins St&lt;/STRONG&gt; to &lt;STRONG&gt;149 St-Grand Concourse&lt;/STRONG&gt;. &lt;/P&gt;
-&lt;P&gt;Northbound [1], [2] [3] trains has extensive delays. &lt;/P&gt;
+                  &lt;P&gt;Due to switch problems at &lt;STRONG&gt;96 St&lt;/STRONG&gt;, [1], [2] and [3] trains are running with extensive delays in both directions. &lt;/P&gt;
 &lt;P&gt;Allow additional travel time.&lt;/P&gt;
-&lt;P&gt; &lt;/P&gt;
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>02/09/2017</Date>
-    <Time> 7:45AM</Time>
+    <Time> 8:31AM</Time>
   </line>
   <line>
     <name>456</name>
@@ -714,13 +712,13 @@
     <text>
                     &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;02/09/2017&amp;nbsp; 8:17AM
+                    &amp;nbsp;Posted:&amp;nbsp;02/09/2017&amp;nbsp; 8:31AM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  &lt;P class=MsoNoSpacing style="MARGIN: 0in 0in 0pt"&gt;&lt;FONT size=3 face=Calibri&gt;The 8:03AM train from Long Beach due Penn Station 8:54AM is canceled. Customers will be accommodated by the 8:08AM train from Long Beach due Penn Station 9:02AM.&lt;/FONT&gt;&lt;/P&gt;
+                  &lt;p class="MsoNoSpacing" style="MARGIN: 0in 0in 0pt"&gt;&lt;font face="Calibri" size="3"&gt;The 7:39AM train from Long Beach due Penn at 8:32AM is operating 19 minutes late due to winter storm conditions.&lt;/font&gt;&lt;/p&gt;&lt;p class="MsoNoSpacing" style="MARGIN: 0in 0in 0pt"&gt;&lt;font face="Calibri" size="3"&gt;&lt;br&gt;&lt;/font&gt;&lt;/p&gt;&lt;p class="MsoNoSpacing" style="MARGIN: 0in 0in 0pt"&gt;&lt;font face="Calibri" size="3"&gt;The 8:03AM train from Long Beach due Penn Station 8:54AM is canceled. Customers will be accommodated by the 8:08AM train from Long Beach due Penn Station 9:02AM.&lt;/font&gt;&lt;/p&gt;&lt;p class="MsoNoSpacing" style="MARGIN: 0in 0in 0pt"&gt;&lt;br&gt;&lt;/p&gt;&lt;p class="MsoNoSpacing" style="MARGIN: 0in 0in 0pt"&gt;&lt;font face="Calibri" size="3"&gt;&lt;br&gt;&lt;/font&gt;&lt;/p&gt;
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>02/09/2017</Date>
-    <Time> 8:17AM</Time>
+    <Time> 8:31AM</Time>
   </line>
   <line>
     <name>Montauk</name>
@@ -731,10 +729,17 @@
   </line>
   <line>
     <name>Oyster Bay</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>DELAYS</status>
+    <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;02/09/2017&amp;nbsp; 8:31AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  The 7:26AM train from East Williston due Penn at 8:14AM is operating 12 minutes late due to winter storm conditions.
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>02/09/2017</Date>
+    <Time> 8:31AM</Time>
   </line>
   <line>
     <name>Port Jefferson</name>
