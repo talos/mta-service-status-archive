@@ -137,17 +137,10 @@
   </line>
   <line>
     <name>S</name>
-    <status>DELAYS</status>
-    <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;02/09/2017&amp;nbsp; 9:24PM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  Following an earlier incident at &lt;STRONG&gt;Botanic Garden&lt;/STRONG&gt;, Franklin Av [S] train service has resumed with delays.
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>02/09/2017</Date>
-    <Time> 9:24PM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>SIR</name>
@@ -815,10 +808,17 @@
 </LIRR><MetroNorth>
   <line>
     <name>Hudson</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>DELAYS</status>
+    <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;02/09/2017&amp;nbsp; 9:49PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  Hudson Line Service is currently experiencing delays of up to 25 minutes due to switch issues in the vicinity of Croton-Harmon. Please listen for announcements at your station.
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>02/09/2017</Date>
+    <Time> 9:49PM</Time>
   </line>
   <line>
     <name>Harlem</name>
