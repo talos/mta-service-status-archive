@@ -1,31 +1,17 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>DELAYS</status>
-    <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;02/10/2017&amp;nbsp;11:42AM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  Following an earlier incident at &lt;STRONG&gt;168 St&lt;/STRONG&gt;, [1] train service has resumed with delays.
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>02/10/2017</Date>
-    <Time>11:42AM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>456</name>
-    <status>DELAYS</status>
-    <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;02/10/2017&amp;nbsp;11:45AM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  Following an earlier incident at &lt;STRONG&gt;149&lt;/STRONG&gt; &lt;STRONG&gt;St-Grand Concourse&lt;/STRONG&gt;, [4] trains service has resumed with delays.
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>02/10/2017</Date>
-    <Time>11:45AM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>7</name>
@@ -684,13 +670,13 @@
     <text>
                     &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;02/10/2017&amp;nbsp;11:46AM
+                    &amp;nbsp;Posted:&amp;nbsp;02/10/2017&amp;nbsp;12:00PM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  The 11:15AM train from Long Beach due Penn at 12:08PM continues to be held prior to departure due to signal trouble at Reynolds Channel Bridge. LIRR is in the process of ordering buses but are not on scene at this time.
+                  Westbound&lt;br&gt;The 11:15AM train from Long Beach due Penn at 12:08PM continues to be held prior to departure due to signal trouble at Reynolds Channel Bridge. LIRR is in the process of ordering buses but are not on scene at this time.&lt;br&gt;&lt;br&gt;&lt;u&gt;&lt;b&gt;Eastbound&lt;/b&gt;&lt;/u&gt;&lt;br&gt;The 11:11AM train from Penn due Long Beach at 12:04PM is being delayed at Island Park due due to signal trouble at Reynolds Channel Bridge.&lt;br&gt;
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>02/10/2017</Date>
-    <Time>11:46AM</Time>
+    <Time>12:00PM</Time>
   </line>
   <line>
     <name>Montauk</name>
