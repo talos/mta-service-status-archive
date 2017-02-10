@@ -1,10 +1,19 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>SERVICE CHANGE</status>
+    <text>
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;02/10/2017&amp;nbsp;10:09AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;P&gt;Due to elevators out of service, [A] and [1] trains bypass &lt;STRONG&gt;168 St&lt;/STRONG&gt; in both directions.&lt;/P&gt;
+&lt;P&gt;Personnel is on the scene investigating.&lt;/P&gt;
+&lt;P&gt;Allow additional travel time.&lt;/P&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>02/10/2017</Date>
+    <Time>10:09AM</Time>
   </line>
   <line>
     <name>456</name>
@@ -22,10 +31,19 @@
   </line>
   <line>
     <name>ACE</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>SERVICE CHANGE</status>
+    <text>
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;02/10/2017&amp;nbsp;10:09AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;P&gt;Due to elevators out of service, [A] and [1] trains bypass &lt;STRONG&gt;168 St&lt;/STRONG&gt; in both directions.&lt;/P&gt;
+&lt;P&gt;Personnel is on the scene investigating.&lt;/P&gt;
+&lt;P&gt;Allow additional travel time.&lt;/P&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>02/10/2017</Date>
+    <Time>10:09AM</Time>
   </line>
   <line>
     <name>BDFM</name>
