@@ -1,5 +1,21 @@
 <service><responsecode>0</responsecode><subway>
   <line>
+    <name>123</name>
+    <status>SERVICE CHANGE</status>
+    <text>
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;02/10/2017&amp;nbsp;10:22AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;P&gt;Due to elevators out of service, [1] trains bypass &lt;STRONG&gt;168 St&lt;/STRONG&gt; in both directions.&lt;/P&gt;
+&lt;P&gt;Maintainers are on the scene investigating.&lt;/P&gt;
+&lt;P&gt;Allow additional travel time.&lt;/P&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>02/10/2017</Date>
+    <Time>10:22AM</Time>
+  </line>
+  <line>
     <name>456</name>
     <status>DELAYS</status>
     <text>
@@ -19,6 +35,21 @@
     <text />
     <Date></Date>
     <Time></Time>
+  </line>
+  <line>
+    <name>ACE</name>
+    <status>SERVICE CHANGE</status>
+    <text>
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;02/10/2017&amp;nbsp;10:22AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;P&gt;Due to the &lt;STRONG&gt;NYCT Cold Weather Plan,&lt;/STRONG&gt; southbound [A] trains are running local from 168 St to 145 St. &lt;/P&gt;
+&lt;P&gt;Allow additional travel time.&lt;/P&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>02/10/2017</Date>
+    <Time>10:22AM</Time>
   </line>
   <line>
     <name>BDFM</name>
@@ -64,15 +95,23 @@
   </line>
   <line>
     <name>SIR</name>
-    <status>PLANNED WORK</status>
+    <status>DELAYS</status>
     <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;02/10/2017&amp;nbsp;10:22AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;P&gt;Due to weather conditions, [SIR] train service is running with delays in both directions.&lt;/P&gt;
+&lt;P&gt;Allow additional travel time.&lt;/P&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              
                     &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
                     &lt;br/&gt;
                   &lt;a class="plannedWorkDetailLink" onclick=ShowHide(147096);&gt;&lt;b&gt;[SIR] Trains board at the Tottenville-bound platform from Arthur Kill to Prince's Bay Stations&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 147096 class="plannedWorkDetail" &gt;&lt;/b&gt;Day, 9 AM to 3 PM, Friday, Feb 10&lt;br&gt;&lt;br&gt;&amp;bull; Boarding change includes &lt;b&gt;Arthur Kill&lt;/b&gt;, &lt;b&gt;Richmond Valley&lt;/b&gt;, &lt;b&gt;Pleasant Plains&lt;/b&gt; and &lt;br&gt;  &lt;b&gt;Prince's Bay Stations&lt;/b&gt;.&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>02/10/2017</Date>
-    <Time>10:42AM</Time>
+    <Time>10:22AM</Time>
   </line>
 </subway><bus>
   <line>
@@ -800,12 +839,9 @@
               
                     &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;02/10/2017&amp;nbsp;10:45AM
+                    &amp;nbsp;Posted:&amp;nbsp;02/10/2017&amp;nbsp;10:40AM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  &lt;P&gt;&lt;U&gt;&lt;B&gt;Westbound&lt;/B&gt;&lt;/U&gt;&lt;BR&gt;The 9:10AM train from Port Jefferson due Huntington at 9:56AM is now operating 29 minutes late after operating at a reduced speed due to signal trouble near Northport. This train will make all local stops at Cold Spring Harbor, Syosset, Hicksville, Carle Place, Mineola, Merillon Ave, and New Hyde Park.&lt;BR&gt;&lt;BR&gt;&lt;U&gt;&lt;B&gt;Eastbound&lt;/B&gt;&lt;/U&gt;&lt;/P&gt;
-&lt;P&gt;&lt;STRONG&gt;&lt;U&gt;&lt;/U&gt;&lt;/STRONG&gt;&lt;BR&gt;The 9:31AM train from Penn due Huntington at 10:42AM is operating 14 minutes late due to earlier winter storm conditions. &lt;/P&gt;
-&lt;P&gt;The 10:03AM train from Hicksville due Port Jefferson at 11:10AM is operating 15 minutes late and is expected to lose more time due to operating at a reduced speed due to signal trouble near Northport. &lt;BR&gt;&lt;/P&gt;
-&lt;P&gt; &lt;/P&gt;
+                  &lt;u&gt;&lt;b&gt;Westbound&lt;/b&gt;&lt;/u&gt;&lt;br&gt;The 9:10AM train from Port Jefferson due Huntington at 9:56AM is now operating 29 minutes late after operating at a reduced speed due to signal trouble near Northport. This train will make all local stops at Cold Spring Harbor, Syosset, Hicksville, Carle Place, Mineola, Merillon Ave, and New Hyde Park.&lt;br&gt;&lt;br&gt;&lt;u&gt;&lt;b&gt;Eastbound&lt;/b&gt;&lt;/u&gt;&lt;br&gt;The 10:03AM train from Hicksville due Port Jefferson at 11:10AM is operating 15 minutes late and is expected to lose more time due to operating at a reduced speed due to signal trouble near Northport. &lt;br&gt;
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>02/10/2017</Date>
