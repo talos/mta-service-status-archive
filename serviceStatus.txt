@@ -17,10 +17,18 @@
   </line>
   <line>
     <name>456</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>SERVICE CHANGE</status>
+    <text>
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;02/10/2017&amp;nbsp;11:29AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;P&gt;Due to FDNY activity at &lt;STRONG&gt;149 St-Grand Concourse&lt;/STRONG&gt;, northbound [4] trains are running express from &lt;STRONG&gt;125 St&lt;/STRONG&gt; to &lt;STRONG&gt;Burnside Av&lt;/STRONG&gt;.&lt;/P&gt;
+&lt;P&gt;Allow additional travel time.&lt;/P&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>02/10/2017</Date>
+    <Time>11:29AM</Time>
   </line>
   <line>
     <name>7</name>
@@ -746,18 +754,10 @@
   </line>
   <line>
     <name>Port Jefferson</name>
-    <status>DELAYS</status>
-    <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;02/10/2017&amp;nbsp;11:16AM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  &lt;p&gt;&lt;u&gt;&lt;b&gt;Westbound&lt;/b&gt;&lt;/u&gt;&lt;br&gt;The 11:03AM train from Huntington due Penn at 12:12PM is operating 10 minutes late after accommodating customers from a late-arriving connection.&lt;/p&gt;&lt;u&gt;&lt;b&gt;Eastbound&lt;/b&gt;&lt;/u&gt;&lt;br&gt;The 10:03AM train from Hicksville due Port Jefferson at 11:10AM is operating 15 minutes late and is expected to lose more time due to operating at a reduced speed due to signal trouble near Northport. &lt;br&gt;
-&lt;p&gt; &lt;/p&gt;
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>02/10/2017</Date>
-    <Time>11:16AM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>Port Washington</name>
