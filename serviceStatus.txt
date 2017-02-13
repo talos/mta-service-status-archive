@@ -797,10 +797,17 @@ for station announcements.
   </line>
   <line>
     <name>Danbury</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>DELAYS</status>
+    <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;02/13/2017&amp;nbsp; 4:19PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  Danbury Branch service is currently experiencing delays due to a downed tree in the vicinity of Cannondale. As more information becomes available we will notify you as soon as possible. Please listen for announcements at your station.
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>02/13/2017</Date>
+    <Time> 4:19PM</Time>
   </line>
   <line>
     <name>Waterbury</name>
