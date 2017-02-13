@@ -40,14 +40,13 @@
     <text>
                     &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;02/13/2017&amp;nbsp; 3:36PM
+                    &amp;nbsp;Posted:&amp;nbsp;02/13/2017&amp;nbsp; 3:40PM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  &lt;P&gt;Due to NYPD activity at &lt;STRONG&gt;Grand St&lt;/STRONG&gt;, northbound [B] and [D] trains are running with delays. &lt;/P&gt;
-&lt;P&gt;Allow additional travel time.&lt;/P&gt;
+                  Following an earlier incident at &lt;STRONG&gt;Grand St&lt;/STRONG&gt;, [B] and [D] service has resumed with delays.
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>02/13/2017</Date>
-    <Time> 3:36PM</Time>
+    <Time> 3:40PM</Time>
   </line>
   <line>
     <name>G</name>
@@ -296,15 +295,19 @@
   </line>
   <line>
     <name>Q1 - Q113</name>
-    <status>DELAYS</status>
+    <status>SERVICE CHANGE</status>
     <text>
-                  &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                  &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
                   &lt;span class="DateStyle"&gt;
-                  &amp;nbsp;Posted:&amp;nbsp;02/13/2017&amp;nbsp; 3:22PM
+                  &amp;nbsp;Posted:&amp;nbsp;02/13/2017&amp;nbsp; 3:39PM
                   &lt;/span&gt;
                   &lt;br/&gt;
                   &lt;br/&gt;
-                Following an earlier incident on Guy R Brewer Blvd, &lt;STRONG&gt;Q113Ltd&lt;/STRONG&gt; and&lt;STRONG&gt; Q114Ltd&lt;/STRONG&gt; bus service has resumed with delays.
+                &lt;P&gt;&lt;STRONG&gt;Q22&lt;/STRONG&gt; buses are detoured in both directions, due to FDNY activity on Beach 19 St and Cornaga Av. &lt;/P&gt;
+&lt;P&gt;Detour is as follows: &lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;Eastbound&lt;/STRONG&gt;: Via Rockaway Beach Blvd, left on Rockaway Freeway, right on Mott Av to stand at Beach 20 St. &lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;Westbound&lt;/STRONG&gt;: Via Mott Av, right on Beach 9 St, right on Seagirt Blvd and regular route. &lt;/P&gt;
+&lt;P&gt;Allow additional travel time. &lt;/P&gt;
               &lt;br/&gt;
               &lt;br/&gt;
             
@@ -379,7 +382,7 @@
               &lt;br/&gt;
             </text>
     <Date>02/13/2017</Date>
-    <Time> 3:22PM</Time>
+    <Time> 3:39PM</Time>
   </line>
   <line>
     <name>QM1 - QM44</name>
@@ -667,8 +670,15 @@
   </line>
   <line>
     <name>Montauk</name>
-    <status>SERVICE CHANGE</status>
+    <status>DELAYS</status>
     <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;02/13/2017&amp;nbsp; 3:40PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  The 3:03PM train from Jamaica due Patchogue at 4:10PM is operating 13 minutes late due to signal trouble.
+                &lt;br/&gt;&lt;br/&gt;
+              
                     &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
                     &amp;nbsp;Posted:&amp;nbsp;02/13/2017&amp;nbsp; 1:17PM
@@ -678,7 +688,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>02/13/2017</Date>
-    <Time> 1:17PM</Time>
+    <Time> 3:40PM</Time>
   </line>
   <line>
     <name>Oyster Bay</name>
