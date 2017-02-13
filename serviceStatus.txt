@@ -636,10 +636,17 @@
   </line>
   <line>
     <name>Long Beach</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>DELAYS</status>
+    <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;02/13/2017&amp;nbsp; 1:47PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  The 1:11PM train from Penn due Long Beach at 2:04PM is operating 11 minutes late due to a late-arriving connection in Jamaica.
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>02/13/2017</Date>
+    <Time> 1:47PM</Time>
   </line>
   <line>
     <name>Montauk</name>
@@ -673,13 +680,6 @@
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
                   The 1:03PM train from Hicksville due Port Jefferson at 2:10PM is operating 12 minutes late due to earlier broken crossing gates. &lt;br&gt;
                 &lt;br/&gt;&lt;br/&gt;
-              
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;02/13/2017&amp;nbsp; 1:05PM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  &lt;u&gt;&lt;b&gt;Eastbound&lt;/b&gt;&lt;/u&gt;&lt;br&gt;The 12:14PM train from Penn due Ronkonkoma at 1:39PM 1s operating 11 minutes late due to an earlier crossing gate problem.&lt;br&gt;&lt;br&gt;&lt;u&gt;&lt;b&gt;Westbound&lt;/b&gt;&lt;/u&gt;&lt;br&gt;The 12:15PM train from Ronkonkoma due Penn at 1:37PM is operating 10 minutes late due to an earlier crossing gate problem.
-                &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>02/13/2017</Date>
     <Time> 1:19PM</Time>
@@ -693,17 +693,10 @@
   </line>
   <line>
     <name>Ronkonkoma</name>
-    <status>DELAYS</status>
-    <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;02/13/2017&amp;nbsp; 1:05PM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  &lt;u&gt;&lt;b&gt;Eastbound&lt;/b&gt;&lt;/u&gt;&lt;br&gt;The 12:14PM train from Penn due Ronkonkoma at 1:39PM 1s operating 11 minutes late due to an earlier crossing gate problem.&lt;br&gt;&lt;br&gt;&lt;u&gt;&lt;b&gt;Westbound&lt;/b&gt;&lt;/u&gt;&lt;br&gt;The 12:15PM train from Ronkonkoma due Penn at 1:37PM is operating 10 minutes late due to an earlier crossing gate problem.
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>02/13/2017</Date>
-    <Time> 1:05PM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>West Hempstead</name>
