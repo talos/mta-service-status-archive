@@ -1,17 +1,10 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>DELAYS</status>
-    <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;02/14/2017&amp;nbsp; 4:32PM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  Due to an earlier incident at &lt;STRONG&gt;125 St&lt;/STRONG&gt;, [1] service has resumed with delays.
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>02/14/2017</Date>
-    <Time> 4:32PM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>456</name>
@@ -386,6 +379,28 @@
     <text>
                   &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                   &lt;span class="DateStyle"&gt;
+                  &amp;nbsp;Posted:&amp;nbsp;02/14/2017&amp;nbsp; 4:56PM
+                  &lt;/span&gt;
+                  &lt;br/&gt;
+                  &lt;br/&gt;
+                &lt;P&gt;&lt;STRONG&gt;Q13&lt;/STRONG&gt;, &lt;STRONG&gt;Q16&lt;/STRONG&gt; and &lt;STRONG&gt;Q28 &lt;/STRONG&gt;buses are running with delays in both directions due to NYPD activity on 39 Av and 138 St. &lt;/P&gt;
+&lt;P&gt;Allow additional travel time.&lt;/P&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
+                  &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                  &lt;span class="DateStyle"&gt;
+                  &amp;nbsp;Posted:&amp;nbsp;02/14/2017&amp;nbsp; 4:55PM
+                  &lt;/span&gt;
+                  &lt;br/&gt;
+                  &lt;br/&gt;
+                &lt;P&gt;&lt;STRONG&gt;Q12, Q13, Q15, Q15A, Q16, Q17, Q19, Q20A/B, Q25, Q26, Q27, Q28, Q34, Q44-SBS, Q48, Q50&lt;/STRONG&gt;, &lt;STRONG&gt;Q65&lt;/STRONG&gt; and &lt;STRONG&gt;Q66&lt;/STRONG&gt; buses are running with delays in both directions due to traffic conditions in the Downtown Flushing area. &lt;/P&gt;
+&lt;P&gt;Allow additional travel time.&lt;/P&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
+                  &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                  &lt;span class="DateStyle"&gt;
                   &amp;nbsp;Posted:&amp;nbsp;02/14/2017&amp;nbsp; 4:13PM
                   &lt;/span&gt;
                   &lt;br/&gt;
@@ -490,7 +505,7 @@
               &lt;br/&gt;
             </text>
     <Date>02/14/2017</Date>
-    <Time> 4:13PM</Time>
+    <Time> 4:56PM</Time>
   </line>
   <line>
     <name>QM1 - QM44</name>
