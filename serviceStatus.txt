@@ -375,10 +375,15 @@
 </bus><BT>
   <line>
     <name>Bronx-Whitestone</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>PLANNED WORK</status>
+    <text>
+                    &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
+                    &lt;br/&gt;
+                  Bronx Whitestone Bridge: Bronx bound; One lane closed. Expect delays.
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>02/13/2017</Date>
+    <Time>11:34PM</Time>
   </line>
   <line>
     <name>Cross Bay</name>
@@ -572,15 +577,8 @@
   </line>
   <line>
     <name>Wassaic</name>
-    <status>DELAYS</status>
+    <status>SERVICE CHANGE</status>
     <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;02/13/2017&amp;nbsp;10:51PM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  Wassaic Branch Line service is currently experiencing delays of up to 15 to 20 minutes due to a late connection.  Please listen for announcements at your station
-                &lt;br/&gt;&lt;br/&gt;
-              
                     &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
                     &amp;nbsp;Posted:&amp;nbsp;02/13/2017&amp;nbsp; 7:20PM
@@ -589,7 +587,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>02/13/2017</Date>
-    <Time>10:51PM</Time>
+    <Time> 7:20PM</Time>
   </line>
   <line>
     <name>New Haven</name>
