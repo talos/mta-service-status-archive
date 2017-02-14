@@ -95,10 +95,15 @@
   </line>
   <line>
     <name>SIR</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>PLANNED WORK</status>
+    <text>
+                    &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
+                    &lt;br/&gt;
+                  &lt;a class="plannedWorkDetailLink" onclick=ShowHide(148096);&gt;&lt;b&gt;[SIR] Trains board at the Tottenville-bound platform from Grasmere to Tompkinsville Stations&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 148096 class="plannedWorkDetail" &gt;&lt;/b&gt;Day, 9 AM to 3 PM, Tuesday, Feb 14&lt;br&gt;&lt;br&gt;&amp;bull; Boarding change includes &lt;b&gt;Grasmere&lt;/b&gt;, &lt;b&gt;Clifton&lt;/b&gt;, &lt;b&gt;Stapleton&lt;/b&gt; and &lt;b&gt;Tompkinsville Stations&lt;/b&gt;. &lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>02/14/2017</Date>
+    <Time> 9:02AM</Time>
   </line>
 </subway><bus>
   <line>
@@ -180,7 +185,7 @@
               &lt;br/&gt;
             </text>
     <Date>02/14/2017</Date>
-    <Time> 8:52AM</Time>
+    <Time> 9:02AM</Time>
   </line>
   <line>
     <name>BXM1 - BXM18</name>
@@ -193,7 +198,7 @@
               &lt;br/&gt;
             </text>
     <Date>02/14/2017</Date>
-    <Time> 8:52AM</Time>
+    <Time> 9:02AM</Time>
   </line>
   <line>
     <name>M1 - M116</name>
@@ -230,7 +235,7 @@
               &lt;br/&gt;
             </text>
     <Date>02/14/2017</Date>
-    <Time> 8:52AM</Time>
+    <Time> 9:02AM</Time>
   </line>
   <line>
     <name>Q1 - Q113</name>
@@ -324,7 +329,7 @@
               &lt;br/&gt;
             </text>
     <Date>02/14/2017</Date>
-    <Time> 8:52AM</Time>
+    <Time> 9:02AM</Time>
   </line>
   <line>
     <name>S40 - S98</name>
@@ -499,10 +504,17 @@
   </line>
   <line>
     <name>Port Jefferson</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>DELAYS</status>
+    <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;02/14/2017&amp;nbsp; 9:01AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  The 8:17AM train from Jamaica due Port Jefferson at 9:52AM is operating 10 minutes late due to a late train ahead.
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>02/14/2017</Date>
+    <Time> 9:01AM</Time>
   </line>
   <line>
     <name>Port Washington</name>
