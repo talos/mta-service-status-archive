@@ -29,18 +29,19 @@
   </line>
   <line>
     <name>BDFM</name>
-    <status>DELAYS</status>
+    <status>SERVICE CHANGE</status>
     <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;02/15/2017&amp;nbsp; 8:50AM
+                    &amp;nbsp;Posted:&amp;nbsp;02/15/2017&amp;nbsp; 9:43AM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  &lt;P&gt;Due to signal problems at &lt;STRONG&gt;Elmhurst Av&lt;/STRONG&gt;, northbound [M] and [R] trains are running with delays. &lt;/P&gt;
+                  &lt;P&gt;Due to signal problems at &lt;STRONG&gt;Elmhurst Av&lt;/STRONG&gt;, some 71 Av-bound [M] and [R] trains are running express from &lt;STRONG&gt;Queens Plaza&lt;/STRONG&gt; to &lt;STRONG&gt;Forest Hills-71 Av.&lt;/STRONG&gt;&lt;/P&gt;
+&lt;P&gt;Expect delays on northbound [E] and [F] trains.&lt;/P&gt;
 &lt;P&gt;Allow additional travel time.&lt;/P&gt;
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>02/15/2017</Date>
-    <Time> 8:50AM</Time>
+    <Time> 9:43AM</Time>
   </line>
   <line>
     <name>G</name>
@@ -65,8 +66,17 @@
   </line>
   <line>
     <name>NQR</name>
-    <status>DELAYS</status>
+    <status>SERVICE CHANGE</status>
     <text>
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;02/15/2017&amp;nbsp; 9:43AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;P&gt;Due to signal problems at &lt;STRONG&gt;Elmhurst Av&lt;/STRONG&gt;, some 71 Av-bound [M] and [R] trains are running express from &lt;STRONG&gt;Queens Plaza&lt;/STRONG&gt; to &lt;STRONG&gt;Forest Hills-71 Av.&lt;/STRONG&gt;&lt;/P&gt;
+&lt;P&gt;Expect delays on northbound [E] and [F] trains.&lt;/P&gt;
+&lt;P&gt;Allow additional travel time.&lt;/P&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              
                     &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
                     &amp;nbsp;Posted:&amp;nbsp;02/15/2017&amp;nbsp; 9:40AM
@@ -74,17 +84,9 @@
                   &lt;P&gt;Due to NYPD activity at &lt;STRONG&gt;Astoria Blvd&lt;/STRONG&gt;, [N] and [W] trains are delayed in both directions.&lt;/P&gt;
 &lt;P&gt;Allow additional travel time.&lt;/P&gt;
                 &lt;br/&gt;&lt;br/&gt;
-              
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;02/15/2017&amp;nbsp; 8:50AM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  &lt;P&gt;Due to signal problems at &lt;STRONG&gt;Elmhurst Av&lt;/STRONG&gt;, northbound [M] and [R] trains are running with delays. &lt;/P&gt;
-&lt;P&gt;Allow additional travel time.&lt;/P&gt;
-                &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>02/15/2017</Date>
-    <Time> 9:40AM</Time>
+    <Time> 9:43AM</Time>
   </line>
   <line>
     <name>S</name>
@@ -547,10 +549,17 @@
   </line>
   <line>
     <name>Port Jefferson</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>DELAYS</status>
+    <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;02/15/2017&amp;nbsp; 9:43AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  The 8:34AM train from Port Jefferson due Hicksville at 9:40AM is operating 10 minutes late due to a late eastbound train in single-track territory.
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>02/15/2017</Date>
+    <Time> 9:43AM</Time>
   </line>
   <line>
     <name>Port Washington</name>
