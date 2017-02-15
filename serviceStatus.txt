@@ -1,17 +1,10 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>DELAYS</status>
-    <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;02/14/2017&amp;nbsp; 7:38PM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  Following an earlier incident at &lt;STRONG&gt;145 St,&lt;/STRONG&gt; [3] train service has resumed with delays.
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>02/14/2017</Date>
-    <Time> 7:38PM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>456</name>
@@ -628,10 +621,15 @@
   </line>
   <line>
     <name>Hugh L. Carey</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>PLANNED WORK</status>
+    <text>
+                    &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
+                    &lt;br/&gt;
+                  &lt;P  style="MARGIN: 0in 0in 10pt"&gt;&lt;SPAN style="TEXT-TRANSFORM: uppercase"&gt;&lt;FONT size=3 face=Calibri&gt;HLC: Planned work; One tube closed and the remaining tube will run two-way traffic operations. Motorist should allow extra time and may wish to use an alternate route.&lt;/FONT&gt;&lt;/SPAN&gt;&lt;/P&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>02/14/2017</Date>
+    <Time> 7:53PM</Time>
   </line>
   <line>
     <name>Marine Parkway</name>
@@ -670,17 +668,10 @@
   </line>
   <line>
     <name>Verrazano-Narrows</name>
-    <status>SERVICE CHANGE</status>
-    <text>
-                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;02/14/2017&amp;nbsp; 7:36PM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  VNB: COLLISION; STATEN ISLAND-BOUND LOWER LEVEL; ONE LANE BLOCKED. EXPECT DELAYS.
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>02/14/2017</Date>
-    <Time> 7:36PM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
 </BT><LIRR>
   <line>
