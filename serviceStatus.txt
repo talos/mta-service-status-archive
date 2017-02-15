@@ -1,8 +1,18 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>DELAYS</status>
+    <status>SERVICE CHANGE</status>
     <text>
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;02/15/2017&amp;nbsp; 2:47PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;P&gt;Due to track maintenance between&lt;STRONG&gt; 96 St&lt;/STRONG&gt; and &lt;STRONG&gt;34 St-Penn Station&lt;/STRONG&gt;, the following service changes are in effect: &lt;/P&gt;
+&lt;P&gt;Southbound [2] and [3] trains are running with delays.&lt;/P&gt;
+&lt;P&gt;Some southbound [2] trains are running on the [5] line from &lt;STRONG&gt;149 St-Grand Concourse&lt;/STRONG&gt; to&lt;STRONG&gt; Nevins St&lt;/STRONG&gt;. &lt;/P&gt;
+&lt;P&gt;Allow additional travel time.&lt;/P&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              
                     &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
                     &amp;nbsp;Posted:&amp;nbsp;02/15/2017&amp;nbsp; 2:44PM
@@ -16,7 +26,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>02/15/2017</Date>
-    <Time> 2:44PM</Time>
+    <Time> 2:47PM</Time>
   </line>
   <line>
     <name>456</name>
@@ -57,7 +67,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>02/15/2017</Date>
-    <Time> 2:42PM</Time>
+    <Time> 2:47PM</Time>
   </line>
   <line>
     <name>ACE</name>
@@ -76,7 +86,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>02/15/2017</Date>
-    <Time> 2:42PM</Time>
+    <Time> 2:47PM</Time>
   </line>
   <line>
     <name>G</name>
@@ -116,7 +126,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>02/15/2017</Date>
-    <Time> 2:42PM</Time>
+    <Time> 2:47PM</Time>
   </line>
   <line>
     <name>S</name>
@@ -135,7 +145,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>02/15/2017</Date>
-    <Time> 2:42PM</Time>
+    <Time> 2:47PM</Time>
   </line>
 </subway><bus>
   <line>
@@ -242,7 +252,7 @@
               &lt;br/&gt;
             </text>
     <Date>02/15/2017</Date>
-    <Time> 2:42PM</Time>
+    <Time> 2:47PM</Time>
   </line>
   <line>
     <name>BXM1 - BXM18</name>
@@ -255,7 +265,7 @@
               &lt;br/&gt;
             </text>
     <Date>02/15/2017</Date>
-    <Time> 2:42PM</Time>
+    <Time> 2:47PM</Time>
   </line>
   <line>
     <name>M1 - M116</name>
@@ -400,7 +410,7 @@
               &lt;br/&gt;
             </text>
     <Date>02/15/2017</Date>
-    <Time> 2:42PM</Time>
+    <Time> 2:47PM</Time>
   </line>
   <line>
     <name>S40 - S98</name>
