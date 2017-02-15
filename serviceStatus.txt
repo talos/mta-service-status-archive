@@ -1,14 +1,13 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>SERVICE CHANGE</status>
+    <status>DELAYS</status>
     <text>
-                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;02/15/2017&amp;nbsp; 2:10PM
+                    &amp;nbsp;Posted:&amp;nbsp;02/15/2017&amp;nbsp; 2:44PM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  &lt;P&gt;Due to a rail condition at &lt;STRONG&gt;Prospect Av&lt;/STRONG&gt;, northbound [2] and [5] trains are running express from &lt;STRONG&gt;3 Av-149 St&lt;/STRONG&gt; to &lt;STRONG&gt;E 180 St&lt;/STRONG&gt;. &lt;/P&gt;
-&lt;P&gt;Allow additional travel time.&lt;/P&gt;
+                  Following an earlier incident at &lt;STRONG&gt;Prospect Av,&lt;/STRONG&gt; [2] and [5] train service has resumed with delays.
                 &lt;br/&gt;&lt;br/&gt;
               
                     &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
@@ -17,18 +16,17 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>02/15/2017</Date>
-    <Time> 2:10PM</Time>
+    <Time> 2:44PM</Time>
   </line>
   <line>
     <name>456</name>
-    <status>SERVICE CHANGE</status>
+    <status>DELAYS</status>
     <text>
-                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;02/15/2017&amp;nbsp; 2:10PM
+                    &amp;nbsp;Posted:&amp;nbsp;02/15/2017&amp;nbsp; 2:44PM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  &lt;P&gt;Due to a rail condition at &lt;STRONG&gt;Prospect Av&lt;/STRONG&gt;, northbound [2] and [5] trains are running express from &lt;STRONG&gt;3 Av-149 St&lt;/STRONG&gt; to &lt;STRONG&gt;E 180 St&lt;/STRONG&gt;. &lt;/P&gt;
-&lt;P&gt;Allow additional travel time.&lt;/P&gt;
+                  Following an earlier incident at &lt;STRONG&gt;Prospect Av,&lt;/STRONG&gt; [2] and [5] train service has resumed with delays.
                 &lt;br/&gt;&lt;br/&gt;
               
                     &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
@@ -47,7 +45,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>02/15/2017</Date>
-    <Time> 2:10PM</Time>
+    <Time> 2:44PM</Time>
   </line>
   <line>
     <name>7</name>
@@ -476,13 +474,8 @@
   </line>
   <line>
     <name>Robert F. Kennedy</name>
-    <status>PLANNED WORK</status>
+    <status>SERVICE CHANGE</status>
     <text>
-                    &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
-                    &lt;br/&gt;
-                  RFK planned work on the Queens span Bronx/Manhattan bound. One lane closed. Expect delays.
-                &lt;br/&gt;&lt;br/&gt;
-              
                     &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
                     &amp;nbsp;Posted:&amp;nbsp;02/10/2017&amp;nbsp; 7:21PM
@@ -490,8 +483,8 @@
                   RFK: New traffic pattern Queens to Manhattan use the TWO right lanes.
                 &lt;br/&gt;&lt;br/&gt;
               </text>
-    <Date>02/15/2017</Date>
-    <Time>10:17AM</Time>
+    <Date>02/10/2017</Date>
+    <Time> 7:21PM</Time>
   </line>
   <line>
     <name>Throgs Neck</name>
@@ -502,15 +495,10 @@
   </line>
   <line>
     <name>Verrazano-Narrows</name>
-    <status>PLANNED WORK</status>
-    <text>
-                    &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
-                    &lt;br/&gt;
-                  VNB planned work lower level Staten Island bound one lane blocked.
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>02/15/2017</Date>
-    <Time>10:18AM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
 </BT><LIRR>
   <line>
