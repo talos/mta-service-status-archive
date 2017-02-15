@@ -22,15 +22,31 @@
   </line>
   <line>
     <name>ACE</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>DELAYS</status>
+    <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;02/15/2017&amp;nbsp; 9:49AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;P&gt;Due to signal problems at &lt;STRONG&gt;116 St&lt;/STRONG&gt;, northbound [B] and [C] trains are running with delays. &lt;/P&gt;
+&lt;P&gt;Allow additional travel time.&lt;/P&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>02/15/2017</Date>
+    <Time> 9:49AM</Time>
   </line>
   <line>
     <name>BDFM</name>
-    <status>SERVICE CHANGE</status>
+    <status>DELAYS</status>
     <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;02/15/2017&amp;nbsp; 9:49AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;P&gt;Due to signal problems at &lt;STRONG&gt;116 St&lt;/STRONG&gt;, northbound [B] and [C] trains are running with delays. &lt;/P&gt;
+&lt;P&gt;Allow additional travel time.&lt;/P&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              
                     &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
                     &amp;nbsp;Posted:&amp;nbsp;02/15/2017&amp;nbsp; 9:43AM
@@ -46,7 +62,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>02/15/2017</Date>
-    <Time> 9:43AM</Time>
+    <Time> 9:49AM</Time>
   </line>
   <line>
     <name>G</name>
@@ -469,11 +485,16 @@
     <text>
                     &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
                     &lt;br/&gt;
+                  TNB planned work Bronx bound. One lane closed. Expect delays.
+                &lt;br/&gt;&lt;br/&gt;
+              
+                    &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
+                    &lt;br/&gt;
                   TNB planned work Queens bound one lane blocked, expect delays.
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>02/15/2017</Date>
-    <Time> 9:29AM</Time>
+    <Time> 9:48AM</Time>
   </line>
   <line>
     <name>Verrazano-Narrows</name>
@@ -554,17 +575,10 @@
   </line>
   <line>
     <name>Port Jefferson</name>
-    <status>DELAYS</status>
-    <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;02/15/2017&amp;nbsp; 9:43AM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  The 8:34AM train from Port Jefferson due Hicksville at 9:40AM is operating 10 minutes late due to a late eastbound train in single-track territory.
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>02/15/2017</Date>
-    <Time> 9:43AM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>Port Washington</name>
