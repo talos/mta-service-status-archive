@@ -1,22 +1,21 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>SERVICE CHANGE</status>
+    <status>DELAYS</status>
     <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;02/15/2017&amp;nbsp; 1:49AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  Following an earlier incident at &lt;STRONG&gt;50 St&lt;/STRONG&gt;, [1] and [2] train service has resumed with delays.
+                &lt;br/&gt;&lt;br/&gt;
+              
                     &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
                     &amp;nbsp;Posted:&amp;nbsp;02/15/2017&amp;nbsp; 1:47AM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
                   &lt;P&gt;Due to track maintenance between &lt;STRONG&gt;96 St&lt;/STRONG&gt; and &lt;STRONG&gt;Central Park North-110 St&lt;/STRONG&gt;, some northbound [2] trains are running on the [5] line from &lt;STRONG&gt;Nevins St&lt;/STRONG&gt; to &lt;STRONG&gt;149 St-Grand Concourse.&lt;/STRONG&gt; &lt;/P&gt;
 &lt;P&gt;Expect delays in [1][2][4] and [6] train service in both directions. &lt;/P&gt;
-&lt;P&gt;Allow additional travel time. &lt;/P&gt;
-                &lt;br/&gt;&lt;br/&gt;
-              
-                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;02/15/2017&amp;nbsp; 1:36AM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  &lt;P&gt;Due to track maintenance at &lt;STRONG&gt;50 St&lt;/STRONG&gt;, southbound [1] and [2] trains are running express from &lt;STRONG&gt;72 St&lt;/STRONG&gt; to &lt;STRONG&gt;Times Square-42 St.&lt;/STRONG&gt;&lt;/P&gt;
 &lt;P&gt;Allow additional travel time. &lt;/P&gt;
                 &lt;br/&gt;&lt;br/&gt;
               
@@ -36,7 +35,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>02/15/2017</Date>
-    <Time> 1:47AM</Time>
+    <Time> 1:49AM</Time>
   </line>
   <line>
     <name>456</name>
@@ -353,6 +352,11 @@
     <text>
                     &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
                     &lt;br/&gt;
+                  BWB: Planned work; Bronx-bound cleared.
+                &lt;br/&gt;&lt;br/&gt;
+              
+                    &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
+                    &lt;br/&gt;
                   BWB: PLANNED WORK; BRONX-BOUND; ONE LANE CLOSED. EXPECT DELAYS.
                 &lt;br/&gt;&lt;br/&gt;
               
@@ -361,8 +365,8 @@
                   BWB: PLANNED WORK; QUEENS-BOUND; ONE LANE CLOSED. EXPECT DELAYS.
                 &lt;br/&gt;&lt;br/&gt;
               </text>
-    <Date>02/14/2017</Date>
-    <Time>10:22PM</Time>
+    <Date>02/15/2017</Date>
+    <Time> 1:48AM</Time>
   </line>
   <line>
     <name>Cross Bay</name>
