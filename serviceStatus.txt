@@ -29,10 +29,15 @@
   </line>
   <line>
     <name>BDFM</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>PLANNED WORK</status>
+    <text>
+                    &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
+                    &lt;br/&gt;
+                  &lt;a class="plannedWorkDetailLink" onclick=ShowHide(145175);&gt;&lt;b&gt;[D] Manhattan-bound trains make local stops at 25 St, Prospect Av, 4 Av-9 St, Union St and DeKalb Av&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 145175 class="plannedWorkDetail" &gt;&lt;/b&gt;Evenings, 8:30 PM to 10 PM, Mon to Thu, Feb 13 - 16 &lt;br&gt;&lt;br&gt;&amp;bull; Please allow additional travel time.&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>02/15/2017</Date>
+    <Time> 8:32PM</Time>
   </line>
   <line>
     <name>G</name>
@@ -65,6 +70,11 @@
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
                   &lt;P&gt;Due to signal problems at &lt;STRONG&gt;Lexington Av/59 St&lt;/STRONG&gt;, northbound [N], [R] and [W] trains are running with delays.&lt;/P&gt;
 &lt;P&gt;Allow additional travel time &lt;/P&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              
+                    &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
+                    &lt;br/&gt;
+                  &lt;a class="plannedWorkDetailLink" onclick=ShowHide(145174);&gt;&lt;b&gt;[N] Astoria-bound trains make local stops at 53, 45, 36, 25 Sts, Prospect Av, 4 Av-9 St and Union St&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 145174 class="plannedWorkDetail" &gt;&lt;/b&gt;Evenings, beginning at 8:30 PM, Mon to Thu, Feb 13 - 16 &lt;br&gt;&lt;br&gt;&amp;bull; Please allow additional travel time.&lt;br&gt;&lt;br&gt;&lt;b&gt;Reminder:&lt;/b&gt; &lt;a href=http://advisory.mtanyct.info/pdf_files/NightMap.pdf target=_blank&gt;&lt;font color=#0000FF&gt;&lt;b&gt;&lt;u&gt;Late Night&lt;/u&gt;&lt;/b&gt;&lt;/font&gt;&lt;/a&gt; local service operates as scheduled in Brooklyn.&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>02/15/2017</Date>
@@ -196,7 +206,7 @@
               &lt;br/&gt;
             </text>
     <Date>02/15/2017</Date>
-    <Time> 8:27PM</Time>
+    <Time> 8:32PM</Time>
   </line>
   <line>
     <name>BXM1 - BXM18</name>
@@ -209,7 +219,7 @@
               &lt;br/&gt;
             </text>
     <Date>02/15/2017</Date>
-    <Time> 8:27PM</Time>
+    <Time> 8:32PM</Time>
   </line>
   <line>
     <name>M1 - M116</name>
@@ -340,7 +350,7 @@
               &lt;br/&gt;
             </text>
     <Date>02/15/2017</Date>
-    <Time> 8:27PM</Time>
+    <Time> 8:32PM</Time>
   </line>
   <line>
     <name>S40 - S98</name>
