@@ -1,10 +1,19 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>SERVICE CHANGE</status>
+    <text>
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;02/16/2017&amp;nbsp; 7:27PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;P&gt;Due to NYPD activity at &lt;STRONG&gt;28 St&lt;/STRONG&gt;, southbound [1] trains are running express from &lt;STRONG&gt;Times Sq-42 St&lt;/STRONG&gt; to &lt;STRONG&gt;Chambers St&lt;/STRONG&gt;. &lt;/P&gt;
+&lt;P&gt;Expect delays on southbound [2] and [3] trains.&lt;/P&gt;
+&lt;P&gt;Allow additional travel time.&lt;/P&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>02/16/2017</Date>
+    <Time> 7:27PM</Time>
   </line>
   <line>
     <name>456</name>
@@ -199,7 +208,7 @@
               &lt;br/&gt;
             </text>
     <Date>02/16/2017</Date>
-    <Time> 7:22PM</Time>
+    <Time> 7:27PM</Time>
   </line>
   <line>
     <name>BXM1 - BXM18</name>
@@ -212,7 +221,7 @@
               &lt;br/&gt;
             </text>
     <Date>02/16/2017</Date>
-    <Time> 7:22PM</Time>
+    <Time> 7:27PM</Time>
   </line>
   <line>
     <name>M1 - M116</name>
@@ -379,7 +388,7 @@
               &lt;br/&gt;
             </text>
     <Date>02/16/2017</Date>
-    <Time> 7:22PM</Time>
+    <Time> 7:27PM</Time>
   </line>
   <line>
     <name>S40 - S98</name>
@@ -575,7 +584,7 @@
     <text>
                     &lt;span class="TitleSuspended"&gt;Suspended&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;02/16/2017&amp;nbsp; 7:24PM
+                    &amp;nbsp;Posted:&amp;nbsp;02/16/2017&amp;nbsp; 7:27PM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
                   &lt;P&gt;&lt;STRONG&gt;LIRR service on the Ronkonkoma Branch is suspended east of Farmingdale due to fire department activity.&lt;/STRONG&gt;&lt;/P&gt;
 &lt;P&gt;&lt;U&gt;&lt;STRONG&gt;Eastbound:&lt;/STRONG&gt;&lt;/U&gt;&lt;/P&gt;
@@ -588,7 +597,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>02/16/2017</Date>
-    <Time> 7:24PM</Time>
+    <Time> 7:27PM</Time>
   </line>
   <line>
     <name>West Hempstead</name>
