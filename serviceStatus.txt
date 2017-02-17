@@ -8,33 +8,17 @@
   </line>
   <line>
     <name>456</name>
-    <status>SERVICE CHANGE</status>
-    <text>
-                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;02/17/2017&amp;nbsp;10:26AM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  &lt;P&gt;Due to a rail condition at &lt;STRONG&gt;86 St&lt;/STRONG&gt;, the following service changes are in effect:&lt;/P&gt;
-&lt;P&gt;Some southbound [5] trains are running on the [2] line from &lt;STRONG&gt;149 St-Grand Concourse&lt;/STRONG&gt; to &lt;STRONG&gt;Nevins St&lt;/STRONG&gt;.&lt;/P&gt;
-&lt;P&gt;Southbound [6] trains are running express from &lt;STRONG&gt;125 St&lt;/STRONG&gt; to &lt;STRONG&gt;Grand Central-42 St&lt;/STRONG&gt;. &lt;/P&gt;
-&lt;P&gt;Expect delays in southbound [4] and [5] train service.&lt;/P&gt;
-&lt;P&gt;Allow additional travel time.&lt;/P&gt;
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>02/17/2017</Date>
-    <Time>10:26AM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>7</name>
-    <status>PLANNED WORK</status>
-    <text>
-                    &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
-                    &lt;br/&gt;
-                  &lt;a class="plannedWorkDetailLink" onclick=ShowHide(143076);&gt;&lt;b&gt;[7] Flushing-bound trains skip 33, 40, 46, 52 and 69 Sts&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 143076 class="plannedWorkDetail" &gt;&lt;/b&gt;&lt;/font&gt;Days, 10:15 AM to 3 PM, Wed to Fri, until Mar 3&lt;br&gt;&lt;br&gt;&lt;/font&gt;For service &lt;i&gt;to&lt;/i&gt; these stations, take the [7] to 61 St-Woodside or 74 St and &lt;br&gt;transfer to a Hudson Yards-bound [7].&lt;br&gt;&lt;br&gt;For service &lt;i&gt;from&lt;/i&gt; these stations, take the [7] to 61 St-Woodside or Queensboro Plaza &lt;br&gt;and transfer to a Flushing-bound [7].&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>02/17/2017</Date>
-    <Time>10:32AM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>ACE</name>
@@ -45,15 +29,22 @@
   </line>
   <line>
     <name>BDFM</name>
-    <status>PLANNED WORK</status>
+    <status>DELAYS</status>
     <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;02/17/2017&amp;nbsp; 9:54AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  Following an earlier incident at &lt;STRONG&gt;Parsons Blvd&lt;/STRONG&gt;, [F] train service has resumed with delays.
+                &lt;br/&gt;&lt;br/&gt;
+              
                     &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
                     &lt;br/&gt;
                   &lt;a class="plannedWorkDetailLink" onclick=ShowHide(145060);&gt;&lt;b&gt;[D] Norwood-bound trains skip 20 Av, 18 Av, 79 St and 71 St&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 145060 class="plannedWorkDetail" &gt;&lt;/b&gt;Days, 9:45 AM to 3 PM, Tue to Fri, Feb 14 - 17&lt;br&gt;&lt;br&gt;For service &lt;i&gt;to&lt;/i&gt; these stations, take the [D] to 62 St and transfer to a Coney Island-bound [D].&lt;br&gt;&lt;br&gt;For service &lt;i&gt;from&lt;/i&gt; these stations, take the [D] to Bay Pkwy and transfer to a Norwood-bound [D].&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>02/17/2017</Date>
-    <Time>10:32AM</Time>
+    <Time> 9:54AM</Time>
   </line>
   <line>
     <name>G</name>
@@ -78,15 +69,17 @@
   </line>
   <line>
     <name>NQR</name>
-    <status>PLANNED WORK</status>
+    <status>DELAYS</status>
     <text>
-                    &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
-                    &lt;br/&gt;
-                  &lt;a class="plannedWorkDetailLink" onclick=ShowHide(145602);&gt;&lt;b&gt;[N] Coney Island-bound trains skip 30 Av, Broadway, 36 Av and 39 Av&lt;br clear=left&gt;[W] Whitehall St-bound trains skip 30 Av, Broadway, 36 Av and 39 Av&lt;br clear=left&gt;[W] Trains run every 20 minutes&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 145602 class="plannedWorkDetail" &gt;&lt;/b&gt;Days, 10:15 AM to 3 PM, Tue to Fri, Feb 14 - 17  &amp;bull;  Feb 21 - 24&lt;br&gt;&lt;br&gt;For service &lt;i&gt;to&lt;/i&gt; these stations, take the [N] or [W] to Queensboro Plaza and transfer to an &lt;br&gt;Astoria-bound [N] or [W].&lt;br&gt;&lt;br&gt;For service &lt;i&gt;from&lt;/i&gt; these stations, take the [N] or [W] to Astoria Blvd and transfer to a &lt;br&gt;Coney Island-bound [N] or Whitehall St-bound [W].&lt;br&gt;&lt;br&gt;&amp;bull; Please allow additional travel time.&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;02/17/2017&amp;nbsp; 9:58AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  Following an earlier incident at &lt;STRONG&gt;57 St-7 Av&lt;/STRONG&gt;, [N], [Q], [R] and [W] train service has resumed with delays.
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>02/17/2017</Date>
-    <Time>10:32AM</Time>
+    <Time> 9:58AM</Time>
   </line>
   <line>
     <name>S</name>
@@ -105,7 +98,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>02/17/2017</Date>
-    <Time>10:32AM</Time>
+    <Time>10:12AM</Time>
   </line>
 </subway><bus>
   <line>
@@ -225,7 +218,7 @@
               &lt;br/&gt;
             </text>
     <Date>02/17/2017</Date>
-    <Time>10:32AM</Time>
+    <Time>10:12AM</Time>
   </line>
   <line>
     <name>BXM1 - BXM18</name>
@@ -238,7 +231,7 @@
               &lt;br/&gt;
             </text>
     <Date>02/17/2017</Date>
-    <Time>10:32AM</Time>
+    <Time>10:12AM</Time>
   </line>
   <line>
     <name>M1 - M116</name>
@@ -283,21 +276,8 @@
   </line>
   <line>
     <name>Q1 - Q113</name>
-    <status>SERVICE CHANGE</status>
+    <status>DELAYS</status>
     <text>
-                  &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
-                  &lt;span class="DateStyle"&gt;
-                  &amp;nbsp;Posted:&amp;nbsp;02/17/2017&amp;nbsp;10:27AM
-                  &lt;/span&gt;
-                  &lt;br/&gt;
-                  &lt;br/&gt;
-                &lt;P&gt;&lt;STRONG&gt;Q24&lt;/STRONG&gt; buses are detoured, due to road obstruction on the Van Wyck Expressway Service Rd South. &lt;/P&gt;
-&lt;P&gt;Detour is as follows:&lt;/P&gt;
-&lt;P&gt;&lt;STRONG&gt;Westbound:&lt;/STRONG&gt; Via Van Wyck Expressway Service Road, after Jamaica Hospital stop move to the left lane, right on 95 St, right on 130 St, left on Atlantic Av and regular route.&lt;/P&gt;
-&lt;P&gt;Allow additional travel time.&lt;/P&gt;
-              &lt;br/&gt;
-              &lt;br/&gt;
-            
                   &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                   &lt;span class="DateStyle"&gt;
                   &amp;nbsp;Posted:&amp;nbsp;02/17/2017&amp;nbsp;10:10AM
@@ -397,7 +377,7 @@
               &lt;br/&gt;
             </text>
     <Date>02/17/2017</Date>
-    <Time>10:27AM</Time>
+    <Time>10:10AM</Time>
   </line>
   <line>
     <name>QM1 - QM44</name>
@@ -410,7 +390,7 @@
               &lt;br/&gt;
             </text>
     <Date>02/17/2017</Date>
-    <Time>10:32AM</Time>
+    <Time>10:12AM</Time>
   </line>
   <line>
     <name>S40 - S98</name>
@@ -470,10 +450,17 @@
   </line>
   <line>
     <name>Hugh L. Carey</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>SERVICE CHANGE</status>
+    <text>
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;02/17/2017&amp;nbsp; 5:57AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  HLC - HOV Lane Open 6 AM to 10 AM. Two-Way Operations in effect. Three (3) lanes Manhattan-bound. One (1) lane Brooklyn-bound
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>02/17/2017</Date>
+    <Time> 5:57AM</Time>
   </line>
   <line>
     <name>Marine Parkway</name>
@@ -484,10 +471,17 @@
   </line>
   <line>
     <name>Queens Midtown</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>SERVICE CHANGE</status>
+    <text>
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;02/17/2017&amp;nbsp; 6:09AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  QMT - HOV Lane Open 6 AM to 10 AM. Two-Way Operation in effect. Three (3) lanes Manhattan bound. One (1) lane Queens bound.
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>02/17/2017</Date>
+    <Time> 6:09AM</Time>
   </line>
   <line>
     <name>Robert F. Kennedy</name>
