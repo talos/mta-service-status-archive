@@ -26,9 +26,10 @@
     <text>
                     &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;02/16/2017&amp;nbsp;10:13PM
+                    &amp;nbsp;Posted:&amp;nbsp;02/16/2017&amp;nbsp;10:23PM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  &lt;P&gt;Due to track maintenance at &lt;STRONG&gt;67 Av&lt;/STRONG&gt;, northbound [E], [F] and 71 Av-bound [M] and [R] trains are running with delays. &lt;/P&gt;
+                  &lt;P&gt;Due to track maintenance at &lt;STRONG&gt;67 Av&lt;/STRONG&gt;, northbound [E] and [F] trains are running local from &lt;STRONG&gt;Queens Plaza &lt;/STRONG&gt;or &lt;STRONG&gt;Jackson Heights-Roosevelt Av&lt;/STRONG&gt; to &lt;STRONG&gt;Forest Hills-71 Av&lt;/STRONG&gt;. &lt;/P&gt;
+&lt;P&gt;Expect extensive delays in [E] and [F] service. &lt;/P&gt;
 &lt;P&gt;Allow additional travel time.&lt;/P&gt;
                 &lt;br/&gt;&lt;br/&gt;
               
@@ -43,25 +44,26 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>02/16/2017</Date>
-    <Time>10:13PM</Time>
+    <Time>10:23PM</Time>
   </line>
   <line>
     <name>BDFM</name>
-    <status>SERVICE CHANGE</status>
+    <status>DELAYS</status>
     <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;02/16/2017&amp;nbsp;10:23PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;P&gt;Due to track maintenance at &lt;STRONG&gt;67 Av&lt;/STRONG&gt;, northbound [E] and [F] trains are running local from &lt;STRONG&gt;Queens Plaza &lt;/STRONG&gt;or &lt;STRONG&gt;Jackson Heights-Roosevelt Av&lt;/STRONG&gt; to &lt;STRONG&gt;Forest Hills-71 Av&lt;/STRONG&gt;. &lt;/P&gt;
+&lt;P&gt;Expect extensive delays in [E] and [F] service. &lt;/P&gt;
+&lt;P&gt;Allow additional travel time.&lt;/P&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              
                     &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
                     &amp;nbsp;Posted:&amp;nbsp;02/16/2017&amp;nbsp;10:13PM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
                   &lt;P&gt;Due to track maintenance on &lt;STRONG&gt;4 Av&lt;/STRONG&gt;, northbound [D] and [N] trains are running local from &lt;STRONG&gt;59 St&lt;/STRONG&gt; (Bklyn) to &lt;STRONG&gt;Atlantic Av-Barclays Ctr&lt;/STRONG&gt;. &lt;/P&gt;
-&lt;P&gt;Allow additional travel time.&lt;/P&gt;
-                &lt;br/&gt;&lt;br/&gt;
-              
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;02/16/2017&amp;nbsp;10:13PM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  &lt;P&gt;Due to track maintenance at &lt;STRONG&gt;67 Av&lt;/STRONG&gt;, northbound [E], [F] and 71 Av-bound [M] and [R] trains are running with delays. &lt;/P&gt;
 &lt;P&gt;Allow additional travel time.&lt;/P&gt;
                 &lt;br/&gt;&lt;br/&gt;
               
@@ -86,7 +88,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>02/16/2017</Date>
-    <Time>10:13PM</Time>
+    <Time>10:23PM</Time>
   </line>
   <line>
     <name>G</name>
@@ -118,14 +120,6 @@
                     &amp;nbsp;Posted:&amp;nbsp;02/16/2017&amp;nbsp;10:13PM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
                   &lt;P&gt;Due to track maintenance on &lt;STRONG&gt;4 Av&lt;/STRONG&gt;, northbound [D] and [N] trains are running local from &lt;STRONG&gt;59 St&lt;/STRONG&gt; (Bklyn) to &lt;STRONG&gt;Atlantic Av-Barclays Ctr&lt;/STRONG&gt;. &lt;/P&gt;
-&lt;P&gt;Allow additional travel time.&lt;/P&gt;
-                &lt;br/&gt;&lt;br/&gt;
-              
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;02/16/2017&amp;nbsp;10:13PM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  &lt;P&gt;Due to track maintenance at &lt;STRONG&gt;67 Av&lt;/STRONG&gt;, northbound [E], [F] and 71 Av-bound [M] and [R] trains are running with delays. &lt;/P&gt;
 &lt;P&gt;Allow additional travel time.&lt;/P&gt;
                 &lt;br/&gt;&lt;br/&gt;
               </text>
@@ -432,10 +426,15 @@
 </bus><BT>
   <line>
     <name>Bronx-Whitestone</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>PLANNED WORK</status>
+    <text>
+                    &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
+                    &lt;br/&gt;
+                  BWB - Planned work Queens bound two lanes closed, expect delays.
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>02/16/2017</Date>
+    <Time>10:21PM</Time>
   </line>
   <line>
     <name>Cross Bay</name>
