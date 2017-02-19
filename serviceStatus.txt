@@ -1,8 +1,15 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>PLANNED WORK</status>
+    <status>DELAYS</status>
     <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;02/19/2017&amp;nbsp; 1:06PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  Due to an earlier incident at&lt;STRONG&gt; 96 St&lt;/STRONG&gt;, [1] train service has resumed with delays.
+                &lt;br/&gt;&lt;br/&gt;
+              
                     &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
                     &lt;br/&gt;
                   &lt;a class="plannedWorkDetailLink" onclick=ShowHide(145819);&gt;&lt;b&gt;[3] Trains run local in both directions between 34 St-Penn Station and Chambers St&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 145819 class="plannedWorkDetail" &gt;&lt;/b&gt;Weekend &amp; &lt;a href=http://web.mta.info/nyct/service/PresidentsDay2017.htm target=_blank&gt;&lt;font color=#0000FF&gt;&lt;b&gt;&lt;u&gt;Holiday&lt;/u&gt;&lt;/b&gt;&lt;/font&gt;&lt;/a&gt;, Sat to Mon, Feb 18 - 20&lt;br&gt;&lt;br&gt;&amp;bull; Please allow additional travel time.&lt;br&gt;&lt;br&gt;&lt;b&gt;Note:&lt;/b&gt; No trains between Utica Av and New Lots Av, &lt;i&gt;all weekend&lt;/i&gt;.&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
@@ -34,7 +41,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>02/19/2017</Date>
-    <Time> 1:02PM</Time>
+    <Time> 1:06PM</Time>
   </line>
   <line>
     <name>456</name>
