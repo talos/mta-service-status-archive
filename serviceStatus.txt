@@ -1,14 +1,13 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>SERVICE CHANGE</status>
+    <status>DELAYS</status>
     <text>
-                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;02/19/2017&amp;nbsp;10:53AM
+                    &amp;nbsp;Posted:&amp;nbsp;02/19/2017&amp;nbsp;11:01AM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  &lt;P&gt;Due to NYPD activity at &lt;STRONG&gt;Houston St&lt;/STRONG&gt;, southbound [2] and [3] trains are running express from &lt;STRONG&gt;14 St&lt;/STRONG&gt; to &lt;STRONG&gt;Chambers St&lt;/STRONG&gt;. &lt;/P&gt;
-&lt;P&gt;Allow additional travel time.&lt;/P&gt;
+                  Folowing an earlier incident at &lt;STRONG&gt;Houston St&lt;/STRONG&gt;, [2] and [3] service has resumed with delays.
                 &lt;br/&gt;&lt;br/&gt;
               
                     &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
@@ -42,7 +41,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>02/19/2017</Date>
-    <Time>10:53AM</Time>
+    <Time>11:01AM</Time>
   </line>
   <line>
     <name>456</name>
@@ -240,6 +239,20 @@
     <text>
                   &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
                   &lt;span class="DateStyle"&gt;
+                  &amp;nbsp;Posted:&amp;nbsp;02/19/2017&amp;nbsp;11:00AM
+                  &lt;/span&gt;
+                  &lt;br/&gt;
+                  &lt;br/&gt;
+                &lt;P&gt;&lt;STRONG&gt;M100&lt;/STRONG&gt; and &lt;STRONG&gt;Bx9&lt;/STRONG&gt; buses are detoured, due to track work on Broadway and W 225 St. &lt;/P&gt;
+&lt;P&gt;Detour is as follows: &lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;M100 Northbound&lt;/STRONG&gt;: Left on W 215 St, right on Broadway to the terminal. &lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;Bx9 Southbound&lt;/STRONG&gt;: Via Broadway, left on W 238 St, right on Bailey Av, left on Kingsbridge Rd and regular route. &lt;/P&gt;
+&lt;P&gt;Allow additional travel time. &lt;/P&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
+                  &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                  &lt;span class="DateStyle"&gt;
                   &amp;nbsp;Posted:&amp;nbsp;02/19/2017&amp;nbsp;10:01AM
                   &lt;/span&gt;
                   &lt;br/&gt;
@@ -260,7 +273,7 @@
               &lt;br/&gt;
             </text>
     <Date>02/19/2017</Date>
-    <Time>10:01AM</Time>
+    <Time>11:00AM</Time>
   </line>
   <line>
     <name>BXM1 - BXM18</name>
@@ -277,8 +290,22 @@
   </line>
   <line>
     <name>M1 - M116</name>
-    <status>PLANNED WORK</status>
+    <status>SERVICE CHANGE</status>
     <text>
+                  &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                  &lt;span class="DateStyle"&gt;
+                  &amp;nbsp;Posted:&amp;nbsp;02/19/2017&amp;nbsp;11:00AM
+                  &lt;/span&gt;
+                  &lt;br/&gt;
+                  &lt;br/&gt;
+                &lt;P&gt;&lt;STRONG&gt;M100&lt;/STRONG&gt; and &lt;STRONG&gt;Bx9&lt;/STRONG&gt; buses are detoured, due to track work on Broadway and W 225 St. &lt;/P&gt;
+&lt;P&gt;Detour is as follows: &lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;M100 Northbound&lt;/STRONG&gt;: Left on W 215 St, right on Broadway to the terminal. &lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;Bx9 Southbound&lt;/STRONG&gt;: Via Broadway, left on W 238 St, right on Bailey Av, left on Kingsbridge Rd and regular route. &lt;/P&gt;
+&lt;P&gt;Allow additional travel time. &lt;/P&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
                   &lt;span class="TitlePlannedWork" &gt;Planned Detour&lt;/span&gt;
                   &lt;br/&gt;
                 &lt;a class="plannedWorkDetailLink" onclick=ShowHide(146469);&gt;&lt;b&gt;M79&lt;/b&gt; - &lt;b&gt;Eastbound stop on 79 St at Lexington Av temporarily closed&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 146469 class="plannedWorkDetail" &gt;&lt;/b&gt;Until further notice&lt;br&gt;&lt;br&gt;Due to construction, please use the nearby stop&lt;b&gt; on 79 St &lt;/b&gt;at 3 Av.&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
@@ -304,7 +331,7 @@
               &lt;br/&gt;
             </text>
     <Date>02/19/2017</Date>
-    <Time>10:52AM</Time>
+    <Time>11:00AM</Time>
   </line>
   <line>
     <name>Q1 - Q113</name>
