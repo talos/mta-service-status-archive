@@ -86,10 +86,15 @@
   </line>
   <line>
     <name>SIR</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>PLANNED WORK</status>
+    <text>
+                    &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
+                    &lt;br/&gt;
+                  &lt;a class="plannedWorkDetailLink" onclick=ShowHide(148511);&gt;&lt;b&gt;[SIR] Trains board at the Tottenville-bound platform from Jefferson Av to Old Town Stations&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 148511 class="plannedWorkDetail" &gt;&lt;/b&gt;Days, 9 AM to 3 PM, Tue &lt;i&gt;and&lt;/i&gt; Wed, Feb 21 - 22&lt;br&gt;&lt;br&gt;&amp;bull; Boarding change includes &lt;b&gt;Jefferson Av&lt;/b&gt;, &lt;b&gt;Dongan Hills&lt;/b&gt;, and &lt;b&gt;Old Town Stations&lt;/b&gt;. &lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>02/21/2017</Date>
+    <Time> 9:02AM</Time>
   </line>
 </subway><bus>
   <line>
@@ -127,7 +132,7 @@
               &lt;br/&gt;
             </text>
     <Date>02/21/2017</Date>
-    <Time> 8:52AM</Time>
+    <Time> 9:02AM</Time>
   </line>
   <line>
     <name>B100 - B103</name>
@@ -160,7 +165,7 @@
               &lt;br/&gt;
             </text>
     <Date>02/21/2017</Date>
-    <Time> 8:52AM</Time>
+    <Time> 9:02AM</Time>
   </line>
   <line>
     <name>BXM1 - BXM18</name>
@@ -173,7 +178,7 @@
               &lt;br/&gt;
             </text>
     <Date>02/21/2017</Date>
-    <Time> 8:52AM</Time>
+    <Time> 9:02AM</Time>
   </line>
   <line>
     <name>M1 - M116</name>
@@ -295,7 +300,7 @@
               &lt;br/&gt;
             </text>
     <Date>02/21/2017</Date>
-    <Time> 8:52AM</Time>
+    <Time> 9:02AM</Time>
   </line>
   <line>
     <name>S40 - S98</name>
@@ -428,10 +433,17 @@
   </line>
   <line>
     <name>City Terminal Zone</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>DELAYS</status>
+    <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;02/21/2017&amp;nbsp; 9:02AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  The 7:12AM train from Speonk due Hunterspoint Ave. at 9:11AM is operating 10 minutes late at this time.
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>02/21/2017</Date>
+    <Time> 9:02AM</Time>
   </line>
   <line>
     <name>Far Rockaway</name>
@@ -456,10 +468,17 @@
   </line>
   <line>
     <name>Montauk</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>DELAYS</status>
+    <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;02/21/2017&amp;nbsp; 9:02AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  The 7:12AM train from Speonk due Hunterspoint Ave. at 9:11AM is operating 10 minutes late at this time.
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>02/21/2017</Date>
+    <Time> 9:02AM</Time>
   </line>
   <line>
     <name>Oyster Bay</name>
