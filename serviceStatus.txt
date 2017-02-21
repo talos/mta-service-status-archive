@@ -1,17 +1,13 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>SERVICE CHANGE</status>
+    <status>DELAYS</status>
     <text>
-                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;02/21/2017&amp;nbsp;12:17PM
+                    &amp;nbsp;Posted:&amp;nbsp;02/21/2017&amp;nbsp; 1:00PM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  &lt;P&gt;Due to mechanical problems on the &lt;STRONG&gt;Broadway Bridge&lt;/STRONG&gt;, the following service changes are in effect:&lt;/P&gt;
-&lt;P&gt;[1] Both directions there is no service between &lt;STRONG&gt;215 St&lt;/STRONG&gt; and &lt;STRONG&gt;Van Cortlandt Park-242 St.&lt;/STRONG&gt;&lt;/P&gt;
-&lt;P&gt;[1] Some northbound trains terminate at &lt;STRONG&gt;137 St-City College&lt;/STRONG&gt;.&lt;/P&gt;
-&lt;P&gt;As an alternative, customers are advised to take &lt;STRONG&gt;Bx7&lt;/STRONG&gt; or &lt;STRONG&gt;Bx9&lt;/STRONG&gt; bus making nearby station stops.&lt;/P&gt;
-&lt;P&gt;Allow additional travel time.&lt;/P&gt;
+                  Following an earlier incident on the &lt;STRONG&gt;Broadway Bridge&lt;/STRONG&gt;, [1] train service has resumed with delays.
                 &lt;br/&gt;&lt;br/&gt;
               
                     &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
@@ -28,7 +24,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>02/21/2017</Date>
-    <Time>12:17PM</Time>
+    <Time> 1:00PM</Time>
   </line>
   <line>
     <name>456</name>
@@ -57,7 +53,7 @@
               
                     &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
                     &lt;br/&gt;
-                  &lt;a class="plannedWorkDetailLink" onclick=ShowHide(146081);&gt;&lt;b&gt;[6D] Brooklyn Bridge-bound trains run local from Hunts Point Av to 3 Av-138 St&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 146081 class="plannedWorkDetail" &gt;&lt;/b&gt;Days, 10:15 AM to 1 PM, Tue to Fri, Feb 21 - 24&lt;br&gt;&lt;br&gt;&amp;bull; Please allow additional travel time.&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+                  &lt;a class="plannedWorkDetailLink" onclick=ShowHide(146079);&gt;&lt;b&gt;[6D] Pelham Bay Park-bound trains run local from 3 Av-138 St to Parkchester&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 146079 class="plannedWorkDetail" &gt;&lt;/b&gt;Days, 1 PM to 3 PM, Tue to Fri, Feb 21 - 24  &amp;bull;  Feb 28 - Mar 3  &amp;bull;  Mar 7 - 10 &lt;br&gt;&lt;br&gt;&amp;bull; Please allow additional travel time.&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
                 &lt;br/&gt;&lt;br/&gt;
               
                     &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
@@ -125,7 +121,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>02/21/2017</Date>
-    <Time>12:52PM</Time>
+    <Time> 1:02PM</Time>
   </line>
   <line>
     <name>S</name>
@@ -144,7 +140,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>02/21/2017</Date>
-    <Time>12:52PM</Time>
+    <Time> 1:02PM</Time>
   </line>
 </subway><bus>
   <line>
@@ -182,7 +178,7 @@
               &lt;br/&gt;
             </text>
     <Date>02/21/2017</Date>
-    <Time>12:52PM</Time>
+    <Time> 1:02PM</Time>
   </line>
   <line>
     <name>B100 - B103</name>
@@ -215,7 +211,7 @@
               &lt;br/&gt;
             </text>
     <Date>02/21/2017</Date>
-    <Time>12:52PM</Time>
+    <Time> 1:02PM</Time>
   </line>
   <line>
     <name>BXM1 - BXM18</name>
@@ -228,7 +224,7 @@
               &lt;br/&gt;
             </text>
     <Date>02/21/2017</Date>
-    <Time>12:52PM</Time>
+    <Time> 1:02PM</Time>
   </line>
   <line>
     <name>M1 - M116</name>
@@ -326,7 +322,7 @@
               &lt;br/&gt;
             </text>
     <Date>02/21/2017</Date>
-    <Time>12:52PM</Time>
+    <Time> 1:02PM</Time>
   </line>
   <line>
     <name>QM1 - QM44</name>
@@ -339,24 +335,14 @@
               &lt;br/&gt;
             </text>
     <Date>02/21/2017</Date>
-    <Time>12:52PM</Time>
+    <Time> 1:02PM</Time>
   </line>
   <line>
     <name>S40 - S98</name>
-    <status>DELAYS</status>
-    <text>
-                  &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                  &lt;span class="DateStyle"&gt;
-                  &amp;nbsp;Posted:&amp;nbsp;02/21/2017&amp;nbsp;12:42PM
-                  &lt;/span&gt;
-                  &lt;br/&gt;
-                  &lt;br/&gt;
-                Following an earlier incident on McLean Av, &lt;STRONG&gt;S52&lt;/STRONG&gt; bus service has resumed with delays.
-              &lt;br/&gt;
-              &lt;br/&gt;
-            </text>
-    <Date>02/21/2017</Date>
-    <Time>12:42PM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>x1 - x68</name>
