@@ -1,21 +1,22 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>DELAYS</status>
+    <status>SERVICE CHANGE</status>
     <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;02/21/2017&amp;nbsp;12:02PM
+                    &amp;nbsp;Posted:&amp;nbsp;02/21/2017&amp;nbsp;12:08PM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  &lt;P&gt;Due to signal problems at &lt;STRONG&gt;191 St&lt;/STRONG&gt;, southbound [1] trains are running with delays. &lt;/P&gt;
+                  &lt;P&gt;Due to mechanical problems on the &lt;STRONG&gt;Broadway Bridge&lt;/STRONG&gt;, [1] trains are running with delays in both directions.&lt;/P&gt;
+&lt;P&gt;Some northbound [1] trains terminate at &lt;STRONG&gt;215 St&lt;/STRONG&gt;.&lt;/P&gt;
 &lt;P&gt;Allow additional travel time.&lt;/P&gt;
                 &lt;br/&gt;&lt;br/&gt;
               
                     &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;02/21/2017&amp;nbsp;11:53AM
+                    &amp;nbsp;Posted:&amp;nbsp;02/21/2017&amp;nbsp;12:02PM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  &lt;P&gt;Due to mechanical problems on the &lt;STRONG&gt;Broadway Bridge&lt;/STRONG&gt;, [1] trains are running with delays in both directions.&lt;/P&gt;
+                  &lt;P&gt;Due to signal problems at &lt;STRONG&gt;191 St&lt;/STRONG&gt;, southbound [1] trains are running with delays. &lt;/P&gt;
 &lt;P&gt;Allow additional travel time.&lt;/P&gt;
                 &lt;br/&gt;&lt;br/&gt;
               
@@ -25,7 +26,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>02/21/2017</Date>
-    <Time>12:02PM</Time>
+    <Time>12:08PM</Time>
   </line>
   <line>
     <name>456</name>
@@ -112,7 +113,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>02/21/2017</Date>
-    <Time>12:02PM</Time>
+    <Time>12:07PM</Time>
   </line>
   <line>
     <name>S</name>
@@ -131,7 +132,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>02/21/2017</Date>
-    <Time>12:02PM</Time>
+    <Time>12:07PM</Time>
   </line>
 </subway><bus>
   <line>
@@ -169,7 +170,7 @@
               &lt;br/&gt;
             </text>
     <Date>02/21/2017</Date>
-    <Time>12:02PM</Time>
+    <Time>12:07PM</Time>
   </line>
   <line>
     <name>B100 - B103</name>
@@ -202,7 +203,7 @@
               &lt;br/&gt;
             </text>
     <Date>02/21/2017</Date>
-    <Time>12:02PM</Time>
+    <Time>12:07PM</Time>
   </line>
   <line>
     <name>BXM1 - BXM18</name>
@@ -215,7 +216,7 @@
               &lt;br/&gt;
             </text>
     <Date>02/21/2017</Date>
-    <Time>12:02PM</Time>
+    <Time>12:07PM</Time>
   </line>
   <line>
     <name>M1 - M116</name>
@@ -301,7 +302,7 @@
               &lt;br/&gt;
             </text>
     <Date>02/21/2017</Date>
-    <Time>12:02PM</Time>
+    <Time>12:07PM</Time>
   </line>
   <line>
     <name>QM1 - QM44</name>
@@ -314,7 +315,7 @@
               &lt;br/&gt;
             </text>
     <Date>02/21/2017</Date>
-    <Time>12:02PM</Time>
+    <Time>12:07PM</Time>
   </line>
   <line>
     <name>S40 - S98</name>
