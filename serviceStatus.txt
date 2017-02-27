@@ -1,10 +1,19 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>SERVICE CHANGE</status>
+    <text>
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;02/27/2017&amp;nbsp; 6:08AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;P&gt;Due to FDNY activity at &lt;STRONG&gt;Christopher St-Sheridan Sq&lt;/STRONG&gt;, northbound [1] trains are running express from &lt;STRONG&gt;Chambers St&lt;/STRONG&gt; to &lt;STRONG&gt;14 St&lt;/STRONG&gt;. &lt;/P&gt;
+&lt;P&gt;Expect delays in northbound [2] and [3] train service. &lt;/P&gt;
+&lt;P&gt;Allow addional travel time, &lt;/P&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>02/27/2017</Date>
+    <Time> 6:08AM</Time>
   </line>
   <line>
     <name>456</name>
