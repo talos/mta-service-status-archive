@@ -1,10 +1,17 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>DELAYS</status>
+    <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;02/27/2017&amp;nbsp; 4:47PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  Due to an earlier incident at &lt;STRONG&gt;Prospect Av&lt;/STRONG&gt;, [2] service has resumed with delays.
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>02/27/2017</Date>
+    <Time> 4:47PM</Time>
   </line>
   <line>
     <name>456</name>
@@ -274,7 +281,7 @@
               &lt;br/&gt;
             </text>
     <Date>02/27/2017</Date>
-    <Time> 4:42PM</Time>
+    <Time> 4:47PM</Time>
   </line>
   <line>
     <name>BXM1 - BXM18</name>
@@ -287,7 +294,7 @@
               &lt;br/&gt;
             </text>
     <Date>02/27/2017</Date>
-    <Time> 4:42PM</Time>
+    <Time> 4:47PM</Time>
   </line>
   <line>
     <name>M1 - M116</name>
