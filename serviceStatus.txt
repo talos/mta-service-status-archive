@@ -29,18 +29,17 @@
   </line>
   <line>
     <name>BDFM</name>
-    <status>SERVICE CHANGE</status>
+    <status>DELAYS</status>
     <text>
-                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;02/28/2017&amp;nbsp; 9:34AM
+                    &amp;nbsp;Posted:&amp;nbsp;02/28/2017&amp;nbsp; 9:48AM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  &lt;P&gt;Due to NYPD activity at &lt;STRONG&gt;34 St-Herald Sq&lt;/STRONG&gt;, southbound [B] and [D] trains are running local from &lt;STRONG&gt;34 St-Herald Sq&lt;/STRONG&gt; to &lt;STRONG&gt;W 4 St-Washington Sq&lt;/STRONG&gt;. &lt;/P&gt;
-&lt;P&gt;Allow additional travel time.&lt;/P&gt;
+                  Following an earlier incident at &lt;STRONG&gt;34 St-Herald Sq&lt;/STRONG&gt;, [B] and [D] train service has resumed with delays.
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>02/28/2017</Date>
-    <Time> 9:34AM</Time>
+    <Time> 9:48AM</Time>
   </line>
   <line>
     <name>G</name>
@@ -87,13 +86,28 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>02/28/2017</Date>
-    <Time> 9:42AM</Time>
+    <Time> 9:47AM</Time>
   </line>
 </subway><bus>
   <line>
     <name>B1 - B84</name>
-    <status>DELAYS</status>
+    <status>SERVICE CHANGE</status>
     <text>
+                  &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                  &lt;span class="DateStyle"&gt;
+                  &amp;nbsp;Posted:&amp;nbsp;02/28/2017&amp;nbsp; 9:48AM
+                  &lt;/span&gt;
+                  &lt;br/&gt;
+                  &lt;br/&gt;
+                &lt;P&gt;&lt;STRONG&gt;B52&lt;/STRONG&gt; and &lt;STRONG&gt;B54&lt;/STRONG&gt; buses are detoured westbound, due to verizon work on St Nicolas Av and Gates Av.&lt;/P&gt;
+&lt;P&gt;Detour is as follows:&lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;B52 Cadman Plz Bound&lt;/STRONG&gt;: Via Palmetto St, left on Cypress Av, left  on Gates Av and regular route.&lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;B54 Ridgewood Bound&lt;/STRONG&gt;: Via Gates Av, right  on Cypress Av, right on Palmetto St and regular route.&lt;/P&gt;
+&lt;P&gt;Allow additional travel time.&lt;/P&gt;
+&lt;P&gt; &lt;/P&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
                   &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                   &lt;span class="DateStyle"&gt;
                   &amp;nbsp;Posted:&amp;nbsp;02/28/2017&amp;nbsp; 9:23AM
@@ -176,7 +190,7 @@
               &lt;br/&gt;
             </text>
     <Date>02/28/2017</Date>
-    <Time> 9:23AM</Time>
+    <Time> 9:48AM</Time>
   </line>
   <line>
     <name>B100 - B103</name>
@@ -209,7 +223,7 @@
               &lt;br/&gt;
             </text>
     <Date>02/28/2017</Date>
-    <Time> 9:42AM</Time>
+    <Time> 9:47AM</Time>
   </line>
   <line>
     <name>BXM1 - BXM18</name>
@@ -222,7 +236,7 @@
               &lt;br/&gt;
             </text>
     <Date>02/28/2017</Date>
-    <Time> 9:42AM</Time>
+    <Time> 9:47AM</Time>
   </line>
   <line>
     <name>M1 - M116</name>
@@ -357,7 +371,7 @@
               &lt;br/&gt;
             </text>
     <Date>02/28/2017</Date>
-    <Time> 9:42AM</Time>
+    <Time> 9:47AM</Time>
   </line>
   <line>
     <name>S40 - S98</name>
@@ -527,20 +541,10 @@
   </line>
   <line>
     <name>Port Jefferson</name>
-    <status>DELAYS</status>
-    <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;02/28/2017&amp;nbsp; 9:43AM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  &lt;P&gt;&lt;STRONG&gt;&lt;U&gt;Eastbound:&lt;/U&gt;&lt;/STRONG&gt;&lt;/P&gt;
-&lt;P&gt;The 8:17AM train from Jamaica due Port Jefferson at 9:52AM is operating 11 minutes late after being delayed near Hicksville due to congestion caused by an earlier train with equipment trouble.&lt;/P&gt;
-&lt;P&gt;&lt;STRONG&gt;&lt;U&gt;Westbound:&lt;/U&gt;&lt;/STRONG&gt;&lt;/P&gt;
-&lt;P&gt;The 8:34AM train from Port Jefferson due Hicksville at 9:40AM is operating 10 minutes late due to congestion caused by delayed eastbound train in single-track territory.&lt;/P&gt;
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>02/28/2017</Date>
-    <Time> 9:43AM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>Port Washington</name>
@@ -551,19 +555,10 @@
   </line>
   <line>
     <name>Ronkonkoma</name>
-    <status>DELAYS</status>
-    <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;02/28/2017&amp;nbsp; 9:45AM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  &lt;P&gt;The 8:31AM train from Ronkonkoma due Penn at 9:56AM is operating 13 minutes late after accommodating a late-arriving eastbound train in single-track territory. &lt;/P&gt;
-&lt;P&gt; &lt;/P&gt;
-&lt;P&gt; &lt;/P&gt;
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>02/28/2017</Date>
-    <Time> 9:45AM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>West Hempstead</name>
