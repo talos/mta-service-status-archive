@@ -1,10 +1,19 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>SERVICE CHANGE</status>
+    <text>
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;02/28/2017&amp;nbsp;12:28PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;P&gt;Due to the &lt;STRONG&gt;Broadway Bridge&lt;/STRONG&gt; being open for marine traffic, there is no [1] train service between&lt;STRONG&gt; 215 St&lt;/STRONG&gt; and &lt;STRONG&gt;Van Cortlandt Park-242 St&lt;/STRONG&gt; in both directions. &lt;/P&gt;
+&lt;P&gt;Some northbound [1] trains are terminating at &lt;STRONG&gt;137 St-City College&lt;/STRONG&gt; of &lt;STRONG&gt;215 St&lt;/STRONG&gt;.&lt;/P&gt;
+&lt;P&gt;Allow additional travel time.&lt;/P&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>02/28/2017</Date>
+    <Time>12:28PM</Time>
   </line>
   <line>
     <name>456</name>
@@ -16,7 +25,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>02/28/2017</Date>
-    <Time>12:22PM</Time>
+    <Time>12:27PM</Time>
   </line>
   <line>
     <name>7</name>
@@ -100,7 +109,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>02/28/2017</Date>
-    <Time>12:22PM</Time>
+    <Time>12:27PM</Time>
   </line>
 </subway><bus>
   <line>
@@ -259,7 +268,7 @@
               &lt;br/&gt;
             </text>
     <Date>02/28/2017</Date>
-    <Time>12:22PM</Time>
+    <Time>12:27PM</Time>
   </line>
   <line>
     <name>BXM1 - BXM18</name>
@@ -272,7 +281,7 @@
               &lt;br/&gt;
             </text>
     <Date>02/28/2017</Date>
-    <Time>12:22PM</Time>
+    <Time>12:27PM</Time>
   </line>
   <line>
     <name>M1 - M116</name>
@@ -413,7 +422,7 @@
               &lt;br/&gt;
             </text>
     <Date>02/28/2017</Date>
-    <Time>12:22PM</Time>
+    <Time>12:27PM</Time>
   </line>
   <line>
     <name>S40 - S98</name>
