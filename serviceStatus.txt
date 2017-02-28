@@ -1,31 +1,17 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>DELAYS</status>
-    <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;02/28/2017&amp;nbsp; 8:29AM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  Following an earlier incident at &lt;STRONG&gt;Crown Hts-Utica Av&lt;/STRONG&gt;, [4] train service has resumed with delays.
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>02/28/2017</Date>
-    <Time> 8:29AM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>456</name>
-    <status>DELAYS</status>
-    <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;02/28/2017&amp;nbsp; 8:29AM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  Following an earlier incident at &lt;STRONG&gt;Crown Hts-Utica Av&lt;/STRONG&gt;, [4] train service has resumed with delays.
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>02/28/2017</Date>
-    <Time> 8:29AM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>7</name>
@@ -113,16 +99,32 @@
   </line>
   <line>
     <name>SIR</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>PLANNED WORK</status>
+    <text>
+                    &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
+                    &lt;br/&gt;
+                  &lt;a class="plannedWorkDetailLink" onclick=ShowHide(149145);&gt;&lt;b&gt;[SIR] Trains board at the St. George-bound platform from Grant City to Great Kills&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 149145 class="plannedWorkDetail" &gt;&lt;/b&gt;Days, 9 AM to 3 PM, Mon &lt;i&gt;and&lt;/i&gt; Tue, Feb 27 - 28&lt;br&gt;&lt;br&gt;&amp;bull; Boarding change includes &lt;b&gt;Grant City&lt;/b&gt;, &lt;b&gt;New Dorp&lt;/b&gt;, &lt;b&gt;Oakwood Heights&lt;/b&gt;, &lt;b&gt;Bay Terrace &lt;/b&gt;and &lt;br&gt;&lt;b&gt;  Great Kills Stations&lt;/b&gt;.&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>02/28/2017</Date>
+    <Time> 9:02AM</Time>
   </line>
 </subway><bus>
   <line>
     <name>B1 - B84</name>
     <status>DELAYS</status>
     <text>
+                  &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                  &lt;span class="DateStyle"&gt;
+                  &amp;nbsp;Posted:&amp;nbsp;02/28/2017&amp;nbsp; 9:01AM
+                  &lt;/span&gt;
+                  &lt;br/&gt;
+                  &lt;br/&gt;
+                &lt;P&gt;&lt;STRONG&gt;B41&lt;/STRONG&gt; are delayed northbound, due to traffic conditions between Grand Army Plz and Livingston St. &lt;/P&gt;
+&lt;P&gt;Allow additional travel time.&lt;/P&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
                   &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                   &lt;span class="DateStyle"&gt;
                   &amp;nbsp;Posted:&amp;nbsp;02/28/2017&amp;nbsp; 8:08AM
@@ -172,7 +174,7 @@
               &lt;br/&gt;
             </text>
     <Date>02/28/2017</Date>
-    <Time> 8:08AM</Time>
+    <Time> 9:01AM</Time>
   </line>
   <line>
     <name>B100 - B103</name>
@@ -205,7 +207,7 @@
               &lt;br/&gt;
             </text>
     <Date>02/28/2017</Date>
-    <Time> 8:52AM</Time>
+    <Time> 9:02AM</Time>
   </line>
   <line>
     <name>BXM1 - BXM18</name>
@@ -218,7 +220,7 @@
               &lt;br/&gt;
             </text>
     <Date>02/28/2017</Date>
-    <Time> 8:52AM</Time>
+    <Time> 9:02AM</Time>
   </line>
   <line>
     <name>M1 - M116</name>
@@ -353,7 +355,7 @@
               &lt;br/&gt;
             </text>
     <Date>02/28/2017</Date>
-    <Time> 8:52AM</Time>
+    <Time> 9:02AM</Time>
   </line>
   <line>
     <name>S40 - S98</name>
@@ -536,13 +538,17 @@
     <text>
                     &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;02/28/2017&amp;nbsp; 8:48AM
+                    &amp;nbsp;Posted:&amp;nbsp;02/28/2017&amp;nbsp; 9:01AM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  The 7:39AM train from Penn due Ronkonkoma at 8:59AM is operating 16 minutes late due to earlier equipment trouble at Hicksville Station.
+                  &lt;P&gt;&lt;STRONG&gt;Westbound&lt;/STRONG&gt;&lt;/P&gt;
+&lt;P&gt;The 8:31AM train from Ronkonkoma due Penn at 9:56AM is operating 13 minutes late after accommodating a late-arriving eastbound train in single-track territory. &lt;/P&gt;
+&lt;P&gt; &lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;Eastbound&lt;/STRONG&gt;&lt;/P&gt;
+&lt;P&gt;The 7:39AM train from Penn due Ronkonkoma at 8:59AM is operating 16 minutes late due to earlier equipment trouble at Hicksville Station.&lt;/P&gt;
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>02/28/2017</Date>
-    <Time> 8:48AM</Time>
+    <Time> 9:01AM</Time>
   </line>
   <line>
     <name>West Hempstead</name>
