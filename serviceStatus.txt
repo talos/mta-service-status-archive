@@ -1,20 +1,14 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>DELAYS</status>
+    <status>SERVICE CHANGE</status>
     <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;03/01/2017&amp;nbsp; 2:17AM
+                    &amp;nbsp;Posted:&amp;nbsp;03/01/2017&amp;nbsp; 2:44AM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  Following an earlier incident at &lt;STRONG&gt;86 St&lt;/STRONG&gt;, [1] and [2] train service has resumed with delays.
-                &lt;br/&gt;&lt;br/&gt;
-              
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;03/01/2017&amp;nbsp; 2:15AM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  Following an earlier incident at &lt;STRONG&gt;59 St-Columbus Circle&lt;/STRONG&gt;, [1] and [2] train service has resumed with delays.
+                  &lt;P&gt;Due to track maintenance at &lt;STRONG&gt;86 St, &lt;/STRONG&gt;northbound [1] and [2] trains are runnnig express from &lt;STRONG&gt;72 St&lt;/STRONG&gt; to &lt;STRONG&gt;96 St&lt;/STRONG&gt;.&lt;/P&gt;
+&lt;P&gt;Allow additional travel time. &lt;/P&gt;
                 &lt;br/&gt;&lt;br/&gt;
               
                     &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
@@ -43,7 +37,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>03/01/2017</Date>
-    <Time> 2:17AM</Time>
+    <Time> 2:44AM</Time>
   </line>
   <line>
     <name>456</name>
@@ -83,15 +77,8 @@
   </line>
   <line>
     <name>BDFM</name>
-    <status>DELAYS</status>
+    <status>PLANNED WORK</status>
     <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;03/01/2017&amp;nbsp; 2:34AM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  Following an earlier incident at &lt;STRONG&gt;14 St&lt;/STRONG&gt;, [F] train service has resumed with delays.
-                &lt;br/&gt;&lt;br/&gt;
-              
                     &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
                     &lt;br/&gt;
                   &lt;a class="plannedWorkDetailLink" onclick=ShowHide(146826);&gt;&lt;b&gt;[F] Coney Island-bound trains make local stops at 65 St, Northern Blvd, 46 St, Steinway St and 36 St&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 146826 class="plannedWorkDetail" &gt;&lt;/b&gt;Late Nights, 12:01 AM to 5 AM, Tue to Fri, Feb 28 - Mar 3&lt;br&gt;&lt;br&gt;&amp;bull; Please allow additional travel time.&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
@@ -113,7 +100,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>03/01/2017</Date>
-    <Time> 2:34AM</Time>
+    <Time> 2:42AM</Time>
   </line>
   <line>
     <name>G</name>
