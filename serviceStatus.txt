@@ -57,10 +57,18 @@
   </line>
   <line>
     <name>JZ</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>DELAYS</status>
+    <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;03/01/2017&amp;nbsp; 9:01AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;P&gt;Due to NYPD activity between &lt;STRONG&gt;Myrtle Av&lt;/STRONG&gt; and &lt;STRONG&gt;Marcy Av&lt;/STRONG&gt;, [J] and [Z] are running with delays in both directions. &lt;/P&gt;
+&lt;P&gt;Allow additional travel time.&lt;/P&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>03/01/2017</Date>
+    <Time> 9:01AM</Time>
   </line>
   <line>
     <name>L</name>
@@ -85,10 +93,15 @@
   </line>
   <line>
     <name>SIR</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>PLANNED WORK</status>
+    <text>
+                    &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
+                    &lt;br/&gt;
+                  &lt;a class="plannedWorkDetailLink" onclick=ShowHide(149146);&gt;&lt;b&gt;[SIR] Trains board at the St. George-bound platform from Prince's Bay to Arthur Kill Stations&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 149146 class="plannedWorkDetail" &gt;&lt;/b&gt;Day, 9 AM to 3 PM, Wednesday, Mar 1&lt;br&gt;&lt;br&gt;&amp;bull; Boarding change includes &lt;b&gt;Prince's Bay&lt;/b&gt;, &lt;b&gt;Pleasant Plains&lt;/b&gt;, &lt;b&gt;Richmond Valley&lt;/b&gt; and &lt;br&gt;  &lt;b&gt;Arthur Kill Stations&lt;/b&gt;.&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>03/01/2017</Date>
+    <Time> 9:02AM</Time>
   </line>
 </subway><bus>
   <line>
@@ -225,7 +238,7 @@
               &lt;br/&gt;
             </text>
     <Date>03/01/2017</Date>
-    <Time> 8:52AM</Time>
+    <Time> 9:02AM</Time>
   </line>
   <line>
     <name>M1 - M116</name>
@@ -244,7 +257,7 @@
               &lt;br/&gt;
             </text>
     <Date>03/01/2017</Date>
-    <Time> 8:52AM</Time>
+    <Time> 9:02AM</Time>
   </line>
   <line>
     <name>Q1 - Q113</name>
@@ -269,12 +282,6 @@
                   &lt;br/&gt;
                 &lt;P&gt;&lt;STRONG&gt;Q55&lt;/STRONG&gt; buses are running with delays in both directions, due to construction on Myrtle Av between Cooper Av and 71 St.&lt;/P&gt;
 &lt;P&gt;Allow additional travel time.&lt;/P&gt;
-              &lt;br/&gt;
-              &lt;br/&gt;
-            
-                  &lt;span class="TitlePlannedWork" &gt;Planned Detour&lt;/span&gt;
-                  &lt;br/&gt;
-                &lt;a class="plannedWorkDetailLink" onclick=ShowHide(146479);&gt;&lt;b&gt;Q55 &lt;/b&gt;-&lt;b&gt; No service on Gates Av and Palmetto St between Wyckoff Av and Irving Av&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 146479 class="plannedWorkDetail" &gt;&lt;/b&gt;7 AM to 4 PM, daily, until further notice&lt;br&gt;&lt;br&gt;Due to construction, buses operate between Palmetto St at Wyckoff Av and Myrtle Av at Jamaica Av.&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
               &lt;br/&gt;
               &lt;br/&gt;
             
@@ -310,7 +317,7 @@
               &lt;br/&gt;
             </text>
     <Date>03/01/2017</Date>
-    <Time> 8:52AM</Time>
+    <Time> 9:02AM</Time>
   </line>
   <line>
     <name>S40 - S98</name>
