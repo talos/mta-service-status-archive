@@ -1,14 +1,13 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>SERVICE CHANGE</status>
+    <status>DELAYS</status>
     <text>
-                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;03/01/2017&amp;nbsp; 2:44AM
+                    &amp;nbsp;Posted:&amp;nbsp;03/01/2017&amp;nbsp; 3:28AM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  &lt;P&gt;Due to track maintenance at &lt;STRONG&gt;86 St, &lt;/STRONG&gt;northbound [1] and [2] trains are runnnig express from &lt;STRONG&gt;72 St&lt;/STRONG&gt; to &lt;STRONG&gt;96 St&lt;/STRONG&gt;.&lt;/P&gt;
-&lt;P&gt;Allow additional travel time. &lt;/P&gt;
+                  Following an earlier incident at &lt;STRONG&gt;86 St&lt;/STRONG&gt;, [1] and [2] train service has resumed with delays.
                 &lt;br/&gt;&lt;br/&gt;
               
                     &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
@@ -37,7 +36,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>03/01/2017</Date>
-    <Time> 2:44AM</Time>
+    <Time> 3:28AM</Time>
   </line>
   <line>
     <name>456</name>
@@ -49,7 +48,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>03/01/2017</Date>
-    <Time> 3:22AM</Time>
+    <Time> 3:27AM</Time>
   </line>
   <line>
     <name>7</name>
@@ -73,7 +72,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>03/01/2017</Date>
-    <Time> 3:22AM</Time>
+    <Time> 3:27AM</Time>
   </line>
   <line>
     <name>BDFM</name>
@@ -120,7 +119,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>03/01/2017</Date>
-    <Time> 3:22AM</Time>
+    <Time> 3:27AM</Time>
   </line>
   <line>
     <name>JZ</name>
@@ -161,7 +160,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>03/01/2017</Date>
-    <Time> 3:22AM</Time>
+    <Time> 3:27AM</Time>
   </line>
   <line>
     <name>S</name>
@@ -249,7 +248,7 @@
               &lt;br/&gt;
             </text>
     <Date>03/01/2017</Date>
-    <Time> 3:22AM</Time>
+    <Time> 3:27AM</Time>
   </line>
   <line>
     <name>BXM1 - BXM18</name>
@@ -262,7 +261,7 @@
               &lt;br/&gt;
             </text>
     <Date>03/01/2017</Date>
-    <Time> 3:22AM</Time>
+    <Time> 3:27AM</Time>
   </line>
   <line>
     <name>M1 - M116</name>
@@ -363,7 +362,7 @@
               &lt;br/&gt;
             </text>
     <Date>03/01/2017</Date>
-    <Time> 3:22AM</Time>
+    <Time> 3:27AM</Time>
   </line>
   <line>
     <name>S40 - S98</name>
@@ -415,15 +414,10 @@
   </line>
   <line>
     <name>Marine Parkway</name>
-    <status>PLANNED WORK</status>
-    <text>
-                    &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
-                    &lt;br/&gt;
-                  MPB: PLANNED WORK; Completed all lanes reopened.
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>02/28/2017</Date>
-    <Time>10:04PM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>Queens Midtown</name>
