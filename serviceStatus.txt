@@ -1,17 +1,10 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>DELAYS</status>
-    <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;03/03/2017&amp;nbsp; 8:05AM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  Due to an earlier incident at &lt;STRONG&gt;72 St&lt;/STRONG&gt;, [1] train service has resumed with delays.
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>03/03/2017</Date>
-    <Time> 8:05AM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>456</name>
@@ -19,13 +12,13 @@
     <text>
                     &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;03/03/2017&amp;nbsp; 8:25AM
+                    &amp;nbsp;Posted:&amp;nbsp;03/03/2017&amp;nbsp; 8:28AM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
                   Due to an earlier incident at &lt;STRONG&gt;Pelham Bay Park&lt;/STRONG&gt;, [6] train service are resumed with delays.
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>03/03/2017</Date>
-    <Time> 8:25AM</Time>
+    <Time> 8:28AM</Time>
   </line>
   <line>
     <name>7</name>
@@ -374,10 +367,17 @@
 </BT><LIRR>
   <line>
     <name>Babylon</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>SERVICE CHANGE</status>
+    <text>
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;03/03/2017&amp;nbsp; 8:30AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  The 8:16AM train from Babylon due Penn at 9:31AM is canceled due to equipment trouble. Customers will be accommodated by the 8:35AM from Babylon due Penn Station 9:37AM, making all local stops.
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>03/03/2017</Date>
+    <Time> 8:30AM</Time>
   </line>
   <line>
     <name>City Terminal Zone</name>
