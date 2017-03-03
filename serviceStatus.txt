@@ -81,10 +81,20 @@
   </line>
   <line>
     <name>SIR</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>PLANNED WORK</status>
+    <text>
+                    &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
+                    &lt;br/&gt;
+                  &lt;a class="plannedWorkDetailLink" onclick=ShowHide(149158);&gt;&lt;b&gt;[SIR] Service runs on an adjusted schedule in both directions&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 149158 class="plannedWorkDetail" &gt;&lt;/b&gt;Days, 9 AM to 3 PM, Thu &lt;i&gt;and&lt;/i&gt; Fri, Mar 2 - 3&lt;br&gt;&lt;br&gt;&amp;bull; Tottenville-bound trains depart 2 minutes &lt;i&gt;later&lt;/i&gt; than regularly scheduled.&lt;br&gt;&lt;br&gt;&amp;bull; St George-bound trains depart 5 minutes &lt;i&gt;earlier&lt;/i&gt; than regularly scheduled.&lt;br&gt;&lt;b&gt;&lt;/b&gt;          &lt;/font&gt;&lt;a href=http://apps.mta.info/traintime/ target=_blank&gt;&lt;img height=32px src=http://apps.mta.info/traintime/desktop2Images/logoSm.png&gt;&lt;/a&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              
+                    &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
+                    &lt;br/&gt;
+                  &lt;a class="plannedWorkDetailLink" onclick=ShowHide(149147);&gt;&lt;b&gt;[SIR] Trains board at the St George-bound platform at Tompkinsville and Stapleton Stations&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 149147 class="plannedWorkDetail" &gt;&lt;/b&gt;Days, 9 AM to 3 PM, Thu &lt;i&gt;and&lt;/i&gt; Fri, Mar 2 - 3&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>03/03/2017</Date>
+    <Time> 9:02AM</Time>
   </line>
 </subway><bus>
   <line>
@@ -122,7 +132,7 @@
               &lt;br/&gt;
             </text>
     <Date>03/03/2017</Date>
-    <Time> 8:52AM</Time>
+    <Time> 9:02AM</Time>
   </line>
   <line>
     <name>B100 - B103</name>
@@ -175,7 +185,7 @@
               &lt;br/&gt;
             </text>
     <Date>03/03/2017</Date>
-    <Time> 8:52AM</Time>
+    <Time> 9:02AM</Time>
   </line>
   <line>
     <name>M1 - M116</name>
@@ -194,7 +204,7 @@
               &lt;br/&gt;
             </text>
     <Date>03/03/2017</Date>
-    <Time> 8:52AM</Time>
+    <Time> 9:02AM</Time>
   </line>
   <line>
     <name>Q1 - Q113</name>
@@ -246,7 +256,7 @@
               &lt;br/&gt;
             </text>
     <Date>03/03/2017</Date>
-    <Time> 8:52AM</Time>
+    <Time> 9:02AM</Time>
   </line>
   <line>
     <name>S40 - S98</name>
@@ -360,17 +370,18 @@
 </BT><LIRR>
   <line>
     <name>Babylon</name>
-    <status>SERVICE CHANGE</status>
+    <status>DELAYS</status>
     <text>
-                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;03/03/2017&amp;nbsp; 8:30AM
+                    &amp;nbsp;Posted:&amp;nbsp;03/03/2017&amp;nbsp; 9:03AM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  The 8:16AM train from Babylon due Penn at 9:31AM is canceled due to equipment trouble. Customers will be accommodated by the 8:35AM from Babylon due Penn Station 9:37AM, making all local stops.
+                  &lt;P&gt;The 8:16AM train from Babylon due Penn at 9:31AM is canceled due to equipment trouble. Customers will be accommodated by the 8:35AM from Babylon due Penn Station 9:37AM, making all local stops.&lt;/P&gt;
+&lt;P&gt;The 8:35AM train from Babylon due Penn at 9:37AM is operating 14 minutes late after making added stops to accommodate customers of a previously cancelled train.&lt;/P&gt;
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>03/03/2017</Date>
-    <Time> 8:30AM</Time>
+    <Time> 9:03AM</Time>
   </line>
   <line>
     <name>City Terminal Zone</name>
