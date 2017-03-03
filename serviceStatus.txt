@@ -20,10 +20,20 @@
   </line>
   <line>
     <name>456</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>PLANNED WORK</status>
+    <text>
+                    &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
+                    &lt;br/&gt;
+                  &lt;a class="plannedWorkDetailLink" onclick=ShowHide(146969);&gt;&lt;b&gt;[6D] Brooklyn Bridge-bound trains run local from Parkchester to 3 Av-138 St&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 146969 class="plannedWorkDetail" &gt;&lt;/b&gt;Days, 10:15 AM to 1 PM, Friday, Mar 3  &amp;bull;  Tue to Fri, Mar 7 - 10&lt;br&gt;&lt;br&gt;&amp;bull; Please allow additional travel time.&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              
+                    &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
+                    &lt;br/&gt;
+                  &lt;a class="plannedWorkDetailLink" onclick=ShowHide(146968);&gt;&lt;b&gt;[6] Brooklyn Bridge-bound trains run express from Pelham Bay Park to Parkchester&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 146968 class="plannedWorkDetail" &gt;&lt;/b&gt;Days, 10:15 AM to 3 PM, Friday, Mar 3  &amp;bull;  Tue to Fri, Mar 7 - 10&lt;br&gt;&lt;br&gt;&lt;/font&gt;For service &lt;i&gt;to&lt;/i&gt; Buhre Av, Middletown Rd, Westchester Sq, Zerega and Castle Hill Avs, &lt;br&gt;take the [6] to Parkchester and transfer to a Pelham Bay Park-bound [6].&lt;br&gt;&lt;br&gt;For service &lt;i&gt;from&lt;/i&gt; these stations take the [6] to Pelham Bay Park and transfer &lt;br&gt;to a Brooklyn Bridge-bound [6].&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>03/03/2017</Date>
+    <Time>10:22AM</Time>
   </line>
   <line>
     <name>7</name>
@@ -37,6 +47,11 @@
 &lt;P&gt;Some Main St bound [7] trains running express from &lt;STRONG&gt;74 St-Broadway&lt;/STRONG&gt; to &lt;STRONG&gt;Mets-Willets Point.&lt;/STRONG&gt;&lt;/P&gt;
 &lt;P&gt;34 St bound [7D] express trains are running local from &lt;STRONG&gt;Mets-Willets Point&lt;/STRONG&gt; to &lt;STRONG&gt;74 St-Broadway, &lt;/STRONG&gt;and then regular express service to Manhattan.&lt;/P&gt;
 &lt;P&gt;Allow additional travel time.&lt;/P&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              
+                    &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
+                    &lt;br/&gt;
+                  &lt;a class="plannedWorkDetailLink" onclick=ShowHide(143076);&gt;&lt;b&gt;[7] Flushing-bound trains skip 33, 40, 46, 52 and 69 Sts&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 143076 class="plannedWorkDetail" &gt;&lt;/b&gt;&lt;/font&gt;Day, 10:15 AM to 3 PM, Friday, Mar 3&lt;br&gt;&lt;br&gt;&lt;/font&gt;For service &lt;i&gt;to&lt;/i&gt; these stations, take the [7] to 61 St-Woodside or 74 St and &lt;br&gt;transfer to a Hudson Yards-bound [7].&lt;br&gt;&lt;br&gt;For service &lt;i&gt;from&lt;/i&gt; these stations, take the [7] to 61 St-Woodside or Queensboro Plaza &lt;br&gt;and transfer to a Flushing-bound [7].&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>03/03/2017</Date>
@@ -87,7 +102,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>03/03/2017</Date>
-    <Time>10:12AM</Time>
+    <Time>10:22AM</Time>
   </line>
   <line>
     <name>S</name>
@@ -111,7 +126,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>03/03/2017</Date>
-    <Time>10:12AM</Time>
+    <Time>10:22AM</Time>
   </line>
 </subway><bus>
   <line>
@@ -149,7 +164,7 @@
               &lt;br/&gt;
             </text>
     <Date>03/03/2017</Date>
-    <Time>10:12AM</Time>
+    <Time>10:22AM</Time>
   </line>
   <line>
     <name>B100 - B103</name>
@@ -202,7 +217,7 @@
               &lt;br/&gt;
             </text>
     <Date>03/03/2017</Date>
-    <Time>10:12AM</Time>
+    <Time>10:22AM</Time>
   </line>
   <line>
     <name>M1 - M116</name>
@@ -221,7 +236,7 @@
               &lt;br/&gt;
             </text>
     <Date>03/03/2017</Date>
-    <Time>10:12AM</Time>
+    <Time>10:22AM</Time>
   </line>
   <line>
     <name>Q1 - Q113</name>
@@ -273,7 +288,7 @@
               &lt;br/&gt;
             </text>
     <Date>03/03/2017</Date>
-    <Time>10:12AM</Time>
+    <Time>10:22AM</Time>
   </line>
   <line>
     <name>S40 - S98</name>
