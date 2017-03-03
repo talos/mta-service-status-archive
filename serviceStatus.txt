@@ -516,10 +516,19 @@ Department personnel are on scene.
   </line>
   <line>
     <name>Hempstead</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>DELAYS</status>
+    <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;03/03/2017&amp;nbsp; 1:26AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  The 12:41AM train from Atlantic Terminal due Hempstead at 1:35AM is 
+operating 12 minutes late due to congestion at Jamaica caused by the 
+fire department activity near Mineola.
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>03/03/2017</Date>
+    <Time> 1:26AM</Time>
   </line>
   <line>
     <name>Long Beach</name>
@@ -664,17 +673,10 @@ Department personnel are on scene.
   </line>
   <line>
     <name>Danbury</name>
-    <status>SERVICE CHANGE</status>
-    <text>
-                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;03/02/2017&amp;nbsp;11:18PM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  Substitute Bus Service will be provided on the Danbury Branch for the 12:35 AM train departing South Norwalk making all stops to Danbury to accommodate necessary work in the vicinity of Merritt 7. Please listen for announcements at your station.
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>03/02/2017</Date>
-    <Time>11:18PM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>Waterbury</name>
