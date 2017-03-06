@@ -15,10 +15,15 @@
   </line>
   <line>
     <name>7</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>PLANNED WORK</status>
+    <text>
+                    &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
+                    &lt;br/&gt;
+                  &lt;a class="plannedWorkDetailLink" onclick=ShowHide(147218);&gt;&lt;b&gt;[7] Flushing-bound trains skip 82, 90, 103 and 111 Sts&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 147218 class="plannedWorkDetail" &gt;&lt;/b&gt;Days, 10:15 AM to 3 PM, Mon to Fri, Mar 6 - 10&lt;br&gt;&lt;br&gt;For service &lt;i&gt;to &lt;/i&gt;these stations, take the [7] to Junction Blvd or Willets Point&lt;br&gt;and transfer to a Hudson Yards-bound [7].&lt;br&gt;&lt;br&gt;For service &lt;i&gt;from &lt;/i&gt;these stations, take the [7] to Junction Blvd or 74 St&lt;br&gt;and transfer to a Flushing-bound [7].&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>03/06/2017</Date>
+    <Time>10:22AM</Time>
   </line>
   <line>
     <name>ACE</name>
@@ -133,7 +138,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>03/06/2017</Date>
-    <Time>10:12AM</Time>
+    <Time>10:22AM</Time>
   </line>
 </subway><bus>
   <line>
@@ -142,11 +147,11 @@
     <text>
                   &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                   &lt;span class="DateStyle"&gt;
-                  &amp;nbsp;Posted:&amp;nbsp;03/06/2017&amp;nbsp; 9:30AM
+                  &amp;nbsp;Posted:&amp;nbsp;03/06/2017&amp;nbsp;10:21AM
                   &lt;/span&gt;
                   &lt;br/&gt;
                   &lt;br/&gt;
-                &lt;P&gt;&lt;STRONG&gt;B37&lt;/STRONG&gt; and &lt;STRONG&gt;B61&lt;/STRONG&gt; buses are running with delays in both directions due to traffic conditions on 3 Av between 65 St and 9 Stand on 4 Av at Hamilton Av.&lt;/P&gt;
+                &lt;P&gt;&lt;STRONG&gt;B37&lt;/STRONG&gt; and &lt;STRONG&gt;B61&lt;/STRONG&gt; buses are running with delays in both directions due to traffic conditions on 3 Av between 65 St and 9 St and on 4 Av at Hamilton Av.&lt;/P&gt;
 &lt;P&gt;Allow additional travel time.&lt;/P&gt;
               &lt;br/&gt;
               &lt;br/&gt;
@@ -182,7 +187,7 @@
               &lt;br/&gt;
             </text>
     <Date>03/06/2017</Date>
-    <Time> 9:30AM</Time>
+    <Time>10:21AM</Time>
   </line>
   <line>
     <name>B100 - B103</name>
@@ -251,7 +256,7 @@
               &lt;br/&gt;
             </text>
     <Date>03/06/2017</Date>
-    <Time>10:12AM</Time>
+    <Time>10:22AM</Time>
   </line>
   <line>
     <name>M1 - M116</name>
@@ -355,7 +360,7 @@
               &lt;br/&gt;
             </text>
     <Date>03/06/2017</Date>
-    <Time>10:12AM</Time>
+    <Time>10:22AM</Time>
   </line>
   <line>
     <name>S40 - S98</name>
