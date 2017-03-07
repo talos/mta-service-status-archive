@@ -400,17 +400,10 @@
 </BT><LIRR>
   <line>
     <name>Babylon</name>
-    <status>DELAYS</status>
-    <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;03/06/2017&amp;nbsp; 8:05PM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  The 6:39PM train from Babylon due Penn at 7:50PM is operating 25 minutes late after making a reverse move to accommodate customers from previously canceled trains.
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>03/06/2017</Date>
-    <Time> 8:05PM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>City Terminal Zone</name>
@@ -435,10 +428,17 @@
   </line>
   <line>
     <name>Long Beach</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>DELAYS</status>
+    <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;03/06/2017&amp;nbsp; 8:20PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  The 7:49PM train from Long Beach due Penn at 8:39PM is operating 10 minutes due to late-arriving equipment.
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>03/06/2017</Date>
+    <Time> 8:20PM</Time>
   </line>
   <line>
     <name>Montauk</name>
@@ -493,15 +493,8 @@
   </line>
   <line>
     <name>Ronkonkoma</name>
-    <status>SERVICE CHANGE</status>
+    <status>DELAYS</status>
     <text>
-                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;03/06/2017&amp;nbsp; 8:05PM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  The 8:15PM train from Penn due Ronkonkoma at 9:37PM will be the first scheduled Ronkonkoma Branch train to operate out of Penn Station following earlier limited service caused by Amtrak switch trouble at Penn.
-                &lt;br/&gt;&lt;br/&gt;
-              
                     &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
                     &amp;nbsp;Posted:&amp;nbsp;03/06/2017&amp;nbsp; 7:45PM
@@ -510,7 +503,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>03/06/2017</Date>
-    <Time> 8:05PM</Time>
+    <Time> 7:45PM</Time>
   </line>
   <line>
     <name>West Hempstead</name>
