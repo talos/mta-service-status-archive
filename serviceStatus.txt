@@ -1,31 +1,17 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>DELAYS</status>
-    <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;03/07/2017&amp;nbsp; 7:18PM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  Following an earlier incident at &lt;STRONG&gt;51 St,&lt;/STRONG&gt; [6] train service has resumed with delays.
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>03/07/2017</Date>
-    <Time> 7:18PM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>456</name>
-    <status>DELAYS</status>
-    <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;03/07/2017&amp;nbsp; 7:18PM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  Following an earlier incident at &lt;STRONG&gt;51 St,&lt;/STRONG&gt; [6] train service has resumed with delays.
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>03/07/2017</Date>
-    <Time> 7:18PM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>7</name>
@@ -187,6 +173,33 @@
     <text>
                   &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
                   &lt;span class="DateStyle"&gt;
+                  &amp;nbsp;Posted:&amp;nbsp;03/07/2017&amp;nbsp; 8:01PM
+                  &lt;/span&gt;
+                  &lt;br/&gt;
+                  &lt;br/&gt;
+                &lt;P&gt;&lt;STRONG&gt;Q4&lt;/STRONG&gt; and &lt;STRONG&gt;X64&lt;/STRONG&gt; buses are detoured, due to construction on 235 St and 233 St. &lt;/P&gt;
+&lt;P&gt;Detour is as follows:&lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;Westbound&lt;/STRONG&gt;: Via 235 St, right on 119  Av, right on 233 St, left on Linden Blvd and regular route.&lt;BR&gt;&lt;BR&gt;Allow additional travel time.&lt;/P&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
+                  &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                  &lt;span class="DateStyle"&gt;
+                  &amp;nbsp;Posted:&amp;nbsp;03/07/2017&amp;nbsp; 8:00PM
+                  &lt;/span&gt;
+                  &lt;br/&gt;
+                  &lt;br/&gt;
+                &lt;P&gt;&lt;STRONG&gt;Q10&lt;/STRONG&gt; buses are detoured in both directions, due to construction on 130 St between Rockaway Blvd and Sutter Av. &lt;/P&gt;
+&lt;P&gt;Detour is as follows: &lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;To JFK Airport&lt;/STRONG&gt;: Via Rockaway Blvd, right on 131 St, right on Sutter Av, left on 130 St and regular route.&lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;To Kew Gardens&lt;/STRONG&gt;: Via 130 St, left on Sutter Av, right on 127 St, left on Rockaway Blvd and regular route. &lt;/P&gt;
+&lt;P&gt;All corresponding stops will be made along the detoured route. &lt;/P&gt;
+&lt;P&gt;Allow additional travel time. &lt;/P&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
+                  &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                  &lt;span class="DateStyle"&gt;
                   &amp;nbsp;Posted:&amp;nbsp;03/07/2017&amp;nbsp; 7:51PM
                   &lt;/span&gt;
                   &lt;br/&gt;
@@ -220,33 +233,6 @@
               &lt;br/&gt;
               &lt;br/&gt;
             
-                  &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
-                  &lt;span class="DateStyle"&gt;
-                  &amp;nbsp;Posted:&amp;nbsp;03/07/2017&amp;nbsp; 6:04PM
-                  &lt;/span&gt;
-                  &lt;br/&gt;
-                  &lt;br/&gt;
-                &lt;P&gt;&lt;STRONG&gt;Q4&lt;/STRONG&gt; and &lt;STRONG&gt;X64&lt;/STRONG&gt; buses are detoured, due to construction on 235 St and 233 St. &lt;/P&gt;
-&lt;P&gt;Detour is as follows:&lt;/P&gt;
-&lt;P&gt;&lt;STRONG&gt;Westbound&lt;/STRONG&gt;: Via 235 St, right on 119  Av, right on 233 St, left on Linden Blvd and regular route.&lt;BR&gt;&lt;BR&gt;Allow additional travel time.&lt;/P&gt;
-              &lt;br/&gt;
-              &lt;br/&gt;
-            
-                  &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
-                  &lt;span class="DateStyle"&gt;
-                  &amp;nbsp;Posted:&amp;nbsp;03/07/2017&amp;nbsp; 6:02PM
-                  &lt;/span&gt;
-                  &lt;br/&gt;
-                  &lt;br/&gt;
-                &lt;P&gt;&lt;STRONG&gt;Q10&lt;/STRONG&gt; buses are detoured in both directions, due to construction on 130 St between Rockaway Blvd and Sutter Av. &lt;/P&gt;
-&lt;P&gt;Detour is as follows: &lt;/P&gt;
-&lt;P&gt;&lt;STRONG&gt;To JFK Airport&lt;/STRONG&gt;: Via Rockaway Blvd, right on 131 St, right on Sutter Av, left on 130 St and regular route.&lt;/P&gt;
-&lt;P&gt;&lt;STRONG&gt;To Kew Gardens&lt;/STRONG&gt;: Via 130 St, left on Sutter Av, right on 127 St, left on Rockaway Blvd and regular route. &lt;/P&gt;
-&lt;P&gt;All corresponding stops will be made along the detoured route. &lt;/P&gt;
-&lt;P&gt;Allow additional travel time. &lt;/P&gt;
-              &lt;br/&gt;
-              &lt;br/&gt;
-            
                   &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                   &lt;span class="DateStyle"&gt;
                   &amp;nbsp;Posted:&amp;nbsp;03/07/2017&amp;nbsp; 4:05PM
@@ -271,7 +257,7 @@
               &lt;br/&gt;
             </text>
     <Date>03/07/2017</Date>
-    <Time> 7:51PM</Time>
+    <Time> 8:01PM</Time>
   </line>
   <line>
     <name>QM1 - QM44</name>
@@ -299,7 +285,7 @@
     <text>
                   &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
                   &lt;span class="DateStyle"&gt;
-                  &amp;nbsp;Posted:&amp;nbsp;03/07/2017&amp;nbsp; 6:04PM
+                  &amp;nbsp;Posted:&amp;nbsp;03/07/2017&amp;nbsp; 8:01PM
                   &lt;/span&gt;
                   &lt;br/&gt;
                   &lt;br/&gt;
@@ -310,7 +296,7 @@
               &lt;br/&gt;
             </text>
     <Date>03/07/2017</Date>
-    <Time> 6:04PM</Time>
+    <Time> 8:01PM</Time>
   </line>
 </bus><BT>
   <line>
@@ -433,10 +419,15 @@
   </line>
   <line>
     <name>Montauk</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>PLANNED WORK</status>
+    <text>
+                    &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
+                    &lt;br/&gt;
+                  &lt;span&gt;&lt;b&gt;&lt;font size="3"&gt;Buses Replace Trains between Patchogue &amp; Montauk &lt;/font&gt;&lt;/b&gt;&lt;br&gt;&lt;br&gt;To accommodate overnight trackwork affecting the Chichester Avenue crossing in Center Moriches, buses will replace trains east of Patchogue starting at 10:30 PM Tuesday, March 7, through 3:00 AM Wednesday, March 8.Service is affected as follows: &lt;br&gt;&lt;br&gt;&lt;b&gt;EASTBOUND&lt;/b&gt;&lt;br&gt;&lt;/span&gt;&lt;ul&gt;&lt;li&gt;&lt;span&gt;The 11:35 PM train from Babylon, scheduled to arrive Speonk at 12:36 AM, will terminate at Patchogue at 12:05 AM. Customers traveling to stations Patchogue through Speonk will be accommodated by bus service.&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;The 12:35 AM train from Babylon schedule to arrive at Speonk at 1:35 AM, will terminate at Patchogue at 1:05 AM. Customers traveling to stations Patchogue through Speonk will be accommodated by bus service.&lt;br&gt;&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;The 1:10 AM train from Jamaica, scheduled to arrive Montauk at 3:57 AM, will terminate at Patchogue at 2:15 AM. Customers traveling to stations Patchogue through Montauk will be accommodated by bus service. &lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;span&gt;&lt;b&gt;WESTBOUND&lt;/b&gt;&lt;br&gt;&lt;/span&gt;&lt;ul&gt;&lt;li&gt;&lt;span&gt;The 10:38 PM train from Montauk, scheduled to arrive Jamaica at 1:47 AM, will originate at Patchogue at 12:32 AM. Customers at stations Montauk through Patchogue will be accommodated by buses departingat the usual train departure times.&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;The 1:00 AM train from Montauk, scheduled to arrive Babylon at 3:16 AM, will originate at Patchogue at 2:47 AM. Customers at stations Montauk through Patchogue will be accommodated by buses departing atthe usual train departure times.&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>03/07/2017</Date>
+    <Time> 8:00PM</Time>
   </line>
   <line>
     <name>Oyster Bay</name>
