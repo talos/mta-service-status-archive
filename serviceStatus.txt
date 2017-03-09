@@ -381,10 +381,17 @@
   </line>
   <line>
     <name>Marine Parkway</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>DELAYS</status>
+    <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;03/09/2017&amp;nbsp;10:13AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  MPB delays Brooklyn bound due to volume.
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>03/09/2017</Date>
+    <Time>10:13AM</Time>
   </line>
   <line>
     <name>Queens Midtown</name>
@@ -402,8 +409,13 @@
   </line>
   <line>
     <name>Robert F. Kennedy</name>
-    <status>DELAYS</status>
+    <status>PLANNED WORK</status>
     <text>
+                    &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
+                    &lt;br/&gt;
+                  RFK planned work Bronx bound one lane blocked, expect delays.
+                &lt;br/&gt;&lt;br/&gt;
+              
                     &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
                     &amp;nbsp;Posted:&amp;nbsp;03/09/2017&amp;nbsp; 7:47AM
@@ -436,7 +448,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>03/09/2017</Date>
-    <Time> 7:47AM</Time>
+    <Time>10:16AM</Time>
   </line>
   <line>
     <name>Throgs Neck</name>
