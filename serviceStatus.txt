@@ -15,17 +15,10 @@
   </line>
   <line>
     <name>7</name>
-    <status>DELAYS</status>
-    <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;03/10/2017&amp;nbsp; 7:10AM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  Due to an earlier incident at &lt;STRONG&gt;90 St-Elmhurst Av&lt;/STRONG&gt;, [7] train service has resumed with delays.
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>03/10/2017</Date>
-    <Time> 7:10AM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>ACE</name>
@@ -125,7 +118,7 @@
               &lt;br/&gt;
             </text>
     <Date>03/10/2017</Date>
-    <Time> 8:02AM</Time>
+    <Time> 8:07AM</Time>
   </line>
   <line>
     <name>B100 - B103</name>
@@ -152,7 +145,7 @@
               &lt;br/&gt;
             </text>
     <Date>03/10/2017</Date>
-    <Time> 8:02AM</Time>
+    <Time> 8:07AM</Time>
   </line>
   <line>
     <name>BXM1 - BXM18</name>
@@ -165,7 +158,7 @@
               &lt;br/&gt;
             </text>
     <Date>03/10/2017</Date>
-    <Time> 8:02AM</Time>
+    <Time> 8:07AM</Time>
   </line>
   <line>
     <name>M1 - M116</name>
@@ -190,12 +183,25 @@
               &lt;br/&gt;
             </text>
     <Date>03/10/2017</Date>
-    <Time> 8:02AM</Time>
+    <Time> 8:07AM</Time>
   </line>
   <line>
     <name>Q1 - Q113</name>
     <status>SERVICE CHANGE</status>
     <text>
+                  &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                  &lt;span class="DateStyle"&gt;
+                  &amp;nbsp;Posted:&amp;nbsp;03/10/2017&amp;nbsp; 8:08AM
+                  &lt;/span&gt;
+                  &lt;br/&gt;
+                  &lt;br/&gt;
+                &lt;P&gt;&lt;STRONG&gt;Q19&lt;/STRONG&gt; and &lt;STRONG&gt;Q66&lt;/STRONG&gt; buses are detoured, due to DOT paving on Northern Blvd between Prince St and 126 St. &lt;/P&gt;
+&lt;P&gt;Detour is as follows:&lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;Q19 Astoria Bound and Q66 Long island City Bound&lt;/STRONG&gt;: Via Northern Blvd, left on College Pt Blvd, right on Roosevelt Av, right on 126 St, left on Northern Blvd and regular route.&lt;/P&gt;
+&lt;P&gt;Allow additional travel time.&lt;/P&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
                   &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
                   &lt;span class="DateStyle"&gt;
                   &amp;nbsp;Posted:&amp;nbsp;03/10/2017&amp;nbsp; 8:05AM
@@ -206,19 +212,6 @@
 &lt;P&gt;Detour is as follows:&lt;/P&gt;
 &lt;P&gt;&lt;STRONG&gt;To JFK Airport&lt;/STRONG&gt;: Via Rockaway Blvd, right on 131 St, right on Sutter Av, left on 130 St and regular route.&lt;/P&gt;
 &lt;P&gt;&lt;STRONG&gt;To Kew Gardens&lt;/STRONG&gt;: Via 130 St, left on Sutter AV, right on 127 St, left on Rockaway Blvd and regular route.&lt;/P&gt;
-&lt;P&gt;Allow additional travel time.&lt;/P&gt;
-              &lt;br/&gt;
-              &lt;br/&gt;
-            
-                  &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
-                  &lt;span class="DateStyle"&gt;
-                  &amp;nbsp;Posted:&amp;nbsp;03/10/2017&amp;nbsp; 6:01AM
-                  &lt;/span&gt;
-                  &lt;br/&gt;
-                  &lt;br/&gt;
-                &lt;P&gt;&lt;STRONG&gt;Q19&lt;/STRONG&gt; and &lt;STRONG&gt;Q66&lt;/STRONG&gt; buses are detoured, due to DOT paving on Northern Blvd between Prince St and 126 St. &lt;/P&gt;
-&lt;P&gt;Detour is as follows:&lt;/P&gt;
-&lt;P&gt;&lt;STRONG&gt;Q19 Astoria Bound and Q66 Long island City Bound&lt;/STRONG&gt;: Via Northern Blvd, left on College Pt Blvd, right on Roosevelt Av, right on 126 St, left on Northern Blvd and regular route.&lt;/P&gt;
 &lt;P&gt;Allow additional travel time.&lt;/P&gt;
               &lt;br/&gt;
               &lt;br/&gt;
@@ -236,7 +229,7 @@
               &lt;br/&gt;
             </text>
     <Date>03/10/2017</Date>
-    <Time> 8:05AM</Time>
+    <Time> 8:08AM</Time>
   </line>
   <line>
     <name>QM1 - QM44</name>
@@ -249,7 +242,7 @@
               &lt;br/&gt;
             </text>
     <Date>03/10/2017</Date>
-    <Time> 8:02AM</Time>
+    <Time> 8:07AM</Time>
   </line>
   <line>
     <name>S40 - S98</name>
@@ -268,29 +261,57 @@
 </bus><BT>
   <line>
     <name>Bronx-Whitestone</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>SERVICE CHANGE</status>
+    <text>
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;03/10/2017&amp;nbsp; 7:27AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  Due to weather conditions and wet roadways, motorists are asked to drive at reduced speeds.
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>03/10/2017</Date>
+    <Time> 7:27AM</Time>
   </line>
   <line>
     <name>Cross Bay</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>SERVICE CHANGE</status>
+    <text>
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;03/10/2017&amp;nbsp; 7:27AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  Due to weather conditions and wet roadways, motorists are asked to drive at reduced speeds.
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>03/10/2017</Date>
+    <Time> 7:27AM</Time>
   </line>
   <line>
     <name>Henry Hudson</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>SERVICE CHANGE</status>
+    <text>
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;03/10/2017&amp;nbsp; 7:27AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  Due to weather conditions and wet roadways, motorists are asked to drive at reduced speeds.
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>03/10/2017</Date>
+    <Time> 7:27AM</Time>
   </line>
   <line>
     <name>Hugh L. Carey</name>
     <status>SERVICE CHANGE</status>
     <text>
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;03/10/2017&amp;nbsp; 7:27AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  Due to weather conditions and wet roadways, motorists are asked to drive at reduced speeds.
+                &lt;br/&gt;&lt;br/&gt;
+              
                     &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
                     &amp;nbsp;Posted:&amp;nbsp;03/10/2017&amp;nbsp; 5:56AM
@@ -299,19 +320,33 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>03/10/2017</Date>
-    <Time> 5:56AM</Time>
+    <Time> 7:27AM</Time>
   </line>
   <line>
     <name>Marine Parkway</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>SERVICE CHANGE</status>
+    <text>
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;03/10/2017&amp;nbsp; 7:27AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  Due to weather conditions and wet roadways, motorists are asked to drive at reduced speeds.
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>03/10/2017</Date>
+    <Time> 7:27AM</Time>
   </line>
   <line>
     <name>Queens Midtown</name>
     <status>SERVICE CHANGE</status>
     <text>
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;03/10/2017&amp;nbsp; 7:27AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  Due to weather conditions and wet roadways, motorists are asked to drive at reduced speeds.
+                &lt;br/&gt;&lt;br/&gt;
+              
                     &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
                     &amp;nbsp;Posted:&amp;nbsp;03/10/2017&amp;nbsp; 6:19AM
@@ -320,7 +355,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>03/10/2017</Date>
-    <Time> 6:19AM</Time>
+    <Time> 7:27AM</Time>
   </line>
   <line>
     <name>Robert F. Kennedy</name>
@@ -328,27 +363,48 @@
     <text>
                     &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;03/10/2017&amp;nbsp; 7:27AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  Due to weather conditions and wet roadways, motorists are asked to drive at reduced speeds.
+                &lt;br/&gt;&lt;br/&gt;
+              
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
                     &amp;nbsp;Posted:&amp;nbsp;03/06/2017&amp;nbsp; 8:10AM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
                   A NEW TRAFFIC PATTERN IS IN PLACE AT THE RFK BRIDGE AFTER THE BRONX TOLL PLAZA(QUEENS BOUND). MOTORISTS SHOULD ALLOW EXTRA TIME AND MAY WISH TO USE AN ALTERNATE ROUTE.
                 &lt;br/&gt;&lt;br/&gt;
               </text>
-    <Date>03/06/2017</Date>
-    <Time> 8:10AM</Time>
+    <Date>03/10/2017</Date>
+    <Time> 7:27AM</Time>
   </line>
   <line>
     <name>Throgs Neck</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>SERVICE CHANGE</status>
+    <text>
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;03/10/2017&amp;nbsp; 7:27AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  Due to weather conditions and wet roadways, motorists are asked to drive at reduced speeds.
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>03/10/2017</Date>
+    <Time> 7:27AM</Time>
   </line>
   <line>
     <name>Verrazano-Narrows</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>SERVICE CHANGE</status>
+    <text>
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;03/10/2017&amp;nbsp; 7:27AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  Due to weather conditions and wet roadways, motorists are asked to drive at reduced speeds.
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>03/10/2017</Date>
+    <Time> 7:27AM</Time>
   </line>
 </BT><LIRR>
   <line>
