@@ -267,10 +267,15 @@
 </bus><BT>
   <line>
     <name>Bronx-Whitestone</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>PLANNED WORK</status>
+    <text>
+                    &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
+                    &lt;br/&gt;
+                  BWB: Planned work; One lane closed Queens bound, expect delays.
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>03/10/2017</Date>
+    <Time>10:15PM</Time>
   </line>
   <line>
     <name>Cross Bay</name>
@@ -400,10 +405,19 @@
   </line>
   <line>
     <name>Port Jefferson</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>DELAYS</status>
+    <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;03/10/2017&amp;nbsp;10:15PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  The 9:41PM train from Port Jefferson due Hicksville at 10:46PM is 
+operating 18 minutes late due to a late eastbound train in single-track 
+territory.
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>03/10/2017</Date>
+    <Time>10:15PM</Time>
   </line>
   <line>
     <name>Port Washington</name>
