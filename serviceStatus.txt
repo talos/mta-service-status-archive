@@ -1,17 +1,37 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>SERVICE CHANGE</status>
+    <text>
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;03/13/2017&amp;nbsp; 2:21PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;P&gt;Due to signal problems at &lt;STRONG&gt;E 180 St, &lt;/STRONG&gt;the following service changes are in effect:&lt;/P&gt;
+&lt;P&gt;Southbound [2] and [5] trains are running with delays.&lt;/P&gt;
+&lt;P&gt;Some southbound [2] and [5] trains are running express from &lt;STRONG&gt;E 180 St&lt;/STRONG&gt; to &lt;STRONG&gt;3 Av-149 St&lt;/STRONG&gt;. &lt;/P&gt;
+&lt;P&gt;Allow additional travel time.&lt;/P&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>03/13/2017</Date>
+    <Time> 2:21PM</Time>
   </line>
   <line>
     <name>456</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>SERVICE CHANGE</status>
+    <text>
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;03/13/2017&amp;nbsp; 2:21PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;P&gt;Due to signal problems at &lt;STRONG&gt;E 180 St, &lt;/STRONG&gt;the following service changes are in effect:&lt;/P&gt;
+&lt;P&gt;Southbound [2] and [5] trains are running with delays.&lt;/P&gt;
+&lt;P&gt;Some southbound [2] and [5] trains are running express from &lt;STRONG&gt;E 180 St&lt;/STRONG&gt; to &lt;STRONG&gt;3 Av-149 St&lt;/STRONG&gt;. &lt;/P&gt;
+&lt;P&gt;Allow additional travel time.&lt;/P&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>03/13/2017</Date>
+    <Time> 2:21PM</Time>
   </line>
   <line>
     <name>7</name>
