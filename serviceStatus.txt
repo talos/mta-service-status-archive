@@ -418,10 +418,17 @@
 </BT><LIRR>
   <line>
     <name>Babylon</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>DELAYS</status>
+    <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;03/13/2017&amp;nbsp; 8:36AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  The 7:45AM train from Babylon due Penn at 8:56AM is operating 12 minutes late due to congestion caused by a delayed train ahead.
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>03/13/2017</Date>
+    <Time> 8:36AM</Time>
   </line>
   <line>
     <name>City Terminal Zone</name>
@@ -481,17 +488,10 @@
   </line>
   <line>
     <name>Ronkonkoma</name>
-    <status>DELAYS</status>
-    <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;03/13/2017&amp;nbsp; 8:27AM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  The 7:04AM train from Ronkonkoma due Penn at 8:19AM is operating 13 minutes late due to switch trouble in one of the East River Tunnels.
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>03/13/2017</Date>
-    <Time> 8:27AM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>West Hempstead</name>
