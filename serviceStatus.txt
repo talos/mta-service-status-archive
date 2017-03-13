@@ -1,16 +1,8 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>DELAYS</status>
+    <status>PLANNED WORK</status>
     <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;03/13/2017&amp;nbsp; 2:08AM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  &lt;P&gt;Due to an NYPD investigation at &lt;STRONG&gt;103 St&lt;/STRONG&gt;, northbound [A] trains are running with delays.   &lt;/P&gt;
-&lt;P&gt;Allow additional travel time.&lt;/P&gt;
-                &lt;br/&gt;&lt;br/&gt;
-              
                     &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
                     &lt;br/&gt;
                   &lt;a class="plannedWorkDetailLink" onclick=ShowHide(147305);&gt;&lt;b&gt;[3] Trains replace the [4] in Brooklyn&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 147305 class="plannedWorkDetail" &gt;&lt;/b&gt;Weekend, 11:45 PM Fri to 5 AM Mon, Mar 10 - 13&lt;br&gt;&lt;br&gt;&lt;b&gt;[3]&lt;/b&gt; service operates between &lt;b&gt;148 St&lt;/b&gt; and &lt;b&gt;New Lots Av&lt;/b&gt;, making &lt;b&gt;[4]&lt;/b&gt; stops in Brooklyn &lt;i&gt;all weekend&lt;/i&gt;.&lt;br&gt;&lt;br&gt;&lt;b&gt;Note:&lt;/b&gt; Sutter Av-Rutland Rd and Junius St are closed for renovation.&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
@@ -32,7 +24,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>03/13/2017</Date>
-    <Time> 2:08AM</Time>
+    <Time> 2:12AM</Time>
   </line>
   <line>
     <name>456</name>
@@ -44,7 +36,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>03/13/2017</Date>
-    <Time> 2:07AM</Time>
+    <Time> 2:12AM</Time>
   </line>
   <line>
     <name>7</name>
@@ -56,19 +48,27 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>03/13/2017</Date>
-    <Time> 2:07AM</Time>
+    <Time> 2:12AM</Time>
   </line>
   <line>
     <name>ACE</name>
-    <status>PLANNED WORK</status>
+    <status>DELAYS</status>
     <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;03/13/2017&amp;nbsp; 2:13AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;P&gt;Due to an NYPD investigation at &lt;STRONG&gt;103 St&lt;/STRONG&gt;, northbound [A] trains are running with delays.   &lt;/P&gt;
+&lt;P&gt;Allow additional travel time.&lt;/P&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              
                     &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
                     &lt;br/&gt;
                   &lt;a class="plannedWorkDetailLink" onclick=ShowHide(146831);&gt;&lt;b&gt;[FF]&lt;br clear=left&gt;[A] Trains run via the [F] in both directions between W 4 St and Jay St-MetroTech&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 146831 class="plannedWorkDetail" &gt;[E] and [J] trains provide alternate service&lt;br&gt;&lt;/b&gt;Weekends, 11:45 PM Fri to 5 AM Mon, until Mar 27&lt;br&gt;&lt;br&gt;No [A] [C] service at &lt;b&gt;Spring&lt;/b&gt;, &lt;b&gt;Canal&lt;/b&gt;, &lt;b&gt;Chambers&lt;/b&gt;, &lt;b&gt;Fulton&lt;/b&gt; and &lt;b&gt;High Sts&lt;/b&gt;.&lt;br&gt;&lt;br&gt;&lt;/font&gt;&lt;table class=plannedworkTableStyle  width=80%&gt;&lt;tr&gt;&lt;td&gt;&lt;font size=3&gt;&lt;b&gt;Travel Alternatives&lt;/b&gt;&lt;/font&gt;&lt;td align=right&gt;[TP]&lt;/table&gt;&lt;br&gt;For &lt;b&gt;Spring, Canal, &lt;/b&gt;and&lt;b&gt; Chambers Sts&lt;/b&gt;, take the &lt;b&gt;[E]&lt;/b&gt; instead. Transfer between trains at W 4 St.&lt;br&gt;&lt;br&gt;For &lt;b&gt;Fulton St&lt;/b&gt;, take the &lt;b&gt;[J]&lt;/b&gt; instead. Transfer between trains at Delancey St/Essex St [F] Station.&lt;br&gt;&lt;i&gt;Or&lt;/i&gt;, use the nearby &lt;a href=http://web.mta.info/weekender/tileMap.html?staID=10255 target=_blank&gt;&lt;font color=#0000FF&gt;&lt;b&gt;&lt;u&gt;World Trade Center&lt;/u&gt;&lt;/b&gt;&lt;/font&gt;&lt;/a&gt; [E] Station. Transfer between trains at W 4 St.&lt;br&gt;&lt;br&gt;&lt;/font&gt;For &lt;b&gt;High St&lt;/b&gt;, use the nearby &lt;a href=http://web.mta.info/weekender/tileMap.html?staID=10262 target=_blank&gt;&lt;font color=#0000FF&gt;&lt;b&gt;&lt;u&gt;York St&lt;/u&gt;&lt;/b&gt;&lt;/font&gt;&lt;/a&gt; [F] Station instead.&lt;br&gt;&lt;br&gt;&lt;table class=plannedworkTableStyle  border=1 cellspacing=1 cellpadding=5 rules=none frame=box&gt;&lt;td&gt;  [ad]  &lt;td&gt;&lt;font size=1&gt;This service change affects one or more ADA accessible stations. Please call 511 for help with planning&lt;br&gt;your trip. If you are deaf or hard of hearing, use your preferred relay service provider or the free 711 relay.  &lt;/font&gt;&lt;/table&gt;&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>03/13/2017</Date>
-    <Time> 2:07AM</Time>
+    <Time> 2:13AM</Time>
   </line>
   <line>
     <name>BDFM</name>
@@ -85,7 +85,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>03/13/2017</Date>
-    <Time> 2:07AM</Time>
+    <Time> 2:12AM</Time>
   </line>
   <line>
     <name>G</name>
@@ -125,7 +125,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>03/13/2017</Date>
-    <Time> 2:07AM</Time>
+    <Time> 2:12AM</Time>
   </line>
   <line>
     <name>SIR</name>
@@ -137,7 +137,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>03/13/2017</Date>
-    <Time> 2:07AM</Time>
+    <Time> 2:12AM</Time>
   </line>
 </subway><bus>
   <line>
@@ -169,7 +169,7 @@
               &lt;br/&gt;
             </text>
     <Date>03/13/2017</Date>
-    <Time> 2:07AM</Time>
+    <Time> 2:12AM</Time>
   </line>
   <line>
     <name>B100 - B103</name>
@@ -216,7 +216,7 @@
               &lt;br/&gt;
             </text>
     <Date>03/13/2017</Date>
-    <Time> 2:07AM</Time>
+    <Time> 2:12AM</Time>
   </line>
   <line>
     <name>M1 - M116</name>
@@ -268,7 +268,7 @@
               &lt;br/&gt;
             </text>
     <Date>03/13/2017</Date>
-    <Time> 2:07AM</Time>
+    <Time> 2:12AM</Time>
   </line>
   <line>
     <name>QM1 - QM44</name>
@@ -281,7 +281,7 @@
               &lt;br/&gt;
             </text>
     <Date>03/13/2017</Date>
-    <Time> 2:07AM</Time>
+    <Time> 2:12AM</Time>
   </line>
   <line>
     <name>S40 - S98</name>
