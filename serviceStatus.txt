@@ -122,19 +122,10 @@
   </line>
   <line>
     <name>L</name>
-    <status>SERVICE CHANGE</status>
-    <text>
-                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;03/14/2017&amp;nbsp; 4:07PM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  &lt;P&gt;Due to NYCT Cold Weather Plan, the following service changes are in effect:&lt;/P&gt;
-&lt;P&gt;There is no [L] train service between &lt;STRONG&gt;Myrtle Av&lt;/STRONG&gt; and &lt;STRONG&gt;Canarsie-Rockaway&lt;/STRONG&gt; &lt;STRONG&gt;Parkway&lt;/STRONG&gt; in both directions.&lt;/P&gt;
-&lt;P&gt; &lt;/P&gt;
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>03/14/2017</Date>
-    <Time> 4:07PM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>NQR</name>
@@ -178,15 +169,6 @@
     <text>
                     &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;03/14/2017&amp;nbsp; 4:08PM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  &lt;P&gt;Due to NYCT Cold Weather Plan, the following service changes are in effect:&lt;/P&gt;
-&lt;P&gt;There is no Franklin Av [S] train service between &lt;STRONG&gt;Franklin Av&lt;/STRONG&gt; and &lt;STRONG&gt;Prospect Park&lt;/STRONG&gt; in both directions. &lt;/P&gt;
-&lt;P&gt; &lt;/P&gt;
-                &lt;br/&gt;&lt;br/&gt;
-              
-                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
                     &amp;nbsp;Posted:&amp;nbsp;03/14/2017&amp;nbsp; 4:05PM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
                   &lt;P&gt;Due to NYCT Cold Weather Plan, the following service changes are in effect:&lt;/P&gt;
@@ -195,7 +177,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>03/14/2017</Date>
-    <Time> 4:08PM</Time>
+    <Time> 4:05PM</Time>
   </line>
   <line>
     <name>SIR</name>
@@ -926,10 +908,17 @@
   </line>
   <line>
     <name>Far Rockaway</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>DELAYS</status>
+    <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;03/14/2017&amp;nbsp; 6:01PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;b&gt;EASTBOUND&lt;/b&gt;&lt;br&gt;The 5:11PM train from Atlantic Terminal due Far Rockaway at 6:08PM is operating 13 minutes late due to congestion at Valley Stream.&lt;br&gt;&lt;br&gt;&lt;b&gt;WESTBOUND&lt;/b&gt;&lt;br&gt;The 5:28PM train from Far Rockaway due Atlantic Terminal at 6:23PM is operating 12 minutes late due to congestion at Valley Stream.&lt;br&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>03/14/2017</Date>
+    <Time> 6:01PM</Time>
   </line>
   <line>
     <name>Hempstead</name>
