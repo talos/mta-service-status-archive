@@ -23,18 +23,19 @@
   </line>
   <line>
     <name>7</name>
-    <status>DELAYS</status>
+    <status>SERVICE CHANGE</status>
     <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;03/13/2017&amp;nbsp;10:04PM
+                    &amp;nbsp;Posted:&amp;nbsp;03/13/2017&amp;nbsp;10:20PM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  &lt;P&gt;Due to an unauthorized person on the tracks at &lt;STRONG&gt;82 St-Jackson Heights,&lt;/STRONG&gt; [7] trains are running with delays in both directions. &lt;/P&gt;
-&lt;P&gt;Allow additional travel time. &lt;/P&gt;
+                  &lt;P&gt;Due to an unauthorized person on the tracks at &lt;B&gt;82 St-Jackson Heights,&lt;/B&gt; there is no [7] train service between &lt;B&gt;Queensboro Plaza&lt;/B&gt; and &lt;B&gt;Flushing-Main St.&lt;/B&gt; &lt;/P&gt;
+&lt;P&gt;As an alternative, take [E][F][M][R] train service, or take &lt;B&gt;Q18, Q23, Q32, Q33, Q48, Q60, Q66&lt;/B&gt; and &lt;B&gt;Q72 &lt;/B&gt;bus service to nearby [7] train stations. &lt;/P&gt;
+&lt;P&gt;Allow additional travel time.&lt;/P&gt;
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>03/13/2017</Date>
-    <Time>10:04PM</Time>
+    <Time>10:20PM</Time>
   </line>
   <line>
     <name>ACE</name>
@@ -553,10 +554,15 @@
   </line>
   <line>
     <name>Queens Midtown</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>PLANNED WORK</status>
+    <text>
+                    &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
+                    &lt;br/&gt;
+                  QMT: Planned work; One tube closed and the remaining tube will run two-way traffic operations. Motorist should allow extra time and may wish to use an alternate route.
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>03/13/2017</Date>
+    <Time>10:19PM</Time>
   </line>
   <line>
     <name>Robert F. Kennedy</name>
