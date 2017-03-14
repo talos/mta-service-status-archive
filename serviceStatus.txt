@@ -422,10 +422,17 @@
 </BT><LIRR>
   <line>
     <name>Babylon</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>DELAYS</status>
+    <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;03/13/2017&amp;nbsp;11:55PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  The 10:39PM train from Penn due Babylon at 11:55PM is operating 11 minutes late at this time.
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>03/13/2017</Date>
+    <Time>11:55PM</Time>
   </line>
   <line>
     <name>City Terminal Zone</name>
@@ -480,17 +487,10 @@ trouble.
   </line>
   <line>
     <name>Port Jefferson</name>
-    <status>DELAYS</status>
-    <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;03/13/2017&amp;nbsp;11:11PM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  The 10:55PM train from Huntington due Port Jefferson at 11:42PM is operating 14 minutes late due to a late-arriving connection.
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>03/13/2017</Date>
-    <Time>11:11PM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>Port Washington</name>
