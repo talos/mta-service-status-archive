@@ -1,17 +1,33 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>DELAYS</status>
+    <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;03/16/2017&amp;nbsp; 2:47PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;P&gt;Due to a sick passenger at &lt;STRONG&gt;174 St&lt;/STRONG&gt;, northbound [2] and [5] trains are running with delays. &lt;/P&gt;
+&lt;P&gt;Allow additional travel time.&lt;/P&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>03/16/2017</Date>
+    <Time> 2:47PM</Time>
   </line>
   <line>
     <name>456</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>DELAYS</status>
+    <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;03/16/2017&amp;nbsp; 2:47PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;P&gt;Due to a sick passenger at &lt;STRONG&gt;174 St&lt;/STRONG&gt;, northbound [2] and [5] trains are running with delays. &lt;/P&gt;
+&lt;P&gt;Allow additional travel time.&lt;/P&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>03/16/2017</Date>
+    <Time> 2:47PM</Time>
   </line>
   <line>
     <name>7</name>
@@ -63,7 +79,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>03/16/2017</Date>
-    <Time> 2:42PM</Time>
+    <Time> 2:47PM</Time>
   </line>
   <line>
     <name>L</name>
@@ -409,6 +425,16 @@
     <text>
                   &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                   &lt;span class="DateStyle"&gt;
+                  &amp;nbsp;Posted:&amp;nbsp;03/16/2017&amp;nbsp; 2:47PM
+                  &lt;/span&gt;
+                  &lt;br/&gt;
+                  &lt;br/&gt;
+                Following an earlier incident on Linden Blvd, &lt;STRONG&gt;Q4&lt;/STRONG&gt; bus service has resumed with delays.
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
+                  &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                  &lt;span class="DateStyle"&gt;
                   &amp;nbsp;Posted:&amp;nbsp;03/16/2017&amp;nbsp; 2:36PM
                   &lt;/span&gt;
                   &lt;br/&gt;
@@ -466,16 +492,6 @@
                   &lt;br/&gt;
                 &lt;P&gt;&lt;STRONG&gt;Q54&lt;/STRONG&gt; and &lt;STRONG&gt;Q59&lt;/STRONG&gt; buses are running with extensive delays, due to the Metropolitan Av Bridge openings. &lt;/P&gt;
 &lt;P&gt;Allow additional travel time.&lt;/P&gt;
-              &lt;br/&gt;
-              &lt;br/&gt;
-            
-                  &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                  &lt;span class="DateStyle"&gt;
-                  &amp;nbsp;Posted:&amp;nbsp;03/16/2017&amp;nbsp; 2:15PM
-                  &lt;/span&gt;
-                  &lt;br/&gt;
-                  &lt;br/&gt;
-                &lt;STRONG&gt;Q4&lt;/STRONG&gt; buses are running with delays in both directions due to a funeral procession on Linden Blvd between 191 St and 193 St. &lt;BR&gt;&lt;BR&gt;Allow additional travel time.
               &lt;br/&gt;
               &lt;br/&gt;
             
@@ -558,7 +574,7 @@
               &lt;br/&gt;
             </text>
     <Date>03/16/2017</Date>
-    <Time> 2:36PM</Time>
+    <Time> 2:47PM</Time>
   </line>
   <line>
     <name>QM1 - QM44</name>
@@ -689,11 +705,11 @@
     <text>
                     &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
                     &lt;br/&gt;
-                  HHB - Planned work Bronx bound one lane blocked expect delays.
+                  HHB: PLANNED WORK; BRONX-BOUND CLEARED.
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>03/16/2017</Date>
-    <Time>10:03AM</Time>
+    <Time> 2:49PM</Time>
   </line>
   <line>
     <name>Hugh L. Carey</name>
