@@ -15,17 +15,10 @@
   </line>
   <line>
     <name>7</name>
-    <status>DELAYS</status>
-    <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;03/16/2017&amp;nbsp; 5:49PM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  Following an earlier incident at &lt;STRONG&gt;111 St&lt;/STRONG&gt;, [7] train service has resumed with delays.
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>03/16/2017</Date>
-    <Time> 5:49PM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>ACE</name>
@@ -271,8 +264,19 @@
   </line>
   <line>
     <name>BX1 - BX55</name>
-    <status>SERVICE CHANGE</status>
+    <status>DELAYS</status>
     <text>
+                  &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                  &lt;span class="DateStyle"&gt;
+                  &amp;nbsp;Posted:&amp;nbsp;03/16/2017&amp;nbsp; 6:58PM
+                  &lt;/span&gt;
+                  &lt;br/&gt;
+                  &lt;br/&gt;
+                &lt;P&gt;All &lt;STRONG&gt;local&lt;/STRONG&gt;, &lt;STRONG&gt;limited&lt;/STRONG&gt; and &lt;STRONG&gt;select&lt;/STRONG&gt; bus routes in the Bronx are running with delays due to snow removal causing traffic conditions. &lt;/P&gt;
+&lt;P&gt;Allow additional travel time.&lt;/P&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
                   &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
                   &lt;span class="DateStyle"&gt;
                   &amp;nbsp;Posted:&amp;nbsp;03/16/2017&amp;nbsp; 6:26PM
@@ -324,10 +328,17 @@
 &lt;P&gt;&lt;/P&gt;
               &lt;br/&gt;
               &lt;br/&gt;
-            
+            </text>
+    <Date>03/16/2017</Date>
+    <Time> 6:58PM</Time>
+  </line>
+  <line>
+    <name>BXM1 - BXM18</name>
+    <status>DELAYS</status>
+    <text>
                   &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                   &lt;span class="DateStyle"&gt;
-                  &amp;nbsp;Posted:&amp;nbsp;03/16/2017&amp;nbsp; 4:13PM
+                  &amp;nbsp;Posted:&amp;nbsp;03/16/2017&amp;nbsp; 6:58PM
                   &lt;/span&gt;
                   &lt;br/&gt;
                   &lt;br/&gt;
@@ -335,14 +346,7 @@
 &lt;P&gt;Allow additional travel time.&lt;/P&gt;
               &lt;br/&gt;
               &lt;br/&gt;
-            </text>
-    <Date>03/16/2017</Date>
-    <Time> 6:26PM</Time>
-  </line>
-  <line>
-    <name>BXM1 - BXM18</name>
-    <status>DELAYS</status>
-    <text>
+            
                   &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                   &lt;span class="DateStyle"&gt;
                   &amp;nbsp;Posted:&amp;nbsp;03/16/2017&amp;nbsp; 6:46PM
@@ -392,17 +396,6 @@
               &lt;br/&gt;
               &lt;br/&gt;
             
-                  &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                  &lt;span class="DateStyle"&gt;
-                  &amp;nbsp;Posted:&amp;nbsp;03/16/2017&amp;nbsp; 4:13PM
-                  &lt;/span&gt;
-                  &lt;br/&gt;
-                  &lt;br/&gt;
-                &lt;P&gt;All &lt;STRONG&gt;local&lt;/STRONG&gt;, &lt;STRONG&gt;limited&lt;/STRONG&gt; and &lt;STRONG&gt;select&lt;/STRONG&gt; bus routes in the Bronx are running with delays due to snow removal causing traffic conditions. &lt;/P&gt;
-&lt;P&gt;Allow additional travel time.&lt;/P&gt;
-              &lt;br/&gt;
-              &lt;br/&gt;
-            
                   &lt;span class="TitlePlannedWork" &gt;Planned Detour&lt;/span&gt;
                   &lt;br/&gt;
                 &lt;a class="plannedWorkDetailLink" onclick=ShowHide(142650);&gt;&lt;b&gt;BxM7 and BxM9 &lt;/b&gt;- &lt;b&gt;Southbound buses may experience delays&lt;br clear=left&gt;due to construction on the Bruckner Expy at White Plains Rd to Bronx River Av&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 142650 class="plannedWorkDetail" &gt;&lt;/b&gt;Until further notice&lt;br&gt;&lt;br&gt;&amp;bull; Please allow additional travel time.&lt;br&gt;&lt;br&gt;&lt;/font&gt;&lt;b&gt;Reminder&lt;/b&gt;: &lt;a href=http://web.mta.info/busco/schedules/bxm7cur.pdf target=_blank&gt;&lt;font color=#0000FF&gt;&lt;b&gt;&lt;u&gt;BxM7&lt;/b&gt;&lt;/u&gt;&lt;/font&gt;&lt;/a&gt; and &lt;a href=http://web.mta.info/busco/schedules/bxm9cur.pdf target=_blank&gt;&lt;font color=#0000FF&gt;&lt;b&gt;&lt;u&gt;BxM9&lt;/b&gt;&lt;/u&gt;&lt;/font&gt;&lt;/a&gt; buses do not operate overnight.&lt;br&gt;&lt;b&gt;&lt;/b&gt;          &lt;a href=http://bustime.mta.info/ target=_blank&gt;&lt;img height=30px src=http://web.mta.info/nyct/images/Bus_Time_logo.png&gt;&lt;/a&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
@@ -410,7 +403,7 @@
               &lt;br/&gt;
             </text>
     <Date>03/16/2017</Date>
-    <Time> 6:46PM</Time>
+    <Time> 6:58PM</Time>
   </line>
   <line>
     <name>M1 - M116</name>
@@ -525,6 +518,28 @@
     <name>Q1 - Q113</name>
     <status>DELAYS</status>
     <text>
+                  &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                  &lt;span class="DateStyle"&gt;
+                  &amp;nbsp;Posted:&amp;nbsp;03/16/2017&amp;nbsp; 6:59PM
+                  &lt;/span&gt;
+                  &lt;br/&gt;
+                  &lt;br/&gt;
+                &lt;P&gt;&lt;STRONG&gt;Q12, Q13, Q15, Q15A, Q16, Q17, Q19, Q20A/B, Q25, Q26, Q27, Q28, Q34, Q44-SBS, Q48, Q50&lt;/STRONG&gt;, &lt;STRONG&gt;Q65&lt;/STRONG&gt; and &lt;STRONG&gt;Q66&lt;/STRONG&gt; buses are running with delays in both directions due to traffic conditions in the Downtown Flushing area. &lt;/P&gt;
+&lt;P&gt;Allow additional travel time.&lt;/P&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
+                  &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                  &lt;span class="DateStyle"&gt;
+                  &amp;nbsp;Posted:&amp;nbsp;03/16/2017&amp;nbsp; 6:59PM
+                  &lt;/span&gt;
+                  &lt;br/&gt;
+                  &lt;br/&gt;
+                &lt;P&gt;&lt;STRONG&gt;Q8&lt;/STRONG&gt; buses are running with delays in both directions, due to snow removal on 101 Av. &lt;/P&gt;
+&lt;P&gt;Allow additional travel time.&lt;/P&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
                   &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                   &lt;span class="DateStyle"&gt;
                   &amp;nbsp;Posted:&amp;nbsp;03/16/2017&amp;nbsp; 6:57PM
@@ -651,16 +666,6 @@
               &lt;br/&gt;
               &lt;br/&gt;
             
-                  &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                  &lt;span class="DateStyle"&gt;
-                  &amp;nbsp;Posted:&amp;nbsp;03/16/2017&amp;nbsp; 6:28PM
-                  &lt;/span&gt;
-                  &lt;br/&gt;
-                  &lt;br/&gt;
-                Following an earlier incident at Austin St, &lt;STRONG&gt;Q23&lt;/STRONG&gt; bus service has resumed with delays.
-              &lt;br/&gt;
-              &lt;br/&gt;
-            
                   &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
                   &lt;span class="DateStyle"&gt;
                   &amp;nbsp;Posted:&amp;nbsp;03/16/2017&amp;nbsp; 6:25PM
@@ -698,17 +703,6 @@
               &lt;br/&gt;
               &lt;br/&gt;
             
-                  &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                  &lt;span class="DateStyle"&gt;
-                  &amp;nbsp;Posted:&amp;nbsp;03/16/2017&amp;nbsp; 5:07PM
-                  &lt;/span&gt;
-                  &lt;br/&gt;
-                  &lt;br/&gt;
-                &lt;P&gt;&lt;STRONG&gt;Q12, Q13, Q15, Q15A, Q16, Q17, Q19, Q20A/B, Q25, Q26, Q27, Q28, Q34, Q44-SBS, Q48, Q50&lt;/STRONG&gt;, &lt;STRONG&gt;Q65&lt;/STRONG&gt; and &lt;STRONG&gt;Q66&lt;/STRONG&gt; buses are running with delays in both directions due to traffic conditions in the Downtown Flushing area. &lt;/P&gt;
-&lt;P&gt;Allow additional travel time.&lt;/P&gt;
-              &lt;br/&gt;
-              &lt;br/&gt;
-            
                   &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
                   &lt;span class="DateStyle"&gt;
                   &amp;nbsp;Posted:&amp;nbsp;03/16/2017&amp;nbsp; 4:47PM
@@ -719,17 +713,6 @@
 &lt;P&gt;Detour is as follows:&lt;/P&gt;
 &lt;P&gt;&lt;STRONG&gt;Eastbound&lt;/STRONG&gt;: Via 102 St, left on Northern Blvd, right on 108 St and regular route.&lt;/P&gt;
 &lt;P&gt;Corresponding stops will be made along detour route.&lt;/P&gt;
-&lt;P&gt;Allow additional travel time.&lt;/P&gt;
-              &lt;br/&gt;
-              &lt;br/&gt;
-            
-                  &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                  &lt;span class="DateStyle"&gt;
-                  &amp;nbsp;Posted:&amp;nbsp;03/16/2017&amp;nbsp; 4:44PM
-                  &lt;/span&gt;
-                  &lt;br/&gt;
-                  &lt;br/&gt;
-                &lt;P&gt;&lt;STRONG&gt;Q8&lt;/STRONG&gt; buses are running with delays in both directions, due to snow removal on 101 Av. &lt;/P&gt;
 &lt;P&gt;Allow additional travel time.&lt;/P&gt;
               &lt;br/&gt;
               &lt;br/&gt;
@@ -747,7 +730,7 @@
               &lt;br/&gt;
             </text>
     <Date>03/16/2017</Date>
-    <Time> 6:57PM</Time>
+    <Time> 6:59PM</Time>
   </line>
   <line>
     <name>QM1 - QM44</name>
@@ -1016,17 +999,10 @@
   </line>
   <line>
     <name>Port Jefferson</name>
-    <status>DELAYS</status>
-    <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;03/16/2017&amp;nbsp; 6:36PM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  The 5:46PM train from Penn due Huntington at 6:51PM is operating 10 minutes late due to a late train ahead.
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>03/16/2017</Date>
-    <Time> 6:36PM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>Port Washington</name>
