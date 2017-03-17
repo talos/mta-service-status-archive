@@ -1,17 +1,10 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>DELAYS</status>
-    <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;03/17/2017&amp;nbsp; 1:22PM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  Following an earlier incident at &lt;STRONG&gt;Central Park West-110 St&lt;/STRONG&gt;, [2] and [3] train service has resumed with delays.
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>03/17/2017</Date>
-    <Time> 1:22PM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>456</name>
@@ -174,8 +167,19 @@
   </line>
   <line>
     <name>BX1 - BX55</name>
-    <status>SERVICE CHANGE</status>
+    <status>DELAYS</status>
     <text>
+                  &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                  &lt;span class="DateStyle"&gt;
+                  &amp;nbsp;Posted:&amp;nbsp;03/17/2017&amp;nbsp; 2:00PM
+                  &lt;/span&gt;
+                  &lt;br/&gt;
+                  &lt;br/&gt;
+                &lt;P&gt;All Bronx &lt;STRONG&gt;local, limited, select&lt;/STRONG&gt; and &lt;STRONG&gt;express&lt;/STRONG&gt; buses are running with delays in both directions, due to snow removal and snow bound bus stops. &lt;/P&gt;
+&lt;P&gt;Allow additional travel time.&lt;/P&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
                   &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
                   &lt;span class="DateStyle"&gt;
                   &amp;nbsp;Posted:&amp;nbsp;03/17/2017&amp;nbsp; 1:58PM
@@ -186,17 +190,6 @@
 &lt;P&gt;&lt;STRONG&gt;Note:&lt;/STRONG&gt; The&lt;STRONG&gt; Bx8&lt;/STRONG&gt; will not stop at 226 St and Bronxwood northbound stop. &lt;/P&gt;
 &lt;P&gt;Allow additional travel time. &lt;/P&gt;
 &lt;P&gt;&lt;/P&gt;
-              &lt;br/&gt;
-              &lt;br/&gt;
-            
-                  &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                  &lt;span class="DateStyle"&gt;
-                  &amp;nbsp;Posted:&amp;nbsp;03/17/2017&amp;nbsp;12:15PM
-                  &lt;/span&gt;
-                  &lt;br/&gt;
-                  &lt;br/&gt;
-                &lt;P&gt;All Bronx &lt;STRONG&gt;local, limited, select&lt;/STRONG&gt; and &lt;STRONG&gt;express&lt;/STRONG&gt; buses are running with delays in both directions, due to snow removal and snow bound bus stops. &lt;/P&gt;
-&lt;P&gt;Allow additional travel time.&lt;/P&gt;
               &lt;br/&gt;
               &lt;br/&gt;
             
@@ -244,7 +237,7 @@
               &lt;br/&gt;
             </text>
     <Date>03/17/2017</Date>
-    <Time> 1:58PM</Time>
+    <Time> 2:00PM</Time>
   </line>
   <line>
     <name>BXM1 - BXM18</name>
@@ -252,7 +245,7 @@
     <text>
                   &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                   &lt;span class="DateStyle"&gt;
-                  &amp;nbsp;Posted:&amp;nbsp;03/17/2017&amp;nbsp;12:15PM
+                  &amp;nbsp;Posted:&amp;nbsp;03/17/2017&amp;nbsp; 2:00PM
                   &lt;/span&gt;
                   &lt;br/&gt;
                   &lt;br/&gt;
@@ -302,7 +295,7 @@
               &lt;br/&gt;
             </text>
     <Date>03/17/2017</Date>
-    <Time>12:15PM</Time>
+    <Time> 2:00PM</Time>
   </line>
   <line>
     <name>M1 - M116</name>
@@ -310,7 +303,7 @@
     <text>
                   &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                   &lt;span class="DateStyle"&gt;
-                  &amp;nbsp;Posted:&amp;nbsp;03/17/2017&amp;nbsp;12:14PM
+                  &amp;nbsp;Posted:&amp;nbsp;03/17/2017&amp;nbsp; 2:01PM
                   &lt;/span&gt;
                   &lt;br/&gt;
                   &lt;br/&gt;
@@ -385,7 +378,7 @@
               &lt;br/&gt;
             </text>
     <Date>03/17/2017</Date>
-    <Time>12:14PM</Time>
+    <Time> 2:01PM</Time>
   </line>
   <line>
     <name>Q1 - Q113</name>
@@ -393,7 +386,7 @@
     <text>
                   &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                   &lt;span class="DateStyle"&gt;
-                  &amp;nbsp;Posted:&amp;nbsp;03/17/2017&amp;nbsp; 1:58PM
+                  &amp;nbsp;Posted:&amp;nbsp;03/17/2017&amp;nbsp; 2:00PM
                   &lt;/span&gt;
                   &lt;br/&gt;
                   &lt;br/&gt;
@@ -506,7 +499,7 @@
               &lt;br/&gt;
             </text>
     <Date>03/17/2017</Date>
-    <Time> 1:58PM</Time>
+    <Time> 2:00PM</Time>
   </line>
   <line>
     <name>QM1 - QM44</name>
@@ -514,7 +507,7 @@
     <text>
                   &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                   &lt;span class="DateStyle"&gt;
-                  &amp;nbsp;Posted:&amp;nbsp;03/17/2017&amp;nbsp; 1:58PM
+                  &amp;nbsp;Posted:&amp;nbsp;03/17/2017&amp;nbsp; 2:00PM
                   &lt;/span&gt;
                   &lt;br/&gt;
                   &lt;br/&gt;
@@ -543,7 +536,7 @@
               &lt;br/&gt;
             </text>
     <Date>03/17/2017</Date>
-    <Time> 1:58PM</Time>
+    <Time> 2:00PM</Time>
   </line>
   <line>
     <name>S40 - S98</name>
@@ -583,22 +576,22 @@
     <text>
                   &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                   &lt;span class="DateStyle"&gt;
-                  &amp;nbsp;Posted:&amp;nbsp;03/17/2017&amp;nbsp; 1:58PM
+                  &amp;nbsp;Posted:&amp;nbsp;03/17/2017&amp;nbsp; 2:01PM
                   &lt;/span&gt;
                   &lt;br/&gt;
                   &lt;br/&gt;
-                &lt;P&gt;All Queens &lt;STRONG&gt;local, limited, select&lt;/STRONG&gt; and &lt;STRONG&gt;express&lt;/STRONG&gt; buses are running with delays in both directions, due to snow removal and snow bound bus stops. &lt;/P&gt;
+                &lt;P&gt;All Manhattan &lt;STRONG&gt;local, limited, select&lt;/STRONG&gt; and &lt;STRONG&gt;express&lt;/STRONG&gt; buses are running with delays in both directions, due to snow removal and snow bound bus stops. &lt;/P&gt;
 &lt;P&gt;Allow additional travel time.&lt;/P&gt;
               &lt;br/&gt;
               &lt;br/&gt;
             
                   &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                   &lt;span class="DateStyle"&gt;
-                  &amp;nbsp;Posted:&amp;nbsp;03/17/2017&amp;nbsp;12:14PM
+                  &amp;nbsp;Posted:&amp;nbsp;03/17/2017&amp;nbsp; 2:00PM
                   &lt;/span&gt;
                   &lt;br/&gt;
                   &lt;br/&gt;
-                &lt;P&gt;All Manhattan &lt;STRONG&gt;local, limited, select&lt;/STRONG&gt; and &lt;STRONG&gt;express&lt;/STRONG&gt; buses are running with delays in both directions, due to snow removal and snow bound bus stops. &lt;/P&gt;
+                &lt;P&gt;All Queens &lt;STRONG&gt;local, limited, select&lt;/STRONG&gt; and &lt;STRONG&gt;express&lt;/STRONG&gt; buses are running with delays in both directions, due to snow removal and snow bound bus stops. &lt;/P&gt;
 &lt;P&gt;Allow additional travel time.&lt;/P&gt;
               &lt;br/&gt;
               &lt;br/&gt;
@@ -626,7 +619,7 @@
               &lt;br/&gt;
             </text>
     <Date>03/17/2017</Date>
-    <Time> 1:58PM</Time>
+    <Time> 2:01PM</Time>
   </line>
 </bus><BT>
   <line>
@@ -838,11 +831,14 @@ tracks near Mineola.
               
                     &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;03/17/2017&amp;nbsp; 1:44PM
+                    &amp;nbsp;Posted:&amp;nbsp;03/17/2017&amp;nbsp; 2:00PM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  &lt;P&gt;The 2:08PM train from Penn due Huntington at 3:09PM is canceled today due to due to maintenance equipment disabled on one of the two tracks near Mineola. Customers will be accommodated by the next eastbound train. &lt;/P&gt;
+                  &lt;P&gt;&lt;STRONG&gt;&lt;U&gt;Eastbound:&lt;/U&gt;&lt;/STRONG&gt;&lt;/P&gt;
+&lt;P&gt;The 2:08PM train from Penn due Huntington at 3:09PM is canceled today due to due to maintenance equipment disabled on one of the two tracks near Mineola. Customers will be accommodated by the next eastbound train. &lt;/P&gt;
 &lt;P&gt;The 1:03PM train from Hicksville due Port Jefferson at 2:10PM is operating 17 minutes late after accommodating a late-arriving connection at Hicksville Station.&lt;/P&gt;
 &lt;P&gt;The 12:35PM train from Penn due Huntington at 1:45PM is operating 18 minutes late due to maintenance equipment disabled on one of the two tracks near Mineola. &lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;&lt;U&gt;Westbound:&lt;/U&gt;&lt;/STRONG&gt;&lt;/P&gt;
+&lt;P&gt;The 1:07PM train from Huntington due Penn at 2:16PM is operating 18 minutes late due to maintenance equipment disabled on one of the two tracks near Mineola. &lt;/P&gt;
                 &lt;br/&gt;&lt;br/&gt;
               
                     &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
@@ -888,9 +884,10 @@ tracks near Mineola.
               
                     &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;03/17/2017&amp;nbsp; 1:37PM
+                    &amp;nbsp;Posted:&amp;nbsp;03/17/2017&amp;nbsp; 2:00PM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
                   &lt;P&gt;&lt;U&gt;&lt;B&gt;Eastbound:&lt;/B&gt;&lt;/U&gt;&lt;BR&gt;&lt;BR&gt;The 1:49PM train from Penn due Ronkonkoma at 3:07PM is cancelled due to maintenance equipment disabled on one of the two tracks near Mineola. &lt;/P&gt;
+&lt;P&gt;The 1:14PM train from Penn due Ronkonkoma at 2:37PM is being delayed at Floral Park Station due to maintenance equipment disabled on one of the two tracks near Mineola.&lt;/P&gt;
 &lt;P&gt;The 12:14PM train from Penn due Ronkonkoma at 1:37PM is now operating 21 minutes late do to maintenance equipment disabled on one of the two tracks near Mineola. &lt;BR&gt;&lt;/P&gt;&lt;U&gt;&lt;B&gt;&lt;/B&gt;&lt;/U&gt;
 &lt;P&gt;&lt;U&gt;&lt;B&gt;Westbound:&lt;/B&gt;&lt;/U&gt;&lt;BR&gt;&lt;BR&gt;The 12:11PM train from Ronkonkoma due Penn at 1:33PM is operating 10 minutes late due to maintenance equipment disabled on one of the two tracks near Mineola. &lt;BR&gt;&lt;/P&gt;
                 &lt;br/&gt;&lt;br/&gt;
