@@ -8,17 +8,10 @@
   </line>
   <line>
     <name>456</name>
-    <status>DELAYS</status>
-    <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;03/17/2017&amp;nbsp; 3:41PM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  Due to an earlier incident at &lt;STRONG&gt;Brooklyn Bridge-City Hall&lt;/STRONG&gt;, [4] and [5] train service has resumed with delays.
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>03/17/2017</Date>
-    <Time> 3:41PM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>7</name>
@@ -68,14 +61,14 @@
     <text>
                     &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;03/17/2017&amp;nbsp; 3:30PM
+                    &amp;nbsp;Posted:&amp;nbsp;03/17/2017&amp;nbsp; 3:59PM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
                   &lt;P&gt;Due to signal problems at &lt;STRONG&gt;West 8 St-New York Aquarium&lt;/STRONG&gt;, northbound [Q] trains are running with delays.&lt;/P&gt;
 &lt;P&gt;Allow additional travel time. &lt;/P&gt;
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>03/17/2017</Date>
-    <Time> 3:30PM</Time>
+    <Time> 3:59PM</Time>
   </line>
   <line>
     <name>S</name>
@@ -174,8 +167,32 @@
   </line>
   <line>
     <name>BX1 - BX55</name>
-    <status>SERVICE CHANGE</status>
+    <status>DELAYS</status>
     <text>
+                  &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                  &lt;span class="DateStyle"&gt;
+                  &amp;nbsp;Posted:&amp;nbsp;03/17/2017&amp;nbsp; 4:01PM
+                  &lt;/span&gt;
+                  &lt;br/&gt;
+                  &lt;br/&gt;
+                &lt;P&gt;All Bronx &lt;STRONG&gt;local, limited, select&lt;/STRONG&gt; and &lt;STRONG&gt;express&lt;/STRONG&gt; buses are running with delays in both directions, due to snow removal and snow bound bus stops. &lt;/P&gt;
+&lt;P&gt;Allow additional travel time.&lt;/P&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
+                  &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                  &lt;span class="DateStyle"&gt;
+                  &amp;nbsp;Posted:&amp;nbsp;03/17/2017&amp;nbsp; 4:00PM
+                  &lt;/span&gt;
+                  &lt;br/&gt;
+                  &lt;br/&gt;
+                &lt;P&gt;&lt;STRONG&gt;Bx8 &lt;/STRONG&gt;buses will be stopping at 233 St and Bronxwood making that the bus stop, due to icy road conditions on 226 St and Bronxwood. &lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;Note:&lt;/STRONG&gt; The&lt;STRONG&gt; Bx8&lt;/STRONG&gt; will not stop at 226 St and Bronxwood northbound stop. &lt;/P&gt;
+&lt;P&gt;Allow additional travel time. &lt;/P&gt;
+&lt;P&gt;&lt;/P&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
                   &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
                   &lt;span class="DateStyle"&gt;
                   &amp;nbsp;Posted:&amp;nbsp;03/17/2017&amp;nbsp; 2:10PM
@@ -202,9 +219,22 @@
               &lt;br/&gt;
               &lt;br/&gt;
             
+                  &lt;span class="TitlePlannedWork" &gt;Planned Detour&lt;/span&gt;
+                  &lt;br/&gt;
+                &lt;a class="plannedWorkDetailLink" onclick=ShowHide(141019);&gt;&lt;b&gt;Bx41/Bx41&lt;/b&gt; SBS - &lt;b&gt;Southbound buses rerouted from Melrose Av at 149 St&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 141019 class="plannedWorkDetail" &gt;&lt;/b&gt;7 AM to 4 PM, Mon to Fri, until further notice&lt;br&gt;&lt;br&gt;Due to road work, buses run via &lt;b&gt;3 Av &lt;/b&gt;making corresponding stops.&lt;br&gt;&lt;br&gt;&lt;b&gt;&lt;i&gt;&lt;a style="cursor:pointer; text-decoration:underline;" onclick=ShowHide(1410190);&gt;Show Reroute Details&lt;/a&gt;&lt;/i&gt;&lt;/b&gt;&lt;br&gt;&lt;div id="1410190"; style="display:none;"&gt;&lt;b&gt;Bx41&lt;br&gt;&lt;/b&gt;Via Melrose Av&lt;br&gt;Left on 151 St&lt;br&gt;Right on 3 Av&lt;br&gt;Left on E 146 St and take stand&lt;br&gt;&lt;br&gt;&lt;b&gt;Bx41 &lt;/b&gt;SBS&lt;br&gt;Via Melrose Av&lt;br&gt;Left on 161 St&lt;br&gt;Right on 3 Av&lt;br&gt;Left on E 146 St and take stand&lt;/div&gt;&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            </text>
+    <Date>03/17/2017</Date>
+    <Time> 4:01PM</Time>
+  </line>
+  <line>
+    <name>BXM1 - BXM18</name>
+    <status>DELAYS</status>
+    <text>
                   &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                   &lt;span class="DateStyle"&gt;
-                  &amp;nbsp;Posted:&amp;nbsp;03/17/2017&amp;nbsp; 2:00PM
+                  &amp;nbsp;Posted:&amp;nbsp;03/17/2017&amp;nbsp; 4:01PM
                   &lt;/span&gt;
                   &lt;br/&gt;
                   &lt;br/&gt;
@@ -213,32 +243,6 @@
               &lt;br/&gt;
               &lt;br/&gt;
             
-                  &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
-                  &lt;span class="DateStyle"&gt;
-                  &amp;nbsp;Posted:&amp;nbsp;03/17/2017&amp;nbsp; 1:58PM
-                  &lt;/span&gt;
-                  &lt;br/&gt;
-                  &lt;br/&gt;
-                &lt;P&gt;&lt;STRONG&gt;Bx8 &lt;/STRONG&gt;buses will be stopping at 233 St and Bronxwood making that the bus stop, due to icy road conditions on 226 St and Bronxwood. &lt;/P&gt;
-&lt;P&gt;&lt;STRONG&gt;Note:&lt;/STRONG&gt; The&lt;STRONG&gt; Bx8&lt;/STRONG&gt; will not stop at 226 St and Bronxwood northbound stop. &lt;/P&gt;
-&lt;P&gt;Allow additional travel time. &lt;/P&gt;
-&lt;P&gt;&lt;/P&gt;
-              &lt;br/&gt;
-              &lt;br/&gt;
-            
-                  &lt;span class="TitlePlannedWork" &gt;Planned Detour&lt;/span&gt;
-                  &lt;br/&gt;
-                &lt;a class="plannedWorkDetailLink" onclick=ShowHide(141019);&gt;&lt;b&gt;Bx41/Bx41&lt;/b&gt; SBS - &lt;b&gt;Southbound buses rerouted from Melrose Av at 149 St&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 141019 class="plannedWorkDetail" &gt;&lt;/b&gt;7 AM to 4 PM, Mon to Fri, until further notice&lt;br&gt;&lt;br&gt;Due to road work, buses run via &lt;b&gt;3 Av &lt;/b&gt;making corresponding stops.&lt;br&gt;&lt;br&gt;&lt;b&gt;&lt;i&gt;&lt;a style="cursor:pointer; text-decoration:underline;" onclick=ShowHide(1410190);&gt;Show Reroute Details&lt;/a&gt;&lt;/i&gt;&lt;/b&gt;&lt;br&gt;&lt;div id="1410190"; style="display:none;"&gt;&lt;b&gt;Bx41&lt;br&gt;&lt;/b&gt;Via Melrose Av&lt;br&gt;Left on 151 St&lt;br&gt;Right on 3 Av&lt;br&gt;Left on E 146 St and take stand&lt;br&gt;&lt;br&gt;&lt;b&gt;Bx41 &lt;/b&gt;SBS&lt;br&gt;Via Melrose Av&lt;br&gt;Left on 161 St&lt;br&gt;Right on 3 Av&lt;br&gt;Left on E 146 St and take stand&lt;/div&gt;&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
-              &lt;br/&gt;
-              &lt;br/&gt;
-            </text>
-    <Date>03/17/2017</Date>
-    <Time> 2:10PM</Time>
-  </line>
-  <line>
-    <name>BXM1 - BXM18</name>
-    <status>DELAYS</status>
-    <text>
                   &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                   &lt;span class="DateStyle"&gt;
                   &amp;nbsp;Posted:&amp;nbsp;03/17/2017&amp;nbsp; 2:09PM
@@ -262,17 +266,6 @@
               &lt;br/&gt;
               &lt;br/&gt;
             
-                  &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                  &lt;span class="DateStyle"&gt;
-                  &amp;nbsp;Posted:&amp;nbsp;03/17/2017&amp;nbsp; 2:00PM
-                  &lt;/span&gt;
-                  &lt;br/&gt;
-                  &lt;br/&gt;
-                &lt;P&gt;All Bronx &lt;STRONG&gt;local, limited, select&lt;/STRONG&gt; and &lt;STRONG&gt;express&lt;/STRONG&gt; buses are running with delays in both directions, due to snow removal and snow bound bus stops. &lt;/P&gt;
-&lt;P&gt;Allow additional travel time.&lt;/P&gt;
-              &lt;br/&gt;
-              &lt;br/&gt;
-            
                   &lt;span class="TitlePlannedWork" &gt;Planned Detour&lt;/span&gt;
                   &lt;br/&gt;
                 &lt;a class="plannedWorkDetailLink" onclick=ShowHide(142650);&gt;&lt;b&gt;BxM7 and BxM9 &lt;/b&gt;- &lt;b&gt;Southbound buses may experience delays&lt;br clear=left&gt;due to construction on the Bruckner Expy at White Plains Rd to Bronx River Av&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 142650 class="plannedWorkDetail" &gt;&lt;/b&gt;Until further notice&lt;br&gt;&lt;br&gt;&amp;bull; Please allow additional travel time.&lt;br&gt;&lt;br&gt;&lt;/font&gt;&lt;b&gt;Reminder&lt;/b&gt;: &lt;a href=http://web.mta.info/busco/schedules/bxm7cur.pdf target=_blank&gt;&lt;font color=#0000FF&gt;&lt;b&gt;&lt;u&gt;BxM7&lt;/b&gt;&lt;/u&gt;&lt;/font&gt;&lt;/a&gt; and &lt;a href=http://web.mta.info/busco/schedules/bxm9cur.pdf target=_blank&gt;&lt;font color=#0000FF&gt;&lt;b&gt;&lt;u&gt;BxM9&lt;/b&gt;&lt;/u&gt;&lt;/font&gt;&lt;/a&gt; buses do not operate overnight.&lt;br&gt;&lt;b&gt;&lt;/b&gt;          &lt;a href=http://bustime.mta.info/ target=_blank&gt;&lt;img height=30px src=http://web.mta.info/nyct/images/Bus_Time_logo.png&gt;&lt;/a&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
@@ -280,7 +273,7 @@
               &lt;br/&gt;
             </text>
     <Date>03/17/2017</Date>
-    <Time> 2:09PM</Time>
+    <Time> 4:01PM</Time>
   </line>
   <line>
     <name>M1 - M116</name>
@@ -394,11 +387,12 @@
     <text>
                   &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                   &lt;span class="DateStyle"&gt;
-                  &amp;nbsp;Posted:&amp;nbsp;03/17/2017&amp;nbsp; 3:32PM
+                  &amp;nbsp;Posted:&amp;nbsp;03/17/2017&amp;nbsp; 4:01PM
                   &lt;/span&gt;
                   &lt;br/&gt;
                   &lt;br/&gt;
-                Following an earlier incident on 14 Av, &lt;STRONG&gt;Q20B&lt;/STRONG&gt; bus service has resumed with delays.
+                &lt;P&gt;All Queens &lt;STRONG&gt;local, limited, select&lt;/STRONG&gt; and &lt;STRONG&gt;express&lt;/STRONG&gt; buses are running with delays in both directions, due to snow removal and snow bound bus stops. &lt;/P&gt;
+&lt;P&gt;Allow additional travel time.&lt;/P&gt;
               &lt;br/&gt;
               &lt;br/&gt;
             
@@ -477,17 +471,6 @@
               &lt;br/&gt;
               &lt;br/&gt;
             
-                  &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                  &lt;span class="DateStyle"&gt;
-                  &amp;nbsp;Posted:&amp;nbsp;03/17/2017&amp;nbsp; 2:02PM
-                  &lt;/span&gt;
-                  &lt;br/&gt;
-                  &lt;br/&gt;
-                &lt;P&gt;All Queens &lt;STRONG&gt;local, limited, select&lt;/STRONG&gt; and &lt;STRONG&gt;express&lt;/STRONG&gt; buses are running with delays in both directions, due to snow removal and snow bound bus stops. &lt;/P&gt;
-&lt;P&gt;Allow additional travel time.&lt;/P&gt;
-              &lt;br/&gt;
-              &lt;br/&gt;
-            
                   &lt;span class="TitlePlannedWork" &gt;Planned Detour&lt;/span&gt;
                   &lt;br/&gt;
                 &lt;a class="plannedWorkDetailLink" onclick=ShowHide(147045);&gt;&lt;b&gt;Q38, Q39, Q54, Q58/Q58 LTD, Q67, QM24, QM25 and QM34 buses may experience delays&lt;br clear=left&gt;due to construction on Metropolitan Av at Fresh Pond Rd&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 147045 class="plannedWorkDetail" &gt;&lt;/b&gt;Until further notice&lt;br&gt;&lt;br&gt;&amp;bull; Please allow additional travel time.&lt;br&gt;&lt;/font&gt;&lt;b&gt;          &lt;/b&gt;&lt;/font&gt;&lt;a href=http://bustime.mta.info/ target=_blank&gt;&lt;img height=30px src=http://web.mta.info/nyct/images/Bus_Time_logo.png&gt;&lt;/a&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
@@ -501,12 +484,23 @@
               &lt;br/&gt;
             </text>
     <Date>03/17/2017</Date>
-    <Time> 3:32PM</Time>
+    <Time> 4:01PM</Time>
   </line>
   <line>
     <name>QM1 - QM44</name>
-    <status>SERVICE CHANGE</status>
+    <status>DELAYS</status>
     <text>
+                  &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                  &lt;span class="DateStyle"&gt;
+                  &amp;nbsp;Posted:&amp;nbsp;03/17/2017&amp;nbsp; 4:01PM
+                  &lt;/span&gt;
+                  &lt;br/&gt;
+                  &lt;br/&gt;
+                &lt;P&gt;All Queens &lt;STRONG&gt;local, limited, select&lt;/STRONG&gt; and &lt;STRONG&gt;express&lt;/STRONG&gt; buses are running with delays in both directions, due to snow removal and snow bound bus stops. &lt;/P&gt;
+&lt;P&gt;Allow additional travel time.&lt;/P&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
                   &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
                   &lt;span class="DateStyle"&gt;
                   &amp;nbsp;Posted:&amp;nbsp;03/17/2017&amp;nbsp; 3:02PM
@@ -533,17 +527,6 @@
               &lt;br/&gt;
               &lt;br/&gt;
             
-                  &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                  &lt;span class="DateStyle"&gt;
-                  &amp;nbsp;Posted:&amp;nbsp;03/17/2017&amp;nbsp; 2:02PM
-                  &lt;/span&gt;
-                  &lt;br/&gt;
-                  &lt;br/&gt;
-                &lt;P&gt;All Queens &lt;STRONG&gt;local, limited, select&lt;/STRONG&gt; and &lt;STRONG&gt;express&lt;/STRONG&gt; buses are running with delays in both directions, due to snow removal and snow bound bus stops. &lt;/P&gt;
-&lt;P&gt;Allow additional travel time.&lt;/P&gt;
-              &lt;br/&gt;
-              &lt;br/&gt;
-            
                   &lt;span class="TitlePlannedWork" &gt;Planned Detour&lt;/span&gt;
                   &lt;br/&gt;
                 &lt;a class="plannedWorkDetailLink" onclick=ShowHide(147045);&gt;&lt;b&gt;Q38, Q39, Q54, Q58/Q58 LTD, Q67, QM24, QM25 and QM34 buses may experience delays&lt;br clear=left&gt;due to construction on Metropolitan Av at Fresh Pond Rd&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 147045 class="plannedWorkDetail" &gt;&lt;/b&gt;Until further notice&lt;br&gt;&lt;br&gt;&amp;bull; Please allow additional travel time.&lt;br&gt;&lt;/font&gt;&lt;b&gt;          &lt;/b&gt;&lt;/font&gt;&lt;a href=http://bustime.mta.info/ target=_blank&gt;&lt;img height=30px src=http://web.mta.info/nyct/images/Bus_Time_logo.png&gt;&lt;/a&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
@@ -551,7 +534,7 @@
               &lt;br/&gt;
             </text>
     <Date>03/17/2017</Date>
-    <Time> 3:02PM</Time>
+    <Time> 4:01PM</Time>
   </line>
   <line>
     <name>S40 - S98</name>
@@ -591,6 +574,17 @@
     <text>
                   &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                   &lt;span class="DateStyle"&gt;
+                  &amp;nbsp;Posted:&amp;nbsp;03/17/2017&amp;nbsp; 4:01PM
+                  &lt;/span&gt;
+                  &lt;br/&gt;
+                  &lt;br/&gt;
+                &lt;P&gt;All Queens &lt;STRONG&gt;local, limited, select&lt;/STRONG&gt; and &lt;STRONG&gt;express&lt;/STRONG&gt; buses are running with delays in both directions, due to snow removal and snow bound bus stops. &lt;/P&gt;
+&lt;P&gt;Allow additional travel time.&lt;/P&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
+                  &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                  &lt;span class="DateStyle"&gt;
                   &amp;nbsp;Posted:&amp;nbsp;03/17/2017&amp;nbsp; 2:09PM
                   &lt;/span&gt;
                   &lt;br/&gt;
@@ -617,24 +611,13 @@
                   &lt;/span&gt;
                   &lt;br/&gt;
                   &lt;br/&gt;
-                &lt;P&gt;All Queens &lt;STRONG&gt;local, limited, select&lt;/STRONG&gt; and &lt;STRONG&gt;express&lt;/STRONG&gt; buses are running with delays in both directions, due to snow removal and snow bound bus stops. &lt;/P&gt;
-&lt;P&gt;Allow additional travel time.&lt;/P&gt;
-              &lt;br/&gt;
-              &lt;br/&gt;
-            
-                  &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                  &lt;span class="DateStyle"&gt;
-                  &amp;nbsp;Posted:&amp;nbsp;03/17/2017&amp;nbsp; 2:02PM
-                  &lt;/span&gt;
-                  &lt;br/&gt;
-                  &lt;br/&gt;
                 &lt;P&gt;All Manhattan &lt;STRONG&gt;local, limited, select&lt;/STRONG&gt; and &lt;STRONG&gt;express&lt;/STRONG&gt; buses are running with delays in both directions, due to snow removal and snow bound bus stops. &lt;/P&gt;
 &lt;P&gt;Allow additional travel time.&lt;/P&gt;
               &lt;br/&gt;
               &lt;br/&gt;
             </text>
     <Date>03/17/2017</Date>
-    <Time> 2:09PM</Time>
+    <Time> 4:01PM</Time>
   </line>
 </bus><BT>
   <line>
@@ -829,16 +812,16 @@
               
                     &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;03/17/2017&amp;nbsp; 3:51PM
+                    &amp;nbsp;Posted:&amp;nbsp;03/17/2017&amp;nbsp; 3:59PM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  &lt;P&gt;&lt;STRONG&gt;&lt;U&gt;Eastbound:&lt;/U&gt;&lt;/STRONG&gt;&lt;/P&gt;
-&lt;P&gt;The 2:29PM train from Penn due Huntington at 3:35PM is operating 11 minutes late due to maintenance equipment disabled on one of the two tracks near Mineola.&lt;BR&gt;&lt;/P&gt;
-&lt;P&gt;The 2:52PM train from Huntington due Port Jefferson at 3:38PM is operating 12 minutes late after accommodating customers from a late arriving train in Huntington.&lt;/P&gt;
-&lt;P&gt;The 3:24PM train from Penn due Hicksville at 4:05PM is canceled today due to a shortage of equipment as a result of a disabled track car. Customers accommodated by the 3:27PM train from Penn due Huntington at 4:33PM.&lt;/P&gt;
-&lt;P&gt;&lt;/P&gt;
-&lt;P&gt;&lt;STRONG&gt;&lt;U&gt;&lt;/U&gt;&lt;/STRONG&gt; &lt;/P&gt;
-&lt;P&gt;&lt;STRONG&gt;&lt;U&gt;Westbound:&lt;/U&gt;&lt;/STRONG&gt;&lt;/P&gt;
-&lt;P&gt;The 3:03PM train from Huntington due Penn at 4:13PM is operating 10 minutes late and will bypass Merillon Ave and New Hyde Park due to congestion caused by a disabled track car near Mineola. Customers will be accommodated by the next westbound train.&lt;BR&gt;&lt;/P&gt;
+                  &lt;p&gt;&lt;strong&gt;&lt;u&gt;Eastbound:&lt;/u&gt;&lt;/strong&gt;&lt;/p&gt;The 2:52PM train from Huntington due Port Jefferson at 3:38PM is 
+operating 12 minutes late after accommodating customers from a late 
+arriving train in Huntington.
+&lt;p&gt;The 3:24PM train from Penn due Hicksville at 4:05PM is canceled today due to a shortage of equipment as a result of a disabled track car. Customers accommodated by the 3:27PM train from Penn due Huntington at 4:33PM.&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;u&gt;&lt;/u&gt;&lt;/strong&gt; &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;u&gt;Westbound:&lt;/u&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The 3:03PM train from Huntington due Penn at 4:13PM is operating 10 minutes late and will bypass Merillon Ave and New Hyde Park due to congestion caused by a disabled track car near Mineola. Customers will be accommodated by the next westbound train.&lt;br&gt;&lt;/p&gt;
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>03/17/2017</Date>
@@ -871,17 +854,12 @@
               
                     &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;03/17/2017&amp;nbsp; 3:56PM
+                    &amp;nbsp;Posted:&amp;nbsp;03/17/2017&amp;nbsp; 4:01PM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  The 3:14PM train from Penn due Ronkonkoma at 4:34PM is delayed at New Hyde Park due to a disabled track car near Mineola
-                &lt;br/&gt;&lt;br/&gt;
-              
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;03/17/2017&amp;nbsp; 3:51PM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  &lt;p&gt;The 4:34PM train from Atlantic Terminal due Ronkonkoma at 5:57PM been cancelled today due to a disabled track car. Customers will be accommodated by the 4:39PM train from Atlantic Terminal due Babylon at 5:52PM, transfer at Jamaica for eastbound service to Ronkonkoma.
-&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+                  &lt;P&gt;&lt;STRONG&gt;&lt;U&gt;Eastbound:&lt;/U&gt;&lt;/STRONG&gt;&lt;/P&gt;
+&lt;P&gt;The 4:34PM train from Atlantic Terminal due Ronkonkoma at 5:57PM been cancelled today due to a disabled track car. Customers will be accommodated by the 4:39PM train from Atlantic Terminal due Babylon at 5:52PM, transfer at Jamaica for eastbound service to Ronkonkoma. &lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;&lt;U&gt;Westbound:&lt;/U&gt;&lt;/STRONG&gt;&lt;/P&gt;
+&lt;P&gt;The 3:03PM train from Huntington due Penn at 4:13PM is operating 17 minutes late and is bypassing Merillon Ave and New Hyde Park due to congestion caused by a disabled track car near Mineola.&lt;BR&gt;&lt;/P&gt;
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>03/17/2017</Date>
