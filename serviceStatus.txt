@@ -1,15 +1,8 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>DELAYS</status>
+    <status>SERVICE CHANGE</status>
     <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;03/18/2017&amp;nbsp; 7:25PM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  Following an earlier incident at &lt;STRONG&gt;Borough Hall&lt;/STRONG&gt;, [2] and [3] train service has resumed with delays.
-                &lt;br/&gt;&lt;br/&gt;
-              
                     &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
                     &amp;nbsp;Posted:&amp;nbsp;03/18/2017&amp;nbsp; 6:01PM
@@ -46,7 +39,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>03/18/2017</Date>
-    <Time> 7:25PM</Time>
+    <Time> 6:01PM</Time>
   </line>
   <line>
     <name>456</name>
@@ -170,22 +163,8 @@
   </line>
   <line>
     <name>NQR</name>
-    <status>DELAYS</status>
+    <status>SERVICE CHANGE</status>
     <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;03/18/2017&amp;nbsp; 7:28PM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  Following an earlier incident at &lt;STRONG&gt;Canal St&lt;/STRONG&gt;, [N], [R] and [W] train service has resumed with delays.
-                &lt;br/&gt;&lt;br/&gt;
-              
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;03/18/2017&amp;nbsp; 7:25PM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  Following an earlier incident at &lt;STRONG&gt;49 St&lt;/STRONG&gt;, [Q] train service has resumed with delays.
-                &lt;br/&gt;&lt;br/&gt;
-              
                     &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
                     &amp;nbsp;Posted:&amp;nbsp;03/18/2017&amp;nbsp; 6:00PM
@@ -205,7 +184,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>03/18/2017</Date>
-    <Time> 7:28PM</Time>
+    <Time> 6:00PM</Time>
   </line>
   <line>
     <name>S</name>
