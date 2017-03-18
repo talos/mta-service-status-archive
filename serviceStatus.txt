@@ -1,8 +1,16 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>SERVICE CHANGE</status>
+    <status>DELAYS</status>
     <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;03/18/2017&amp;nbsp; 7:05PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;P&gt;Due to a sick passenger at &lt;STRONG&gt;Borough Hall&lt;/STRONG&gt;, southbound [2] and [3] trains are running with delays. &lt;/P&gt;
+&lt;P&gt;Allow additional travel time.&lt;/P&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              
                     &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
                     &amp;nbsp;Posted:&amp;nbsp;03/18/2017&amp;nbsp; 6:01PM
@@ -39,7 +47,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>03/18/2017</Date>
-    <Time> 6:01PM</Time>
+    <Time> 7:05PM</Time>
   </line>
   <line>
     <name>456</name>
