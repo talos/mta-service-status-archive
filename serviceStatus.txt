@@ -75,17 +75,10 @@
   </line>
   <line>
     <name>L</name>
-    <status>DELAYS</status>
-    <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;03/20/2017&amp;nbsp; 4:35PM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  Following an earlier incident at Canarsie-Rockaway Pkwy, [L] train service has resumed with delays.
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>03/20/2017</Date>
-    <Time> 4:35PM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>NQR</name>
@@ -779,10 +772,17 @@
   </line>
   <line>
     <name>Port Washington</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>SERVICE CHANGE</status>
+    <text>
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;03/20/2017&amp;nbsp; 4:50PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  The 4:36PM train from Port Washington due Penn at 5:20PM is canceled due to equipment trouble. Customers will be accommodated by the 5:00PM from Port Washington due Penn Station 5:47PM.
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>03/20/2017</Date>
+    <Time> 4:50PM</Time>
   </line>
   <line>
     <name>Ronkonkoma</name>
