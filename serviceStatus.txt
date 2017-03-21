@@ -395,10 +395,15 @@
   </line>
   <line>
     <name>Throgs Neck</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>PLANNED WORK</status>
+    <text>
+                    &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
+                    &lt;br/&gt;
+                  TNB: Planned work; Queens bound, one lane closed. Expect delays.
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>03/21/2017</Date>
+    <Time> 9:53AM</Time>
   </line>
   <line>
     <name>Verrazano-Narrows</name>
@@ -464,10 +469,17 @@
   </line>
   <line>
     <name>Port Jefferson</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>DELAYS</status>
+    <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;03/21/2017&amp;nbsp; 9:56AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  The 9:44AM train from Hicksville due Penn at 10:29AM is operating 10 minutes late due to a late-arriving connection.
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>03/21/2017</Date>
+    <Time> 9:56AM</Time>
   </line>
   <line>
     <name>Port Washington</name>
