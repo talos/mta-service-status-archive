@@ -1,17 +1,10 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>DELAYS</status>
-    <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;03/22/2017&amp;nbsp; 6:45PM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  Due to an earlier incident at &lt;STRONG&gt;Chambers St&lt;/STRONG&gt;, [2] and [3] train service has resumed with delays.
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>03/22/2017</Date>
-    <Time> 6:45PM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>456</name>
@@ -654,13 +647,20 @@
     <text>
                     &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;03/22/2017&amp;nbsp; 7:05PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  The 6:16PM train from Penn due Oyster Bay at 7:30PM is operating 14 minutes late due to a late train ahead.
+                &lt;br/&gt;&lt;br/&gt;
+              
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
                     &amp;nbsp;Posted:&amp;nbsp;03/22/2017&amp;nbsp; 6:47PM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
                   The 6:34PM train from Oyster Bay due Jamaica at 7:28PM is operating 12 minutes late due to late-arriving equipment.
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>03/22/2017</Date>
-    <Time> 6:47PM</Time>
+    <Time> 7:05PM</Time>
   </line>
   <line>
     <name>Port Jefferson</name>
