@@ -522,10 +522,17 @@
   </line>
   <line>
     <name>Throgs Neck</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>SERVICE CHANGE</status>
+    <text>
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;03/22/2017&amp;nbsp;12:32PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;P class=MsoPlainText style="MARGIN: 0in 0in 0pt"&gt;&lt;FONT size=3 face=Calibri&gt;TNB: DISABLED VEHICLE; BRONX-BOUND; ONE LANE BLOCKED; EXPECT DELAYS.&lt;/FONT&gt;&lt;/P&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>03/22/2017</Date>
+    <Time>12:32PM</Time>
   </line>
   <line>
     <name>Verrazano-Narrows</name>
@@ -558,18 +565,10 @@
 </BT><LIRR>
   <line>
     <name>Babylon</name>
-    <status>DELAYS</status>
-    <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;03/22/2017&amp;nbsp;12:26PM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  &lt;P&gt;The 11:05AM train from Penn due Babylon at 12:21PM is operating 10 minutes late due to track work.&lt;/P&gt;
-&lt;P&gt;The 11:22AM train from Penn due Babylon at 12:24PM is operating 10 minutes late due to track work.&lt;/P&gt;
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>03/22/2017</Date>
-    <Time>12:26PM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>City Terminal Zone</name>
