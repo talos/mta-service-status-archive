@@ -42,36 +42,22 @@
   </line>
   <line>
     <name>ACE</name>
-    <status>DELAYS</status>
-    <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;03/24/2017&amp;nbsp;11:07AM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  Following an earlier incident at &lt;STRONG&gt;67 Av&lt;/STRONG&gt;, [E], [F], [M] and [R] train service has resumed with delays.
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>03/24/2017</Date>
-    <Time>11:07AM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>BDFM</name>
-    <status>DELAYS</status>
+    <status>PLANNED WORK</status>
     <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;03/24/2017&amp;nbsp;11:07AM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  Following an earlier incident at &lt;STRONG&gt;67 Av&lt;/STRONG&gt;, [E], [F], [M] and [R] train service has resumed with delays.
-                &lt;br/&gt;&lt;br/&gt;
-              
                     &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
                     &lt;br/&gt;
                   &lt;a class="plannedWorkDetailLink" onclick=ShowHide(151527);&gt;&lt;b&gt;[B] Brighton Beach-bound trains run local from Prospect Park to Sheepshead Bay&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 151527 class="plannedWorkDetail" &gt;&lt;/b&gt;Day, 9:45 AM to 3 PM, Friday, Mar 24&lt;br&gt;          &lt;br&gt;&amp;bull; Please allow additional travel time.&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>03/24/2017</Date>
-    <Time>11:07AM</Time>
+    <Time>11:27AM</Time>
   </line>
   <line>
     <name>G</name>
@@ -96,15 +82,8 @@
   </line>
   <line>
     <name>NQR</name>
-    <status>DELAYS</status>
+    <status>PLANNED WORK</status>
     <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;03/24/2017&amp;nbsp;11:07AM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  Following an earlier incident at &lt;STRONG&gt;67 Av&lt;/STRONG&gt;, [E], [F], [M] and [R] train service has resumed with delays.
-                &lt;br/&gt;&lt;br/&gt;
-              
                     &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
                     &lt;br/&gt;
                   &lt;a class="plannedWorkDetailLink" onclick=ShowHide(151597);&gt;&lt;b&gt;[W] Trains run every 20 minutes&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 151597 class="plannedWorkDetail" &gt;&lt;/b&gt;Day, 10:30 AM to 3 PM, Friday, Mar 24&lt;br&gt;&lt;br&gt;&amp;bull; Please allow additional travel time.&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
@@ -121,7 +100,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>03/24/2017</Date>
-    <Time>11:07AM</Time>
+    <Time>11:27AM</Time>
   </line>
   <line>
     <name>S</name>
@@ -679,10 +658,18 @@
   </line>
   <line>
     <name>Pascack Valley</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>SERVICE CHANGE</status>
+    <text>
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;03/24/2017&amp;nbsp;11:30AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  Mar 24, 2017  11:12:14 AM&lt;BR&gt;&lt;FONT class=subTitle&gt;Rail service remains suspended in and out NYPS due to a derailed Amtrak train near NYPS. MidTown Direct trains are being diverted to Hoboken Terminal. 
+&lt;P&gt;Cross honoring is in effect system-wide with NJT bus, private carriers, and with PATH at NPS, HOB, and 33rd Street in NY. Customers are encouraged to seek alternate transportation. &lt;/FONT&gt;&lt;/P&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>03/24/2017</Date>
+    <Time>11:30AM</Time>
   </line>
   <line>
     <name>Port Jervis</name>
