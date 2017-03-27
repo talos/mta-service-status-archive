@@ -1,8 +1,16 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>SERVICE CHANGE</status>
+    <status>DELAYS</status>
     <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;03/27/2017&amp;nbsp;10:05AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;P&gt;Due to signal problems at &lt;STRONG&gt;215 St,&lt;/STRONG&gt; southbound [1] trains are running with delays. &lt;/P&gt;
+&lt;P&gt;Allow additional travel time.&lt;/P&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              
                     &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
                     &amp;nbsp;Posted:&amp;nbsp;03/27/2017&amp;nbsp;10:03AM
@@ -21,22 +29,23 @@
 &lt;P&gt;Expect delays on southbound [2] and [5] trains&lt;/P&gt;
 &lt;P&gt;Allow additional travel time.&lt;/P&gt;
                 &lt;br/&gt;&lt;br/&gt;
-              
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;03/27/2017&amp;nbsp; 7:34AM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  &lt;P&gt;Due to signal problems at &lt;STRONG&gt;215 St,&lt;/STRONG&gt; southbound [1] trains are running with delays. &lt;/P&gt;
-&lt;P&gt;Allow additional travel time.&lt;/P&gt;
-                &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>03/27/2017</Date>
-    <Time>10:03AM</Time>
+    <Time>10:05AM</Time>
   </line>
   <line>
     <name>456</name>
-    <status>SERVICE CHANGE</status>
+    <status>DELAYS</status>
     <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;03/27/2017&amp;nbsp;10:06AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;P&gt;Due to signal problems at &lt;STRONG&gt;86 St&lt;/STRONG&gt;, Some northbound [4] and [5] trains are running local from Gra&lt;STRONG&gt;nd Central-42 St&lt;/STRONG&gt; to &lt;STRONG&gt;125 St.&lt;/STRONG&gt; &lt;/P&gt;
+&lt;P&gt;Expect delays on northbound [4], [5] and [6] trains.&lt;/P&gt;
+&lt;P&gt;Allow additional travel time.&lt;/P&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              
                     &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
                     &amp;nbsp;Posted:&amp;nbsp;03/27/2017&amp;nbsp;10:02AM
@@ -45,18 +54,9 @@
 &lt;P&gt;Expect delays on southbound [2] and [5] trains&lt;/P&gt;
 &lt;P&gt;Allow additional travel time.&lt;/P&gt;
                 &lt;br/&gt;&lt;br/&gt;
-              
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;03/27/2017&amp;nbsp; 8:07AM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  &lt;P&gt;Due to signal problems at &lt;STRONG&gt;86 St&lt;/STRONG&gt;, Some northbound [4] and [5] trains are running local from Gra&lt;STRONG&gt;nd Central-42 St&lt;/STRONG&gt; to &lt;STRONG&gt;125 St.&lt;/STRONG&gt; &lt;/P&gt;
-&lt;P&gt;Expect delays on northbound [4], [5] and [6] trains.&lt;/P&gt;
-&lt;P&gt;Allow additional travel time.&lt;/P&gt;
-                &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>03/27/2017</Date>
-    <Time>10:02AM</Time>
+    <Time>10:06AM</Time>
   </line>
   <line>
     <name>7</name>
