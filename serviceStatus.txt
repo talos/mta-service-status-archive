@@ -57,10 +57,19 @@
   </line>
   <line>
     <name>NQR</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>SERVICE CHANGE</status>
+    <text>
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;03/27/2017&amp;nbsp; 5:17PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;P&gt;Due to sick passenger at &lt;STRONG&gt;Parkside Av&lt;/STRONG&gt;,  southbound [Q] trains are running express from &lt;STRONG&gt;Prospect Pk&lt;/STRONG&gt; to &lt;STRONG&gt;Kings Hwy&lt;/STRONG&gt;. &lt;/P&gt;
+&lt;P&gt;Expect delays on southbound [B] and [Q] train service.&lt;/P&gt;
+&lt;P&gt;Allow additonal travel time.&lt;/P&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>03/27/2017</Date>
+    <Time> 5:17PM</Time>
   </line>
   <line>
     <name>S</name>
@@ -498,8 +507,15 @@
   </line>
   <line>
     <name>Robert F. Kennedy</name>
-    <status>SERVICE CHANGE</status>
+    <status>DELAYS</status>
     <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;03/27/2017&amp;nbsp; 5:15PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;P  style="MARGIN: 0in 0in 0pt"&gt;&lt;FONT size=3 face=Calibri&gt;RFK: Delays; Manhattan/Bronx-bound on the Queens span due to volume; Expect delays.&lt;/FONT&gt;&lt;/P&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              
                     &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
                     &amp;nbsp;Posted:&amp;nbsp;03/27/2017&amp;nbsp; 5:29AM
@@ -508,7 +524,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>03/27/2017</Date>
-    <Time> 5:29AM</Time>
+    <Time> 5:15PM</Time>
   </line>
   <line>
     <name>Throgs Neck</name>
@@ -633,17 +649,10 @@ Station.&lt;br&gt;
   </line>
   <line>
     <name>West Hempstead</name>
-    <status>DELAYS</status>
-    <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;03/27/2017&amp;nbsp; 4:57PM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  The 4:20PM train from Atlantic Terminal due West Hempstead at 5:06PM is operating 12 minutes late due to earlier equipment trouble.
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>03/27/2017</Date>
-    <Time> 4:57PM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
 </LIRR><MetroNorth>
   <line>
