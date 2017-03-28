@@ -1,17 +1,39 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>SERVICE CHANGE</status>
+    <text>
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;03/28/2017&amp;nbsp; 7:53PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;P&gt;Due to track maintenance at&lt;STRONG&gt; Nevins St&lt;/STRONG&gt;, the following service changes are in effect:&lt;/P&gt;
+&lt;P&gt;Southbound [2] and [3] trains are running with delays. &lt;/P&gt;
+&lt;P&gt;Some southbound [2] trains are running on the [5] line from &lt;STRONG&gt;149 St-Grand Concourse &lt;/STRONG&gt;to &lt;STRONG&gt;Nevins St&lt;/STRONG&gt;. &lt;/P&gt;
+&lt;P&gt;Expect delays on [4] and [5] trains. &lt;/P&gt;
+&lt;P&gt;Allow additional trvel time.&lt;/P&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>03/28/2017</Date>
+    <Time> 7:53PM</Time>
   </line>
   <line>
     <name>456</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>SERVICE CHANGE</status>
+    <text>
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;03/28/2017&amp;nbsp; 7:53PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;P&gt;Due to track maintenance at&lt;STRONG&gt; Nevins St&lt;/STRONG&gt;, the following service changes are in effect:&lt;/P&gt;
+&lt;P&gt;Southbound [2] and [3] trains are running with delays. &lt;/P&gt;
+&lt;P&gt;Some southbound [2] trains are running on the [5] line from &lt;STRONG&gt;149 St-Grand Concourse &lt;/STRONG&gt;to &lt;STRONG&gt;Nevins St&lt;/STRONG&gt;. &lt;/P&gt;
+&lt;P&gt;Expect delays on [4] and [5] trains. &lt;/P&gt;
+&lt;P&gt;Allow additional trvel time.&lt;/P&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>03/28/2017</Date>
+    <Time> 7:53PM</Time>
   </line>
   <line>
     <name>7</name>
@@ -210,7 +232,7 @@
               &lt;br/&gt;
             </text>
     <Date>03/28/2017</Date>
-    <Time> 7:47PM</Time>
+    <Time> 7:52PM</Time>
   </line>
   <line>
     <name>M1 - M116</name>
@@ -382,7 +404,7 @@
               &lt;br/&gt;
             </text>
     <Date>03/28/2017</Date>
-    <Time> 7:47PM</Time>
+    <Time> 7:52PM</Time>
   </line>
   <line>
     <name>S40 - S98</name>
@@ -438,10 +460,15 @@
   </line>
   <line>
     <name>Hugh L. Carey</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>PLANNED WORK</status>
+    <text>
+                    &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
+                    &lt;br/&gt;
+                  HLC: PLANNED WORK; ONE TUBE CLOSED AND THE REMAINING TUBE WILL RUN TWO-WAY TRAFFIC OPERATIONS. MOTORIST SHOULD EXPECT DELAYS.
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>03/28/2017</Date>
+    <Time> 7:50PM</Time>
   </line>
   <line>
     <name>Marine Parkway</name>
