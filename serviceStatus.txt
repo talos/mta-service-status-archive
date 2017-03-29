@@ -111,8 +111,32 @@
 </subway><bus>
   <line>
     <name>B1 - B84</name>
-    <status>DELAYS</status>
+    <status>SERVICE CHANGE</status>
     <text>
+                  &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                  &lt;span class="DateStyle"&gt;
+                  &amp;nbsp;Posted:&amp;nbsp;03/29/2017&amp;nbsp; 9:19AM
+                  &lt;/span&gt;
+                  &lt;br/&gt;
+                  &lt;br/&gt;
+                &lt;P&gt;&lt;STRONG&gt;B38&lt;/STRONG&gt; buses are detoured, due to milling on Lewis Av from Gates Av to Lafayette Av. &lt;/P&gt;
+&lt;P&gt;Detour is as follows:&lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;Northbound&lt;/STRONG&gt;: Via Lafayette Av, right on Kosciusko St, right on Stuyvesant Av, left on Lafayette Av and regular route.&lt;/P&gt;
+&lt;P&gt;Allow additional travel time.&lt;/P&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
+                  &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                  &lt;span class="DateStyle"&gt;
+                  &amp;nbsp;Posted:&amp;nbsp;03/29/2017&amp;nbsp; 9:19AM
+                  &lt;/span&gt;
+                  &lt;br/&gt;
+                  &lt;br/&gt;
+                &lt;P&gt;&lt;STRONG&gt;B62&lt;/STRONG&gt; buses are running with delays in both directions due to traffic conditions on Manhattan Av between Nassau Av and Freeman St. &lt;/P&gt;
+&lt;P&gt;Allow additional travel time.&lt;/P&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
                   &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                   &lt;span class="DateStyle"&gt;
                   &amp;nbsp;Posted:&amp;nbsp;03/29/2017&amp;nbsp; 9:02AM
@@ -165,7 +189,7 @@
               &lt;br/&gt;
             </text>
     <Date>03/29/2017</Date>
-    <Time> 9:02AM</Time>
+    <Time> 9:19AM</Time>
   </line>
   <line>
     <name>B100 - B103</name>
@@ -224,6 +248,17 @@
     <name>Q1 - Q113</name>
     <status>DELAYS</status>
     <text>
+                  &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                  &lt;span class="DateStyle"&gt;
+                  &amp;nbsp;Posted:&amp;nbsp;03/29/2017&amp;nbsp; 9:18AM
+                  &lt;/span&gt;
+                  &lt;br/&gt;
+                  &lt;br/&gt;
+                &lt;P&gt;&lt;STRONG&gt;Q55&lt;/STRONG&gt; buses are running with delays in both directions due to construction on Myrtle Av from Forest Av to 71 Av. &lt;/P&gt;
+&lt;P&gt;Allow additional travel time.&lt;/P&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
                   &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                   &lt;span class="DateStyle"&gt;
                   &amp;nbsp;Posted:&amp;nbsp;03/29/2017&amp;nbsp; 9:05AM
@@ -299,7 +334,7 @@
               &lt;br/&gt;
             </text>
     <Date>03/29/2017</Date>
-    <Time> 9:05AM</Time>
+    <Time> 9:18AM</Time>
   </line>
   <line>
     <name>QM1 - QM44</name>
@@ -499,10 +534,15 @@
   </line>
   <line>
     <name>Throgs Neck</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>PLANNED WORK</status>
+    <text>
+                    &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
+                    &lt;br/&gt;
+                  TNB planned work Queens bound one lane blocked, expect delays.
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>03/29/2017</Date>
+    <Time> 9:18AM</Time>
   </line>
   <line>
     <name>Verrazano-Narrows</name>
