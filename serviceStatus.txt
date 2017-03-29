@@ -1,18 +1,17 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>SERVICE CHANGE</status>
+    <status>DELAYS</status>
     <text>
-                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;03/29/2017&amp;nbsp; 5:23AM
+                    &amp;nbsp;Posted:&amp;nbsp;03/29/2017&amp;nbsp; 5:33AM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  &lt;P&gt;Due to track maintenance at &lt;STRONG&gt;Chambers St,&lt;/STRONG&gt; southbound [1] and [2] trains are running express from &lt;STRONG&gt;14 St&lt;/STRONG&gt; to &lt;STRONG&gt;Chambers St.&lt;/STRONG&gt;&lt;/P&gt;
-&lt;P&gt;Allow additional travel time. &lt;/P&gt;
+                  Following an earlier incident at &lt;STRONG&gt;Chambers St&lt;/STRONG&gt;, [1] and [2] train service has resumed with delays.
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>03/29/2017</Date>
-    <Time> 5:23AM</Time>
+    <Time> 5:33AM</Time>
   </line>
   <line>
     <name>456</name>
@@ -154,7 +153,7 @@
               &lt;br/&gt;
             </text>
     <Date>03/29/2017</Date>
-    <Time> 5:27AM</Time>
+    <Time> 5:32AM</Time>
   </line>
   <line>
     <name>M1 - M116</name>
@@ -185,8 +184,22 @@
   </line>
   <line>
     <name>Q1 - Q113</name>
-    <status>PLANNED WORK</status>
+    <status>SERVICE CHANGE</status>
     <text>
+                  &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                  &lt;span class="DateStyle"&gt;
+                  &amp;nbsp;Posted:&amp;nbsp;03/29/2017&amp;nbsp; 5:32AM
+                  &lt;/span&gt;
+                  &lt;br/&gt;
+                  &lt;br/&gt;
+                &lt;P&gt;&lt;STRONG&gt;Q5&lt;/STRONG&gt; buses are detoured, due to NYPD Activity on Merrick Blvd between Baisley Blvd and Farmers Blvd. &lt;/P&gt;
+&lt;P&gt;Detour is as follows:&lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;Towards Rosedale/Green Acres Shopping Center:&lt;/STRONG&gt; Via Merrick Blvd, right on Baisley Blvd, left on 172 St into 129 Av, right on Merrick Blvd and regular route. &lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;Towards Jamaica:&lt;/STRONG&gt; Via Merrick Blvd, right on Zoller Road, left on 180 St, left on 127 Av, left on Baisley Blvd, right on Merrick Blvd and regular route. &lt;/P&gt;
+&lt;P&gt;Allow additional travel time. &lt;/P&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
                   &lt;span class="TitlePlannedWork" &gt;Planned Detour&lt;/span&gt;
                   &lt;br/&gt;
                 &lt;a class="plannedWorkDetailLink" onclick=ShowHide(151631);&gt;&lt;b&gt;Q69&lt;/b&gt; - &lt;b&gt;Southbound stop on 28 St at Queens Plaza South to 42 Rd temporarily relocated&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 151631 class="plannedWorkDetail" &gt;&lt;/b&gt;Until further notice&lt;br&gt;&lt;br&gt;Due to construction, please use the nearby temporary stop &lt;b&gt;on 42 Rd&lt;/b&gt; at Hunter St.&lt;br&gt;&lt;br&gt;&lt;/font&gt;&lt;b&gt;                                         [TP]&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
@@ -200,7 +213,7 @@
               &lt;br/&gt;
             </text>
     <Date>03/29/2017</Date>
-    <Time> 5:27AM</Time>
+    <Time> 5:32AM</Time>
   </line>
   <line>
     <name>QM1 - QM44</name>
@@ -213,7 +226,7 @@
               &lt;br/&gt;
             </text>
     <Date>03/29/2017</Date>
-    <Time> 5:27AM</Time>
+    <Time> 5:32AM</Time>
   </line>
   <line>
     <name>S40 - S98</name>
