@@ -8,17 +8,10 @@
   </line>
   <line>
     <name>456</name>
-    <status>DELAYS</status>
-    <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;03/29/2017&amp;nbsp; 5:38PM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  Due to an earlier incident at &lt;STRONG&gt;St Lawrence Av&lt;/STRONG&gt;, [6] train service has resumed with delays.
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>03/29/2017</Date>
-    <Time> 5:38PM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>7</name>
@@ -288,26 +281,6 @@
             
                   &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                   &lt;span class="DateStyle"&gt;
-                  &amp;nbsp;Posted:&amp;nbsp;03/29/2017&amp;nbsp; 5:43PM
-                  &lt;/span&gt;
-                  &lt;br/&gt;
-                  &lt;br/&gt;
-                Following an earlier incident on 66 St Transverse, &lt;STRONG&gt;M66 &lt;/STRONG&gt;and &lt;STRONG&gt;M72&lt;/STRONG&gt; bus service has resumed with delays.
-              &lt;br/&gt;
-              &lt;br/&gt;
-            
-                  &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                  &lt;span class="DateStyle"&gt;
-                  &amp;nbsp;Posted:&amp;nbsp;03/29/2017&amp;nbsp; 5:42PM
-                  &lt;/span&gt;
-                  &lt;br/&gt;
-                  &lt;br/&gt;
-                Following an earlier incident on 6 Av, &lt;STRONG&gt;M7&lt;/STRONG&gt; and &lt;STRONG&gt;M55&lt;/STRONG&gt; bus service has resumed with delays.
-              &lt;br/&gt;
-              &lt;br/&gt;
-            
-                  &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                  &lt;span class="DateStyle"&gt;
                   &amp;nbsp;Posted:&amp;nbsp;03/29/2017&amp;nbsp; 4:19PM
                   &lt;/span&gt;
                   &lt;br/&gt;
@@ -515,20 +488,10 @@
   </line>
   <line>
     <name>S40 - S98</name>
-    <status>DELAYS</status>
-    <text>
-                  &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                  &lt;span class="DateStyle"&gt;
-                  &amp;nbsp;Posted:&amp;nbsp;03/29/2017&amp;nbsp; 5:40PM
-                  &lt;/span&gt;
-                  &lt;br/&gt;
-                  &lt;br/&gt;
-                Following an earlier incident on Norway Av and Olympia Blvd, &lt;STRONG&gt;S52 &lt;/STRONG&gt;bus service has resumed with delays.
-              &lt;br/&gt;
-              &lt;br/&gt;
-            </text>
-    <Date>03/29/2017</Date>
-    <Time> 5:40PM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>x1 - x68</name>
@@ -669,14 +632,19 @@
     <text>
                     &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;03/29/2017&amp;nbsp; 5:54PM
+                    &amp;nbsp;Posted:&amp;nbsp;03/29/2017&amp;nbsp; 5:59PM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  The 5:23PM train from Atlantic Terminal due Babylon at 6:36PM is being 
-delayed west of Jamaica due to a train ahead with an equipment problem.
+                  &lt;div class="logbody"&gt;
+        &lt;div class="mainmsg"&gt;
+          &lt;b&gt;EASTBOUND &lt;br&gt;&lt;br&gt;&lt;/b&gt;The 5:24PM train from Penn due Freeport at 6:10PM is operating
+ 11 minutes late due to a train west of Jamaica with an equipment 
+problem.
+        &lt;/div&gt;&lt;br&gt;The 5:23PM train from Atlantic Terminal due Babylon at 6:36PM is being 
+delayed west of Jamaica due to a train ahead with an equipment problem.&lt;/div&gt;
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>03/29/2017</Date>
-    <Time> 5:54PM</Time>
+    <Time> 5:59PM</Time>
   </line>
   <line>
     <name>City Terminal Zone</name>
@@ -708,10 +676,19 @@ delayed west of Jamaica due to a train ahead with an equipment problem.
   </line>
   <line>
     <name>Long Beach</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>DELAYS</status>
+    <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;03/29/2017&amp;nbsp; 6:01PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  The 5:20PM train from Penn due Long Beach at 6:11PM is operating 20 
+minutes late after being rerouted due to a train west of Jamaica with an
+ equipment problem.
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>03/29/2017</Date>
+    <Time> 6:01PM</Time>
   </line>
   <line>
     <name>Montauk</name>
