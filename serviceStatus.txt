@@ -1,8 +1,16 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>DELAYS</status>
+    <status>SERVICE CHANGE</status>
     <text>
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;03/30/2017&amp;nbsp;11:25AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;P&gt;Due to the Broadway Bridge opening for Marine Traffic, there is no [1] train between &lt;STRONG&gt;215 St&lt;/STRONG&gt; and &lt;STRONG&gt;Van Cortlandt Park-242 St&lt;/STRONG&gt; in both directions. &lt;/P&gt;
+&lt;P&gt;Allow additional travel time.&lt;/P&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              
                     &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
                     &amp;nbsp;Posted:&amp;nbsp;03/30/2017&amp;nbsp; 9:45AM
@@ -21,7 +29,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>03/30/2017</Date>
-    <Time> 9:45AM</Time>
+    <Time>11:25AM</Time>
   </line>
   <line>
     <name>456</name>
@@ -308,12 +316,11 @@
     <text>
                   &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                   &lt;span class="DateStyle"&gt;
-                  &amp;nbsp;Posted:&amp;nbsp;03/30/2017&amp;nbsp;10:01AM
+                  &amp;nbsp;Posted:&amp;nbsp;03/30/2017&amp;nbsp;11:26AM
                   &lt;/span&gt;
                   &lt;br/&gt;
                   &lt;br/&gt;
-                &lt;P&gt;&lt;STRONG&gt;Bx5&lt;/STRONG&gt; buses are delayed in both directions, due to Non MTA accident on Story Av at Morrison Av. &lt;/P&gt;
-&lt;P&gt;Allow additional travel time.&lt;/P&gt;
+                Following an earlier incident on Story Av, &lt;STRONG&gt;Bx5&lt;/STRONG&gt; bus service has resumed with delays.
               &lt;br/&gt;
               &lt;br/&gt;
             
@@ -324,7 +331,7 @@
               &lt;br/&gt;
             </text>
     <Date>03/30/2017</Date>
-    <Time>10:01AM</Time>
+    <Time>11:26AM</Time>
   </line>
   <line>
     <name>BXM1 - BXM18</name>
