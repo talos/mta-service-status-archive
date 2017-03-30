@@ -118,8 +118,22 @@
 </subway><bus>
   <line>
     <name>B1 - B84</name>
-    <status>DELAYS</status>
+    <status>SERVICE CHANGE</status>
     <text>
+                  &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                  &lt;span class="DateStyle"&gt;
+                  &amp;nbsp;Posted:&amp;nbsp;03/30/2017&amp;nbsp;10:06AM
+                  &lt;/span&gt;
+                  &lt;br/&gt;
+                  &lt;br/&gt;
+                &lt;P&gt;&lt;STRONG&gt;B13&lt;/STRONG&gt; buses are detoured in both directions, due to milling on Cypress Hills St between Jamaica Av and Cypress Av. &lt;/P&gt;
+&lt;P&gt;Detour is as follows:&lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;Southbound&lt;/STRONG&gt;: Via Cypress Hills St, right on Cypress Av, left on Vermont Pl, left on Hyland Blvd, left on Jamaica Av and regular route. &lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;Northbound&lt;/STRONG&gt;: Via Jamaica Av, right on Hyland Blvd, right on Vermont Pl, right on Cypress Av, left on Cypress Hills St and regular route. &lt;/P&gt;
+&lt;P&gt;Allow additional travel time. &lt;/P&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
                   &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                   &lt;span class="DateStyle"&gt;
                   &amp;nbsp;Posted:&amp;nbsp;03/30/2017&amp;nbsp;10:05AM
@@ -201,20 +215,6 @@
               &lt;br/&gt;
               &lt;br/&gt;
             
-                  &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
-                  &lt;span class="DateStyle"&gt;
-                  &amp;nbsp;Posted:&amp;nbsp;03/30/2017&amp;nbsp; 6:01AM
-                  &lt;/span&gt;
-                  &lt;br/&gt;
-                  &lt;br/&gt;
-                &lt;P&gt;&lt;STRONG&gt;B13&lt;/STRONG&gt; buses are detoured in both directions, due to milling on Cypress Hills St between Jamaica Av and Cypress Av. &lt;/P&gt;
-&lt;P&gt;Detour is as follows:&lt;/P&gt;
-&lt;P&gt;&lt;STRONG&gt;Southbound&lt;/STRONG&gt;: Via Cypress Hills St, right on Cypress Av, left on Vermont Pl, left on Hyland Blvd, left on Jamaica Av and regular route. &lt;/P&gt;
-&lt;P&gt;&lt;STRONG&gt;Northbound&lt;/STRONG&gt;: Via Jamaica Av, right on Hyland Blvd, right on Vermont Pl, right on Cypress Av, left on Cypress Hills St and regular route. &lt;/P&gt;
-&lt;P&gt;Allow additional travel time. &lt;/P&gt;
-              &lt;br/&gt;
-              &lt;br/&gt;
-            
                   &lt;span class="TitlePlannedWork" &gt;Planned Detour&lt;/span&gt;
                   &lt;br/&gt;
                 &lt;a class="plannedWorkDetailLink" onclick=ShowHide(117571);&gt;&lt;b&gt;B9 buses may experience delays due to track work on the N line between Stillwell Av and 8 Av &lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 117571 class="plannedWorkDetail" &gt;&lt;/b&gt;Until further notice&lt;br&gt;&lt;br&gt;&amp;bull; Please allow additional travel time.&lt;br&gt;&lt;/font&gt;&lt;b&gt;          &lt;/b&gt;&lt;/font&gt;&lt;a href=http://bustime.mta.info/#b9 target=_blank&gt;&lt;img height=30px src=http://web.mta.info/nyct/images/Bus_Time_logo.png&gt;&lt;/a&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
@@ -234,7 +234,7 @@
               &lt;br/&gt;
             </text>
     <Date>03/30/2017</Date>
-    <Time>10:05AM</Time>
+    <Time>10:06AM</Time>
   </line>
   <line>
     <name>B100 - B103</name>
@@ -453,7 +453,7 @@
     <text>
                   &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
                   &lt;span class="DateStyle"&gt;
-                  &amp;nbsp;Posted:&amp;nbsp;03/30/2017&amp;nbsp; 7:26AM
+                  &amp;nbsp;Posted:&amp;nbsp;03/30/2017&amp;nbsp;10:06AM
                   &lt;/span&gt;
                   &lt;br/&gt;
                   &lt;br/&gt;
@@ -466,7 +466,7 @@
               &lt;br/&gt;
             </text>
     <Date>03/30/2017</Date>
-    <Time> 7:26AM</Time>
+    <Time>10:06AM</Time>
   </line>
 </bus><BT>
   <line>
@@ -645,20 +645,10 @@
   </line>
   <line>
     <name>Port Jefferson</name>
-    <status>DELAYS</status>
-    <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;03/30/2017&amp;nbsp; 9:43AM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  &lt;P&gt;&lt;U&gt;&lt;B&gt;Eastbound &lt;/B&gt;&lt;/U&gt;&lt;BR&gt;&lt;/P&gt;
-&lt;P&gt;The 8:17AM train from Jamaica due Port Jefferson at 9:52AM is operating 16 minutes late due to signal trouble.&lt;/P&gt;
-&lt;P&gt;&lt;U&gt;Westbound&lt;/U&gt;&lt;/P&gt;
-&lt;P&gt;The 8:34AM train from Port Jefferson due Hicksville at 9:40AM is operating 14 minutes late after accommodating a late-arriving eastbound train in single-track territory.&lt;/P&gt;
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>03/30/2017</Date>
-    <Time> 9:43AM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>Port Washington</name>
