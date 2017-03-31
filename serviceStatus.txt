@@ -1,10 +1,17 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>DELAYS</status>
+    <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;03/31/2017&amp;nbsp; 5:19PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  Due to an earlier incident at &lt;STRONG&gt;Freeman St&lt;/STRONG&gt;, [2] train service has resumed with delays.
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>03/31/2017</Date>
+    <Time> 5:19PM</Time>
   </line>
   <line>
     <name>456</name>
@@ -629,6 +636,13 @@
     <text>
                     &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;03/31/2017&amp;nbsp; 5:15PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;P style="MARGIN: 0in 0in 0pt"&gt;&lt;FONT size=3 face=Calibri&gt;RFK:  Delays; Bronx-bound due to off property volume cleared.&lt;/P&gt;&lt;/FONT&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
                     &amp;nbsp;Posted:&amp;nbsp;03/31/2017&amp;nbsp; 2:35PM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
                   &lt;P  style="MARGIN: 0in 0in 0pt"&gt;&lt;FONT size=3 face=Calibri&gt; RFK: &lt;SPAN style=""&gt; &lt;/SPAN&gt;Delays; Bronx-bound due to off property volume on the Northbound Major Deegan Expressway. &lt;SPAN style=""&gt; &lt;/SPAN&gt;Expect delays&lt;/P&gt;&lt;/FONT&gt;
@@ -649,7 +663,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>03/31/2017</Date>
-    <Time> 2:35PM</Time>
+    <Time> 5:15PM</Time>
   </line>
   <line>
     <name>Throgs Neck</name>
