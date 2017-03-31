@@ -1,26 +1,32 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
-  </line>
-  <line>
-    <name>456</name>
-    <status>SERVICE CHANGE</status>
+    <status>DELAYS</status>
     <text>
-                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;03/31/2017&amp;nbsp; 5:56PM
+                    &amp;nbsp;Posted:&amp;nbsp;03/31/2017&amp;nbsp; 7:24PM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  &lt;P&gt;Due to an investigation at &lt;STRONG&gt;Franklin Av&lt;/STRONG&gt;, southbound [5] trains are running local from &lt;STRONG&gt;Atlantic Av-Barclays Ctr&lt;/STRONG&gt; to &lt;STRONG&gt;Franklin Av&lt;/STRONG&gt;. &lt;/P&gt;
-&lt;P&gt;Expect delays on [2] and [3] trains. &lt;/P&gt;
+                  &lt;P&gt;Due to NYPD activity at &lt;STRONG&gt;96 St&lt;/STRONG&gt;,  northbound [2] and [3] trains are running with delays. &lt;/P&gt;
 &lt;P&gt;Allow additional travel time.&lt;/P&gt;
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>03/31/2017</Date>
-    <Time> 5:56PM</Time>
+    <Time> 7:24PM</Time>
+  </line>
+  <line>
+    <name>456</name>
+    <status>DELAYS</status>
+    <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;03/31/2017&amp;nbsp; 7:23PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  Following an earlier incident at &lt;STRONG&gt;Franklin Av&lt;/STRONG&gt;, [5] service has resumed with delays.
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>03/31/2017</Date>
+    <Time> 7:23PM</Time>
   </line>
   <line>
     <name>7</name>
@@ -232,7 +238,7 @@
               &lt;br/&gt;
             </text>
     <Date>03/31/2017</Date>
-    <Time> 7:12PM</Time>
+    <Time> 7:23PM</Time>
   </line>
   <line>
     <name>M1 - M116</name>
