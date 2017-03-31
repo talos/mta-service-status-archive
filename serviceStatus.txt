@@ -372,17 +372,10 @@
   </line>
   <line>
     <name>Throgs Neck</name>
-    <status>SERVICE CHANGE</status>
-    <text>
-                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;03/31/2017&amp;nbsp; 5:02AM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  UPDATE: TNB: COLLISION; QUEENS-BOUND. TWO LANES BLOCKED. EXPECT DELAYS.
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>03/31/2017</Date>
-    <Time> 5:02AM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>Verrazano-Narrows</name>
@@ -507,10 +500,17 @@
   </line>
   <line>
     <name>Danbury</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>DELAYS</status>
+    <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;03/31/2017&amp;nbsp; 6:06AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  Danbury Branch Southbound Service is currently experiencing delays of 25-30 minutes due to mechanical problems. Please listen for announcements at your station.
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>03/31/2017</Date>
+    <Time> 6:06AM</Time>
   </line>
   <line>
     <name>Waterbury</name>
