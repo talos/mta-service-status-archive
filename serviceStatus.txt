@@ -1,14 +1,17 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>DELAYS</status>
+    <status>SERVICE CHANGE</status>
     <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;03/31/2017&amp;nbsp; 8:03AM
+                    &amp;nbsp;Posted:&amp;nbsp;03/31/2017&amp;nbsp; 8:10AM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  &lt;P&gt;Due to a train with mechanical problems at &lt;STRONG&gt;Franklin Av,&lt;/STRONG&gt; southbound [2] and [5] trains are running with delays.&lt;/P&gt;
-&lt;P&gt;Allow additional travel time.&lt;/P&gt;
+                  &lt;P&gt;Due to a train with mechanical problems at &lt;STRONG&gt;Franklin Av,&lt;/STRONG&gt; the following service changes are in effect:&lt;/P&gt;
+&lt;P&gt;Some southbound [2] and [3] trains terminate at &lt;STRONG&gt;Times Sq-42 St, Chambers St&lt;/STRONG&gt; or &lt;STRONG&gt;South Ferry.&lt;/STRONG&gt;&lt;/P&gt;
+&lt;P&gt;Some southbound [4] and [5] trains terminate at &lt;STRONG&gt;125 St, Grand Central-42 St&lt;/STRONG&gt; or &lt;STRONG&gt;Bowling Green.&lt;/STRONG&gt;&lt;/P&gt;
+&lt;P&gt;Expect delays on [2], [3], [4] and [5] trains.&lt;/P&gt;
+&lt;P&gt;Allow additional travel time&lt;/P&gt;
                 &lt;br/&gt;&lt;br/&gt;
               
                     &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
@@ -30,22 +33,25 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>03/31/2017</Date>
-    <Time> 8:03AM</Time>
+    <Time> 8:10AM</Time>
   </line>
   <line>
     <name>456</name>
-    <status>DELAYS</status>
+    <status>SERVICE CHANGE</status>
     <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;03/31/2017&amp;nbsp; 8:03AM
+                    &amp;nbsp;Posted:&amp;nbsp;03/31/2017&amp;nbsp; 8:10AM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  &lt;P&gt;Due to a train with mechanical problems at &lt;STRONG&gt;Franklin Av,&lt;/STRONG&gt; southbound [2] and [5] trains are running with delays.&lt;/P&gt;
-&lt;P&gt;Allow additional travel time.&lt;/P&gt;
+                  &lt;P&gt;Due to a train with mechanical problems at &lt;STRONG&gt;Franklin Av,&lt;/STRONG&gt; the following service changes are in effect:&lt;/P&gt;
+&lt;P&gt;Some southbound [2] and [3] trains terminate at &lt;STRONG&gt;Times Sq-42 St, Chambers St&lt;/STRONG&gt; or &lt;STRONG&gt;South Ferry.&lt;/STRONG&gt;&lt;/P&gt;
+&lt;P&gt;Some southbound [4] and [5] trains terminate at &lt;STRONG&gt;125 St, Grand Central-42 St&lt;/STRONG&gt; or &lt;STRONG&gt;Bowling Green.&lt;/STRONG&gt;&lt;/P&gt;
+&lt;P&gt;Expect delays on [2], [3], [4] and [5] trains.&lt;/P&gt;
+&lt;P&gt;Allow additional travel time&lt;/P&gt;
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>03/31/2017</Date>
-    <Time> 8:03AM</Time>
+    <Time> 8:10AM</Time>
   </line>
   <line>
     <name>7</name>
@@ -229,8 +235,19 @@
   </line>
   <line>
     <name>M1 - M116</name>
-    <status>SERVICE CHANGE</status>
+    <status>DELAYS</status>
     <text>
+                  &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                  &lt;span class="DateStyle"&gt;
+                  &amp;nbsp;Posted:&amp;nbsp;03/31/2017&amp;nbsp; 8:09AM
+                  &lt;/span&gt;
+                  &lt;br/&gt;
+                  &lt;br/&gt;
+                &lt;P&gt;&lt;STRONG&gt;Q48, Q70-SBS, &lt;/STRONG&gt;and &lt;STRONG&gt;M60-SBS&lt;/STRONG&gt; buses are running with delays in both directions, due to traffic conditions at LaGuardia Airport. &lt;/P&gt;
+&lt;P&gt;Allow additonal travel time.&lt;/P&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
                   &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
                   &lt;span class="DateStyle"&gt;
                   &amp;nbsp;Posted:&amp;nbsp;03/31/2017&amp;nbsp; 7:23AM
@@ -243,18 +260,6 @@
 &lt;P&gt;&lt;STRONG&gt;Eastbound&lt;/STRONG&gt;: From temporary stand continue to regular route.&lt;/P&gt;
 &lt;P&gt;Corresponding stops will be made along the detour route.&lt;/P&gt;
 &lt;P&gt;Allow additional travel time.&lt;/P&gt;
-              &lt;br/&gt;
-              &lt;br/&gt;
-            
-                  &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
-                  &lt;span class="DateStyle"&gt;
-                  &amp;nbsp;Posted:&amp;nbsp;03/31/2017&amp;nbsp; 7:15AM
-                  &lt;/span&gt;
-                  &lt;br/&gt;
-                  &lt;br/&gt;
-                &lt;P&gt;&lt;STRONG&gt;Q48, Q70-SBS, &lt;/STRONG&gt;and &lt;STRONG&gt;M60-SBS&lt;/STRONG&gt; buses are running with delays in both directions due to traffic conditions at LaGuardia Airport. &lt;/P&gt;
-&lt;P&gt;&lt;STRONG&gt;Q72 Southbound to Queens Blvd&lt;/STRONG&gt;: Via 102 St Bridge, right on 23 Av, left on 94 St and regular route.&lt;/P&gt;
-&lt;P&gt;Allow additonal travel time.&lt;/P&gt;
               &lt;br/&gt;
               &lt;br/&gt;
             
@@ -277,12 +282,23 @@
               &lt;br/&gt;
             </text>
     <Date>03/31/2017</Date>
-    <Time> 7:23AM</Time>
+    <Time> 8:09AM</Time>
   </line>
   <line>
     <name>Q1 - Q113</name>
     <status>DELAYS</status>
     <text>
+                  &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                  &lt;span class="DateStyle"&gt;
+                  &amp;nbsp;Posted:&amp;nbsp;03/31/2017&amp;nbsp; 8:09AM
+                  &lt;/span&gt;
+                  &lt;br/&gt;
+                  &lt;br/&gt;
+                &lt;P&gt;&lt;STRONG&gt;Q48, Q70-SBS, &lt;/STRONG&gt;and &lt;STRONG&gt;M60-SBS&lt;/STRONG&gt; buses are running with delays in both directions, due to traffic conditions at LaGuardia Airport. &lt;/P&gt;
+&lt;P&gt;Allow additonal travel time.&lt;/P&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
                   &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                   &lt;span class="DateStyle"&gt;
                   &amp;nbsp;Posted:&amp;nbsp;03/31/2017&amp;nbsp; 8:08AM
@@ -305,18 +321,6 @@
 &lt;P&gt;&lt;STRONG&gt;Eastbound:&lt;/STRONG&gt; Via 120 Ave, right on 233 St, left on 121 Av, right on Laurelton Pkwy and regular route.&lt;/P&gt;
 &lt;P&gt;Corresponding stops will be made along detour route.&lt;/P&gt;
 &lt;P&gt;Allow additional travel time.&lt;/P&gt;
-              &lt;br/&gt;
-              &lt;br/&gt;
-            
-                  &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
-                  &lt;span class="DateStyle"&gt;
-                  &amp;nbsp;Posted:&amp;nbsp;03/31/2017&amp;nbsp; 7:15AM
-                  &lt;/span&gt;
-                  &lt;br/&gt;
-                  &lt;br/&gt;
-                &lt;P&gt;&lt;STRONG&gt;Q48, Q70-SBS, &lt;/STRONG&gt;and &lt;STRONG&gt;M60-SBS&lt;/STRONG&gt; buses are running with delays in both directions due to traffic conditions at LaGuardia Airport. &lt;/P&gt;
-&lt;P&gt;&lt;STRONG&gt;Q72 Southbound to Queens Blvd&lt;/STRONG&gt;: Via 102 St Bridge, right on 23 Av, left on 94 St and regular route.&lt;/P&gt;
-&lt;P&gt;Allow additonal travel time.&lt;/P&gt;
               &lt;br/&gt;
               &lt;br/&gt;
             
@@ -369,7 +373,7 @@
               &lt;br/&gt;
             </text>
     <Date>03/31/2017</Date>
-    <Time> 8:08AM</Time>
+    <Time> 8:09AM</Time>
   </line>
   <line>
     <name>QM1 - QM44</name>
