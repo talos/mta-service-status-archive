@@ -1,19 +1,17 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>SERVICE CHANGE</status>
+    <status>DELAYS</status>
     <text>
-                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;04/01/2017&amp;nbsp; 6:07PM
+                    &amp;nbsp;Posted:&amp;nbsp;04/01/2017&amp;nbsp; 6:14PM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  &lt;P&gt;Due to a sick passenger at &lt;STRONG&gt;14 St&lt;/STRONG&gt;, northbound [1] trains are running express from&lt;STRONG&gt; Chambers St&lt;/STRONG&gt; to &lt;STRONG&gt;14 St.&lt;/STRONG&gt;&lt;/P&gt;
-&lt;P&gt;Expect delays on [2] and [3] trains.&lt;/P&gt;
-&lt;P&gt;Allow additional travel time.&lt;/P&gt;
+                  Following an earlier incident at &lt;STRONG&gt;14 St&lt;/STRONG&gt;, [1] train service has resumed with delays.
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>04/01/2017</Date>
-    <Time> 6:07PM</Time>
+    <Time> 6:14PM</Time>
   </line>
   <line>
     <name>456</name>
@@ -524,6 +522,13 @@
     <text>
                     &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;04/01/2017&amp;nbsp; 6:12PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  FINAL RFK: Disabled vehicle; Harlem River Drive ramp cleared.
+                &lt;br/&gt;&lt;br/&gt;
+              
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
                     &amp;nbsp;Posted:&amp;nbsp;04/01/2017&amp;nbsp; 6:07PM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
                   RFK: Disabled vehicle; On the Harlem River Drive ramp, expect delays.
@@ -535,7 +540,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>04/01/2017</Date>
-    <Time> 6:07PM</Time>
+    <Time> 6:12PM</Time>
   </line>
   <line>
     <name>Throgs Neck</name>
@@ -608,10 +613,17 @@
   </line>
   <line>
     <name>Montauk</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>DELAYS</status>
+    <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;04/01/2017&amp;nbsp; 6:13PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  The 5:50PM train from Speonk due Jamaica at 7:32PM is operating 22 minutes late due to an equipment problem prior to departure.
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>04/01/2017</Date>
+    <Time> 6:13PM</Time>
   </line>
   <line>
     <name>Oyster Bay</name>
