@@ -1,10 +1,20 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>SERVICE CHANGE</status>
+    <text>
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;04/01/2017&amp;nbsp; 6:20AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;P&gt;Due to a train with mechanical problems at &lt;STRONG&gt;Pennsylvania Av,&lt;/STRONG&gt; the following boarding changes are in effect:&lt;/P&gt;
+&lt;P&gt;[3] trains are stopping at the southbound track in both directions between &lt;STRONG&gt;New Lots Av&lt;/STRONG&gt; and &lt;STRONG&gt;Pennsylvania Av.&lt;/STRONG&gt;&lt;/P&gt;
+&lt;P&gt;Expect delays on the [3] train service in both directions.&lt;/P&gt;
+&lt;P&gt;Allow additional travel time.&lt;/P&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>04/01/2017</Date>
+    <Time> 6:20AM</Time>
   </line>
   <line>
     <name>456</name>
@@ -561,13 +571,15 @@
     <text>
                     &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;03/31/2017&amp;nbsp; 9:47PM
+                    &amp;nbsp;Posted:&amp;nbsp;04/01/2017&amp;nbsp; 6:19AM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  Substitute weekend bus service will be provided between Danbury and South Norwalk stations for select trains from Friday through Sunday March 31 - April 2 to allow for infrastructure improvements.   Buses will operate approximately 15 minutes earlier than scheduled trains. Please listen for announcements and check local or express bus service to your destination before boarding.  See bus schedules at http://web.mta.info/mnr/pdf/DanburyBusing032017.pdf
+                  &lt;P&gt;Substitute weekend bus service will be provided between Danbury and South Norwalk stations for select trains from Friday through Sunday March 31 - April 2 to allow for infrastructure improvements. &lt;/P&gt;
+&lt;P&gt;Buses will operate approximately 15 minutes earlier than scheduled trains. Please listen for announcements and check local or express bus service to your destination before boarding. &lt;/P&gt;
+&lt;P&gt;See bus schedules at http://web.mta.info/mnr/pdf/DanburyBusing032017.pdf&lt;/P&gt;
                 &lt;br/&gt;&lt;br/&gt;
               </text>
-    <Date>03/31/2017</Date>
-    <Time> 9:47PM</Time>
+    <Date>04/01/2017</Date>
+    <Time> 6:19AM</Time>
   </line>
   <line>
     <name>Waterbury</name>
