@@ -8,10 +8,18 @@
   </line>
   <line>
     <name>456</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>DELAYS</status>
+    <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;04/03/2017&amp;nbsp;10:00AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;P&gt;Due to sick customer at &lt;STRONG&gt;Brooklyn Bridge-City Hall&lt;/STRONG&gt;, [6] trains are running with delays in both directions.&lt;/P&gt;
+&lt;P&gt;Allow additional travel time.&lt;/P&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>04/03/2017</Date>
+    <Time>10:00AM</Time>
   </line>
   <line>
     <name>7</name>
@@ -29,17 +37,10 @@
   </line>
   <line>
     <name>BDFM</name>
-    <status>DELAYS</status>
-    <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;04/03/2017&amp;nbsp; 9:27AM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  Following an earlier incident at &lt;STRONG&gt;Neptune Av&lt;/STRONG&gt;, [F] train service has resumed with delays.
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>04/03/2017</Date>
-    <Time> 9:27AM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>G</name>
@@ -372,19 +373,15 @@
   </line>
   <line>
     <name>S40 - S98</name>
-    <status>SERVICE CHANGE</status>
+    <status>DELAYS</status>
     <text>
-                  &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                  &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                   &lt;span class="DateStyle"&gt;
-                  &amp;nbsp;Posted:&amp;nbsp;04/03/2017&amp;nbsp; 9:54AM
+                  &amp;nbsp;Posted:&amp;nbsp;04/03/2017&amp;nbsp;10:00AM
                   &lt;/span&gt;
                   &lt;br/&gt;
                   &lt;br/&gt;
-                &lt;P&gt;&lt;STRONG&gt;S52 &lt;/STRONG&gt;buses are detoured, due to road obstruction on Olympia Blvd at Norway Av. &lt;/P&gt;
-&lt;P&gt;Detour is as follows:&lt;/P&gt;
-&lt;P&gt;&lt;STRONG&gt;S52 to St George Ferry:&lt;/STRONG&gt; Via Olympia Blvd, right on Mallory Av, left on Foch Av, right on Norway Av and regular route.&lt;/P&gt;
-&lt;P&gt;&lt;STRONG&gt;S52 to S I University Hospital:&lt;/STRONG&gt; Via Norway Av, left on Foch Av, right on Mallory Av, left on Olympia Av and regular route.&lt;/P&gt;
-&lt;P&gt;Allow additional travel time.&lt;/P&gt;
+                Following an earlier incident on Olympia Blvd at Norway Av, &lt;STRONG&gt;S52&lt;/STRONG&gt; bus service has resumed with delays.
               &lt;br/&gt;
               &lt;br/&gt;
             
@@ -404,7 +401,7 @@
               &lt;br/&gt;
             </text>
     <Date>04/03/2017</Date>
-    <Time> 9:54AM</Time>
+    <Time>10:00AM</Time>
   </line>
   <line>
     <name>x1 - x68</name>
