@@ -17,10 +17,18 @@
   </line>
   <line>
     <name>456</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>DELAYS</status>
+    <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;04/04/2017&amp;nbsp; 7:32AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;P&gt;Due to signal problems at &lt;STRONG&gt;Whitlock Av&lt;/STRONG&gt;, southbound [6] trains are running with delays. &lt;/P&gt;
+&lt;P&gt;Allow additional travel time.&lt;/P&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>04/04/2017</Date>
+    <Time> 7:32AM</Time>
   </line>
   <line>
     <name>7</name>
@@ -109,10 +117,15 @@
   </line>
   <line>
     <name>S</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>PLANNED WORK</status>
+    <text>
+                    &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
+                    &lt;br/&gt;
+                  &lt;a class="plannedWorkDetailLink" onclick=ShowHide(149318);&gt;&lt;b&gt;[S] 42 Street Shuttle: Expect crowding on platforms and trains during Rush Hours&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 149318 class="plannedWorkDetail" &gt;&lt;/b&gt;Monday to Friday, beginning Apr 3 until Jul 2017&lt;br&gt;&lt;br&gt;Track 4 is out of service due to construction. &lt;br&gt;&lt;br&gt;Service between &lt;b&gt;Times Sq-42 St&lt;/b&gt; and &lt;b&gt;Grand Central-42 St &lt;/b&gt;operates on tracks 1 and 3.&lt;br&gt;&lt;br&gt;&lt;b&gt;Travel Alternatives:&lt;br&gt;&lt;br&gt;&lt;/b&gt;&amp;bull; Take the [7] between Grand Central-42 St and Times Sq-42 St.&lt;br&gt;&lt;br&gt;&amp;bull; Customers at Times Sq-42 St, who usually take the shuttle to the [4] [5] [6], can take the &lt;br&gt;   [N] [Q] [R] [W] to 14 St-Union Sq or [N] [R] [W] to Lexington Av-59 St instead.&lt;br&gt;                                                                                     &lt;a href=http://apps.mta.info/traintime/ target=_blank&gt;&lt;img height=26px src=http://apps.mta.info/traintime/desktop2Images/logoSm.png&gt;&lt;/a&gt;&lt;br&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>04/04/2017</Date>
+    <Time> 7:32AM</Time>
   </line>
   <line>
     <name>SIR</name>
@@ -180,7 +193,7 @@
               &lt;br/&gt;
             </text>
     <Date>04/04/2017</Date>
-    <Time> 7:27AM</Time>
+    <Time> 7:32AM</Time>
   </line>
   <line>
     <name>BM1 - BM5</name>
@@ -193,7 +206,7 @@
               &lt;br/&gt;
             </text>
     <Date>04/04/2017</Date>
-    <Time> 7:27AM</Time>
+    <Time> 7:32AM</Time>
   </line>
   <line>
     <name>BX1 - BX55</name>
@@ -206,7 +219,7 @@
               &lt;br/&gt;
             </text>
     <Date>04/04/2017</Date>
-    <Time> 7:27AM</Time>
+    <Time> 7:32AM</Time>
   </line>
   <line>
     <name>BXM1 - BXM18</name>
@@ -219,7 +232,7 @@
               &lt;br/&gt;
             </text>
     <Date>04/04/2017</Date>
-    <Time> 7:27AM</Time>
+    <Time> 7:32AM</Time>
   </line>
   <line>
     <name>M1 - M116</name>
@@ -238,7 +251,7 @@
               &lt;br/&gt;
             </text>
     <Date>04/04/2017</Date>
-    <Time> 7:27AM</Time>
+    <Time> 7:32AM</Time>
   </line>
   <line>
     <name>Q1 - Q113</name>
@@ -352,7 +365,7 @@
               &lt;br/&gt;
             </text>
     <Date>04/04/2017</Date>
-    <Time> 7:27AM</Time>
+    <Time> 7:32AM</Time>
   </line>
   <line>
     <name>S40 - S98</name>
@@ -536,15 +549,8 @@
   </line>
   <line>
     <name>Verrazano-Narrows</name>
-    <status>DELAYS</status>
+    <status>SERVICE CHANGE</status>
     <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;04/04/2017&amp;nbsp; 7:13AM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  VNB reports a collision lower level Brooklyn bound one lane blocked, expect delays.
-                &lt;br/&gt;&lt;br/&gt;
-              
                     &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
                     &amp;nbsp;Posted:&amp;nbsp;04/04/2017&amp;nbsp; 5:28AM
@@ -553,7 +559,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>04/04/2017</Date>
-    <Time> 7:13AM</Time>
+    <Time> 5:28AM</Time>
   </line>
 </BT><LIRR>
   <line>
@@ -578,9 +584,16 @@
               
                     &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;04/04/2017&amp;nbsp; 5:28AM
+                    &amp;nbsp;Posted:&amp;nbsp;04/04/2017&amp;nbsp; 7:32AM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  &lt;span&gt;The following trains are canceled:&lt;br&gt;&lt;/span&gt;&lt;ul&gt;&lt;li&gt;&lt;span&gt;The 6:13AM train from Massapequa Park due Penn at 7:08AM is canceled. Customers will be accommodated by the 6:26AM train from Massapequa Park due Penn 7:22AM&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;The 6:31AM train from Lindenhurst due Penn at 7:33AM is canceled. Customers will be accommodated by the 6:32AM from Babylon due Penn 7:37AM adding stops at Massapequa Park, Massapequa and Seaford&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;The 7:10AM train from Babylon due Penn 8:20AM is canceled. Customers will be accommodated by the 7:29AM train from Babylon due Atlantic Terminal 8:43AM. Transfer at Jamaica for service to Penn Station&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;The 7:48AM train from Wantagh due Penn 8:40AM is canceled at Jamaica. Customers transfer at Jamaica for service to Penn&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;The 8:10AM train from Freeport due Penn 8:50AM is canceled. Customers will be accommodated by the 7:45AM train from Babylon due Penn 8:56AM, adding stops at Freeport, Baldwin and Rockville Centre&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;The 8:35AM train from Babylon due Penn 9:37AM is canceled at Jamaica. Customers transfer at Jamaica for service to Penn.&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;
+                  &lt;SPAN&gt;The following trains are canceled:&lt;BR&gt;&lt;/SPAN&gt;
+&lt;UL&gt;
+&lt;LI&gt;&lt;SPAN&gt;The 6:13AM train from Massapequa Park due Penn at 7:08AM is canceled. Customers will be accommodated by the 6:26AM train from Massapequa Park due Penn 7:22AM&lt;/SPAN&gt;&lt;/LI&gt;
+&lt;LI&gt;&lt;SPAN&gt;The 6:31AM train from Lindenhurst due Penn at 7:33AM is canceled. Customers will be accommodated by the 6:32AM from Babylon due Penn 7:37AM adding stops at Massapequa Park, Massapequa and Seaford&lt;/SPAN&gt;&lt;/LI&gt;
+&lt;LI&gt;&lt;SPAN&gt;The 7:10AM train from Babylon due Penn 8:20AM is canceled. Customers will be accommodated by the 7:29AM train from Babylon due Atlantic Terminal 8:43AM. Transfer at Jamaica for service to Penn Station&lt;/SPAN&gt;&lt;/LI&gt;
+&lt;LI&gt;&lt;SPAN&gt;The 7:48AM train from Wantagh due Penn 8:40AM is canceled at Jamaica. Customers transfer at Jamaica for service to Penn&lt;/SPAN&gt;&lt;/LI&gt;
+&lt;LI&gt;&lt;SPAN&gt;The 8:10AM train from Freeport due Penn 8:50AM is canceled. Customers will be accommodated by the 7:45AM train from Babylon due Penn 8:56AM, adding stops at Freeport, Baldwin and Rockville Centre&lt;/SPAN&gt;&lt;/LI&gt;
+&lt;LI&gt;&lt;SPAN&gt;The 8:35AM train from Babylon due Penn 9:37AM is canceled at Jamaica. Customers transfer at Jamaica for service to Penn.&lt;/SPAN&gt;&lt;/LI&gt;&lt;/UL&gt;
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>04/04/2017</Date>
