@@ -30,10 +30,19 @@
   </line>
   <line>
     <name>ACE</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>SERVICE CHANGE</status>
+    <text>
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;04/04/2017&amp;nbsp; 8:39AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;P&gt;Due to switch problems at &lt;STRONG&gt;Hoyt-Schermerhorn&lt;/STRONG&gt;, southbound [A] trains are running local from &lt;STRONG&gt;Hoyt-Schermerhorn&lt;/STRONG&gt; to &lt;STRONG&gt;Utica Av&lt;/STRONG&gt;. &lt;/P&gt;
+&lt;P&gt;Expect delays in [C] train service.&lt;/P&gt;
+&lt;P&gt;Allow additional travel time.&lt;/P&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>04/04/2017</Date>
+    <Time> 8:39AM</Time>
   </line>
   <line>
     <name>BDFM</name>
@@ -294,8 +303,30 @@
   </line>
   <line>
     <name>Q1 - Q113</name>
-    <status>SERVICE CHANGE</status>
+    <status>DELAYS</status>
     <text>
+                  &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                  &lt;span class="DateStyle"&gt;
+                  &amp;nbsp;Posted:&amp;nbsp;04/04/2017&amp;nbsp; 8:39AM
+                  &lt;/span&gt;
+                  &lt;br/&gt;
+                  &lt;br/&gt;
+                &lt;P&gt;&lt;STRONG&gt;Q4, Q5, Q6, Q8, Q9, Q17, Q20A, Q20B, Q24, Q25, Q30, Q31, Q34, Q40, Q41, Q42, Q43, Q44-SBS, Q54, Q56, Q60, Q65 Q83, Q84, Q85, Q110, Q111, Q112, Q113-LTD&lt;/STRONG&gt; and &lt;STRONG&gt;Q114-LTD&lt;/STRONG&gt; bus service is running with delays in both directions due to traffic conditions on Archer Av and Jamaica Av between Sutphin Blvd and 168 St, on Sutphin Blvd between Hillside Av and Archer Av.&lt;/P&gt;
+&lt;P&gt;Allow additional travel time. &lt;BR&gt;&lt;/P&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
+                  &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                  &lt;span class="DateStyle"&gt;
+                  &amp;nbsp;Posted:&amp;nbsp;04/04/2017&amp;nbsp; 8:38AM
+                  &lt;/span&gt;
+                  &lt;br/&gt;
+                  &lt;br/&gt;
+                &lt;P&gt;&lt;STRONG&gt;Q46, Q46-Ltd, QM1, QM5, QM6, QM7, QM8, QM31, QM35&lt;/STRONG&gt; and &lt;STRONG&gt;QM36&lt;/STRONG&gt; buses are running with delays westbound, due to traffic conditions on Main St and Union Tpke.&lt;/P&gt;
+&lt;P&gt;Allow additional travel time.&lt;/P&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
                   &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
                   &lt;span class="DateStyle"&gt;
                   &amp;nbsp;Posted:&amp;nbsp;04/04/2017&amp;nbsp; 7:48AM
@@ -399,12 +430,23 @@
               &lt;br/&gt;
             </text>
     <Date>04/04/2017</Date>
-    <Time> 7:48AM</Time>
+    <Time> 8:39AM</Time>
   </line>
   <line>
     <name>QM1 - QM44</name>
-    <status>PLANNED WORK</status>
+    <status>DELAYS</status>
     <text>
+                  &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                  &lt;span class="DateStyle"&gt;
+                  &amp;nbsp;Posted:&amp;nbsp;04/04/2017&amp;nbsp; 8:38AM
+                  &lt;/span&gt;
+                  &lt;br/&gt;
+                  &lt;br/&gt;
+                &lt;P&gt;&lt;STRONG&gt;Q46, Q46-Ltd, QM1, QM5, QM6, QM7, QM8, QM31, QM35&lt;/STRONG&gt; and &lt;STRONG&gt;QM36&lt;/STRONG&gt; buses are running with delays westbound, due to traffic conditions on Main St and Union Tpke.&lt;/P&gt;
+&lt;P&gt;Allow additional travel time.&lt;/P&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
                   &lt;span class="TitlePlannedWork" &gt;Planned Detour&lt;/span&gt;
                   &lt;br/&gt;
                 &lt;a class="plannedWorkDetailLink" onclick=ShowHide(147045);&gt;&lt;b&gt;Q38, Q39, Q54, Q58/Q58 LTD, Q67, QM24, QM25 and QM34 buses may experience delays&lt;br clear=left&gt;due to construction on Metropolitan Av at Fresh Pond Rd&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 147045 class="plannedWorkDetail" &gt;&lt;/b&gt;Until further notice&lt;br&gt;&lt;br&gt;&amp;bull; Please allow additional travel time.&lt;br&gt;&lt;/font&gt;&lt;b&gt;          &lt;/b&gt;&lt;/font&gt;&lt;a href=http://bustime.mta.info/ target=_blank&gt;&lt;img height=30px src=http://web.mta.info/nyct/images/Bus_Time_logo.png&gt;&lt;/a&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
@@ -418,7 +460,7 @@
               &lt;br/&gt;
             </text>
     <Date>04/04/2017</Date>
-    <Time> 8:32AM</Time>
+    <Time> 8:38AM</Time>
   </line>
   <line>
     <name>S40 - S98</name>
@@ -686,9 +728,13 @@
               
                     &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;04/04/2017&amp;nbsp; 8:31AM
+                    &amp;nbsp;Posted:&amp;nbsp;04/04/2017&amp;nbsp; 8:39AM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  The 7:41AM train from Oyster Bay due Hunterspoint Ave. at 8:55AM is being delayed at East Williston Station due to congestion caused by a customer in need of medical assistance on a train ahead.
+                  &lt;P&gt;&lt;STRONG&gt;&lt;U&gt;Westbound:&lt;/U&gt;&lt;/STRONG&gt;&lt;/P&gt;
+&lt;P&gt;The 7:41AM train from Oyster Bay due Hunterspoint Ave. at 8:55AM is operating 16 minutes late after being delayed at East Williston Station due to a customer in need of medical assistance on a train ahead.&lt;/P&gt;
+&lt;P&gt; &lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;&lt;U&gt;Eastbound:&lt;/U&gt;&lt;/STRONG&gt;&lt;/P&gt;
+&lt;P&gt;The 8:06AM train from Jamaica due Oyster Bay at 9:03AM is being delayed at New Hyde Park Station due to congestion caused by a customer in need of medical assistance on a train ahead. &lt;/P&gt;
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>04/04/2017</Date>
@@ -805,9 +851,13 @@
               
                     &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;04/04/2017&amp;nbsp; 8:31AM
+                    &amp;nbsp;Posted:&amp;nbsp;04/04/2017&amp;nbsp; 8:39AM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  The 7:41AM train from Oyster Bay due Hunterspoint Ave. at 8:55AM is being delayed at East Williston Station due to congestion caused by a customer in need of medical assistance on a train ahead.
+                  &lt;P&gt;&lt;STRONG&gt;&lt;U&gt;Westbound:&lt;/U&gt;&lt;/STRONG&gt;&lt;/P&gt;
+&lt;P&gt;The 7:41AM train from Oyster Bay due Hunterspoint Ave. at 8:55AM is operating 16 minutes late after being delayed at East Williston Station due to a customer in need of medical assistance on a train ahead.&lt;/P&gt;
+&lt;P&gt; &lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;&lt;U&gt;Eastbound:&lt;/U&gt;&lt;/STRONG&gt;&lt;/P&gt;
+&lt;P&gt;The 8:06AM train from Jamaica due Oyster Bay at 9:03AM is being delayed at New Hyde Park Station due to congestion caused by a customer in need of medical assistance on a train ahead. &lt;/P&gt;
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>04/04/2017</Date>
@@ -893,9 +943,9 @@ Neck adding a stop at Woodside.&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;
               
                     &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;04/04/2017&amp;nbsp; 8:32AM
+                    &amp;nbsp;Posted:&amp;nbsp;04/04/2017&amp;nbsp; 8:38AM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  The 7:39AM train from Penn due Ronkonkoma at 8:59AM is operating 14 minutes late due to a late train train ahead.&lt;br&gt;&lt;br&gt;&lt;p&gt;&lt;font face="Arial" size="2"&gt;The following trains are canceled: &lt;br&gt;&lt;/font&gt;&lt;/p&gt;
+                  The 7:32AM train from Ronkonkoma due Penn at 8:47AM is operating 22 minutes late due to a customer needing medical assistance at Mineola.&lt;br&gt;The 7:39AM train from Penn due Ronkonkoma at 8:59AM is operating 14 minutes late due to a late train train ahead.&lt;br&gt;The 7:40AM train from Ronkonkoma due Atlantic Terminal at 9:01AM is operating 10 minutes late due to a train ahead with a customer needing medical assistance.&lt;br&gt;&lt;br&gt;&lt;p&gt;&lt;font face="Arial" size="2"&gt;The following trains are canceled: &lt;br&gt;&lt;/font&gt;&lt;/p&gt;
 &lt;ul&gt;
 
 &lt;li&gt;&lt;font face="Arial" size="2"&gt;The 7:58AM train from Bethpage due Penn at 8:53AM has been cancelled for today due to a broken rail east of Jamaica Station.&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;
