@@ -432,17 +432,10 @@
 </BT><LIRR>
   <line>
     <name>Babylon</name>
-    <status>SERVICE CHANGE</status>
-    <text>
-                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;04/04/2017&amp;nbsp;12:14AM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  The 11:14PM train from Babylon due Penn at 12:29AM is canceled at Jamaica due to equipment trouble. Customers will be accommodated by the 12:16AM from Jamaica due Penn 12:35AM. &lt;br&gt;
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>04/04/2017</Date>
-    <Time>12:14AM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>City Terminal Zone</name>
@@ -495,10 +488,17 @@
   </line>
   <line>
     <name>Port Jefferson</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>DELAYS</status>
+    <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;04/04/2017&amp;nbsp;12:17AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  The 11:42PM train from Penn due Huntington at 12:48AM is delayed at Jamaica due to a track condition east of Jamaica.
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>04/04/2017</Date>
+    <Time>12:17AM</Time>
   </line>
   <line>
     <name>Port Washington</name>
