@@ -1,10 +1,18 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>DELAYS</status>
+    <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;04/04/2017&amp;nbsp; 6:35PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;P&gt;Due to FDNY activity at&lt;STRONG&gt; 34 St-Penn Station&lt;/STRONG&gt;, northbound [1], [2] and [3] trains are running with delays.&lt;/P&gt;
+&lt;P&gt;Allow additional travel time.&lt;/P&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>04/04/2017</Date>
+    <Time> 6:35PM</Time>
   </line>
   <line>
     <name>456</name>
@@ -691,15 +699,8 @@
   </line>
   <line>
     <name>Far Rockaway</name>
-    <status>DELAYS</status>
+    <status>SERVICE CHANGE</status>
     <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;04/04/2017&amp;nbsp; 6:08PM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  The 5:32PM train from Penn due Far Rockaway at 6:24PM is operating 11 minutes late due to a NJ Transit derailment in Penn Station.
-                &lt;br/&gt;&lt;br/&gt;
-              
                     &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
                     &amp;nbsp;Posted:&amp;nbsp;04/04/2017&amp;nbsp; 6:01PM
@@ -717,7 +718,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>04/04/2017</Date>
-    <Time> 6:08PM</Time>
+    <Time> 6:01PM</Time>
   </line>
   <line>
     <name>Hempstead</name>
