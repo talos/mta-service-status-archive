@@ -1,10 +1,17 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>DELAYS</status>
+    <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;04/04/2017&amp;nbsp; 9:06AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  Due to earlier incident at &lt;STRONG&gt;Fulton St&lt;/STRONG&gt; [2] and [3] train service has resumed with delays.
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>04/04/2017</Date>
+    <Time> 9:06AM</Time>
   </line>
   <line>
     <name>456</name>
@@ -112,7 +119,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>04/04/2017</Date>
-    <Time> 9:02AM</Time>
+    <Time> 9:07AM</Time>
   </line>
   <line>
     <name>SIR</name>
@@ -124,7 +131,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>04/04/2017</Date>
-    <Time> 9:02AM</Time>
+    <Time> 9:07AM</Time>
   </line>
 </subway><bus>
   <line>
@@ -283,7 +290,7 @@
               &lt;br/&gt;
             </text>
     <Date>04/04/2017</Date>
-    <Time> 9:02AM</Time>
+    <Time> 9:07AM</Time>
   </line>
   <line>
     <name>BXM1 - BXM18</name>
@@ -296,7 +303,7 @@
               &lt;br/&gt;
             </text>
     <Date>04/04/2017</Date>
-    <Time> 9:02AM</Time>
+    <Time> 9:07AM</Time>
   </line>
   <line>
     <name>M1 - M116</name>
@@ -315,12 +322,23 @@
               &lt;br/&gt;
             </text>
     <Date>04/04/2017</Date>
-    <Time> 9:02AM</Time>
+    <Time> 9:07AM</Time>
   </line>
   <line>
     <name>Q1 - Q113</name>
     <status>DELAYS</status>
     <text>
+                  &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                  &lt;span class="DateStyle"&gt;
+                  &amp;nbsp;Posted:&amp;nbsp;04/04/2017&amp;nbsp; 9:07AM
+                  &lt;/span&gt;
+                  &lt;br/&gt;
+                  &lt;br/&gt;
+                &lt;P&gt;&lt;STRONG&gt;Q12, Q13, Q15, Q15A, Q16, Q17, Q19, Q20A, Q20B, Q25, Q26, Q27, Q28, Q34, Q44-SBS, Q48, Q50, Q65&lt;/STRONG&gt; and&lt;STRONG&gt; Q66 &lt;/STRONG&gt;buses are delayed, due to traffic conditions in downtown Flushing area. &lt;/P&gt;
+&lt;P&gt;Allow additional travel time.&lt;/P&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
                   &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                   &lt;span class="DateStyle"&gt;
                   &amp;nbsp;Posted:&amp;nbsp;04/04/2017&amp;nbsp; 8:59AM
@@ -443,7 +461,7 @@
               &lt;br/&gt;
             </text>
     <Date>04/04/2017</Date>
-    <Time> 8:59AM</Time>
+    <Time> 9:07AM</Time>
   </line>
   <line>
     <name>QM1 - QM44</name>
@@ -907,6 +925,13 @@
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
                   &lt;span&gt;On Tuesday, April 4, the LIRR will cancel/combine 14 morning rush hour trains, due to reduced track capacity in Penn Station following Monday's NJ Transit derailment. One train will be diverted to Hunterspoint Ave. Please allow extra travel time and listen for announcements. For the full list of cancel/combine trains please visit &lt;a href="https://goo.gl/p51vhw"&gt;https://goo.gl/p51vhw&lt;/a&gt;&lt;/span&gt;
                 &lt;br/&gt;&lt;br/&gt;
+              
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;04/04/2017&amp;nbsp; 9:06AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  7:37AM train from Huntington due Penn at 8:37AM is operating 25 minutes late after making adding stops to accommodate customers from an earlier canceled train.
+                &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>04/04/2017</Date>
     <Time> 8:12AM</Time>
@@ -950,14 +975,11 @@
                   &lt;span&gt;On Tuesday, April 4, the LIRR will cancel/combine 14 morning rush hour trains, due to reduced track capacity in Penn Station following Monday's NJ Transit derailment. One train will be diverted to Hunterspoint Ave. Please allow extra travel time and listen for announcements. For the full list of cancel/combine trains please visit &lt;a href="https://goo.gl/p51vhw"&gt;https://goo.gl/p51vhw&lt;/a&gt;&lt;/span&gt;
                 &lt;br/&gt;&lt;br/&gt;
               
-                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;04/04/2017&amp;nbsp; 8:38AM
+                    &amp;nbsp;Posted:&amp;nbsp;04/04/2017&amp;nbsp; 9:06AM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  The 7:32AM train from Ronkonkoma due Penn at 8:47AM is operating 22 minutes late due to a customer needing medical assistance at Mineola.&lt;br&gt;The 7:39AM train from Penn due Ronkonkoma at 8:59AM is operating 14 minutes late due to a late train train ahead.&lt;br&gt;The 7:40AM train from Ronkonkoma due Atlantic Terminal at 9:01AM is operating 10 minutes late due to a train ahead with a customer needing medical assistance.&lt;br&gt;&lt;br&gt;&lt;p&gt;&lt;font face="Arial" size="2"&gt;The following trains are canceled: &lt;br&gt;&lt;/font&gt;&lt;/p&gt;
-&lt;ul&gt;
-
-&lt;li&gt;&lt;font face="Arial" size="2"&gt;The 7:58AM train from Bethpage due Penn at 8:53AM has been cancelled for today due to a broken rail east of Jamaica Station.&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;
+                  The 7:32AM train from Ronkonkoma due Penn at 8:47AM is operating 22 minutes late due to a customer needing medical assistance at Mineola.&lt;br&gt;The 7:40AM train from Ronkonkoma due Atlantic Terminal at 9:01AM is operating 10 minutes late due to a train ahead with a customer needing medical assistance.&lt;br&gt;&lt;br&gt;The 7:39AM train from Penn due Ronkonkoma at 8:59AM is operating 14 minutes late due to a late train train ahead.&lt;br&gt;&lt;br&gt;&lt;br&gt;
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>04/04/2017</Date>
