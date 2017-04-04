@@ -8,10 +8,18 @@
   </line>
   <line>
     <name>456</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>SERVICE CHANGE</status>
+    <text>
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;04/04/2017&amp;nbsp; 3:32PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;P&gt;Due to NYPD activity at &lt;STRONG&gt;167 S&lt;/STRONG&gt;t, northbound [4] trains are running express from &lt;STRONG&gt;149 St-Grand Concourse&lt;/STRONG&gt; to &lt;STRONG&gt;Burnside Av&lt;/STRONG&gt;. &lt;/P&gt;
+&lt;P&gt;Allow additional travel time.&lt;/P&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>04/04/2017</Date>
+    <Time> 3:32PM</Time>
   </line>
   <line>
     <name>7</name>
@@ -250,7 +258,7 @@
               &lt;br/&gt;
             </text>
     <Date>04/04/2017</Date>
-    <Time> 3:27PM</Time>
+    <Time> 3:32PM</Time>
   </line>
   <line>
     <name>BXM1 - BXM18</name>
@@ -263,7 +271,7 @@
               &lt;br/&gt;
             </text>
     <Date>04/04/2017</Date>
-    <Time> 3:27PM</Time>
+    <Time> 3:32PM</Time>
   </line>
   <line>
     <name>M1 - M116</name>
@@ -282,7 +290,7 @@
               &lt;br/&gt;
             </text>
     <Date>04/04/2017</Date>
-    <Time> 3:27PM</Time>
+    <Time> 3:32PM</Time>
   </line>
   <line>
     <name>Q1 - Q113</name>
@@ -608,8 +616,13 @@
   </line>
   <line>
     <name>Verrazano-Narrows</name>
-    <status>SERVICE CHANGE</status>
+    <status>PLANNED WORK</status>
     <text>
+                    &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
+                    &lt;br/&gt;
+                  VNB: PLANNED WORK; Brooklyn bound upper level. One lane closed. EXPECT DELAYS
+                &lt;br/&gt;&lt;br/&gt;
+              
                     &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
                     &amp;nbsp;Posted:&amp;nbsp;04/04/2017&amp;nbsp; 5:28AM
@@ -618,7 +631,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>04/04/2017</Date>
-    <Time> 5:28AM</Time>
+    <Time> 3:30PM</Time>
   </line>
 </BT><LIRR>
   <line>
