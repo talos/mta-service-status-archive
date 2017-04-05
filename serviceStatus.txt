@@ -1,17 +1,32 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>PLANNED WORK</status>
+    <text>
+                    &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
+                    &lt;br/&gt;
+                  &lt;a class="plannedWorkDetailLink" onclick=ShowHide(152646);&gt;&lt;b&gt;[2] Flatbush Av-bound trains skip Burke Av, Allerton Av, Pelham Pkwy and Bronx Park East&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 152646 class="plannedWorkDetail" &gt;&lt;/b&gt;Day, 10:15 AM to 3 PM, Wednesday, Apr 5&lt;br&gt;&lt;br&gt;For service&lt;i&gt; to&lt;/i&gt; these stations, take the [2] to E 180 St and transfer to a Wakefield-bound [2].&lt;br&gt;&lt;br&gt;For service &lt;i&gt;from&lt;/i&gt; these stations, take the [2] to Gun Hill Rd and transfer to a Flatbush Av-bound [2].&lt;br&gt;&lt;br&gt;&lt;b&gt;&lt;i&gt;Alternate travel note:&lt;br&gt;&lt;/b&gt;&lt;/i&gt;For service &lt;i&gt;to &lt;/i&gt;these stations, transfer to the &lt;a href=http://web.mta.info/nyct/bus/schedule/bronx/bx039cur.pdf target=_blank&gt;&lt;font color=#0000FF&gt;&lt;b&gt;&lt;u&gt;Bx39&lt;/u&gt;&lt;/b&gt;&lt;/font&gt;&lt;/a&gt; bus at Gun Hill Rd.&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>04/05/2017</Date>
+    <Time>10:22AM</Time>
   </line>
   <line>
     <name>456</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>PLANNED WORK</status>
+    <text>
+                    &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
+                    &lt;br/&gt;
+                  &lt;a class="plannedWorkDetailLink" onclick=ShowHide(149187);&gt;&lt;b&gt;[6D] Brooklyn Bridge-bound trains run local from Parkchester to 3 Av-138 St&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 149187 class="plannedWorkDetail" &gt;&lt;/b&gt;Days, 10:15 AM to 1 PM, Wed to Fri, Apr 5 - 7&lt;br&gt;&lt;br&gt;&amp;bull; Please allow additional travel time.&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              
+                    &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
+                    &lt;br/&gt;
+                  &lt;a class="plannedWorkDetailLink" onclick=ShowHide(149974);&gt;&lt;b&gt;[6] Pelham Bay Park-bound trains run express from Hunts Point Av to Parkchester&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 149974 class="plannedWorkDetail" &gt;&lt;/b&gt;Days, 10:15 AM to 3 PM, Wed to Fri, Apr 5 - 7&lt;br&gt;&lt;br&gt;&lt;/font&gt;For service &lt;i&gt;to &lt;/i&gt;Whitlock, Elder Avs, Morrison Av-Soundview and St Lawrence Av,&lt;br&gt;take the [6] to Parkchester and transfer to a Brooklyn Bridge-bound [6].&lt;br&gt;&lt;br&gt;For service &lt;i&gt;from &lt;/i&gt;these stations, take the [6] to Hunts Point Av and transfer&lt;br&gt;to a Pelham Bay Park-bound [6].&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>04/05/2017</Date>
+    <Time>10:22AM</Time>
   </line>
   <line>
     <name>7</name>
@@ -45,7 +60,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>04/05/2017</Date>
-    <Time>10:12AM</Time>
+    <Time>10:22AM</Time>
   </line>
   <line>
     <name>G</name>
@@ -76,9 +91,14 @@
                     &lt;br/&gt;
                   &lt;a class="plannedWorkDetailLink" onclick=ShowHide(152331);&gt;&lt;b&gt;[N] Astoria-bound trains run via the [D] from Stillwell Av to 36 St&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 152331 class="plannedWorkDetail" &gt;&lt;/b&gt;Days, 9:45 AM to 3 PM, Wed to Fri, Apr 5 - 7   &lt;br&gt;&lt;br&gt;&lt;/font&gt;For service&lt;i&gt; to&lt;/i&gt; &lt;b&gt;86 St&lt;/b&gt;, &lt;b&gt;Avenue U&lt;/b&gt;, &lt;b&gt;Kings Hwy&lt;/b&gt;,&lt;b&gt; Bay Pkwy&lt;/b&gt;, &lt;b&gt;20&lt;/b&gt; and &lt;b&gt;18 Avs&lt;/b&gt;,&lt;br&gt;take the [D] or [N] to 62 St-New Utrecht Av and transfer to a Coney Island-bound [D]* or [N].&lt;br&gt;&lt;br&gt;For service&lt;i&gt; to&lt;/i&gt; &lt;b&gt;Fort Hamilton Pkwy&lt;/b&gt; and &lt;b&gt;8 Av&lt;/b&gt;, take the [D] or [N] to 36 St and transfer&lt;br&gt;to a Coney Island-bound [D] or [N].&lt;br&gt;&lt;br&gt;For service &lt;i&gt;from &lt;/i&gt;these stations, take the [D] or [N] to New Utrecht Av-62 St or Stillwell Av&lt;br&gt;and transfer to an Astoria-bound [N].&lt;br&gt;&lt;br&gt;For &lt;b&gt;59&lt;/b&gt; &lt;b&gt;St&lt;/b&gt;, take the [R] instead. Transfer between trains at 36 St.&lt;br&gt;&lt;br&gt;&lt;i&gt;*Coney Island-bound [D] trains run via the [N] from 36 St, Brooklyn to Stillwell Av during this time. &lt;br&gt;&lt;/i&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
                 &lt;br/&gt;&lt;br/&gt;
+              
+                    &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
+                    &lt;br/&gt;
+                  &lt;a class="plannedWorkDetailLink" onclick=ShowHide(150742);&gt;&lt;b&gt;[N] [W] Astoria-bound trains skip 39 Av, 36 Av, Broadway and 30 Av&lt;br clear=left&gt;[W] Trains run every 20 minutes&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 150742 class="plannedWorkDetail" &gt;&lt;/b&gt;Days, 10:15 AM to 3 PM, Tue to Fri, Apr 4 - 7&lt;br&gt;&lt;br&gt;For service&lt;i&gt; to&lt;/i&gt; these stations, take the [N] or [W] to Astoria Blvd and transfer to a &lt;br&gt;Manhattan-bound [N] or [W].&lt;br&gt;&lt;br&gt;For service&lt;i&gt; from &lt;/i&gt;these stations, take the [N] or [W] to Queensboro Plaza and transfer to an&lt;br&gt;Astoria-bound [N] or [W].&lt;br&gt;&lt;br&gt;&amp;bull; Please allow additional travel time.&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+                &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>04/05/2017</Date>
-    <Time>10:12AM</Time>
+    <Time>10:22AM</Time>
   </line>
   <line>
     <name>S</name>
@@ -97,13 +117,39 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>04/05/2017</Date>
-    <Time>10:12AM</Time>
+    <Time>10:22AM</Time>
   </line>
 </subway><bus>
   <line>
     <name>B1 - B84</name>
     <status>DELAYS</status>
     <text>
+                  &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                  &lt;span class="DateStyle"&gt;
+                  &amp;nbsp;Posted:&amp;nbsp;04/05/2017&amp;nbsp;10:22AM
+                  &lt;/span&gt;
+                  &lt;br/&gt;
+                  &lt;br/&gt;
+                &lt;P&gt;&lt;STRONG&gt;B38, B41, B45, B57, B61, B62, B65, B67&lt;/STRONG&gt; and &lt;STRONG&gt;B103&lt;/STRONG&gt; buses are running with delays in both directions, due to traffic conditions on Livingston St between Flatbush Av and Court St. &lt;/P&gt;
+&lt;P&gt;Allow additional travel time.&lt;/P&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
+                  &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                  &lt;span class="DateStyle"&gt;
+                  &amp;nbsp;Posted:&amp;nbsp;04/05/2017&amp;nbsp;10:20AM
+                  &lt;/span&gt;
+                  &lt;br/&gt;
+                  &lt;br/&gt;
+                &lt;P&gt;&lt;STRONG&gt;B16&lt;/STRONG&gt; buses are detoured, due to paving on Shore Rd between 87 St and 75 St.&lt;/P&gt;
+&lt;P&gt;Detour is as follows:&lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;B16 Shore Rd-bound&lt;/STRONG&gt;: Via 86 St, left on Narrows Rd, left on Shore Rd and regular route.&lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;B16 Lincoln Rd Bound&lt;/STRONG&gt;: Via 12 Av, left on Chester Av, right on Fort Hamilton Pkwy and regular route.&lt;/P&gt;
+&lt;P&gt;Corresponding stops will be made along detour route.&lt;/P&gt;
+&lt;P&gt;Allow additional travel time.&lt;/P&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
                   &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                   &lt;span class="DateStyle"&gt;
                   &amp;nbsp;Posted:&amp;nbsp;04/05/2017&amp;nbsp;10:19AM
@@ -172,32 +218,6 @@
               &lt;br/&gt;
               &lt;br/&gt;
             
-                  &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
-                  &lt;span class="DateStyle"&gt;
-                  &amp;nbsp;Posted:&amp;nbsp;04/05/2017&amp;nbsp; 8:54AM
-                  &lt;/span&gt;
-                  &lt;br/&gt;
-                  &lt;br/&gt;
-                &lt;P&gt;&lt;STRONG&gt;B16&lt;/STRONG&gt; buses are detoured, due to paving on Shore Rd between 87 St and 75 St.&lt;/P&gt;
-&lt;P&gt;Detour is as follows:&lt;/P&gt;
-&lt;P&gt;&lt;STRONG&gt;B16 Shore Rd-bound&lt;/STRONG&gt;: Via 86 St, left on Narrows Rd, left on Shore Rd and regular route.&lt;/P&gt;
-&lt;P&gt;&lt;STRONG&gt;B16 Lincoln Rd Bound&lt;/STRONG&gt;: Via 12 Av, left on Chester Av, right on Fort Hamilton Pkwy and regular route.&lt;/P&gt;
-&lt;P&gt;Corresponding stops will be made along detour route.&lt;/P&gt;
-&lt;P&gt;Allow additional travel time.&lt;/P&gt;
-              &lt;br/&gt;
-              &lt;br/&gt;
-            
-                  &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                  &lt;span class="DateStyle"&gt;
-                  &amp;nbsp;Posted:&amp;nbsp;04/05/2017&amp;nbsp; 7:39AM
-                  &lt;/span&gt;
-                  &lt;br/&gt;
-                  &lt;br/&gt;
-                &lt;P&gt;&lt;STRONG&gt;B38, B41, B45, B57, B61, B62, B65, B67&lt;/STRONG&gt; and &lt;STRONG&gt;B103&lt;/STRONG&gt; buses are running with delays in both directions, due to traffic conditions on Livingston St between Flatbush Av and Court St. &lt;/P&gt;
-&lt;P&gt;Allow additional travel time.&lt;/P&gt;
-              &lt;br/&gt;
-              &lt;br/&gt;
-            
                   &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                   &lt;span class="DateStyle"&gt;
                   &amp;nbsp;Posted:&amp;nbsp;04/05/2017&amp;nbsp; 7:25AM
@@ -250,7 +270,7 @@
               &lt;br/&gt;
             </text>
     <Date>04/05/2017</Date>
-    <Time>10:19AM</Time>
+    <Time>10:22AM</Time>
   </line>
   <line>
     <name>B100 - B103</name>
@@ -258,7 +278,7 @@
     <text>
                   &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                   &lt;span class="DateStyle"&gt;
-                  &amp;nbsp;Posted:&amp;nbsp;04/05/2017&amp;nbsp; 7:39AM
+                  &amp;nbsp;Posted:&amp;nbsp;04/05/2017&amp;nbsp;10:22AM
                   &lt;/span&gt;
                   &lt;br/&gt;
                   &lt;br/&gt;
@@ -268,7 +288,7 @@
               &lt;br/&gt;
             </text>
     <Date>04/05/2017</Date>
-    <Time> 7:39AM</Time>
+    <Time>10:22AM</Time>
   </line>
   <line>
     <name>BM1 - BM5</name>
@@ -299,7 +319,7 @@
               &lt;br/&gt;
             </text>
     <Date>04/05/2017</Date>
-    <Time>10:12AM</Time>
+    <Time>10:22AM</Time>
   </line>
   <line>
     <name>BXM1 - BXM18</name>
@@ -312,7 +332,7 @@
               &lt;br/&gt;
             </text>
     <Date>04/05/2017</Date>
-    <Time>10:12AM</Time>
+    <Time>10:22AM</Time>
   </line>
   <line>
     <name>M1 - M116</name>
@@ -363,8 +383,30 @@
   </line>
   <line>
     <name>Q1 - Q113</name>
-    <status>SERVICE CHANGE</status>
+    <status>DELAYS</status>
     <text>
+                  &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                  &lt;span class="DateStyle"&gt;
+                  &amp;nbsp;Posted:&amp;nbsp;04/05/2017&amp;nbsp;10:21AM
+                  &lt;/span&gt;
+                  &lt;br/&gt;
+                  &lt;br/&gt;
+                &lt;P&gt;&lt;STRONG&gt;Q58&lt;/STRONG&gt; and &lt;STRONG&gt;Q88&lt;/STRONG&gt; buses are running with delays in both directions, due to traffic conditions on the LIE between 108 St and College Point Blvd.&lt;/P&gt;
+&lt;P&gt;Allow additional travel time.&lt;/P&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
+                  &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                  &lt;span class="DateStyle"&gt;
+                  &amp;nbsp;Posted:&amp;nbsp;04/05/2017&amp;nbsp;10:21AM
+                  &lt;/span&gt;
+                  &lt;br/&gt;
+                  &lt;br/&gt;
+                &lt;P&gt;&lt;STRONG&gt;Q55&lt;/STRONG&gt; buses are running with delays in both directions due to construction on Myrtle Av from Forest Av to 71 Av. &lt;/P&gt;
+&lt;P&gt;Allow additional travel time.&lt;/P&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
                   &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
                   &lt;span class="DateStyle"&gt;
                   &amp;nbsp;Posted:&amp;nbsp;04/05/2017&amp;nbsp;10:20AM
@@ -484,28 +526,6 @@
             
                   &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                   &lt;span class="DateStyle"&gt;
-                  &amp;nbsp;Posted:&amp;nbsp;04/05/2017&amp;nbsp; 7:34AM
-                  &lt;/span&gt;
-                  &lt;br/&gt;
-                  &lt;br/&gt;
-                &lt;P&gt;&lt;STRONG&gt;Q58&lt;/STRONG&gt; and &lt;STRONG&gt;Q88&lt;/STRONG&gt; buses are running with delays in both directions, due to traffic conditions on the LIE between 108 St and College Point Blvd.&lt;/P&gt;
-&lt;P&gt;Allow additional travel time.&lt;/P&gt;
-              &lt;br/&gt;
-              &lt;br/&gt;
-            
-                  &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                  &lt;span class="DateStyle"&gt;
-                  &amp;nbsp;Posted:&amp;nbsp;04/05/2017&amp;nbsp; 7:34AM
-                  &lt;/span&gt;
-                  &lt;br/&gt;
-                  &lt;br/&gt;
-                &lt;P&gt;&lt;STRONG&gt;Q55&lt;/STRONG&gt; buses are running with delays in both directions due to construction on Myrtle Av from Forest Av to 71 Av. &lt;/P&gt;
-&lt;P&gt;Allow additional travel time.&lt;/P&gt;
-              &lt;br/&gt;
-              &lt;br/&gt;
-            
-                  &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                  &lt;span class="DateStyle"&gt;
                   &amp;nbsp;Posted:&amp;nbsp;04/05/2017&amp;nbsp; 7:23AM
                   &lt;/span&gt;
                   &lt;br/&gt;
@@ -548,7 +568,7 @@
               &lt;br/&gt;
             </text>
     <Date>04/05/2017</Date>
-    <Time>10:20AM</Time>
+    <Time>10:21AM</Time>
   </line>
   <line>
     <name>QM1 - QM44</name>
