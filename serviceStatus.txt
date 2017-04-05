@@ -1,10 +1,18 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>SERVICE CHANGE</status>
+    <text>
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;04/04/2017&amp;nbsp;11:29PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;P&gt;Due to an unruly passenger at &lt;STRONG&gt;Times&lt;/STRONG&gt; &lt;STRONG&gt;Square-42 St,&lt;/STRONG&gt; southbound [1] trains are running express from &lt;STRONG&gt;72 St&lt;/STRONG&gt; to&lt;STRONG&gt; Times&lt;/STRONG&gt; &lt;STRONG&gt;Square-42 St.&lt;/STRONG&gt; &lt;/P&gt;
+&lt;P&gt;Allow additional travel time. &lt;/P&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>04/04/2017</Date>
+    <Time>11:29PM</Time>
   </line>
   <line>
     <name>456</name>
@@ -306,37 +314,17 @@
   </line>
   <line>
     <name>S40 - S98</name>
-    <status>DELAYS</status>
-    <text>
-                  &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                  &lt;span class="DateStyle"&gt;
-                  &amp;nbsp;Posted:&amp;nbsp;04/04/2017&amp;nbsp;10:59PM
-                  &lt;/span&gt;
-                  &lt;br/&gt;
-                  &lt;br/&gt;
-                Following earlier inclement weather, Staten Island &lt;STRONG&gt;Local, Limited,&lt;/STRONG&gt; &lt;STRONG&gt;Select&lt;/STRONG&gt; and &lt;STRONG&gt;Express &lt;/STRONG&gt;bus service has resumed with delays.
-              &lt;br/&gt;
-              &lt;br/&gt;
-            </text>
-    <Date>04/04/2017</Date>
-    <Time>10:59PM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>x1 - x68</name>
-    <status>DELAYS</status>
-    <text>
-                  &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                  &lt;span class="DateStyle"&gt;
-                  &amp;nbsp;Posted:&amp;nbsp;04/04/2017&amp;nbsp;10:59PM
-                  &lt;/span&gt;
-                  &lt;br/&gt;
-                  &lt;br/&gt;
-                Following earlier inclement weather, Staten Island &lt;STRONG&gt;Local, Limited,&lt;/STRONG&gt; &lt;STRONG&gt;Select&lt;/STRONG&gt; and &lt;STRONG&gt;Express &lt;/STRONG&gt;bus service has resumed with delays.
-              &lt;br/&gt;
-              &lt;br/&gt;
-            </text>
-    <Date>04/04/2017</Date>
-    <Time>10:59PM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
 </bus><BT>
   <line>
