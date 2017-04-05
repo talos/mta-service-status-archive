@@ -1,17 +1,10 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>DELAYS</status>
-    <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;04/04/2017&amp;nbsp;11:31PM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  Following an earlier incident at &lt;STRONG&gt;Times Square-42 St,&lt;/STRONG&gt; [1] train service has resumed with delays.
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>04/04/2017</Date>
-    <Time>11:31PM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>456</name>
@@ -312,10 +305,24 @@
   </line>
   <line>
     <name>S40 - S98</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>SERVICE CHANGE</status>
+    <text>
+                  &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                  &lt;span class="DateStyle"&gt;
+                  &amp;nbsp;Posted:&amp;nbsp;04/04/2017&amp;nbsp;11:45PM
+                  &lt;/span&gt;
+                  &lt;br/&gt;
+                  &lt;br/&gt;
+                &lt;P&gt;&lt;STRONG&gt;S74 &lt;/STRONG&gt;buses are detoured, due to NYPD Activity on Broad St between Tompkins Av and Targee St. &lt;/P&gt;
+&lt;P&gt;Detour is as follows:&lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;Towards Bricktown Mall&lt;/STRONG&gt;: Via Canal St, left on Tompkins Av, right on Vanderbilt Av and regular route. &lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;Towards St. George Ferry:&lt;/STRONG&gt; Via Targee St, right on Vanderbilt Av, left on Tompkins Av and regular route. &lt;/P&gt;
+&lt;P&gt;Allow additional travel time. &lt;/P&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            </text>
+    <Date>04/04/2017</Date>
+    <Time>11:45PM</Time>
   </line>
   <line>
     <name>x1 - x68</name>
