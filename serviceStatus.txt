@@ -1,10 +1,18 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>DELAYS</status>
+    <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;04/05/2017&amp;nbsp; 3:18PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;P&gt;Due to signal problems at &lt;STRONG&gt;South Ferry&lt;/STRONG&gt;, [1] trains are running with delays in both directions. &lt;/P&gt;
+&lt;P&gt;Allow additional travel time.&lt;/P&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>04/05/2017</Date>
+    <Time> 3:18PM</Time>
   </line>
   <line>
     <name>456</name>
@@ -801,10 +809,9 @@
               
                     &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;04/05/2017&amp;nbsp; 2:58PM
+                    &amp;nbsp;Posted:&amp;nbsp;04/05/2017&amp;nbsp; 3:18PM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  &lt;P&gt;The 1:38PM train from Penn due Babylon at 2:53PM is operating 10 minutes late due to a track condition near Woodside. &lt;/P&gt;
-&lt;P&gt;The 2:15PM train from Babylon due Penn at 3:30PM is operating 11 minutes late due to trackwork. &lt;/P&gt;
+                  &lt;P&gt;The 2:15PM train from Babylon due Penn at 3:30PM is operating 11 minutes late due to trackwork. &lt;/P&gt;
                 &lt;br/&gt;&lt;br/&gt;
               
                     &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
@@ -944,7 +951,7 @@
                     &lt;span class="DateStyle"&gt;
                     &amp;nbsp;Posted:&amp;nbsp;04/05/2017&amp;nbsp; 3:17PM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  The 2:52PM train from Huntington due Port Jefferson at 3:38PM is operating 10 minutes late due to a late-arriving connection.
+                  The 2:52PM train from Huntington due Port Jefferson at 3:38PM is operating 12 minutes late due to a late-arriving connection.
                 &lt;br/&gt;&lt;br/&gt;
               
                     &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
