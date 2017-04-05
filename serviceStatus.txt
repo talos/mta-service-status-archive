@@ -86,7 +86,7 @@
     <text>
                     &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;04/05/2017&amp;nbsp;12:15PM
+                    &amp;nbsp;Posted:&amp;nbsp;04/05/2017&amp;nbsp; 2:03PM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
                   &lt;P&gt;Due to signal problems at &lt;STRONG&gt;39 Av&lt;/STRONG&gt;, northbound [N] and [W] trains are running with delays.&lt;/P&gt;
 &lt;P&gt;Allow additional travel time.&lt;/P&gt;
@@ -104,7 +104,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>04/05/2017</Date>
-    <Time>12:15PM</Time>
+    <Time> 2:03PM</Time>
   </line>
   <line>
     <name>S</name>
@@ -452,22 +452,11 @@
   </line>
   <line>
     <name>Q1 - Q113</name>
-    <status>DELAYS</status>
+    <status>SERVICE CHANGE</status>
     <text>
-                  &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                  &lt;span class="DateStyle"&gt;
-                  &amp;nbsp;Posted:&amp;nbsp;04/05/2017&amp;nbsp;12:43PM
-                  &lt;/span&gt;
-                  &lt;br/&gt;
-                  &lt;br/&gt;
-                &lt;P&gt;&lt;STRONG&gt;Q32, Q60&lt;/STRONG&gt; and &lt;STRONG&gt;Q101&lt;/STRONG&gt; buses are running with delays in both directions, due to a non MTA accident on the lower level of the Ed Koch Bridge. &lt;/P&gt;
-&lt;P&gt;Allow additional travel time.&lt;/P&gt;
-              &lt;br/&gt;
-              &lt;br/&gt;
-            
                   &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
                   &lt;span class="DateStyle"&gt;
-                  &amp;nbsp;Posted:&amp;nbsp;04/05/2017&amp;nbsp;12:38PM
+                  &amp;nbsp;Posted:&amp;nbsp;04/05/2017&amp;nbsp; 2:04PM
                   &lt;/span&gt;
                   &lt;br/&gt;
                   &lt;br/&gt;
@@ -476,6 +465,17 @@
 &lt;P&gt;&lt;STRONG&gt;Towards Jackson Heights:&lt;/STRONG&gt; Via 92 St, right on 35 Av and regular route. &lt;/P&gt;
 &lt;P&gt;Corresponding stops will be made along the detour route. &lt;/P&gt;
 &lt;P&gt;Allow additional travel time. &lt;/P&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
+                  &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                  &lt;span class="DateStyle"&gt;
+                  &amp;nbsp;Posted:&amp;nbsp;04/05/2017&amp;nbsp;12:43PM
+                  &lt;/span&gt;
+                  &lt;br/&gt;
+                  &lt;br/&gt;
+                &lt;P&gt;&lt;STRONG&gt;Q32, Q60&lt;/STRONG&gt; and &lt;STRONG&gt;Q101&lt;/STRONG&gt; buses are running with delays in both directions, due to a non MTA accident on the lower level of the Ed Koch Bridge. &lt;/P&gt;
+&lt;P&gt;Allow additional travel time.&lt;/P&gt;
               &lt;br/&gt;
               &lt;br/&gt;
             
@@ -639,7 +639,7 @@
               &lt;br/&gt;
             </text>
     <Date>04/05/2017</Date>
-    <Time>12:43PM</Time>
+    <Time> 2:04PM</Time>
   </line>
   <line>
     <name>QM1 - QM44</name>
@@ -846,18 +846,10 @@
 </BT><LIRR>
   <line>
     <name>Babylon</name>
-    <status>DELAYS</status>
-    <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;04/05/2017&amp;nbsp; 1:32PM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  &lt;p&gt;&lt;strong&gt;&lt;u&gt;Eastbound:&lt;/u&gt;&lt;/strong&gt;&lt;/p&gt;The 12:38PM train from Penn due Babylon at 1:53PM is operating 10 minutes late due to a track condition near Woodside. &lt;p&gt;&lt;strong&gt;&lt;u&gt;Westbound:&lt;/u&gt;&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;The 12:15PM train from Babylon due Penn at 1:30PM is operating approximately 10 minutes late due to congestion caused by track work.&lt;/p&gt;
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>04/05/2017</Date>
-    <Time> 1:32PM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>City Terminal Zone</name>
