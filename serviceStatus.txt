@@ -605,17 +605,10 @@
   </line>
   <line>
     <name>City Terminal Zone</name>
-    <status>SERVICE CHANGE</status>
-    <text>
-                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;04/06/2017&amp;nbsp; 8:45AM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  The 7:57AM train from Ronkonkoma due Penn at 9:17AM will add stops at Kew Gardens and Forest Hills today.
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>04/06/2017</Date>
-    <Time> 8:45AM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>Far Rockaway</name>
@@ -647,10 +640,17 @@
   </line>
   <line>
     <name>Montauk</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>DELAYS</status>
+    <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;04/06/2017&amp;nbsp; 9:05AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  The 8:52AM train from Jamaica due Patchogue at 9:56AM is operating 10 minutes late after experiencing earlier equipment at Jamaica.
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>04/06/2017</Date>
+    <Time> 9:05AM</Time>
   </line>
   <line>
     <name>Oyster Bay</name>
