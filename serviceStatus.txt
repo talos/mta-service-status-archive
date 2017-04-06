@@ -796,13 +796,13 @@
     <text>
                     &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;04/06/2017&amp;nbsp; 6:57PM
+                    &amp;nbsp;Posted:&amp;nbsp;04/06/2017&amp;nbsp; 7:51PM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  Hudson Line service is currently experiencing scattered delays of up to 15 minutes due to congestion caused by a track condition requiring attention in the Park Avenue Tunnel. Please listen for announcements at your station.
+                  Hudson Line service continues to experience scattered delays of up to 15 minutes due to congestion caused by a track condition requiring attention in the Park Avenue Tunnel. Please listen for announcements at your station.
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>04/06/2017</Date>
-    <Time> 6:57PM</Time>
+    <Time> 7:51PM</Time>
   </line>
   <line>
     <name>Harlem</name>
@@ -834,10 +834,17 @@
   </line>
   <line>
     <name>Danbury</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>DELAYS</status>
+    <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;04/06/2017&amp;nbsp; 7:51PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  Danbury Branch Northbound Service is currently experiencing delays of 15 to  20 minutes due to mechanical difficulties. Please listen for announcements at your station.
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>04/06/2017</Date>
+    <Time> 7:51PM</Time>
   </line>
   <line>
     <name>Waterbury</name>
@@ -863,15 +870,8 @@
   </line>
   <line>
     <name>Port Jervis</name>
-    <status>DELAYS</status>
+    <status>SERVICE CHANGE</status>
     <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;04/06/2017&amp;nbsp; 6:23PM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  MBPJ train #57, the 5:51pm from Secaucus, is up to 20 min. late due to heavy travel. &lt;br&gt;
-                &lt;br/&gt;&lt;br/&gt;
-              
                     &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
                     &amp;nbsp;Posted:&amp;nbsp;04/06/2017&amp;nbsp; 5:35AM
@@ -881,7 +881,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>04/06/2017</Date>
-    <Time> 6:23PM</Time>
+    <Time> 5:35AM</Time>
   </line>
 </MetroNorth></service>
 
