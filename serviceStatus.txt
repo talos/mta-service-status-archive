@@ -22,10 +22,17 @@
   </line>
   <line>
     <name>7</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>DELAYS</status>
+    <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;04/07/2017&amp;nbsp; 7:42AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  Due to an earlier incident at &lt;STRONG&gt;111 St&lt;/STRONG&gt;, [7] train service has resumed with delays.
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>04/07/2017</Date>
+    <Time> 7:42AM</Time>
   </line>
   <line>
     <name>ACE</name>
@@ -100,7 +107,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>04/07/2017</Date>
-    <Time> 7:32AM</Time>
+    <Time> 7:42AM</Time>
   </line>
   <line>
     <name>SIR</name>
@@ -114,6 +121,19 @@
     <name>B1 - B84</name>
     <status>SERVICE CHANGE</status>
     <text>
+                  &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                  &lt;span class="DateStyle"&gt;
+                  &amp;nbsp;Posted:&amp;nbsp;04/07/2017&amp;nbsp; 7:43AM
+                  &lt;/span&gt;
+                  &lt;br/&gt;
+                  &lt;br/&gt;
+                &lt;P&gt;&lt;STRONG&gt;B11 &lt;/STRONG&gt;buses are detoured, due to Con Edison working on 49 St between New Utrecht Av and 11 Av. &lt;/P&gt;
+&lt;P&gt;Detour is as follows:&lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;Westbound:&lt;/STRONG&gt; Via 49 St, right on New Utrecht Av, left on 47 St, left on 11 Av, right on 49 St and regular route.&lt;/P&gt;
+&lt;P&gt;Allow additional travel time.&lt;/P&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
                   &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
                   &lt;span class="DateStyle"&gt;
                   &amp;nbsp;Posted:&amp;nbsp;04/07/2017&amp;nbsp; 7:41AM
@@ -194,7 +214,7 @@
               &lt;br/&gt;
             </text>
     <Date>04/07/2017</Date>
-    <Time> 7:41AM</Time>
+    <Time> 7:43AM</Time>
   </line>
   <line>
     <name>B100 - B103</name>
@@ -283,7 +303,7 @@
               &lt;br/&gt;
             </text>
     <Date>04/07/2017</Date>
-    <Time> 7:32AM</Time>
+    <Time> 7:42AM</Time>
   </line>
   <line>
     <name>M1 - M116</name>
@@ -302,7 +322,7 @@
               &lt;br/&gt;
             </text>
     <Date>04/07/2017</Date>
-    <Time> 7:32AM</Time>
+    <Time> 7:42AM</Time>
   </line>
   <line>
     <name>Q1 - Q113</name>
@@ -388,7 +408,7 @@
               &lt;br/&gt;
             </text>
     <Date>04/07/2017</Date>
-    <Time> 7:32AM</Time>
+    <Time> 7:42AM</Time>
   </line>
   <line>
     <name>S40 - S98</name>
