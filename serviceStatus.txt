@@ -29,10 +29,17 @@
   </line>
   <line>
     <name>ACE</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>DELAYS</status>
+    <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;04/07/2017&amp;nbsp; 8:58PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  Due to an earlier incident at &lt;STRONG&gt;Grant Av&lt;/STRONG&gt;, [A] train service has resumed with delays.
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>04/07/2017</Date>
+    <Time> 8:58PM</Time>
   </line>
   <line>
     <name>BDFM</name>
@@ -328,8 +335,13 @@
   </line>
   <line>
     <name>Hugh L. Carey</name>
-    <status>SERVICE CHANGE</status>
+    <status>PLANNED WORK</status>
     <text>
+                    &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
+                    &lt;br/&gt;
+                  HLC: Planned work; One tube closed and the remaining tube will run two-way traffic operations. Motorists should expect delays.
+                &lt;br/&gt;&lt;br/&gt;
+              
                     &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
                     &amp;nbsp;Posted:&amp;nbsp;04/06/2017&amp;nbsp;11:47PM
@@ -342,8 +354,8 @@
                   HLC: Planned Work; There is no access to the Brooklyn Queens Expressway from the Brooklyn bound tunnel.
                 &lt;br/&gt;&lt;br/&gt;
               </text>
-    <Date>04/06/2017</Date>
-    <Time>11:47PM</Time>
+    <Date>04/07/2017</Date>
+    <Time> 8:55PM</Time>
   </line>
   <line>
     <name>Marine Parkway</name>
