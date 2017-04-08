@@ -1,8 +1,15 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>PLANNED WORK</status>
+    <status>DELAYS</status>
     <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;04/08/2017&amp;nbsp; 1:57AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  Due to an earlier incident at &lt;STRONG&gt;96 St&lt;/STRONG&gt;, [2] train service has resumed with delays.
+                &lt;br/&gt;&lt;br/&gt;
+              
                     &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
                     &lt;br/&gt;
                   &lt;a class="plannedWorkDetailLink" onclick=ShowHide(151645);&gt;&lt;b&gt;[3] Downtown trains run local from 96 St to 14 St&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 151645 class="plannedWorkDetail" &gt;&lt;/b&gt;Weekend, 11:45 PM Fri to 5 AM Mon, Apr 7 - 10&lt;br&gt;&lt;br&gt;&amp;bull; Please allow additional travel time.&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
@@ -19,7 +26,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>04/08/2017</Date>
-    <Time> 1:52AM</Time>
+    <Time> 1:57AM</Time>
   </line>
   <line>
     <name>456</name>
