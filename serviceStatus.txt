@@ -29,7 +29,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>04/08/2017</Date>
-    <Time> 7:28AM</Time>
+    <Time> 7:32AM</Time>
   </line>
   <line>
     <name>456</name>
@@ -46,7 +46,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>04/08/2017</Date>
-    <Time> 7:28AM</Time>
+    <Time> 7:32AM</Time>
   </line>
   <line>
     <name>7</name>
@@ -85,7 +85,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>04/08/2017</Date>
-    <Time> 7:28AM</Time>
+    <Time> 7:32AM</Time>
   </line>
   <line>
     <name>BDFM</name>
@@ -127,7 +127,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>04/08/2017</Date>
-    <Time> 7:28AM</Time>
+    <Time> 7:32AM</Time>
   </line>
   <line>
     <name>G</name>
@@ -139,7 +139,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>04/08/2017</Date>
-    <Time> 7:28AM</Time>
+    <Time> 7:32AM</Time>
   </line>
   <line>
     <name>JZ</name>
@@ -151,7 +151,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>04/08/2017</Date>
-    <Time> 7:28AM</Time>
+    <Time> 7:32AM</Time>
   </line>
   <line>
     <name>L</name>
@@ -175,7 +175,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>04/08/2017</Date>
-    <Time> 7:28AM</Time>
+    <Time> 7:32AM</Time>
   </line>
   <line>
     <name>S</name>
@@ -194,7 +194,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>04/08/2017</Date>
-    <Time> 7:28AM</Time>
+    <Time> 7:32AM</Time>
   </line>
 </subway><bus>
   <line>
@@ -214,7 +214,7 @@
               &lt;br/&gt;
             </text>
     <Date>04/08/2017</Date>
-    <Time> 7:28AM</Time>
+    <Time> 7:32AM</Time>
   </line>
   <line>
     <name>B100 - B103</name>
@@ -234,7 +234,7 @@
               &lt;br/&gt;
             </text>
     <Date>04/08/2017</Date>
-    <Time> 7:28AM</Time>
+    <Time> 7:32AM</Time>
   </line>
   <line>
     <name>BX1 - BX55</name>
@@ -254,7 +254,7 @@
               &lt;br/&gt;
             </text>
     <Date>04/08/2017</Date>
-    <Time> 7:28AM</Time>
+    <Time> 7:32AM</Time>
   </line>
   <line>
     <name>M1 - M116</name>
@@ -379,14 +379,20 @@
               &lt;br/&gt;
             </text>
     <Date>04/08/2017</Date>
-    <Time> 7:28AM</Time>
+    <Time> 7:32AM</Time>
   </line>
   <line>
     <name>S40 - S98</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>PLANNED WORK</status>
+    <text>
+                  &lt;span class="TitlePlannedWork" &gt;Planned Detour&lt;/span&gt;
+                  &lt;br/&gt;
+                &lt;a class="plannedWorkDetailLink" onclick=ShowHide(153130);&gt;&lt;b&gt;S78&lt;/b&gt; - &lt;b&gt;Westbound buses rerouted from Amboy Rd at Bentley St to Arthur Kill Rd at&lt;/b&gt; &lt;b&gt;Johnson Av&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 153130 class="plannedWorkDetail" &gt;&lt;/b&gt;7:30 AM to 12 noon, Saturday, Apr 8&lt;br&gt;&lt;br&gt;Due to a parade, buses run via &lt;b&gt;Bentley St &lt;/b&gt;making corresponding stops.&lt;br&gt;&lt;br&gt;&lt;b&gt;&lt;i&gt;&lt;a style="cursor:pointer; text-decoration:underline;" onclick=ShowHide(1531300);&gt;Show Reroute Details&lt;/a&gt;&lt;/i&gt;&lt;/b&gt;&lt;br&gt;&lt;div id="1531300"; style="display:none;"&gt;Via Craig Av&lt;br&gt;Bear left on to Amboy Rd&lt;br&gt;Left on Bentley St&lt;br&gt;Right on Arthur Kill Rd&lt;br&gt;Right on Main St onto Arthur Kill Rd then regular route&lt;/div&gt;&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            </text>
+    <Date>04/08/2017</Date>
+    <Time> 7:32AM</Time>
   </line>
   <line>
     <name>x1 - x68</name>
