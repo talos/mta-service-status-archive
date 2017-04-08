@@ -1,21 +1,17 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>SERVICE CHANGE</status>
+    <status>DELAYS</status>
     <text>
-                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;04/07/2017&amp;nbsp;11:37PM
+                    &amp;nbsp;Posted:&amp;nbsp;04/07/2017&amp;nbsp;11:42PM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  &lt;P&gt;Due to FDNY activity at &lt;STRONG&gt;Fulton St,&lt;/STRONG&gt; the following service changes are in effect:&lt;/P&gt;
-&lt;P&gt;Some [2] trains are running on the [5] from &lt;STRONG&gt;Nevins St&lt;/STRONG&gt; to &lt;STRONG&gt;149 St-Grand Concourse&lt;/STRONG&gt; in both directions.&lt;/P&gt;
-&lt;P&gt;Southbound [3] trains are terminating at &lt;STRONG&gt;Wall St.&lt;/STRONG&gt;&lt;/P&gt;
-&lt;P&gt;Expect delays on the [2] and [3] train service in both directions.&lt;/P&gt;
-&lt;P&gt;Allow additional travel time.&lt;/P&gt;
+                  Following an earlier incident at &lt;STRONG&gt;Fulton St&lt;/STRONG&gt;, [2] and [3] train service has resumed with delays.
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>04/07/2017</Date>
-    <Time>11:37PM</Time>
+    <Time>11:42PM</Time>
   </line>
   <line>
     <name>456</name>
@@ -48,7 +44,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>04/07/2017</Date>
-    <Time>11:32PM</Time>
+    <Time>11:42PM</Time>
   </line>
   <line>
     <name>G</name>
@@ -116,7 +112,7 @@
               &lt;br/&gt;
             </text>
     <Date>04/07/2017</Date>
-    <Time>11:32PM</Time>
+    <Time>11:42PM</Time>
   </line>
   <line>
     <name>B100 - B103</name>
@@ -150,7 +146,7 @@
               &lt;br/&gt;
             </text>
     <Date>04/07/2017</Date>
-    <Time>11:32PM</Time>
+    <Time>11:42PM</Time>
   </line>
   <line>
     <name>M1 - M116</name>
@@ -251,7 +247,7 @@
               &lt;br/&gt;
             </text>
     <Date>04/07/2017</Date>
-    <Time>11:32PM</Time>
+    <Time>11:42PM</Time>
   </line>
   <line>
     <name>S40 - S98</name>
@@ -398,19 +394,10 @@
   </line>
   <line>
     <name>Far Rockaway</name>
-    <status>DELAYS</status>
-    <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;04/07/2017&amp;nbsp;11:28PM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  The 10:36PM train from Far Rockaway due Atlantic Terminal at 11:32PM is 
-operating 10 minutes late due to a late-arriving connection at Jamaica 
-Station.
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>04/07/2017</Date>
-    <Time>11:28PM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>Hempstead</name>
