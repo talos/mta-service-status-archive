@@ -1,8 +1,17 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>DELAYS</status>
+    <status>SERVICE CHANGE</status>
     <text>
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;04/08/2017&amp;nbsp; 2:04AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;P&gt;Due to NYPD activity at &lt;STRONG&gt;50 St, &lt;/STRONG&gt;northbound [1] trains are running express from &lt;STRONG&gt;34 St-Penn Station&lt;/STRONG&gt; to &lt;STRONG&gt;72 St.&lt;/STRONG&gt;&lt;/P&gt;
+&lt;P&gt;Expect delays on [3] trains.&lt;/P&gt;
+&lt;P&gt;Allow additional travel time.&lt;/P&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              
                     &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
                     &amp;nbsp;Posted:&amp;nbsp;04/08/2017&amp;nbsp; 1:57AM
@@ -26,7 +35,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>04/08/2017</Date>
-    <Time> 1:57AM</Time>
+    <Time> 2:04AM</Time>
   </line>
   <line>
     <name>456</name>
@@ -455,11 +464,16 @@
     <text>
                     &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
                     &lt;br/&gt;
+                  VNB: Planned work; Staten Island bound Lower level closed. Expect delays.
+                &lt;br/&gt;&lt;br/&gt;
+              
+                    &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
+                    &lt;br/&gt;
                   VNB: Planned work; Brooklyn bound Upper level closed. Expect delays.
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>04/08/2017</Date>
-    <Time>12:31AM</Time>
+    <Time> 1:59AM</Time>
   </line>
 </BT><LIRR>
   <line>
