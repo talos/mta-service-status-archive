@@ -449,10 +449,17 @@
   </line>
   <line>
     <name>City Terminal Zone</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>SUSPENDED</status>
+    <text>
+                    &lt;span class="TitleSuspended"&gt;Suspended&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;04/09/2017&amp;nbsp; 5:50AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  Port Washington branch service is suspended in both directions at Woodside due to an unauthorized person on the tracks being struck by a train. NYC Transit is cross-honoring LIRR fares at Flushing Main Street and Woodside.
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>04/09/2017</Date>
+    <Time> 5:50AM</Time>
   </line>
   <line>
     <name>Far Rockaway</name>
@@ -498,8 +505,15 @@
   </line>
   <line>
     <name>Port Washington</name>
-    <status>DELAYS</status>
+    <status>SUSPENDED</status>
     <text>
+                    &lt;span class="TitleSuspended"&gt;Suspended&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;04/09/2017&amp;nbsp; 5:50AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  Port Washington branch service is suspended in both directions at Woodside due to an unauthorized person on the tracks being struck by a train. NYC Transit is cross-honoring LIRR fares at Flushing Main Street and Woodside.
+                &lt;br/&gt;&lt;br/&gt;
+              
                     &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
                     &amp;nbsp;Posted:&amp;nbsp;04/09/2017&amp;nbsp; 5:22AM
@@ -511,7 +525,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>04/09/2017</Date>
-    <Time> 5:22AM</Time>
+    <Time> 5:50AM</Time>
   </line>
   <line>
     <name>Ronkonkoma</name>
