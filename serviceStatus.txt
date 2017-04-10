@@ -90,10 +90,15 @@
   </line>
   <line>
     <name>NQR</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>PLANNED WORK</status>
+    <text>
+                    &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
+                    &lt;br/&gt;
+                  &lt;a class="plannedWorkDetailLink" onclick=ShowHide(150623);&gt;&lt;b&gt;[N] Astoria-bound trains run via the [D] from Stillwell Av to 36 St&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 150623 class="plannedWorkDetail" &gt;&lt;/b&gt;Days, 9:45 AM to 3 PM, Mon to Fri, Apr 10 - 14  &amp;bull;  Apr 17 - 21&lt;br&gt;&lt;br&gt;&lt;/font&gt;Trains run &lt;i&gt;express&lt;/i&gt;, stopping at Bay 50 St, Bay Pkwy, 62 St-New Utrecht Av and 9 Av.&lt;br&gt;&lt;br&gt;For service&lt;i&gt; to&lt;/i&gt; &lt;b&gt;86 St&lt;/b&gt;, &lt;b&gt;Avenue U&lt;/b&gt;, &lt;b&gt;Kings Hwy&lt;/b&gt;,&lt;b&gt; Bay Pkwy&lt;/b&gt;, &lt;b&gt;20&lt;/b&gt; and &lt;b&gt;18 Avs&lt;/b&gt;,&lt;br&gt;take the [D] or [N] to 62 St-New Utrecht Av and transfer to a Coney Island-bound [D]* or [N].&lt;br&gt;&lt;br&gt;For service&lt;i&gt; to&lt;/i&gt; &lt;b&gt;Fort Hamilton Pkwy&lt;/b&gt; and &lt;b&gt;8 Av&lt;/b&gt;, take the [D] or [N] to 36 St and transfer&lt;br&gt;to a Coney Island-bound [D] or [N].&lt;br&gt;&lt;br&gt;For service &lt;i&gt;from &lt;/i&gt;these stations, take the [D] or [N] to New Utrecht Av-62 St or Stillwell Av&lt;br&gt;and transfer to an Astoria-bound [N].&lt;br&gt;&lt;br&gt;For &lt;b&gt;59&lt;/b&gt; &lt;b&gt;St&lt;/b&gt;, take the [R] instead. Transfer between trains at 36 St.&lt;br&gt;&lt;br&gt;&lt;i&gt;*Coney Island-bound [D] trains run via the [N] from 36 St, Brooklyn to Stillwell Av&lt;br&gt;  during this time (except Apr 10 &amp; 17). &lt;br&gt;&lt;/i&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>04/10/2017</Date>
+    <Time> 9:48AM</Time>
   </line>
   <line>
     <name>S</name>
@@ -105,7 +110,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>04/10/2017</Date>
-    <Time> 9:42AM</Time>
+    <Time> 9:48AM</Time>
   </line>
   <line>
     <name>SIR</name>
@@ -117,13 +122,23 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>04/10/2017</Date>
-    <Time> 9:42AM</Time>
+    <Time> 9:48AM</Time>
   </line>
 </subway><bus>
   <line>
     <name>B1 - B84</name>
     <status>DELAYS</status>
     <text>
+                  &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                  &lt;span class="DateStyle"&gt;
+                  &amp;nbsp;Posted:&amp;nbsp;04/10/2017&amp;nbsp; 9:48AM
+                  &lt;/span&gt;
+                  &lt;br/&gt;
+                  &lt;br/&gt;
+                Following an earlier incident at Church Av, &lt;STRONG&gt;B35&lt;/STRONG&gt; bus service has resumed with delays.
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
                   &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                   &lt;span class="DateStyle"&gt;
                   &amp;nbsp;Posted:&amp;nbsp;04/10/2017&amp;nbsp; 8:46AM
@@ -143,17 +158,6 @@
                   &lt;br/&gt;
                 &lt;P&gt;&lt;STRONG&gt;B12, B20, B25, B83, Q24&lt;/STRONG&gt; and &lt;STRONG&gt;Q56 &lt;/STRONG&gt;buses are running with delays in both directions, due to a traffic conditions in the Broadway Junction area. &lt;/P&gt;
 &lt;P&gt;Allow addiitional travel time. &lt;/P&gt;
-              &lt;br/&gt;
-              &lt;br/&gt;
-            
-                  &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                  &lt;span class="DateStyle"&gt;
-                  &amp;nbsp;Posted:&amp;nbsp;04/10/2017&amp;nbsp; 7:45AM
-                  &lt;/span&gt;
-                  &lt;br/&gt;
-                  &lt;br/&gt;
-                &lt;P&gt;&lt;STRONG&gt;B35&lt;/STRONG&gt; buses are running with delays both directions, due to traffic conditions on Church Av between McDonald Av and New York Av. &lt;/P&gt;
-&lt;P&gt;Allow additional travel time.&lt;/P&gt;
               &lt;br/&gt;
               &lt;br/&gt;
             
@@ -276,7 +280,7 @@
               &lt;br/&gt;
             </text>
     <Date>04/10/2017</Date>
-    <Time> 8:46AM</Time>
+    <Time> 9:48AM</Time>
   </line>
   <line>
     <name>B100 - B103</name>
@@ -375,7 +379,7 @@
               &lt;br/&gt;
             </text>
     <Date>04/10/2017</Date>
-    <Time> 9:42AM</Time>
+    <Time> 9:48AM</Time>
   </line>
   <line>
     <name>M1 - M116</name>
