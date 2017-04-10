@@ -54,10 +54,18 @@
   </line>
   <line>
     <name>BDFM</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>DELAYS</status>
+    <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;04/10/2017&amp;nbsp; 9:44AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;P&gt;Due to signal problems at &lt;STRONG&gt;Myrtle-Wyckoff Avs&lt;/STRONG&gt;, [M] trains are running with delays in both directions. &lt;/P&gt;
+&lt;P&gt;Allow additional travel time.&lt;/P&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>04/10/2017</Date>
+    <Time> 9:44AM</Time>
   </line>
   <line>
     <name>G</name>
@@ -308,8 +316,21 @@
   </line>
   <line>
     <name>BX1 - BX55</name>
-    <status>DELAYS</status>
+    <status>SERVICE CHANGE</status>
     <text>
+                  &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                  &lt;span class="DateStyle"&gt;
+                  &amp;nbsp;Posted:&amp;nbsp;04/10/2017&amp;nbsp; 9:44AM
+                  &lt;/span&gt;
+                  &lt;br/&gt;
+                  &lt;br/&gt;
+                &lt;P&gt;&lt;STRONG&gt;Bx2 &lt;/STRONG&gt;buses are detoured, due to emergency Con Edison work on 3 Av and 146 St. &lt;/P&gt;
+&lt;P&gt;Detour is as follows:&lt;/P&gt;
+&lt;P&gt;Bx2 Westbound: Via Cortlandt Av into 145 St, right on Will Av, right on 3 Av and regular route.&lt;/P&gt;
+&lt;P&gt;Allow additional travel time&lt;/P&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
                   &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                   &lt;span class="DateStyle"&gt;
                   &amp;nbsp;Posted:&amp;nbsp;04/10/2017&amp;nbsp; 9:26AM
@@ -341,7 +362,7 @@
               &lt;br/&gt;
             </text>
     <Date>04/10/2017</Date>
-    <Time> 9:26AM</Time>
+    <Time> 9:44AM</Time>
   </line>
   <line>
     <name>BXM1 - BXM18</name>
