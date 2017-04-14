@@ -1,25 +1,39 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>DELAYS</status>
+    <status>SERVICE CHANGE</status>
     <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;04/14/2017&amp;nbsp; 6:04PM
+                    &amp;nbsp;Posted:&amp;nbsp;04/14/2017&amp;nbsp; 6:16PM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  &lt;P&gt;Due to NYPD activity at &lt;STRONG&gt;Wall St,&lt;/STRONG&gt; southbound [2] and [3] trains are running with delays.&lt;/P&gt;
+                  &lt;P&gt;Due to NYPD activity at &lt;STRONG&gt;Wall St,&lt;/STRONG&gt; the following service changes are in effect:&lt;/P&gt;
+&lt;P&gt;Southbound [2] and [3] trains terminate at&lt;STRONG&gt; Times Sq-42 St&lt;/STRONG&gt;.&lt;/P&gt;
+&lt;P&gt;Some southbound [2] will be running on the [5] line from &lt;STRONG&gt;149 St-Grand Concourse&lt;/STRONG&gt; to&lt;STRONG&gt; Nevins St&lt;/STRONG&gt;. &lt;/P&gt;
+&lt;P&gt;Expect delays on [5] trains.&lt;/P&gt;
 &lt;P&gt;Allow additional travel time.&lt;/P&gt;
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>04/14/2017</Date>
-    <Time> 6:04PM</Time>
+    <Time> 6:16PM</Time>
   </line>
   <line>
     <name>456</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>SERVICE CHANGE</status>
+    <text>
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;04/14/2017&amp;nbsp; 6:16PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;P&gt;Due to NYPD activity at &lt;STRONG&gt;Wall St,&lt;/STRONG&gt; the following service changes are in effect:&lt;/P&gt;
+&lt;P&gt;Southbound [2] and [3] trains terminate at&lt;STRONG&gt; Times Sq-42 St&lt;/STRONG&gt;.&lt;/P&gt;
+&lt;P&gt;Some southbound [2] will be running on the [5] line from &lt;STRONG&gt;149 St-Grand Concourse&lt;/STRONG&gt; to&lt;STRONG&gt; Nevins St&lt;/STRONG&gt;. &lt;/P&gt;
+&lt;P&gt;Expect delays on [5] trains.&lt;/P&gt;
+&lt;P&gt;Allow additional travel time.&lt;/P&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>04/14/2017</Date>
+    <Time> 6:16PM</Time>
   </line>
   <line>
     <name>7</name>
@@ -237,19 +251,7 @@
     <text>
                   &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
                   &lt;span class="DateStyle"&gt;
-                  &amp;nbsp;Posted:&amp;nbsp;04/14/2017&amp;nbsp; 4:08PM
-                  &lt;/span&gt;
-                  &lt;br/&gt;
-                  &lt;br/&gt;
-                &lt;P&gt;&lt;STRONG&gt;Bx6&lt;/STRONG&gt; eastbound and &lt;STRONG&gt;M3 &lt;/STRONG&gt;southbound buses will bypass the bus stop at 155 St and Saint Nicholas Av, due to ongoing construction.&lt;/P&gt;
-&lt;P&gt;Customers can board &lt;STRONG&gt;Bx6&lt;/STRONG&gt; and &lt;STRONG&gt;M3 &lt;/STRONG&gt;buses at 155 St and Amsterdam Av.&lt;/P&gt;
-&lt;P&gt;Allow additional travel time.&lt;/P&gt;
-              &lt;br/&gt;
-              &lt;br/&gt;
-            
-                  &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
-                  &lt;span class="DateStyle"&gt;
-                  &amp;nbsp;Posted:&amp;nbsp;04/14/2017&amp;nbsp; 4:07PM
+                  &amp;nbsp;Posted:&amp;nbsp;04/14/2017&amp;nbsp; 6:16PM
                   &lt;/span&gt;
                   &lt;br/&gt;
                   &lt;br/&gt;
@@ -261,9 +263,21 @@
 &lt;P&gt;Allow additional travel time. &lt;/P&gt;
               &lt;br/&gt;
               &lt;br/&gt;
+            
+                  &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                  &lt;span class="DateStyle"&gt;
+                  &amp;nbsp;Posted:&amp;nbsp;04/14/2017&amp;nbsp; 4:08PM
+                  &lt;/span&gt;
+                  &lt;br/&gt;
+                  &lt;br/&gt;
+                &lt;P&gt;&lt;STRONG&gt;Bx6&lt;/STRONG&gt; eastbound and &lt;STRONG&gt;M3 &lt;/STRONG&gt;southbound buses will bypass the bus stop at 155 St and Saint Nicholas Av, due to ongoing construction.&lt;/P&gt;
+&lt;P&gt;Customers can board &lt;STRONG&gt;Bx6&lt;/STRONG&gt; and &lt;STRONG&gt;M3 &lt;/STRONG&gt;buses at 155 St and Amsterdam Av.&lt;/P&gt;
+&lt;P&gt;Allow additional travel time.&lt;/P&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
             </text>
     <Date>04/14/2017</Date>
-    <Time> 4:08PM</Time>
+    <Time> 6:16PM</Time>
   </line>
   <line>
     <name>BXM1 - BXM18</name>
