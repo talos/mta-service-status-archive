@@ -1,17 +1,10 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>DELAYS</status>
-    <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;04/13/2017&amp;nbsp;10:00PM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  Following an earlier incident at &lt;STRONG&gt;Dyckman St&lt;/STRONG&gt;, [1] train service has resumed with delays.
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>04/13/2017</Date>
-    <Time>10:00PM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>456</name>
@@ -33,13 +26,6 @@
     <text>
                     &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;04/13/2017&amp;nbsp;10:00PM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  Following an earlier incident at &lt;STRONG&gt;42 St-Port Authority&lt;/STRONG&gt;, [C] and [E] train service has resumed with delays.
-                &lt;br/&gt;&lt;br/&gt;
-              
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
                     &amp;nbsp;Posted:&amp;nbsp;04/13/2017&amp;nbsp; 8:07PM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
                   &lt;P&gt;Due to signal problems at &lt;STRONG&gt;Far Rockaway-Mott Av&lt;/STRONG&gt;, [A] trains are running with delays in both directions. &lt;/P&gt;
@@ -52,7 +38,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>04/13/2017</Date>
-    <Time>10:00PM</Time>
+    <Time> 8:07PM</Time>
   </line>
   <line>
     <name>BDFM</name>
@@ -275,8 +261,28 @@
   </line>
   <line>
     <name>M1 - M116</name>
-    <status>SERVICE CHANGE</status>
+    <status>DELAYS</status>
     <text>
+                  &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                  &lt;span class="DateStyle"&gt;
+                  &amp;nbsp;Posted:&amp;nbsp;04/13/2017&amp;nbsp;10:15PM
+                  &lt;/span&gt;
+                  &lt;br/&gt;
+                  &lt;br/&gt;
+                Following an earlier incident at 73 St, &lt;STRONG&gt;M104&lt;/STRONG&gt; and &lt;STRONG&gt;M57&lt;/STRONG&gt; bus service has resumed with delays.
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
+                  &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                  &lt;span class="DateStyle"&gt;
+                  &amp;nbsp;Posted:&amp;nbsp;04/13/2017&amp;nbsp;10:14PM
+                  &lt;/span&gt;
+                  &lt;br/&gt;
+                  &lt;br/&gt;
+                Following an earlier incident at Houston St, &lt;STRONG&gt;M21&lt;/STRONG&gt; bus service has resumed with delays.
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
                   &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
                   &lt;span class="DateStyle"&gt;
                   &amp;nbsp;Posted:&amp;nbsp;04/13/2017&amp;nbsp; 8:54PM
@@ -328,29 +334,6 @@
                   &lt;br/&gt;
                 &lt;P&gt;&lt;STRONG&gt;BX15, M60-SBS, M100&lt;/STRONG&gt; and &lt;STRONG&gt;M101&lt;/STRONG&gt; buses are running with delays in both directions, due to traffic condition on 125 St. &lt;/P&gt;
 &lt;P&gt;Allow additional travel time.&lt;/P&gt;
-              &lt;br/&gt;
-              &lt;br/&gt;
-            
-                  &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                  &lt;span class="DateStyle"&gt;
-                  &amp;nbsp;Posted:&amp;nbsp;04/13/2017&amp;nbsp; 8:12PM
-                  &lt;/span&gt;
-                  &lt;br/&gt;
-                  &lt;br/&gt;
-                &lt;P&gt;&lt;STRONG&gt;M21&lt;/STRONG&gt; buses are running with delays in both directions due to construction on Houston St. &lt;/P&gt;
-&lt;P&gt;Allow additional travel time.&lt;/P&gt;
-              &lt;br/&gt;
-              &lt;br/&gt;
-            
-                  &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
-                  &lt;span class="DateStyle"&gt;
-                  &amp;nbsp;Posted:&amp;nbsp;04/13/2017&amp;nbsp; 8:11PM
-                  &lt;/span&gt;
-                  &lt;br/&gt;
-                  &lt;br/&gt;
-                &lt;P&gt;&lt;STRONG&gt;M104 &lt;/STRONG&gt;and &lt;STRONG&gt;M57&lt;/STRONG&gt; buses are detoured due to Verizon work on 73 St between Broadway and Amsterdam Av. &lt;BR&gt;&lt;BR&gt;Detour is as follows:&lt;BR&gt;&lt;BR&gt;&lt;STRONG&gt;M104 Northbound:&lt;/STRONG&gt; Via Amsterdam Av, left on 75 St, right on Broadway and regular route.&lt;/P&gt;
-&lt;P&gt;&lt;STRONG&gt;M57 Eastbound:&lt;/STRONG&gt; From terminal at 72 St and Amsterdam Av, left on 75 St, left on Broadway and regular route.&lt;/P&gt;
-&lt;P&gt;Corresponding stops will be made along detoured route.&lt;/P&gt;
               &lt;br/&gt;
               &lt;br/&gt;
             
@@ -414,7 +397,7 @@
               &lt;br/&gt;
             </text>
     <Date>04/13/2017</Date>
-    <Time> 8:54PM</Time>
+    <Time>10:15PM</Time>
   </line>
   <line>
     <name>Q1 - Q113</name>
