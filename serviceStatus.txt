@@ -421,10 +421,20 @@
 </bus><BT>
   <line>
     <name>Bronx-Whitestone</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>PLANNED WORK</status>
+    <text>
+                    &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
+                    &lt;br/&gt;
+                  BWB: PLANNED WORK; One roadway closed Queens Bound, expect delays.
+                &lt;br/&gt;&lt;br/&gt;
+              
+                    &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
+                    &lt;br/&gt;
+                  BWB: PLANNED WORK; One roadway closed Queens Bound, expect delays.
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>04/14/2017</Date>
+    <Time>11:20PM</Time>
   </line>
   <line>
     <name>Cross Bay</name>
@@ -585,12 +595,13 @@
     <text>
                     &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;04/14/2017&amp;nbsp;11:11PM
+                    &amp;nbsp;Posted:&amp;nbsp;04/14/2017&amp;nbsp;11:20PM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
                   &lt;P class=MsoPlainText style="MARGIN: 0in 0in 0pt"&gt;&lt;FONT size=3 face=Calibri&gt;Eastbound:&lt;/FONT&gt;&lt;/P&gt;
 &lt;P class=MsoPlainText style="MARGIN: 0in 0in 0pt"&gt;&lt;FONT size=3 face=Calibri&gt;&lt;/FONT&gt;&lt;FONT size=3 face=Calibri&gt;&lt;/FONT&gt; &lt;/P&gt;
-&lt;P class=MsoPlainText style="MARGIN: 0in 0in 0pt"&gt;The 10:55PM train from Huntington due Port Jefferson at 11:42PM is being held prior to departure due to late-arriving equipment. &lt;/P&gt;
-&lt;P class=MsoPlainText style="MARGIN: 0in 0in 0pt"&gt; &lt;/P&gt;
+&lt;DIV class=logbody&gt;
+&lt;DIV class=mainmsg&gt;The 10:55PM train from Huntington due Port Jefferson at 11:42PM is operating 21 minutes late due to a late eastbound train in single-track territory. &lt;/DIV&gt;
+&lt;DIV class=shortmsg&gt; &lt;/DIV&gt;&lt;/DIV&gt;
 &lt;P class=MsoPlainText style="MARGIN: 0in 0in 0pt"&gt;&lt;FONT size=3 face=Calibri&gt;Westbound:&lt;/FONT&gt;&lt;/P&gt;
 &lt;P class=MsoPlainText style="MARGIN: 0in 0in 0pt"&gt;&lt;FONT size=3 face=Calibri&gt;The 9:41PM train from Port Jefferson due Hicksville at 10:46PM is operating 42 minutes late after being held prior to departure due to equipment trouble.&lt;/FONT&gt;&lt;/P&gt;
 &lt;P class=MsoPlainText style="MARGIN: 0in 0in 0pt"&gt;&lt;FONT size=3 face=Calibri&gt;&lt;/FONT&gt; &lt;/P&gt;
@@ -598,7 +609,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>04/14/2017</Date>
-    <Time>11:11PM</Time>
+    <Time>11:20PM</Time>
   </line>
   <line>
     <name>Port Washington</name>
