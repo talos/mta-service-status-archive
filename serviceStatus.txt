@@ -1,10 +1,30 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>PLANNED WORK</status>
+    <text>
+                    &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
+                    &lt;br/&gt;
+                  &lt;a class="plannedWorkDetailLink" onclick=ShowHide(150592);&gt;&lt;b&gt;[3] Trains run local in both directions between 34 St-Penn Station and Chambers St&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 150592 class="plannedWorkDetail" &gt;&lt;/b&gt;Weekends, 11:30 PM Fri to 5 AM Mon, Apr 14 - 17  &amp;bull;  Apr 21 - 24&lt;br&gt;&lt;br&gt;&amp;bull; Please allow additional travel time.&lt;br&gt;&lt;br&gt;&lt;b&gt;Note:&lt;/b&gt; [3]&lt;b&gt; &lt;/b&gt;service operates between 148 St and New Lots Av, &lt;i&gt;all weekend&lt;/i&gt;.&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              
+                    &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
+                    &lt;br/&gt;
+                  &lt;a class="plannedWorkDetailLink" onclick=ShowHide(150590);&gt;&lt;b&gt;[2] Trains run local in both directions between 34 St-Penn Station and Chambers St&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 150590 class="plannedWorkDetail" &gt;&lt;/b&gt;Weekends, 11:30 PM Fri to 5 AM Mon, Apr 14 - 17  &amp;bull;  Apr 21 - 24&lt;br&gt;&lt;br&gt;&amp;bull; Please allow additional travel time.&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              
+                    &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
+                    &lt;br/&gt;
+                  &lt;a class="plannedWorkDetailLink" onclick=ShowHide(150587);&gt;&lt;b&gt;[FF]&lt;br clear=left&gt;[1] No trains between 14 St and South Ferry&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 150587 class="plannedWorkDetail" &gt;[2] [3] trains and [SB] free shuttle buses provide alternate service&lt;br&gt;&lt;/b&gt;Weekends, 11:30 PM Fri to 5 AM Mon, &lt;/font&gt;Apr 14 - 17  &amp;bull;  Apr 21 - 24&lt;br&gt;&lt;br&gt;&lt;b&gt;[1]&lt;/b&gt; &lt;/font&gt;service operates between &lt;b&gt;242 St&lt;/b&gt; and &lt;b&gt;14 St&lt;/b&gt;.&lt;br&gt;  &amp;bull; Uptown trains skip 18, 23 and 28 Sts.&lt;br&gt;  &amp;bull; Downtown trains skip 28, 23 and 18 Sts, &lt;i&gt;days and evenings&lt;/i&gt;.&lt;br&gt;&lt;br&gt;&lt;/font&gt;&lt;table class=plannedworkTableStyle  width=80%&gt;&lt;tr&gt;&lt;td&gt;&lt;font size=3&gt;&lt;b&gt;Travel Alternatives&lt;/b&gt;&lt;/font&gt;&lt;td align=right&gt;[TP]&lt;/table&gt;&lt;br&gt;For&lt;b&gt; 28, 23, 18, Christopher, Houston, Canal, Franklin &lt;/b&gt;and&lt;b&gt; Chambers Sts&lt;/b&gt;,&lt;br&gt;take the [2]* or [3]* instead.&lt;br&gt;&lt;/font&gt;&amp;bull; Transfer between [1] and [2] [3] trains at Times Sq-42 St (across the platform) or 14 St.&lt;br&gt;&lt;br&gt;For &lt;b&gt;Rector St&lt;/b&gt; and &lt;b&gt;South Ferry&lt;/b&gt;, consider &lt;a href=http://web.mta.info/weekender/tileMap.html?staID=37 target=_blank&gt;&lt;font color=#0000FF&gt;&lt;b&gt;&lt;u&gt;nearby&lt;/u&gt;&lt;/b&gt;&lt;/font&gt;&lt;/a&gt; [R] stations via transfer at Times Sq-42 St.&lt;br&gt;&lt;br&gt;&lt;/font&gt;[SB] Buses make stops between &lt;b&gt;Chambers St&lt;/b&gt; and &lt;b&gt;South Ferry&lt;/b&gt;.&lt;br&gt;&amp;bull; Transfer between [2] [3] trains and [SB] buses at Chambers St.&lt;br&gt;&lt;br&gt;&lt;font size=3&gt;&lt;b&gt;&lt;a style="cursor:pointer; text-decoration:underline;" onclick=ShowHide(1505870);&gt;Show Shuttle Bus Stops&lt;/a&gt;&lt;/b&gt;&lt;/font&gt;&lt;div id="1505870"; style="display:none;"&gt;&lt;table class=plannedworkTableStyle  border=1 cellspacing=1 cellpadding=3 rules=rows frame=hsides&gt;&lt;tr bgcolor=#FAF8CC&gt;&lt;td&gt;&lt;b&gt;Station&lt;/b&gt;&lt;td&gt;&lt;b&gt;Shuttle Bus Stop&lt;/b&gt;&lt;tr&gt;&lt;td&gt;Chambers St  [ad] [2] [3]&lt;td&gt;West Broadway at Chambers St&lt;tr&gt;&lt;td&gt;&lt;/font&gt;Fulton St [ad] &lt;/font&gt;[2] &lt;/font&gt;[3] [J]  &lt;td&gt;Broadway at Vesey St (to South Ferry)&lt;tr&gt;&lt;td rowspan=2&gt;Cortlandt St&lt;td&gt;Broadway at Cortlandt St (to South Ferry)&lt;tr&gt;&lt;td&gt;Church St at Cortlandt St (to Chambers St)&lt;tr&gt;&lt;td rowspan=2&gt;Rector St&lt;td&gt;Broadway at Rector St (to South Ferry)&lt;tr&gt;&lt;td&gt;Trinity Pl at Rector St (to Chambers St) &lt;tr&gt;&lt;td&gt;Bowling Green&lt;td&gt;State St at Battery Pl (to Chambers St)&lt;tr&gt;&lt;td&gt;South Ferry-Whitehall St [R]&lt;td&gt;State St at South Ferry bus terminal&lt;/table&gt;&lt;/font&gt;&lt;/div&gt;&lt;br&gt;&lt;br&gt;&lt;i&gt;*This detour has taken into account additional planned service changes.&lt;br&gt;&lt;br&gt;&lt;/i&gt;&lt;table class=plannedworkTableStyle  border=1 cellspacing=1 cellpadding=5 rules=none frame=box&gt;&lt;td&gt;  [ad]  &lt;td&gt;&lt;font size=1&gt;This service change affects one or more ADA accessible stations. Please call 511 for help with planning&lt;br&gt;your trip. If you are deaf or hard of hearing, use your preferred relay service provider or the free 711 relay.  &lt;/font&gt;&lt;/table&gt;&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              
+                    &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
+                    &lt;br/&gt;
+                  &lt;a class="plannedWorkDetailLink" onclick=ShowHide(150588);&gt;&lt;b&gt;[1] Uptown trains skip 18, 23 and 28 Sts&lt;br clear=left&gt;[2] [3] trains provide alternate service&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 150588 class="plannedWorkDetail" &gt;&lt;/b&gt;Weekends, 11:30 PM Fri to 5 AM Mon, Apr 14 - 17  &amp;bull;  Apr 21 - 24&lt;br&gt;&lt;br&gt;&amp;bull; Transfer between [1] and [2] [3] trains at &lt;/font&gt;Times Sq-42 St (across the platform).&lt;br&gt;&lt;br&gt;&lt;/font&gt;&lt;b&gt;Note: [3]&lt;/b&gt; service operates between &lt;b&gt;148 St&lt;/b&gt; and &lt;b&gt;New Lots Av&lt;/b&gt;, &lt;i&gt;all weekend.&lt;/i&gt;  &lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>04/14/2017</Date>
+    <Time>11:32PM</Time>
   </line>
   <line>
     <name>456</name>
@@ -50,10 +70,15 @@
   </line>
   <line>
     <name>L</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>PLANNED WORK</status>
+    <text>
+                    &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
+                    &lt;br/&gt;
+                  &lt;a class="plannedWorkDetailLink" onclick=ShowHide(150636);&gt;&lt;b&gt;[L] No trains between Broadway Junction and Lorimer St&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 150636 class="plannedWorkDetail" &gt;[SB] Free shuttle buses provide alternate service&lt;br&gt;&lt;/b&gt;&lt;/font&gt;Weekend, 11:30 PM Fri to 5 AM Mon, Apr 14 - 17&lt;br&gt;&lt;br&gt;&lt;b&gt;Service operates in two sections:&lt;br&gt;&lt;/b&gt;  1. Between&lt;b&gt; Rockaway Pkwy&lt;/b&gt; and&lt;b&gt; Broadway Junction ([J] platform)&lt;br&gt;&lt;/b&gt;  2. Between &lt;b&gt;Lorimer St&lt;/b&gt; and&lt;b&gt; 8 Av&lt;br&gt;&lt;br&gt;&lt;/b&gt;[SB] Buses make all stops between &lt;b&gt;Broadway Junction &lt;/b&gt;and&lt;b&gt; Lorimer St&lt;/b&gt;.&lt;br&gt;&lt;br&gt;&amp;bull; Transfer between trains and [SB] buses at &lt;b&gt;Broadway Junction&lt;/b&gt; and/or &lt;b&gt;Lorimer St&lt;/b&gt;.&lt;br&gt;&lt;/font&gt;&amp;bull; For service between Brooklyn and Manhattan consider the &lt;b&gt;[A] &lt;/b&gt;or &lt;b&gt;[J]&lt;/b&gt;  via transfer &lt;br&gt;   between trains and [SB] buses at &lt;b&gt;Broadway Junction&lt;/b&gt;.&lt;br&gt;&lt;br&gt;&lt;font size=3&gt;&lt;b&gt;&lt;a style="cursor:pointer; text-decoration:underline;" onclick=ShowHide(1506360);&gt;Show Shuttle Bus Stops&lt;/a&gt;&lt;/b&gt;&lt;/font&gt;&lt;div id="1506360"; style="display:none;"&gt;&lt;table class=plannedworkTableStyle  border=1 cellspacing=1 cellpadding=3 rules=rows frame=hsides&gt;&lt;tr bgcolor=#FAF8CC&gt;&lt;/font&gt;&lt;td&gt;&lt;b&gt;Station&lt;/b&gt;&lt;td&gt;&lt;b&gt;Shuttle Bus Stop&lt;/b&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Broadway Junction [A] [C] [J] [L]  &lt;td&gt;Fulton St at Van Sinderen Av&lt;tr&gt;&lt;td rowspan=2&gt;Bushwick Av-Aberdeen St&lt;td&gt;Bushwick Av at Aberdeen St (to Lorimer St)&lt;tr&gt;&lt;td&gt;Bushwick Av at DeSales Pl (to Broadway Junction)&lt;tr&gt;&lt;td rowspan=2&gt;Wilson Av&lt;td&gt;Decatur St at Wilson Av (to Lorimer St)&lt;tr&gt;&lt;td&gt;Cooper St at Wilson Av (to Broadway Junction)&lt;tr&gt;&lt;td rowspan=2&gt;Halsey St&lt;td&gt;Cypress Av at George St (to Lorimer St)&lt;tr&gt;&lt;td&gt;Wyckoff Av at Weirfield St (to Broadway Junction)&lt;tr&gt;&lt;td&gt;Myrtle-Wyckoff Avs  [ad]  [M] &lt;td&gt;Gates Av at Wyckoff Av&lt;tr&gt;&lt;td&gt;DeKalb Av&lt;td&gt;Wyckoff Av at DeKalb Av&lt;tr&gt;&lt;td&gt;Jefferson St&lt;td&gt;Wyckoff Av at Starr St&lt;tr&gt;&lt;td rowspan=2&gt;Morgan Av&lt;td&gt;Harrison Pl at Morgan Av (to Lorimer St)&lt;tr&gt;&lt;td&gt;Morgan Av at Harrison Pl (to Broadway Junction)&lt;tr&gt;&lt;td&gt;Montrose Av&lt;td&gt;Bushwick Av at Montrose Av&lt;tr&gt;&lt;td&gt;Grand St&lt;td&gt;Bushwick Av at Grand St&lt;tr&gt;&lt;td&gt;Graham Av&lt;td&gt;Metropolitan Av at Graham Av&lt;tr&gt;&lt;td&gt;Lorimer St  [L]&lt;br&gt;([G] at Metropolitan Av)&lt;td&gt;Metropolitan Av at Union Av&lt;/tr&gt;&lt;/table&gt;&lt;/div&gt;&lt;br&gt;&lt;br&gt;&lt;/font&gt;&lt;table class=plannedworkTableStyle  border=1 cellspacing=1 cellpadding=5 rules=none frame=box&gt;&lt;td&gt;  [ad]  &lt;td&gt;&lt;font size=1&gt;This service change affects one or more ADA accessible stations. Please call 511 for help with planning&lt;br&gt;your trip. If you are deaf or hard of hearing, use your preferred relay service provider or the free 711 relay.  &lt;/font&gt;&lt;/table&gt;&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>04/14/2017</Date>
+    <Time>11:32PM</Time>
   </line>
   <line>
     <name>NQR</name>
@@ -102,25 +127,7 @@
             
                   &lt;span class="TitlePlannedWork" &gt;Planned Detour&lt;/span&gt;
                   &lt;br/&gt;
-                &lt;a class="plannedWorkDetailLink" onclick=ShowHide(153475);&gt;&lt;b&gt;B6/B6 &lt;/b&gt;LTD&lt;b&gt;, B64, B82/B82 &lt;/b&gt;LTD&lt;b&gt;, X28 and X38 buses may experience delays due to a local event on Cropsey Av/Harway Av between Bay 40 St and Bay 41 St&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 153475 class="plannedWorkDetail" &gt;&lt;/b&gt;8 PM to 11:30 PM, Friday, Apr 14&lt;br&gt;&lt;br&gt;&amp;bull; Please allow additional travel time.&lt;br&gt;&lt;/font&gt;&lt;b&gt;          &lt;/b&gt;&lt;/font&gt;&lt;a href=http://bustime.mta.info/ target=_blank&gt;&lt;img height=30px src=http://web.mta.info/nyct/images/Bus_Time_logo.png&gt;&lt;/a&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
-              &lt;br/&gt;
-              &lt;br/&gt;
-            
-                  &lt;span class="TitlePlannedWork" &gt;Planned Detour&lt;/span&gt;
-                  &lt;br/&gt;
-                &lt;a class="plannedWorkDetailLink" onclick=ShowHide(153427);&gt;&lt;b&gt;B6/B6 &lt;/b&gt;LTD &lt;b&gt;buses may experience delays due to a local event on Bay Pkwy between 61 St and 63 St&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 153427 class="plannedWorkDetail" &gt;&lt;/b&gt;9:30 PM to 11:30 PM, Friday, Apr 14&lt;br&gt;&lt;br&gt;&amp;bull; Please allow additional travel time.&lt;br&gt;&lt;/font&gt;&lt;b&gt;          &lt;/b&gt;&lt;/font&gt;&lt;a href=http://bustime.mta.info/#b6 target=_blank&gt;&lt;img height=30px src=http://web.mta.info/nyct/images/Bus_Time_logo.png&gt;&lt;/a&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
-              &lt;br/&gt;
-              &lt;br/&gt;
-            
-                  &lt;span class="TitlePlannedWork" &gt;Planned Detour&lt;/span&gt;
-                  &lt;br/&gt;
                 &lt;a class="plannedWorkDetailLink" onclick=ShowHide(146863);&gt;&lt;b&gt;B6/B6&lt;/b&gt; LTD &lt;b&gt;and B84 &lt;/b&gt;-&lt;b&gt; East/Northbound buses rerouted from New Lots Av between Ashford St and Cleveland St&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 146863 class="plannedWorkDetail" &gt;&lt;/b&gt;Until further notice&lt;br&gt;&lt;br&gt;Due to construction, buses make corresponding stops along the detoured route.&lt;br&gt;&lt;br&gt;&lt;b&gt;&lt;i&gt;&lt;a style="cursor:pointer; text-decoration:underline;" onclick=ShowHide(1468630);&gt;Show Reroute Details&lt;/a&gt;&lt;/i&gt;&lt;/b&gt;&lt;br&gt;&lt;div id="1468630"; style="display:none;"&gt;Via Ashford St&lt;br&gt;Right on Hegeman Av&lt;br&gt;Left on Elton St&lt;br&gt;Left on New Lots Av&lt;br&gt;Right on Livonia Av to last stop&lt;/div&gt;&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
-              &lt;br/&gt;
-              &lt;br/&gt;
-            
-                  &lt;span class="TitlePlannedWork" &gt;Planned Detour&lt;/span&gt;
-                  &lt;br/&gt;
-                &lt;a class="plannedWorkDetailLink" onclick=ShowHide(153704);&gt;&lt;b&gt;B57, B61, B62 and B65 buses may experience delays due to a local event in Downtown Brooklyn&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 153704 class="plannedWorkDetail" &gt;&lt;/b&gt;6 PM to 11:30 PM, Friday, Apr 14&lt;br&gt;&lt;br&gt;&amp;bull; Please allow additional travel time.&lt;br&gt;&lt;/font&gt;&lt;b&gt;          &lt;/b&gt;&lt;/font&gt;&lt;a href=http://bustime.mta.info/ target=_blank&gt;&lt;img height=30px src=http://web.mta.info/nyct/images/Bus_Time_logo.png&gt;&lt;/a&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
               &lt;br/&gt;
               &lt;br/&gt;
             
@@ -214,7 +221,7 @@
               &lt;br/&gt;
             </text>
     <Date>04/14/2017</Date>
-    <Time>11:28PM</Time>
+    <Time>11:32PM</Time>
   </line>
   <line>
     <name>M1 - M116</name>
@@ -318,12 +325,6 @@
             
                   &lt;span class="TitlePlannedWork" &gt;Planned Detour&lt;/span&gt;
                   &lt;br/&gt;
-                &lt;a class="plannedWorkDetailLink" onclick=ShowHide(153473);&gt;&lt;b&gt;Q76 &lt;/b&gt;-&lt;b&gt; Southbound buses rerouted from Francis Lewis Blvd at Northern Blvd &lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 153473 class="plannedWorkDetail" &gt;&lt;/b&gt;8 PM to 11:30 PM, Friday, Apr 14&lt;br&gt;&lt;br&gt;Due to a local event, buses make corresponding stops along the detoured route.&lt;br&gt;&lt;br&gt;&lt;b&gt;&lt;i&gt;&lt;a style="cursor:pointer; text-decoration:underline;" onclick=ShowHide(1534730);&gt;Show Reroute Details&lt;/a&gt;&lt;/i&gt;&lt;/b&gt;&lt;br&gt;&lt;div id="1534730"; style="display:none;"&gt;Via Francis Lewis Blvd&lt;br&gt;Left on Northern Blvd&lt;br&gt;Right on Clearview Expy Svc Rd&lt;br&gt;Right on 46 Av&lt;br&gt;Left on Francis Lewis Blvd then regular route&lt;/div&gt;&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
-              &lt;br/&gt;
-              &lt;br/&gt;
-            
-                  &lt;span class="TitlePlannedWork" &gt;Planned Detour&lt;/span&gt;
-                  &lt;br/&gt;
                 &lt;a class="plannedWorkDetailLink" onclick=ShowHide(152856);&gt;&lt;b&gt;Q70 &lt;/b&gt;SBS&lt;b&gt; buses are fare free during Spring Break &lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 152856 class="plannedWorkDetail" &gt;&lt;/b&gt;until 11:59 PM Monday, Apr 17&lt;br&gt;&lt;br&gt;Ride free on the &lt;a href=http://web.mta.info/busco/schedules/q070scur.pdf target=_blank&gt;&lt;font color=#0000FF&gt;&lt;b&gt;&lt;u&gt;LaGuardia Link Q70 SBS&lt;/u&gt;&lt;/b&gt;&lt;/font&gt;&lt;/a&gt;. Customers do not have to &lt;br&gt;obtain a Select Bus Service ticket and may board at any door.&lt;br&gt;&lt;br&gt;&lt;b&gt;Note:&lt;/b&gt; Customers transferring to the subway will still have to pay the subway fare.&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
               &lt;br/&gt;
               &lt;br/&gt;
@@ -390,7 +391,7 @@
               &lt;br/&gt;
             </text>
     <Date>04/14/2017</Date>
-    <Time>11:28PM</Time>
+    <Time>11:32PM</Time>
   </line>
   <line>
     <name>S40 - S98</name>
@@ -408,15 +409,9 @@
                 &lt;a class="plannedWorkDetailLink" onclick=ShowHide(153851);&gt;&lt;b&gt;X1, X10 and X17C - Northbound buses rerouted from Church St at Cortlandt St to Dey St due to construction - No stops missed&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 153851 class="plannedWorkDetail" &gt;&lt;/b&gt;11 PM to 5 AM, Fri to Mon, Apr 14 - 17&lt;br&gt;&lt;br&gt;&amp;bull; Please allow additional travel time.&lt;br&gt;&lt;/font&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
               &lt;br/&gt;
               &lt;br/&gt;
-            
-                  &lt;span class="TitlePlannedWork" &gt;Planned Detour&lt;/span&gt;
-                  &lt;br/&gt;
-                &lt;a class="plannedWorkDetailLink" onclick=ShowHide(153475);&gt;&lt;b&gt;B6/B6 &lt;/b&gt;LTD&lt;b&gt;, B64, B82/B82 &lt;/b&gt;LTD&lt;b&gt;, X28 and X38 buses may experience delays due to a local event on Cropsey Av/Harway Av between Bay 40 St and Bay 41 St&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 153475 class="plannedWorkDetail" &gt;&lt;/b&gt;8 PM to 11:30 PM, Friday, Apr 14&lt;br&gt;&lt;br&gt;&amp;bull; Please allow additional travel time.&lt;br&gt;&lt;/font&gt;&lt;b&gt;          &lt;/b&gt;&lt;/font&gt;&lt;a href=http://bustime.mta.info/ target=_blank&gt;&lt;img height=30px src=http://web.mta.info/nyct/images/Bus_Time_logo.png&gt;&lt;/a&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
-              &lt;br/&gt;
-              &lt;br/&gt;
             </text>
     <Date>04/14/2017</Date>
-    <Time>11:28PM</Time>
+    <Time>11:32PM</Time>
   </line>
 </bus><BT>
   <line>
