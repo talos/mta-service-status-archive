@@ -1,17 +1,10 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>DELAYS</status>
-    <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;04/17/2017&amp;nbsp; 8:51AM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  Following an earlier incident at &lt;STRONG&gt;Chambers St&lt;/STRONG&gt;, [2] and [3] train service has resumed with delays.
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>04/17/2017</Date>
-    <Time> 8:51AM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>456</name>
@@ -677,10 +670,17 @@ dated April 17-20 for specific train and bus info, or s&lt;/span&gt;ee &lt;a hre
   </line>
   <line>
     <name>Port Jefferson</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>DELAYS</status>
+    <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;04/17/2017&amp;nbsp; 9:10AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  The 8:17AM train from Jamaica due Port Jefferson at 9:52AM is operating 12 minutes late due to equipment trouble.
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>04/17/2017</Date>
+    <Time> 9:10AM</Time>
   </line>
   <line>
     <name>Port Washington</name>
