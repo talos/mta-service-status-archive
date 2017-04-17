@@ -5,28 +5,21 @@
     <text>
                     &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;04/17/2017&amp;nbsp; 3:39PM
+                    &amp;nbsp;Posted:&amp;nbsp;04/17/2017&amp;nbsp; 4:02PM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
                   &lt;P&gt;Due to signal problems at &lt;STRONG&gt;Times Sq-42 St&lt;/STRONG&gt;, northbound [1] trains are running with delays. &lt;/P&gt;
 &lt;P&gt;Allow additional travel time.&lt;/P&gt;
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>04/17/2017</Date>
-    <Time> 3:39PM</Time>
+    <Time> 4:02PM</Time>
   </line>
   <line>
     <name>456</name>
-    <status>DELAYS</status>
-    <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;04/17/2017&amp;nbsp; 3:26PM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  Following an earlier incident at &lt;STRONG&gt;14 St-Union Sq&lt;/STRONG&gt;, [4], [5] and [6] train service has resumed with delays.
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>04/17/2017</Date>
-    <Time> 3:26PM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>7</name>
@@ -41,14 +34,14 @@
     <text>
                     &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;04/17/2017&amp;nbsp; 3:00PM
+                    &amp;nbsp;Posted:&amp;nbsp;04/17/2017&amp;nbsp; 4:02PM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
                   &lt;P&gt;Due to a rail condition at &lt;STRONG&gt;Canal St&lt;/STRONG&gt;, southbound [A] trains are running with delays. &lt;/P&gt;
 &lt;P&gt;Allow additional travel time.&lt;/P&gt;
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>04/17/2017</Date>
-    <Time> 3:00PM</Time>
+    <Time> 4:02PM</Time>
   </line>
   <line>
     <name>BDFM</name>
@@ -87,10 +80,15 @@
   </line>
   <line>
     <name>S</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>PLANNED WORK</status>
+    <text>
+                    &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
+                    &lt;br/&gt;
+                  &lt;a class="plannedWorkDetailLink" onclick=ShowHide(149318);&gt;&lt;b&gt;[S] 42 Street Shuttle: Expect crowding on platforms and trains during Rush Hours&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 149318 class="plannedWorkDetail" &gt;&lt;/b&gt;Mon to Fri, until Jul 2017&lt;br&gt;&lt;br&gt;Track 4 is out of service due to construction. &lt;br&gt;&lt;br&gt;Service between &lt;b&gt;Times Sq-42 St&lt;/b&gt; and &lt;b&gt;Grand Central-42 St &lt;/b&gt;operates on tracks 1 and 3.&lt;br&gt;&lt;br&gt;&lt;b&gt;Travel Alternatives:&lt;br&gt;&lt;br&gt;&lt;/b&gt;&amp;bull; Take the [7] between Grand Central-42 St and Times Sq-42 St.&lt;br&gt;&lt;br&gt;&amp;bull; Customers at Times Sq-42 St, who usually take the shuttle to the [4] [5] [6], can take the &lt;br&gt;   [N] [Q] [R] [W] to 14 St-Union Sq or [N] [R] [W] to Lexington Av-59 St instead.&lt;br&gt;                                                                                     &lt;a href=http://apps.mta.info/traintime/ target=_blank&gt;&lt;img height=26px src=http://apps.mta.info/traintime/desktop2Images/logoSm.png&gt;&lt;/a&gt;&lt;br&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>04/17/2017</Date>
+    <Time> 4:02PM</Time>
   </line>
   <line>
     <name>SIR</name>
@@ -104,16 +102,6 @@
     <name>B1 - B84</name>
     <status>DELAYS</status>
     <text>
-                  &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                  &lt;span class="DateStyle"&gt;
-                  &amp;nbsp;Posted:&amp;nbsp;04/17/2017&amp;nbsp; 3:44PM
-                  &lt;/span&gt;
-                  &lt;br/&gt;
-                  &lt;br/&gt;
-                Following an earlier incident on Franklin Av, &lt;STRONG&gt;B48&lt;/STRONG&gt; bus service has resumed with delays.
-              &lt;br/&gt;
-              &lt;br/&gt;
-            
                   &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                   &lt;span class="DateStyle"&gt;
                   &amp;nbsp;Posted:&amp;nbsp;04/17/2017&amp;nbsp; 3:40PM
@@ -156,7 +144,7 @@
               &lt;br/&gt;
             </text>
     <Date>04/17/2017</Date>
-    <Time> 3:44PM</Time>
+    <Time> 3:40PM</Time>
   </line>
   <line>
     <name>B100 - B103</name>
@@ -169,7 +157,7 @@
               &lt;br/&gt;
             </text>
     <Date>04/17/2017</Date>
-    <Time> 3:52PM</Time>
+    <Time> 4:02PM</Time>
   </line>
   <line>
     <name>BM1 - BM5</name>
@@ -223,12 +211,6 @@
             
                   &lt;span class="TitlePlannedWork" &gt;Planned Detour&lt;/span&gt;
                   &lt;br/&gt;
-                &lt;a class="plannedWorkDetailLink" onclick=ShowHide(141019);&gt;&lt;b&gt;Bx41/Bx41&lt;/b&gt; SBS - &lt;b&gt;Southbound buses rerouted from Melrose Av at 149 St&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 141019 class="plannedWorkDetail" &gt;&lt;/b&gt;7 AM to 4 PM, Mon to Fri, until further notice&lt;br&gt;&lt;br&gt;Due to road work, buses run via &lt;b&gt;3 Av &lt;/b&gt;making corresponding stops.&lt;br&gt;&lt;br&gt;&lt;b&gt;&lt;i&gt;&lt;a style="cursor:pointer; text-decoration:underline;" onclick=ShowHide(1410190);&gt;Show Reroute Details&lt;/a&gt;&lt;/i&gt;&lt;/b&gt;&lt;br&gt;&lt;div id="1410190"; style="display:none;"&gt;&lt;b&gt;Bx41&lt;br&gt;&lt;/b&gt;Via Melrose Av&lt;br&gt;Left on 151 St&lt;br&gt;Right on 3 Av&lt;br&gt;Left on E 146 St and take stand&lt;br&gt;&lt;br&gt;&lt;b&gt;Bx41 &lt;/b&gt;SBS&lt;br&gt;Via Melrose Av&lt;br&gt;Left on 161 St&lt;br&gt;Right on 3 Av&lt;br&gt;Left on E 146 St and take stand&lt;/div&gt;&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
-              &lt;br/&gt;
-              &lt;br/&gt;
-            
-                  &lt;span class="TitlePlannedWork" &gt;Planned Detour&lt;/span&gt;
-                  &lt;br/&gt;
                 &lt;a class="plannedWorkDetailLink" onclick=ShowHide(154026);&gt;&lt;b&gt;Bx13 buses rerouted from Ogden Av between 164 St and 161 St&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 154026 class="plannedWorkDetail" &gt;&lt;/b&gt;Until further notice&lt;br&gt;&lt;br&gt;Due to Con Edison work, buses make corresponding stops along the detoured route.&lt;br&gt;&lt;br&gt;&lt;b&gt;&lt;i&gt;&lt;a style="cursor:pointer; text-decoration:underline;" onclick=ShowHide(1540260);&gt;Show Reroute Details&lt;/a&gt;&lt;/i&gt;&lt;/b&gt;&lt;br&gt;&lt;div id="1540260"; style="display:none;"&gt;&lt;b&gt;Eastbound&lt;br&gt;&lt;/b&gt;Via Ogden Av&lt;br&gt;Left on 164 St&lt;br&gt;Right on Anderson Av&lt;br&gt;Right on Jerome Av&lt;br&gt;Left on 161 then regular route&lt;br&gt;&lt;br&gt;&lt;b&gt;Westbound&lt;br&gt;&lt;/b&gt;Via 161 St&lt;br&gt;Right on Woodycrest Av&lt;br&gt;Left on 163 St&lt;br&gt;Right on Ogden Av then regular route&lt;/div&gt;&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
               &lt;br/&gt;
               &lt;br/&gt;
@@ -264,6 +246,39 @@
     <name>M1 - M116</name>
     <status>DELAYS</status>
     <text>
+                  &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                  &lt;span class="DateStyle"&gt;
+                  &amp;nbsp;Posted:&amp;nbsp;04/17/2017&amp;nbsp; 4:02PM
+                  &lt;/span&gt;
+                  &lt;br/&gt;
+                  &lt;br/&gt;
+                &lt;P&gt;&lt;STRONG&gt;M22&lt;/STRONG&gt; buses are running with delays in both directions due to traffic conditions near the Brooklyn Bridge. &lt;/P&gt;
+&lt;P&gt;Allow additional travel time.&lt;/P&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
+                  &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                  &lt;span class="DateStyle"&gt;
+                  &amp;nbsp;Posted:&amp;nbsp;04/17/2017&amp;nbsp; 4:02PM
+                  &lt;/span&gt;
+                  &lt;br/&gt;
+                  &lt;br/&gt;
+                &lt;P&gt;&lt;STRONG&gt;M20, M21, M55&lt;/STRONG&gt; and &lt;STRONG&gt;X1&lt;/STRONG&gt; buses running with delays in both directions due to traffic conditions near the Holland Tunnel. &lt;/P&gt;
+&lt;P&gt;Allow additonal travel time.&lt;/P&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
+                  &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                  &lt;span class="DateStyle"&gt;
+                  &amp;nbsp;Posted:&amp;nbsp;04/17/2017&amp;nbsp; 4:00PM
+                  &lt;/span&gt;
+                  &lt;br/&gt;
+                  &lt;br/&gt;
+                &lt;P&gt;&lt;STRONG&gt;M103 &lt;/STRONG&gt;buses are running with delays in both directions, due to traffic conditions on all approaches to the Manhattan Bridge and Williamsburg Bridge.&lt;/P&gt;
+&lt;P&gt;Allow additional travel time.&lt;/P&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
                   &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                   &lt;span class="DateStyle"&gt;
                   &amp;nbsp;Posted:&amp;nbsp;04/17/2017&amp;nbsp; 3:59PM
@@ -342,7 +357,7 @@
               &lt;br/&gt;
             </text>
     <Date>04/17/2017</Date>
-    <Time> 3:59PM</Time>
+    <Time> 4:02PM</Time>
   </line>
   <line>
     <name>Q1 - Q113</name>
@@ -641,6 +656,17 @@
     <text>
                   &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                   &lt;span class="DateStyle"&gt;
+                  &amp;nbsp;Posted:&amp;nbsp;04/17/2017&amp;nbsp; 4:02PM
+                  &lt;/span&gt;
+                  &lt;br/&gt;
+                  &lt;br/&gt;
+                &lt;P&gt;&lt;STRONG&gt;M20, M21, M55&lt;/STRONG&gt; and &lt;STRONG&gt;X1&lt;/STRONG&gt; buses running with delays in both directions due to traffic conditions near the Holland Tunnel. &lt;/P&gt;
+&lt;P&gt;Allow additonal travel time.&lt;/P&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
+                  &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                  &lt;span class="DateStyle"&gt;
                   &amp;nbsp;Posted:&amp;nbsp;04/17/2017&amp;nbsp; 3:16PM
                   &lt;/span&gt;
                   &lt;br/&gt;
@@ -657,7 +683,7 @@
               &lt;br/&gt;
             </text>
     <Date>04/17/2017</Date>
-    <Time> 3:16PM</Time>
+    <Time> 4:02PM</Time>
   </line>
 </bus><BT>
   <line>
