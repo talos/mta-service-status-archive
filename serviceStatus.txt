@@ -29,17 +29,10 @@
   </line>
   <line>
     <name>BDFM</name>
-    <status>DELAYS</status>
-    <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;04/19/2017&amp;nbsp; 9:14AM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  Following an earlier incident at &lt;STRONG&gt;174-175 Sts&lt;/STRONG&gt;, [D] train service has resumed with delays.
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>04/19/2017</Date>
-    <Time> 9:14AM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>G</name>
@@ -86,7 +79,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>04/19/2017</Date>
-    <Time> 9:22AM</Time>
+    <Time> 9:28AM</Time>
   </line>
   <line>
     <name>SIR</name>
@@ -98,7 +91,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>04/19/2017</Date>
-    <Time> 9:22AM</Time>
+    <Time> 9:28AM</Time>
   </line>
 </subway><bus>
   <line>
@@ -183,7 +176,7 @@
               &lt;br/&gt;
             </text>
     <Date>04/19/2017</Date>
-    <Time> 9:22AM</Time>
+    <Time> 9:28AM</Time>
   </line>
   <line>
     <name>BM1 - BM5</name>
@@ -196,7 +189,7 @@
               &lt;br/&gt;
             </text>
     <Date>04/19/2017</Date>
-    <Time> 9:22AM</Time>
+    <Time> 9:28AM</Time>
   </line>
   <line>
     <name>BX1 - BX55</name>
@@ -250,7 +243,7 @@
               &lt;br/&gt;
             </text>
     <Date>04/19/2017</Date>
-    <Time> 9:22AM</Time>
+    <Time> 9:28AM</Time>
   </line>
   <line>
     <name>M1 - M116</name>
@@ -290,8 +283,20 @@
   </line>
   <line>
     <name>Q1 - Q113</name>
-    <status>DELAYS</status>
+    <status>SERVICE CHANGE</status>
     <text>
+                  &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                  &lt;span class="DateStyle"&gt;
+                  &amp;nbsp;Posted:&amp;nbsp;04/19/2017&amp;nbsp; 9:30AM
+                  &lt;/span&gt;
+                  &lt;br/&gt;
+                  &lt;br/&gt;
+                &lt;P&gt;&lt;STRONG&gt;Q58&lt;/STRONG&gt; buses are detoured, due to milling on Wyckoff Av from Putnam Av to Ridgewood Pl. &lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;Q58 Eastbound&lt;/STRONG&gt;: Via Myrtle Av, right on Palmetto St and regular route.&lt;/P&gt;
+&lt;P&gt;Allow additional travel time.&lt;/P&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
                   &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                   &lt;span class="DateStyle"&gt;
                   &amp;nbsp;Posted:&amp;nbsp;04/19/2017&amp;nbsp; 9:13AM
@@ -398,12 +403,12 @@
             
                   &lt;span class="TitlePlannedWork" &gt;Planned Detour&lt;/span&gt;
                   &lt;br/&gt;
-                &lt;a class="plannedWorkDetailLink" onclick=ShowHide(153830);&gt;&lt;b&gt;Q17/Q17 &lt;/b&gt;LTD&lt;b&gt; - Southbound bus stop on Main St at Roosevelt Av is temporarily relocated &lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 153830 class="plannedWorkDetail" &gt;&lt;/b&gt;Until further notice&lt;br&gt;&lt;br&gt;Due to construction, please use the nearby stop &lt;b&gt;on 138 St &lt;/b&gt;at 37 Av.&lt;br&gt;&lt;br&gt;&lt;b&gt;Reminder&lt;/b&gt;: &lt;a href=http://web.mta.info/nyct/bus/schedule/queens/q017cur.pdf target=_blank&gt;&lt;font color=#0000FF&gt;&lt;b&gt;&lt;u&gt;Q17 LTD&lt;/b&gt;&lt;/u&gt;&lt;/font&gt;&lt;/a&gt; buses do not operate overnights.&lt;br&gt;&lt;b&gt;                                      [TP]&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+                &lt;a class="plannedWorkDetailLink" onclick=ShowHide(153830);&gt;&lt;b&gt;Q17/Q17 &lt;/b&gt;LTD - &lt;b&gt;Southbound stop on Main St at Roosevelt Av is temporarily relocated &lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 153830 class="plannedWorkDetail" &gt;&lt;/b&gt;Until further notice&lt;br&gt;&lt;br&gt;Due to construction, please use the nearby stop &lt;b&gt;on 138 St &lt;/b&gt;at 37 Av.&lt;br&gt;&lt;br&gt;&lt;b&gt;Reminder&lt;/b&gt;: &lt;a href=http://web.mta.info/nyct/bus/schedule/queens/q017cur.pdf target=_blank&gt;&lt;font color=#0000FF&gt;&lt;b&gt;&lt;u&gt;Q17 LTD&lt;/b&gt;&lt;/u&gt;&lt;/font&gt;&lt;/a&gt; buses do not operate overnights.&lt;br&gt;&lt;b&gt;                                      [TP]&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
               &lt;br/&gt;
               &lt;br/&gt;
             </text>
     <Date>04/19/2017</Date>
-    <Time> 9:13AM</Time>
+    <Time> 9:30AM</Time>
   </line>
   <line>
     <name>QM1 - QM44</name>
@@ -416,7 +421,7 @@
               &lt;br/&gt;
             </text>
     <Date>04/19/2017</Date>
-    <Time> 9:22AM</Time>
+    <Time> 9:28AM</Time>
   </line>
   <line>
     <name>S40 - S98</name>
@@ -441,7 +446,7 @@
               &lt;br/&gt;
             </text>
     <Date>04/19/2017</Date>
-    <Time> 9:22AM</Time>
+    <Time> 9:28AM</Time>
   </line>
   <line>
     <name>x1 - x68</name>
@@ -454,7 +459,7 @@
               &lt;br/&gt;
             </text>
     <Date>04/19/2017</Date>
-    <Time> 9:22AM</Time>
+    <Time> 9:28AM</Time>
   </line>
 </bus><BT>
   <line>
