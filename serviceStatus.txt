@@ -1,13 +1,16 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>DELAYS</status>
+    <status>SERVICE CHANGE</status>
     <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;04/20/2017&amp;nbsp; 3:05PM
+                    &amp;nbsp;Posted:&amp;nbsp;04/20/2017&amp;nbsp; 3:18PM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  &lt;P&gt;Due to a train with mechanical problems at 116 St, southbound [2] and [3] trains are running with delays. &lt;/P&gt;
+                  &lt;P&gt;Due to a train with mechanical problems at &lt;STRONG&gt;116 St&lt;/STRONG&gt;, the following service changes are in effect:&lt;/P&gt;
+&lt;P&gt;Some northbound [3] trains are terminating at &lt;STRONG&gt;96 St.&lt;/STRONG&gt;&lt;/P&gt;
+&lt;P&gt;Some northbound [3] trains are running on the [2] line from &lt;STRONG&gt;135 St&lt;/STRONG&gt; to &lt;STRONG&gt;3 Av-149 St&lt;/STRONG&gt; and terminate.&lt;/P&gt;
+&lt;P&gt;Expect delays on [2], [3] and [5] train service.&lt;/P&gt;
 &lt;P&gt;Allow additional travel time.&lt;/P&gt;
                 &lt;br/&gt;&lt;br/&gt;
               
@@ -23,14 +26,25 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>04/20/2017</Date>
-    <Time> 3:05PM</Time>
+    <Time> 3:18PM</Time>
   </line>
   <line>
     <name>456</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>SERVICE CHANGE</status>
+    <text>
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;04/20/2017&amp;nbsp; 3:18PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;P&gt;Due to a train with mechanical problems at &lt;STRONG&gt;116 St&lt;/STRONG&gt;, the following service changes are in effect:&lt;/P&gt;
+&lt;P&gt;Some northbound [3] trains are terminating at &lt;STRONG&gt;96 St.&lt;/STRONG&gt;&lt;/P&gt;
+&lt;P&gt;Some northbound [3] trains are running on the [2] line from &lt;STRONG&gt;135 St&lt;/STRONG&gt; to &lt;STRONG&gt;3 Av-149 St&lt;/STRONG&gt; and terminate.&lt;/P&gt;
+&lt;P&gt;Expect delays on [2], [3] and [5] train service.&lt;/P&gt;
+&lt;P&gt;Allow additional travel time.&lt;/P&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>04/20/2017</Date>
+    <Time> 3:18PM</Time>
   </line>
   <line>
     <name>7</name>
@@ -246,6 +260,16 @@
     <text>
                   &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                   &lt;span class="DateStyle"&gt;
+                  &amp;nbsp;Posted:&amp;nbsp;04/20/2017&amp;nbsp; 3:17PM
+                  &lt;/span&gt;
+                  &lt;br/&gt;
+                  &lt;br/&gt;
+                Following an earlier incident on Ft Washington Av, &lt;STRONG&gt;M4&lt;/STRONG&gt; and &lt;STRONG&gt;M98&lt;/STRONG&gt; bus service has resumed with delays.
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
+                  &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                  &lt;span class="DateStyle"&gt;
                   &amp;nbsp;Posted:&amp;nbsp;04/20/2017&amp;nbsp; 3:16PM
                   &lt;/span&gt;
                   &lt;br/&gt;
@@ -288,17 +312,6 @@
               &lt;br/&gt;
               &lt;br/&gt;
             
-                  &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                  &lt;span class="DateStyle"&gt;
-                  &amp;nbsp;Posted:&amp;nbsp;04/20/2017&amp;nbsp; 2:15PM
-                  &lt;/span&gt;
-                  &lt;br/&gt;
-                  &lt;br/&gt;
-                &lt;P&gt;&lt;STRONG&gt;M4&lt;/STRONG&gt; and &lt;STRONG&gt;M98&lt;/STRONG&gt; buses are delayed in both directions, due to construction on Ft Washington Av between 181 St and 182 St. &lt;/P&gt;
-&lt;P&gt;Allow additional travel time.&lt;/P&gt;
-              &lt;br/&gt;
-              &lt;br/&gt;
-            
                   &lt;span class="TitlePlannedWork" &gt;Planned Detour&lt;/span&gt;
                   &lt;br/&gt;
                 &lt;a class="plannedWorkDetailLink" onclick=ShowHide(154021);&gt;&lt;b&gt;M21 and M55&lt;/b&gt; - &lt;b&gt;East/Northbound buses the bypass stop on 6 Av at Spring St &lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 154021 class="plannedWorkDetail" &gt;&lt;/b&gt;Until further notice&lt;br&gt;&lt;br&gt;Due to construction, please follow directional signage to the nearby stop&lt;b&gt; on 6 Av &lt;/b&gt;at Houston St.&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
@@ -318,7 +331,7 @@
               &lt;br/&gt;
             </text>
     <Date>04/20/2017</Date>
-    <Time> 3:16PM</Time>
+    <Time> 3:17PM</Time>
   </line>
   <line>
     <name>Q1 - Q113</name>
@@ -663,17 +676,10 @@
   </line>
   <line>
     <name>Montauk</name>
-    <status>DELAYS</status>
-    <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;04/20/2017&amp;nbsp; 2:49PM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  The 2:27PM train from Babylon due Patchogue at 2:57PM is operating 20 minutes late after being held at Babylon for late-arriving equipment.
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>04/20/2017</Date>
-    <Time> 2:49PM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>Oyster Bay</name>
