@@ -1,10 +1,21 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>SERVICE CHANGE</status>
+    <text>
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;04/20/2017&amp;nbsp; 5:30AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;P&gt;[3] train [SB] &lt;STRONG&gt;Shuttle Buses&lt;/STRONG&gt; are detoured due to Verizon work on Dumont Av between Mother Gaston Blvd and Rockaway Av. &lt;/P&gt;
+&lt;P&gt;Detour is as follows:&lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;Southbound&lt;/STRONG&gt;: Via Powell St, left on Blake Av, left on Rockaway Av and regular route. &lt;/P&gt;
+&lt;P&gt;No stops will be missed on detour route.&lt;/P&gt;
+&lt;P&gt;Allow additional travel time. &lt;/P&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>04/20/2017</Date>
+    <Time> 5:30AM</Time>
   </line>
   <line>
     <name>456</name>
