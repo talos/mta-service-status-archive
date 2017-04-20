@@ -42,7 +42,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>04/20/2017</Date>
-    <Time>12:28PM</Time>
+    <Time>12:32PM</Time>
   </line>
   <line>
     <name>7</name>
@@ -68,7 +68,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>04/20/2017</Date>
-    <Time>12:28PM</Time>
+    <Time>12:32PM</Time>
   </line>
   <line>
     <name>G</name>
@@ -111,7 +111,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>04/20/2017</Date>
-    <Time>12:28PM</Time>
+    <Time>12:32PM</Time>
   </line>
   <line>
     <name>S</name>
@@ -130,7 +130,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>04/20/2017</Date>
-    <Time>12:28PM</Time>
+    <Time>12:32PM</Time>
   </line>
 </subway><bus>
   <line>
@@ -268,7 +268,7 @@
               &lt;br/&gt;
             </text>
     <Date>04/20/2017</Date>
-    <Time>12:28PM</Time>
+    <Time>12:32PM</Time>
   </line>
   <line>
     <name>BM1 - BM5</name>
@@ -335,12 +335,23 @@
               &lt;br/&gt;
             </text>
     <Date>04/20/2017</Date>
-    <Time>12:28PM</Time>
+    <Time>12:32PM</Time>
   </line>
   <line>
     <name>M1 - M116</name>
-    <status>SERVICE CHANGE</status>
+    <status>DELAYS</status>
     <text>
+                  &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                  &lt;span class="DateStyle"&gt;
+                  &amp;nbsp;Posted:&amp;nbsp;04/20/2017&amp;nbsp;12:32PM
+                  &lt;/span&gt;
+                  &lt;br/&gt;
+                  &lt;br/&gt;
+                &lt;P&gt;&lt;STRONG&gt;M4&lt;/STRONG&gt; and &lt;STRONG&gt;M98&lt;/STRONG&gt; buses are delayed in both directions, due to construction on Ft Washington Av between 181 St and 182 St. &lt;/P&gt;
+&lt;P&gt;Allow additional travel time.&lt;/P&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
                   &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
                   &lt;span class="DateStyle"&gt;
                   &amp;nbsp;Posted:&amp;nbsp;04/20/2017&amp;nbsp;12:03PM
@@ -348,17 +359,6 @@
                   &lt;br/&gt;
                   &lt;br/&gt;
                 &lt;P&gt;&lt;STRONG&gt;M7, &lt;/STRONG&gt;&lt;STRONG&gt;M11&lt;/STRONG&gt; and &lt;STRONG&gt;M79&lt;/STRONG&gt; northbound buses will be bypassing bus stop on Amsterdam Av at W 79 St, due to construction. &lt;/P&gt;
-&lt;P&gt;Allow additional travel time.&lt;/P&gt;
-              &lt;br/&gt;
-              &lt;br/&gt;
-            
-                  &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                  &lt;span class="DateStyle"&gt;
-                  &amp;nbsp;Posted:&amp;nbsp;04/20/2017&amp;nbsp;10:03AM
-                  &lt;/span&gt;
-                  &lt;br/&gt;
-                  &lt;br/&gt;
-                &lt;P&gt;&lt;STRONG&gt;M4&lt;/STRONG&gt; and &lt;STRONG&gt;M98&lt;/STRONG&gt; buses are delayed in both directions, due to construction on Ft Washington Av between 181 St and 182 St. &lt;/P&gt;
 &lt;P&gt;Allow additional travel time.&lt;/P&gt;
               &lt;br/&gt;
               &lt;br/&gt;
@@ -382,7 +382,7 @@
               &lt;br/&gt;
             </text>
     <Date>04/20/2017</Date>
-    <Time>12:03PM</Time>
+    <Time>12:32PM</Time>
   </line>
   <line>
     <name>Q1 - Q113</name>
@@ -552,7 +552,7 @@
               &lt;br/&gt;
             </text>
     <Date>04/20/2017</Date>
-    <Time>12:28PM</Time>
+    <Time>12:32PM</Time>
   </line>
   <line>
     <name>S40 - S98</name>
@@ -577,7 +577,7 @@
               &lt;br/&gt;
             </text>
     <Date>04/20/2017</Date>
-    <Time>12:28PM</Time>
+    <Time>12:32PM</Time>
   </line>
   <line>
     <name>x1 - x68</name>
@@ -732,17 +732,10 @@
 </BT><LIRR>
   <line>
     <name>Babylon</name>
-    <status>DELAYS</status>
-    <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;04/20/2017&amp;nbsp;12:20PM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  &lt;body bgcolor='White' style='font-family:sans-serif;font-size:10pt;'&gt;&lt;p&gt;The 11:05AM train from Penn due Babylon at 12:21PM is operating 10 minutes late due to track work. &lt;/p&gt;&lt;p&gt;The 11:22AM train from Penn due Babylon at 12:24PM is operating 10 minutes late due to track work.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;/body&gt;
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>04/20/2017</Date>
-    <Time>12:20PM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>City Terminal Zone</name>
