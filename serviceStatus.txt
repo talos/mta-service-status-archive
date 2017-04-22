@@ -55,18 +55,18 @@
   </line>
   <line>
     <name>7</name>
-    <status>DELAYS</status>
+    <status>SERVICE CHANGE</status>
     <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;04/22/2017&amp;nbsp; 8:15AM
+                    &amp;nbsp;Posted:&amp;nbsp;04/22/2017&amp;nbsp; 8:19AM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  &lt;P&gt;Due to a sick passenger at &lt;STRONG&gt;46 St-Bliss St&lt;/STRONG&gt;, 34 St bound [7] trains are running with delays.&lt;/P&gt;
+                  &lt;P&gt;Due to a sick passenger at &lt;STRONG&gt;46 St-Bliss St&lt;/STRONG&gt;, 34 St-Hudson Yards bound [7] trains are running express from &lt;STRONG&gt;74 St-Broadway&lt;/STRONG&gt; to &lt;STRONG&gt;Queensboro Plaza.&lt;/STRONG&gt;&lt;/P&gt;
 &lt;P&gt;Allow additional travel time. &lt;/P&gt;
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>04/22/2017</Date>
-    <Time> 8:15AM</Time>
+    <Time> 8:19AM</Time>
   </line>
   <line>
     <name>ACE</name>
@@ -182,8 +182,22 @@
 </subway><bus>
   <line>
     <name>B1 - B84</name>
-    <status>PLANNED WORK</status>
+    <status>SERVICE CHANGE</status>
     <text>
+                  &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                  &lt;span class="DateStyle"&gt;
+                  &amp;nbsp;Posted:&amp;nbsp;04/22/2017&amp;nbsp; 8:20AM
+                  &lt;/span&gt;
+                  &lt;br/&gt;
+                  &lt;br/&gt;
+                &lt;P&gt;&lt;STRONG&gt;B47&lt;/STRONG&gt; buses are detoured in both directions, due to FDNY activity Gates Av and Ralph Av. &lt;/P&gt;
+&lt;P&gt;Detour is as follows: &lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;Northbound&lt;/STRONG&gt;: Via Ralph Av, left on Halsey St, right on Malcolm X Blvd, right on Gates Av, left on Patchen Av, left on Broadway and regular route. &lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;Southbound&lt;/STRONG&gt;: Via Broadway, right on Halsey St, left on Ralph Av and regular route. &lt;/P&gt;
+&lt;P&gt;Allow additional travel time. &lt;/P&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
                   &lt;span class="TitlePlannedWork" &gt;Planned Detour&lt;/span&gt;
                   &lt;br/&gt;
                 &lt;a class="plannedWorkDetailLink" onclick=ShowHide(117571);&gt;&lt;b&gt;B9 buses may experience delays due to track work on the N line between Stillwell Av and 8 Av &lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 117571 class="plannedWorkDetail" &gt;&lt;/b&gt;Until further notice&lt;br&gt;&lt;br&gt;&amp;bull; Please allow additional travel time.&lt;br&gt;&lt;/font&gt;&lt;b&gt;          &lt;/b&gt;&lt;/font&gt;&lt;a href=http://bustime.mta.info/#b9 target=_blank&gt;&lt;img height=30px src=http://web.mta.info/nyct/images/Bus_Time_logo.png&gt;&lt;/a&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
@@ -209,7 +223,7 @@
               &lt;br/&gt;
             </text>
     <Date>04/22/2017</Date>
-    <Time> 8:12AM</Time>
+    <Time> 8:20AM</Time>
   </line>
   <line>
     <name>B100 - B103</name>
