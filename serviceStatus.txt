@@ -5,6 +5,11 @@
     <text>
                     &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
                     &lt;br/&gt;
+                  &lt;a class="plannedWorkDetailLink" onclick=ShowHide(150600);&gt;&lt;b&gt;[3] Trains replace the [4] in Brooklyn&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 150600 class="plannedWorkDetail" &gt;&lt;/b&gt;Weekends, 11:45 PM Fri to 5 AM Mon, until May 22&lt;br&gt;&lt;br&gt;&lt;b&gt;[3]&lt;/b&gt; service operates between &lt;b&gt;148 St&lt;/b&gt; and &lt;b&gt;New Lots Av&lt;/b&gt;, making &lt;b&gt;[4]&lt;/b&gt; stops in Brooklyn &lt;i&gt;all weekend&lt;/i&gt;.&lt;br&gt;&lt;br&gt;&lt;b&gt;Note:&lt;/b&gt; Sutter Av-Rutland Rd and Junius St are closed for renovation.&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              
+                    &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
+                    &lt;br/&gt;
                   &lt;a class="plannedWorkDetailLink" onclick=ShowHide(150592);&gt;&lt;b&gt;[3] Trains run local in both directions between 34 St-Penn Station and Chambers St&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 150592 class="plannedWorkDetail" &gt;&lt;/b&gt;Weekend, 11:30 PM Fri to 5 AM Mon, Apr 21 - 24&lt;br&gt;&lt;br&gt;&amp;bull; Please allow additional travel time.&lt;br&gt;&lt;br&gt;&lt;b&gt;Note:&lt;/b&gt; [3]&lt;b&gt; &lt;/b&gt;service operates between 148 St and New Lots Av, &lt;i&gt;all weekend&lt;/i&gt;.&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
                 &lt;br/&gt;&lt;br/&gt;
               
@@ -29,7 +34,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>04/22/2017</Date>
-    <Time>11:42PM</Time>
+    <Time>11:48PM</Time>
   </line>
   <line>
     <name>456</name>
@@ -51,7 +56,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>04/22/2017</Date>
-    <Time>11:42PM</Time>
+    <Time>11:48PM</Time>
   </line>
   <line>
     <name>7</name>
@@ -80,7 +85,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>04/22/2017</Date>
-    <Time>11:42PM</Time>
+    <Time>11:48PM</Time>
   </line>
   <line>
     <name>BDFM</name>
@@ -92,7 +97,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>04/22/2017</Date>
-    <Time>11:42PM</Time>
+    <Time>11:48PM</Time>
   </line>
   <line>
     <name>G</name>
@@ -111,7 +116,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>04/22/2017</Date>
-    <Time>11:42PM</Time>
+    <Time>11:48PM</Time>
   </line>
   <line>
     <name>L</name>
@@ -162,7 +167,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>04/22/2017</Date>
-    <Time>11:42PM</Time>
+    <Time>11:48PM</Time>
   </line>
 </subway><bus>
   <line>
@@ -182,7 +187,7 @@
               &lt;br/&gt;
             </text>
     <Date>04/22/2017</Date>
-    <Time>11:42PM</Time>
+    <Time>11:48PM</Time>
   </line>
   <line>
     <name>B100 - B103</name>
@@ -195,7 +200,7 @@
               &lt;br/&gt;
             </text>
     <Date>04/22/2017</Date>
-    <Time>11:42PM</Time>
+    <Time>11:48PM</Time>
   </line>
   <line>
     <name>BM1 - BM5</name>
@@ -208,7 +213,7 @@
               &lt;br/&gt;
             </text>
     <Date>04/22/2017</Date>
-    <Time>11:42PM</Time>
+    <Time>11:48PM</Time>
   </line>
   <line>
     <name>BX1 - BX55</name>
@@ -221,7 +226,7 @@
               &lt;br/&gt;
             </text>
     <Date>04/22/2017</Date>
-    <Time>11:42PM</Time>
+    <Time>11:48PM</Time>
   </line>
   <line>
     <name>BXM1 - BXM18</name>
@@ -234,7 +239,7 @@
               &lt;br/&gt;
             </text>
     <Date>04/22/2017</Date>
-    <Time>11:42PM</Time>
+    <Time>11:48PM</Time>
   </line>
   <line>
     <name>M1 - M116</name>
@@ -395,7 +400,7 @@
               &lt;br/&gt;
             </text>
     <Date>04/22/2017</Date>
-    <Time>11:42PM</Time>
+    <Time>11:48PM</Time>
   </line>
   <line>
     <name>x1 - x68</name>
@@ -408,7 +413,7 @@
               &lt;br/&gt;
             </text>
     <Date>04/22/2017</Date>
-    <Time>11:42PM</Time>
+    <Time>11:48PM</Time>
   </line>
 </bus><BT>
   <line>
@@ -522,9 +527,12 @@
     <text>
                     &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;04/22/2017&amp;nbsp;11:44PM
+                    &amp;nbsp;Posted:&amp;nbsp;04/22/2017&amp;nbsp;11:48PM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  The 11:00PM train from Penn due Babylon at 12:18AM is operating 15 minutes late due to an earlier equipment problem.
+                  &lt;P&gt;&lt;STRONG&gt;&lt;U&gt;Eastbound:&lt;/U&gt;&lt;/STRONG&gt;&lt;/P&gt;
+&lt;P&gt;The 11:00PM train from Penn due Babylon at 12:18AM is operating 15 minutes late due to an earlier equipment problem.&lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;&lt;U&gt;Westbound: &lt;/U&gt;&lt;/STRONG&gt;&lt;/P&gt;
+&lt;P&gt;The 10:56PM train from Babylon due Penn at 12:13AM is operating 11 minutes late due to track work. &lt;/P&gt;
                 &lt;br/&gt;&lt;br/&gt;
               
                     &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
@@ -578,7 +586,7 @@ information will be made available as soon as possible.&lt;/font&gt;&lt;/font&gt
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>04/22/2017</Date>
-    <Time>11:44PM</Time>
+    <Time>11:48PM</Time>
   </line>
   <line>
     <name>City Terminal Zone</name>
