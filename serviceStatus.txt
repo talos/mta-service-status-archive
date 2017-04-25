@@ -15,18 +15,18 @@
   </line>
   <line>
     <name>7</name>
-    <status>DELAYS</status>
+    <status>SERVICE CHANGE</status>
     <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;04/25/2017&amp;nbsp; 7:16AM
+                    &amp;nbsp;Posted:&amp;nbsp;04/25/2017&amp;nbsp; 7:25AM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  &lt;P&gt;Due to signal problems at &lt;STRONG&gt;Mets-Willets Pt&lt;/STRONG&gt;, Main St bound [7] trains are running with delays. &lt;/P&gt;
+                  &lt;P&gt;Due to signal problems at &lt;STRONG&gt;Mets-Willets Pt&lt;/STRONG&gt;, 34 St bound [7D] express trains are running local from &lt;STRONG&gt;Mets-Willets Pt&lt;/STRONG&gt; to &lt;STRONG&gt;74 St-Broadway&lt;/STRONG&gt;. &lt;/P&gt;
 &lt;P&gt;Allow additional travel time.&lt;/P&gt;
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>04/25/2017</Date>
-    <Time> 7:16AM</Time>
+    <Time> 7:25AM</Time>
   </line>
   <line>
     <name>ACE</name>
@@ -444,10 +444,15 @@
   </line>
   <line>
     <name>Verrazano-Narrows</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>PLANNED WORK</status>
+    <text>
+                    &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
+                    &lt;br/&gt;
+                  VNB planned work; upper level Staten Island bound one lane closed. Expect delays.
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>04/25/2017</Date>
+    <Time> 7:25AM</Time>
   </line>
 </BT><LIRR>
   <line>
