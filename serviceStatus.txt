@@ -1,10 +1,19 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>SERVICE CHANGE</status>
+    <text>
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;04/25/2017&amp;nbsp; 3:19PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;P&gt;Due to an unruly passenger at &lt;STRONG&gt;66 St-Lincoln Center&lt;/STRONG&gt;, northbound [1] trains are running express from &lt;STRONG&gt;Times Sq-42 St&lt;/STRONG&gt; to &lt;STRONG&gt;72 St&lt;/STRONG&gt;. &lt;/P&gt;
+&lt;P&gt;Expect delays to [2] and [3] train service.&lt;/P&gt;
+&lt;P&gt;Allow additional travel time.&lt;/P&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>04/25/2017</Date>
+    <Time> 3:19PM</Time>
   </line>
   <line>
     <name>456</name>
