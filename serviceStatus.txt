@@ -1,24 +1,10 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>DELAYS</status>
-    <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;04/25/2017&amp;nbsp; 8:07PM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  Following an earlier incident at &lt;STRONG&gt;135 St&lt;/STRONG&gt;, [1], [2] and [3] train service has resumed with delays.
-                &lt;br/&gt;&lt;br/&gt;
-              
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;04/25/2017&amp;nbsp; 8:04PM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  Following an earlier incident at &lt;STRONG&gt;72 St&lt;/STRONG&gt;, [1], [2] and [3] train service has resumed with delays.
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>04/25/2017</Date>
-    <Time> 8:07PM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>456</name>
@@ -36,29 +22,15 @@
   </line>
   <line>
     <name>ACE</name>
-    <status>DELAYS</status>
-    <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;04/25/2017&amp;nbsp; 8:05PM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  Following an earlier incident at &lt;STRONG&gt;Court Sq-23 St&lt;/STRONG&gt;, [E], [F] and [M] train service has resumed with delays.
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>04/25/2017</Date>
-    <Time> 8:05PM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>BDFM</name>
-    <status>DELAYS</status>
+    <status>SERVICE CHANGE</status>
     <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;04/25/2017&amp;nbsp; 8:05PM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  Following an earlier incident at &lt;STRONG&gt;Court Sq-23 St&lt;/STRONG&gt;, [E], [F] and [M] train service has resumed with delays.
-                &lt;br/&gt;&lt;br/&gt;
-              
                     &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
                     &amp;nbsp;Posted:&amp;nbsp;04/25/2017&amp;nbsp; 8:01PM
@@ -75,7 +47,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>04/25/2017</Date>
-    <Time> 8:05PM</Time>
+    <Time> 8:01PM</Time>
   </line>
   <line>
     <name>G</name>
@@ -126,16 +98,6 @@
     <text>
                   &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                   &lt;span class="DateStyle"&gt;
-                  &amp;nbsp;Posted:&amp;nbsp;04/25/2017&amp;nbsp; 8:19PM
-                  &lt;/span&gt;
-                  &lt;br/&gt;
-                  &lt;br/&gt;
-                Following an earlier incident on Livingston St, &lt;STRONG&gt;B41, B45, B57, B61, B62, B65, B67&lt;/STRONG&gt; and &lt;STRONG&gt;B103 &lt;/STRONG&gt;bus service has resumed with delays.
-              &lt;br/&gt;
-              &lt;br/&gt;
-            
-                  &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                  &lt;span class="DateStyle"&gt;
                   &amp;nbsp;Posted:&amp;nbsp;04/25/2017&amp;nbsp; 6:07PM
                   &lt;/span&gt;
                   &lt;br/&gt;
@@ -175,22 +137,12 @@
               &lt;br/&gt;
             </text>
     <Date>04/25/2017</Date>
-    <Time> 8:19PM</Time>
+    <Time> 6:07PM</Time>
   </line>
   <line>
     <name>B100 - B103</name>
-    <status>DELAYS</status>
+    <status>PLANNED WORK</status>
     <text>
-                  &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                  &lt;span class="DateStyle"&gt;
-                  &amp;nbsp;Posted:&amp;nbsp;04/25/2017&amp;nbsp; 8:19PM
-                  &lt;/span&gt;
-                  &lt;br/&gt;
-                  &lt;br/&gt;
-                Following an earlier incident on Livingston St, &lt;STRONG&gt;B41, B45, B57, B61, B62, B65, B67&lt;/STRONG&gt; and &lt;STRONG&gt;B103 &lt;/STRONG&gt;bus service has resumed with delays.
-              &lt;br/&gt;
-              &lt;br/&gt;
-            
                   &lt;span class="TitlePlannedWork" &gt;Planned Detour&lt;/span&gt;
                   &lt;br/&gt;
                 &lt;a class="plannedWorkDetailLink" onclick=ShowHide(152486);&gt;&lt;b&gt;B103 &lt;/b&gt;LTD&lt;b&gt; stop on E 105 St at Avenue J temporarily closed&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 152486 class="plannedWorkDetail" &gt;&lt;/b&gt;Until further notice&lt;br&gt;&lt;br&gt;Due to construction, please follow directional signage to nearby stops&lt;b&gt; on E 105 St &lt;/b&gt;at Avenue K or Flatlands Av in both directions.&lt;br&gt;&lt;b&gt;                               &lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
@@ -198,7 +150,7 @@
               &lt;br/&gt;
             </text>
     <Date>04/25/2017</Date>
-    <Time> 8:19PM</Time>
+    <Time> 8:32PM</Time>
   </line>
   <line>
     <name>BM1 - BM5</name>
@@ -211,7 +163,7 @@
               &lt;br/&gt;
             </text>
     <Date>04/25/2017</Date>
-    <Time> 8:28PM</Time>
+    <Time> 8:32PM</Time>
   </line>
   <line>
     <name>BX1 - BX55</name>
@@ -264,7 +216,7 @@
               &lt;br/&gt;
             </text>
     <Date>04/25/2017</Date>
-    <Time> 8:28PM</Time>
+    <Time> 8:32PM</Time>
   </line>
   <line>
     <name>M1 - M116</name>
@@ -355,18 +307,8 @@
   </line>
   <line>
     <name>Q1 - Q113</name>
-    <status>DELAYS</status>
+    <status>SERVICE CHANGE</status>
     <text>
-                  &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                  &lt;span class="DateStyle"&gt;
-                  &amp;nbsp;Posted:&amp;nbsp;04/25/2017&amp;nbsp; 8:20PM
-                  &lt;/span&gt;
-                  &lt;br/&gt;
-                  &lt;br/&gt;
-                Following an earlier incident on Archer Av, &lt;STRONG&gt;Q4, Q5, Q6, Q8, Q9, Q17, Q20A, Q20B, Q24, Q25, Q30, Q31, Q34, Q40, Q41, Q42, Q43, Q44-SBS, Q54, Q56, Q60, Q65 Q83, Q84, Q85, Q110, Q111, Q112, Q113-LTD&lt;/STRONG&gt; and &lt;STRONG&gt;Q114-LTD &lt;/STRONG&gt;bus service has resumed with delays.
-              &lt;br/&gt;
-              &lt;br/&gt;
-            
                   &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
                   &lt;span class="DateStyle"&gt;
                   &amp;nbsp;Posted:&amp;nbsp;04/25/2017&amp;nbsp; 6:53PM
@@ -524,7 +466,7 @@
               &lt;br/&gt;
             </text>
     <Date>04/25/2017</Date>
-    <Time> 8:20PM</Time>
+    <Time> 6:53PM</Time>
   </line>
   <line>
     <name>QM1 - QM44</name>
@@ -595,7 +537,7 @@
               &lt;br/&gt;
             </text>
     <Date>04/25/2017</Date>
-    <Time> 8:28PM</Time>
+    <Time> 8:32PM</Time>
   </line>
   <line>
     <name>x1 - x68</name>
