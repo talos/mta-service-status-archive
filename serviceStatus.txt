@@ -121,15 +121,18 @@
 </subway><bus>
   <line>
     <name>B1 - B84</name>
-    <status>DELAYS</status>
+    <status>SERVICE CHANGE</status>
     <text>
-                  &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                  &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
                   &lt;span class="DateStyle"&gt;
-                  &amp;nbsp;Posted:&amp;nbsp;04/26/2017&amp;nbsp; 4:25PM
+                  &amp;nbsp;Posted:&amp;nbsp;04/26/2017&amp;nbsp; 4:38PM
                   &lt;/span&gt;
                   &lt;br/&gt;
                   &lt;br/&gt;
-                &lt;P&gt;&lt;STRONG&gt;B38&lt;/STRONG&gt; and &lt;STRONG&gt;B38-LTD&lt;/STRONG&gt; buses are running with delays in both directions, due to FDNY activity at DeKalb Av and Flatbush Av. &lt;/P&gt;
+                &lt;P&gt;&lt;STRONG&gt;B38&lt;/STRONG&gt; and &lt;STRONG&gt;B38-LTD&lt;/STRONG&gt; buses are detoured, due to FDNY activity at DeKalb Av and Flatbush Av. &lt;/P&gt;
+&lt;P&gt;Detour is as follows: &lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;Westbound&lt;/STRONG&gt;: Via DeKalb Av, left on Rockwell Pl, right on Fulton St and regular route. &lt;/P&gt;
+&lt;P&gt;All corresponding stops will be made. &lt;/P&gt;
 &lt;P&gt;Allow additional travel time.&lt;/P&gt;
               &lt;br/&gt;
               &lt;br/&gt;
@@ -227,7 +230,7 @@
               &lt;br/&gt;
             </text>
     <Date>04/26/2017</Date>
-    <Time> 4:25PM</Time>
+    <Time> 4:38PM</Time>
   </line>
   <line>
     <name>B100 - B103</name>
@@ -724,10 +727,17 @@
   </line>
   <line>
     <name>Verrazano-Narrows</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>DELAYS</status>
+    <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;04/26/2017&amp;nbsp; 4:37PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  VNB reports a disabled vehicle on upper level Staten Island bound blocking one lane, expect delays.
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>04/26/2017</Date>
+    <Time> 4:37PM</Time>
   </line>
 </BT><LIRR>
   <line>
