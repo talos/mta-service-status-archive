@@ -106,18 +106,8 @@
 </subway><bus>
   <line>
     <name>B1 - B84</name>
-    <status>DELAYS</status>
+    <status>SERVICE CHANGE</status>
     <text>
-                  &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                  &lt;span class="DateStyle"&gt;
-                  &amp;nbsp;Posted:&amp;nbsp;04/27/2017&amp;nbsp; 9:00PM
-                  &lt;/span&gt;
-                  &lt;br/&gt;
-                  &lt;br/&gt;
-                Following an earlier incident at the Kosciuszko Bridge, B24 bus service has resumed with delays.
-              &lt;br/&gt;
-              &lt;br/&gt;
-            
                   &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
                   &lt;span class="DateStyle"&gt;
                   &amp;nbsp;Posted:&amp;nbsp;04/27/2017&amp;nbsp; 8:34PM
@@ -163,7 +153,7 @@
               &lt;br/&gt;
             </text>
     <Date>04/27/2017</Date>
-    <Time> 9:00PM</Time>
+    <Time> 8:34PM</Time>
   </line>
   <line>
     <name>B100 - B103</name>
@@ -247,46 +237,6 @@
 &lt;P&gt;&lt;STRONG&gt;M5 Southbound:&lt;/STRONG&gt; Via Columbus Circle, into Broadway, left on 57 St, right on 5 Av and regular route.&lt;/P&gt;
 &lt;P&gt;&lt;STRONG&gt;M7, M20 and M104 Southbound:&lt;/STRONG&gt; Via Broadway, left on 57 St, right on 7 Av and regular route.&lt;/P&gt;
 &lt;P&gt;Allow additional travel time.&lt;/P&gt;
-              &lt;br/&gt;
-              &lt;br/&gt;
-            
-                  &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                  &lt;span class="DateStyle"&gt;
-                  &amp;nbsp;Posted:&amp;nbsp;04/27/2017&amp;nbsp; 9:03PM
-                  &lt;/span&gt;
-                  &lt;br/&gt;
-                  &lt;br/&gt;
-                Following an earlier incident on 2 Av, &lt;STRONG&gt;M15&lt;/STRONG&gt;, &lt;STRONG&gt;M15SBS&lt;/STRONG&gt; bus service has resumed with delays.
-              &lt;br/&gt;
-              &lt;br/&gt;
-            
-                  &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                  &lt;span class="DateStyle"&gt;
-                  &amp;nbsp;Posted:&amp;nbsp;04/27/2017&amp;nbsp; 9:01PM
-                  &lt;/span&gt;
-                  &lt;br/&gt;
-                  &lt;br/&gt;
-                Following an earlier incident on 10 Av, &lt;STRONG&gt;M11&lt;/STRONG&gt; bus service has resumed with delays.
-              &lt;br/&gt;
-              &lt;br/&gt;
-            
-                  &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                  &lt;span class="DateStyle"&gt;
-                  &amp;nbsp;Posted:&amp;nbsp;04/27/2017&amp;nbsp; 9:00PM
-                  &lt;/span&gt;
-                  &lt;br/&gt;
-                  &lt;br/&gt;
-                Following an earlier incident on 6 Av, &lt;STRONG&gt;M7&lt;/STRONG&gt; and &lt;STRONG&gt;M55&lt;/STRONG&gt; bus service has resumed with delays.
-              &lt;br/&gt;
-              &lt;br/&gt;
-            
-                  &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                  &lt;span class="DateStyle"&gt;
-                  &amp;nbsp;Posted:&amp;nbsp;04/27/2017&amp;nbsp; 8:59PM
-                  &lt;/span&gt;
-                  &lt;br/&gt;
-                  &lt;br/&gt;
-                Following an earlier incident on 23 St, &lt;STRONG&gt;M23-SBS&lt;/STRONG&gt; bus service has resumed with delays.
               &lt;br/&gt;
               &lt;br/&gt;
             
@@ -598,10 +548,15 @@
   </line>
   <line>
     <name>Throgs Neck</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>PLANNED WORK</status>
+    <text>
+                    &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
+                    &lt;br/&gt;
+                  &lt;SPAN style='FONT-SIZE: 11pt; FONT-FAMILY: "Calibri",sans-serif;"Times New Roman"; Bronx bound. One lane closed. Expect delays.&lt;/SPAN&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>04/27/2017</Date>
+    <Time> 9:14PM</Time>
   </line>
   <line>
     <name>Verrazano-Narrows</name>
