@@ -69,17 +69,10 @@
   </line>
   <line>
     <name>G</name>
-    <status>DELAYS</status>
-    <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;04/28/2017&amp;nbsp; 2:35PM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  Following an earlier incident at &lt;STRONG&gt;Bedford-Nostrand Aves,&lt;/STRONG&gt; [G] train service has resumed with extensive delays.
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>04/28/2017</Date>
-    <Time> 2:35PM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>JZ</name>
@@ -130,16 +123,6 @@
     <name>B1 - B84</name>
     <status>DELAYS</status>
     <text>
-                  &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                  &lt;span class="DateStyle"&gt;
-                  &amp;nbsp;Posted:&amp;nbsp;04/28/2017&amp;nbsp; 3:35PM
-                  &lt;/span&gt;
-                  &lt;br/&gt;
-                  &lt;br/&gt;
-                Following an earlier incident on East New York, &lt;STRONG&gt;B12 &lt;/STRONG&gt;bus service has resumed with delays.
-              &lt;br/&gt;
-              &lt;br/&gt;
-            
                   &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                   &lt;span class="DateStyle"&gt;
                   &amp;nbsp;Posted:&amp;nbsp;04/28/2017&amp;nbsp; 3:29PM
@@ -222,7 +205,7 @@
               &lt;br/&gt;
             </text>
     <Date>04/28/2017</Date>
-    <Time> 3:35PM</Time>
+    <Time> 3:29PM</Time>
   </line>
   <line>
     <name>B100 - B103</name>
@@ -403,16 +386,6 @@
     <text>
                   &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                   &lt;span class="DateStyle"&gt;
-                  &amp;nbsp;Posted:&amp;nbsp;04/28/2017&amp;nbsp; 3:40PM
-                  &lt;/span&gt;
-                  &lt;br/&gt;
-                  &lt;br/&gt;
-                Following an earlier incident on Myrtle Av, &lt;STRONG&gt;Q55&lt;/STRONG&gt; bus service has resumed with delays.
-              &lt;br/&gt;
-              &lt;br/&gt;
-            
-                  &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                  &lt;span class="DateStyle"&gt;
                   &amp;nbsp;Posted:&amp;nbsp;04/28/2017&amp;nbsp; 3:29PM
                   &lt;/span&gt;
                   &lt;br/&gt;
@@ -571,7 +544,7 @@
               &lt;br/&gt;
             </text>
     <Date>04/28/2017</Date>
-    <Time> 3:40PM</Time>
+    <Time> 3:29PM</Time>
   </line>
   <line>
     <name>QM1 - QM44</name>
@@ -757,22 +730,8 @@
   </line>
   <line>
     <name>Robert F. Kennedy</name>
-    <status>SERVICE CHANGE</status>
+    <status>DELAYS</status>
     <text>
-                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;04/28/2017&amp;nbsp; 3:57PM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  FINAL RFK: DISABLED VEHICLE; Manhattan / Bronx bound cleared lane reopened.
-                &lt;br/&gt;&lt;br/&gt;
-              
-                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;04/28/2017&amp;nbsp; 3:23PM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  RFK: DISABLED VEHICLE; Manhattan / Bronx bound one lane blocked, expect delays.
-                &lt;br/&gt;&lt;br/&gt;
-              
                     &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
                     &amp;nbsp;Posted:&amp;nbsp;04/28/2017&amp;nbsp;10:02AM
@@ -786,7 +745,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>04/28/2017</Date>
-    <Time> 3:57PM</Time>
+    <Time>10:02AM</Time>
   </line>
   <line>
     <name>Throgs Neck</name>
@@ -797,10 +756,17 @@
   </line>
   <line>
     <name>Verrazano-Narrows</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>SERVICE CHANGE</status>
+    <text>
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;04/28/2017&amp;nbsp; 4:00PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  VNB: COLLISION; Upper level Brooklyn bound one lane blocked, expect delays.
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>04/28/2017</Date>
+    <Time> 4:00PM</Time>
   </line>
 </BT><LIRR>
   <line>
