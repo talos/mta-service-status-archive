@@ -1,8 +1,16 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>SERVICE CHANGE</status>
+    <status>DELAYS</status>
     <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;04/30/2017&amp;nbsp;11:49AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;P&gt;Due to a train with mechanical problems at Junius St, southbound [3] trains are running with delays. &lt;/P&gt;
+&lt;P&gt;Allow additional travel time.&lt;/P&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              
                     &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
                     &amp;nbsp;Posted:&amp;nbsp;04/30/2017&amp;nbsp;11:31AM
@@ -22,7 +30,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>04/30/2017</Date>
-    <Time>11:31AM</Time>
+    <Time>11:49AM</Time>
   </line>
   <line>
     <name>456</name>
@@ -69,7 +77,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>04/30/2017</Date>
-    <Time>11:42AM</Time>
+    <Time>11:48AM</Time>
   </line>
   <line>
     <name>ACE</name>
@@ -86,7 +94,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>04/30/2017</Date>
-    <Time>11:42AM</Time>
+    <Time>11:48AM</Time>
   </line>
   <line>
     <name>BDFM</name>
@@ -118,7 +126,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>04/30/2017</Date>
-    <Time>11:42AM</Time>
+    <Time>11:48AM</Time>
   </line>
   <line>
     <name>G</name>
@@ -130,7 +138,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>04/30/2017</Date>
-    <Time>11:42AM</Time>
+    <Time>11:48AM</Time>
   </line>
   <line>
     <name>JZ</name>
@@ -142,7 +150,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>04/30/2017</Date>
-    <Time>11:42AM</Time>
+    <Time>11:48AM</Time>
   </line>
   <line>
     <name>L</name>
@@ -166,7 +174,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>04/30/2017</Date>
-    <Time>11:42AM</Time>
+    <Time>11:48AM</Time>
   </line>
   <line>
     <name>S</name>
@@ -185,7 +193,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>04/30/2017</Date>
-    <Time>11:42AM</Time>
+    <Time>11:48AM</Time>
   </line>
 </subway><bus>
   <line>
@@ -211,7 +219,7 @@
               &lt;br/&gt;
             </text>
     <Date>04/30/2017</Date>
-    <Time>11:42AM</Time>
+    <Time>11:48AM</Time>
   </line>
   <line>
     <name>B100 - B103</name>
@@ -224,7 +232,7 @@
               &lt;br/&gt;
             </text>
     <Date>04/30/2017</Date>
-    <Time>11:42AM</Time>
+    <Time>11:48AM</Time>
   </line>
   <line>
     <name>BM1 - BM5</name>
@@ -316,7 +324,7 @@
               &lt;br/&gt;
             </text>
     <Date>04/30/2017</Date>
-    <Time>11:42AM</Time>
+    <Time>11:48AM</Time>
   </line>
   <line>
     <name>M1 - M116</name>
@@ -511,7 +519,7 @@
               &lt;br/&gt;
             </text>
     <Date>04/30/2017</Date>
-    <Time>11:42AM</Time>
+    <Time>11:48AM</Time>
   </line>
   <line>
     <name>QM1 - QM44</name>
@@ -569,7 +577,7 @@
               &lt;br/&gt;
             </text>
     <Date>04/30/2017</Date>
-    <Time>11:42AM</Time>
+    <Time>11:48AM</Time>
   </line>
   <line>
     <name>x1 - x68</name>
@@ -582,7 +590,7 @@
               &lt;br/&gt;
             </text>
     <Date>04/30/2017</Date>
-    <Time>11:42AM</Time>
+    <Time>11:48AM</Time>
   </line>
 </bus><BT>
   <line>
@@ -858,17 +866,10 @@
   </line>
   <line>
     <name>Waterbury</name>
-    <status>DELAYS</status>
-    <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;04/30/2017&amp;nbsp;10:11AM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  Waterbury Branch Service is currently experiencing delays of 10 to 15 minutes due to a late connecting train. Please listen for announcements at your station.
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>04/30/2017</Date>
-    <Time>10:11AM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>Pascack Valley</name>
