@@ -592,20 +592,10 @@
 </bus><BT>
   <line>
     <name>Bronx-Whitestone</name>
-    <status>PLANNED WORK</status>
-    <text>
-                    &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
-                    &lt;br/&gt;
-                  BWB: PLANNED WORK; QUEENS-BOUND CLEARED.
-                &lt;br/&gt;&lt;br/&gt;
-              
-                    &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
-                    &lt;br/&gt;
-                  BWB: PLANNED WORK; QUEENS-BOUND; TWO LANES CLOSED. EXPECT DELAYS.
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>04/30/2017</Date>
-    <Time> 8:21AM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>Cross Bay</name>
@@ -695,10 +685,17 @@
   </line>
   <line>
     <name>Throgs Neck</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>DELAYS</status>
+    <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;04/30/2017&amp;nbsp;11:13AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  TNB: Delays; Bronx-bound due to volume. Expect delays.
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>04/30/2017</Date>
+    <Time>11:13AM</Time>
   </line>
   <line>
     <name>Verrazano-Narrows</name>
