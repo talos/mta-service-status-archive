@@ -1,13 +1,13 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>DELAYS</status>
+    <status>SERVICE CHANGE</status>
     <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;04/30/2017&amp;nbsp;11:27AM
+                    &amp;nbsp;Posted:&amp;nbsp;04/30/2017&amp;nbsp;11:31AM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  &lt;P&gt;Due to a sick passenger at &lt;STRONG&gt;Bronx Park East&lt;/STRONG&gt;, southbound [2] trains are running with delays.&lt;/P&gt;
+                  &lt;P&gt;Due to a sick passenger at &lt;STRONG&gt;Bronx Park East&lt;/STRONG&gt;,  southbound [2] trains are running express from &lt;STRONG&gt;Gun Hill&lt;/STRONG&gt; &lt;STRONG&gt;Rd&lt;/STRONG&gt; to &lt;STRONG&gt;E180 St.&lt;/STRONG&gt; &lt;/P&gt;
 &lt;P&gt;Allow additional travel time.&lt;/P&gt;
                 &lt;br/&gt;&lt;br/&gt;
               
@@ -22,7 +22,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>04/30/2017</Date>
-    <Time>11:27AM</Time>
+    <Time>11:31AM</Time>
   </line>
   <line>
     <name>456</name>
