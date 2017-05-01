@@ -1,17 +1,18 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>DELAYS</status>
+    <status>SERVICE CHANGE</status>
     <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;05/01/2017&amp;nbsp; 1:13PM
+                    &amp;nbsp;Posted:&amp;nbsp;05/01/2017&amp;nbsp; 1:20PM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  Following an earlier incident at &lt;STRONG&gt;Franklin St&lt;/STRONG&gt;, [1] service resumed with delays.
+                  &lt;P&gt;Due to switch problems at&lt;STRONG&gt; Chambers St&lt;/STRONG&gt;, the following service changes are in effect:&lt;BR&gt;&lt;BR&gt;Some northbound [2] trains are running via the [5] line from &lt;STRONG&gt;Nevins St&lt;/STRONG&gt; to &lt;STRONG&gt;149 St-Grand Concourse&lt;/STRONG&gt;.&lt;/P&gt;
+&lt;P&gt;Northbound [1] [2] and [3] trains are running with delays.&lt;BR&gt;&lt;BR&gt;Allow additional travel time. &lt;/P&gt;
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>05/01/2017</Date>
-    <Time> 1:13PM</Time>
+    <Time> 1:20PM</Time>
   </line>
   <line>
     <name>456</name>
