@@ -31,15 +31,31 @@
   </line>
   <line>
     <name>ACE</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>DELAYS</status>
+    <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;05/01/2017&amp;nbsp; 2:12PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;P&gt;Due to a rail condition at &lt;STRONG&gt;Briarwood&lt;/STRONG&gt;, [E] and [F] trains are running with delays in both directions. &lt;/P&gt;
+&lt;P&gt;Allow additional travel time.&lt;/P&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>05/01/2017</Date>
+    <Time> 2:12PM</Time>
   </line>
   <line>
     <name>BDFM</name>
-    <status>PLANNED WORK</status>
+    <status>DELAYS</status>
     <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;05/01/2017&amp;nbsp; 2:12PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;P&gt;Due to a rail condition at &lt;STRONG&gt;Briarwood&lt;/STRONG&gt;, [E] and [F] trains are running with delays in both directions. &lt;/P&gt;
+&lt;P&gt;Allow additional travel time.&lt;/P&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              
                     &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
                     &lt;br/&gt;
                   &lt;a class="plannedWorkDetailLink" onclick=ShowHide(155463);&gt;&lt;b&gt;[F] Coney Island-bound platforms at Avenue U and Avenue X remain closed for renovation&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 155463 class="plannedWorkDetail" &gt;&lt;/b&gt;until Monday, May 8, 2017&lt;br&gt;&lt;br&gt;&lt;table class=plannedworkTableStyle  width=80%&gt;&lt;tr&gt;&lt;td&gt;&lt;font size=3&gt;&lt;b&gt;Travel Alternatives&lt;/b&gt;&lt;/font&gt;&lt;td align=right&gt;[TP]&lt;/table&gt;&lt;br&gt;For service &lt;i&gt;to&lt;/i&gt; these stations, take the [F] to Neptune Av and transfer to a Jamaica-bound [F].&lt;br&gt;&lt;br&gt;For service &lt;i&gt;from&lt;/i&gt; these stations, take the [F] to Kings Hwy and transfer to a Coney Island-bound [F].&lt;br&gt;&lt;/font&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
@@ -56,7 +72,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>05/01/2017</Date>
-    <Time> 2:08PM</Time>
+    <Time> 2:12PM</Time>
   </line>
   <line>
     <name>G</name>
@@ -89,7 +105,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>05/01/2017</Date>
-    <Time> 2:08PM</Time>
+    <Time> 2:12PM</Time>
   </line>
   <line>
     <name>S</name>
@@ -113,7 +129,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>05/01/2017</Date>
-    <Time> 2:08PM</Time>
+    <Time> 2:12PM</Time>
   </line>
 </subway><bus>
   <line>
@@ -139,7 +155,7 @@
               &lt;br/&gt;
             </text>
     <Date>05/01/2017</Date>
-    <Time> 2:08PM</Time>
+    <Time> 2:12PM</Time>
   </line>
   <line>
     <name>B100 - B103</name>
@@ -152,7 +168,7 @@
               &lt;br/&gt;
             </text>
     <Date>05/01/2017</Date>
-    <Time> 2:08PM</Time>
+    <Time> 2:12PM</Time>
   </line>
   <line>
     <name>BM1 - BM5</name>
@@ -165,7 +181,7 @@
               &lt;br/&gt;
             </text>
     <Date>05/01/2017</Date>
-    <Time> 2:08PM</Time>
+    <Time> 2:12PM</Time>
   </line>
   <line>
     <name>BX1 - BX55</name>
@@ -184,7 +200,7 @@
               &lt;br/&gt;
             </text>
     <Date>05/01/2017</Date>
-    <Time> 2:08PM</Time>
+    <Time> 2:12PM</Time>
   </line>
   <line>
     <name>BXM1 - BXM18</name>
@@ -203,7 +219,7 @@
               &lt;br/&gt;
             </text>
     <Date>05/01/2017</Date>
-    <Time> 2:08PM</Time>
+    <Time> 2:12PM</Time>
   </line>
   <line>
     <name>M1 - M116</name>
@@ -352,7 +368,7 @@
               &lt;br/&gt;
             </text>
     <Date>05/01/2017</Date>
-    <Time> 2:08PM</Time>
+    <Time> 2:12PM</Time>
   </line>
   <line>
     <name>S40 - S98</name>
@@ -418,7 +434,7 @@
               &lt;br/&gt;
             </text>
     <Date>05/01/2017</Date>
-    <Time> 2:08PM</Time>
+    <Time> 2:12PM</Time>
   </line>
 </bus><BT>
   <line>
