@@ -22,22 +22,38 @@
   </line>
   <line>
     <name>ACE</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>DELAYS</status>
+    <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;05/02/2017&amp;nbsp; 6:04AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;P&gt;Due to a rail condition at &lt;STRONG&gt;Jackson Hts-Roosevelt Av&lt;/STRONG&gt;, northbound [E] and [F] trains are running with delays.&lt;/P&gt;
+&lt;P&gt;Allow additional travel time.&lt;/P&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>05/02/2017</Date>
+    <Time> 6:04AM</Time>
   </line>
   <line>
     <name>BDFM</name>
-    <status>PLANNED WORK</status>
+    <status>DELAYS</status>
     <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;05/02/2017&amp;nbsp; 6:04AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;P&gt;Due to a rail condition at &lt;STRONG&gt;Jackson Hts-Roosevelt Av&lt;/STRONG&gt;, northbound [E] and [F] trains are running with delays.&lt;/P&gt;
+&lt;P&gt;Allow additional travel time.&lt;/P&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              
                     &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
                     &lt;br/&gt;
                   &lt;a class="plannedWorkDetailLink" onclick=ShowHide(155463);&gt;&lt;b&gt;[F] Coney Island-bound platforms at Avenue U and Avenue X remain closed for renovation&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 155463 class="plannedWorkDetail" &gt;&lt;/b&gt;until Monday, May 8, 2017&lt;br&gt;&lt;br&gt;&lt;table class=plannedworkTableStyle  width=80%&gt;&lt;tr&gt;&lt;td&gt;&lt;font size=3&gt;&lt;b&gt;Travel Alternatives&lt;/b&gt;&lt;/font&gt;&lt;td align=right&gt;[TP]&lt;/table&gt;&lt;br&gt;For service &lt;i&gt;to&lt;/i&gt; these stations, take the [F] to Neptune Av and transfer to a Jamaica-bound [F].&lt;br&gt;&lt;br&gt;For service &lt;i&gt;from&lt;/i&gt; these stations, take the [F] to Kings Hwy and transfer to a Coney Island-bound [F].&lt;br&gt;&lt;/font&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>05/02/2017</Date>
-    <Time> 6:02AM</Time>
+    <Time> 6:04AM</Time>
   </line>
   <line>
     <name>G</name>
@@ -347,11 +363,6 @@
                   HLC - HOV Lane Open 6 AM to 10 AM. Two-Way Operations in effect. Three (3) lanes Manhattan-bound. One (1) lane Brooklyn-bound.
                 &lt;br/&gt;&lt;br/&gt;
               
-                    &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
-                    &lt;br/&gt;
-                  &lt;P  style="MARGIN: 0in 0in 10pt"&gt;&lt;SPAN style="TEXT-TRANSFORM: uppercase"&gt;&lt;FONT size=3 face=Calibri&gt;HLC: Planned work; One tube closed and the remaining tube will run two-way traffic operations. Motorist should allow extra time and may wish to use an alternate route.&lt;/FONT&gt;&lt;/SPAN&gt;&lt;/P&gt;
-                &lt;br/&gt;&lt;br/&gt;
-              
                     &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
                     &amp;nbsp;Posted:&amp;nbsp;04/25/2017&amp;nbsp; 5:52AM
@@ -383,18 +394,8 @@
   </line>
   <line>
     <name>Queens Midtown</name>
-    <status>PLANNED WORK</status>
+    <status>SERVICE CHANGE</status>
     <text>
-                    &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
-                    &lt;br/&gt;
-                  QMT: PLANNED WORK; CLEARED.
-                &lt;br/&gt;&lt;br/&gt;
-              
-                    &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
-                    &lt;br/&gt;
-                  &lt;P  style="MARGIN: 0in 0in 10pt"&gt;&lt;SPAN style="TEXT-TRANSFORM: uppercase"&gt;&lt;FONT size=3 face=Calibri&gt;QMT: Planned work; One tube closed and the remaining tube will run two-way traffic operations. Motorist should allow extra time and may wish to use an alternate route.&lt;/FONT&gt;&lt;/SPAN&gt;&lt;/P&gt;
-                &lt;br/&gt;&lt;br/&gt;
-              
                     &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
                     &amp;nbsp;Posted:&amp;nbsp;04/25/2017&amp;nbsp; 5:51AM
@@ -403,8 +404,8 @@
 &lt;P&gt;For approximately three months, the two right "Downtown" exit lanes at the Manhattan plaza of the Queens Midtown Tunnel will be closed for the final stage of exit plaza roadway rehabilitation. Customers traveling Downtown can use the four open and newly resurfaced "Uptown" or "Crosstown" exit lanes, or the left "Downtown" exit lane, which will remain open during this period. In addition, East 37th Street between Tunnel Exit and 2nd Avenue has been temporarily converted to receive two-way traffic, to accommodate motorists exiting the tunnel from the Uptown lanes and seeking a Downtown route via 2nd Avenue.&lt;/P&gt;
                 &lt;br/&gt;&lt;br/&gt;
               </text>
-    <Date>05/02/2017</Date>
-    <Time> 6:02AM</Time>
+    <Date>04/25/2017</Date>
+    <Time> 5:51AM</Time>
   </line>
   <line>
     <name>Robert F. Kennedy</name>
