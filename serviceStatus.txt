@@ -522,10 +522,17 @@
 </LIRR><MetroNorth>
   <line>
     <name>Hudson</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>DELAYS</status>
+    <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;05/02/2017&amp;nbsp; 5:30AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  Hudson Line Service is currently experiencing 15 to 20 minute Southbound delays due to signal problems in the vicinity of Peekskill. Please listen for announcements at your station.
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>05/02/2017</Date>
+    <Time> 5:30AM</Time>
   </line>
   <line>
     <name>Harlem</name>
