@@ -1,8 +1,16 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>PLANNED WORK</status>
+    <status>DELAYS</status>
     <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;05/01/2017&amp;nbsp;11:55PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;P&gt;Due to an investigation at &lt;STRONG&gt;City College-137 St&lt;/STRONG&gt;, [1] trains are running with delays in both directions.  &lt;/P&gt;
+&lt;P&gt;Allow additional travel time. &lt;/P&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              
                     &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
                     &lt;br/&gt;
                   &lt;a class="plannedWorkDetailLink" onclick=ShowHide(152632);&gt;&lt;b&gt;[3] Trains replace the [4] in Brooklyn&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 152632 class="plannedWorkDetail" &gt;&lt;/b&gt;Late Nights, 11:45 PM to 5 AM, Mon to Fri, May 1 - 5  &amp;bull;  May 8 - 12&lt;br&gt;&lt;br&gt;&lt;b&gt;[3]&lt;/b&gt; service operates between &lt;b&gt;148 St&lt;/b&gt; and &lt;b&gt;New Lots Av&lt;/b&gt;, making &lt;b&gt;[4]&lt;/b&gt; stops in Brooklyn.&lt;br&gt;&lt;br&gt;&lt;b&gt;Note:&lt;/b&gt; Sutter Av-Rutland Rd and Junius St are closed for renovation.&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
@@ -19,7 +27,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>05/01/2017</Date>
-    <Time>11:52PM</Time>
+    <Time>11:55PM</Time>
   </line>
   <line>
     <name>456</name>
