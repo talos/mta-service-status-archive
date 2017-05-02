@@ -86,10 +86,18 @@
   </line>
   <line>
     <name>NQR</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>DELAYS</status>
+    <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;05/02/2017&amp;nbsp; 8:25AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;P&gt;Due to signal problems at &lt;STRONG&gt;Queensboro Plaza&lt;/STRONG&gt;, southbound [N], [R] and [W] trains are running with delays. &lt;/P&gt;
+&lt;P&gt;Allow additional travel time.&lt;/P&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>05/02/2017</Date>
+    <Time> 8:25AM</Time>
   </line>
   <line>
     <name>S</name>
@@ -309,8 +317,19 @@
   </line>
   <line>
     <name>Q1 - Q113</name>
-    <status>SERVICE CHANGE</status>
+    <status>DELAYS</status>
     <text>
+                  &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                  &lt;span class="DateStyle"&gt;
+                  &amp;nbsp;Posted:&amp;nbsp;05/02/2017&amp;nbsp; 8:24AM
+                  &lt;/span&gt;
+                  &lt;br/&gt;
+                  &lt;br/&gt;
+                &lt;P&gt;&lt;STRONG&gt;Q10, Q10-Ltd, Q37 &lt;/STRONG&gt;and &lt;STRONG&gt;QM18&lt;/STRONG&gt; buses are running with delays in both directions, due to traffic conditions on 150 Av and 130 St. &lt;/P&gt;
+&lt;P&gt;Allow additional travel time.&lt;/P&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
                   &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
                   &lt;span class="DateStyle"&gt;
                   &amp;nbsp;Posted:&amp;nbsp;05/02/2017&amp;nbsp; 8:21AM
@@ -421,12 +440,23 @@
               &lt;br/&gt;
             </text>
     <Date>05/02/2017</Date>
-    <Time> 8:21AM</Time>
+    <Time> 8:24AM</Time>
   </line>
   <line>
     <name>QM1 - QM44</name>
     <status>DELAYS</status>
     <text>
+                  &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                  &lt;span class="DateStyle"&gt;
+                  &amp;nbsp;Posted:&amp;nbsp;05/02/2017&amp;nbsp; 8:24AM
+                  &lt;/span&gt;
+                  &lt;br/&gt;
+                  &lt;br/&gt;
+                &lt;P&gt;&lt;STRONG&gt;Q10, Q10-Ltd, Q37 &lt;/STRONG&gt;and &lt;STRONG&gt;QM18&lt;/STRONG&gt; buses are running with delays in both directions, due to traffic conditions on 150 Av and 130 St. &lt;/P&gt;
+&lt;P&gt;Allow additional travel time.&lt;/P&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
                   &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                   &lt;span class="DateStyle"&gt;
                   &amp;nbsp;Posted:&amp;nbsp;05/02/2017&amp;nbsp; 8:09AM
@@ -451,7 +481,7 @@
               &lt;br/&gt;
             </text>
     <Date>05/02/2017</Date>
-    <Time> 8:09AM</Time>
+    <Time> 8:24AM</Time>
   </line>
   <line>
     <name>S40 - S98</name>
@@ -561,11 +591,16 @@
     <text>
                     &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
                     &lt;br/&gt;
+                  MPB: Planned work: Queens-bound: One lane blocked: Expect delays.
+                &lt;br/&gt;&lt;br/&gt;
+              
+                    &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
+                    &lt;br/&gt;
                   MPB: Planned work: Brooklyn-bound: one lane blocked. Expect delays.
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>05/02/2017</Date>
-    <Time> 8:03AM</Time>
+    <Time> 8:23AM</Time>
   </line>
   <line>
     <name>Queens Midtown</name>
