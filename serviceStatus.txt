@@ -1,16 +1,13 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>SERVICE CHANGE</status>
+    <status>DELAYS</status>
     <text>
-                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;05/02/2017&amp;nbsp;12:26AM
+                    &amp;nbsp;Posted:&amp;nbsp;05/02/2017&amp;nbsp;12:32AM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  &lt;P&gt;Due to signal problems at &lt;STRONG&gt;City College-137 St&lt;/STRONG&gt;, there is no [1] train service between &lt;STRONG&gt;96 St&lt;/STRONG&gt; and &lt;STRONG&gt;168 St&lt;/STRONG&gt; in both directions. &lt;/P&gt;
-&lt;P&gt;As an alternative, consider [A] train service, transfer between [1] and [A] trains at &lt;STRONG&gt;59 St-Columbus&lt;/STRONG&gt; &lt;STRONG&gt;Circle&lt;/STRONG&gt; and &lt;STRONG&gt;168 St&lt;/STRONG&gt;. &lt;/P&gt;
-&lt;P&gt;For bypassed stations, use [A] local service or &lt;STRONG&gt;M4, M5&lt;/STRONG&gt; and &lt;STRONG&gt;M104 &lt;/STRONG&gt;bus service to nearby [1] stations. &lt;/P&gt;
-&lt;P&gt;Allow additional travel time.  &lt;/P&gt;
+                  Following an earlier incident at &lt;STRONG&gt;City College-137 St,&lt;/STRONG&gt; [1] train service has resumed with extensive delays.
                 &lt;br/&gt;&lt;br/&gt;
               
                     &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
@@ -29,7 +26,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>05/02/2017</Date>
-    <Time>12:26AM</Time>
+    <Time>12:32AM</Time>
   </line>
   <line>
     <name>456</name>
@@ -56,7 +53,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>05/02/2017</Date>
-    <Time>12:28AM</Time>
+    <Time>12:32AM</Time>
   </line>
   <line>
     <name>7</name>
@@ -67,18 +64,8 @@
   </line>
   <line>
     <name>ACE</name>
-    <status>SERVICE CHANGE</status>
+    <status>PLANNED WORK</status>
     <text>
-                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;05/02/2017&amp;nbsp;12:26AM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  &lt;P&gt;Due to signal problems at &lt;STRONG&gt;City College-137 St&lt;/STRONG&gt;, there is no [1] train service between &lt;STRONG&gt;96 St&lt;/STRONG&gt; and &lt;STRONG&gt;168 St&lt;/STRONG&gt; in both directions. &lt;/P&gt;
-&lt;P&gt;As an alternative, consider [A] train service, transfer between [1] and [A] trains at &lt;STRONG&gt;59 St-Columbus&lt;/STRONG&gt; &lt;STRONG&gt;Circle&lt;/STRONG&gt; and &lt;STRONG&gt;168 St&lt;/STRONG&gt;. &lt;/P&gt;
-&lt;P&gt;For bypassed stations, use [A] local service or &lt;STRONG&gt;M4, M5&lt;/STRONG&gt; and &lt;STRONG&gt;M104 &lt;/STRONG&gt;bus service to nearby [1] stations. &lt;/P&gt;
-&lt;P&gt;Allow additional travel time.  &lt;/P&gt;
-                &lt;br/&gt;&lt;br/&gt;
-              
                     &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
                     &lt;br/&gt;
                   &lt;a class="plannedWorkDetailLink" onclick=ShowHide(152833);&gt;&lt;b&gt;[E] Jamaica Center-bound trains run express from Queens Plaza to 71 Av&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 152833 class="plannedWorkDetail" &gt;&lt;/b&gt;&lt;/font&gt;Late Nights, 12:01 AM to 5 AM, Tue to Fri, May 2 - 5  &amp;bull;  &lt;/font&gt;May 9 - 12&lt;br&gt;&lt;br&gt;Trains stop at Roosevelt Av.&lt;br&gt;&lt;br&gt;For service &lt;i&gt;to&lt;/i&gt; 36, Steinway, 46 Sts, Northern Blvd and 65 St, take the [E] to Roosevelt Av&lt;br&gt;and transfer to a World Trade Center-bound [E].&lt;br&gt;&lt;br&gt;For service &lt;i&gt;to&lt;/i&gt; Elmhurst, Grand Avs, Woodhaven Blvd, 63 Dr and 67 Av, take the [E] to 71 Av&lt;br&gt;and transfer to a World Trade Center-bound [E].&lt;br&gt;&lt;br&gt;For service &lt;i&gt;from&lt;/i&gt; these stations, take the [E] to Roosevelt Av or Queens Plaza and transfer to a &lt;br&gt;Jamaica Center-bound [E].&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
@@ -100,7 +87,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>05/02/2017</Date>
-    <Time>12:26AM</Time>
+    <Time>12:32AM</Time>
   </line>
   <line>
     <name>BDFM</name>
@@ -117,7 +104,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>05/02/2017</Date>
-    <Time>12:28AM</Time>
+    <Time>12:32AM</Time>
   </line>
   <line>
     <name>G</name>
@@ -136,7 +123,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>05/02/2017</Date>
-    <Time>12:28AM</Time>
+    <Time>12:32AM</Time>
   </line>
   <line>
     <name>L</name>
@@ -155,7 +142,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>05/02/2017</Date>
-    <Time>12:28AM</Time>
+    <Time>12:32AM</Time>
   </line>
   <line>
     <name>S</name>
@@ -189,7 +176,7 @@
               &lt;br/&gt;
             </text>
     <Date>05/02/2017</Date>
-    <Time>12:28AM</Time>
+    <Time>12:32AM</Time>
   </line>
   <line>
     <name>B100 - B103</name>
@@ -202,7 +189,7 @@
               &lt;br/&gt;
             </text>
     <Date>05/02/2017</Date>
-    <Time>12:28AM</Time>
+    <Time>12:32AM</Time>
   </line>
   <line>
     <name>BM1 - BM5</name>
@@ -215,7 +202,7 @@
               &lt;br/&gt;
             </text>
     <Date>05/02/2017</Date>
-    <Time>12:28AM</Time>
+    <Time>12:32AM</Time>
   </line>
   <line>
     <name>BX1 - BX55</name>
@@ -267,7 +254,7 @@
               &lt;br/&gt;
             </text>
     <Date>05/02/2017</Date>
-    <Time>12:28AM</Time>
+    <Time>12:32AM</Time>
   </line>
   <line>
     <name>M1 - M116</name>
@@ -374,7 +361,7 @@
               &lt;br/&gt;
             </text>
     <Date>05/02/2017</Date>
-    <Time>12:28AM</Time>
+    <Time>12:32AM</Time>
   </line>
   <line>
     <name>QM1 - QM44</name>
@@ -387,7 +374,7 @@
               &lt;br/&gt;
             </text>
     <Date>05/02/2017</Date>
-    <Time>12:28AM</Time>
+    <Time>12:32AM</Time>
   </line>
   <line>
     <name>S40 - S98</name>
@@ -412,7 +399,7 @@
               &lt;br/&gt;
             </text>
     <Date>05/02/2017</Date>
-    <Time>12:28AM</Time>
+    <Time>12:32AM</Time>
   </line>
   <line>
     <name>x1 - x68</name>
