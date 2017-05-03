@@ -837,10 +837,17 @@ signal problem at Penn Station. Customers will be accommodated by the
   </line>
   <line>
     <name>Oyster Bay</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>DELAYS</status>
+    <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;05/03/2017&amp;nbsp; 6:55PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  The 6:16PM train from Penn due Oyster Bay at 7:30PM is operating 12 minutes late due to earlier Amtrak signal trouble in Penn Station.
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>05/03/2017</Date>
+    <Time> 6:55PM</Time>
   </line>
   <line>
     <name>Port Jefferson</name>
