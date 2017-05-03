@@ -804,17 +804,10 @@ signal problem at Penn Station. Customers will be accommodated by the
   </line>
   <line>
     <name>Hempstead</name>
-    <status>DELAYS</status>
-    <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;05/03/2017&amp;nbsp; 6:34PM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  The 5:38PM train from Penn due Hempstead at 6:36PM is operating 14 minutes late due to earlier Amtrak signal trouble in Penn Station
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>05/03/2017</Date>
-    <Time> 6:34PM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>Long Beach</name>
@@ -839,8 +832,16 @@ signal problem at Penn Station. Customers will be accommodated by the
   </line>
   <line>
     <name>Port Jefferson</name>
-    <status>SERVICE CHANGE</status>
+    <status>DELAYS</status>
     <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;05/03/2017&amp;nbsp; 6:49PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  The 6:08PM train from Penn due Huntington at 7:18PM is operating 12 
+minutes late due to earlier Amtrak signal trouble in Penn Station.
+                &lt;br/&gt;&lt;br/&gt;
+              
                     &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
                     &amp;nbsp;Posted:&amp;nbsp;05/03/2017&amp;nbsp; 6:35PM
@@ -849,7 +850,7 @@ signal problem at Penn Station. Customers will be accommodated by the
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>05/03/2017</Date>
-    <Time> 6:35PM</Time>
+    <Time> 6:49PM</Time>
   </line>
   <line>
     <name>Port Washington</name>
