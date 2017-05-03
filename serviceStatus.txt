@@ -1,36 +1,22 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>DELAYS</status>
-    <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;05/03/2017&amp;nbsp;11:14AM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  Following an earlier incident at &lt;STRONG&gt;149 St-Grand Concourse&lt;/STRONG&gt;, [2] and [5] train service has resumed with delays.
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>05/03/2017</Date>
-    <Time>11:14AM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>456</name>
-    <status>DELAYS</status>
+    <status>PLANNED WORK</status>
     <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;05/03/2017&amp;nbsp;11:14AM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  Following an earlier incident at &lt;STRONG&gt;149 St-Grand Concourse&lt;/STRONG&gt;, [2] and [5] train service has resumed with delays.
-                &lt;br/&gt;&lt;br/&gt;
-              
                     &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
                     &lt;br/&gt;
                   &lt;a class="plannedWorkDetailLink" onclick=ShowHide(155612);&gt;&lt;b&gt;[4] Crown Hts-bound trains skip Kingsbridge Rd, Fordham Rd and 183 St&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 155612 class="plannedWorkDetail" &gt;&lt;/b&gt;Days, 10:45 AM to 3 PM, Wed &lt;i&gt;and&lt;/i&gt; Thu, May 3 - 4&lt;br&gt;&lt;br&gt;For service &lt;i&gt;to&lt;/i&gt; these stations, take the [4] to Burnside Av and transfer to a Woodlawn-bound [4].&lt;br&gt;&lt;br&gt;For service &lt;i&gt;from&lt;/i&gt; these stations, take the [4] to Bedford Park Blvd and transfer to a Crown Hts-bound [4].&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>05/03/2017</Date>
-    <Time>11:14AM</Time>
+    <Time>11:32AM</Time>
   </line>
   <line>
     <name>7</name>
@@ -157,6 +143,19 @@
     <text>
                   &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
                   &lt;span class="DateStyle"&gt;
+                  &amp;nbsp;Posted:&amp;nbsp;05/03/2017&amp;nbsp;11:34AM
+                  &lt;/span&gt;
+                  &lt;br/&gt;
+                  &lt;br/&gt;
+                &lt;P&gt;&lt;STRONG&gt;B43&lt;/STRONG&gt; buses are detoured, due to milling on Brooklyn Av from Eastern Pkwy to Empire Blvd. &lt;/P&gt;
+&lt;P&gt;Detour is as follows:&lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;Lincoln Rd bound&lt;/STRONG&gt;: Via Brooklyn Av, right on Eastern Pkwy Main Rd, left on Nostrand Av, right on Empire Blvd and regular route.&lt;/P&gt;
+&lt;P&gt;Allow additional travel time.&lt;/P&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
+                  &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                  &lt;span class="DateStyle"&gt;
                   &amp;nbsp;Posted:&amp;nbsp;05/03/2017&amp;nbsp; 8:00AM
                   &lt;/span&gt;
                   &lt;br/&gt;
@@ -187,7 +186,7 @@
               &lt;br/&gt;
             </text>
     <Date>05/03/2017</Date>
-    <Time> 8:00AM</Time>
+    <Time>11:34AM</Time>
   </line>
   <line>
     <name>B100 - B103</name>
