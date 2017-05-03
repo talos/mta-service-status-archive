@@ -1,8 +1,15 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>SERVICE CHANGE</status>
+    <status>DELAYS</status>
     <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;05/03/2017&amp;nbsp; 5:25PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  Following an earlier incident at &lt;STRONG&gt;Church Av&lt;/STRONG&gt;, [2] and [5] train service has resumed with delays.
+                &lt;br/&gt;&lt;br/&gt;
+              
                     &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
                     &amp;nbsp;Posted:&amp;nbsp;05/03/2017&amp;nbsp; 5:23PM
@@ -11,17 +18,9 @@
 &lt;P&gt;Expect delays to [1], [2] and [3] train service. &lt;/P&gt;
 &lt;P&gt;Allow additional travel time.&lt;/P&gt;
                 &lt;br/&gt;&lt;br/&gt;
-              
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;05/03/2017&amp;nbsp; 5:07PM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  &lt;P&gt;Due to signal problems at &lt;STRONG&gt;Church Av&lt;/STRONG&gt;,  [2] and [5] trains are running with delays in both directions.&lt;/P&gt;
-&lt;P&gt;Allow additional travel time.&lt;/P&gt;
-                &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>05/03/2017</Date>
-    <Time> 5:23PM</Time>
+    <Time> 5:25PM</Time>
   </line>
   <line>
     <name>456</name>
@@ -29,10 +28,9 @@
     <text>
                     &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;05/03/2017&amp;nbsp; 5:07PM
+                    &amp;nbsp;Posted:&amp;nbsp;05/03/2017&amp;nbsp; 5:25PM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  &lt;P&gt;Due to signal problems at &lt;STRONG&gt;Church Av&lt;/STRONG&gt;,  [2] and [5] trains are running with delays in both directions.&lt;/P&gt;
-&lt;P&gt;Allow additional travel time.&lt;/P&gt;
+                  Following an earlier incident at &lt;STRONG&gt;Church Av&lt;/STRONG&gt;, [2] and [5] train service has resumed with delays.
                 &lt;br/&gt;&lt;br/&gt;
               
                     &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
@@ -43,7 +41,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>05/03/2017</Date>
-    <Time> 5:07PM</Time>
+    <Time> 5:25PM</Time>
   </line>
   <line>
     <name>7</name>
