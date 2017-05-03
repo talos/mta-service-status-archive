@@ -1,21 +1,17 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>SERVICE CHANGE</status>
+    <status>DELAYS</status>
     <text>
-                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;05/02/2017&amp;nbsp; 9:11PM
+                    &amp;nbsp;Posted:&amp;nbsp;05/02/2017&amp;nbsp; 9:30PM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  &lt;P&gt;Due to a sick passenger at &lt;STRONG&gt;Hoyt St&lt;/STRONG&gt;, the following service changes are in effect:&lt;/P&gt;
-&lt;P&gt;Northbound [2] trains are running on the [5] line from &lt;STRONG&gt;Nevins St&lt;/STRONG&gt; to &lt;STRONG&gt;149 St-Grand Concourse.&lt;/STRONG&gt;&lt;/P&gt;
-&lt;P&gt;Some northbound [3] trains are running on the [4] line from &lt;STRONG&gt;Nevins St&lt;/STRONG&gt; to &lt;STRONG&gt;149 St-Grand Concourse &lt;/STRONG&gt;and terminate. &lt;/P&gt;
-&lt;P&gt;Expect delays on [4] and [5] trains. &lt;/P&gt;
-&lt;P&gt;Allow additional travel time.&lt;/P&gt;
+                  Following an earlier incident at &lt;STRONG&gt;Hoyt St&lt;/STRONG&gt;, [2], [3] ,[4] and [5] train service has resumed with delays.
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>05/02/2017</Date>
-    <Time> 9:11PM</Time>
+    <Time> 9:30PM</Time>
   </line>
   <line>
     <name>456</name>
@@ -23,24 +19,20 @@
     <text>
                     &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;05/02/2017&amp;nbsp; 9:30PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  Following an earlier incident at &lt;STRONG&gt;Hoyt St&lt;/STRONG&gt;, [2], [3] ,[4] and [5] train service has resumed with delays.
+                &lt;br/&gt;&lt;br/&gt;
+              
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
                     &amp;nbsp;Posted:&amp;nbsp;05/02/2017&amp;nbsp; 9:17PM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
                   Due to an earlier incident at &lt;STRONG&gt;Spring St&lt;/STRONG&gt;, [6] train service has resumed with delays.
                 &lt;br/&gt;&lt;br/&gt;
-              
-                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;05/02/2017&amp;nbsp; 9:11PM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  &lt;P&gt;Due to a sick passenger at &lt;STRONG&gt;Hoyt St&lt;/STRONG&gt;, the following service changes are in effect:&lt;/P&gt;
-&lt;P&gt;Northbound [2] trains are running on the [5] line from &lt;STRONG&gt;Nevins St&lt;/STRONG&gt; to &lt;STRONG&gt;149 St-Grand Concourse.&lt;/STRONG&gt;&lt;/P&gt;
-&lt;P&gt;Some northbound [3] trains are running on the [4] line from &lt;STRONG&gt;Nevins St&lt;/STRONG&gt; to &lt;STRONG&gt;149 St-Grand Concourse &lt;/STRONG&gt;and terminate. &lt;/P&gt;
-&lt;P&gt;Expect delays on [4] and [5] trains. &lt;/P&gt;
-&lt;P&gt;Allow additional travel time.&lt;/P&gt;
-                &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>05/02/2017</Date>
-    <Time> 9:17PM</Time>
+    <Time> 9:30PM</Time>
   </line>
   <line>
     <name>7</name>
@@ -802,10 +794,17 @@
   </line>
   <line>
     <name>Danbury</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>DELAYS</status>
+    <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;05/02/2017&amp;nbsp; 9:31PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  Danbury Branch Line service is currently experiencing delays of 10 to 15 minutes due to congestion caused by an earlier switch issue in Grand Central Terminal.  Please listen for announcements at your station.
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>05/02/2017</Date>
+    <Time> 9:31PM</Time>
   </line>
   <line>
     <name>Waterbury</name>
