@@ -590,10 +590,17 @@
   </line>
   <line>
     <name>Far Rockaway</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>DELAYS</status>
+    <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;05/03/2017&amp;nbsp; 7:51PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  The 7:26PM train from Far Rockaway due Atlantic Terminal at 8:21PM is operating 12 minutes late due to late-arriving equipment.
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>05/03/2017</Date>
+    <Time> 7:51PM</Time>
   </line>
   <line>
     <name>Hempstead</name>
@@ -649,19 +656,10 @@ earlier Amtrak signal trouble in Penn Station.
   </line>
   <line>
     <name>Ronkonkoma</name>
-    <status>DELAYS</status>
-    <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;05/03/2017&amp;nbsp; 7:10PM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  The 6:21PM train from Penn due Ronkonkoma at 7:39PM is operating 11 
-minutes late due to earlier Amtrak signal trouble in Penn Station.
-       
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>05/03/2017</Date>
-    <Time> 7:10PM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>West Hempstead</name>
