@@ -1,22 +1,42 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>DELAYS</status>
+    <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;05/03/2017&amp;nbsp;12:50PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;P&gt;Due to track maintenance along the line, the following service delays are in effect:&lt;/P&gt;
+&lt;P&gt;Both directions, [2] trains are running with delays between &lt;STRONG&gt;Prospect Av&lt;/STRONG&gt; and &lt;STRONG&gt;Wakefield-241 St.&lt;/STRONG&gt;&lt;/P&gt;
+&lt;P&gt;Both directions, [5] trains are running with delays between &lt;STRONG&gt;Prospect Av&lt;/STRONG&gt; and &lt;STRONG&gt;Eastchester-Dyre Av&lt;/STRONG&gt;. &lt;/P&gt;
+&lt;P&gt;Allow additional travel time.&lt;/P&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>05/03/2017</Date>
+    <Time>12:50PM</Time>
   </line>
   <line>
     <name>456</name>
-    <status>PLANNED WORK</status>
+    <status>DELAYS</status>
     <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;05/03/2017&amp;nbsp;12:50PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;P&gt;Due to track maintenance along the line, the following service delays are in effect:&lt;/P&gt;
+&lt;P&gt;Both directions, [2] trains are running with delays between &lt;STRONG&gt;Prospect Av&lt;/STRONG&gt; and &lt;STRONG&gt;Wakefield-241 St.&lt;/STRONG&gt;&lt;/P&gt;
+&lt;P&gt;Both directions, [5] trains are running with delays between &lt;STRONG&gt;Prospect Av&lt;/STRONG&gt; and &lt;STRONG&gt;Eastchester-Dyre Av&lt;/STRONG&gt;. &lt;/P&gt;
+&lt;P&gt;Allow additional travel time.&lt;/P&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              
                     &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
                     &lt;br/&gt;
                   &lt;a class="plannedWorkDetailLink" onclick=ShowHide(155612);&gt;&lt;b&gt;[4] Crown Hts-bound trains skip Kingsbridge Rd, Fordham Rd and 183 St&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 155612 class="plannedWorkDetail" &gt;&lt;/b&gt;Days, 10:45 AM to 3 PM, Wed &lt;i&gt;and&lt;/i&gt; Thu, May 3 - 4&lt;br&gt;&lt;br&gt;For service &lt;i&gt;to&lt;/i&gt; these stations, take the [4] to Burnside Av and transfer to a Woodlawn-bound [4].&lt;br&gt;&lt;br&gt;For service &lt;i&gt;from&lt;/i&gt; these stations, take the [4] to Bedford Park Blvd and transfer to a Crown Hts-bound [4].&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>05/03/2017</Date>
-    <Time>12:48PM</Time>
+    <Time>12:50PM</Time>
   </line>
   <line>
     <name>7</name>
