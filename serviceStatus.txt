@@ -1,17 +1,39 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>SERVICE CHANGE</status>
+    <text>
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;05/02/2017&amp;nbsp; 9:11PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;P&gt;Due to a sick passenger at &lt;STRONG&gt;Hoyt St&lt;/STRONG&gt;, the following service changes are in effect:&lt;/P&gt;
+&lt;P&gt;Northbound [2] trains are running on the [5] line from &lt;STRONG&gt;Nevins St&lt;/STRONG&gt; to &lt;STRONG&gt;149 St-Grand Concourse.&lt;/STRONG&gt;&lt;/P&gt;
+&lt;P&gt;Some northbound [3] trains are running on the [4] line from &lt;STRONG&gt;Nevins St&lt;/STRONG&gt; to &lt;STRONG&gt;149 St-Grand Concourse &lt;/STRONG&gt;and terminate. &lt;/P&gt;
+&lt;P&gt;Expect delays on [4] and [5] trains. &lt;/P&gt;
+&lt;P&gt;Allow additional travel time.&lt;/P&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>05/02/2017</Date>
+    <Time> 9:11PM</Time>
   </line>
   <line>
     <name>456</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>SERVICE CHANGE</status>
+    <text>
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;05/02/2017&amp;nbsp; 9:11PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;P&gt;Due to a sick passenger at &lt;STRONG&gt;Hoyt St&lt;/STRONG&gt;, the following service changes are in effect:&lt;/P&gt;
+&lt;P&gt;Northbound [2] trains are running on the [5] line from &lt;STRONG&gt;Nevins St&lt;/STRONG&gt; to &lt;STRONG&gt;149 St-Grand Concourse.&lt;/STRONG&gt;&lt;/P&gt;
+&lt;P&gt;Some northbound [3] trains are running on the [4] line from &lt;STRONG&gt;Nevins St&lt;/STRONG&gt; to &lt;STRONG&gt;149 St-Grand Concourse &lt;/STRONG&gt;and terminate. &lt;/P&gt;
+&lt;P&gt;Expect delays on [4] and [5] trains. &lt;/P&gt;
+&lt;P&gt;Allow additional travel time.&lt;/P&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>05/02/2017</Date>
+    <Time> 9:11PM</Time>
   </line>
   <line>
     <name>7</name>
@@ -244,7 +266,7 @@
               &lt;br/&gt;
             </text>
     <Date>05/02/2017</Date>
-    <Time> 9:08PM</Time>
+    <Time> 9:12PM</Time>
   </line>
   <line>
     <name>BX1 - BX55</name>
@@ -290,7 +312,7 @@
               &lt;br/&gt;
             </text>
     <Date>05/02/2017</Date>
-    <Time> 9:08PM</Time>
+    <Time> 9:12PM</Time>
   </line>
   <line>
     <name>M1 - M116</name>
@@ -475,7 +497,7 @@
               &lt;br/&gt;
             </text>
     <Date>05/02/2017</Date>
-    <Time> 9:08PM</Time>
+    <Time> 9:12PM</Time>
   </line>
   <line>
     <name>S40 - S98</name>
