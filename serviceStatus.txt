@@ -1,36 +1,22 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>DELAYS</status>
-    <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;05/04/2017&amp;nbsp;12:47PM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  Following an earlier incident at &lt;STRONG&gt;Flatbush Av-Brooklyn College&lt;/STRONG&gt;, [2] and [5] train service has resumed with delays.
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>05/04/2017</Date>
-    <Time>12:47PM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>456</name>
-    <status>DELAYS</status>
+    <status>PLANNED WORK</status>
     <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;05/04/2017&amp;nbsp;12:47PM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  Following an earlier incident at &lt;STRONG&gt;Flatbush Av-Brooklyn College&lt;/STRONG&gt;, [2] and [5] train service has resumed with delays.
-                &lt;br/&gt;&lt;br/&gt;
-              
                     &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
                     &lt;br/&gt;
                   &lt;a class="plannedWorkDetailLink" onclick=ShowHide(155612);&gt;&lt;b&gt;[4] Crown Hts-bound trains skip Kingsbridge Rd, Fordham Rd and 183 St&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 155612 class="plannedWorkDetail" &gt;&lt;/b&gt;Days, 10:45 AM to 3 PM, Wed &lt;i&gt;and&lt;/i&gt; Thu, May 3 - 4&lt;br&gt;&lt;br&gt;For service &lt;i&gt;to&lt;/i&gt; these stations, take the [4] to Burnside Av and transfer to a Woodlawn-bound [4].&lt;br&gt;&lt;br&gt;For service &lt;i&gt;from&lt;/i&gt; these stations, take the [4] to Bedford Park Blvd and transfer to a Crown Hts-bound [4].&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>05/04/2017</Date>
-    <Time>12:47PM</Time>
+    <Time> 1:02PM</Time>
   </line>
   <line>
     <name>7</name>
@@ -61,7 +47,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>05/04/2017</Date>
-    <Time>12:52PM</Time>
+    <Time> 1:02PM</Time>
   </line>
   <line>
     <name>G</name>
@@ -99,7 +85,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>05/04/2017</Date>
-    <Time>12:52PM</Time>
+    <Time> 1:02PM</Time>
   </line>
   <line>
     <name>S</name>
@@ -123,7 +109,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>05/04/2017</Date>
-    <Time>12:52PM</Time>
+    <Time> 1:02PM</Time>
   </line>
 </subway><bus>
   <line>
@@ -234,7 +220,7 @@
               &lt;br/&gt;
             </text>
     <Date>05/04/2017</Date>
-    <Time>12:52PM</Time>
+    <Time> 1:02PM</Time>
   </line>
   <line>
     <name>M1 - M116</name>
@@ -317,8 +303,18 @@
   </line>
   <line>
     <name>Q1 - Q113</name>
-    <status>SERVICE CHANGE</status>
+    <status>DELAYS</status>
     <text>
+                  &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                  &lt;span class="DateStyle"&gt;
+                  &amp;nbsp;Posted:&amp;nbsp;05/04/2017&amp;nbsp; 1:01PM
+                  &lt;/span&gt;
+                  &lt;br/&gt;
+                  &lt;br/&gt;
+                Following an earlier incident on 60 St exit ramp, &lt;STRONG&gt;Q32&lt;/STRONG&gt; bus service has resumed with delays.
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
                   &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
                   &lt;span class="DateStyle"&gt;
                   &amp;nbsp;Posted:&amp;nbsp;05/04/2017&amp;nbsp;12:06PM
@@ -340,17 +336,6 @@
                   &lt;br/&gt;
                   &lt;br/&gt;
                 &lt;P&gt;&lt;STRONG&gt;Q60&lt;/STRONG&gt; and &lt;STRONG&gt;Q101&lt;/STRONG&gt; westbound buses are delayed, due to a non MTA accident on the Ed Koch Bridge. &lt;/P&gt;
-&lt;P&gt;Allow additional travel time.&lt;/P&gt;
-              &lt;br/&gt;
-              &lt;br/&gt;
-            
-                  &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                  &lt;span class="DateStyle"&gt;
-                  &amp;nbsp;Posted:&amp;nbsp;05/04/2017&amp;nbsp;10:02AM
-                  &lt;/span&gt;
-                  &lt;br/&gt;
-                  &lt;br/&gt;
-                &lt;P&gt;&lt;STRONG&gt;Q32&lt;/STRONG&gt; buses are running with delays in both directions, due to Non MTA accident on 60 St exit ramp. &lt;/P&gt;
 &lt;P&gt;Allow additional travel time.&lt;/P&gt;
               &lt;br/&gt;
               &lt;br/&gt;
@@ -410,7 +395,7 @@
               &lt;br/&gt;
             </text>
     <Date>05/04/2017</Date>
-    <Time>12:06PM</Time>
+    <Time> 1:01PM</Time>
   </line>
   <line>
     <name>QM1 - QM44</name>
@@ -423,7 +408,7 @@
               &lt;br/&gt;
             </text>
     <Date>05/04/2017</Date>
-    <Time>12:52PM</Time>
+    <Time> 1:02PM</Time>
   </line>
   <line>
     <name>S40 - S98</name>
