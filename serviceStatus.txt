@@ -1,17 +1,10 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>DELAYS</status>
-    <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;05/05/2017&amp;nbsp; 6:25PM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  Following an earlier incident at &lt;STRONG&gt;Rector St&lt;/STRONG&gt;, [1] train service has resumed with delays.
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>05/05/2017</Date>
-    <Time> 6:25PM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>456</name>
@@ -83,17 +76,10 @@
   </line>
   <line>
     <name>L</name>
-    <status>DELAYS</status>
-    <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;05/05/2017&amp;nbsp; 6:37PM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  Following an earlier incident at &lt;STRONG&gt;1 Av,&lt;/STRONG&gt; [L] train service has resumed with delays.
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>05/05/2017</Date>
-    <Time> 6:37PM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>NQR</name>
@@ -441,16 +427,6 @@
     <text>
                   &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                   &lt;span class="DateStyle"&gt;
-                  &amp;nbsp;Posted:&amp;nbsp;05/05/2017&amp;nbsp; 6:29PM
-                  &lt;/span&gt;
-                  &lt;br/&gt;
-                  &lt;br/&gt;
-                Following an earlier incident on the Long Island Expressway, &lt;STRONG&gt;Q23, Q58&lt;/STRONG&gt; and &lt;STRONG&gt;Q88 &lt;/STRONG&gt;bus service has resumed with delays.
-              &lt;br/&gt;
-              &lt;br/&gt;
-            
-                  &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                  &lt;span class="DateStyle"&gt;
                   &amp;nbsp;Posted:&amp;nbsp;05/05/2017&amp;nbsp; 6:05PM
                   &lt;/span&gt;
                   &lt;br/&gt;
@@ -587,7 +563,7 @@
               &lt;br/&gt;
             </text>
     <Date>05/05/2017</Date>
-    <Time> 6:29PM</Time>
+    <Time> 6:05PM</Time>
   </line>
   <line>
     <name>QM1 - QM44</name>
@@ -999,22 +975,10 @@
 </BT><LIRR>
   <line>
     <name>Babylon</name>
-    <status>DELAYS</status>
-    <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;05/05/2017&amp;nbsp; 6:10PM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  &lt;p&gt;&lt;strong&gt;LIRR is experiencing residual delays averaging 10 to 15 minutes due to 
-the earlier weather-related track condition in Hicksville. The Port 
-Washington Branch remains unaffected at this time.&lt;/strong&gt; &lt;/p&gt;
-&lt;p&gt;The 5:40PM train from Penn due Seaford at 6:30PM has been cancelled due to congestion caused by an earlier weather-related track condition near Hicksville. Customers will be accommodated by the 5:47PM train from Penn due Freeport at 6:31PM stopping at Rockville Centre, and all further stops to Seaford.&lt;/p&gt;
-&lt;p&gt;The 5:19PM train from Penn due Wantagh at 6:06PM has been canceled due to congestion caused by a weather-related track condition in Hicksville. Customers will be accommodated by the 5:24PM train from Penn due Freeport at 6:10PM with stops at Forest Hills, Kew Gardens, Jamaica, Rockville Centre, and all further stops to Wantagh. &lt;br&gt;&lt;/p&gt;
-&lt;p&gt;&lt;br&gt;&lt;/p&gt;
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>05/05/2017</Date>
-    <Time> 6:10PM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>City Terminal Zone</name>
@@ -1032,20 +996,10 @@ Washington Branch remains unaffected at this time.&lt;/strong&gt; &lt;/p&gt;
   </line>
   <line>
     <name>Hempstead</name>
-    <status>DELAYS</status>
-    <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;05/05/2017&amp;nbsp; 6:49PM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  &lt;body bgcolor='White' style='font-family:sans-serif;font-size:10pt;'&gt;&lt;p&gt;&lt;strong&gt;LIRR is experiencing residual delays averaging 10 to 15 minutes due to 
-the earlier weather-related track condition in Hicksville. The Port 
-Washington Branch remains unaffected at this time.&lt;/strong&gt; 
-     &lt;/p&gt;&lt;p&gt;&lt;strong&gt;&lt;u&gt;Eastbound:&lt;/u&gt;&lt;/strong&gt;   &lt;/p&gt;&lt;p&gt;The 5:51PM train from Penn due Hempstead at 6:46PM is operating 11 minutes late.  &lt;/p&gt;&lt;p&gt;The 6:01PM train from Penn due Hicksville at 6:45PM is operating 11 minutes late.&lt;/p&gt;&lt;p&gt; &lt;/p&gt;&lt;/body&gt;
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>05/05/2017</Date>
-    <Time> 6:49PM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>Long Beach</name>
@@ -1121,20 +1075,10 @@ territory.
   </line>
   <line>
     <name>Ronkonkoma</name>
-    <status>DELAYS</status>
-    <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;05/05/2017&amp;nbsp; 6:16PM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  &lt;p&gt;&lt;strong&gt;LIRR is experiencing residual delays averaging 10 to 15 minutes due to 
-the earlier weather-related track condition in Hicksville. The Port 
-Washington Branch remains unaffected at this time.&lt;/strong&gt; 
-        &lt;/p&gt;&lt;p&gt;The 5:29PM train from Hunterspoint Ave. due Ronkonkoma at 6:45PM is operating 10 minutes late.&lt;/p&gt;
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>05/05/2017</Date>
-    <Time> 6:16PM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>West Hempstead</name>
