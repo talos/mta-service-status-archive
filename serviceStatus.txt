@@ -120,10 +120,19 @@
   </line>
   <line>
     <name>L</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>SERVICE CHANGE</status>
+    <text>
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;05/05/2017&amp;nbsp; 4:10PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;P&gt;Due to a sick passenger at &lt;STRONG&gt;DeKalb Av,&lt;/STRONG&gt; 8 Av bound [L] trains terminate at &lt;STRONG&gt;Myrtle Av.&lt;/STRONG&gt;  &lt;/P&gt;
+&lt;P&gt;Expect delays in both directions. &lt;/P&gt;
+&lt;P&gt;Allow additional travel time. &lt;/P&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>05/05/2017</Date>
+    <Time> 4:10PM</Time>
   </line>
   <line>
     <name>NQR</name>
@@ -1162,19 +1171,10 @@ unauthorized vehicle on the tracks east of Cold Spring Harbor.
   </line>
   <line>
     <name>Port Washington</name>
-    <status>DELAYS</status>
-    <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;05/05/2017&amp;nbsp; 3:36PM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  The 3:18PM train from Penn due Port Washington at 4:03PM is operating 11
- minutes late due to an equipment problem prior departure.
-       
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>05/05/2017</Date>
-    <Time> 3:36PM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>Ronkonkoma</name>
