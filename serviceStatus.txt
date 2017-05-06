@@ -54,13 +54,14 @@
   </line>
   <line>
     <name>ACE</name>
-    <status>DELAYS</status>
+    <status>SERVICE CHANGE</status>
     <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;05/06/2017&amp;nbsp;11:29AM
+                    &amp;nbsp;Posted:&amp;nbsp;05/06/2017&amp;nbsp; 1:38PM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  &lt;P&gt;Due to signal problems at &lt;STRONG&gt;High St&lt;/STRONG&gt;, southbound [A] and [C] trains are running with delays.&lt;/P&gt;
+                  &lt;P&gt;Due to signal problems at &lt;STRONG&gt;High St&lt;/STRONG&gt;, southbound [A] and [C] trains are running on the [F] line from &lt;STRONG&gt;W 4&lt;/STRONG&gt; &lt;STRONG&gt;St-Washington Sq&lt;/STRONG&gt; to &lt;STRONG&gt;Jay St-Metro Tech&lt;/STRONG&gt;. &lt;/P&gt;
+&lt;P&gt;Expect delays on southbound [A], [C] and [F] trains.&lt;/P&gt;
 &lt;P&gt;Allow additional travel time.&lt;/P&gt;
                 &lt;br/&gt;&lt;br/&gt;
               
@@ -70,7 +71,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>05/06/2017</Date>
-    <Time>11:29AM</Time>
+    <Time> 1:38PM</Time>
   </line>
   <line>
     <name>BDFM</name>
@@ -530,10 +531,17 @@
 </bus><BT>
   <line>
     <name>Bronx-Whitestone</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>DELAYS</status>
+    <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;05/06/2017&amp;nbsp; 1:36PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  BWB: DELAYS; Bronx bound delays due to volume, expect delays.
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>05/06/2017</Date>
+    <Time> 1:36PM</Time>
   </line>
   <line>
     <name>Cross Bay</name>
