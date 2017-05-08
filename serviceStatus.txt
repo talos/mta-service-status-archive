@@ -1,17 +1,10 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>DELAYS</status>
-    <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;05/08/2017&amp;nbsp;10:06AM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  Due to an earlier incident at Chambers St, [2] and [3] trains service has resumed with delays.
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>05/08/2017</Date>
-    <Time>10:06AM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>456</name>
@@ -515,10 +508,17 @@
   </line>
   <line>
     <name>City Terminal Zone</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>SERVICE CHANGE</status>
+    <text>
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;05/08/2017&amp;nbsp;10:29AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  Temporary platforms are in place for westbound customers at Kew Gardens, Forest Hills and Woodside. Customers board and exit trains from the first door of the first west car at Kew Gardens and Forest Hills; from the first 2 cars at Woodside. Port Washington Branch service is not affected.
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>05/08/2017</Date>
+    <Time>10:29AM</Time>
   </line>
   <line>
     <name>Far Rockaway</name>
