@@ -1,10 +1,17 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>DELAYS</status>
+    <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;05/08/2017&amp;nbsp;10:06AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  Due to an earlier incident at Chambers St, [2] and [3] trains service has resumed with delays.
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>05/08/2017</Date>
+    <Time>10:06AM</Time>
   </line>
   <line>
     <name>456</name>
@@ -453,11 +460,16 @@
     <text>
                     &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
                     &lt;br/&gt;
+                  RFK - planned work; Bruckner ramp Queens bound one lane blocked, expect delays.
+                &lt;br/&gt;&lt;br/&gt;
+              
+                    &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
+                    &lt;br/&gt;
                   RFK: Planned work; Manhattan span - Bronx / Queens bound, one lane closed. Expect delays.
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>05/08/2017</Date>
-    <Time> 8:29AM</Time>
+    <Time>10:06AM</Time>
   </line>
   <line>
     <name>Throgs Neck</name>
