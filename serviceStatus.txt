@@ -1,31 +1,17 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>DELAYS</status>
-    <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;05/08/2017&amp;nbsp; 9:42PM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  Due to an earlier incident at &lt;STRONG&gt;149 St-Grand Concourse&lt;/STRONG&gt;, [2] and [5] train service has resumed with delays.
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>05/08/2017</Date>
-    <Time> 9:42PM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>456</name>
-    <status>DELAYS</status>
-    <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;05/08/2017&amp;nbsp; 9:42PM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  Due to an earlier incident at &lt;STRONG&gt;149 St-Grand Concourse&lt;/STRONG&gt;, [2] and [5] train service has resumed with delays.
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>05/08/2017</Date>
-    <Time> 9:42PM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>7</name>
@@ -626,6 +612,11 @@
     <text>
                     &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
                     &lt;br/&gt;
+                  RFK: PLANNED WORK; Bronx Span Queens / Manhattan bound one lane blocked, expect delays.
+                &lt;br/&gt;&lt;br/&gt;
+              
+                    &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
+                    &lt;br/&gt;
                   RFK: PLANNED WORK; Queens to Manhattan ramp one lane (chute) closed.
                 &lt;br/&gt;&lt;br/&gt;
               
@@ -635,7 +626,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>05/08/2017</Date>
-    <Time> 8:01PM</Time>
+    <Time>10:12PM</Time>
   </line>
   <line>
     <name>Throgs Neck</name>
