@@ -8,10 +8,22 @@
   </line>
   <line>
     <name>456</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>SERVICE CHANGE</status>
+    <text>
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;05/10/2017&amp;nbsp; 8:49AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;P&gt;Due to an rail condition at &lt;STRONG&gt;59 St&lt;/STRONG&gt;, the following service changes are in effect:&lt;/P&gt;
+&lt;P&gt;Some southbound [5] trains are running on the [2] line from &lt;STRONG&gt;149 St-Grand Concourse&lt;/STRONG&gt; to &lt;STRONG&gt;Nevins St&lt;/STRONG&gt;.&lt;/P&gt;
+&lt;P&gt;Southbound [6] trains are running express from &lt;STRONG&gt;125 St &lt;/STRONG&gt;to &lt;STRONG&gt;Grand Central-42 St&lt;/STRONG&gt;. &lt;/P&gt;
+&lt;P&gt;Some southbound [6] trains are terminating at &lt;STRONG&gt;86 St&lt;/STRONG&gt;.&lt;/P&gt;
+&lt;P&gt;Expect delays in [2], [3], [4], [5] train service.&lt;/P&gt;
+&lt;P&gt;Allow additional travel time.&lt;/P&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>05/10/2017</Date>
+    <Time> 8:49AM</Time>
   </line>
   <line>
     <name>7</name>
@@ -98,8 +110,22 @@
 </subway><bus>
   <line>
     <name>B1 - B84</name>
-    <status>SERVICE CHANGE</status>
+    <status>DELAYS</status>
     <text>
+                  &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                  &lt;span class="DateStyle"&gt;
+                  &amp;nbsp;Posted:&amp;nbsp;05/10/2017&amp;nbsp; 8:49AM
+                  &lt;/span&gt;
+                  &lt;br/&gt;
+                  &lt;br/&gt;
+                &lt;P&gt;&lt;STRONG&gt;B15&lt;/STRONG&gt; and &lt;STRONG&gt;B65&lt;/STRONG&gt; buses are detoured due to milling on Bergen St between Utica Av and Albany Av.&lt;/P&gt;
+&lt;P&gt;Details as follows: &lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;B65 Westbound:&lt;/STRONG&gt; Via Bergen St, right on Utica Av, left on Pacific St, left on Albany Av, right on Bergen St and regular route.  &lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;B15 Westbound:&lt;/STRONG&gt; Via Bergen St, right on Utica Av, left on Pacific St, right on Troy St, and regular route.  &lt;/P&gt;
+&lt;P&gt;Allow additional travel time.  &lt;/P&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
                   &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
                   &lt;span class="DateStyle"&gt;
                   &amp;nbsp;Posted:&amp;nbsp;05/10/2017&amp;nbsp; 8:46AM
@@ -181,7 +207,7 @@
               &lt;br/&gt;
             </text>
     <Date>05/10/2017</Date>
-    <Time> 8:46AM</Time>
+    <Time> 8:49AM</Time>
   </line>
   <line>
     <name>B100 - B103</name>
