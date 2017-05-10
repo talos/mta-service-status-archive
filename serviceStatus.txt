@@ -1,10 +1,20 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>SERVICE CHANGE</status>
+    <text>
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;05/10/2017&amp;nbsp; 8:57AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;P&gt;[3] train shuttle buses are detoured, due to a sink hole on Schenectady Av at St John's Pl. &lt;/P&gt;
+&lt;P&gt;Detour is as follows:&lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;Shuttle turnaround&lt;/STRONG&gt;: Via Eastern Pkwy, left on Schenectady Av, right on President St, right on Troy Av, right on Eastern Pkwy and regular route.&lt;/P&gt;
+&lt;P&gt;Allow additional travel time.&lt;/P&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>05/10/2017</Date>
+    <Time> 8:57AM</Time>
   </line>
   <line>
     <name>456</name>
