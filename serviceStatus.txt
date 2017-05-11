@@ -1,15 +1,8 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>DELAYS</status>
+    <status>SERVICE CHANGE</status>
     <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;05/11/2017&amp;nbsp; 6:35AM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  Following an earlier incident at &lt;STRONG&gt;Times Sq-42 St&lt;/STRONG&gt;, [1] train service has resumed with delays.
-                &lt;br/&gt;&lt;br/&gt;
-              
                     &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
                     &amp;nbsp;Posted:&amp;nbsp;05/11/2017&amp;nbsp; 6:07AM
@@ -23,7 +16,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>05/11/2017</Date>
-    <Time> 6:35AM</Time>
+    <Time> 6:07AM</Time>
   </line>
   <line>
     <name>456</name>
@@ -483,10 +476,19 @@
   </line>
   <line>
     <name>Montauk</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>DELAYS</status>
+    <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;05/11/2017&amp;nbsp; 6:50AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  The 5:39AM train from Montauk due Long Island City at 8:44AM is being 
+delayed west of Southampton Station due to equipment trouble. 
+       
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>05/11/2017</Date>
+    <Time> 6:50AM</Time>
   </line>
   <line>
     <name>Oyster Bay</name>
