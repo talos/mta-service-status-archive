@@ -1,14 +1,13 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>SERVICE CHANGE</status>
+    <status>DELAYS</status>
     <text>
-                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;05/11/2017&amp;nbsp; 9:44AM
+                    &amp;nbsp;Posted:&amp;nbsp;05/11/2017&amp;nbsp; 9:51AM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  &lt;P&gt;Due to a train with mechanical problems at &lt;STRONG&gt;Jackson Av&lt;/STRONG&gt;, southbound [2] and [5] trains are running express from &lt;STRONG&gt;E 180 St&lt;/STRONG&gt; to &lt;STRONG&gt;3 Av-149 St&lt;/STRONG&gt;. &lt;/P&gt;
-&lt;P&gt;Allow additional travel time.&lt;/P&gt;
+                  Following an earlier incident at &lt;STRONG&gt;Jackson Av&lt;/STRONG&gt;, [2] and [5] train service has resumed with delays.
                 &lt;br/&gt;&lt;br/&gt;
               
                     &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
@@ -24,22 +23,21 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>05/11/2017</Date>
-    <Time> 9:44AM</Time>
+    <Time> 9:51AM</Time>
   </line>
   <line>
     <name>456</name>
-    <status>SERVICE CHANGE</status>
+    <status>DELAYS</status>
     <text>
-                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;05/11/2017&amp;nbsp; 9:44AM
+                    &amp;nbsp;Posted:&amp;nbsp;05/11/2017&amp;nbsp; 9:51AM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  &lt;P&gt;Due to a train with mechanical problems at &lt;STRONG&gt;Jackson Av&lt;/STRONG&gt;, southbound [2] and [5] trains are running express from &lt;STRONG&gt;E 180 St&lt;/STRONG&gt; to &lt;STRONG&gt;3 Av-149 St&lt;/STRONG&gt;. &lt;/P&gt;
-&lt;P&gt;Allow additional travel time.&lt;/P&gt;
+                  Following an earlier incident at &lt;STRONG&gt;Jackson Av&lt;/STRONG&gt;, [2] and [5] train service has resumed with delays.
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>05/11/2017</Date>
-    <Time> 9:44AM</Time>
+    <Time> 9:51AM</Time>
   </line>
   <line>
     <name>7</name>
@@ -64,11 +62,11 @@
   </line>
   <line>
     <name>BDFM</name>
-    <status>SERVICE CHANGE</status>
+    <status>DELAYS</status>
     <text>
-                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;05/11/2017&amp;nbsp; 9:24AM
+                    &amp;nbsp;Posted:&amp;nbsp;05/11/2017&amp;nbsp; 9:52AM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
                   Due to an earlier incident at &lt;STRONG&gt;170 St&lt;/STRONG&gt;, [B] and [D] train service resumed with delays.
                 &lt;br/&gt;&lt;br/&gt;
@@ -79,7 +77,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>05/11/2017</Date>
-    <Time> 9:24AM</Time>
+    <Time> 9:52AM</Time>
   </line>
   <line>
     <name>G</name>
@@ -128,7 +126,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>05/11/2017</Date>
-    <Time> 9:48AM</Time>
+    <Time> 9:52AM</Time>
   </line>
   <line>
     <name>SIR</name>
@@ -145,7 +143,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>05/11/2017</Date>
-    <Time> 9:48AM</Time>
+    <Time> 9:52AM</Time>
   </line>
 </subway><bus>
   <line>
@@ -226,7 +224,7 @@
               &lt;br/&gt;
             </text>
     <Date>05/11/2017</Date>
-    <Time> 9:48AM</Time>
+    <Time> 9:52AM</Time>
   </line>
   <line>
     <name>BXM1 - BXM18</name>
@@ -245,7 +243,7 @@
               &lt;br/&gt;
             </text>
     <Date>05/11/2017</Date>
-    <Time> 9:48AM</Time>
+    <Time> 9:52AM</Time>
   </line>
   <line>
     <name>M1 - M116</name>
@@ -373,7 +371,7 @@
               &lt;br/&gt;
             </text>
     <Date>05/11/2017</Date>
-    <Time> 9:48AM</Time>
+    <Time> 9:52AM</Time>
   </line>
   <line>
     <name>S40 - S98</name>
@@ -445,7 +443,7 @@
               &lt;br/&gt;
             </text>
     <Date>05/11/2017</Date>
-    <Time> 9:48AM</Time>
+    <Time> 9:52AM</Time>
   </line>
 </bus><BT>
   <line>
@@ -571,11 +569,16 @@
     <text>
                     &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
                     &lt;br/&gt;
+                  VNB: PLANNED WORK: STATEN ISLAND-BOUND / BELT PKWY RAMP, ONE LANE CLOSED. EXPECT DELAYS.
+                &lt;br/&gt;&lt;br/&gt;
+              
+                    &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
+                    &lt;br/&gt;
                   VNB: Planned work; Upper level Staten Island bound, one lane closed. Expect delays.
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>05/11/2017</Date>
-    <Time> 8:09AM</Time>
+    <Time> 9:51AM</Time>
   </line>
 </BT><LIRR>
   <line>
