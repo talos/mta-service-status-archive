@@ -522,10 +522,15 @@
 </bus><BT>
   <line>
     <name>Bronx-Whitestone</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>PLANNED WORK</status>
+    <text>
+                    &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
+                    &lt;br/&gt;
+                  BWB: Planned work; Queens bound, one lane closed. Expect delays.
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>05/10/2017</Date>
+    <Time>10:43PM</Time>
   </line>
   <line>
     <name>Cross Bay</name>
@@ -673,17 +678,10 @@
   </line>
   <line>
     <name>Montauk</name>
-    <status>DELAYS</status>
-    <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;05/10/2017&amp;nbsp;10:20PM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  The 8:53PM train from Jamaica due Montauk at 11:57PM is operating 11 minutes late due to an earlier late train ahead.
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>05/10/2017</Date>
-    <Time>10:20PM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>Oyster Bay</name>
@@ -698,13 +696,17 @@
     <text>
                     &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;05/10/2017&amp;nbsp;10:18PM
+                    &amp;nbsp;Posted:&amp;nbsp;05/10/2017&amp;nbsp;10:45PM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  The 9:55PM train from Huntington due Port Jefferson at 10:42PM is operating 13 minutes late after accommodating a late-arriving connection at Huntington Station.
+                  &lt;P&gt;&lt;STRONG&gt;Eastbound&lt;/STRONG&gt;&lt;/P&gt;
+&lt;P&gt;The 9:55PM train from Huntington due Port Jefferson at 10:42PM is operating 13 minutes late after accommodating a late-arriving connection at Huntington Station.&lt;/P&gt;
+&lt;P&gt; &lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;Westbound&lt;/STRONG&gt;&lt;/P&gt;
+&lt;P&gt;The 9:41PM train from Port Jefferson due Hicksville at 10:46PM is operating 10 minutes late after accommodating a late-arriving eastbound train in single-track territory. &lt;/P&gt;
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>05/10/2017</Date>
-    <Time>10:18PM</Time>
+    <Time>10:45PM</Time>
   </line>
   <line>
     <name>Port Washington</name>
