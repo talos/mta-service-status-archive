@@ -20,10 +20,17 @@
   </line>
   <line>
     <name>456</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>DELAYS</status>
+    <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;05/11/2017&amp;nbsp; 7:13PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  Due to an earlier incident at &lt;STRONG&gt;Brooklyn Bridge-City Hall&lt;/STRONG&gt;, [6] train service has resumed with delays.
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>05/11/2017</Date>
+    <Time> 7:13PM</Time>
   </line>
   <line>
     <name>7</name>
@@ -257,8 +264,18 @@
   </line>
   <line>
     <name>M1 - M116</name>
-    <status>SERVICE CHANGE</status>
+    <status>DELAYS</status>
     <text>
+                  &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                  &lt;span class="DateStyle"&gt;
+                  &amp;nbsp;Posted:&amp;nbsp;05/11/2017&amp;nbsp; 7:15PM
+                  &lt;/span&gt;
+                  &lt;br/&gt;
+                  &lt;br/&gt;
+                Following an earlier incident at Brooklyn Bridge, &lt;STRONG&gt;M22&lt;/STRONG&gt; bus service has resumed with delays.
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
                   &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
                   &lt;span class="DateStyle"&gt;
                   &amp;nbsp;Posted:&amp;nbsp;05/11/2017&amp;nbsp; 6:09PM
@@ -270,17 +287,6 @@
 &lt;P&gt;&lt;STRONG&gt;Westbound&lt;/STRONG&gt;: Via Houston St, left on Varick St, left on Spring St and regular route. &lt;/P&gt;
 &lt;P&gt;All corresponding stops will be made. &lt;/P&gt;
 &lt;P&gt;Allow additional travel time. &lt;/P&gt;
-              &lt;br/&gt;
-              &lt;br/&gt;
-            
-                  &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                  &lt;span class="DateStyle"&gt;
-                  &amp;nbsp;Posted:&amp;nbsp;05/11/2017&amp;nbsp; 6:09PM
-                  &lt;/span&gt;
-                  &lt;br/&gt;
-                  &lt;br/&gt;
-                &lt;P&gt;&lt;STRONG&gt;M22&lt;/STRONG&gt; buses are running with delays in both directions due to traffic conditions near the Brooklyn Bridge. &lt;/P&gt;
-&lt;P&gt;Allow additional travel time.&lt;/P&gt;
               &lt;br/&gt;
               &lt;br/&gt;
             
@@ -375,7 +381,7 @@
               &lt;br/&gt;
             </text>
     <Date>05/11/2017</Date>
-    <Time> 6:09PM</Time>
+    <Time> 7:15PM</Time>
   </line>
   <line>
     <name>Q1 - Q113</name>
@@ -843,18 +849,10 @@ equipment trouble     &lt;/p&gt;
   </line>
   <line>
     <name>Port Washington</name>
-    <status>DELAYS</status>
-    <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;05/11/2017&amp;nbsp; 7:10PM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  The 6:24PM train from Penn due Port Washington at 7:04PM is operating 11 minutes late due to a late train ahead.
-       
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>05/11/2017</Date>
-    <Time> 7:10PM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>Ronkonkoma</name>
