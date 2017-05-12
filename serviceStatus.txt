@@ -1,17 +1,10 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>DELAYS</status>
-    <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;05/12/2017&amp;nbsp; 5:08PM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  Following an earlier incident at &lt;STRONG&gt;116 St,&lt;/STRONG&gt; [2] and [3] train service has resumed with delays.
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>05/12/2017</Date>
-    <Time> 5:08PM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>456</name>
@@ -880,10 +873,17 @@
   </line>
   <line>
     <name>Port Jefferson</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>DELAYS</status>
+    <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;05/12/2017&amp;nbsp; 5:30PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  The 4:49PM train from Penn due Port Jefferson at 6:36PM is operating 15 minutes late due to an earlier equipment problem in Jamaica.
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>05/12/2017</Date>
+    <Time> 5:30PM</Time>
   </line>
   <line>
     <name>Port Washington</name>
