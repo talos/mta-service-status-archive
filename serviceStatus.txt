@@ -1,10 +1,18 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>SERVICE CHANGE</status>
+    <text>
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;05/12/2017&amp;nbsp; 6:48PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;P&gt;Due to a sick passenger at &lt;STRONG&gt;Jackson Av&lt;/STRONG&gt;, northbound [2] trains are running express from &lt;STRONG&gt;3 Av-149 St&lt;/STRONG&gt; to &lt;STRONG&gt;E 180 St&lt;/STRONG&gt;. &lt;/P&gt;
+&lt;P&gt;Allow additional travel time.&lt;/P&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>05/12/2017</Date>
+    <Time> 6:48PM</Time>
   </line>
   <line>
     <name>456</name>
@@ -72,7 +80,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>05/12/2017</Date>
-    <Time> 6:42PM</Time>
+    <Time> 6:48PM</Time>
   </line>
   <line>
     <name>SIR</name>
@@ -822,10 +830,17 @@
 </BT><LIRR>
   <line>
     <name>Babylon</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>DELAYS</status>
+    <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;05/12/2017&amp;nbsp; 6:48PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;p&gt;&lt;strong&gt;LIRR is experiencing scattered eastbound and westbound delays averaging 15 minutes due to congestion caused by an earlier train with equipment trouble.&lt;/strong&gt; &lt;/p&gt;&lt;p&gt;The 6:05PM train from Penn due Wantagh at 6:51PM is operating 10 minutes late.&lt;/p&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>05/12/2017</Date>
+    <Time> 6:48PM</Time>
   </line>
   <line>
     <name>City Terminal Zone</name>
