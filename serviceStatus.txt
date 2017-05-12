@@ -8,10 +8,19 @@
   </line>
   <line>
     <name>456</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>SERVICE CHANGE</status>
+    <text>
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;05/12/2017&amp;nbsp;10:37AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;P&gt;Due to track inspection along &lt;STRONG&gt;Lexington Av&lt;/STRONG&gt;, northbound [4] and [5] trains are running local from &lt;STRONG&gt;City Hall Brooklyn Bridge&lt;/STRONG&gt; to &lt;STRONG&gt;125 St.&lt;/STRONG&gt;&lt;/P&gt;
+&lt;P&gt;Expect delays on [4], [5] and [6] trains.&lt;/P&gt;
+&lt;P&gt;Allow additional travel time.&lt;/P&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>05/12/2017</Date>
+    <Time>10:37AM</Time>
   </line>
   <line>
     <name>7</name>
@@ -539,20 +548,11 @@
   </line>
   <line>
     <name>Hugh L. Carey</name>
-    <status>SERVICE CHANGE</status>
+    <status>PLANNED WORK</status>
     <text>
-                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;05/12/2017&amp;nbsp;10:34AM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  HLC - HOV LANE ENDED
-                &lt;br/&gt;&lt;br/&gt;
-              
-                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;05/12/2017&amp;nbsp; 6:00AM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  HLC - HOV LANE OPEN 6 AM TO 10 AM. TWO-WAY OPERATIONS IN EFFECT. THREE (3) LANES MANHATTAN BOUND. ONE (1) LANE BROOKLYN BOUND.
+                    &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
+                    &lt;br/&gt;
+                  HLC: Fast Track Sandy Restoration. Brooklyn bound one lane closed .Expect delays.
                 &lt;br/&gt;&lt;br/&gt;
               
                     &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
@@ -570,7 +570,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>05/12/2017</Date>
-    <Time>10:34AM</Time>
+    <Time>10:37AM</Time>
   </line>
   <line>
     <name>Marine Parkway</name>
