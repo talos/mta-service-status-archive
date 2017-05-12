@@ -799,17 +799,10 @@
 </BT><LIRR>
   <line>
     <name>Babylon</name>
-    <status>DELAYS</status>
-    <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;05/12/2017&amp;nbsp; 3:59PM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  The 3:03PM train from Penn due Babylon at 4:15PM is operating 10 minutes late due to an earlier customer in need of medical assistance.
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>05/12/2017</Date>
-    <Time> 3:59PM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>City Terminal Zone</name>
@@ -876,10 +869,17 @@
   </line>
   <line>
     <name>Ronkonkoma</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>DELAYS</status>
+    <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;05/12/2017&amp;nbsp; 4:24PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  The 3:14PM train from Penn due Ronkonkoma at 4:34PM is operating 10 minutes late due to a late train ahead.
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>05/12/2017</Date>
+    <Time> 4:24PM</Time>
   </line>
   <line>
     <name>West Hempstead</name>
