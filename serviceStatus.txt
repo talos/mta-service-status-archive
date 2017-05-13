@@ -1,8 +1,16 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>DELAYS</status>
+    <status>SERVICE CHANGE</status>
     <text>
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;05/13/2017&amp;nbsp;10:07AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;P&gt;Due to a sick passenger at &lt;STRONG&gt;Pelham Pkwy&lt;/STRONG&gt;, southbound [2] trains are running express from &lt;STRONG&gt;Gun Hill Rd&lt;/STRONG&gt; to &lt;STRONG&gt;E 180 St.&lt;/STRONG&gt;&lt;/P&gt;
+&lt;P&gt;Allow additional travel time.&lt;/P&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              
                     &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
                     &amp;nbsp;Posted:&amp;nbsp;05/13/2017&amp;nbsp; 8:54AM
@@ -17,7 +25,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>05/13/2017</Date>
-    <Time> 8:54AM</Time>
+    <Time>10:07AM</Time>
   </line>
   <line>
     <name>456</name>
