@@ -1,10 +1,18 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>SERVICE CHANGE</status>
+    <text>
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;05/15/2017&amp;nbsp; 6:12PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;P&gt;Due to a sick passenger at &lt;STRONG&gt;Bronx Park East&lt;/STRONG&gt;, northbound [2] trains are running express from &lt;STRONG&gt;E 180 St&lt;/STRONG&gt; to &lt;STRONG&gt;Gun Hill Rd&lt;/STRONG&gt;.&lt;/P&gt;
+&lt;P&gt;Allow additional travel time.&lt;/P&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>05/15/2017</Date>
+    <Time> 6:12PM</Time>
   </line>
   <line>
     <name>456</name>
@@ -84,7 +92,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>05/15/2017</Date>
-    <Time> 6:08PM</Time>
+    <Time> 6:12PM</Time>
   </line>
   <line>
     <name>SIR</name>
@@ -675,13 +683,13 @@
     <text>
                     &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;05/15/2017&amp;nbsp; 4:29PM
+                    &amp;nbsp;Posted:&amp;nbsp;05/15/2017&amp;nbsp; 6:08PM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  RFK: DELAYS: Bronx bound on Bronx span due to volume at north-bound Deegan and Bruckner Expressive way.
+                  RFK: DELAYS: BRONX SPAN - BRONX BOUND DUE TO OFF PROPERTY VOLUME ON THE NORTHBOUND DEEGAN AND BRUCKNER EXPWYS.
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>05/15/2017</Date>
-    <Time> 4:29PM</Time>
+    <Time> 6:08PM</Time>
   </line>
   <line>
     <name>Throgs Neck</name>
