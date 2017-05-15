@@ -1,17 +1,10 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>DELAYS</status>
-    <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;05/15/2017&amp;nbsp; 4:14PM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  Due to an earlier incident at &lt;STRONG&gt;14 St&lt;/STRONG&gt;, [1], [2] and [3] train service has resumed with delays.
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>05/15/2017</Date>
-    <Time> 4:14PM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>456</name>
@@ -327,6 +320,17 @@
     <text>
                   &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                   &lt;span class="DateStyle"&gt;
+                  &amp;nbsp;Posted:&amp;nbsp;05/15/2017&amp;nbsp; 4:30PM
+                  &lt;/span&gt;
+                  &lt;br/&gt;
+                  &lt;br/&gt;
+                &lt;P&gt;&lt;STRONG&gt;Q4, Q5, Q6, Q8, Q9, Q17, Q20A, Q20B, Q24, Q25, Q30, Q31, Q34, Q40, Q41, Q42, Q43, Q44-SBS, Q54, Q56, Q60, Q65 Q83, Q84, Q85, Q110, Q111, Q112, Q113-LTD&lt;/STRONG&gt; and &lt;STRONG&gt;Q114-LTD&lt;/STRONG&gt; bus service is running with delays in both directions due to traffic conditions on Archer Av and Jamaica Av between Sutphin Blvd and 168 St, on Sutphin Blvd between Hillside Av and Archer Av.&lt;/P&gt;
+&lt;P&gt;Allow additional travel time. &lt;BR&gt;&lt;/P&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
+                  &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                  &lt;span class="DateStyle"&gt;
                   &amp;nbsp;Posted:&amp;nbsp;05/15/2017&amp;nbsp; 4:11PM
                   &lt;/span&gt;
                   &lt;br/&gt;
@@ -435,7 +439,7 @@
               &lt;br/&gt;
             </text>
     <Date>05/15/2017</Date>
-    <Time> 4:11PM</Time>
+    <Time> 4:30PM</Time>
   </line>
   <line>
     <name>QM1 - QM44</name>
@@ -761,10 +765,17 @@
   </line>
   <line>
     <name>New Canaan</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>DELAYS</status>
+    <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;05/15/2017&amp;nbsp; 4:30PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  New Canaan Branch Line Service is temporarily delayed due to power issues caused by a downed tree.  We will provide further details as they become available.  Please listen for announcements at your station.
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>05/15/2017</Date>
+    <Time> 4:30PM</Time>
   </line>
   <line>
     <name>Danbury</name>
@@ -782,15 +793,8 @@
   </line>
   <line>
     <name>Pascack Valley</name>
-    <status>DELAYS</status>
+    <status>PLANNED WORK</status>
     <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;05/15/2017&amp;nbsp; 3:18PM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  PVL train #1630 the 2:45pm from Spring Valley is up to 10 min. late due to an operational issue. &lt;br&gt;&lt;br&gt;Sent: 2:59 PM&lt;br&gt;&lt;br&gt;
-                &lt;br/&gt;&lt;br/&gt;
-              
                     &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
                     &amp;nbsp;Posted:&amp;nbsp;05/15/2017&amp;nbsp; 8:06AM
@@ -805,19 +809,12 @@ estimated delays of 15 minutes on weekdays and 30 minutes on weekends.&lt;/font&
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>05/15/2017</Date>
-    <Time> 3:18PM</Time>
+    <Time> 8:06AM</Time>
   </line>
   <line>
     <name>Port Jervis</name>
-    <status>DELAYS</status>
+    <status>PLANNED WORK</status>
     <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;05/15/2017&amp;nbsp; 3:00PM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  MBPJ train #0064, the 2:28pm from Salisbury Mills is up to 15 min. late, due to a late train ahead.&lt;br&gt;&lt;br&gt;Sent: 2:39 PM&lt;br&gt;&lt;br&gt;
-                &lt;br/&gt;&lt;br/&gt;
-              
                     &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
                     &amp;nbsp;Posted:&amp;nbsp;05/15/2017&amp;nbsp;10:08AM
@@ -836,7 +833,7 @@ estimated delays of 15 minutes on weekdays and 30 minutes on weekends.&lt;/font&
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>05/15/2017</Date>
-    <Time> 3:00PM</Time>
+    <Time>10:08AM</Time>
   </line>
 </MetroNorth></service>
 
