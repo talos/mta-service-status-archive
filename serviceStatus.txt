@@ -1,37 +1,31 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>SERVICE CHANGE</status>
+    <status>DELAYS</status>
     <text>
-                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;05/17/2017&amp;nbsp; 9:42AM
+                    &amp;nbsp;Posted:&amp;nbsp;05/17/2017&amp;nbsp; 9:57AM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  &lt;P&gt;Due to signal problems between &lt;STRONG&gt;96 St&lt;/STRONG&gt; and &lt;STRONG&gt;135 St&lt;/STRONG&gt;, [1], [2] and [3] trains are running with delays in both directions.&lt;/P&gt;
-&lt;P&gt;Both directions, [2] trains are running on the [5] line from&lt;STRONG&gt; Nevins St&lt;/STRONG&gt; to &lt;STRONG&gt;149 St-Grand Concourse&lt;/STRONG&gt;.&lt;/P&gt;
-&lt;P&gt;Expect delays on [1], [2], [3], [4] and [5] trains.&lt;/P&gt;
-&lt;P&gt;Allow additional travel time.&lt;/P&gt;
+                  Following an earlier incident at &lt;STRONG&gt;96 St&lt;/STRONG&gt; and &lt;STRONG&gt;135 St&lt;/STRONG&gt;, [1], [2], [3], [4] and [5] train service has resumed with delays.
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>05/17/2017</Date>
-    <Time> 9:42AM</Time>
+    <Time> 9:57AM</Time>
   </line>
   <line>
     <name>456</name>
-    <status>SERVICE CHANGE</status>
+    <status>DELAYS</status>
     <text>
-                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;05/17/2017&amp;nbsp; 9:42AM
+                    &amp;nbsp;Posted:&amp;nbsp;05/17/2017&amp;nbsp; 9:57AM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  &lt;P&gt;Due to signal problems between &lt;STRONG&gt;96 St&lt;/STRONG&gt; and &lt;STRONG&gt;135 St&lt;/STRONG&gt;, [1], [2] and [3] trains are running with delays in both directions.&lt;/P&gt;
-&lt;P&gt;Both directions, [2] trains are running on the [5] line from&lt;STRONG&gt; Nevins St&lt;/STRONG&gt; to &lt;STRONG&gt;149 St-Grand Concourse&lt;/STRONG&gt;.&lt;/P&gt;
-&lt;P&gt;Expect delays on [1], [2], [3], [4] and [5] trains.&lt;/P&gt;
-&lt;P&gt;Allow additional travel time.&lt;/P&gt;
+                  Following an earlier incident at &lt;STRONG&gt;96 St&lt;/STRONG&gt; and &lt;STRONG&gt;135 St&lt;/STRONG&gt;, [1], [2], [3], [4] and [5] train service has resumed with delays.
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>05/17/2017</Date>
-    <Time> 9:42AM</Time>
+    <Time> 9:57AM</Time>
   </line>
   <line>
     <name>7</name>
@@ -559,15 +553,8 @@
   </line>
   <line>
     <name>Robert F. Kennedy</name>
-    <status>DELAYS</status>
+    <status>PLANNED WORK</status>
     <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;05/17/2017&amp;nbsp; 9:53AM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  RFK: DISABLED VEHICLE: QUEENS SPAN - MANHATTAN / BRONX-BOUND, ONE LANE BLOCKED. EXPECT DELAYS.
-                &lt;br/&gt;&lt;br/&gt;
-              
                     &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
                     &lt;br/&gt;
                   RFK: PLANNED WORK: BRUCKNER EXPY RAMP - BRONX SPAN, ONE LANE CLOSED. EXPECT DELAYS.
@@ -579,7 +566,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>05/17/2017</Date>
-    <Time> 9:53AM</Time>
+    <Time> 9:27AM</Time>
   </line>
   <line>
     <name>Throgs Neck</name>
@@ -671,10 +658,17 @@
   </line>
   <line>
     <name>Port Washington</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>DELAYS</status>
+    <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;05/17/2017&amp;nbsp; 9:58AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  The 9:40AM train from Port Washington due Penn at 10:25AM is operating 11 minutes late due to congestion caused by a delayed eastbound train in single-track territory.
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>05/17/2017</Date>
+    <Time> 9:58AM</Time>
   </line>
   <line>
     <name>Ronkonkoma</name>
