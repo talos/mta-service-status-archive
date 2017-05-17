@@ -1,15 +1,33 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>SERVICE CHANGE</status>
+    <text>
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;05/17/2017&amp;nbsp; 4:14PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;P&gt;Due to NYPD activity at &lt;STRONG&gt;116 St&lt;/STRONG&gt;, southbound [2] trains are running on [5] line from&lt;STRONG&gt; 149 St-Grand Concourse &lt;/STRONG&gt;to&lt;STRONG&gt; Nevins St. &lt;/STRONG&gt;&lt;/P&gt;
+&lt;P&gt;Expect delays on southbound [2] [3] and [5] train service.&lt;/P&gt;
+&lt;P&gt;Allow additional travel time.&lt;/P&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>05/17/2017</Date>
+    <Time> 4:14PM</Time>
   </line>
   <line>
     <name>456</name>
-    <status>DELAYS</status>
+    <status>SERVICE CHANGE</status>
     <text>
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;05/17/2017&amp;nbsp; 4:14PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;P&gt;Due to NYPD activity at &lt;STRONG&gt;116 St&lt;/STRONG&gt;, southbound [2] trains are running on [5] line from&lt;STRONG&gt; 149 St-Grand Concourse &lt;/STRONG&gt;to&lt;STRONG&gt; Nevins St. &lt;/STRONG&gt;&lt;/P&gt;
+&lt;P&gt;Expect delays on southbound [2] [3] and [5] train service.&lt;/P&gt;
+&lt;P&gt;Allow additional travel time.&lt;/P&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              
                     &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
                     &amp;nbsp;Posted:&amp;nbsp;05/17/2017&amp;nbsp; 4:03PM
@@ -25,7 +43,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>05/17/2017</Date>
-    <Time> 4:03PM</Time>
+    <Time> 4:14PM</Time>
   </line>
   <line>
     <name>7</name>
@@ -112,7 +130,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>05/17/2017</Date>
-    <Time> 4:08PM</Time>
+    <Time> 4:12PM</Time>
   </line>
   <line>
     <name>SIR</name>
@@ -318,7 +336,7 @@
               &lt;br/&gt;
             </text>
     <Date>05/17/2017</Date>
-    <Time> 4:08PM</Time>
+    <Time> 4:12PM</Time>
   </line>
   <line>
     <name>M1 - M116</name>
