@@ -132,8 +132,18 @@
 </subway><bus>
   <line>
     <name>B1 - B84</name>
-    <status>SERVICE CHANGE</status>
+    <status>DELAYS</status>
     <text>
+                  &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                  &lt;span class="DateStyle"&gt;
+                  &amp;nbsp;Posted:&amp;nbsp;05/18/2017&amp;nbsp;10:23AM
+                  &lt;/span&gt;
+                  &lt;br/&gt;
+                  &lt;br/&gt;
+                Following an earlier incident on Albany Av, &lt;STRONG&gt;B12&lt;/STRONG&gt; bus service has resumed with delays.
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
                   &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
                   &lt;span class="DateStyle"&gt;
                   &amp;nbsp;Posted:&amp;nbsp;05/18/2017&amp;nbsp; 9:24AM
@@ -143,20 +153,6 @@
                 &lt;P&gt;&lt;STRONG&gt;B44&lt;/STRONG&gt; buses are detoured, due to construction on New York Av and Clarkson Av. &lt;/P&gt;
 &lt;P&gt;Detour is as follows:&lt;/P&gt;
 &lt;P&gt;&lt;STRONG&gt;Northbound to Lee Av&lt;/STRONG&gt;&lt;/STRONG&gt;: Via New York Av, left on Linden Blvd, right on Rogers Av, right on Empire Blvd, left on New York Av and regular route.&lt;/P&gt;
-&lt;P&gt;Allow additional travel time.&lt;/P&gt;
-              &lt;br/&gt;
-              &lt;br/&gt;
-            
-                  &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
-                  &lt;span class="DateStyle"&gt;
-                  &amp;nbsp;Posted:&amp;nbsp;05/18/2017&amp;nbsp; 9:20AM
-                  &lt;/span&gt;
-                  &lt;br/&gt;
-                  &lt;br/&gt;
-                &lt;P&gt;&lt;STRONG&gt;B12&lt;/STRONG&gt; buses are detoured, due to DOT paving on Albany Av between Clarkson Av and Winthrop St. &lt;/P&gt;
-&lt;P&gt;Detour is as follows:&lt;/P&gt;
-&lt;P&gt;&lt;STRONG&gt;B12 Eastbound&lt;/STRONG&gt;: Via Clarkson Av, left on Utica Av, left on East New York Av, right on Troy Av and regular route.&lt;/P&gt;
-&lt;P&gt;&lt;STRONG&gt;B12 Westbound&lt;/STRONG&gt;: Via Schenectady Av, left on East New York Av, right on Utica Av, right on Clarkson Av and regular route.&lt;/P&gt;
 &lt;P&gt;Allow additional travel time.&lt;/P&gt;
               &lt;br/&gt;
               &lt;br/&gt;
@@ -186,7 +182,7 @@
               &lt;br/&gt;
             </text>
     <Date>05/18/2017</Date>
-    <Time> 9:24AM</Time>
+    <Time>10:23AM</Time>
   </line>
   <line>
     <name>B100 - B103</name>
@@ -529,6 +525,11 @@
     <text>
                     &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
                     &lt;br/&gt;
+                  VNB- PLANNED WORK; BROOKLYN BOUND LOWER LEVEL ONE LANE BLOCKED. EXPECT DELAYS.
+                &lt;br/&gt;&lt;br/&gt;
+              
+                    &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
+                    &lt;br/&gt;
                   VNB: PLANNED WORK: STATEN ISLAND-BOUND / BELT PKWY RAMP, ONE LANE BLOCKED EXPECT DELAYS.
                 &lt;br/&gt;&lt;br/&gt;
               
@@ -538,7 +539,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>05/18/2017</Date>
-    <Time>10:14AM</Time>
+    <Time>10:18AM</Time>
   </line>
 </BT><LIRR>
   <line>
@@ -592,17 +593,10 @@
   </line>
   <line>
     <name>Port Jefferson</name>
-    <status>DELAYS</status>
-    <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;05/18/2017&amp;nbsp;10:10AM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                   The 9:10AM train from Port Jefferson due Huntington at 9:58AM is operating 21 minutes late due to signal trouble east of Huntington.
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>05/18/2017</Date>
-    <Time>10:10AM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>Port Washington</name>
