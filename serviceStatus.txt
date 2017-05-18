@@ -1,24 +1,44 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>PLANNED WORK</status>
+    <text>
+                    &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
+                    &lt;br/&gt;
+                  &lt;a class="plannedWorkDetailLink" onclick=ShowHide(154040);&gt;&lt;b&gt;[2] Wakefield-bound trains skip 219 St, 225 St, 233 St and Nereid Av&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 154040 class="plannedWorkDetail" &gt;&lt;/b&gt;Days, 10:15 AM to 3 PM, Tue to Thu, May 16 - 18&lt;br&gt;&lt;br&gt;&lt;/font&gt;For service&lt;i&gt; to &lt;/i&gt;these stations, take the [2] to 241 St &lt;/font&gt;and transfer to a Flatbush Av-bound [2].&lt;br&gt;&lt;br&gt;For service &lt;i&gt;from&lt;/i&gt; these stations, take the &lt;/font&gt;&lt;a href=http://web.mta.info/nyct/bus/schedule/bronx/bx039cur.pdf target=_blank&gt;&lt;font color=#0000FF&gt;&lt;b&gt;&lt;u&gt;Bx39&lt;/u&gt;&lt;/b&gt;&lt;/font&gt;&lt;/a&gt; bus instead.&lt;br&gt;&lt;br&gt;&lt;table class=plannedworkTableStyle  border=1 cellspacing=1 cellpadding=5 rules=none frame=box&gt;&lt;td&gt;  [ad]  &lt;td&gt;&lt;font size=1&gt;This service change affects one or more ADA accessible stations. Please call 511 for help with planning&lt;br&gt;your trip. If you are deaf or hard of hearing, use your preferred relay service provider or the free 711 relay.  &lt;/font&gt;&lt;/table&gt;&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>05/18/2017</Date>
+    <Time>10:22AM</Time>
   </line>
   <line>
     <name>456</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>PLANNED WORK</status>
+    <text>
+                    &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
+                    &lt;br/&gt;
+                  &lt;a class="plannedWorkDetailLink" onclick=ShowHide(153504);&gt;&lt;b&gt;[6D] Brooklyn Bridge-bound trains run local from Parkchester to 3 Av-138 St&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 153504 class="plannedWorkDetail" &gt;&lt;/b&gt;Days, 10:15 AM to 1 PM, Tue to Thu, May 16 - 18&lt;br&gt;&lt;br&gt;&amp;bull; Please allow additional travel time.&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              
+                    &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
+                    &lt;br/&gt;
+                  &lt;a class="plannedWorkDetailLink" onclick=ShowHide(154043);&gt;&lt;b&gt;[6] Pelham Bay Park-bound trains run express from Hunts Point Av to Parkchester&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 154043 class="plannedWorkDetail" &gt;&lt;/b&gt;Days, 10:15 AM to 3 PM, Tue to Thu, May 16 - 18&lt;br&gt;&lt;br&gt;&lt;/font&gt;For service &lt;i&gt;to &lt;/i&gt;Whitlock, Elder Avs, Morrison Av-Soundview and St Lawrence Av,&lt;br&gt;take the [6] to Parkchester and transfer to a Brooklyn Bridge-bound [6].&lt;br&gt;&lt;br&gt;For service &lt;i&gt;from &lt;/i&gt;these stations, take the [6] to Hunts Point Av and transfer&lt;br&gt;to a Pelham Bay Park-bound [6].&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>05/18/2017</Date>
+    <Time>10:22AM</Time>
   </line>
   <line>
     <name>7</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>PLANNED WORK</status>
+    <text>
+                    &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
+                    &lt;br/&gt;
+                  &lt;a class="plannedWorkDetailLink" onclick=ShowHide(154045);&gt;&lt;b&gt;[7] Flushing-bound trains skip 33, 40, 46, 52 and 69 Sts&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 154045 class="plannedWorkDetail" &gt;&lt;/b&gt;&lt;/font&gt;Days, 10:15 AM to 3 PM, Mon to Fri, until &lt;/font&gt;Jun 2 (&lt;i&gt;except May 29 &amp; Jun 1&lt;/i&gt;)&lt;br&gt;&lt;br&gt;For service &lt;i&gt;to&lt;/i&gt; these stations, take the [7] to 61 St-Woodside or 74 St and &lt;br&gt;transfer to a Hudson Yards-bound [7].&lt;br&gt;&lt;br&gt;For service &lt;i&gt;from&lt;/i&gt; these stations, take the [7] to 61 St-Woodside or Queensboro Plaza &lt;br&gt;and transfer to a Flushing-bound [7].&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>05/18/2017</Date>
+    <Time>10:22AM</Time>
   </line>
   <line>
     <name>ACE</name>
@@ -75,10 +95,20 @@
   </line>
   <line>
     <name>NQR</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>PLANNED WORK</status>
+    <text>
+                    &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
+                    &lt;br/&gt;
+                  &lt;a class="plannedWorkDetailLink" onclick=ShowHide(151329);&gt;&lt;b&gt;[W] No trains between 57 St-7 Av and Ditmars Blvd&lt;/font&gt;&lt;br clear=left&gt;[W] trains run every 20 minutes in Manhattan&lt;br clear=left&gt;[N] trains provide alternate service&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 151329 class="plannedWorkDetail" &gt;&lt;/b&gt;Days, 10:15 AM to 3 PM, &lt;/font&gt;Tue to Fri, until Jun 2 (&lt;i&gt;except May 23&lt;/i&gt;)&lt;br&gt;&lt;br&gt;[W] service operates between &lt;b&gt;Whitehall St&lt;/b&gt; and &lt;b&gt;57 St-7 Av, &lt;/b&gt;and via the [Q] &lt;i&gt;to/from &lt;/i&gt;96 St.&lt;br&gt;&lt;br&gt;&amp;bull; Transfer between [N]* and [W] trains at Times Sq-42 St (across the platform).&lt;br&gt;&lt;br&gt;&lt;/font&gt;&lt;i&gt;*Please review [N] advisories for additional information that may affect your trip.&lt;br&gt;&lt;br&gt;&lt;b&gt;Alternate travel note:&lt;br&gt;&lt;/b&gt;&lt;/i&gt;[R] service is also available at 5 Av/59 St and Lexington Av/59 St. &lt;br&gt;Transfer between [R] and [W] trains at 57 St-7 Av.&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              
+                    &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
+                    &lt;br/&gt;
+                  &lt;a class="plannedWorkDetailLink" onclick=ShowHide(154273);&gt;&lt;b&gt;[N] Coney Island-bound trains skip 30 Av, Broadway, 36 Av and 39 Av&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 154273 class="plannedWorkDetail" &gt;&lt;/b&gt;Days, 10:15 AM to 3 PM, Tue to Fri, May 16 - 19  &amp;bull;  &lt;/font&gt;Wed to Fri, May 24 - 26&lt;br&gt;&lt;br&gt;For service &lt;i&gt;to&lt;/i&gt; these stations, take the [N] to Queensboro Plaza and transfer to an Astoria-bound [N].&lt;br&gt;&lt;br&gt;For service &lt;i&gt;from&lt;/i&gt; these stations, take the [N] to Astoria Blvd and transfer to a Coney Island-bound [N].&lt;br&gt;&lt;br&gt;&lt;b&gt;Note:&lt;/b&gt; No [W] service at these stations during this time.&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>05/18/2017</Date>
+    <Time>10:22AM</Time>
   </line>
   <line>
     <name>S</name>
@@ -97,7 +127,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>05/18/2017</Date>
-    <Time>10:12AM</Time>
+    <Time>10:22AM</Time>
   </line>
 </subway><bus>
   <line>
@@ -219,7 +249,7 @@
               &lt;br/&gt;
             </text>
     <Date>05/18/2017</Date>
-    <Time>10:12AM</Time>
+    <Time>10:22AM</Time>
   </line>
   <line>
     <name>M1 - M116</name>
@@ -304,7 +334,7 @@
               &lt;br/&gt;
             </text>
     <Date>05/18/2017</Date>
-    <Time>10:12AM</Time>
+    <Time>10:22AM</Time>
   </line>
   <line>
     <name>QM1 - QM44</name>
@@ -317,7 +347,7 @@
               &lt;br/&gt;
             </text>
     <Date>05/18/2017</Date>
-    <Time>10:12AM</Time>
+    <Time>10:22AM</Time>
   </line>
   <line>
     <name>S40 - S98</name>
@@ -342,7 +372,7 @@
               &lt;br/&gt;
             </text>
     <Date>05/18/2017</Date>
-    <Time>10:12AM</Time>
+    <Time>10:22AM</Time>
   </line>
   <line>
     <name>x1 - x68</name>
@@ -361,7 +391,7 @@
               &lt;br/&gt;
             </text>
     <Date>05/18/2017</Date>
-    <Time>10:12AM</Time>
+    <Time>10:22AM</Time>
   </line>
 </bus><BT>
   <line>
