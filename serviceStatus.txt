@@ -956,10 +956,17 @@
   </line>
   <line>
     <name>Far Rockaway</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>DELAYS</status>
+    <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;05/18/2017&amp;nbsp; 7:01PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;body bgcolor='White' style='font-family:sans-serif;font-size:10pt;'&gt;&lt;span id="docs-internal-guid-fa5395bc-1dca-35f0-fda3-ad341f2febfb" style="color: rgb(0, 0, 0); font-family: Arial; font-size: 11pt; font-style: normal; font-variant: normal; font-weight: 400; text-decoration: none; vertical-align: baseline; background-color: transparent;"&gt;The 6:02PM train from Penn due Far Rockaway at 6:58PM is operating 10 minutes late due to congestion at Jamaica due to an earlier switch problem. &lt;/span&gt;     &lt;/body&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>05/18/2017</Date>
+    <Time> 7:01PM</Time>
   </line>
   <line>
     <name>Hempstead</name>
@@ -1123,8 +1130,22 @@ from a late train.&lt;/span&gt;&lt;/p&gt;&lt;p style="line-height: 1.38; margin-
   </line>
   <line>
     <name>Waterbury</name>
-    <status>SERVICE CHANGE</status>
+    <status>DELAYS</status>
     <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;05/18/2017&amp;nbsp; 7:01PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;P style="MARGIN: 0in 0in 0pt" class=MsoPlainText&gt;&lt;FONT size=3&gt;&lt;FONT face=Calibri&gt;Waterbury Branch Service is currently experiencing delays of 45 to 50 minutes. Please listen for announcements at your station.&lt;/FONT&gt;&lt;/FONT&gt;&lt;/P&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;05/18/2017&amp;nbsp; 7:01PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  Waterbury Branch Northbound  Service is currently experiencing delays of 45 to 50 minutes. Please listen for announcements at your station.
+                &lt;br/&gt;&lt;br/&gt;
+              
                     &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
                     &amp;nbsp;Posted:&amp;nbsp;05/18/2017&amp;nbsp; 6:35PM
@@ -1141,7 +1162,7 @@ from a late train.&lt;/span&gt;&lt;/p&gt;&lt;p style="line-height: 1.38; margin-
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>05/18/2017</Date>
-    <Time> 6:35PM</Time>
+    <Time> 7:01PM</Time>
   </line>
   <line>
     <name>Pascack Valley</name>
