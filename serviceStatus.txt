@@ -93,10 +93,15 @@
   </line>
   <line>
     <name>S</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>PLANNED WORK</status>
+    <text>
+                    &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
+                    &lt;br/&gt;
+                  &lt;a class="plannedWorkDetailLink" onclick=ShowHide(149318);&gt;&lt;b&gt;[S] 42 Street Shuttle: Expect crowding on platforms and trains during Rush Hours&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 149318 class="plannedWorkDetail" &gt;&lt;/b&gt;Mon to Fri, until Jul 2017&lt;br&gt;&lt;br&gt;Track 4 is out of service due to construction. &lt;br&gt;&lt;br&gt;Service between &lt;b&gt;Times Sq-42 St&lt;/b&gt; and &lt;b&gt;Grand Central-42 St &lt;/b&gt;operates on tracks 1 and 3.&lt;br&gt;&lt;br&gt;&lt;b&gt;Travel Alternatives:&lt;br&gt;&lt;br&gt;&lt;/b&gt;&amp;bull; Take the [7] between Grand Central-42 St and Times Sq-42 St.&lt;br&gt;&lt;br&gt;&amp;bull; Customers at Times Sq-42 St, who usually take the shuttle to the [4] [5] [6], can take the &lt;br&gt;   [N] [Q] [R] [W] to 14 St-Union Sq or [N] [R] [W] to Lexington Av-59 St instead.&lt;br&gt;                                                                                     &lt;a href=http://apps.mta.info/traintime/ target=_blank&gt;&lt;img height=26px src=http://apps.mta.info/traintime/desktop2Images/logoSm.png&gt;&lt;/a&gt;&lt;br&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>05/18/2017</Date>
+    <Time> 4:02PM</Time>
   </line>
   <line>
     <name>SIR</name>
@@ -108,18 +113,15 @@
 </subway><bus>
   <line>
     <name>B1 - B84</name>
-    <status>SERVICE CHANGE</status>
+    <status>DELAYS</status>
     <text>
-                  &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                  &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                   &lt;span class="DateStyle"&gt;
-                  &amp;nbsp;Posted:&amp;nbsp;05/18/2017&amp;nbsp; 2:15PM
+                  &amp;nbsp;Posted:&amp;nbsp;05/18/2017&amp;nbsp; 4:03PM
                   &lt;/span&gt;
                   &lt;br/&gt;
                   &lt;br/&gt;
-                &lt;P&gt;&lt;STRONG&gt;B44&lt;/STRONG&gt; buses are detoured, due to construction on New York Av and Clarkson Av. &lt;/P&gt;
-&lt;P&gt;Detour is as follows:&lt;/P&gt;
-&lt;P&gt;&lt;STRONG&gt;Northbound to Lee Av&lt;/STRONG&gt;&lt;/STRONG&gt;: Via New York Av, left on Linden Blvd, right on Rogers Av, right on Empire Blvd, left on New York Av and regular route.&lt;/P&gt;
-&lt;P&gt;Allow additional travel time.&lt;/P&gt;
+                Following an earlier incident on New York Av, &lt;STRONG&gt;B44&lt;/STRONG&gt; bus service has resumed with delays.
               &lt;br/&gt;
               &lt;br/&gt;
             
@@ -157,7 +159,7 @@
               &lt;br/&gt;
             </text>
     <Date>05/18/2017</Date>
-    <Time> 2:15PM</Time>
+    <Time> 4:03PM</Time>
   </line>
   <line>
     <name>B100 - B103</name>
@@ -220,12 +222,6 @@
                   &lt;br/&gt;
                 &lt;P&gt;&lt;STRONG&gt;Bx28, Bx30&lt;/STRONG&gt; and &lt;STRONG&gt;Bx38&lt;/STRONG&gt; buses are running with delays eastbound, due to road work on Gun Hill Rd between Holland Av and White Plains Rd. &lt;/P&gt;
 &lt;P&gt;Allow additional travel time.&lt;/P&gt;
-              &lt;br/&gt;
-              &lt;br/&gt;
-            
-                  &lt;span class="TitlePlannedWork" &gt;Planned Detour&lt;/span&gt;
-                  &lt;br/&gt;
-                &lt;a class="plannedWorkDetailLink" onclick=ShowHide(141019);&gt;&lt;b&gt;Bx41/Bx41&lt;/b&gt; SBS - &lt;b&gt;Southbound buses rerouted from Melrose Av at 149 St&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 141019 class="plannedWorkDetail" &gt;&lt;/b&gt;7 AM to 4 PM, Mon to Fri, until further notice&lt;br&gt;&lt;br&gt;Due to road work, buses run via &lt;b&gt;3 Av &lt;/b&gt;making corresponding stops.&lt;br&gt;&lt;br&gt;&lt;b&gt;&lt;i&gt;&lt;a style="cursor:pointer; text-decoration:underline;" onclick=ShowHide(1410190);&gt;Show Reroute Details&lt;/a&gt;&lt;/i&gt;&lt;/b&gt;&lt;br&gt;&lt;div id="1410190"; style="display:none;"&gt;&lt;b&gt;Bx41&lt;br&gt;&lt;/b&gt;Via Melrose Av&lt;br&gt;Left on 151 St&lt;br&gt;Right on 3 Av&lt;br&gt;Left on E 146 St and take stand&lt;br&gt;&lt;br&gt;&lt;b&gt;Bx41 &lt;/b&gt;SBS&lt;br&gt;Via Melrose Av&lt;br&gt;Left on 161 St&lt;br&gt;Right on 3 Av&lt;br&gt;Left on E 146 St and take stand&lt;/div&gt;&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
               &lt;br/&gt;
               &lt;br/&gt;
             
@@ -552,7 +548,7 @@
               &lt;br/&gt;
             </text>
     <Date>05/18/2017</Date>
-    <Time> 3:52PM</Time>
+    <Time> 4:02PM</Time>
   </line>
   <line>
     <name>S40 - S98</name>
@@ -577,7 +573,7 @@
               &lt;br/&gt;
             </text>
     <Date>05/18/2017</Date>
-    <Time> 3:52PM</Time>
+    <Time> 4:02PM</Time>
   </line>
   <line>
     <name>x1 - x68</name>
@@ -653,7 +649,7 @@
     <text>
                     &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
                     &lt;br/&gt;
-                  BWB: PLANNED WORK; QUEENS BOUND RIGHT LANE BLOCKED. MODERATE TRAFFIC, EXPECT DELAYS.
+                  &lt;body bgcolor='White' style='font-family:sans-serif;font-size:10pt;'&gt;PLANNED WORK CLEARED.&lt;/body&gt;
                 &lt;br/&gt;&lt;br/&gt;
               
                     &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
@@ -662,7 +658,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>05/18/2017</Date>
-    <Time> 9:27AM</Time>
+    <Time> 4:02PM</Time>
   </line>
   <line>
     <name>Cross Bay</name>
