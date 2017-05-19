@@ -901,17 +901,10 @@
   </line>
   <line>
     <name>Verrazano-Narrows</name>
-    <status>SERVICE CHANGE</status>
-    <text>
-                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;05/19/2017&amp;nbsp; 5:27PM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  VNB: OFF PROPERTY DELAYS ON THE WESTBOUND STATEN ISLAND EXPRESSWAY DUE TO VOLUME AFFECTING THE VNB STATEN ISLAND-BOUND; EXPECT DELAYS.
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>05/19/2017</Date>
-    <Time> 5:27PM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
 </BT><LIRR>
   <line>
@@ -979,10 +972,19 @@
   </line>
   <line>
     <name>Port Washington</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>DELAYS</status>
+    <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;05/19/2017&amp;nbsp; 6:47PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  The 6:11PM train from Penn due Port Washington at 6:48PM is operating 10
+ minutes late due to a high volume of customers traveling.
+       
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>05/19/2017</Date>
+    <Time> 6:47PM</Time>
   </line>
   <line>
     <name>Ronkonkoma</name>
