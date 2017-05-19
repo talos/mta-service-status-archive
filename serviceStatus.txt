@@ -50,10 +50,17 @@
   </line>
   <line>
     <name>7</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>DELAYS</status>
+    <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;05/19/2017&amp;nbsp; 4:43PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  Due to an earlier incident at &lt;STRONG&gt;Junction Blvd,&lt;/STRONG&gt; [7] train service has resumed with delays.
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>05/19/2017</Date>
+    <Time> 4:43PM</Time>
   </line>
   <line>
     <name>ACE</name>
@@ -261,7 +268,7 @@
               &lt;br/&gt;
             </text>
     <Date>05/19/2017</Date>
-    <Time> 4:32PM</Time>
+    <Time> 4:42PM</Time>
   </line>
   <line>
     <name>BXM1 - BXM18</name>
@@ -280,12 +287,23 @@
               &lt;br/&gt;
             </text>
     <Date>05/19/2017</Date>
-    <Time> 4:32PM</Time>
+    <Time> 4:42PM</Time>
   </line>
   <line>
     <name>M1 - M116</name>
-    <status>SERVICE CHANGE</status>
+    <status>DELAYS</status>
     <text>
+                  &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                  &lt;span class="DateStyle"&gt;
+                  &amp;nbsp;Posted:&amp;nbsp;05/19/2017&amp;nbsp; 4:42PM
+                  &lt;/span&gt;
+                  &lt;br/&gt;
+                  &lt;br/&gt;
+                &lt;P&gt;&lt;STRONG&gt;M12&lt;/STRONG&gt; northbound buses are running with delays, due to traffic conditions on 12 Av between 14 Stand 41 St. &lt;/P&gt;
+&lt;P&gt;Allow additional travel time.&lt;/P&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
                   &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
                   &lt;span class="DateStyle"&gt;
                   &amp;nbsp;Posted:&amp;nbsp;05/19/2017&amp;nbsp; 4:38PM
@@ -324,17 +342,6 @@
               &lt;br/&gt;
               &lt;br/&gt;
             
-                  &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                  &lt;span class="DateStyle"&gt;
-                  &amp;nbsp;Posted:&amp;nbsp;05/19/2017&amp;nbsp; 2:06PM
-                  &lt;/span&gt;
-                  &lt;br/&gt;
-                  &lt;br/&gt;
-                &lt;P&gt;&lt;STRONG&gt;M12&lt;/STRONG&gt; northbound buses are running with delays, due to traffic conditions on 12 Av between 14 Stand 41 St. &lt;/P&gt;
-&lt;P&gt;Allow additional travel time.&lt;/P&gt;
-              &lt;br/&gt;
-              &lt;br/&gt;
-            
                   &lt;span class="TitlePlannedWork" &gt;Planned Detour&lt;/span&gt;
                   &lt;br/&gt;
                 &lt;a class="plannedWorkDetailLink" onclick=ShowHide(154021);&gt;&lt;b&gt;M21 and M55&lt;/b&gt; - &lt;b&gt;East/Northbound buses the bypass stop on 6 Av at Spring St &lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 154021 class="plannedWorkDetail" &gt;&lt;/b&gt;Until further notice&lt;br&gt;&lt;br&gt;Due to construction, please follow directional signage to the nearby stop&lt;b&gt; on 6 Av &lt;/b&gt;at Houston St.&lt;br&gt;&lt;b&gt;                              [TP]&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
@@ -348,12 +355,28 @@
               &lt;br/&gt;
             </text>
     <Date>05/19/2017</Date>
-    <Time> 4:38PM</Time>
+    <Time> 4:42PM</Time>
   </line>
   <line>
     <name>Q1 - Q113</name>
-    <status>DELAYS</status>
+    <status>SERVICE CHANGE</status>
     <text>
+                  &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                  &lt;span class="DateStyle"&gt;
+                  &amp;nbsp;Posted:&amp;nbsp;05/19/2017&amp;nbsp; 4:43PM
+                  &lt;/span&gt;
+                  &lt;br/&gt;
+                  &lt;br/&gt;
+                &lt;P&gt;&lt;STRONG&gt;Q33&lt;/STRONG&gt; and &lt;STRONG&gt;Q72 &lt;/STRONG&gt;buses are detoured, due to traffic conditions on Ditmars Blvd at 96 St.&lt;/P&gt;
+&lt;P&gt;Detour is as follows;&lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;Q33 Northbound&lt;/STRONG&gt;: Via 23 Av, continue to the 102 St turnaround, return to 23 Av and regular route.&lt;/P&gt;
+&lt;P&gt;The missed bs stop at 94 St at 23 Av will be made on 23 Av at 94 St. (&lt;STRONG&gt;Q48&lt;/STRONG&gt; bus stop)&lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;Q72 Southbound&lt;/STRONG&gt;: Via 102 St Bridge, right on 23 Av, left on 94 St and regular route.&lt;/P&gt;
+&lt;P&gt;No bus stops or airport stops will be missed along the detoured route.&lt;/P&gt;
+&lt;P&gt;Allow additional travel time.&lt;/P&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
                   &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                   &lt;span class="DateStyle"&gt;
                   &amp;nbsp;Posted:&amp;nbsp;05/19/2017&amp;nbsp; 4:39PM
@@ -484,22 +507,6 @@
               &lt;br/&gt;
               &lt;br/&gt;
             
-                  &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
-                  &lt;span class="DateStyle"&gt;
-                  &amp;nbsp;Posted:&amp;nbsp;05/19/2017&amp;nbsp; 3:18PM
-                  &lt;/span&gt;
-                  &lt;br/&gt;
-                  &lt;br/&gt;
-                &lt;P&gt;&lt;STRONG&gt;Q33&lt;/STRONG&gt; and &lt;STRONG&gt;Q72 &lt;/STRONG&gt;buses are detoured, due to traffic conditions on Ditmars Blvd at 96 St.&lt;/P&gt;
-&lt;P&gt;Detour is as follows;&lt;/P&gt;
-&lt;P&gt;&lt;STRONG&gt;Q33 Northbound&lt;/STRONG&gt;: Via 23 Av, continue to the 102 St turnaround, return to 23 Av and regular route.&lt;/P&gt;
-&lt;P&gt;The missed bs stop at 94 St at 23 Av will be made on 23 Av at 94 St. (&lt;STRONG&gt;Q48&lt;/STRONG&gt; bus stop)&lt;/P&gt;
-&lt;P&gt;&lt;STRONG&gt;Q72 Southbound&lt;/STRONG&gt;: Via 102 St Bridge, right on 23 Av, left on 94 St and regular route.&lt;/P&gt;
-&lt;P&gt;No bus stops or airport stops will be missed along the detoured route.&lt;/P&gt;
-&lt;P&gt;Allow additional travel time.&lt;/P&gt;
-              &lt;br/&gt;
-              &lt;br/&gt;
-            
                   &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                   &lt;span class="DateStyle"&gt;
                   &amp;nbsp;Posted:&amp;nbsp;05/19/2017&amp;nbsp; 3:18PM
@@ -572,7 +579,7 @@
               &lt;br/&gt;
             </text>
     <Date>05/19/2017</Date>
-    <Time> 4:39PM</Time>
+    <Time> 4:43PM</Time>
   </line>
   <line>
     <name>QM1 - QM44</name>
