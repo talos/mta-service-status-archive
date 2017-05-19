@@ -65,10 +65,17 @@
   </line>
   <line>
     <name>BDFM</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>DELAYS</status>
+    <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;05/19/2017&amp;nbsp; 6:58PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  Due to an earlier incident at &lt;STRONG&gt;Prospect park&lt;/STRONG&gt;, [B] and [Q] train service has resumed with delays.
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>05/19/2017</Date>
+    <Time> 6:58PM</Time>
   </line>
   <line>
     <name>G</name>
@@ -104,13 +111,20 @@
     <text>
                     &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;05/19/2017&amp;nbsp; 6:58PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  Due to an earlier incident at &lt;STRONG&gt;Prospect park&lt;/STRONG&gt;, [B] and [Q] train service has resumed with delays.
+                &lt;br/&gt;&lt;br/&gt;
+              
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
                     &amp;nbsp;Posted:&amp;nbsp;05/19/2017&amp;nbsp; 6:54PM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
                   Following an earlier incident at &lt;STRONG&gt;Coney Island-Stillwell Av&lt;/STRONG&gt;, [N] train service has resumed with delays.
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>05/19/2017</Date>
-    <Time> 6:54PM</Time>
+    <Time> 6:58PM</Time>
   </line>
   <line>
     <name>S</name>
@@ -843,8 +857,16 @@
   </line>
   <line>
     <name>Queens Midtown</name>
-    <status>DELAYS</status>
+    <status>SERVICE CHANGE</status>
     <text>
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;05/19/2017&amp;nbsp; 6:50PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;FONT size=3 face=Calibri&gt;
+&lt;P class=MsoPlainText style="MARGIN: 0in 0in 0pt"&gt;Queens-Midtown Tunnel weekend Sandy repair work from Friday night 10:00 PM through Monday morning until 6:00 AM. During these times One tube will be closed and the remaining tube will operate in two-way traffic operations (one lane in each direction). Motorists should allow extra time and may wish to use an alternate route if possible.&lt;/P&gt;&lt;/FONT&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              
                     &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
                     &amp;nbsp;Posted:&amp;nbsp;05/19/2017&amp;nbsp; 3:59PM
@@ -861,7 +883,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>05/19/2017</Date>
-    <Time> 3:59PM</Time>
+    <Time> 6:50PM</Time>
   </line>
   <line>
     <name>Robert F. Kennedy</name>
@@ -929,10 +951,17 @@
   </line>
   <line>
     <name>Hempstead</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>DELAYS</status>
+    <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;05/19/2017&amp;nbsp; 6:57PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  The 6:20PM train from Hempstead due Atlantic Terminal at 7:10PM is operating 12 minutes late due to a late eastbound train in single-track territory.
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>05/19/2017</Date>
+    <Time> 6:57PM</Time>
   </line>
   <line>
     <name>Long Beach</name>
@@ -964,19 +993,10 @@
   </line>
   <line>
     <name>Port Washington</name>
-    <status>DELAYS</status>
-    <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;05/19/2017&amp;nbsp; 6:49PM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  The 6:11PM train from Penn due Port Washington at 6:48PM is operating 11
- minutes late due to a high volume of customers traveling.
-       
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>05/19/2017</Date>
-    <Time> 6:49PM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>Ronkonkoma</name>
