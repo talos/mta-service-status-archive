@@ -1,10 +1,18 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>DELAYS</status>
+    <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;05/19/2017&amp;nbsp; 7:21PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;P&gt;Due to signal problems at &lt;STRONG&gt;72 St&lt;/STRONG&gt;, southbound [2] and [3] trains are running with delays. &lt;/P&gt;
+&lt;P&gt;Allow additional travel time.&lt;/P&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>05/19/2017</Date>
+    <Time> 7:21PM</Time>
   </line>
   <line>
     <name>456</name>
@@ -290,7 +298,7 @@
               &lt;br/&gt;
             </text>
     <Date>05/19/2017</Date>
-    <Time> 7:12PM</Time>
+    <Time> 7:22PM</Time>
   </line>
   <line>
     <name>BXM1 - BXM18</name>
@@ -309,7 +317,7 @@
               &lt;br/&gt;
             </text>
     <Date>05/19/2017</Date>
-    <Time> 7:12PM</Time>
+    <Time> 7:22PM</Time>
   </line>
   <line>
     <name>M1 - M116</name>
@@ -940,17 +948,10 @@
   </line>
   <line>
     <name>Hempstead</name>
-    <status>DELAYS</status>
-    <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;05/19/2017&amp;nbsp; 6:57PM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  The 6:20PM train from Hempstead due Atlantic Terminal at 7:10PM is operating 12 minutes late due to a late eastbound train in single-track territory.
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>05/19/2017</Date>
-    <Time> 6:57PM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>Long Beach</name>
@@ -961,18 +962,10 @@
   </line>
   <line>
     <name>Montauk</name>
-    <status>DELAYS</status>
-    <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;05/19/2017&amp;nbsp; 7:07PM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  The 5:09PM train from Penn due Speonk at 7:13PM is operating 10 minutes late at this time. 
-       
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>05/19/2017</Date>
-    <Time> 7:07PM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>Oyster Bay</name>
