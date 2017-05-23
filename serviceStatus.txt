@@ -32,13 +32,13 @@
   </line>
   <line>
     <name>7</name>
-    <status>DELAYS</status>
+    <status>SERVICE CHANGE</status>
     <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;05/23/2017&amp;nbsp;10:35AM
+                    &amp;nbsp;Posted:&amp;nbsp;05/23/2017&amp;nbsp;10:48AM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  &lt;P&gt;Due to switch problems at &lt;STRONG&gt;33 St-Rawson St&lt;/STRONG&gt;, 34 St-bound [7] trains are running with delays.&lt;/P&gt;
+                  &lt;P&gt;Due to switch problems at &lt;STRONG&gt;33 St-Rawson St&lt;/STRONG&gt;, 34 St-bound [7] trains are express from &lt;STRONG&gt;74 St-Broadway&lt;/STRONG&gt; to &lt;STRONG&gt;Queensboro Plaza.&lt;/STRONG&gt;&lt;/P&gt;
 &lt;P&gt;Allow additional travel time.&lt;/P&gt;
                 &lt;br/&gt;&lt;br/&gt;
               
@@ -48,7 +48,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>05/23/2017</Date>
-    <Time>10:35AM</Time>
+    <Time>10:48AM</Time>
   </line>
   <line>
     <name>ACE</name>
@@ -75,7 +75,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>05/23/2017</Date>
-    <Time>10:42AM</Time>
+    <Time>10:48AM</Time>
   </line>
   <line>
     <name>G</name>
@@ -135,7 +135,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>05/23/2017</Date>
-    <Time>10:42AM</Time>
+    <Time>10:48AM</Time>
   </line>
 </subway><bus>
   <line>
@@ -283,7 +283,7 @@
               &lt;br/&gt;
             </text>
     <Date>05/23/2017</Date>
-    <Time>10:42AM</Time>
+    <Time>10:48AM</Time>
   </line>
   <line>
     <name>BX1 - BX55</name>
@@ -296,7 +296,7 @@
               &lt;br/&gt;
             </text>
     <Date>05/23/2017</Date>
-    <Time>10:42AM</Time>
+    <Time>10:48AM</Time>
   </line>
   <line>
     <name>BXM1 - BXM18</name>
@@ -315,7 +315,7 @@
               &lt;br/&gt;
             </text>
     <Date>05/23/2017</Date>
-    <Time>10:42AM</Time>
+    <Time>10:48AM</Time>
   </line>
   <line>
     <name>M1 - M116</name>
@@ -439,7 +439,7 @@
               &lt;br/&gt;
             </text>
     <Date>05/23/2017</Date>
-    <Time>10:42AM</Time>
+    <Time>10:48AM</Time>
   </line>
   <line>
     <name>S40 - S98</name>
@@ -490,7 +490,7 @@
               &lt;br/&gt;
             </text>
     <Date>05/23/2017</Date>
-    <Time>10:42AM</Time>
+    <Time>10:48AM</Time>
   </line>
 </bus><BT>
   <line>
@@ -730,17 +730,10 @@
   </line>
   <line>
     <name>Ronkonkoma</name>
-    <status>DELAYS</status>
-    <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;05/23/2017&amp;nbsp;10:19AM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  &lt;p&gt;&lt;font face="sans-serif"&gt;&lt;span style="font-size: 13.33px;"&gt;&lt;strong&gt;&lt;u&gt;Westbound:&lt;/u&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font face="sans-serif"&gt;&lt;span style="font-size: 13.33px;"&gt;The 9:15AM train from Ronkonkoma due Penn at 10:37AM is operating 11 minutes late due to an earlier train ahead with a customer in need of assistance.&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font face="sans-serif"&gt;&lt;span style="font-size: 13.33px;"&gt;&lt;strong&gt;&lt;u&gt;Eastbound:&lt;/u&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font face="sans-serif"&gt;&lt;span style="font-size: 13.33px;"&gt;The 9:14AM train from Penn due Ronkonkoma at 10:37AM is operating 10 minutes late due to trackwork.&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>05/23/2017</Date>
-    <Time>10:19AM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>West Hempstead</name>
