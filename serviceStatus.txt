@@ -1,17 +1,10 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>DELAYS</status>
-    <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;05/23/2017&amp;nbsp;11:38AM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  Due to an earlier incident between &lt;STRONG&gt;E 180 St&lt;/STRONG&gt; and &lt;STRONG&gt;Gun Hill Rd&lt;/STRONG&gt;, [2] train service has resumed with delays.
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>05/23/2017</Date>
-    <Time>11:38AM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>456</name>
@@ -698,13 +691,17 @@ LIRR train to Penn, transfer there to the Brooklyn-bound 2/3 subway.
     <text>
                     &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;05/23/2017&amp;nbsp;11:41AM
+                    &amp;nbsp;Posted:&amp;nbsp;05/23/2017&amp;nbsp;11:59AM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  &lt;font face="sans-serif"&gt;&lt;span style="font-size: 13.3333px;"&gt;The 11:05AM train from Atlantic Terminal due Hempstead at 11:58AM remains delayed east of Atlantic Terminal due to equipment trouble. Extra equipment will originate in Jamaica shortly representing the delayed train, making all stops.&lt;/span&gt;&lt;/font&gt;
+                  &lt;p&gt;&lt;font face="sans-serif"&gt;&lt;span style="font-size: 13.33px;"&gt;The 11:05AM train from Atlantic Terminal due Hempstead at 11:58AM remains delayed east of Atlantic Terminal due to equipment trouble. Extra equipment will originate in Jamaica shortly representing the delayed train, making all stops.&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font face="sans-serif"&gt;&lt;span style="font-size: 13.33px;"&gt;The 11:11AM train from Hempstead due Atlantic Terminal at 12:03PM is 
+canceled at Jamaica due to a disabled train near Atlantic Terminal. 
+Customers can transfer for service to Penn and then take the 2/3 subway 
+to Atlantic. 
+        &lt;/span&gt;&lt;/font&gt;&lt;/p&gt;
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>05/23/2017</Date>
-    <Time>11:41AM</Time>
+    <Time>11:59AM</Time>
   </line>
   <line>
     <name>Long Beach</name>
