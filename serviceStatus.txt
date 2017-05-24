@@ -695,11 +695,11 @@
     <text>
                     &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
                     &lt;br/&gt;
-                  &lt;body bgcolor='White' style='font-family:sans-serif;font-size:10pt;'&gt;&lt;body bgcolor='White' style='font-family:sans-serif;font-size:10pt;'&gt;VNB: PLANNED WORK; LOWER LEVEL STATEN ISLAND BOUND ONE LANE BLOCKED, EXPECT DELAYS.&lt;/body&gt;&lt;/body&gt;
+                  FINAL: VNB: PLANNED WORK; LOWER LEVEL STATEN ISLAND BOUND CLEARED.
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>05/24/2017</Date>
-    <Time> 5:41AM</Time>
+    <Time> 2:50PM</Time>
   </line>
 </BT><LIRR>
   <line>
@@ -870,10 +870,17 @@
   </line>
   <line>
     <name>Port Jervis</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>DELAYS</status>
+    <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;05/24/2017&amp;nbsp; 2:50PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  UPDATE: MBPJ train #0064, the 1:39pm from Port Jervis is CANCELLED, due to operational issues. Customers may use train #0066, the 3:19pm from Middletown.
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>05/24/2017</Date>
+    <Time> 2:50PM</Time>
   </line>
 </MetroNorth></service>
 
