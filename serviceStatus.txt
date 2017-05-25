@@ -129,8 +129,18 @@
 </subway><bus>
   <line>
     <name>B1 - B84</name>
-    <status>SERVICE CHANGE</status>
+    <status>DELAYS</status>
     <text>
+                  &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                  &lt;span class="DateStyle"&gt;
+                  &amp;nbsp;Posted:&amp;nbsp;05/25/2017&amp;nbsp;12:49PM
+                  &lt;/span&gt;
+                  &lt;br/&gt;
+                  &lt;br/&gt;
+                Following an earlier incident at 65 St and 18 Av, &lt;STRONG&gt;B8&lt;/STRONG&gt; bus service has resumed with delays.
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
                   &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
                   &lt;span class="DateStyle"&gt;
                   &amp;nbsp;Posted:&amp;nbsp;05/25/2017&amp;nbsp;12:23PM
@@ -164,20 +174,6 @@
                   &lt;br/&gt;
                   &lt;br/&gt;
                 &lt;P&gt;&lt;STRONG&gt;B20, B25, Q24&lt;/STRONG&gt; and &lt;STRONG&gt;Q56&lt;/STRONG&gt; buses are running with delays in both directions, due to traffic conditions on Jamaica Av between Bushwick Av and Herkimer St.&lt;/P&gt;
-&lt;P&gt;Allow additional travel time.&lt;/P&gt;
-              &lt;br/&gt;
-              &lt;br/&gt;
-            
-                  &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
-                  &lt;span class="DateStyle"&gt;
-                  &amp;nbsp;Posted:&amp;nbsp;05/25/2017&amp;nbsp;12:10PM
-                  &lt;/span&gt;
-                  &lt;br/&gt;
-                  &lt;br/&gt;
-                &lt;P&gt;&lt;STRONG&gt;B8&lt;/STRONG&gt; buses are detoured, due to paving at 65 St and 18 Av. &lt;/P&gt;
-&lt;P&gt;Detour is as follows:&lt;/P&gt;
-&lt;P&gt;&lt;STRONG&gt;B8 Eastbound&lt;/STRONG&gt;: Via 18 Av, right on Bay Ridge Pkwy, left on 19 Av, left on 60 St, right on 18 Av and regular route.&lt;/P&gt;
-&lt;P&gt;&lt;STRONG&gt;B8 Westbound&lt;/STRONG&gt;: Via 18 Av, left on 60 St, right on 19 Av, right on Bay Ridge Pkwy, left on 18 Av and regular route.&lt;/P&gt;
 &lt;P&gt;Allow additional travel time.&lt;/P&gt;
               &lt;br/&gt;
               &lt;br/&gt;
@@ -234,7 +230,7 @@
               &lt;br/&gt;
             </text>
     <Date>05/25/2017</Date>
-    <Time>12:23PM</Time>
+    <Time>12:49PM</Time>
   </line>
   <line>
     <name>B100 - B103</name>
@@ -301,6 +297,21 @@
     <text>
                   &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
                   &lt;span class="DateStyle"&gt;
+                  &amp;nbsp;Posted:&amp;nbsp;05/25/2017&amp;nbsp;12:48PM
+                  &lt;/span&gt;
+                  &lt;br/&gt;
+                  &lt;br/&gt;
+                &lt;P&gt;&lt;STRONG&gt;M15-SBS&lt;/STRONG&gt; buses are detoured, due to NYPD activity at the South Ferry Terminal. &lt;/P&gt;
+&lt;P&gt;Detour is as follows:&lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;M15-SBS Southbound&lt;/STRONG&gt;: Via Water St to Broad St, left on Broad St to South St, right on South St to Whitehall St for temporary stand.&lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;M15-SBS Northbound&lt;/STRONG&gt;: From temporary stand on South St and Whitehall St, right on Whitehall St to Water St, right on Water St and regular route.&lt;/P&gt;
+&lt;P&gt;South Ferry Terminal bus stop will be mad on South St and Whitehall St bus stop.&lt;/P&gt;
+&lt;P&gt;Allow additional travel time.&lt;/P&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
+                  &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                  &lt;span class="DateStyle"&gt;
                   &amp;nbsp;Posted:&amp;nbsp;05/25/2017&amp;nbsp;12:14PM
                   &lt;/span&gt;
                   &lt;br/&gt;
@@ -331,7 +342,7 @@
               &lt;br/&gt;
             </text>
     <Date>05/25/2017</Date>
-    <Time>12:14PM</Time>
+    <Time>12:48PM</Time>
   </line>
   <line>
     <name>Q1 - Q113</name>
@@ -805,17 +816,10 @@
   </line>
   <line>
     <name>Ronkonkoma</name>
-    <status>DELAYS</status>
-    <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;05/25/2017&amp;nbsp;12:33PM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                   The 12:14PM train from Penn due Ronkonkoma at 1:37PM is operating 13 minutes late due to a customer in need of medical assistance.
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>05/25/2017</Date>
-    <Time>12:33PM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>West Hempstead</name>
