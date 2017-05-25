@@ -1,10 +1,17 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>DELAYS</status>
+    <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;05/25/2017&amp;nbsp;10:00AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  Due to an earlier incident at &lt;STRONG&gt;34 St-Penn Station,&lt;/STRONG&gt; [2] and [3] train service has resumed with delays.
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>05/25/2017</Date>
+    <Time>10:00AM</Time>
   </line>
   <line>
     <name>456</name>
@@ -60,17 +67,10 @@
   </line>
   <line>
     <name>G</name>
-    <status>DELAYS</status>
-    <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;05/25/2017&amp;nbsp; 9:43AM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  Due to an earlier incident at&lt;STRONG&gt; Court Sq-23 St&lt;/STRONG&gt;, [G] train service has resumed with delays.
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>05/25/2017</Date>
-    <Time> 9:43AM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>JZ</name>
@@ -285,16 +285,6 @@
     <text>
                   &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                   &lt;span class="DateStyle"&gt;
-                  &amp;nbsp;Posted:&amp;nbsp;05/25/2017&amp;nbsp; 9:46AM
-                  &lt;/span&gt;
-                  &lt;br/&gt;
-                  &lt;br/&gt;
-                Following an earlier incident at 103 St-Corona Plaza, &lt;STRONG&gt;Q12, Q13, Q15, Q15A, Q16, Q17, Q19, Q20A, Q20B, Q25, Q26, Q27, Q28, Q29, Q32, Q33, Q34, Q44-SBS, Q48, Q50, Q60, Q65, Q66 &lt;/STRONG&gt;and&lt;STRONG&gt; Q72 &lt;/STRONG&gt;bus service has resumed with delays.
-              &lt;br/&gt;
-              &lt;br/&gt;
-            
-                  &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                  &lt;span class="DateStyle"&gt;
                   &amp;nbsp;Posted:&amp;nbsp;05/25/2017&amp;nbsp; 8:25AM
                   &lt;/span&gt;
                   &lt;br/&gt;
@@ -430,7 +420,7 @@
               &lt;br/&gt;
             </text>
     <Date>05/25/2017</Date>
-    <Time> 9:46AM</Time>
+    <Time> 8:25AM</Time>
   </line>
   <line>
     <name>QM1 - QM44</name>
