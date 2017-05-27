@@ -38,17 +38,33 @@
   </line>
   <line>
     <name>BDFM</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>DELAYS</status>
+    <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;05/26/2017&amp;nbsp; 9:37PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;P&gt;Due to a sick passenger at &lt;STRONG&gt;Bergen St&lt;/STRONG&gt;, northbound [F] and [G] trains are running with delays. &lt;/P&gt;
+&lt;P&gt;Allow additional travel time.&lt;/P&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>05/26/2017</Date>
+    <Time> 9:37PM</Time>
   </line>
   <line>
     <name>G</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>DELAYS</status>
+    <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;05/26/2017&amp;nbsp; 9:37PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;P&gt;Due to a sick passenger at &lt;STRONG&gt;Bergen St&lt;/STRONG&gt;, northbound [F] and [G] trains are running with delays. &lt;/P&gt;
+&lt;P&gt;Allow additional travel time.&lt;/P&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>05/26/2017</Date>
+    <Time> 9:37PM</Time>
   </line>
   <line>
     <name>JZ</name>
@@ -609,8 +625,13 @@
   </line>
   <line>
     <name>Marine Parkway</name>
-    <status>DELAYS</status>
+    <status>PLANNED WORK</status>
     <text>
+                    &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
+                    &lt;br/&gt;
+                  &lt;body bgcolor='White' style='font-family:sans-serif;font-size:10pt;'&gt;MPB: PLANNED WORK; ROCKAWAY BOUND ONE LANE BLOCKED, EXPECT DELAYS.&lt;/body&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              
                     &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
                     &amp;nbsp;Posted:&amp;nbsp;05/26/2017&amp;nbsp; 9:04PM
@@ -619,7 +640,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>05/26/2017</Date>
-    <Time> 9:04PM</Time>
+    <Time> 9:35PM</Time>
   </line>
   <line>
     <name>Queens Midtown</name>
