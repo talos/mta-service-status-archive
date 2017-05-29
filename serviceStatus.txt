@@ -1,8 +1,17 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>PLANNED WORK</status>
+    <status>SERVICE CHANGE</status>
     <text>
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;05/28/2017&amp;nbsp;11:17PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;P&gt;Due to a train with mechaincal problems at &lt;STRONG&gt;Newkirk Av,&lt;/STRONG&gt; the following boarding changes are in effect:&lt;/P&gt;
+&lt;P&gt;[2] trains are stopping at the Flatbush Av bound platform in both directions at &lt;STRONG&gt;Newkirk Av&lt;/STRONG&gt; and &lt;STRONG&gt;Beverly Rd&lt;/STRONG&gt; stations. &lt;/P&gt;
+&lt;P&gt;Allow additional travel time.  &lt;/P&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              
                     &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
                     &lt;br/&gt;
                   &lt;a class="plannedWorkDetailLink" onclick=ShowHide(155027);&gt;&lt;b&gt;[3] Harlem-bound trains run local from Chambers St to 96 St&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 155027 class="plannedWorkDetail" &gt;&lt;/b&gt;Weekend &amp;&lt;b&gt; &lt;/b&gt;&lt;a href=http://web.mta.info/nyct/service/servChanges_MemorialDay2017.htm target=_blank&gt;&lt;font color=#0000FF&gt;&lt;b&gt;&lt;u&gt;Holiday&lt;/u&gt;&lt;/b&gt;&lt;/font&gt;&lt;/a&gt;, 12:01 AM Sat to 5 AM Tue, May 27 - 30&lt;br&gt;&lt;br&gt;&amp;bull; Please allow additional travel time.&lt;br&gt;&lt;br&gt;&lt;b&gt;Note:&lt;/b&gt; [3]&lt;b&gt; &lt;/b&gt;service operates between 148 St and New Lots Av &lt;i&gt;all weekend&lt;/i&gt;.&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
@@ -19,7 +28,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>05/28/2017</Date>
-    <Time>11:12PM</Time>
+    <Time>11:17PM</Time>
   </line>
   <line>
     <name>456</name>
