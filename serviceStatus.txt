@@ -8,17 +8,10 @@
   </line>
   <line>
     <name>456</name>
-    <status>DELAYS</status>
-    <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;05/30/2017&amp;nbsp; 6:01AM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  Following an earlier incident at &lt;STRONG&gt;59 St&lt;/STRONG&gt;, [6] train service has resumed with delays.
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>05/30/2017</Date>
-    <Time> 6:01AM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>7</name>
@@ -65,10 +58,19 @@
   </line>
   <line>
     <name>L</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>SERVICE CHANGE</status>
+    <text>
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;05/30/2017&amp;nbsp; 6:20AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;P&gt;Due to FDNY activity at&lt;STRONG&gt; 6 Av&lt;/STRONG&gt;, 8 Av-bound [L] trains terminate at Bedford Av.&lt;/P&gt;
+&lt;P&gt;As an alternative, customers can use &lt;STRONG&gt;M14&lt;/STRONG&gt; buses making nearby stops.&lt;/P&gt;
+&lt;P&gt;Allow additional travel time.&lt;/P&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>05/30/2017</Date>
+    <Time> 6:20AM</Time>
   </line>
   <line>
     <name>NQR</name>
