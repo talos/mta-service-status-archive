@@ -248,16 +248,20 @@
   </line>
   <line>
     <name>M1 - M116</name>
-    <status>DELAYS</status>
+    <status>SERVICE CHANGE</status>
     <text>
-                  &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                  &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
                   &lt;span class="DateStyle"&gt;
-                  &amp;nbsp;Posted:&amp;nbsp;05/30/2017&amp;nbsp; 5:27PM
+                  &amp;nbsp;Posted:&amp;nbsp;05/30/2017&amp;nbsp; 5:38PM
                   &lt;/span&gt;
                   &lt;br/&gt;
                   &lt;br/&gt;
-                &lt;P&gt;&lt;STRONG&gt;M72&lt;/STRONG&gt; buses are running with delays in both directions, due to FDNY activity on York Av between 1 Av and York Av. &lt;/P&gt;
-&lt;P&gt;Allow additional travel time.&lt;/P&gt;
+                &lt;P&gt;&lt;STRONG&gt;M72&lt;/STRONG&gt; buses are detoured due to FDNY activity on York Av between 1 Av and York Av. &lt;/P&gt;
+&lt;P&gt;Detour is as follows: &lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;Eastbound&lt;/STRONG&gt;: Via 72 St, right on 2 Av, left on York Av and regular route. &lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;Westbound&lt;/STRONG&gt;: Via York Av, left on 79 St, left on 2 Av, right on 72 St and regular route. &lt;/P&gt;
+&lt;P&gt;All corresponding stops will be made along the detoured route. &lt;/P&gt;
+&lt;P&gt;Allow additional travel time. &lt;/P&gt;
               &lt;br/&gt;
               &lt;br/&gt;
             
@@ -378,7 +382,7 @@
               &lt;br/&gt;
             </text>
     <Date>05/30/2017</Date>
-    <Time> 5:27PM</Time>
+    <Time> 5:38PM</Time>
   </line>
   <line>
     <name>Q1 - Q113</name>
@@ -743,17 +747,10 @@
 </BT><LIRR>
   <line>
     <name>Babylon</name>
-    <status>DELAYS</status>
-    <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;05/30/2017&amp;nbsp; 5:29PM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  The 4:16PM train from Atlantic Terminal due Babylon at 5:28PM is operating 10 minutes late at this time.
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>05/30/2017</Date>
-    <Time> 5:29PM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>City Terminal Zone</name>
