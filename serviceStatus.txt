@@ -127,10 +127,18 @@
   </line>
   <line>
     <name>NQR</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>SERVICE CHANGE</status>
+    <text>
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;05/31/2017&amp;nbsp; 1:23AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;P&gt;Due to an NYPD investigation at &lt;STRONG&gt;DeKalb Av&lt;/STRONG&gt;, [Q] trains are running on the [N] line between &lt;STRONG&gt;Dekalb Av&lt;/STRONG&gt; and &lt;STRONG&gt;Canal St&lt;/STRONG&gt; in both directions.  &lt;/P&gt;
+&lt;P&gt;Allow additional travel time.&lt;/P&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>05/31/2017</Date>
+    <Time> 1:23AM</Time>
   </line>
   <line>
     <name>S</name>
@@ -526,6 +534,11 @@
     <text>
                     &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
                     &lt;br/&gt;
+                  &lt;body bgcolor='White' style='font-family:sans-serif;font-size:10pt;'&gt;RFK: PLANNED WORK; MANHATTAN SPAN/BOTH DIRECTIONS - BRIDGE LIFTS UNTIL 5 A.M. INTERMITTENT FULL CLOSURES. EXPECT DELAYS AND USE AN ALTERNATE ROUTE.&lt;/body&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              
+                    &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
+                    &lt;br/&gt;
                   RFK: planned work; Manhattan span Bronx/Queens bound one lane blocked.
                 &lt;br/&gt;&lt;br/&gt;
               
@@ -549,8 +562,8 @@
                   &lt;body bgcolor='White' style='font-family:sans-serif;font-size:10pt;'&gt;RFK: PLANNED WORK; QUEENS SPAN RAMP TO MANHATTAN-BOUND - ONE LANE CLOSED; EXPECT DELAYS.&lt;/body&gt;
                 &lt;br/&gt;&lt;br/&gt;
               </text>
-    <Date>05/30/2017</Date>
-    <Time>11:26PM</Time>
+    <Date>05/31/2017</Date>
+    <Time> 1:22AM</Time>
   </line>
   <line>
     <name>Throgs Neck</name>
