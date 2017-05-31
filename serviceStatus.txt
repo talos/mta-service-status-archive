@@ -1,17 +1,10 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>DELAYS</status>
-    <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;05/31/2017&amp;nbsp; 5:37PM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  Following an earlier incident at &lt;STRONG&gt;Rector St&lt;/STRONG&gt;, [1], [2] and [3] train service has resumed with delays.
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>05/31/2017</Date>
-    <Time> 5:37PM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>456</name>
@@ -862,14 +855,20 @@
     <text>
                     &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;05/31/2017&amp;nbsp; 6:24PM
+                    &amp;nbsp;Posted:&amp;nbsp;05/31/2017&amp;nbsp; 6:30PM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
                   &lt;b&gt;LIRR customers on the Port Washington Branch should expect cancellations
  and delays averaging 15 minutes due to a suspension of service between 
 Great Neck and Port Washington resulting from an unauthorized person on 
 the tracks being struck by a train near Plandome. All westbound trains 
 are originating out of Great Neck Station.
-        &lt;br&gt;&lt;br&gt;&lt;/b&gt;&lt;br&gt;The 6:24PM train from Penn due Port Washington at 7:06PM is canceled due
+        &lt;br&gt;&lt;/b&gt;&lt;br&gt;&lt;b&gt;WESTBOUND &lt;br&gt;&lt;/b&gt;The 6:04PM train from Great Neck due Penn at 6:44PM is operating 12 
+minutes late due to congestion caused by an unauthorized person on the 
+tracks being struck by a train near Plandome. 
+        &lt;br&gt;&lt;br&gt;The 5:44PM train from Great Neck due Penn at 6:17PM is operating 19 
+minutes late due to congestion caused by an unauthorized person on the 
+tracks being struck by a train near Plandome.
+        &lt;br&gt;&lt;br&gt;&lt;b&gt;EASTBOUND &lt;br&gt;&lt;/b&gt;The 6:24PM train from Penn due Port Washington at 7:06PM is canceled due
  to an unauthorized person on the tracks being struck by a train near 
 Plandome. Customers accommodated by the 6:42PM train from Penn due Great
  Neck at 7:17PM.&lt;br&gt;&lt;br&gt;&lt;div class="mainmsg"&gt;
@@ -883,7 +882,7 @@ Penn due Great Neck at 6:50PM.
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>05/31/2017</Date>
-    <Time> 6:24PM</Time>
+    <Time> 6:30PM</Time>
   </line>
   <line>
     <name>Ronkonkoma</name>
