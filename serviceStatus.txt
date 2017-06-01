@@ -1,8 +1,17 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>DELAYS</status>
+    <status>SERVICE CHANGE</status>
     <text>
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;06/01/2017&amp;nbsp; 6:01PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;P&gt;Due to NYPD activity at &lt;STRONG&gt;Atlantic Av-Barclays Ctr&lt;/STRONG&gt;, southbound [4] and [5] trains are running local from &lt;STRONG&gt;Atlantic Av-Barclays Ctr&lt;/STRONG&gt; to &lt;STRONG&gt;Franklin Av&lt;/STRONG&gt;. &lt;/P&gt;
+&lt;P&gt;Expect delays to [2] and [3] train service. &lt;/P&gt;
+&lt;P&gt;Allow additional travel time.&lt;/P&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              
                     &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
                     &amp;nbsp;Posted:&amp;nbsp;06/01/2017&amp;nbsp; 5:49PM
@@ -11,12 +20,21 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>06/01/2017</Date>
-    <Time> 5:49PM</Time>
+    <Time> 6:01PM</Time>
   </line>
   <line>
     <name>456</name>
-    <status>DELAYS</status>
+    <status>SERVICE CHANGE</status>
     <text>
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;06/01/2017&amp;nbsp; 6:01PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;P&gt;Due to NYPD activity at &lt;STRONG&gt;Atlantic Av-Barclays Ctr&lt;/STRONG&gt;, southbound [4] and [5] trains are running local from &lt;STRONG&gt;Atlantic Av-Barclays Ctr&lt;/STRONG&gt; to &lt;STRONG&gt;Franklin Av&lt;/STRONG&gt;. &lt;/P&gt;
+&lt;P&gt;Expect delays to [2] and [3] train service. &lt;/P&gt;
+&lt;P&gt;Allow additional travel time.&lt;/P&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              
                     &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
                     &amp;nbsp;Posted:&amp;nbsp;06/01/2017&amp;nbsp; 5:49PM
@@ -25,7 +43,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>06/01/2017</Date>
-    <Time> 5:49PM</Time>
+    <Time> 6:01PM</Time>
   </line>
   <line>
     <name>7</name>
@@ -104,7 +122,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>06/01/2017</Date>
-    <Time> 5:52PM</Time>
+    <Time> 6:02PM</Time>
   </line>
   <line>
     <name>SIR</name>
@@ -222,7 +240,7 @@
               &lt;br/&gt;
             </text>
     <Date>06/01/2017</Date>
-    <Time> 5:52PM</Time>
+    <Time> 6:02PM</Time>
   </line>
   <line>
     <name>M1 - M116</name>
