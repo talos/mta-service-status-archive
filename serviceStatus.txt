@@ -1,10 +1,21 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>SERVICE CHANGE</status>
+    <text>
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;06/02/2017&amp;nbsp; 6:56AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;P&gt;Due to a train with mechanical problems at &lt;STRONG&gt;125 St,&lt;/STRONG&gt; the following service changes are in effect:&lt;/P&gt;
+&lt;P&gt;Southbound.[1] trains are running express from &lt;STRONG&gt;137 St-City College&lt;/STRONG&gt; to &lt;STRONG&gt;96 St.&lt;/STRONG&gt;&lt;/P&gt;
+&lt;P&gt;Some southbound [3] trains are running local from 96 St to &lt;STRONG&gt;Chambers St.&lt;/STRONG&gt;&lt;/P&gt;
+&lt;P&gt;Expect delays on [1], [2] and [3] trains. &lt;/P&gt;
+&lt;P&gt;Allow additional travel time.&lt;/P&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>06/02/2017</Date>
+    <Time> 6:56AM</Time>
   </line>
   <line>
     <name>456</name>
@@ -512,21 +523,10 @@
   </line>
   <line>
     <name>Port Jefferson</name>
-    <status>DELAYS</status>
-    <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;06/02/2017&amp;nbsp; 6:40AM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  &lt;p&gt;The 5:08AM train from Huntington due Penn at 6:11AM will be cancelled 
-upon the arrival at Hicksville Station due to equipment trouble. 
-Customers will be accommodated by the following westbound train to Penn 
-Station making added Westbury, Carle Place and Mineola Station stops.&lt;/p&gt;&lt;p&gt;The 5:27AM train from Huntington due Penn at 6:35AM is operating 10 minutes late after accommodating customers from a previously canceled train.&lt;/p&gt;&lt;p&gt;The 4:55AM train from Port Jefferson due Hunterspoint Ave. at 6:37AM is  operating 12 minutes late due to congestion caused by a late train  ahead.     &lt;/p&gt;&lt;p&gt;The 5:46AM train from Huntington due Penn at 6:41AM is operating 12 minutes late due to congestion caused by a delayed train ahead.&lt;/p&gt;&lt;p&gt;     &lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="3"&gt; 
-        &lt;/font&gt;&lt;/p&gt;&lt;span style="color: rgb(0, 0, 0); text-transform: none; text-indent: 0px; letter-spacing: normal; font-family: Arial, Helvetica; font-size: medium; font-style: normal; font-weight: normal; word-spacing: 0px; float: none; display: inline !important; white-space: normal; orphans: 2; widows: 2; background-color: rgb(255, 255, 255); font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial;"&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;/span&gt;&lt;p&gt;&lt;span style='color: black; font-family: "Arial",sans-serif; font-size: 12pt;'&gt;&lt;br&gt;&lt;/span&gt;&lt;/p&gt;
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>06/02/2017</Date>
-    <Time> 6:40AM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>Port Washington</name>
