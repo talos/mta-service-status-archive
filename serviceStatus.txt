@@ -550,20 +550,6 @@
                   &lt;body bgcolor='White' style='font-family:sans-serif;font-size:10pt;'&gt;QMT delays Manhattan bound due to volume.&lt;/body&gt;
                 &lt;br/&gt;&lt;br/&gt;
               
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;06/06/2017&amp;nbsp; 7:51AM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  &lt;body bgcolor='White' style='font-family:sans-serif;font-size:10pt;'&gt;Disabled vehicle cleared.&lt;/body&gt;
-                &lt;br/&gt;&lt;br/&gt;
-              
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;06/06/2017&amp;nbsp; 7:15AM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  &lt;body bgcolor='White' style='font-family:sans-serif;font-size:10pt;'&gt;QMT: disabled school bus with no passengers on Queens plaza Manhattan bound.&lt;/body&gt;
-                &lt;br/&gt;&lt;br/&gt;
-              
                     &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
                     &amp;nbsp;Posted:&amp;nbsp;06/06/2017&amp;nbsp; 6:16AM
@@ -728,10 +714,17 @@
   </line>
   <line>
     <name>Ronkonkoma</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>DELAYS</status>
+    <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;06/06/2017&amp;nbsp;10:27AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  The 10:44AM train from Ronkonkoma due Greenport at 12:08PM is canceled today as a result of an equipment problem. Customers will be accommodated by bus service.
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>06/06/2017</Date>
+    <Time>10:27AM</Time>
   </line>
   <line>
     <name>West Hempstead</name>
