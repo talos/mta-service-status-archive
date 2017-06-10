@@ -219,18 +219,8 @@
 </subway><bus>
   <line>
     <name>B1 - B84</name>
-    <status>DELAYS</status>
+    <status>SERVICE CHANGE</status>
     <text>
-                  &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                  &lt;span class="DateStyle"&gt;
-                  &amp;nbsp;Posted:&amp;nbsp;06/10/2017&amp;nbsp; 9:44AM
-                  &lt;/span&gt;
-                  &lt;br/&gt;
-                  &lt;br/&gt;
-                Following an earlier incident on 5 Av, &lt;STRONG&gt;B63&lt;/STRONG&gt; bus service has resumed with delays.
-              &lt;br/&gt;
-              &lt;br/&gt;
-            
                   &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
                   &lt;span class="DateStyle"&gt;
                   &amp;nbsp;Posted:&amp;nbsp;06/10/2017&amp;nbsp; 8:28AM
@@ -289,7 +279,7 @@
               &lt;br/&gt;
             </text>
     <Date>06/10/2017</Date>
-    <Time> 9:44AM</Time>
+    <Time> 8:28AM</Time>
   </line>
   <line>
     <name>B100 - B103</name>
@@ -738,8 +728,15 @@
   </line>
   <line>
     <name>Robert F. Kennedy</name>
-    <status>PLANNED WORK</status>
+    <status>DELAYS</status>
     <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;06/10/2017&amp;nbsp;10:00AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  RFK: TRAFFIC DELAYS: QUEENS SPAN MANHATTAN/BRONX-BOUND
+                &lt;br/&gt;&lt;br/&gt;
+              
                     &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
                     &lt;br/&gt;
                   RFK: PLANNED WORK; QUEENS BOUND / QUEENS SPAN. ONE LANE CLOSED.
@@ -756,7 +753,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>06/10/2017</Date>
-    <Time> 6:56AM</Time>
+    <Time>10:00AM</Time>
   </line>
   <line>
     <name>Throgs Neck</name>
@@ -833,17 +830,10 @@
   </line>
   <line>
     <name>Far Rockaway</name>
-    <status>SERVICE CHANGE</status>
-    <text>
-                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;06/10/2017&amp;nbsp; 9:21AM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  The 8:50AM train from Far Rockaway due Atlantic Terminal at 9:42AM is canceled due to equipment trouble. Customers will be accommodated by the next westbound train&lt;b&gt;.&lt;/b&gt;&lt;br&gt;
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>06/10/2017</Date>
-    <Time> 9:21AM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>Hempstead</name>
@@ -929,15 +919,13 @@
     <text>
                     &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;06/10/2017&amp;nbsp; 9:18AM
+                    &amp;nbsp;Posted:&amp;nbsp;06/10/2017&amp;nbsp;10:01AM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  &lt;P&gt;New Haven Line Customers should anticipate delays of up to 50 minutes in both directions due to signal problems. &lt;/P&gt;
-&lt;P&gt;Limited service has been restored on the New Haven Line at this time. We are still experiencing signal problems between Rye and Stamford. &lt;/P&gt;
-&lt;P&gt;Please listen for announcements at your station.&lt;/P&gt;
+                  &lt;P&gt;New Haven Customers should anticipate delays of approximately 90 minutes due to signal problems on the New Haven Line. Please listen for announcements at your station.&lt;/P&gt;
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>06/10/2017</Date>
-    <Time> 9:18AM</Time>
+    <Time>10:01AM</Time>
   </line>
   <line>
     <name>New Canaan</name>
