@@ -219,8 +219,21 @@
 </subway><bus>
   <line>
     <name>B1 - B84</name>
-    <status>DELAYS</status>
+    <status>SERVICE CHANGE</status>
     <text>
+                  &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                  &lt;span class="DateStyle"&gt;
+                  &amp;nbsp;Posted:&amp;nbsp;06/10/2017&amp;nbsp; 7:44AM
+                  &lt;/span&gt;
+                  &lt;br/&gt;
+                  &lt;br/&gt;
+                &lt;P&gt;&lt;STRONG&gt;BM1, BM2, BM3&lt;/STRONG&gt; and &lt;STRONG&gt;BM4&lt;/STRONG&gt; buses are detoured, due to the Madison Square Park street fair on Madison Av between E 23 St and E 26 St.&lt;/P&gt;
+&lt;P&gt;Detour is as follows:&lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;Westbound&lt;/STRONG&gt;: Via E 23 St, right on Park Av South, left on E 29 St, right on Madison Av and regular route.&lt;/P&gt;
+&lt;P&gt;Allow additional travel time.&lt;/P&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
                   &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                   &lt;span class="DateStyle"&gt;
                   &amp;nbsp;Posted:&amp;nbsp;06/10/2017&amp;nbsp; 7:42AM
@@ -228,19 +241,6 @@
                   &lt;br/&gt;
                   &lt;br/&gt;
                 Following an earlier incident on Bedford Av, &lt;STRONG&gt;B44&lt;/STRONG&gt; and &lt;STRONG&gt;B52&lt;/STRONG&gt; bus service has resumed with delays.
-              &lt;br/&gt;
-              &lt;br/&gt;
-            
-                  &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
-                  &lt;span class="DateStyle"&gt;
-                  &amp;nbsp;Posted:&amp;nbsp;06/10/2017&amp;nbsp; 7:40AM
-                  &lt;/span&gt;
-                  &lt;br/&gt;
-                  &lt;br/&gt;
-                &lt;P&gt;&lt;STRONG&gt;BM41, BM2, BM3&lt;/STRONG&gt; and &lt;STRONG&gt;BM4&lt;/STRONG&gt; buses are detoured, due to the Madison Square Park street fair on Madison Av between E 23 St and E 26 St.&lt;/P&gt;
-&lt;P&gt;Detour is as follows:&lt;/P&gt;
-&lt;P&gt;&lt;STRONG&gt;Westbound&lt;/STRONG&gt;: Via E 23 St, right on Park Av South, left on E 29 St, right on Madison Av and regular route.&lt;/P&gt;
-&lt;P&gt;Allow additional travel time.&lt;/P&gt;
               &lt;br/&gt;
               &lt;br/&gt;
             
@@ -299,7 +299,7 @@
               &lt;br/&gt;
             </text>
     <Date>06/10/2017</Date>
-    <Time> 7:42AM</Time>
+    <Time> 7:44AM</Time>
   </line>
   <line>
     <name>B100 - B103</name>
@@ -314,11 +314,11 @@
     <text>
                   &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
                   &lt;span class="DateStyle"&gt;
-                  &amp;nbsp;Posted:&amp;nbsp;06/10/2017&amp;nbsp; 7:40AM
+                  &amp;nbsp;Posted:&amp;nbsp;06/10/2017&amp;nbsp; 7:44AM
                   &lt;/span&gt;
                   &lt;br/&gt;
                   &lt;br/&gt;
-                &lt;P&gt;&lt;STRONG&gt;BM41, BM2, BM3&lt;/STRONG&gt; and &lt;STRONG&gt;BM4&lt;/STRONG&gt; buses are detoured, due to the Madison Square Park street fair on Madison Av between E 23 St and E 26 St.&lt;/P&gt;
+                &lt;P&gt;&lt;STRONG&gt;BM1, BM2, BM3&lt;/STRONG&gt; and &lt;STRONG&gt;BM4&lt;/STRONG&gt; buses are detoured, due to the Madison Square Park street fair on Madison Av between E 23 St and E 26 St.&lt;/P&gt;
 &lt;P&gt;Detour is as follows:&lt;/P&gt;
 &lt;P&gt;&lt;STRONG&gt;Westbound&lt;/STRONG&gt;: Via E 23 St, right on Park Av South, left on E 29 St, right on Madison Av and regular route.&lt;/P&gt;
 &lt;P&gt;Allow additional travel time.&lt;/P&gt;
@@ -332,7 +332,7 @@
               &lt;br/&gt;
             </text>
     <Date>06/10/2017</Date>
-    <Time> 7:40AM</Time>
+    <Time> 7:44AM</Time>
   </line>
   <line>
     <name>BX1 - BX55</name>
@@ -711,6 +711,11 @@
     <text>
                     &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
                     &lt;br/&gt;
+                  &lt;body bgcolor='White' style='font-family:sans-serif;font-size:10pt;'&gt;QMT: Planned work; Queens bound tube closed. 2-way operation in the Manhattan bound tube.  &lt;/body&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              
+                    &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
+                    &lt;br/&gt;
                   &lt;body bgcolor='White' style='font-family:sans-serif;font-size:10pt;'&gt;&lt;body bgcolor='White' style='font-family:sans-serif;font-size:10pt;'&gt;&lt;/body&gt;&lt;/body&gt;
                 &lt;br/&gt;&lt;br/&gt;
               
@@ -722,8 +727,8 @@
 &lt;P&gt;For approximately three months, the two right "Downtown" exit lanes at the Manhattan plaza of the Queens Midtown Tunnel will be closed for the final stage of exit plaza roadway rehabilitation. Customers traveling Downtown can use the four open and newly resurfaced "Uptown" or "Crosstown" exit lanes, or the left "Downtown" exit lane, which will remain open during this period. In addition, East 37th Street between Tunnel Exit and 2nd Avenue has been temporarily converted to receive two-way traffic, to accommodate motorists exiting the tunnel from the Uptown lanes and seeking a Downtown route via 2nd Avenue.&lt;/P&gt;
                 &lt;br/&gt;&lt;br/&gt;
               </text>
-    <Date>06/09/2017</Date>
-    <Time>10:12PM</Time>
+    <Date>06/10/2017</Date>
+    <Time> 7:42AM</Time>
   </line>
   <line>
     <name>Robert F. Kennedy</name>
