@@ -29,10 +29,15 @@
   </line>
   <line>
     <name>BDFM</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>PLANNED WORK</status>
+    <text>
+                    &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
+                    &lt;br/&gt;
+                  &lt;a class="plannedWorkDetailLink" onclick=ShowHide(156296);&gt;&lt;b&gt;[D] Norwood-bound trains skip 182-183 Sts&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 156296 class="plannedWorkDetail" &gt;&lt;/b&gt;Weekend, 10:45 PM Fri to 5 AM Mon, Jun 9 - 12&lt;br&gt;&lt;br&gt;For service &lt;i&gt;to&lt;/i&gt; this station, take the [D] to Fordham Rd and transfer to a Manhattan-bound [D].&lt;br&gt;&lt;br&gt;For service &lt;i&gt;from&lt;/i&gt; this station, take the [D] to Tremont Av and transfer to a Norwood-bound [D].&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>06/09/2017</Date>
+    <Time>10:48PM</Time>
   </line>
   <line>
     <name>G</name>
@@ -196,7 +201,7 @@
               &lt;br/&gt;
             </text>
     <Date>06/09/2017</Date>
-    <Time>10:42PM</Time>
+    <Time>10:48PM</Time>
   </line>
   <line>
     <name>M1 - M116</name>
@@ -399,7 +404,7 @@
               &lt;br/&gt;
             </text>
     <Date>06/09/2017</Date>
-    <Time>10:42PM</Time>
+    <Time>10:48PM</Time>
   </line>
   <line>
     <name>S40 - S98</name>
