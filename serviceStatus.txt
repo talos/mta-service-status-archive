@@ -805,10 +805,17 @@
   </line>
   <line>
     <name>Marine Parkway</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>DELAYS</status>
+    <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;06/11/2017&amp;nbsp; 6:00PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;body bgcolor='White' style='font-family:sans-serif;font-size:10pt;'&gt;MPB: delays; Brooklyn bound due to volume.&lt;/body&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>06/11/2017</Date>
+    <Time> 6:00PM</Time>
   </line>
   <line>
     <name>Queens Midtown</name>
