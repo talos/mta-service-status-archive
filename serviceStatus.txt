@@ -32,7 +32,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>06/11/2017</Date>
-    <Time>10:52AM</Time>
+    <Time>11:02AM</Time>
   </line>
   <line>
     <name>7</name>
@@ -56,7 +56,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>06/11/2017</Date>
-    <Time>10:52AM</Time>
+    <Time>11:02AM</Time>
   </line>
   <line>
     <name>BDFM</name>
@@ -88,7 +88,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>06/11/2017</Date>
-    <Time>10:52AM</Time>
+    <Time>11:02AM</Time>
   </line>
   <line>
     <name>G</name>
@@ -100,7 +100,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>06/11/2017</Date>
-    <Time>10:52AM</Time>
+    <Time>11:02AM</Time>
   </line>
   <line>
     <name>JZ</name>
@@ -146,7 +146,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>06/11/2017</Date>
-    <Time>10:52AM</Time>
+    <Time>11:02AM</Time>
   </line>
   <line>
     <name>S</name>
@@ -165,7 +165,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>06/11/2017</Date>
-    <Time>10:52AM</Time>
+    <Time>11:02AM</Time>
   </line>
 </subway><bus>
   <line>
@@ -270,6 +270,12 @@
             
                   &lt;span class="TitlePlannedWork" &gt;Planned Detour&lt;/span&gt;
                   &lt;br/&gt;
+                &lt;a class="plannedWorkDetailLink" onclick=ShowHide(160002);&gt;&lt;b&gt;B14 buses rerouted from Pitkin Av between Howard Av and Thomas Boyland St&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 160002 class="plannedWorkDetail" &gt;&lt;/b&gt;11 AM to 7 PM, Sunday, Jun 12&lt;br&gt;&lt;br&gt;Due to a local event, buses run via &lt;b&gt;Sutter Av &lt;/b&gt;making corresponding stops in both directions.&lt;br&gt;&lt;br&gt;&lt;b&gt;&lt;i&gt;&lt;a style="cursor:pointer; text-decoration:underline;" onclick=ShowHide(1600020);&gt;Show Reroute Details&lt;/a&gt;&lt;/i&gt;&lt;/b&gt;&lt;br&gt;&lt;div id="1600020"; style="display:none;"&gt;&lt;b&gt;Eastbound&lt;br&gt;&lt;/b&gt;Via Pitkin Av&lt;br&gt;Right on Saratoga Av&lt;br&gt;Left on Sutter Av&lt;br&gt;Left on Thomas Boyland St&lt;br&gt;Right on Pitkin Av then regular route&lt;br&gt;&lt;br&gt;&lt;b&gt;Westbound&lt;br&gt;&lt;/b&gt;Via Pitkin Av&lt;br&gt;Left on Thomas Boyland St&lt;br&gt;Right on Sutter Av&lt;br&gt;Right on Howard Av&lt;br&gt;Left on Eastern Pkwy then regular route&lt;/div&gt;&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
+                  &lt;span class="TitlePlannedWork" &gt;Planned Detour&lt;/span&gt;
+                  &lt;br/&gt;
                 &lt;a class="plannedWorkDetailLink" onclick=ShowHide(159995);&gt;&lt;b&gt;B1 buses rerouted from 86 St between 18 Av and Stillwell Av&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 159995 class="plannedWorkDetail" &gt;&lt;/b&gt;10 AM to 6 PM, Sunday, Jun 11&lt;br&gt;&lt;br&gt;Due to a local event, buses run via&lt;b&gt; Bath Av &lt;/b&gt;making corresponding stops in both directions.&lt;br&gt;&lt;br&gt;&lt;b&gt;&lt;i&gt;&lt;a style="cursor:pointer; text-decoration:underline;" onclick=ShowHide(1599950);&gt;Show Reroute Details&lt;/a&gt;&lt;/i&gt;&lt;/b&gt;&lt;br&gt;&lt;div id="1599950"; style="display:none;"&gt;&lt;b&gt;Northbound&lt;br&gt;&lt;/b&gt;Via 86 St&lt;br&gt;Left on 23 Av&lt;br&gt;Right on Bath Av&lt;br&gt;Right on 18 Av&lt;br&gt;Left on 86 St then regular route&lt;br&gt;&lt;br&gt;&lt;b&gt;Southbound&lt;br&gt;&lt;/b&gt;Via 86 St&lt;br&gt;Right on 19 Av&lt;br&gt;Left on Bath Av&lt;br&gt;Left on 25 Av&lt;br&gt;Right on Stillwell Av&lt;br&gt;Left on 86 St then regular route&lt;/div&gt;&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
               &lt;br/&gt;
               &lt;br/&gt;
@@ -334,7 +340,19 @@
             
                   &lt;span class="TitlePlannedWork" &gt;Planned Detour&lt;/span&gt;
                   &lt;br/&gt;
+                &lt;a class="plannedWorkDetailLink" onclick=ShowHide(160049);&gt;&lt;b&gt;BxM3 &lt;/b&gt;-&lt;b&gt; No service on South Broadway between New Main St and St Mary's St &lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 160049 class="plannedWorkDetail" &gt;&lt;/b&gt;11 AM to 4 PM, Sunday, Jun 11&lt;br&gt;&lt;br&gt;Due to a parade, buses operate between South Broadway at St Mary's St and 5 Av at 26 St/Madison Av at 29 St.&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
+                  &lt;span class="TitlePlannedWork" &gt;Planned Detour&lt;/span&gt;
+                  &lt;br/&gt;
                 &lt;a class="plannedWorkDetailLink" onclick=ShowHide(159870);&gt;&lt;b&gt;BxM3, BxM4 and BxM11 &lt;/b&gt;-&lt;b&gt; No southbound service on 5 Av at 29 St to 26 St &lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 159870 class="plannedWorkDetail" &gt;&lt;/b&gt;10 AM Fri to 10 PM Sun, Jun 9 - 11&lt;br&gt;&lt;br&gt;Due to a local event, buses operate between 5 Av at 29 St and S Broadway at Prospect Av in both directions.&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
+                  &lt;span class="TitlePlannedWork" &gt;Planned Detour&lt;/span&gt;
+                  &lt;br/&gt;
+                &lt;a class="plannedWorkDetailLink" onclick=ShowHide(159881);&gt;&lt;b&gt;BxM3, BxM4, BxM6, BxM7, BxM8, BxM9, BxM10 and BxM11&lt;br clear=left&gt;Southbound buses rerouted from 5 Av at 86 St to 42 St&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 159881 class="plannedWorkDetail" &gt;&lt;/b&gt;11 AM to 6 PM, Sunday, Jun 11&lt;br&gt;&lt;br&gt;Due to the &lt;a href="http://web.mta.info/nyct/service/events/PuertoRicanDayParade2017.htm"target=_blank&gt;&lt;font color=#0000FF&gt;&lt;b&gt;&lt;u&gt;Puerto Rican Day Parade&lt;/u&gt;&lt;/b&gt;&lt;/font&gt;&lt;/a&gt;, buses run via &lt;b&gt;Lexington Av &lt;/b&gt;making corresponding stops.&lt;br&gt;&lt;br&gt;&lt;b&gt;&lt;i&gt;&lt;a style="cursor:pointer; text-decoration:underline;" onclick=ShowHide(1598810);&gt;Show Reroute Details&lt;/a&gt;&lt;/i&gt;&lt;/b&gt;&lt;br&gt;&lt;div id="1598810"; style="display:none;"&gt;Via 5 Av&lt;br&gt;Left on 86 St&lt;br&gt;Right on Lexington Av&lt;br&gt;Right on 42 St&lt;br&gt;Left on 5 Av then regular route&lt;/div&gt;&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
               &lt;br/&gt;
               &lt;br/&gt;
             
@@ -442,7 +460,7 @@
               &lt;br/&gt;
             </text>
     <Date>06/11/2017</Date>
-    <Time>10:52AM</Time>
+    <Time>11:02AM</Time>
   </line>
   <line>
     <name>Q1 - Q113</name>
@@ -509,7 +527,7 @@
               &lt;br/&gt;
             </text>
     <Date>06/11/2017</Date>
-    <Time>10:52AM</Time>
+    <Time>11:02AM</Time>
   </line>
   <line>
     <name>QM1 - QM44</name>
@@ -528,7 +546,7 @@
               &lt;br/&gt;
             </text>
     <Date>06/11/2017</Date>
-    <Time>10:52AM</Time>
+    <Time>11:02AM</Time>
   </line>
   <line>
     <name>S40 - S98</name>
@@ -554,12 +572,6 @@
                   &lt;span class="TitlePlannedWork" &gt;Planned Detour&lt;/span&gt;
                   &lt;br/&gt;
                 &lt;a class="plannedWorkDetailLink" onclick=ShowHide(160070);&gt;&lt;b&gt;S57 &lt;/b&gt;- &lt;b&gt;No service on New Dorp Ln and Rose Av between Richmond Rd and S Railroad Av&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 160070 class="plannedWorkDetail" &gt;&lt;/b&gt;10 AM to 12 noon, Sunday, Jun 11&lt;br&gt;&lt;br&gt;Due to a local event, buses operate in two sections:&lt;br&gt;&lt;br&gt;1.  Between Richmond Rd at Amboy Rd and Ebbitts St at Hylan Blvd.&lt;br&gt;2.  Between Richmond Terr at Park Av and Richmond Rd at Amboy Rd.&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
-              &lt;br/&gt;
-              &lt;br/&gt;
-            
-                  &lt;span class="TitlePlannedWork" &gt;Planned Detour&lt;/span&gt;
-                  &lt;br/&gt;
-                &lt;a class="plannedWorkDetailLink" onclick=ShowHide(160034);&gt;&lt;b&gt;S51 &lt;/b&gt;- &lt;b&gt;No service on Midland Av/Lincoln Av between Hylan Blvd and Richmond Rd&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 160034 class="plannedWorkDetail" &gt;&lt;/b&gt;9 AM to 11 AM, Sunday, Jun 11&lt;br&gt;&lt;br&gt;Due to a local event, buses operate between Midland Av at Hylan Blvd and the St. George Ferry Terminal in both directions.&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
               &lt;br/&gt;
               &lt;br/&gt;
             
@@ -599,9 +611,21 @@
                 &lt;a class="plannedWorkDetailLink" onclick=ShowHide(160029);&gt;&lt;b&gt;X10, X17C, X27 and X28 &lt;/b&gt;- &lt;b&gt;Northbound buses rerouted from Madison Av at 23 St to 34 St&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 160029 class="plannedWorkDetail" &gt;&lt;/b&gt;11 AM Sat to 6 PM Sun, Jun 10 - 11&lt;br&gt;&lt;br&gt;Due to a local event, buses run via &lt;b&gt;3 Av &lt;/b&gt;making corresponding stops.&lt;br&gt;&lt;br&gt;&lt;b&gt;&lt;i&gt;&lt;a style="cursor:pointer; text-decoration:underline;" onclick=ShowHide(1600290);&gt;Show Reroute Details&lt;/a&gt;&lt;/i&gt;&lt;/b&gt;&lt;br&gt;&lt;div id="1600290"; style="display:none;"&gt;Via 23 St&lt;br&gt;Left on 3 Av&lt;br&gt;Left on 34 St&lt;br&gt;Right on Madison Av then regular route&lt;/div&gt;&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
               &lt;br/&gt;
               &lt;br/&gt;
+            
+                  &lt;span class="TitlePlannedWork" &gt;Planned Detour&lt;/span&gt;
+                  &lt;br/&gt;
+                &lt;a class="plannedWorkDetailLink" onclick=ShowHide(160022);&gt;&lt;b&gt;X10, X17C, X27 and X28 &lt;/b&gt;- &lt;b&gt;Southbound buses rerouted from 5 Av at 57 St to 42 St&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 160022 class="plannedWorkDetail" &gt;&lt;/b&gt;11 AM to 6 PM, Sunday, Jun 11&lt;br&gt;&lt;br&gt;Due to the &lt;a href="http://web.mta.info/nyct/service/events/PuertoRicanDayParade2017.htm"target=_blank&gt;&lt;font color=#0000FF&gt;&lt;b&gt;&lt;u&gt;Puerto Rican Day Parade&lt;/u&gt;&lt;/b&gt;&lt;/font&gt;&lt;/a&gt;, buses run via &lt;b&gt;Lexington Av &lt;/b&gt;making corresponding stops.&lt;br&gt;&lt;br&gt;&lt;b&gt;&lt;i&gt;&lt;a style="cursor:pointer; text-decoration:underline;" onclick=ShowHide(1600220);&gt;Show Reroute Details&lt;/a&gt;&lt;/i&gt;&lt;/b&gt;&lt;br&gt;&lt;div id="1600220"; style="display:none;"&gt;&lt;b&gt;X10 and X17C&lt;br&gt;&lt;/b&gt;Via 57 St&lt;br&gt;Left on Lexington Av&lt;br&gt;Right on 42 St&lt;br&gt;Left on 5 Av then regular route&lt;br&gt;&lt;br&gt;&lt;b&gt;X27 and X28&lt;br&gt;&lt;/b&gt;Via 57 St&lt;br&gt;Right on Lexington Av&lt;br&gt;Right on 42 St&lt;br&gt;Left on 5 Av then regular route&lt;/div&gt;&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
+                  &lt;span class="TitlePlannedWork" &gt;Planned Detour&lt;/span&gt;
+                  &lt;br/&gt;
+                &lt;a class="plannedWorkDetailLink" onclick=ShowHide(160018);&gt;&lt;b&gt;X1&lt;/b&gt; - &lt;b&gt;Southbound buses rerouted from 5 Av at 50 St to 42 St&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 160018 class="plannedWorkDetail" &gt;&lt;/b&gt;11 AM to 6 PM, Sunday, Jun 11&lt;br&gt;&lt;br&gt;Due to the &lt;a href="http://web.mta.info/nyct/service/events/PuertoRicanDayParade2017.htm"target=_blank&gt;&lt;font color=#0000FF&gt;&lt;b&gt;&lt;u&gt;Puerto Rican Day Parade&lt;/u&gt;&lt;/b&gt;&lt;/font&gt;&lt;/a&gt;, buses run via &lt;b&gt;7 Av &lt;/b&gt;making corresponding stops.&lt;br&gt;&lt;br&gt;&lt;i&gt;Reroute Details&lt;br&gt;&lt;/i&gt;Via 7 Av&lt;br&gt;Left on 42 St&lt;br&gt;Right on 5 Av then regular route&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
             </text>
     <Date>06/11/2017</Date>
-    <Time>10:52AM</Time>
+    <Time>11:02AM</Time>
   </line>
 </bus><BT>
   <line>
