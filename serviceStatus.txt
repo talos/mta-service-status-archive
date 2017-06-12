@@ -1,8 +1,15 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>SERVICE CHANGE</status>
+    <status>DELAYS</status>
     <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;06/12/2017&amp;nbsp; 8:16AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  Following an earlier incident at &lt;STRONG&gt;Chambers St&lt;/STRONG&gt;, [2] and [3] train service has resumed with delays.
+                &lt;br/&gt;&lt;br/&gt;
+              
                     &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
                     &amp;nbsp;Posted:&amp;nbsp;06/12/2017&amp;nbsp; 8:10AM
@@ -13,17 +20,9 @@
 &lt;P&gt;&lt;STRONG&gt;Utica Av Bound&lt;/STRONG&gt;: Via New Lots Av, right on Ashford St, right on Hegeman Av, right on Van Siclen Av, left on Livonia Av and regular route.&lt;/P&gt;
 &lt;P&gt;Allow additional travel time.&lt;/P&gt;
                 &lt;br/&gt;&lt;br/&gt;
-              
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;06/12/2017&amp;nbsp; 8:07AM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  &lt;P&gt;Due to signal problems at &lt;STRONG&gt;Chambers St, &lt;/STRONG&gt;southbound [2] and [3] trains are running with delays.   &lt;/P&gt;
-&lt;P&gt;Allow additional travel time.&lt;/P&gt;
-                &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>06/12/2017</Date>
-    <Time> 8:10AM</Time>
+    <Time> 8:16AM</Time>
   </line>
   <line>
     <name>456</name>
@@ -52,19 +51,19 @@
     <text>
                     &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;06/12/2017&amp;nbsp; 8:10AM
+                    &amp;nbsp;Posted:&amp;nbsp;06/12/2017&amp;nbsp; 8:15AM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
                   &lt;P&gt;Due to an ongoing rail condition between &lt;STRONG&gt;Queensboro Plaza&lt;/STRONG&gt; and &lt;STRONG&gt;Lexington Av-59 St&lt;/STRONG&gt;, the following service changes are in effect: &lt;/P&gt;
 &lt;P&gt;Southbound [R] trains are running on the [F] line from &lt;STRONG&gt;Jackson Heights-Roosevelt Av&lt;/STRONG&gt; to &lt;STRONG&gt;Lexington Av-63 St&lt;/STRONG&gt; then via [Q] line to &lt;STRONG&gt;57 St-7 Av&lt;/STRONG&gt;.&lt;/P&gt;
 &lt;P&gt;Some southbound [B] trains are running local from &lt;STRONG&gt;Prospect Park&lt;/STRONG&gt; to &lt;STRONG&gt;Coney Island-Stillwell Av&lt;/STRONG&gt;.&lt;/P&gt;
 &lt;P&gt;Some southbound [D] trains are running on the [R] line from &lt;STRONG&gt;36 St &lt;/STRONG&gt;(Brooklyn) to &lt;STRONG&gt;Bay Ridge-95 St&lt;/STRONG&gt;.&lt;/P&gt;
 &lt;P&gt;Some southbound [Q] trains are running on the [D] line from &lt;STRONG&gt;DeKalb Av&lt;/STRONG&gt; to &lt;STRONG&gt;Coney Island-Stillwell Av&lt;/STRONG&gt;.&lt;/P&gt;
-&lt;P&gt;Expect delays in [B], [D], [F], [N], [Q], [R] and [W] train service.&lt;/P&gt;
+&lt;P&gt;Expect delays in [B], [D], [F], [M], [N], [Q], [R] and [W] train service.&lt;/P&gt;
 &lt;P&gt;Allow additional travel time. &lt;/P&gt;
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>06/12/2017</Date>
-    <Time> 8:10AM</Time>
+    <Time> 8:15AM</Time>
   </line>
   <line>
     <name>G</name>
@@ -93,19 +92,19 @@
     <text>
                     &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;06/12/2017&amp;nbsp; 8:10AM
+                    &amp;nbsp;Posted:&amp;nbsp;06/12/2017&amp;nbsp; 8:15AM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
                   &lt;P&gt;Due to an ongoing rail condition between &lt;STRONG&gt;Queensboro Plaza&lt;/STRONG&gt; and &lt;STRONG&gt;Lexington Av-59 St&lt;/STRONG&gt;, the following service changes are in effect: &lt;/P&gt;
 &lt;P&gt;Southbound [R] trains are running on the [F] line from &lt;STRONG&gt;Jackson Heights-Roosevelt Av&lt;/STRONG&gt; to &lt;STRONG&gt;Lexington Av-63 St&lt;/STRONG&gt; then via [Q] line to &lt;STRONG&gt;57 St-7 Av&lt;/STRONG&gt;.&lt;/P&gt;
 &lt;P&gt;Some southbound [B] trains are running local from &lt;STRONG&gt;Prospect Park&lt;/STRONG&gt; to &lt;STRONG&gt;Coney Island-Stillwell Av&lt;/STRONG&gt;.&lt;/P&gt;
 &lt;P&gt;Some southbound [D] trains are running on the [R] line from &lt;STRONG&gt;36 St &lt;/STRONG&gt;(Brooklyn) to &lt;STRONG&gt;Bay Ridge-95 St&lt;/STRONG&gt;.&lt;/P&gt;
 &lt;P&gt;Some southbound [Q] trains are running on the [D] line from &lt;STRONG&gt;DeKalb Av&lt;/STRONG&gt; to &lt;STRONG&gt;Coney Island-Stillwell Av&lt;/STRONG&gt;.&lt;/P&gt;
-&lt;P&gt;Expect delays in [B], [D], [F], [N], [Q], [R] and [W] train service.&lt;/P&gt;
+&lt;P&gt;Expect delays in [B], [D], [F], [M], [N], [Q], [R] and [W] train service.&lt;/P&gt;
 &lt;P&gt;Allow additional travel time. &lt;/P&gt;
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>06/12/2017</Date>
-    <Time> 8:10AM</Time>
+    <Time> 8:15AM</Time>
   </line>
   <line>
     <name>S</name>
@@ -410,8 +409,15 @@
   </line>
   <line>
     <name>Hugh L. Carey</name>
-    <status>PLANNED WORK</status>
+    <status>SERVICE CHANGE</status>
     <text>
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;06/12/2017&amp;nbsp; 8:15AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;body bgcolor='White' style='font-family:sans-serif;font-size:10pt;'&gt;&lt;P style="MARGIN: 0in 0in 0pt"&gt;&lt;FONT size=3 face=Calibri&gt;HUGH L. CAREY TUNNEL WILL HAVE 24/7 LANE CLOSURES ACROSS THE BROOKLYN PLAZA FOR ROADWAY RESTORATION. MOTORIST SHOULD EXPECT DELAYS AND ALLOW ADDITIONAL TRAVEL TIME.  &lt;/FONT&gt;&lt;/P&gt;&lt;/body&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              
                     &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
                     &lt;br/&gt;
                   HLC - HOV LANE OPEN 6 AM TO 10 AM. TWO WAY OPERATIONS IN EFFECT. THREE (3) LANES MANHATTAN BOUND. ONE (1) LANE BROOKLYN BOUND.
@@ -426,16 +432,9 @@
                     &lt;br/&gt;
                   HLC: CLINTON STREET ENTRANCE RAMP CLOSED FOR APPROXIMATELY THREE WEEKS. ALTERNATE NORTH BOUND HAMILTON AVENUE ENTRANCE RAMP WILL BE TEMPORARILY REOPENED.
                 &lt;br/&gt;&lt;br/&gt;
-              
-                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;06/08/2017&amp;nbsp; 5:45PM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  &lt;P style="MARGIN: 0in 0in 0pt"&gt;&lt;FONT size=3 face=Calibri&gt;HUGH L. CAREY TUNNEL WILL HAVE 24/7 LANE CLOSURES ACROSS THE BROOKLYN PLAZA FOR ROADWAY RESTORATION. MOTORIST SHOULD EXPECT DELAYS AND ALLOW ADDITIONAL TRAVEL TIME.  &lt;/FONT&gt;&lt;/P&gt;
-                &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>06/12/2017</Date>
-    <Time> 5:55AM</Time>
+    <Time> 8:15AM</Time>
   </line>
   <line>
     <name>Marine Parkway</name>
@@ -450,21 +449,21 @@
     <text>
                     &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;06/12/2017&amp;nbsp; 6:08AM
+                    &amp;nbsp;Posted:&amp;nbsp;06/12/2017&amp;nbsp; 8:15AM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  QMT - HOV Lane Open 6 AM to 10 AM. Two-Way Operations in effect. Three (3) lanes Manhattan-bound. One (1) lane Queens-bound.
+                  &lt;body bgcolor='White' style='font-family:sans-serif;font-size:10pt;'&gt;&lt;P&gt;QMT: MANHATTAN EXIT PLAZA CLOSURE OF "DOWNTOWN" LANES FOR THREE MONTHS.&lt;/P&gt;
+&lt;P&gt;For approximately three months, the two right "Downtown" exit lanes at the Manhattan plaza of the Queens Midtown Tunnel will be closed for the final stage of exit plaza roadway rehabilitation. Customers traveling Downtown can use the four open and newly resurfaced "Uptown" or "Crosstown" exit lanes, or the left "Downtown" exit lane, which will remain open during this period. In addition, East 37th Street between Tunnel Exit and 2nd Avenue has been temporarily converted to receive two-way traffic, to accommodate motorists exiting the tunnel from the Uptown lanes and seeking a Downtown route via 2nd Avenue.&lt;/P&gt;&lt;/body&gt;
                 &lt;br/&gt;&lt;br/&gt;
               
                     &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;06/08/2017&amp;nbsp; 5:45PM
+                    &amp;nbsp;Posted:&amp;nbsp;06/12/2017&amp;nbsp; 6:08AM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  &lt;P&gt;QMT: MANHATTAN EXIT PLAZA CLOSURE OF "DOWNTOWN" LANES FOR THREE MONTHS.&lt;/P&gt;
-&lt;P&gt;For approximately three months, the two right "Downtown" exit lanes at the Manhattan plaza of the Queens Midtown Tunnel will be closed for the final stage of exit plaza roadway rehabilitation. Customers traveling Downtown can use the four open and newly resurfaced "Uptown" or "Crosstown" exit lanes, or the left "Downtown" exit lane, which will remain open during this period. In addition, East 37th Street between Tunnel Exit and 2nd Avenue has been temporarily converted to receive two-way traffic, to accommodate motorists exiting the tunnel from the Uptown lanes and seeking a Downtown route via 2nd Avenue.&lt;/P&gt;
+                  QMT - HOV Lane Open 6 AM to 10 AM. Two-Way Operations in effect. Three (3) lanes Manhattan-bound. One (1) lane Queens-bound.
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>06/12/2017</Date>
-    <Time> 6:08AM</Time>
+    <Time> 8:15AM</Time>
   </line>
   <line>
     <name>Robert F. Kennedy</name>
@@ -599,15 +598,18 @@ from Far Rockaway due Penn at 9:05AM. These trains will make added stops
     <text>
                     &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;06/12/2017&amp;nbsp; 8:07AM
+                    &amp;nbsp;Posted:&amp;nbsp;06/12/2017&amp;nbsp; 8:16AM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  &lt;p&gt;&lt;strong&gt;&lt;u&gt;Westbound:&lt;/u&gt;&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The 5:39AM train from Montauk due Long Island City at 8:44AM is operating 10 minutes late due to congestion caused by a late train ahead. &lt;/p&gt;
-&lt;p&gt;The 6:21AM train from Speonk due Penn at 8:23AM will be canceled at Jamaica Station due to equipment trouble. Customers can transfer at Jamaica for Kew Gardens and all stops west. &lt;/p&gt;
-&lt;p&gt;The 7:01AM train from Patchogue due Babylon at 7:31AM is operating 27 minutes late due to a late train ahead. &lt;/p&gt;&lt;p&gt;&lt;strong&gt;&lt;u&gt;Eastbound:&lt;/u&gt;&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The 7:55AM train from Babylon due Patchogue at 8:25AM is being held prior to departure at Babylon Station due to late-arriving equipment.&lt;/p&gt;
+                  &lt;P&gt;&lt;STRONG&gt;&lt;U&gt;Westbound:&lt;/U&gt;&lt;/STRONG&gt;&lt;/P&gt;
+&lt;P&gt;The 5:39AM train from Montauk due Long Island City at 8:44AM is operating 10 minutes late due to congestion caused by a late train ahead. &lt;/P&gt;
+&lt;P&gt;The 6:21AM train from Speonk due Penn at 8:23AM will be canceled at Jamaica Station due to equipment trouble. Customers can transfer at Jamaica for Kew Gardens and all stops west. &lt;/P&gt;
+&lt;P&gt;The 7:01AM train from Patchogue due Babylon at 7:31AM is operating 27 minutes late due to a late train ahead. &lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;&lt;U&gt;Eastbound:&lt;/U&gt;&lt;/STRONG&gt;&lt;/P&gt;
+&lt;P&gt;The 7:55AM train from Babylon due Patchogue at 8:25AM is operating 17 minutes late due to late-arriving equipment. &lt;/P&gt;
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>06/12/2017</Date>
-    <Time> 8:07AM</Time>
+    <Time> 8:16AM</Time>
   </line>
   <line>
     <name>Oyster Bay</name>
