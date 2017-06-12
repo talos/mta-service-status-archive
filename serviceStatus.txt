@@ -19,17 +19,10 @@
   </line>
   <line>
     <name>456</name>
-    <status>DELAYS</status>
-    <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;06/12/2017&amp;nbsp; 6:18PM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  Due to an earlier incident at &lt;STRONG&gt;Astor Pl&lt;/STRONG&gt;, [6] train service has resumed with delays.
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>06/12/2017</Date>
-    <Time> 6:18PM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>7</name>
@@ -51,6 +44,14 @@
     <text>
                     &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;06/12/2017&amp;nbsp; 6:39PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;P&gt;Due to signal problems at&lt;STRONG&gt; 145 St&lt;/STRONG&gt;, southbound [C] trains are running with delays.&lt;/P&gt;
+&lt;P&gt;Allow additional travel time.&lt;/P&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
                     &amp;nbsp;Posted:&amp;nbsp;06/12/2017&amp;nbsp; 6:12PM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
                   &lt;P&gt;Due to signal problems at &lt;STRONG&gt;Jamaica Van Wyck&lt;/STRONG&gt;, southbound [E] trains are running with delays.&lt;/P&gt;
@@ -58,7 +59,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>06/12/2017</Date>
-    <Time> 6:12PM</Time>
+    <Time> 6:39PM</Time>
   </line>
   <line>
     <name>BDFM</name>
@@ -763,10 +764,17 @@
   </line>
   <line>
     <name>Montauk</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>DELAYS</status>
+    <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;06/12/2017&amp;nbsp; 6:39PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  The 6:17PM train from Jamaica due Montauk at 9:07PM is operating 11 minutes late after accommodating customers from a late-arriving connection.
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>06/12/2017</Date>
+    <Time> 6:39PM</Time>
   </line>
   <line>
     <name>Oyster Bay</name>
