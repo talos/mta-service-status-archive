@@ -1,15 +1,8 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>DELAYS</status>
+    <status>SERVICE CHANGE</status>
     <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;06/13/2017&amp;nbsp; 9:43AM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  Following an earlier incident at &lt;STRONG&gt;Clark St&lt;/STRONG&gt;, [2] and [3] train service has resumed with delays.
-                &lt;br/&gt;&lt;br/&gt;
-              
                     &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
                     &amp;nbsp;Posted:&amp;nbsp;06/13/2017&amp;nbsp; 8:14AM
@@ -22,7 +15,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>06/13/2017</Date>
-    <Time> 9:43AM</Time>
+    <Time> 8:14AM</Time>
   </line>
   <line>
     <name>456</name>
@@ -33,17 +26,10 @@
   </line>
   <line>
     <name>7</name>
-    <status>DELAYS</status>
-    <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;06/13/2017&amp;nbsp; 9:45AM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  Following an earlier incident at &lt;STRONG&gt;Mets-Willets Point&lt;/STRONG&gt;, [7] train service has resumed with delays.
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>06/13/2017</Date>
-    <Time> 9:45AM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>ACE</name>
@@ -602,6 +588,11 @@
     <text>
                     &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
                     &lt;br/&gt;
+                  &lt;body bgcolor='White' style='font-family:sans-serif;font-size:10pt;'&gt;RFK: PLANNED WORK; QUEENS BOUND / QUEENS SPAN. ONE LANE CLOSED. EXPECT DELAYS.&lt;/body&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              
+                    &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
+                    &lt;br/&gt;
                   &lt;body bgcolor='White' style='font-family:sans-serif;font-size:10pt;'&gt;RFK: PLANNED WORK; BRONX BOUND. ONE LANE CLOSED ON THE BRONX SPAN. EXPECT DELAYS.&lt;/body&gt;
                 &lt;br/&gt;&lt;br/&gt;
               
@@ -616,7 +607,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>06/13/2017</Date>
-    <Time> 9:52AM</Time>
+    <Time> 9:56AM</Time>
   </line>
   <line>
     <name>Throgs Neck</name>
