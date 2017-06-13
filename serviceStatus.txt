@@ -26,17 +26,10 @@
   </line>
   <line>
     <name>7</name>
-    <status>DELAYS</status>
-    <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;06/12/2017&amp;nbsp; 8:32PM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  Following an earlier incident at &lt;STRONG&gt;111 St&lt;/STRONG&gt;, [7] and [7D] express train service has resumed with delays.
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>06/12/2017</Date>
-    <Time> 8:32PM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>ACE</name>
@@ -617,8 +610,13 @@
   </line>
   <line>
     <name>Queens Midtown</name>
-    <status>SERVICE CHANGE</status>
+    <status>PLANNED WORK</status>
     <text>
+                    &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
+                    &lt;br/&gt;
+                  QMT: PLANNED WORK; ONE TUBE CLOSED AND THE REMAINING TUBE WILL RUN TWO-WAY TRAFFIC OPERATIONS. MOTORIST SHOULD ALLOW EXTRA TIME AND MAY WISH TO USE AN ALTERNATE ROUTE.
+                &lt;br/&gt;&lt;br/&gt;
+              
                     &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
                     &amp;nbsp;Posted:&amp;nbsp;06/12/2017&amp;nbsp; 8:15AM
@@ -628,7 +626,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>06/12/2017</Date>
-    <Time> 8:15AM</Time>
+    <Time> 9:27PM</Time>
   </line>
   <line>
     <name>Robert F. Kennedy</name>
