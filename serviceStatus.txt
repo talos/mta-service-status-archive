@@ -40,10 +40,18 @@
   </line>
   <line>
     <name>BDFM</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>DELAYS</status>
+    <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;06/13/2017&amp;nbsp; 6:00AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;P&gt;Due to switch problems at &lt;STRONG&gt;Church Av&lt;/STRONG&gt;, southbound [F] trains are running with delays.   &lt;/P&gt;
+&lt;P&gt;Allow additional travel time.&lt;/P&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>06/13/2017</Date>
+    <Time> 6:00AM</Time>
   </line>
   <line>
     <name>G</name>
@@ -68,17 +76,10 @@
   </line>
   <line>
     <name>NQR</name>
-    <status>DELAYS</status>
-    <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;06/13/2017&amp;nbsp; 5:01AM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  Following an earlier incident between &lt;STRONG&gt;Queensboro Plaza&lt;/STRONG&gt; and &lt;STRONG&gt;Lexington Av-59 St&lt;/STRONG&gt;, [R] and [N] train service has resumed with delays.
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>06/13/2017</Date>
-    <Time> 5:01AM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>S</name>
@@ -172,22 +173,12 @@
               &lt;br/&gt;
             </text>
     <Date>06/13/2017</Date>
-    <Time> 5:52AM</Time>
+    <Time> 6:02AM</Time>
   </line>
   <line>
     <name>M1 - M116</name>
-    <status>DELAYS</status>
+    <status>SERVICE CHANGE</status>
     <text>
-                  &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                  &lt;span class="DateStyle"&gt;
-                  &amp;nbsp;Posted:&amp;nbsp;06/13/2017&amp;nbsp; 5:43AM
-                  &lt;/span&gt;
-                  &lt;br/&gt;
-                  &lt;br/&gt;
-                Following an earlier incident on 79 St, &lt;STRONG&gt;M79-SBS&lt;/STRONG&gt; bus service has resumed with delays.
-              &lt;br/&gt;
-              &lt;br/&gt;
-            
                   &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
                   &lt;span class="DateStyle"&gt;
                   &amp;nbsp;Posted:&amp;nbsp;06/13/2017&amp;nbsp;12:08AM
@@ -235,9 +226,15 @@
                 &lt;a class="plannedWorkDetailLink" onclick=ShowHide(158974);&gt;&lt;b&gt;M11&lt;/b&gt; - &lt;b&gt;Northbound buses bypass the stop on 14 St at Washington St&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 158974 class="plannedWorkDetail" &gt;&lt;/b&gt;Until further notice&lt;br&gt;&lt;br&gt;Due to construction, please follow directional signage to nearby stops &lt;b&gt;on 14 St &lt;/b&gt;at 9 Av or &lt;b&gt;10 Av &lt;/b&gt;at 16 St.&lt;br&gt;&lt;b&gt;                              [TP]&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
               &lt;br/&gt;
               &lt;br/&gt;
+            
+                  &lt;span class="TitlePlannedWork" &gt;Planned Detour&lt;/span&gt;
+                  &lt;br/&gt;
+                &lt;a class="plannedWorkDetailLink" onclick=ShowHide(159898);&gt;&lt;b&gt;M35 and M103&lt;/b&gt; - &lt;b&gt;West/Southbound buses rerouted from 125 St at 3 Av to Lexington Av&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 159898 class="plannedWorkDetail" &gt;&lt;/b&gt;6 AM Tue to 6 PM Thu, Jun 13 - 15&lt;br&gt;&lt;br&gt;Due to a crane operation, buses run via &lt;b&gt;127 St &lt;/b&gt;making corresponding stops.&lt;br&gt;&lt;br&gt;&lt;i&gt;Reroute Details&lt;br&gt;&lt;/i&gt;&lt;b&gt;M35&lt;br&gt;&lt;/b&gt;Via126 St&lt;br&gt;Right on 3 Av&lt;br&gt;Left on 127 St&lt;br&gt;Left on Lexington Av then regular route&lt;br&gt;&lt;br&gt;&lt;b&gt;M103&lt;br&gt;&lt;/b&gt;Via 3 Av&lt;br&gt;Left on 127 St&lt;br&gt;Left on Lexington Av then regular route&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
             </text>
     <Date>06/13/2017</Date>
-    <Time> 5:43AM</Time>
+    <Time>12:08AM</Time>
   </line>
   <line>
     <name>Q1 - Q113</name>
@@ -257,6 +254,12 @@
                   &lt;span class="TitlePlannedWork" &gt;Planned Detour&lt;/span&gt;
                   &lt;br/&gt;
                 &lt;a class="plannedWorkDetailLink" onclick=ShowHide(153845);&gt;&lt;b&gt;Q65/Q65 &lt;/b&gt;LTD&lt;b&gt; &lt;/b&gt;-&lt;b&gt; Southbound stop on Main St at Roosevelt Av temporarily relocated &lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 153845 class="plannedWorkDetail" &gt;&lt;/b&gt;Until further notice&lt;br&gt;&lt;br&gt;Due to construction, please use the nearby stop on the far side of &lt;b&gt;Kissena Blvd &lt;/b&gt;at Main St.&lt;br&gt;&lt;br&gt;&lt;b&gt;Reminder&lt;/b&gt;: &lt;a href=http://web.mta.info/busco/schedules/q065cur.pdf target=_blank&gt;&lt;font color=#0000FF&gt;&lt;b&gt;&lt;u&gt;Q65 LTD&lt;/u&gt;&lt;/b&gt;&lt;/font&gt;&lt;/a&gt; buses do not operate weekends or overnight.&lt;br&gt;&lt;b&gt;                              [TP]&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
+                  &lt;span class="TitlePlannedWork" &gt;Planned Detour&lt;/span&gt;
+                  &lt;br/&gt;
+                &lt;a class="plannedWorkDetailLink" onclick=ShowHide(147045);&gt;&lt;b&gt;Q38, Q39, Q54, Q58/Q58 &lt;/b&gt;LTD&lt;b&gt;, Q67, QM24, QM25 and QM34 buses may experience delays&lt;br clear=left&gt;due to construction on Metropolitan Av at Fresh Pond Rd&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 147045 class="plannedWorkDetail" &gt;&lt;/b&gt;6 AM to 9 AM  &amp;bull;&lt;/font&gt;  2:30 PM to 8 PM, until further notice&lt;br&gt;&lt;br&gt;&amp;bull; Please allow additional travel time.&lt;br&gt;&lt;/font&gt;&lt;b&gt;          &lt;/b&gt;&lt;/font&gt;&lt;a href=http://bustime.mta.info/ target=_blank&gt;&lt;img height=30px src=http://web.mta.info/nyct/images/Bus_Time_logo.png&gt;&lt;/a&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
               &lt;br/&gt;
               &lt;br/&gt;
             
@@ -305,12 +308,18 @@
     <text>
                   &lt;span class="TitlePlannedWork" &gt;Planned Detour&lt;/span&gt;
                   &lt;br/&gt;
+                &lt;a class="plannedWorkDetailLink" onclick=ShowHide(147045);&gt;&lt;b&gt;Q38, Q39, Q54, Q58/Q58 &lt;/b&gt;LTD&lt;b&gt;, Q67, QM24, QM25 and QM34 buses may experience delays&lt;br clear=left&gt;due to construction on Metropolitan Av at Fresh Pond Rd&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 147045 class="plannedWorkDetail" &gt;&lt;/b&gt;6 AM to 9 AM  &amp;bull;&lt;/font&gt;  2:30 PM to 8 PM, until further notice&lt;br&gt;&lt;br&gt;&amp;bull; Please allow additional travel time.&lt;br&gt;&lt;/font&gt;&lt;b&gt;          &lt;/b&gt;&lt;/font&gt;&lt;a href=http://bustime.mta.info/ target=_blank&gt;&lt;img height=30px src=http://web.mta.info/nyct/images/Bus_Time_logo.png&gt;&lt;/a&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
+                  &lt;span class="TitlePlannedWork" &gt;Planned Detour&lt;/span&gt;
+                  &lt;br/&gt;
                 &lt;a class="plannedWorkDetailLink" onclick=ShowHide(152128);&gt;&lt;b&gt;Q27/Q27 &lt;/b&gt;LTD&lt;b&gt;, Q30, QM5 and QM35 buses may experience delays&lt;br clear=left&gt;due to construction on Springfield Blvd between Horace Harding Expy and 56 Av&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 152128 class="plannedWorkDetail" &gt;&lt;/b&gt;Until further notice&lt;br&gt;&lt;br&gt;&amp;bull; Please allow additional travel time.&lt;br&gt;&lt;/font&gt;&lt;b&gt;          &lt;/b&gt;&lt;/font&gt;&lt;a href=http://bustime.mta.info/ target=_blank&gt;&lt;img height=30px src=http://web.mta.info/nyct/images/Bus_Time_logo.png&gt;&lt;/a&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
               &lt;br/&gt;
               &lt;br/&gt;
             </text>
     <Date>06/13/2017</Date>
-    <Time> 5:52AM</Time>
+    <Time> 6:02AM</Time>
   </line>
   <line>
     <name>S40 - S98</name>
@@ -413,18 +422,8 @@
   </line>
   <line>
     <name>Queens Midtown</name>
-    <status>PLANNED WORK</status>
+    <status>SERVICE CHANGE</status>
     <text>
-                    &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
-                    &lt;br/&gt;
-                  &lt;body bgcolor='White' style='font-family:sans-serif;font-size:10pt;'&gt;QMT: PLANNED WORK CLEARED.&lt;/body&gt;
-                &lt;br/&gt;&lt;br/&gt;
-              
-                    &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
-                    &lt;br/&gt;
-                  QMT: PLANNED WORK; ONE TUBE CLOSED AND THE REMAINING TUBE WILL RUN TWO-WAY TRAFFIC OPERATIONS. MOTORIST SHOULD ALLOW EXTRA TIME AND MAY WISH TO USE AN ALTERNATE ROUTE.
-                &lt;br/&gt;&lt;br/&gt;
-              
                     &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
                     &amp;nbsp;Posted:&amp;nbsp;06/12/2017&amp;nbsp; 8:15AM
@@ -433,8 +432,8 @@
 &lt;P&gt;For approximately three months, the two right "Downtown" exit lanes at the Manhattan plaza of the Queens Midtown Tunnel will be closed for the final stage of exit plaza roadway rehabilitation. Customers traveling Downtown can use the four open and newly resurfaced "Uptown" or "Crosstown" exit lanes, or the left "Downtown" exit lane, which will remain open during this period. In addition, East 37th Street between Tunnel Exit and 2nd Avenue has been temporarily converted to receive two-way traffic, to accommodate motorists exiting the tunnel from the Uptown lanes and seeking a Downtown route via 2nd Avenue.&lt;/P&gt;&lt;/body&gt;
                 &lt;br/&gt;&lt;br/&gt;
               </text>
-    <Date>06/13/2017</Date>
-    <Time> 5:56AM</Time>
+    <Date>06/12/2017</Date>
+    <Time> 8:15AM</Time>
   </line>
   <line>
     <name>Robert F. Kennedy</name>
