@@ -1,10 +1,17 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>DELAYS</status>
+    <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;06/15/2017&amp;nbsp; 8:17PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  Due to an earlier incident at &lt;STRONG&gt;Times Sq-42 St&lt;/STRONG&gt;, [1] train service has resumed with delays.
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>06/15/2017</Date>
+    <Time> 8:17PM</Time>
   </line>
   <line>
     <name>456</name>
@@ -29,10 +36,18 @@
   </line>
   <line>
     <name>BDFM</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>DELAYS</status>
+    <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;06/15/2017&amp;nbsp; 8:16PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;P&gt;Due to an investigation at &lt;STRONG&gt;Fort Hamilton Parkway,&lt;/STRONG&gt; southbound [D] trains are running with delays. &lt;/P&gt;
+&lt;P&gt;Allow additional travel time. &lt;/P&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>06/15/2017</Date>
+    <Time> 8:16PM</Time>
   </line>
   <line>
     <name>G</name>
@@ -127,17 +142,16 @@
     <text>
                   &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                   &lt;span class="DateStyle"&gt;
-                  &amp;nbsp;Posted:&amp;nbsp;06/15/2017&amp;nbsp; 8:05PM
+                  &amp;nbsp;Posted:&amp;nbsp;06/15/2017&amp;nbsp; 8:16PM
                   &lt;/span&gt;
                   &lt;br/&gt;
                   &lt;br/&gt;
-                &lt;P&gt;&lt;STRONG&gt;BM1, BM2, BM3, BM4, X1, X2, X3, X4, X5, X8, X9, X10, X11, X12, X17, X18, X27, X28, X37 &lt;/STRONG&gt;and&lt;STRONG&gt; X38 &lt;/STRONG&gt;buses are running with delays in both directions due to traffic conditions in the vicinity of the Hugh Carey Tunnel. &lt;/P&gt;
-&lt;P&gt;Allow additional travel time.&lt;/P&gt;
+                Following an earlier incident at the Hugh Carey Tunnel, &lt;STRONG&gt;BM1, BM2, BM3, BM4, X1, X2, X3, X4, X5, X8, X9, X10, X11, X12, X17, X18, X27, X28, X37 &lt;/STRONG&gt;and&lt;STRONG&gt; X38 &lt;/STRONG&gt;bus service has resumed with delays.
               &lt;br/&gt;
               &lt;br/&gt;
             </text>
     <Date>06/15/2017</Date>
-    <Time> 8:05PM</Time>
+    <Time> 8:16PM</Time>
   </line>
   <line>
     <name>BX1 - BX55</name>
@@ -386,6 +400,16 @@
     <text>
                   &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                   &lt;span class="DateStyle"&gt;
+                  &amp;nbsp;Posted:&amp;nbsp;06/15/2017&amp;nbsp; 8:16PM
+                  &lt;/span&gt;
+                  &lt;br/&gt;
+                  &lt;br/&gt;
+                Following an earlier incident at the Hugh Carey Tunnel, &lt;STRONG&gt;BM1, BM2, BM3, BM4, X1, X2, X3, X4, X5, X8, X9, X10, X11, X12, X17, X18, X27, X28, X37 &lt;/STRONG&gt;and&lt;STRONG&gt; X38 &lt;/STRONG&gt;bus service has resumed with delays.
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
+                  &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                  &lt;span class="DateStyle"&gt;
                   &amp;nbsp;Posted:&amp;nbsp;06/15/2017&amp;nbsp; 8:07PM
                   &lt;/span&gt;
                   &lt;br/&gt;
@@ -405,20 +429,9 @@
 &lt;P&gt;Allow additional travel time.&lt;/P&gt;
               &lt;br/&gt;
               &lt;br/&gt;
-            
-                  &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                  &lt;span class="DateStyle"&gt;
-                  &amp;nbsp;Posted:&amp;nbsp;06/15/2017&amp;nbsp; 8:05PM
-                  &lt;/span&gt;
-                  &lt;br/&gt;
-                  &lt;br/&gt;
-                &lt;P&gt;&lt;STRONG&gt;BM1, BM2, BM3, BM4, X1, X2, X3, X4, X5, X8, X9, X10, X11, X12, X17, X18, X27, X28, X37 &lt;/STRONG&gt;and&lt;STRONG&gt; X38 &lt;/STRONG&gt;buses are running with delays in both directions due to traffic conditions in the vicinity of the Hugh Carey Tunnel. &lt;/P&gt;
-&lt;P&gt;Allow additional travel time.&lt;/P&gt;
-              &lt;br/&gt;
-              &lt;br/&gt;
             </text>
     <Date>06/15/2017</Date>
-    <Time> 8:07PM</Time>
+    <Time> 8:16PM</Time>
   </line>
 </bus><BT>
   <line>
