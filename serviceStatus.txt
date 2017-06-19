@@ -1,17 +1,10 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>DELAYS</status>
-    <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;06/19/2017&amp;nbsp; 4:01PM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  Following an earlier incident at &lt;STRONG&gt;96 St,&lt;/STRONG&gt; [1] train service has resumed with delays.
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>06/19/2017</Date>
-    <Time> 4:01PM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>456</name>
@@ -22,17 +15,10 @@
   </line>
   <line>
     <name>7</name>
-    <status>DELAYS</status>
-    <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;06/19/2017&amp;nbsp; 4:23PM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  Following an earlier incident at &lt;STRONG&gt;5 Av&lt;/STRONG&gt;, [7] train service has resumed with delays.
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>06/19/2017</Date>
-    <Time> 4:23PM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>ACE</name>
@@ -102,7 +88,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>06/19/2017</Date>
-    <Time> 4:52PM</Time>
+    <Time> 5:02PM</Time>
   </line>
   <line>
     <name>SIR</name>
@@ -241,7 +227,7 @@
               &lt;br/&gt;
             </text>
     <Date>06/19/2017</Date>
-    <Time> 4:52PM</Time>
+    <Time> 5:02PM</Time>
   </line>
   <line>
     <name>M1 - M116</name>
@@ -290,7 +276,7 @@
               &lt;br/&gt;
             </text>
     <Date>06/19/2017</Date>
-    <Time> 4:52PM</Time>
+    <Time> 5:02PM</Time>
   </line>
   <line>
     <name>Q1 - Q113</name>
