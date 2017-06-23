@@ -1,17 +1,35 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>SERVICE CHANGE</status>
+    <text>
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;06/22/2017&amp;nbsp; 8:40PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;P&gt;Due to signal problems at &lt;STRONG&gt;Jackson Av&lt;/STRONG&gt;, some northbound [2] and [5] trains are running express from &lt;STRONG&gt;3 Av-149 St &lt;/STRONG&gt;to&lt;STRONG&gt; E 180 St.&lt;/STRONG&gt;&lt;/P&gt;
+&lt;P&gt;Expect delays on northbound [2] and [5] train service.&lt;/P&gt;
+&lt;P&gt;Allow additional travel time.&lt;/P&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>06/22/2017</Date>
+    <Time> 8:40PM</Time>
   </line>
   <line>
     <name>456</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>SERVICE CHANGE</status>
+    <text>
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;06/22/2017&amp;nbsp; 8:40PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;P&gt;Due to signal problems at &lt;STRONG&gt;Jackson Av&lt;/STRONG&gt;, some northbound [2] and [5] trains are running express from &lt;STRONG&gt;3 Av-149 St &lt;/STRONG&gt;to&lt;STRONG&gt; E 180 St.&lt;/STRONG&gt;&lt;/P&gt;
+&lt;P&gt;Expect delays on northbound [2] and [5] train service.&lt;/P&gt;
+&lt;P&gt;Allow additional travel time.&lt;/P&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>06/22/2017</Date>
+    <Time> 8:40PM</Time>
   </line>
   <line>
     <name>7</name>
@@ -275,16 +293,6 @@
     <text>
                   &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                   &lt;span class="DateStyle"&gt;
-                  &amp;nbsp;Posted:&amp;nbsp;06/22/2017&amp;nbsp; 8:08PM
-                  &lt;/span&gt;
-                  &lt;br/&gt;
-                  &lt;br/&gt;
-                Following an earlier incident at the Cross Bx Expy, &lt;STRONG&gt;Q44-SBS&lt;/STRONG&gt; bus service has resumed with delays.
-              &lt;br/&gt;
-              &lt;br/&gt;
-            
-                  &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                  &lt;span class="DateStyle"&gt;
                   &amp;nbsp;Posted:&amp;nbsp;06/22/2017&amp;nbsp; 8:04PM
                   &lt;/span&gt;
                   &lt;br/&gt;
@@ -370,7 +378,7 @@
               &lt;br/&gt;
             </text>
     <Date>06/22/2017</Date>
-    <Time> 8:08PM</Time>
+    <Time> 8:04PM</Time>
   </line>
   <line>
     <name>QM1 - QM44</name>
