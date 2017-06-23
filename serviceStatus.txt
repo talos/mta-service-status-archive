@@ -674,17 +674,10 @@
   </line>
   <line>
     <name>Long Beach</name>
-    <status>DELAYS</status>
-    <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;06/22/2017&amp;nbsp; 7:24PM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  &lt;p&gt;The 6:57PM train from Long Beach due Penn at 7:47PM is operating 12 minutes late due to a late-arriving eastbound train.      &lt;/p&gt;
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>06/22/2017</Date>
-    <Time> 7:24PM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>Montauk</name>
@@ -709,10 +702,17 @@
   </line>
   <line>
     <name>Port Jefferson</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>DELAYS</status>
+    <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;06/22/2017&amp;nbsp; 8:00PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  The 6:56PM train from Penn due Huntington at 8:04PM is operating 10 minutes late due to earlier police activity in Hicksville.
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>06/22/2017</Date>
+    <Time> 8:00PM</Time>
   </line>
   <line>
     <name>Port Washington</name>
