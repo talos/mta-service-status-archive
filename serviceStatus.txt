@@ -1,36 +1,28 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>SERVICE CHANGE</status>
+    <status>DELAYS</status>
     <text>
-                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;06/28/2017&amp;nbsp;10:39AM
+                    &amp;nbsp;Posted:&amp;nbsp;06/28/2017&amp;nbsp;11:00AM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  &lt;P&gt;Due to switch and mechanical problems at &lt;STRONG&gt;Chambers St&lt;/STRONG&gt;, the following service changes and delays are in effect:&lt;/P&gt;
-&lt;P&gt;Northbound [2] and [3] trains terminate at &lt;STRONG&gt;Wall St.&lt;/STRONG&gt;&lt;/P&gt;
-&lt;P&gt;Northbound [2] train are running on the [5] line from &lt;STRONG&gt;Nevins St&lt;/STRONG&gt; to &lt;STRONG&gt;149 St-Grand Concourse.&lt;/STRONG&gt;&lt;/P&gt;
-&lt;P&gt;Some southbound [2] and [3] trains terminate at&lt;STRONG&gt; 42 St-Times Sq&lt;/STRONG&gt; or &lt;STRONG&gt;14 St&lt;/STRONG&gt;.&lt;/P&gt;
-&lt;P&gt;Expect delays on [1], [2], [3], [4] and [5] trains.&lt;/P&gt;
+                  &lt;P&gt;Due to switch problems at &lt;STRONG&gt;Chambers St,&lt;/STRONG&gt; northbound [1], [2] and [3] trains are running with delays.&lt;/P&gt;
 &lt;P&gt;Allow additional travel time.&lt;/P&gt;
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>06/28/2017</Date>
-    <Time>10:39AM</Time>
+    <Time>11:00AM</Time>
   </line>
   <line>
     <name>456</name>
-    <status>SERVICE CHANGE</status>
+    <status>DELAYS</status>
     <text>
-                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;06/28/2017&amp;nbsp;10:39AM
+                    &amp;nbsp;Posted:&amp;nbsp;06/28/2017&amp;nbsp;11:00AM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  &lt;P&gt;Due to switch and mechanical problems at &lt;STRONG&gt;Chambers St&lt;/STRONG&gt;, the following service changes and delays are in effect:&lt;/P&gt;
-&lt;P&gt;Northbound [2] and [3] trains terminate at &lt;STRONG&gt;Wall St.&lt;/STRONG&gt;&lt;/P&gt;
-&lt;P&gt;Northbound [2] train are running on the [5] line from &lt;STRONG&gt;Nevins St&lt;/STRONG&gt; to &lt;STRONG&gt;149 St-Grand Concourse.&lt;/STRONG&gt;&lt;/P&gt;
-&lt;P&gt;Some southbound [2] and [3] trains terminate at&lt;STRONG&gt; 42 St-Times Sq&lt;/STRONG&gt; or &lt;STRONG&gt;14 St&lt;/STRONG&gt;.&lt;/P&gt;
-&lt;P&gt;Expect delays on [1], [2], [3], [4] and [5] trains.&lt;/P&gt;
+                  &lt;P&gt;Due to switch problems at &lt;STRONG&gt;Chambers St,&lt;/STRONG&gt; northbound [1], [2] and [3] trains are running with delays.&lt;/P&gt;
 &lt;P&gt;Allow additional travel time.&lt;/P&gt;
                 &lt;br/&gt;&lt;br/&gt;
               
@@ -40,7 +32,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>06/28/2017</Date>
-    <Time>10:39AM</Time>
+    <Time>11:00AM</Time>
   </line>
   <line>
     <name>7</name>
@@ -55,13 +47,13 @@
     <text>
                     &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;06/28/2017&amp;nbsp; 9:07AM
+                    &amp;nbsp;Posted:&amp;nbsp;06/28/2017&amp;nbsp;11:01AM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
                   Following overnight emergency repair work at &lt;STRONG&gt;125 St&lt;/STRONG&gt;, [A], [B], [C] and [D] train service has resumed with extensive delays.
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>06/28/2017</Date>
-    <Time> 9:07AM</Time>
+    <Time>11:01AM</Time>
   </line>
   <line>
     <name>BDFM</name>
@@ -69,7 +61,7 @@
     <text>
                     &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;06/28/2017&amp;nbsp; 9:07AM
+                    &amp;nbsp;Posted:&amp;nbsp;06/28/2017&amp;nbsp;11:01AM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
                   Following overnight emergency repair work at &lt;STRONG&gt;125 St&lt;/STRONG&gt;, [A], [B], [C] and [D] train service has resumed with extensive delays.
                 &lt;br/&gt;&lt;br/&gt;
@@ -80,7 +72,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>06/28/2017</Date>
-    <Time> 9:07AM</Time>
+    <Time>11:01AM</Time>
   </line>
   <line>
     <name>G</name>
@@ -458,17 +450,10 @@
   </line>
   <line>
     <name>Verrazano-Narrows</name>
-    <status>DELAYS</status>
-    <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;06/28/2017&amp;nbsp; 4:51AM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  VNB: BROOKLYN BOUND; HOV LANE IS OPEN.
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>06/28/2017</Date>
-    <Time> 4:51AM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
 </BT><LIRR>
   <line>
