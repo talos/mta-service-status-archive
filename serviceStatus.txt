@@ -1,31 +1,17 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>SERVICE CHANGE</status>
-    <text>
-                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;06/29/2017&amp;nbsp; 9:06AM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  Following an earlier incident at &lt;STRONG&gt;Fulton St&lt;/STRONG&gt;, [2], [3], [4] and [5] train service has resumed with delays.
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>06/29/2017</Date>
-    <Time> 9:06AM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>456</name>
-    <status>SERVICE CHANGE</status>
-    <text>
-                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;06/29/2017&amp;nbsp; 9:06AM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  Following an earlier incident at &lt;STRONG&gt;Fulton St&lt;/STRONG&gt;, [2], [3], [4] and [5] train service has resumed with delays.
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>06/29/2017</Date>
-    <Time> 9:06AM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>7</name>
@@ -551,9 +537,12 @@
               
                     &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;06/29/2017&amp;nbsp; 8:55AM
+                    &amp;nbsp;Posted:&amp;nbsp;06/29/2017&amp;nbsp; 9:20AM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  The 8:04AM train from Atlantic Terminal due Long Beach at 8:55AM is operating 26 minutes late due to congestion in Jamaica.
+                  The 8:04AM train from Atlantic Terminal due Long Beach at 8:55AM is 
+operating 38 minutes late after being delayed due to congestion through 
+Jamaica.
+       
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>06/29/2017</Date>
