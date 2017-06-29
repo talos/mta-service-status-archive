@@ -1,15 +1,37 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>SERVICE CHANGE</status>
+    <text>
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;06/29/2017&amp;nbsp; 8:59AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;P&gt;Due to NYPD activity at&lt;STRONG&gt; Fulton St&lt;/STRONG&gt;, the following service changes are in effect:&lt;/P&gt;
+&lt;P&gt;Northbound [2] trains are running on the [5] line from &lt;STRONG&gt;Nevins St&lt;/STRONG&gt; to &lt;STRONG&gt;149 St-Grand Concourse&lt;/STRONG&gt;.&lt;/P&gt;
+&lt;P&gt;Some northbound [3] trains terminate at &lt;STRONG&gt;Atlantic Av-Barclays Ctr&lt;/STRONG&gt;.&lt;/P&gt;
+&lt;P&gt;Expect delays on [2], [3], [4] and [5] trains.&lt;/P&gt;
+&lt;P&gt;Allow additional travel time.&lt;/P&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>06/29/2017</Date>
+    <Time> 8:59AM</Time>
   </line>
   <line>
     <name>456</name>
-    <status>DELAYS</status>
+    <status>SERVICE CHANGE</status>
     <text>
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;06/29/2017&amp;nbsp; 8:59AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;P&gt;Due to NYPD activity at&lt;STRONG&gt; Fulton St&lt;/STRONG&gt;, the following service changes are in effect:&lt;/P&gt;
+&lt;P&gt;Northbound [2] trains are running on the [5] line from &lt;STRONG&gt;Nevins St&lt;/STRONG&gt; to &lt;STRONG&gt;149 St-Grand Concourse&lt;/STRONG&gt;.&lt;/P&gt;
+&lt;P&gt;Some northbound [3] trains terminate at &lt;STRONG&gt;Atlantic Av-Barclays Ctr&lt;/STRONG&gt;.&lt;/P&gt;
+&lt;P&gt;Expect delays on [2], [3], [4] and [5] trains.&lt;/P&gt;
+&lt;P&gt;Allow additional travel time.&lt;/P&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              
                     &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
                     &amp;nbsp;Posted:&amp;nbsp;06/29/2017&amp;nbsp; 8:41AM
@@ -18,7 +40,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>06/29/2017</Date>
-    <Time> 8:41AM</Time>
+    <Time> 8:59AM</Time>
   </line>
   <line>
     <name>7</name>
@@ -455,7 +477,7 @@
               
                     &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;06/29/2017&amp;nbsp; 8:48AM
+                    &amp;nbsp;Posted:&amp;nbsp;06/29/2017&amp;nbsp; 8:59AM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
                   &lt;p&gt;&lt;strong&gt;&lt;u&gt;Westbound&lt;/u&gt;&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;The 7:35AM train from Babylon due Penn at 8:48AM will be cancelled in Jamaica due to a third rail power problem outside the Amtrak East River Tunnels. Customers will be accommodated by the next westbound train.&lt;/p&gt;&lt;p&gt;The 8:10AM train from Freeport due Penn at 8:50AM is cancelled due to a track condition outside of Amtrak's East River Tunnels. Customers will be accommodated by the 7:45AM train from Babylon due Penn at 8:56AM, with added stops.&lt;/p&gt;&lt;p&gt;The 8:25AM train from Freeport due Penn at 9:08AM will be diverted to 
@@ -463,7 +485,7 @@ Atlantic Terminal due to a third rail problem outside the East River
 Tunnels. NYC Transit is honoring LIRR tickets via the 2/3 subway.
   &lt;/p&gt;&lt;p&gt;The 8:35AM train from Babylon due Penn at 9:37AM is cancelled at Jamaica Station due to third rail power problem outside the Amtrak East River Tunnels. Customers will be accommodated by the next westbound to Penn.      &lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;&lt;u&gt;Eastbound&lt;/u&gt;&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;The 8:09AM train from Penn due Babylon at 9:20AM will originate at Jamaica today due to a track condition outside the East River Tunnels. Customers will be accommodated by the following eastbound train to Jamaica for service to points east.&lt;/p&gt;&lt;p&gt;The 7:49AM train from Penn due Babylon at 8:52AM is operating 10 minutes late due to third rail power problem outside Amtrak's East River Tunnels.&lt;/p&gt;
+&lt;p&gt;The 8:09AM train from Penn due Babylon at 9:20AM, that originated at Jamaica today, is operating 24 minutes late after being delayed due to congestion through the station.&lt;/p&gt;&lt;p&gt;&lt;/p&gt;
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>06/29/2017</Date>
@@ -587,10 +609,10 @@ Tunnels. NYC Transit is honoring LIRR tickets via the 2/3 subway.
               
                     &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;06/29/2017&amp;nbsp; 8:56AM
+                    &amp;nbsp;Posted:&amp;nbsp;06/29/2017&amp;nbsp; 8:58AM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  The 8:17AM train from Jamaica due Port Jefferson at 9:52AM is being held
- prior to departure due to congestion through Jamaica Station.   &lt;strong&gt;&lt;/strong&gt;
+                  &lt;p&gt;The 8:17AM train from Jamaica due Port Jefferson at 9:52AM is being held
+ prior to departure due to congestion through Jamaica Station.   &lt;/p&gt;&lt;p&gt;The 8:00AM train from Penn due Huntington at 9:10AM is operating 27 minutes late due to congestion at Jamaica Station.&lt;/p&gt;
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>06/29/2017</Date>
