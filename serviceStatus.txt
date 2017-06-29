@@ -112,17 +112,15 @@
 </subway><bus>
   <line>
     <name>B1 - B84</name>
-    <status>SERVICE CHANGE</status>
+    <status>DELAYS</status>
     <text>
-                  &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                  &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                   &lt;span class="DateStyle"&gt;
-                  &amp;nbsp;Posted:&amp;nbsp;06/29/2017&amp;nbsp; 4:06PM
+                  &amp;nbsp;Posted:&amp;nbsp;06/29/2017&amp;nbsp; 4:55PM
                   &lt;/span&gt;
                   &lt;br/&gt;
                   &lt;br/&gt;
-                &lt;P&gt;&lt;STRONG&gt;B65&lt;/STRONG&gt; Ralph Av bound bus stop closure on Dean St and 5 Av, due to construction.&lt;/P&gt;
-&lt;P&gt;Temporary bus stop on the far side of 5 Av. &lt;/P&gt;
-&lt;P&gt;Allow additional travel time.&lt;/P&gt;
+                Following an earlier incident at Parkside Av, &lt;STRONG&gt;B12 &lt;/STRONG&gt;bus service has resumed with delays.
               &lt;br/&gt;
               &lt;br/&gt;
             
@@ -132,11 +130,9 @@
                   &lt;/span&gt;
                   &lt;br/&gt;
                   &lt;br/&gt;
-                &lt;P&gt;&lt;STRONG&gt;B12&lt;/STRONG&gt; buses are detoured due to road construction at Parkside Av.&lt;/P&gt;
-&lt;P&gt;Detour is as follows:&lt;/P&gt;
-&lt;P&gt;&lt;STRONG&gt;Eastbound:&lt;/STRONG&gt; Via Parkside Av, right on Flatbush Av, left on Lenox Av, left on Bedford Av, right on Clarkson Av and regular route.&lt;/P&gt;
+                &lt;P&gt;&lt;STRONG&gt;B65&lt;/STRONG&gt; Ralph Av bound bus stop closure on Dean St and 5 Av, due to construction.&lt;/P&gt;
+&lt;P&gt;Temporary bus stop on the far side of 5 Av. &lt;/P&gt;
 &lt;P&gt;Allow additional travel time.&lt;/P&gt;
-&lt;P&gt; &lt;/P&gt;
               &lt;br/&gt;
               &lt;br/&gt;
             
@@ -198,7 +194,7 @@
               &lt;br/&gt;
             </text>
     <Date>06/29/2017</Date>
-    <Time> 4:06PM</Time>
+    <Time> 4:55PM</Time>
   </line>
   <line>
     <name>B100 - B103</name>
@@ -837,17 +833,10 @@ Mastic-Shirley.
   </line>
   <line>
     <name>Port Washington</name>
-    <status>SERVICE CHANGE</status>
-    <text>
-                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;06/29/2017&amp;nbsp; 4:50PM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  The 4:43PM train from Penn due Port Washington at 5:21PM has been cancelled due to an Amtrak power problem in Penn Station. Customers will be accommodated by the 4:46PM train from Penn due Great Neck at 5:23PM with a stop at Woodside, and all further stops to Port Washington, excluding Mets-Willets Point.
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>06/29/2017</Date>
-    <Time> 4:50PM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>Ronkonkoma</name>
