@@ -1,10 +1,20 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>SERVICE CHANGE</status>
+    <text>
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;06/29/2017&amp;nbsp;11:20AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;P&gt;Due to &lt;STRONG&gt;Broadway Bridge&lt;/STRONG&gt; being open for marine traffic, the following service changes are effect:&lt;/P&gt;
+&lt;P&gt;There is no [1] train service between &lt;STRONG&gt;215 St&lt;/STRONG&gt; and &lt;STRONG&gt;Van-Courtandt-242 St&lt;/STRONG&gt; in both directions. &lt;/P&gt;
+&lt;P&gt;Some northbound [1] trains are terminating at &lt;STRONG&gt;137 St-City College&lt;/STRONG&gt; or &lt;STRONG&gt;215 St. &lt;/STRONG&gt;&lt;/P&gt;
+&lt;P&gt;Allow additional travel time.&lt;/P&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>06/29/2017</Date>
+    <Time>11:20AM</Time>
   </line>
   <line>
     <name>456</name>
@@ -556,21 +566,10 @@
 </BT><LIRR>
   <line>
     <name>Babylon</name>
-    <status>DELAYS</status>
-    <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;06/29/2017&amp;nbsp; 9:42AM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  &lt;strong&gt;The LIRR is experiencing delays averaging 10-15 min into Penn due to a 
-third rail problem outside Amtrak's E River Tunnels. Amtrak personnel 
-are on scene &amp; are in the process of making repairs. NYC Transit is 
-no longer honoring LIRR tickets at this time. Earlier, some trains were 
-canceled at Jamaica or diverted to Atlantic Terminal or HPA.&lt;/strong&gt;
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>06/29/2017</Date>
-    <Time> 9:42AM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>City Terminal Zone</name>
@@ -578,170 +577,67 @@ canceled at Jamaica or diverted to Atlantic Terminal or HPA.&lt;/strong&gt;
     <text>
                     &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;06/29/2017&amp;nbsp; 9:42AM
+                    &amp;nbsp;Posted:&amp;nbsp;06/29/2017&amp;nbsp;11:20AM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  &lt;strong&gt;The LIRR is experiencing delays averaging 10-15 min into Penn due to a 
-third rail problem outside Amtrak's E River Tunnels. Amtrak personnel 
-are on scene &amp; are in the process of making repairs. NYC Transit is 
-no longer honoring LIRR tickets at this time. Earlier, some trains were 
-canceled at Jamaica or diverted to Atlantic Terminal or HPA.&lt;/strong&gt;
+                  &lt;body bgcolor='White' style='font-family:sans-serif;font-size:10pt;'&gt;&lt;strong&gt;The LIRR is experiencing scattered delays averaging 10 minutes into Penn Station due to a third rail problem outside Amtrak's East River Tunnels. Amtrak personnel are on scene and are in the process of making repairs.&lt;/strong&gt;&lt;/body&gt;
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>06/29/2017</Date>
-    <Time> 9:42AM</Time>
+    <Time>11:20AM</Time>
   </line>
   <line>
     <name>Far Rockaway</name>
-    <status>DELAYS</status>
-    <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;06/29/2017&amp;nbsp; 9:42AM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  &lt;strong&gt;The LIRR is experiencing delays averaging 10-15 min into Penn due to a 
-third rail problem outside Amtrak's E River Tunnels. Amtrak personnel 
-are on scene &amp; are in the process of making repairs. NYC Transit is 
-no longer honoring LIRR tickets at this time. Earlier, some trains were 
-canceled at Jamaica or diverted to Atlantic Terminal or HPA.&lt;/strong&gt;
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>06/29/2017</Date>
-    <Time> 9:42AM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>Hempstead</name>
-    <status>DELAYS</status>
-    <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;06/29/2017&amp;nbsp; 9:42AM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  &lt;strong&gt;The LIRR is experiencing delays averaging 10-15 min into Penn due to a 
-third rail problem outside Amtrak's E River Tunnels. Amtrak personnel 
-are on scene &amp; are in the process of making repairs. NYC Transit is 
-no longer honoring LIRR tickets at this time. Earlier, some trains were 
-canceled at Jamaica or diverted to Atlantic Terminal or HPA.&lt;/strong&gt;
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>06/29/2017</Date>
-    <Time> 9:42AM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>Long Beach</name>
-    <status>DELAYS</status>
-    <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;06/29/2017&amp;nbsp; 9:42AM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  &lt;strong&gt;The LIRR is experiencing delays averaging 10-15 min into Penn due to a 
-third rail problem outside Amtrak's E River Tunnels. Amtrak personnel 
-are on scene &amp; are in the process of making repairs. NYC Transit is 
-no longer honoring LIRR tickets at this time. Earlier, some trains were 
-canceled at Jamaica or diverted to Atlantic Terminal or HPA.&lt;/strong&gt;
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>06/29/2017</Date>
-    <Time> 9:42AM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>Montauk</name>
-    <status>DELAYS</status>
-    <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;06/29/2017&amp;nbsp;10:29AM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  &lt;P&gt;&lt;STRONG&gt;&lt;/STRONG&gt;&lt;/P&gt;
-&lt;P&gt;&lt;STRONG&gt;The Montauk Branch is experiencing scattered delays in both directions averaging 15-20 minutes due to signal damage caused by an overnight fire near Mastic-Shirley.&lt;/STRONG&gt;&lt;/P&gt;
-&lt;P&gt;&lt;STRONG&gt;&lt;BR&gt;&lt;/STRONG&gt;&lt;/P&gt;
-&lt;P&gt;The 8:57AM train from Babylon due Montauk at 10:57AM is operating 17 minutes late due to signal damage caused by an overnight fire near Mastic-Shirley.         &lt;/P&gt;
-&lt;P&gt;&lt;/P&gt;
-                &lt;br/&gt;&lt;br/&gt;
-              
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;06/29/2017&amp;nbsp; 9:42AM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  &lt;strong&gt;The LIRR is experiencing delays averaging 10-15 min into Penn due to a 
-third rail problem outside Amtrak's E River Tunnels. Amtrak personnel 
-are on scene &amp; are in the process of making repairs. NYC Transit is 
-no longer honoring LIRR tickets at this time. Earlier, some trains were 
-canceled at Jamaica or diverted to Atlantic Terminal or HPA.&lt;/strong&gt;
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>06/29/2017</Date>
-    <Time>10:29AM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>Oyster Bay</name>
-    <status>DELAYS</status>
-    <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;06/29/2017&amp;nbsp; 9:42AM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  &lt;strong&gt;The LIRR is experiencing delays averaging 10-15 min into Penn due to a 
-third rail problem outside Amtrak's E River Tunnels. Amtrak personnel 
-are on scene &amp; are in the process of making repairs. NYC Transit is 
-no longer honoring LIRR tickets at this time. Earlier, some trains were 
-canceled at Jamaica or diverted to Atlantic Terminal or HPA.&lt;/strong&gt;
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>06/29/2017</Date>
-    <Time> 9:42AM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>Port Jefferson</name>
-    <status>DELAYS</status>
-    <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;06/29/2017&amp;nbsp; 9:42AM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  &lt;strong&gt;The LIRR is experiencing delays averaging 10-15 min into Penn due to a 
-third rail problem outside Amtrak's E River Tunnels. Amtrak personnel 
-are on scene &amp; are in the process of making repairs. NYC Transit is 
-no longer honoring LIRR tickets at this time. Earlier, some trains were 
-canceled at Jamaica or diverted to Atlantic Terminal or HPA.&lt;/strong&gt;
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>06/29/2017</Date>
-    <Time> 9:42AM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>Port Washington</name>
-    <status>DELAYS</status>
-    <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;06/29/2017&amp;nbsp; 9:42AM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  &lt;strong&gt;The LIRR is experiencing delays averaging 10-15 min into Penn due to a 
-third rail problem outside Amtrak's E River Tunnels. Amtrak personnel 
-are on scene &amp; are in the process of making repairs. NYC Transit is 
-no longer honoring LIRR tickets at this time. Earlier, some trains were 
-canceled at Jamaica or diverted to Atlantic Terminal or HPA.&lt;/strong&gt;
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>06/29/2017</Date>
-    <Time> 9:42AM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>Ronkonkoma</name>
     <status>DELAYS</status>
     <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;06/29/2017&amp;nbsp; 9:42AM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  &lt;strong&gt;The LIRR is experiencing delays averaging 10-15 min into Penn due to a 
-third rail problem outside Amtrak's E River Tunnels. Amtrak personnel 
-are on scene &amp; are in the process of making repairs. NYC Transit is 
-no longer honoring LIRR tickets at this time. Earlier, some trains were 
-canceled at Jamaica or diverted to Atlantic Terminal or HPA.&lt;/strong&gt;
-                &lt;br/&gt;&lt;br/&gt;
-              
                     &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
                     &amp;nbsp;Posted:&amp;nbsp;06/29/2017&amp;nbsp;11:00AM
@@ -750,25 +646,14 @@ canceled at Jamaica or diverted to Atlantic Terminal or HPA.&lt;/strong&gt;
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>06/29/2017</Date>
-    <Time> 9:42AM</Time>
+    <Time>11:00AM</Time>
   </line>
   <line>
     <name>West Hempstead</name>
-    <status>DELAYS</status>
-    <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;06/29/2017&amp;nbsp; 9:42AM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  &lt;strong&gt;The LIRR is experiencing delays averaging 10-15 min into Penn due to a 
-third rail problem outside Amtrak's E River Tunnels. Amtrak personnel 
-are on scene &amp; are in the process of making repairs. NYC Transit is 
-no longer honoring LIRR tickets at this time. Earlier, some trains were 
-canceled at Jamaica or diverted to Atlantic Terminal or HPA.&lt;/strong&gt;
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>06/29/2017</Date>
-    <Time> 9:42AM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
 </LIRR><MetroNorth>
   <line>
