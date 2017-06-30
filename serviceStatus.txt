@@ -66,14 +66,14 @@
     <text>
                     &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;06/30/2017&amp;nbsp; 3:20PM
+                    &amp;nbsp;Posted:&amp;nbsp;06/30/2017&amp;nbsp; 4:17PM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
                   &lt;P&gt;Due to signal problems at &lt;STRONG&gt;Queensboro Plaza,&lt;/STRONG&gt; northbound [N], [R] and [W] trains are running with delays. &lt;/P&gt;
 &lt;P&gt;Allow additional travel time.&lt;/P&gt;
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>06/30/2017</Date>
-    <Time> 3:20PM</Time>
+    <Time> 4:17PM</Time>
   </line>
   <line>
     <name>S</name>
@@ -97,8 +97,33 @@
 </subway><bus>
   <line>
     <name>B1 - B84</name>
-    <status>DELAYS</status>
+    <status>SERVICE CHANGE</status>
     <text>
+                  &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                  &lt;span class="DateStyle"&gt;
+                  &amp;nbsp;Posted:&amp;nbsp;06/30/2017&amp;nbsp; 4:17PM
+                  &lt;/span&gt;
+                  &lt;br/&gt;
+                  &lt;br/&gt;
+                &lt;P&gt;&lt;STRONG&gt;B9 &lt;/STRONG&gt;buses are detoured, due to Con Ed working on 60 St between 23 Av and 24 Av. &lt;/P&gt;
+&lt;P&gt;Detour is as follows:&lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;Bay Ridge-bound:&lt;/STRONG&gt; Via 60 St, right on Dahill Rd, left on 23 Av, right on 60 St and regular route.&lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;Kings Plaza-bound&lt;/STRONG&gt;: Via 60 St, right on 23 Av, left on 65 St, left on 24 Av and regular route.&lt;/P&gt;
+&lt;P&gt;Allow additional travel time.&lt;/P&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
+                  &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                  &lt;span class="DateStyle"&gt;
+                  &amp;nbsp;Posted:&amp;nbsp;06/30/2017&amp;nbsp; 4:17PM
+                  &lt;/span&gt;
+                  &lt;br/&gt;
+                  &lt;br/&gt;
+                &lt;P&gt;&lt;STRONG&gt;B12 &lt;/STRONG&gt;buses are running with delays in both directions, due to construction on Parkside Av between Flatbush Av and Bedford Av. &lt;/P&gt;
+&lt;P&gt;Allow additional travel time.&lt;/P&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
                   &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                   &lt;span class="DateStyle"&gt;
                   &amp;nbsp;Posted:&amp;nbsp;06/30/2017&amp;nbsp; 3:59PM
@@ -139,31 +164,6 @@
                   &lt;br/&gt;
                   &lt;br/&gt;
                 &lt;P&gt;&lt;STRONG&gt;B16&lt;/STRONG&gt; buses are running with delays in both directions due to traffic conditions on Caton Av between Ocean Pkwy and Flatbush Av. &lt;/P&gt;
-&lt;P&gt;Allow additional travel time.&lt;/P&gt;
-              &lt;br/&gt;
-              &lt;br/&gt;
-            
-                  &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                  &lt;span class="DateStyle"&gt;
-                  &amp;nbsp;Posted:&amp;nbsp;06/30/2017&amp;nbsp; 2:40PM
-                  &lt;/span&gt;
-                  &lt;br/&gt;
-                  &lt;br/&gt;
-                &lt;P&gt;&lt;STRONG&gt;B12 &lt;/STRONG&gt;buses are running with delays in both directions, due to construction on Parkside Av between Flatbush Av and Bedford Av. &lt;/P&gt;
-&lt;P&gt;Allow additional travel time.&lt;/P&gt;
-              &lt;br/&gt;
-              &lt;br/&gt;
-            
-                  &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
-                  &lt;span class="DateStyle"&gt;
-                  &amp;nbsp;Posted:&amp;nbsp;06/30/2017&amp;nbsp; 2:39PM
-                  &lt;/span&gt;
-                  &lt;br/&gt;
-                  &lt;br/&gt;
-                &lt;P&gt;&lt;STRONG&gt;B9 &lt;/STRONG&gt;buses are detoured, due to Con Ed working on 60 St between 23 Av and 24 Av. &lt;/P&gt;
-&lt;P&gt;Detour is as follows:&lt;/P&gt;
-&lt;P&gt;&lt;STRONG&gt;Bay Ridge-bound:&lt;/STRONG&gt; Via 60 St, right on Dahill Rd, left on 23 Av, right on 60 St and regular route.&lt;/P&gt;
-&lt;P&gt;&lt;STRONG&gt;Kings Plaza-bound&lt;/STRONG&gt;: Via 60 St, right on 23 Av, left on 65 St, left on 24 Av and regular route.&lt;/P&gt;
 &lt;P&gt;Allow additional travel time.&lt;/P&gt;
               &lt;br/&gt;
               &lt;br/&gt;
@@ -215,7 +215,7 @@
               &lt;br/&gt;
             </text>
     <Date>06/30/2017</Date>
-    <Time> 3:59PM</Time>
+    <Time> 4:17PM</Time>
   </line>
   <line>
     <name>B100 - B103</name>
@@ -622,16 +622,17 @@
     <text>
                     &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;06/30/2017&amp;nbsp; 4:03PM
+                    &amp;nbsp;Posted:&amp;nbsp;06/30/2017&amp;nbsp; 4:17PM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  &lt;P&gt;The 3:05PM train from Speonk due Jamaica at 4:39PM is 50 minutes late due to congestion resulting from signal damage caused by a fire Wednesday evening near Mastic-Shirley. &lt;/P&gt;
+                  &lt;P&gt;The 2:51PM train from Montauk due Jamaica at 5:50PM is operating 25 minutes late due to a high volume of customers traveling.&lt;/P&gt;
+&lt;P&gt;The 3:05PM train from Speonk due Jamaica at 4:39PM is 50 minutes late due to congestion resulting from signal damage caused by a fire Wednesday evening near Mastic-Shirley. &lt;/P&gt;
 &lt;P&gt;The 1:47PM train from Hunterspoint Ave. due Montauk at 4:45PM is operating 11 minutes late as a result of signal damage caused by a fire Wednesday evening near Mastic-Shirley.&lt;/P&gt;
 &lt;P&gt;The 3:18PM train from Jamaica due Montauk at 5:49PM is operating 13 minutes late due to a switch problem in Jamaica. &lt;/P&gt;
 &lt;P&gt; &lt;/P&gt;
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>06/30/2017</Date>
-    <Time> 4:03PM</Time>
+    <Time> 4:17PM</Time>
   </line>
   <line>
     <name>Oyster Bay</name>
@@ -663,13 +664,6 @@
                     &amp;nbsp;Posted:&amp;nbsp;06/30/2017&amp;nbsp; 4:09PM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
                   The 3:14PM train from Penn due Ronkonkoma at 4:34PM is operating 11 minutes late due to a switch problem in Jamaica.
-                &lt;br/&gt;&lt;br/&gt;
-              
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;06/30/2017&amp;nbsp; 3:41PM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  The 3:07PM train from Penn due Ronkonkoma at 4:25PM is operating 11 minutes late due to a switch problem in Jamaica.
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>06/30/2017</Date>
