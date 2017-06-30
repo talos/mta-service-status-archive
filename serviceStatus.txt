@@ -51,7 +51,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>06/30/2017</Date>
-    <Time> 8:28AM</Time>
+    <Time> 8:32AM</Time>
   </line>
   <line>
     <name>L</name>
@@ -77,7 +77,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>06/30/2017</Date>
-    <Time> 8:28AM</Time>
+    <Time> 8:32AM</Time>
   </line>
   <line>
     <name>SIR</name>
@@ -116,7 +116,7 @@
               &lt;br/&gt;
             </text>
     <Date>06/30/2017</Date>
-    <Time> 8:28AM</Time>
+    <Time> 8:32AM</Time>
   </line>
   <line>
     <name>B100 - B103</name>
@@ -143,7 +143,7 @@
               &lt;br/&gt;
             </text>
     <Date>06/30/2017</Date>
-    <Time> 8:28AM</Time>
+    <Time> 8:32AM</Time>
   </line>
   <line>
     <name>BXM1 - BXM18</name>
@@ -156,7 +156,7 @@
               &lt;br/&gt;
             </text>
     <Date>06/30/2017</Date>
-    <Time> 8:28AM</Time>
+    <Time> 8:32AM</Time>
   </line>
   <line>
     <name>M1 - M116</name>
@@ -199,7 +199,7 @@
               &lt;br/&gt;
             </text>
     <Date>06/30/2017</Date>
-    <Time> 8:28AM</Time>
+    <Time> 8:32AM</Time>
   </line>
   <line>
     <name>Q1 - Q113</name>
@@ -252,7 +252,7 @@
               &lt;br/&gt;
             </text>
     <Date>06/30/2017</Date>
-    <Time> 8:28AM</Time>
+    <Time> 8:32AM</Time>
   </line>
   <line>
     <name>S40 - S98</name>
@@ -277,10 +277,16 @@
   </line>
   <line>
     <name>x1 - x68</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>PLANNED WORK</status>
+    <text>
+                  &lt;span class="TitlePlannedWork" &gt;Planned Detour&lt;/span&gt;
+                  &lt;br/&gt;
+                &lt;a class="plannedWorkDetailLink" onclick=ShowHide(160466);&gt;&lt;b&gt;X17A/C/J, X19 and X22 buses rerouted from Arden Av between Drumgoole Rd W and Vineland Av&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 160466 class="plannedWorkDetail" &gt;&lt;/b&gt;8:30 AM to 4:30 PM, Mon to Fri, until further notice&lt;br&gt;&lt;br&gt;Due to road work, buses run via &lt;b&gt;Jefferson Blvd &lt;/b&gt;making corresponding stops in both directions.&lt;br&gt;&lt;br&gt;&lt;b&gt;&lt;i&gt;&lt;a style="cursor:pointer; text-decoration:underline;" onclick=ShowHide(1604660);&gt;Show Reroute Details&lt;/a&gt;&lt;/i&gt;&lt;/b&gt;&lt;br&gt;&lt;div id="1604660"; style="display:none;"&gt;&lt;b&gt;Northbound&lt;br&gt;&lt;/b&gt;Via Arden Av&lt;br&gt;Left on Drumgoole Rd W&lt;br&gt;Right on Jefferson Blvd&lt;br&gt;Right on Stafford Av&lt;br&gt;Left on Arden Av then regular route&lt;br&gt;&lt;br&gt;&lt;b&gt;Southbound&lt;br&gt;&lt;/b&gt;Via Arden Av&lt;br&gt;Right on Vineland Av&lt;br&gt;Left on Jefferson Blvd&lt;br&gt;Right on Drumgoole Rd W then regular route&lt;/div&gt;&lt;br&gt;&lt;b&gt;                              [TP]&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            </text>
+    <Date>06/30/2017</Date>
+    <Time> 8:32AM</Time>
   </line>
 </bus><BT>
   <line>
@@ -373,8 +379,15 @@
   </line>
   <line>
     <name>City Terminal Zone</name>
-    <status>SERVICE CHANGE</status>
+    <status>DELAYS</status>
     <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;06/30/2017&amp;nbsp; 8:32AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  The 5:39AM train from Montauk due Long Island City at 8:44AM is operating 11 minutes late at this time.
+                &lt;br/&gt;&lt;br/&gt;
+              
                     &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
                     &amp;nbsp;Posted:&amp;nbsp;06/30/2017&amp;nbsp; 8:10AM
@@ -388,7 +401,7 @@ from Far Rockaway due Penn at 9:05AM. These trains will make added stops
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>06/30/2017</Date>
-    <Time> 8:10AM</Time>
+    <Time> 8:32AM</Time>
   </line>
   <line>
     <name>Far Rockaway</name>
@@ -425,10 +438,17 @@ from Far Rockaway due Penn at 9:05AM. These trains will make added stops
   </line>
   <line>
     <name>Montauk</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>DELAYS</status>
+    <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;06/30/2017&amp;nbsp; 8:32AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  The 5:39AM train from Montauk due Long Island City at 8:44AM is operating 11 minutes late at this time.
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>06/30/2017</Date>
+    <Time> 8:32AM</Time>
   </line>
   <line>
     <name>Oyster Bay</name>
