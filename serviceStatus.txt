@@ -1,17 +1,33 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>DELAYS</status>
+    <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;06/30/2017&amp;nbsp; 9:50AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;P&gt;Due to signal problems at &lt;STRONG&gt;Franklin Av&lt;/STRONG&gt;, southbound [2], [3], [4] and [5] trains are running with delays. &lt;/P&gt;
+&lt;P&gt;Allow additional travel time.&lt;/P&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>06/30/2017</Date>
+    <Time> 9:50AM</Time>
   </line>
   <line>
     <name>456</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>DELAYS</status>
+    <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;06/30/2017&amp;nbsp; 9:50AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;P&gt;Due to signal problems at &lt;STRONG&gt;Franklin Av&lt;/STRONG&gt;, southbound [2], [3], [4] and [5] trains are running with delays. &lt;/P&gt;
+&lt;P&gt;Allow additional travel time.&lt;/P&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>06/30/2017</Date>
+    <Time> 9:50AM</Time>
   </line>
   <line>
     <name>7</name>
@@ -379,9 +395,13 @@
     <text>
                     &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;06/30/2017&amp;nbsp; 9:32AM
+                    &amp;nbsp;Posted:&amp;nbsp;06/30/2017&amp;nbsp; 9:50AM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  &lt;strong&gt;The LIRR is experiencing westbound delays averaging 15-20 minutes through Jamaica Station as trains operate at a reduced speed due to signal trouble east of the station. LIRR personnel are on scene working to correct the problem.&lt;/strong&gt;
+                  &lt;strong&gt;The LIRR is experiencing scattered westbound delays averaging 10-15 
+minutes through Jamaica Station as trains operate at a reduced speed due
+ to signal trouble east of the station. LIRR personnel are on scene 
+working to correct the problem.
+        &lt;/strong&gt;
                 &lt;br/&gt;&lt;br/&gt;
               
                     &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
@@ -393,7 +413,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>06/30/2017</Date>
-    <Time> 9:32AM</Time>
+    <Time> 9:50AM</Time>
   </line>
   <line>
     <name>City Terminal Zone</name>
@@ -401,9 +421,21 @@
     <text>
                     &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;06/30/2017&amp;nbsp; 9:32AM
+                    &amp;nbsp;Posted:&amp;nbsp;06/30/2017&amp;nbsp; 9:50AM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  &lt;strong&gt;The LIRR is experiencing westbound delays averaging 15-20 minutes through Jamaica Station as trains operate at a reduced speed due to signal trouble east of the station. LIRR personnel are on scene working to correct the problem.&lt;/strong&gt;
+                  &lt;strong&gt;The LIRR is experiencing scattered westbound delays averaging 10-15 
+minutes through Jamaica Station as trains operate at a reduced speed due
+ to signal trouble east of the station. LIRR personnel are on scene 
+working to correct the problem.
+        &lt;/strong&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;06/30/2017&amp;nbsp; 9:50AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;P&gt;The 8:45AM train from Hempstead due Atlantic Terminal at 9:34AM is operating 18 minutes late after being delayed east of Jamaica due to signal trouble.&lt;/P&gt;
+&lt;P&gt;The 9:04AM train from Hempstead due Atlantic Terminal at 9:56AM is 11 minutes late after being delayed east of Jamaica due to signal trouble. &lt;/P&gt;
                 &lt;br/&gt;&lt;br/&gt;
               
                     &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
@@ -412,16 +444,9 @@
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
                   &lt;P&gt;The 8:58AM train from Long Beach due Penn at 9:53AM is 10 minutes late after being delayed east of Jamaica due to signal trouble. &lt;/P&gt;
                 &lt;br/&gt;&lt;br/&gt;
-              
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;06/30/2017&amp;nbsp; 9:34AM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  The 8:45AM train from Hempstead due Atlantic Terminal at 9:34AM is operating 18 minutes late after being delayed east of Jamaica due to signal trouble.
-                &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>06/30/2017</Date>
-    <Time> 9:32AM</Time>
+    <Time> 9:50AM</Time>
   </line>
   <line>
     <name>Far Rockaway</name>
@@ -429,13 +454,17 @@
     <text>
                     &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;06/30/2017&amp;nbsp; 9:32AM
+                    &amp;nbsp;Posted:&amp;nbsp;06/30/2017&amp;nbsp; 9:50AM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  &lt;strong&gt;The LIRR is experiencing westbound delays averaging 15-20 minutes through Jamaica Station as trains operate at a reduced speed due to signal trouble east of the station. LIRR personnel are on scene working to correct the problem.&lt;/strong&gt;
+                  &lt;strong&gt;The LIRR is experiencing scattered westbound delays averaging 10-15 
+minutes through Jamaica Station as trains operate at a reduced speed due
+ to signal trouble east of the station. LIRR personnel are on scene 
+working to correct the problem.
+        &lt;/strong&gt;
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>06/30/2017</Date>
-    <Time> 9:32AM</Time>
+    <Time> 9:50AM</Time>
   </line>
   <line>
     <name>Hempstead</name>
@@ -443,20 +472,25 @@
     <text>
                     &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;06/30/2017&amp;nbsp; 9:32AM
+                    &amp;nbsp;Posted:&amp;nbsp;06/30/2017&amp;nbsp; 9:50AM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  &lt;strong&gt;The LIRR is experiencing westbound delays averaging 15-20 minutes through Jamaica Station as trains operate at a reduced speed due to signal trouble east of the station. LIRR personnel are on scene working to correct the problem.&lt;/strong&gt;
+                  &lt;strong&gt;The LIRR is experiencing scattered westbound delays averaging 10-15 
+minutes through Jamaica Station as trains operate at a reduced speed due
+ to signal trouble east of the station. LIRR personnel are on scene 
+working to correct the problem.
+        &lt;/strong&gt;
                 &lt;br/&gt;&lt;br/&gt;
               
                     &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;06/30/2017&amp;nbsp; 9:34AM
+                    &amp;nbsp;Posted:&amp;nbsp;06/30/2017&amp;nbsp; 9:50AM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  The 8:45AM train from Hempstead due Atlantic Terminal at 9:34AM is operating 18 minutes late after being delayed east of Jamaica due to signal trouble.
+                  &lt;P&gt;The 8:45AM train from Hempstead due Atlantic Terminal at 9:34AM is operating 18 minutes late after being delayed east of Jamaica due to signal trouble.&lt;/P&gt;
+&lt;P&gt;The 9:04AM train from Hempstead due Atlantic Terminal at 9:56AM is 11 minutes late after being delayed east of Jamaica due to signal trouble. &lt;/P&gt;
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>06/30/2017</Date>
-    <Time> 9:32AM</Time>
+    <Time> 9:50AM</Time>
   </line>
   <line>
     <name>Long Beach</name>
@@ -464,9 +498,13 @@
     <text>
                     &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;06/30/2017&amp;nbsp; 9:32AM
+                    &amp;nbsp;Posted:&amp;nbsp;06/30/2017&amp;nbsp; 9:50AM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  &lt;strong&gt;The LIRR is experiencing westbound delays averaging 15-20 minutes through Jamaica Station as trains operate at a reduced speed due to signal trouble east of the station. LIRR personnel are on scene working to correct the problem.&lt;/strong&gt;
+                  &lt;strong&gt;The LIRR is experiencing scattered westbound delays averaging 10-15 
+minutes through Jamaica Station as trains operate at a reduced speed due
+ to signal trouble east of the station. LIRR personnel are on scene 
+working to correct the problem.
+        &lt;/strong&gt;
                 &lt;br/&gt;&lt;br/&gt;
               
                     &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
@@ -477,7 +515,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>06/30/2017</Date>
-    <Time> 9:32AM</Time>
+    <Time> 9:50AM</Time>
   </line>
   <line>
     <name>Montauk</name>
@@ -485,13 +523,17 @@
     <text>
                     &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;06/30/2017&amp;nbsp; 9:32AM
+                    &amp;nbsp;Posted:&amp;nbsp;06/30/2017&amp;nbsp; 9:50AM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  &lt;strong&gt;The LIRR is experiencing westbound delays averaging 15-20 minutes through Jamaica Station as trains operate at a reduced speed due to signal trouble east of the station. LIRR personnel are on scene working to correct the problem.&lt;/strong&gt;
+                  &lt;strong&gt;The LIRR is experiencing scattered westbound delays averaging 10-15 
+minutes through Jamaica Station as trains operate at a reduced speed due
+ to signal trouble east of the station. LIRR personnel are on scene 
+working to correct the problem.
+        &lt;/strong&gt;
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>06/30/2017</Date>
-    <Time> 9:32AM</Time>
+    <Time> 9:50AM</Time>
   </line>
   <line>
     <name>Oyster Bay</name>
@@ -499,9 +541,13 @@
     <text>
                     &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;06/30/2017&amp;nbsp; 9:32AM
+                    &amp;nbsp;Posted:&amp;nbsp;06/30/2017&amp;nbsp; 9:50AM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  &lt;strong&gt;The LIRR is experiencing westbound delays averaging 15-20 minutes through Jamaica Station as trains operate at a reduced speed due to signal trouble east of the station. LIRR personnel are on scene working to correct the problem.&lt;/strong&gt;
+                  &lt;strong&gt;The LIRR is experiencing scattered westbound delays averaging 10-15 
+minutes through Jamaica Station as trains operate at a reduced speed due
+ to signal trouble east of the station. LIRR personnel are on scene 
+working to correct the problem.
+        &lt;/strong&gt;
                 &lt;br/&gt;&lt;br/&gt;
               
                     &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
@@ -512,7 +558,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>06/30/2017</Date>
-    <Time> 9:32AM</Time>
+    <Time> 9:50AM</Time>
   </line>
   <line>
     <name>Port Jefferson</name>
@@ -520,9 +566,13 @@
     <text>
                     &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;06/30/2017&amp;nbsp; 9:32AM
+                    &amp;nbsp;Posted:&amp;nbsp;06/30/2017&amp;nbsp; 9:50AM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  &lt;strong&gt;The LIRR is experiencing westbound delays averaging 15-20 minutes through Jamaica Station as trains operate at a reduced speed due to signal trouble east of the station. LIRR personnel are on scene working to correct the problem.&lt;/strong&gt;
+                  &lt;strong&gt;The LIRR is experiencing scattered westbound delays averaging 10-15 
+minutes through Jamaica Station as trains operate at a reduced speed due
+ to signal trouble east of the station. LIRR personnel are on scene 
+working to correct the problem.
+        &lt;/strong&gt;
                 &lt;br/&gt;&lt;br/&gt;
               
                     &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
@@ -533,7 +583,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>06/30/2017</Date>
-    <Time> 9:32AM</Time>
+    <Time> 9:50AM</Time>
   </line>
   <line>
     <name>Port Washington</name>
@@ -548,9 +598,13 @@
     <text>
                     &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;06/30/2017&amp;nbsp; 9:32AM
+                    &amp;nbsp;Posted:&amp;nbsp;06/30/2017&amp;nbsp; 9:50AM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  &lt;strong&gt;The LIRR is experiencing westbound delays averaging 15-20 minutes through Jamaica Station as trains operate at a reduced speed due to signal trouble east of the station. LIRR personnel are on scene working to correct the problem.&lt;/strong&gt;
+                  &lt;strong&gt;The LIRR is experiencing scattered westbound delays averaging 10-15 
+minutes through Jamaica Station as trains operate at a reduced speed due
+ to signal trouble east of the station. LIRR personnel are on scene 
+working to correct the problem.
+        &lt;/strong&gt;
                 &lt;br/&gt;&lt;br/&gt;
               
                     &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
@@ -561,7 +615,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>06/30/2017</Date>
-    <Time> 9:32AM</Time>
+    <Time> 9:50AM</Time>
   </line>
   <line>
     <name>West Hempstead</name>
@@ -569,13 +623,17 @@
     <text>
                     &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;06/30/2017&amp;nbsp; 9:32AM
+                    &amp;nbsp;Posted:&amp;nbsp;06/30/2017&amp;nbsp; 9:50AM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  &lt;strong&gt;The LIRR is experiencing westbound delays averaging 15-20 minutes through Jamaica Station as trains operate at a reduced speed due to signal trouble east of the station. LIRR personnel are on scene working to correct the problem.&lt;/strong&gt;
+                  &lt;strong&gt;The LIRR is experiencing scattered westbound delays averaging 10-15 
+minutes through Jamaica Station as trains operate at a reduced speed due
+ to signal trouble east of the station. LIRR personnel are on scene 
+working to correct the problem.
+        &lt;/strong&gt;
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>06/30/2017</Date>
-    <Time> 9:32AM</Time>
+    <Time> 9:50AM</Time>
   </line>
 </LIRR><MetroNorth>
   <line>
