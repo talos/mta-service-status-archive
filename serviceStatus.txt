@@ -1,10 +1,18 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>SERVICE CHANGE</status>
+    <text>
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;07/04/2017&amp;nbsp; 5:40AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;P&gt;Due to NYPD activity at &lt;STRONG&gt;Pelham Pkwy&lt;/STRONG&gt;, northbound [2] trains are running express from &lt;STRONG&gt;E 180 St&lt;/STRONG&gt; to &lt;STRONG&gt;Gun Hill Rd&lt;/STRONG&gt;.  &lt;/P&gt;
+&lt;P&gt;Allow additional travel time.&lt;/P&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>07/04/2017</Date>
+    <Time> 5:40AM</Time>
   </line>
   <line>
     <name>456</name>
