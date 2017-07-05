@@ -1,10 +1,17 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>DELAYS</status>
+    <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;07/05/2017&amp;nbsp; 8:07AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  Due to an earlier incident at 96 St, [1] train service has resumed with delays.
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>07/05/2017</Date>
+    <Time> 8:07AM</Time>
   </line>
   <line>
     <name>456</name>
@@ -44,7 +51,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>07/05/2017</Date>
-    <Time> 8:02AM</Time>
+    <Time> 8:08AM</Time>
   </line>
   <line>
     <name>G</name>
@@ -91,7 +98,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>07/05/2017</Date>
-    <Time> 8:02AM</Time>
+    <Time> 8:08AM</Time>
   </line>
   <line>
     <name>SIR</name>
@@ -170,7 +177,7 @@
               &lt;br/&gt;
             </text>
     <Date>07/05/2017</Date>
-    <Time> 8:02AM</Time>
+    <Time> 8:08AM</Time>
   </line>
   <line>
     <name>BX1 - BX55</name>
@@ -211,7 +218,7 @@
               &lt;br/&gt;
             </text>
     <Date>07/05/2017</Date>
-    <Time> 8:02AM</Time>
+    <Time> 8:08AM</Time>
   </line>
   <line>
     <name>M1 - M116</name>
@@ -242,7 +249,7 @@
               &lt;br/&gt;
             </text>
     <Date>07/05/2017</Date>
-    <Time> 8:02AM</Time>
+    <Time> 8:08AM</Time>
   </line>
   <line>
     <name>Q1 - Q113</name>
@@ -295,7 +302,7 @@
               &lt;br/&gt;
             </text>
     <Date>07/05/2017</Date>
-    <Time> 8:02AM</Time>
+    <Time> 8:08AM</Time>
   </line>
   <line>
     <name>S40 - S98</name>
@@ -308,7 +315,7 @@
               &lt;br/&gt;
             </text>
     <Date>07/05/2017</Date>
-    <Time> 8:02AM</Time>
+    <Time> 8:08AM</Time>
   </line>
   <line>
     <name>x1 - x68</name>
