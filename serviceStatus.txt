@@ -1,10 +1,19 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>SERVICE CHANGE</status>
+    <text>
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;07/06/2017&amp;nbsp; 7:32PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;P&gt;Due to FDNY activity at &lt;STRONG&gt;Times Sq-42 St&lt;/STRONG&gt;, southbound [2] and [3] trains are running local from &lt;STRONG&gt;72 St&lt;/STRONG&gt; to &lt;STRONG&gt;Times Sq-42 St&lt;/STRONG&gt;. &lt;/P&gt;
+&lt;P&gt;Expect delays to southbound [1] train service. &lt;/P&gt;
+&lt;P&gt;Allow additional travel time.&lt;/P&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>07/06/2017</Date>
+    <Time> 7:32PM</Time>
   </line>
   <line>
     <name>456</name>
@@ -45,7 +54,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>07/06/2017</Date>
-    <Time> 7:27PM</Time>
+    <Time> 7:32PM</Time>
   </line>
   <line>
     <name>G</name>
@@ -92,7 +101,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>07/06/2017</Date>
-    <Time> 7:27PM</Time>
+    <Time> 7:32PM</Time>
   </line>
   <line>
     <name>SIR</name>
@@ -167,7 +176,7 @@
               &lt;br/&gt;
             </text>
     <Date>07/06/2017</Date>
-    <Time> 7:27PM</Time>
+    <Time> 7:32PM</Time>
   </line>
   <line>
     <name>BX1 - BX55</name>
@@ -208,7 +217,7 @@
               &lt;br/&gt;
             </text>
     <Date>07/06/2017</Date>
-    <Time> 7:27PM</Time>
+    <Time> 7:32PM</Time>
   </line>
   <line>
     <name>M1 - M116</name>
@@ -351,7 +360,7 @@
               &lt;br/&gt;
             </text>
     <Date>07/06/2017</Date>
-    <Time> 7:27PM</Time>
+    <Time> 7:32PM</Time>
   </line>
   <line>
     <name>x1 - x68</name>
