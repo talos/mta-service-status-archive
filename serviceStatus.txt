@@ -1,10 +1,15 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>PLANNED WORK</status>
+    <text>
+                    &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
+                    &lt;br/&gt;
+                  &lt;a class="plannedWorkDetailLink" onclick=ShowHide(159623);&gt;&lt;b&gt;[1] No trains between 137 St and 242 St&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 159623 class="plannedWorkDetail" &gt;[A] trains and [SB] free shuttle buses provide alternate service&lt;br&gt;&lt;/b&gt;Late Nights, 11:30 PM to 4 AM, Wed to Fri, Jul 5 - 7&lt;br&gt;&lt;br&gt;[1] Service operates between &lt;b&gt;South Ferry&lt;/b&gt; and &lt;b&gt;137 St&lt;/b&gt;.&lt;br&gt;&lt;br&gt;[SB] Buses operate along three routes:&lt;br&gt;  1. Via &lt;b&gt;Broadway&lt;/b&gt; between &lt;b&gt;137 St&lt;/b&gt; and &lt;b&gt;242 St&lt;/b&gt;, stopping at &lt;b&gt;145&lt;/b&gt;, &lt;b&gt;157&lt;/b&gt;, &lt;b&gt;168&lt;/b&gt;, &lt;b&gt;181&lt;/b&gt;, &lt;b&gt;191&lt;/b&gt;, &lt;b&gt;Dyckman&lt;/b&gt;,&lt;br&gt;      &lt;b&gt;215&lt;/b&gt;, &lt;b&gt;225&lt;/b&gt;, &lt;b&gt;231&lt;/b&gt; and &lt;b&gt;238 Sts&lt;/b&gt;, connecting with the &lt;b&gt;[A]&lt;/b&gt; at &lt;b&gt;207 St&lt;/b&gt;.&lt;br&gt;  2. Via &lt;b&gt;St Nicholas Av&lt;/b&gt; between &lt;b&gt;168 St&lt;/b&gt; and &lt;b&gt;191 St&lt;/b&gt;, stopping at &lt;b&gt;181 St&lt;/b&gt;.&lt;br&gt;&lt;b&gt;  &lt;/b&gt;3. &lt;b&gt;Dyckman St &lt;/b&gt;between [1] and [A] stations.&lt;br&gt;&lt;br&gt;&lt;/font&gt;Use [A] service &lt;i&gt;to/from&lt;/i&gt; nearby stations in Washington Heights.&lt;br&gt;&lt;br&gt;&lt;table class=plannedworkTableStyle  border=1 cellspacing=1 cellpadding=3 rules=rows frame=hsides&gt;&lt;tr bgcolor=#FAF8CC&gt;&lt;td&gt;&lt;b&gt;Affected Station&lt;/b&gt;&lt;td&gt;&lt;b&gt;Alternate Service&lt;/b&gt;&lt;tr&gt;&lt;td&gt;145 St, 157 St&lt;td&gt;Broadway [SB], [A] at nearby stations&lt;tr&gt;&lt;td&gt;168 St&lt;td&gt;[A], Broadway [SB], St Nicholas Av [SB]&lt;tr&gt;&lt;td&gt;181 St, 191 St&lt;td&gt;Broadway [SB], St Nicholas Av [SB]&lt;tr&gt;&lt;td&gt;Dyckman St, 207 St&lt;td&gt;[A] at nearby stations, Broadway [SB]&lt;tr&gt;&lt;td&gt;215, 225, 231, 238, 242 Sts &lt;td&gt;Broadway [SB]&lt;/table&gt;&lt;br&gt;&lt;table class=plannedworkTableStyle  border=1 cellspacing=1 cellpadding=3 rules=rows frame=hsides&gt;&lt;tr bgcolor=000000&gt;&lt;td colspan=2&gt;&lt;font color=#000000&gt;&lt;b&gt;Key Transfer Points&lt;/b&gt;&lt;/font&gt;&lt;tr&gt;&lt;td&gt;137 St&lt;td&gt;[1], Broadway [SB]&lt;tr&gt;&lt;td&gt;168 St  [ad]&lt;td&gt;[A], Broadway [SB], St Nicholas Av [SB]&lt;tr&gt;&lt;td&gt;207 St  [ad]&lt;td&gt;[A], Broadway [SB]&lt;tr&gt;&lt;td&gt;59 St-Columbus Circle  [ad]  &lt;td&gt;[1]  [A] [D]&lt;/table&gt;&lt;br&gt;&lt;/font&gt;&lt;font size=3&gt;&lt;b&gt;&lt;a style="cursor:pointer; text-decoration:underline;" onclick=ShowHide(1596230);&gt;Show Shuttle Bus Stops&lt;/a&gt;&lt;/b&gt;&lt;/font&gt;                           [TP]&lt;div id="1596230"; style="display:none;"&gt;&lt;table class=plannedworkTableStyle  border=1 cellspacing=1 cellpadding=3 rules=rows frame=hsides&gt;&lt;tr bgcolor=#FAF8CC&gt;&lt;td&gt;&lt;b&gt;Station&lt;/b&gt;&lt;td&gt;&lt;b&gt;St Nicholas Av Shuttle Bus Stop &lt;/b&gt;&lt;tr&gt;&lt;td&gt;168 St  [ad]  [A] &lt;td&gt;St Nicholas Av at W 168 St&lt;tr&gt;&lt;td&gt;&lt;/font&gt;181 St&lt;td&gt;St Nicholas Av at W 181 St&lt;tr&gt;&lt;td&gt;&lt;/font&gt;191 St&lt;td&gt;St Nicholas Av at W 190 St&lt;/table&gt;&lt;br&gt;&lt;table class=plannedworkTableStyle  border=1 cellspacing=1 cellpadding=3 rules=rows frame=hsides&gt;&lt;tr bgcolor=#FAF8CC&gt;&lt;td&gt;&lt;b&gt;Station&lt;/b&gt;&lt;td&gt;&lt;b&gt;Broadway Shuttle Bus Stop&lt;/b&gt;&lt;tr&gt;&lt;td&gt;&lt;/font&gt;137 St  [1]&lt;td&gt;&lt;/font&gt;Broadway at W 137 St&lt;tr&gt;&lt;td&gt;145 St&lt;td&gt;Broadway at W 145 St&lt;tr&gt;&lt;td&gt;157 St&lt;td&gt;Broadway at W 157 St&lt;tr&gt;&lt;td rowspan=2&gt;168 St  [ad]  [A]&lt;td&gt;St Nicholas Av at W 167 St (to 242 St)&lt;tr&gt;&lt;td&gt;&lt;/font&gt;Broadway at W 168 St (to 137 St)&lt;tr&gt;&lt;td&gt;&lt;/font&gt;181 St&lt;td&gt;Broadway at W 181 St&lt;tr&gt;&lt;td rowspan=2&gt;&lt;/font&gt;191 St&lt;td&gt;Broadway at Fairview Av (to 242 St)&lt;tr&gt;&lt;td&gt;&lt;/font&gt;Broadway at W 190 St (to 137 St)&lt;tr&gt;&lt;td&gt;&lt;/font&gt;Dyckman St  [A] &lt;td&gt;Broadway at Dyckman St&lt;tr&gt;&lt;td&gt;207 St  [ad]  [A]&lt;td&gt;Broadway at W 207 St&lt;tr&gt;&lt;td&gt;215 St&lt;td&gt;Broadway at W 215 St&lt;tr&gt;&lt;td&gt;225 St&lt;td&gt;Broadway at W 225 St&lt;tr&gt;&lt;td&gt;231 St&lt;td&gt;Broadway at W 231 St&lt;tr&gt;&lt;td&gt;238 St&lt;td&gt;Broadway at W 238 St&lt;tr&gt;&lt;td&gt;242 St&lt;td&gt;Broadway at Manhattan College Pkwy&lt;/table&gt;&lt;br&gt;&lt;table class=plannedworkTableStyle  border=1 cellspacing=1 cellpadding=3 rules=rows frame=hsides&gt;&lt;tr bgcolor=#FAF8CC&gt;&lt;td&gt;&lt;b&gt;Station&lt;/b&gt;&lt;td&gt;&lt;b&gt;Dyckman Shuttle Bus Stop&lt;/b&gt;&lt;tr&gt;&lt;td rowspan=2&gt;Dyckman St&lt;td&gt; Dyckman St at Nagle Ave&lt;tr&gt;&lt;td&gt;Dyckman St at Broadway [A] &lt;/table&gt;&lt;/div&gt;&lt;br&gt;&lt;br&gt;&lt;/font&gt;&lt;table class=plannedworkTableStyle  border=1 cellspacing=1 cellpadding=5 rules=none frame=box&gt;&lt;td&gt;  [ad]  &lt;td&gt;&lt;font size=1&gt;This service change affects one or more ADA accessible stations. Please call 511 for help with planning&lt;br&gt;your trip. If you are deaf or hard of hearing, use your preferred relay service provider or the free 711 relay.  &lt;/font&gt;&lt;/table&gt;&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>07/06/2017</Date>
+    <Time>11:32PM</Time>
   </line>
   <line>
     <name>456</name>
@@ -42,7 +47,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>07/06/2017</Date>
-    <Time>11:28PM</Time>
+    <Time>11:32PM</Time>
   </line>
   <line>
     <name>G</name>
@@ -54,7 +59,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>07/06/2017</Date>
-    <Time>11:28PM</Time>
+    <Time>11:32PM</Time>
   </line>
   <line>
     <name>JZ</name>
@@ -127,7 +132,7 @@
               &lt;br/&gt;
             </text>
     <Date>07/06/2017</Date>
-    <Time>11:28PM</Time>
+    <Time>11:32PM</Time>
   </line>
   <line>
     <name>B100 - B103</name>
@@ -147,7 +152,7 @@
               &lt;br/&gt;
             </text>
     <Date>07/06/2017</Date>
-    <Time>11:28PM</Time>
+    <Time>11:32PM</Time>
   </line>
   <line>
     <name>BX1 - BX55</name>
@@ -167,7 +172,7 @@
               &lt;br/&gt;
             </text>
     <Date>07/06/2017</Date>
-    <Time>11:28PM</Time>
+    <Time>11:32PM</Time>
   </line>
   <line>
     <name>M1 - M116</name>
@@ -192,7 +197,7 @@
               &lt;br/&gt;
             </text>
     <Date>07/06/2017</Date>
-    <Time>11:28PM</Time>
+    <Time>11:32PM</Time>
   </line>
   <line>
     <name>Q1 - Q113</name>
@@ -232,7 +237,7 @@
               &lt;br/&gt;
             </text>
     <Date>07/06/2017</Date>
-    <Time>11:28PM</Time>
+    <Time>11:32PM</Time>
   </line>
   <line>
     <name>S40 - S98</name>
