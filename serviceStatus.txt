@@ -457,10 +457,17 @@
 </bus><BT>
   <line>
     <name>Bronx-Whitestone</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>DELAYS</status>
+    <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;07/07/2017&amp;nbsp; 5:54PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;body bgcolor='White' style='font-family:sans-serif;font-size:10pt;'&gt;BWB: DELAYS; BRONX BOUND DUE TO VOLUME.&lt;/body&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>07/07/2017</Date>
+    <Time> 5:54PM</Time>
   </line>
   <line>
     <name>Cross Bay</name>
@@ -503,20 +510,13 @@
     <text>
                     &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;07/07/2017&amp;nbsp; 3:45PM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  RFK:QUEENS SPAN; QUEENS BOUND DISABLED VEHICLE, ONE LANE BLOCKED.
-                &lt;br/&gt;&lt;br/&gt;
-              
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
                     &amp;nbsp;Posted:&amp;nbsp;07/07/2017&amp;nbsp;12:45PM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
                   RFK: MANHATTAN BOUND DELAYS; DUE TO OFF PROPERTY VOLUME
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>07/07/2017</Date>
-    <Time> 3:45PM</Time>
+    <Time>12:45PM</Time>
   </line>
   <line>
     <name>Throgs Neck</name>
