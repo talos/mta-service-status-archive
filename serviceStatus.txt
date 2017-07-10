@@ -1,18 +1,17 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>SERVICE CHANGE</status>
+    <status>DELAYS</status>
     <text>
-                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;07/10/2017&amp;nbsp; 2:15PM
+                    &amp;nbsp;Posted:&amp;nbsp;07/10/2017&amp;nbsp; 2:31PM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  &lt;P&gt;Due to NYPD activity at &lt;STRONG&gt;145 St&lt;/STRONG&gt;, northbound [1] trains are bypassing &lt;STRONG&gt;145 St&lt;/STRONG&gt;. &lt;/P&gt;
-&lt;P&gt;Allow additional travel time.&lt;/P&gt;
+                  Following earlier NYPD activity at &lt;STRONG&gt;145 St,&lt;/STRONG&gt; [1] train service has resumed.
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>07/10/2017</Date>
-    <Time> 2:15PM</Time>
+    <Time> 2:31PM</Time>
   </line>
   <line>
     <name>456</name>
@@ -73,17 +72,10 @@
   </line>
   <line>
     <name>JZ</name>
-    <status>DELAYS</status>
-    <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;07/10/2017&amp;nbsp; 2:10PM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  Following an earlier incident at &lt;STRONG&gt;Broad St&lt;/STRONG&gt;, [J] train service has resumed with delays.
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>07/10/2017</Date>
-    <Time> 2:10PM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>L</name>
@@ -298,16 +290,6 @@
     <text>
                   &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                   &lt;span class="DateStyle"&gt;
-                  &amp;nbsp;Posted:&amp;nbsp;07/10/2017&amp;nbsp; 2:13PM
-                  &lt;/span&gt;
-                  &lt;br/&gt;
-                  &lt;br/&gt;
-                Following an earlier incident on Lefferts Blvd, &lt;STRONG&gt;Q10-Ltd&lt;/STRONG&gt; bus service has resumed with delays.
-              &lt;br/&gt;
-              &lt;br/&gt;
-            
-                  &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                  &lt;span class="DateStyle"&gt;
                   &amp;nbsp;Posted:&amp;nbsp;07/10/2017&amp;nbsp; 2:12PM
                   &lt;/span&gt;
                   &lt;br/&gt;
@@ -330,7 +312,7 @@
               &lt;br/&gt;
             </text>
     <Date>07/10/2017</Date>
-    <Time> 2:13PM</Time>
+    <Time> 2:12PM</Time>
   </line>
   <line>
     <name>QM1 - QM44</name>
