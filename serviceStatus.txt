@@ -1,20 +1,36 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>PLANNED WORK</status>
+    <status>DELAYS</status>
     <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;07/11/2017&amp;nbsp;12:09PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;P&gt;Due to track maintenance at &lt;STRONG&gt;Jackson Av&lt;/STRONG&gt;, [2] and [5] trains are running with delays in both directions.&lt;/P&gt;
+&lt;P&gt;Allow additional travel time.&lt;/P&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              
                     &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
                     &lt;br/&gt;
                   &lt;a class="plannedWorkDetailLink" onclick=ShowHide(160625);&gt;&lt;b&gt;[2] Wakefield-bound trains skip Bronx Park East, Pelham Pkwy, Allerton Av and Burke Av&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 160625 class="plannedWorkDetail" &gt;&lt;/b&gt;Day, 10:15 AM to 3 PM, Tuesday, Jul 11&lt;br&gt;&lt;br&gt;For service &lt;i&gt;to &lt;/i&gt;these stations, take the [2] to Gun Hill Rd and transfer to a Flatbush Av-bound [2].&lt;br&gt;&lt;br&gt;For service &lt;i&gt;from &lt;/i&gt;these stations, take the [2] to E 180 St and transfer to a Wakefield-bound [2].&lt;br&gt;&lt;br&gt;&lt;/font&gt;&lt;b&gt;&lt;i&gt;Alternate travel note:&lt;br&gt;&lt;/b&gt;From&lt;/i&gt; these stations, take the &lt;a href=http://web.mta.info/nyct/bus/schedule/bronx/bx039cur.pdf target=_blank&gt;&lt;font color=#0000FF&gt;&lt;b&gt;&lt;u&gt;Bx39&lt;/u&gt;&lt;/b&gt;&lt;/font&gt;&lt;/a&gt; bus.&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>07/11/2017</Date>
-    <Time>12:02PM</Time>
+    <Time>12:09PM</Time>
   </line>
   <line>
     <name>456</name>
-    <status>PLANNED WORK</status>
+    <status>DELAYS</status>
     <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;07/11/2017&amp;nbsp;12:09PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;P&gt;Due to track maintenance at &lt;STRONG&gt;Jackson Av&lt;/STRONG&gt;, [2] and [5] trains are running with delays in both directions.&lt;/P&gt;
+&lt;P&gt;Allow additional travel time.&lt;/P&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              
                     &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
                     &lt;br/&gt;
                   &lt;a class="plannedWorkDetailLink" onclick=ShowHide(160629);&gt;&lt;b&gt;[6D] Brooklyn Bridge-bound trains run local from Hunts Point Av to 3 Av-138 St&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 160629 class="plannedWorkDetail" &gt;&lt;/b&gt;Days, 10:15 AM to 1 PM, Tue to Thu, Jul 11 - 13&lt;br&gt;&lt;br&gt;&amp;bull; Please allow additional travel time.&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
@@ -36,7 +52,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>07/11/2017</Date>
-    <Time>12:02PM</Time>
+    <Time>12:09PM</Time>
   </line>
   <line>
     <name>7</name>
@@ -72,7 +88,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>07/11/2017</Date>
-    <Time>12:02PM</Time>
+    <Time>12:08PM</Time>
   </line>
   <line>
     <name>G</name>
@@ -98,7 +114,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>07/11/2017</Date>
-    <Time>12:02PM</Time>
+    <Time>12:08PM</Time>
   </line>
   <line>
     <name>NQR</name>
@@ -115,7 +131,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>07/11/2017</Date>
-    <Time>12:02PM</Time>
+    <Time>12:08PM</Time>
   </line>
   <line>
     <name>S</name>
@@ -134,7 +150,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>07/11/2017</Date>
-    <Time>12:02PM</Time>
+    <Time>12:08PM</Time>
   </line>
 </subway><bus>
   <line>
@@ -240,25 +256,6 @@
     <text>
                   &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
                   &lt;span class="DateStyle"&gt;
-                  &amp;nbsp;Posted:&amp;nbsp;07/11/2017&amp;nbsp;12:04PM
-                  &lt;/span&gt;
-                  &lt;br/&gt;
-                  &lt;br/&gt;
-                &lt;P&gt;&lt;STRONG&gt;Bx16&lt;/STRONG&gt;, &lt;STRONG&gt;Bx31&lt;/STRONG&gt; and &lt;STRONG&gt;Bx34&lt;/STRONG&gt; buses are detoured on 233 St from Jerome Av to Webster Av, due to the Inspector's Funeral procession for slain NYPD Officer Miosotis Familia.&lt;/P&gt;
-&lt;P&gt;Detour is as follows:&lt;/P&gt;
-&lt;P&gt;&lt;STRONG&gt;Bx16 Northbound&lt;/STRONG&gt;: Via Bainbridge Av into 204 St, left on Webster Av and regular route.&lt;/P&gt;
-&lt;P&gt;&lt;STRONG&gt;Bx16 Southbound&lt;/STRONG&gt;: Via Webster Av, right on 204 St into Bainbridge Av.&lt;/P&gt;
-&lt;P&gt;&lt;STRONG&gt;Bx31 Northbound:&lt;/STRONG&gt; Via 233 St, right on Webster Av, left on 240 St/McLean Av, left on Kimball Av and terminal and right.&lt;/P&gt;
-&lt;P&gt;&lt;STRONG&gt;Bx31 Southbound&lt;/STRONG&gt;: Via Van Cortlandt/Kimball Av, right on McLean Av, right on Webster Av, left on 233 St and regular route.&lt;/P&gt;
-&lt;P&gt;&lt;STRONG&gt;Bx34 Northbound&lt;/STRONG&gt;: Via Jerome Av into I87 north, exit 14, right on McLean Av, right on Kimball Av, terminal on right.&lt;/P&gt;
-&lt;P&gt;&lt;STRONG&gt;Bx34 Southbound&lt;/STRONG&gt;: Left on Van Cortlandt/Kimball Av, left on McLean Av, left on Central Park Av into Jerome Av and regular route.&lt;/P&gt;
-&lt;P&gt;Allow additional travel time. &lt;/P&gt;
-&lt;P&gt; &lt;/P&gt;
-              &lt;br/&gt;
-              &lt;br/&gt;
-            
-                  &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
-                  &lt;span class="DateStyle"&gt;
                   &amp;nbsp;Posted:&amp;nbsp;07/11/2017&amp;nbsp;10:08AM
                   &lt;/span&gt;
                   &lt;br/&gt;
@@ -275,7 +272,7 @@
               &lt;br/&gt;
             </text>
     <Date>07/11/2017</Date>
-    <Time>12:04PM</Time>
+    <Time>10:08AM</Time>
   </line>
   <line>
     <name>BXM1 - BXM18</name>
@@ -458,7 +455,7 @@
               &lt;br/&gt;
             </text>
     <Date>07/11/2017</Date>
-    <Time>12:02PM</Time>
+    <Time>12:08PM</Time>
   </line>
   <line>
     <name>x1 - x68</name>
@@ -471,7 +468,7 @@
               &lt;br/&gt;
             </text>
     <Date>07/11/2017</Date>
-    <Time>12:02PM</Time>
+    <Time>12:08PM</Time>
   </line>
 </bus><BT>
   <line>
