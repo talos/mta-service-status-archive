@@ -1,17 +1,10 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>DELAYS</status>
-    <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;07/12/2017&amp;nbsp; 4:07PM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  Following earlier signal problems at &lt;STRONG&gt;72 St&lt;/STRONG&gt;, [2] and [3] train service has resumed.
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>07/12/2017</Date>
-    <Time> 4:07PM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>456</name>
@@ -105,7 +98,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>07/12/2017</Date>
-    <Time> 4:08PM</Time>
+    <Time> 4:12PM</Time>
   </line>
   <line>
     <name>SIR</name>
@@ -269,12 +262,23 @@
               &lt;br/&gt;
             </text>
     <Date>07/12/2017</Date>
-    <Time> 4:08PM</Time>
+    <Time> 4:12PM</Time>
   </line>
   <line>
     <name>M1 - M116</name>
     <status>DELAYS</status>
     <text>
+                  &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                  &lt;span class="DateStyle"&gt;
+                  &amp;nbsp;Posted:&amp;nbsp;07/12/2017&amp;nbsp; 4:12PM
+                  &lt;/span&gt;
+                  &lt;br/&gt;
+                  &lt;br/&gt;
+                &lt;P&gt;&lt;STRONG&gt;M103&lt;/STRONG&gt; buses are running with delays in both directions, due to traffic conditions near the Manhattan Bridge and Williamsburg Bridge. &lt;/P&gt;
+&lt;P&gt;Allow additional travel time.&lt;/P&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
                   &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                   &lt;span class="DateStyle"&gt;
                   &amp;nbsp;Posted:&amp;nbsp;07/12/2017&amp;nbsp; 4:05PM
@@ -311,7 +315,7 @@
               &lt;br/&gt;
             </text>
     <Date>07/12/2017</Date>
-    <Time> 4:05PM</Time>
+    <Time> 4:12PM</Time>
   </line>
   <line>
     <name>Q1 - Q113</name>
@@ -417,7 +421,7 @@
               &lt;br/&gt;
             </text>
     <Date>07/12/2017</Date>
-    <Time> 4:08PM</Time>
+    <Time> 4:12PM</Time>
   </line>
   <line>
     <name>x1 - x68</name>
