@@ -1,31 +1,17 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>DELAYS</status>
-    <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;07/13/2017&amp;nbsp; 6:20PM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  Following earlier signal problems at &lt;STRONG&gt;Crown Hts-Utica Av&lt;/STRONG&gt;, [2], [3], [4] and [5] train service has resumed.
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>07/13/2017</Date>
-    <Time> 6:20PM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>456</name>
-    <status>DELAYS</status>
-    <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;07/13/2017&amp;nbsp; 6:20PM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  Following earlier signal problems at &lt;STRONG&gt;Crown Hts-Utica Av&lt;/STRONG&gt;, [2], [3], [4] and [5] train service has resumed.
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>07/13/2017</Date>
-    <Time> 6:20PM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>7</name>
@@ -60,13 +46,6 @@
     <text>
                     &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;07/13/2017&amp;nbsp; 6:19PM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  Following an earlier incident involving signal problems at &lt;STRONG&gt;B'way-Lafayette St&lt;/STRONG&gt;, [B] and [D] train service has resumed with delays.
-                &lt;br/&gt;&lt;br/&gt;
-              
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
                     &amp;nbsp;Posted:&amp;nbsp;07/13/2017&amp;nbsp; 6:02PM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
                   &lt;P style="MARGIN: 0in 0in 8pt; LINE-HEIGHT: normal"&gt;&lt;SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: 'Arial','sans-serif'"&gt;[M] train [SB] buses are delayed in both directions, due to road work on Myrtle Av and Bleecker St. &lt;/SPAN&gt;&lt;/P&gt;
@@ -92,7 +71,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>07/13/2017</Date>
-    <Time> 6:19PM</Time>
+    <Time> 6:02PM</Time>
   </line>
   <line>
     <name>G</name>
@@ -859,8 +838,15 @@
   </line>
   <line>
     <name>Pascack Valley</name>
-    <status>PLANNED WORK</status>
+    <status>DELAYS</status>
     <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;07/13/2017&amp;nbsp; 6:33PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;br&gt;PVL train #1633 the 6:06pm from Secaucus is up to 20 min. late due to operational issues.   &lt;br&gt;&lt;br&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              
                     &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
                     &amp;nbsp;Posted:&amp;nbsp;07/08/2017&amp;nbsp;11:14AM
@@ -875,8 +861,8 @@
                   NJ TRANSIT Reminder: The summer service changes due to Amtrak track work at PSNY begin this Monday, 7/10/17. Visit http://njtransit.com/theupdate. &lt;br&gt;
                 &lt;br/&gt;&lt;br/&gt;
               </text>
-    <Date>07/08/2017</Date>
-    <Time>11:14AM</Time>
+    <Date>07/13/2017</Date>
+    <Time> 6:33PM</Time>
   </line>
   <line>
     <name>Port Jervis</name>
