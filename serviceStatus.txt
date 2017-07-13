@@ -8,10 +8,20 @@
   </line>
   <line>
     <name>456</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>PLANNED WORK</status>
+    <text>
+                    &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
+                    &lt;br/&gt;
+                  &lt;a class="plannedWorkDetailLink" onclick=ShowHide(160629);&gt;&lt;b&gt;[6D] Brooklyn Bridge-bound trains run local from Hunts Point Av to 3 Av-138 St&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 160629 class="plannedWorkDetail" &gt;&lt;/b&gt;Days, 10:15 AM to 1 PM, Tue to Thu, Jul 11 - 13&lt;br&gt;&lt;br&gt;&amp;bull; Please allow additional travel time.&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              
+                    &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
+                    &lt;br/&gt;
+                  &lt;a class="plannedWorkDetailLink" onclick=ShowHide(160631);&gt;&lt;b&gt;[6] Brooklyn Bridge-bound trains run express from Parkchester to Hunts Point Av&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 160631 class="plannedWorkDetail" &gt;&lt;/b&gt;Days, 10:15 AM to 3 PM, Tue to Thu, Jul 11 - 13&lt;br&gt;&lt;br&gt;For service &lt;i&gt;to&lt;/i&gt; St Lawrence Av, Morrison Av-Soundview, Elder and Whitlock Avs,&lt;br&gt;take the [6] to Hunts Point Av and transfer to a Pelham Bay Park-bound [6].&lt;br&gt;&lt;br&gt;For service &lt;i&gt;from &lt;/i&gt;these stations, take the [6] to Parkchester and transfer to a&lt;br&gt;Brooklyn Bridge-bound [6].&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>07/13/2017</Date>
+    <Time>10:22AM</Time>
   </line>
   <line>
     <name>7</name>
@@ -42,7 +52,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>07/13/2017</Date>
-    <Time>10:12AM</Time>
+    <Time>10:22AM</Time>
   </line>
   <line>
     <name>G</name>
@@ -86,6 +96,11 @@
                     &lt;br/&gt;
                   &lt;a class="plannedWorkDetailLink" onclick=ShowHide(160841);&gt;&lt;b&gt;[Q] Coney Island-bound trains skip Avenue U and Neck Rd&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 160841 class="plannedWorkDetail" &gt;&lt;/b&gt;Days, 9:45 AM to 3 PM, Mon to Fri, until Jul 28 &lt;br&gt;&lt;br&gt;&lt;/font&gt;For service &lt;i&gt;to&lt;/i&gt; these stations, take the [Q] to Sheepshead Bay and &lt;br&gt;transfer to a 96 St-bound [Q].&lt;br&gt;&lt;br&gt;For service &lt;i&gt;from&lt;/i&gt; these stations, take the [Q] to Kings Hwy and &lt;br&gt;transfer to a Coney Island-bound [Q].&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
                 &lt;br/&gt;&lt;br/&gt;
+              
+                    &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
+                    &lt;br/&gt;
+                  &lt;a class="plannedWorkDetailLink" onclick=ShowHide(160465);&gt;&lt;b&gt;[N] Coney Island-bound trains skip 30 Av, Broadway, 36 Av and 39 Av&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 160465 class="plannedWorkDetail" &gt;&lt;/b&gt;Days, 10:15 AM to 3 PM, Thu &lt;i&gt;and&lt;/i&gt; Fri, Jul 13 - 14&lt;br&gt;&lt;br&gt;For service &lt;i&gt;to&lt;/i&gt; these stations, take the [N] to Queensboro Plaza and transfer to an Astoria-bound [N].&lt;br&gt;&lt;br&gt;For service &lt;i&gt;from&lt;/i&gt; these stations, take the [N] to Astoria Blvd and transfer to a Coney Island-bound [N].&lt;br&gt;&lt;br&gt;&lt;b&gt;Note:&lt;/b&gt; No [W] service at these stations during this time.&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+                &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>07/13/2017</Date>
     <Time>10:05AM</Time>
@@ -107,7 +122,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>07/13/2017</Date>
-    <Time>10:12AM</Time>
+    <Time>10:22AM</Time>
   </line>
 </subway><bus>
   <line>
@@ -151,7 +166,7 @@
               &lt;br/&gt;
             </text>
     <Date>07/13/2017</Date>
-    <Time>10:12AM</Time>
+    <Time>10:22AM</Time>
   </line>
   <line>
     <name>B100 - B103</name>
@@ -178,7 +193,7 @@
               &lt;br/&gt;
             </text>
     <Date>07/13/2017</Date>
-    <Time>10:12AM</Time>
+    <Time>10:22AM</Time>
   </line>
   <line>
     <name>BXM1 - BXM18</name>
@@ -191,7 +206,7 @@
               &lt;br/&gt;
             </text>
     <Date>07/13/2017</Date>
-    <Time>10:12AM</Time>
+    <Time>10:22AM</Time>
   </line>
   <line>
     <name>M1 - M116</name>
@@ -222,7 +237,7 @@
               &lt;br/&gt;
             </text>
     <Date>07/13/2017</Date>
-    <Time>10:12AM</Time>
+    <Time>10:22AM</Time>
   </line>
   <line>
     <name>Q1 - Q113</name>
@@ -318,7 +333,7 @@
               &lt;br/&gt;
             </text>
     <Date>07/13/2017</Date>
-    <Time>10:12AM</Time>
+    <Time>10:22AM</Time>
   </line>
   <line>
     <name>x1 - x68</name>
@@ -331,7 +346,7 @@
               &lt;br/&gt;
             </text>
     <Date>07/13/2017</Date>
-    <Time>10:12AM</Time>
+    <Time>10:22AM</Time>
   </line>
 </bus><BT>
   <line>
