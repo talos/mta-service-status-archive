@@ -1,23 +1,23 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>DELAYS</status>
+    <status>SERVICE CHANGE</status>
     <text>
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;07/15/2017&amp;nbsp;12:22PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;P&gt;Due to track maintenance at &lt;STRONG&gt;South Ferry&lt;/STRONG&gt;, the following service changes are in effect:&lt;/P&gt;
+&lt;P&gt;Some southbound [2] trains are terminating at &lt;STRONG&gt;Chambers St&lt;/STRONG&gt;.&lt;/P&gt;
+&lt;P&gt;Expect delays on [1] and [2] trains in both directions.&lt;/P&gt;
+&lt;P&gt;Allow additional travel time.&lt;/P&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              
                     &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
                     &amp;nbsp;Posted:&amp;nbsp;07/15/2017&amp;nbsp;12:06PM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
                   &lt;P&gt;Due to track maintenance at &lt;STRONG&gt;Marble Hill-225 St,&lt;/STRONG&gt; southbound [1] trains are running with delays. &lt;/P&gt;
-&lt;P&gt;Allow additional travel time.&lt;/P&gt;
-                &lt;br/&gt;&lt;br/&gt;
-              
-                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;07/15/2017&amp;nbsp;10:10AM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  &lt;P&gt;Due to track maintenance at &lt;STRONG&gt;South Ferry&lt;/STRONG&gt;, the following service changes are in effect:&lt;/P&gt;
-&lt;P&gt;Some southbound [2] trains are terminating at &lt;STRONG&gt;Chambers St&lt;/STRONG&gt;.&lt;/P&gt;
-&lt;P&gt;Expect delays on [1] and [2] trains in both directions.&lt;/P&gt;
 &lt;P&gt;Allow additional travel time.&lt;/P&gt;
                 &lt;br/&gt;&lt;br/&gt;
               
@@ -37,7 +37,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>07/15/2017</Date>
-    <Time>12:06PM</Time>
+    <Time>12:22PM</Time>
   </line>
   <line>
     <name>456</name>
@@ -69,7 +69,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>07/15/2017</Date>
-    <Time>12:12PM</Time>
+    <Time>12:22PM</Time>
   </line>
   <line>
     <name>7</name>
@@ -120,7 +120,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>07/15/2017</Date>
-    <Time>12:12PM</Time>
+    <Time>12:22PM</Time>
   </line>
   <line>
     <name>BDFM</name>
@@ -142,7 +142,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>07/15/2017</Date>
-    <Time>12:12PM</Time>
+    <Time>12:22PM</Time>
   </line>
   <line>
     <name>G</name>
@@ -154,7 +154,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>07/15/2017</Date>
-    <Time>12:12PM</Time>
+    <Time>12:22PM</Time>
   </line>
   <line>
     <name>JZ</name>
@@ -185,7 +185,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>07/15/2017</Date>
-    <Time>12:12PM</Time>
+    <Time>12:22PM</Time>
   </line>
   <line>
     <name>S</name>
@@ -204,7 +204,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>07/15/2017</Date>
-    <Time>12:12PM</Time>
+    <Time>12:22PM</Time>
   </line>
 </subway><bus>
   <line>
@@ -284,7 +284,7 @@
               &lt;br/&gt;
             </text>
     <Date>07/15/2017</Date>
-    <Time>12:12PM</Time>
+    <Time>12:22PM</Time>
   </line>
   <line>
     <name>B100 - B103</name>
@@ -304,7 +304,7 @@
               &lt;br/&gt;
             </text>
     <Date>07/15/2017</Date>
-    <Time>12:12PM</Time>
+    <Time>12:22PM</Time>
   </line>
   <line>
     <name>BX1 - BX55</name>
@@ -312,7 +312,7 @@
     <text>
                   &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                   &lt;span class="DateStyle"&gt;
-                  &amp;nbsp;Posted:&amp;nbsp;07/15/2017&amp;nbsp;10:10AM
+                  &amp;nbsp;Posted:&amp;nbsp;07/15/2017&amp;nbsp;12:22PM
                   &lt;/span&gt;
                   &lt;br/&gt;
                   &lt;br/&gt;
@@ -328,7 +328,7 @@
               &lt;br/&gt;
             </text>
     <Date>07/15/2017</Date>
-    <Time>10:10AM</Time>
+    <Time>12:22PM</Time>
   </line>
   <line>
     <name>BXM1 - BXM18</name>
@@ -353,7 +353,7 @@
               &lt;br/&gt;
             </text>
     <Date>07/15/2017</Date>
-    <Time>12:12PM</Time>
+    <Time>12:22PM</Time>
   </line>
   <line>
     <name>M1 - M116</name>
@@ -408,7 +408,7 @@
               &lt;br/&gt;
             </text>
     <Date>07/15/2017</Date>
-    <Time>12:12PM</Time>
+    <Time>12:22PM</Time>
   </line>
   <line>
     <name>Q1 - Q113</name>
@@ -420,27 +420,27 @@
                   &lt;/span&gt;
                   &lt;br/&gt;
                   &lt;br/&gt;
-                &lt;P&gt;&lt;STRONG&gt;Q114&lt;/STRONG&gt; buses are detoured in both directions, due to down power line Mott Av between Church Av and Route 878. &lt;/P&gt;
-&lt;P&gt;Detour is as follows:&lt;/P&gt;
-&lt;P&gt;&lt;STRONG&gt;Q114 Jamaica Bound:&lt;/STRONG&gt; Via Route 878, right on Burnside Av, left on Rockaway Tpke and regular route.&lt;/P&gt;
-&lt;P&gt;&lt;STRONG&gt;Q114 Rockaway Bound&lt;/STRONG&gt;: Via Rockaway Tpke, right on Burnside Av, left on Route 878 and regular route.&lt;/P&gt;
-&lt;P&gt;Corresponding stops will be made along detour route.&lt;/P&gt;
-&lt;P&gt;Allow additional travel time.&lt;/P&gt;
-              &lt;br/&gt;
-              &lt;br/&gt;
-            
-                  &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
-                  &lt;span class="DateStyle"&gt;
-                  &amp;nbsp;Posted:&amp;nbsp;07/15/2017&amp;nbsp;10:11AM
-                  &lt;/span&gt;
-                  &lt;br/&gt;
-                  &lt;br/&gt;
                 &lt;P&gt;&lt;STRONG&gt;Q12, Q15&lt;/STRONG&gt; and &lt;STRONG&gt;Q15A&lt;/STRONG&gt; buses are detoured, due to Con Ed work at Roosevelt Av and Bowne Av.&lt;/P&gt;
 &lt;P&gt;Detour is as follows:&lt;/P&gt;
 &lt;P&gt;&lt;STRONG&gt;Q12 Towards Flushing&lt;/STRONG&gt;: Via Sanford Av, right on Kissena Blvd, right on Main St, left on 39 Av and regular route.&lt;/P&gt;
 &lt;P&gt;&lt;STRONG&gt;Q12 Towards Little Neck&lt;/STRONG&gt;: Via Roosevelt Av, right on Union St, left on 41 Av, right on Bowne St and regular route.&lt;/P&gt;
 &lt;P&gt;&lt;STRONG&gt;Q15 and Q15A Towards Beechhurst&lt;/STRONG&gt;: Via Roosevelt Av, right on Union St, left on 41 Av and regular route.&lt;/P&gt;
 &lt;P&gt;&lt;STRONG&gt;Q15 and Q15A Towards Flushing&lt;/STRONG&gt;: Via 41 Av, left on Bowne St, right on Sanford Av, right on Kissena Blvd, right on Main St, left on 39 Av and drop off.&lt;/P&gt;
+&lt;P&gt;Allow additional travel time.&lt;/P&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
+                  &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                  &lt;span class="DateStyle"&gt;
+                  &amp;nbsp;Posted:&amp;nbsp;07/15/2017&amp;nbsp;12:22PM
+                  &lt;/span&gt;
+                  &lt;br/&gt;
+                  &lt;br/&gt;
+                &lt;P&gt;&lt;STRONG&gt;Q114&lt;/STRONG&gt; buses are detoured in both directions, due to down power line Mott Av between Church Av and Route 878. &lt;/P&gt;
+&lt;P&gt;Detour is as follows:&lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;Q114 Jamaica Bound:&lt;/STRONG&gt; Via Route 878, right on Burnside Av, left on Rockaway Tpke and regular route.&lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;Q114 Rockaway Bound&lt;/STRONG&gt;: Via Rockaway Tpke, right on Burnside Av, left on Route 878 and regular route.&lt;/P&gt;
+&lt;P&gt;Corresponding stops will be made along detour route.&lt;/P&gt;
 &lt;P&gt;Allow additional travel time.&lt;/P&gt;
               &lt;br/&gt;
               &lt;br/&gt;
@@ -489,7 +489,7 @@
               &lt;br/&gt;
             </text>
     <Date>07/15/2017</Date>
-    <Time>12:12PM</Time>
+    <Time>12:22PM</Time>
   </line>
   <line>
     <name>S40 - S98</name>
@@ -502,7 +502,7 @@
               &lt;br/&gt;
             </text>
     <Date>07/15/2017</Date>
-    <Time>12:12PM</Time>
+    <Time>12:22PM</Time>
   </line>
   <line>
     <name>x1 - x68</name>
@@ -521,7 +521,7 @@
               &lt;br/&gt;
             </text>
     <Date>07/15/2017</Date>
-    <Time>12:12PM</Time>
+    <Time>12:22PM</Time>
   </line>
 </bus><BT>
   <line>
