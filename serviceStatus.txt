@@ -1,17 +1,13 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>SERVICE CHANGE</status>
+    <status>DELAYS</status>
     <text>
-                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;07/16/2017&amp;nbsp; 8:08AM
+                    &amp;nbsp;Posted:&amp;nbsp;07/16/2017&amp;nbsp; 8:22AM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  &lt;P&gt;Due to signal problems &lt;STRONG&gt;Marble Hill-225 St&lt;/STRONG&gt;, the following service changes are in effect:&lt;/P&gt;
-&lt;P&gt;[1] trains no service between &lt;STRONG&gt;Van Cortlandt Park-242 St&lt;/STRONG&gt; to &lt;STRONG&gt;168 St&lt;/STRONG&gt; in both directions.&lt;/P&gt;
-&lt;P&gt;Northbound [1] trains are terminating at &lt;STRONG&gt;168 St.&lt;/STRONG&gt;&lt;/P&gt;
-&lt;P&gt;Northbound [3] trains are running local from &lt;STRONG&gt;Chambers St&lt;/STRONG&gt; to &lt;STRONG&gt;96 St.&lt;/STRONG&gt;&lt;/P&gt;
-&lt;P&gt;Expect delays on [1], [2] and [3] trains.&lt;/P&gt;
+                  &lt;P&gt;Due to signal problems at &lt;STRONG&gt;Marble Hill-225 St&lt;/STRONG&gt;,  [1] trains are running with delays.&lt;/P&gt;
 &lt;P&gt;Allow additional travel time.&lt;/P&gt;
                 &lt;br/&gt;&lt;br/&gt;
               
@@ -31,7 +27,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>07/16/2017</Date>
-    <Time> 8:08AM</Time>
+    <Time> 8:22AM</Time>
   </line>
   <line>
     <name>456</name>
@@ -109,7 +105,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>07/16/2017</Date>
-    <Time> 8:12AM</Time>
+    <Time> 8:22AM</Time>
   </line>
   <line>
     <name>BDFM</name>
@@ -131,7 +127,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>07/16/2017</Date>
-    <Time> 8:12AM</Time>
+    <Time> 8:22AM</Time>
   </line>
   <line>
     <name>G</name>
@@ -143,7 +139,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>07/16/2017</Date>
-    <Time> 8:12AM</Time>
+    <Time> 8:22AM</Time>
   </line>
   <line>
     <name>JZ</name>
@@ -174,7 +170,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>07/16/2017</Date>
-    <Time> 8:12AM</Time>
+    <Time> 8:22AM</Time>
   </line>
   <line>
     <name>S</name>
@@ -193,7 +189,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>07/16/2017</Date>
-    <Time> 8:12AM</Time>
+    <Time> 8:22AM</Time>
   </line>
 </subway><bus>
   <line>
@@ -231,7 +227,7 @@
               &lt;br/&gt;
             </text>
     <Date>07/16/2017</Date>
-    <Time> 8:12AM</Time>
+    <Time> 8:22AM</Time>
   </line>
   <line>
     <name>B100 - B103</name>
@@ -310,7 +306,7 @@
               &lt;br/&gt;
             </text>
     <Date>07/16/2017</Date>
-    <Time> 8:12AM</Time>
+    <Time> 8:22AM</Time>
   </line>
   <line>
     <name>M1 - M116</name>
@@ -408,7 +404,7 @@
               &lt;br/&gt;
             </text>
     <Date>07/16/2017</Date>
-    <Time> 8:12AM</Time>
+    <Time> 8:22AM</Time>
   </line>
   <line>
     <name>QM1 - QM44</name>
@@ -433,7 +429,7 @@
               &lt;br/&gt;
             </text>
     <Date>07/16/2017</Date>
-    <Time> 8:12AM</Time>
+    <Time> 8:22AM</Time>
   </line>
   <line>
     <name>S40 - S98</name>
