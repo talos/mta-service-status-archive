@@ -70,11 +70,6 @@
               
                     &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
                     &lt;br/&gt;
-                  &lt;a class="plannedWorkDetailLink" onclick=ShowHide(161504);&gt;&lt;b&gt;[F] &lt;/font&gt;Trains run with reduced frequency between 179 St and 71 Av&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 161504 class="plannedWorkDetail" &gt;&lt;/b&gt;Rush Hours, 6:30 AM to 9:30 AM&lt;i&gt; and&lt;/i&gt; 3:30 PM to 8 PM, Mon to Fri, Jul 17 - Aug 4&lt;br&gt;&lt;br&gt;&amp;bull; Please allow additional travel time.&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
-                &lt;br/&gt;&lt;br/&gt;
-              
-                    &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
-                    &lt;br/&gt;
                   &lt;a class="plannedWorkDetailLink" onclick=ShowHide(160316);&gt;&lt;b&gt;[F] Manhattan-bound trains skip 75 Av&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 160316 class="plannedWorkDetail" &gt;&lt;/b&gt;All times, until Friday, Aug 4&lt;br&gt;&lt;br&gt;For service &lt;i&gt;to&lt;/i&gt; this station, take the [F] to 71 Av and transfer to a &lt;br&gt;Jamaica Center-bound [E]* or Jamaica-bound [F].&lt;br&gt;&lt;br&gt;For service &lt;i&gt;from&lt;/i&gt; this station, take the [E] or  [F] to Union Tpke and transfer to a Manhattan-bound [F].&lt;br&gt;&lt;br&gt;&lt;i&gt;*Jamaica Center-bound&lt;/i&gt; &lt;i&gt;[E] trains stop at 75 Av&lt;/i&gt; &lt;i&gt;evenings, late nights and weekends. &lt;br&gt;&lt;/i&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
                 &lt;br/&gt;&lt;br/&gt;
               </text>
@@ -119,7 +114,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>07/17/2017</Date>
-    <Time> 9:28AM</Time>
+    <Time> 9:32AM</Time>
   </line>
   <line>
     <name>SIR</name>
@@ -131,13 +126,27 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>07/17/2017</Date>
-    <Time> 9:28AM</Time>
+    <Time> 9:32AM</Time>
   </line>
 </subway><bus>
   <line>
     <name>B1 - B84</name>
-    <status>PLANNED WORK</status>
+    <status>SERVICE CHANGE</status>
     <text>
+                  &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                  &lt;span class="DateStyle"&gt;
+                  &amp;nbsp;Posted:&amp;nbsp;07/17/2017&amp;nbsp; 9:31AM
+                  &lt;/span&gt;
+                  &lt;br/&gt;
+                  &lt;br/&gt;
+                &lt;P&gt;&lt;STRONG&gt;B9&lt;/STRONG&gt; buses are detoured, due to Con Ed work on Avenue N and E 52 St.&lt;/P&gt;
+&lt;P&gt;Detour is as follows:&lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;Kings Plaza Bound&lt;/STRONG&gt;: Via Avenue N, right on E 52 St, left on Avenue O, left on E 3 St, right on Avenue N and regular route.&lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;Shore Rd Bound&lt;/STRONG&gt;: Via Avenue N, right on E 3 St, left on Avenue M, left on E 2 St, right on Avenue N and regular route.&lt;/P&gt;
+&lt;P&gt;Allow additional travel time.&lt;/P&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
                   &lt;span class="TitlePlannedWork" &gt;Planned Detour&lt;/span&gt;
                   &lt;br/&gt;
                 &lt;a class="plannedWorkDetailLink" onclick=ShowHide(163112);&gt;&lt;b&gt;B62 &lt;/b&gt;- &lt;b&gt;Northbound buses rerouted from Bedford Av between Broadway &amp; South 5 St&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 163112 class="plannedWorkDetail" &gt;&lt;/b&gt;7 AM to 7 PM, Mon &lt;i&gt;and &lt;/i&gt;Wed, Jul 17 &lt;i&gt;and &lt;/i&gt;19&lt;br&gt;&lt;br&gt;Due to a local event, buses run via &lt;b&gt;Berry St &lt;/b&gt;making corresponding stops.&lt;br&gt;&lt;br&gt;&lt;b&gt;&lt;i&gt;&lt;a style="cursor:pointer; text-decoration:underline;" onclick=ShowHide(1631120);&gt;Show Reroute Details&lt;/a&gt;&lt;/i&gt;&lt;/b&gt;&lt;br&gt;&lt;div id="1631120"; style="display:none;"&gt;Via Broadway &lt;br&gt;Right on Berry St&lt;br&gt;Right on South 5 St&lt;br&gt;Left on Bedford Av then regular route&lt;/div&gt;&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
@@ -163,7 +172,7 @@
               &lt;br/&gt;
             </text>
     <Date>07/17/2017</Date>
-    <Time> 9:28AM</Time>
+    <Time> 9:31AM</Time>
   </line>
   <line>
     <name>B100 - B103</name>
@@ -190,7 +199,7 @@
               &lt;br/&gt;
             </text>
     <Date>07/17/2017</Date>
-    <Time> 9:28AM</Time>
+    <Time> 9:32AM</Time>
   </line>
   <line>
     <name>BXM1 - BXM18</name>
@@ -203,7 +212,7 @@
               &lt;br/&gt;
             </text>
     <Date>07/17/2017</Date>
-    <Time> 9:28AM</Time>
+    <Time> 9:32AM</Time>
   </line>
   <line>
     <name>M1 - M116</name>
@@ -228,7 +237,7 @@
               &lt;br/&gt;
             </text>
     <Date>07/17/2017</Date>
-    <Time> 9:28AM</Time>
+    <Time> 9:32AM</Time>
   </line>
   <line>
     <name>Q1 - Q113</name>
@@ -334,7 +343,7 @@
               &lt;br/&gt;
             </text>
     <Date>07/17/2017</Date>
-    <Time> 9:28AM</Time>
+    <Time> 9:32AM</Time>
   </line>
   <line>
     <name>x1 - x68</name>
