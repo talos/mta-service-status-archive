@@ -1,31 +1,17 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>DELAYS</status>
-    <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;07/19/2017&amp;nbsp; 5:11PM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  Following an earlier incident at &lt;STRONG&gt;72 St&lt;/STRONG&gt;, [1], [2], [3], [4] and [5] train service has resumed with delays.
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>07/19/2017</Date>
-    <Time> 5:11PM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>456</name>
-    <status>DELAYS</status>
-    <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;07/19/2017&amp;nbsp; 5:11PM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  Following an earlier incident at &lt;STRONG&gt;72 St&lt;/STRONG&gt;, [1], [2], [3], [4] and [5] train service has resumed with delays.
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>07/19/2017</Date>
-    <Time> 5:11PM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>7</name>
@@ -800,13 +786,13 @@
     <text>
                     &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;07/19/2017&amp;nbsp; 5:25PM
+                    &amp;nbsp;Posted:&amp;nbsp;07/19/2017&amp;nbsp; 6:00PM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  The 4:34PM train from Atlantic Terminal due Ronkonkoma at 5:57PM is operating 10 minutes late due to police activity at Jamaica Station.
+                  &lt;p&gt;The 4:34PM train from Atlantic Terminal due Ronkonkoma at 5:57PM is operating 10 minutes late due to police activity at Jamaica Station.&lt;/p&gt;&lt;p&gt;The 5:01PM train from Penn due Ronkonkoma at 6:21PM is operating 12 minutes late due to a late train ahead.&lt;/p&gt;
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>07/19/2017</Date>
-    <Time> 5:25PM</Time>
+    <Time> 6:00PM</Time>
   </line>
   <line>
     <name>West Hempstead</name>
