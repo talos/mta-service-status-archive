@@ -590,8 +590,15 @@ Station.
   </line>
   <line>
     <name>Oyster Bay</name>
-    <status>SERVICE CHANGE</status>
+    <status>DELAYS</status>
     <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;07/18/2017&amp;nbsp; 7:58PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  The 6:41PM train from Hunterspoint Ave. due Oyster Bay at 7:56PM is now operating 48 minutes late due to signal trouble east of Jamaica.
+                &lt;br/&gt;&lt;br/&gt;
+              
                     &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
                     &amp;nbsp;Posted:&amp;nbsp;07/18/2017&amp;nbsp; 7:20PM
@@ -600,7 +607,7 @@ Station.
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>07/18/2017</Date>
-    <Time> 7:20PM</Time>
+    <Time> 7:58PM</Time>
   </line>
   <line>
     <name>Port Jefferson</name>
