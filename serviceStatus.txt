@@ -114,8 +114,22 @@
 </subway><bus>
   <line>
     <name>B1 - B84</name>
-    <status>DELAYS</status>
+    <status>SERVICE CHANGE</status>
     <text>
+                  &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                  &lt;span class="DateStyle"&gt;
+                  &amp;nbsp;Posted:&amp;nbsp;07/20/2017&amp;nbsp; 7:15PM
+                  &lt;/span&gt;
+                  &lt;br/&gt;
+                  &lt;br/&gt;
+                &lt;P&gt;&lt;STRONG&gt;B15&lt;/STRONG&gt; buses are detoured in both directions, due to construction on Kings Hwy at E 96 St. &lt;/P&gt;
+&lt;P&gt;Detour is as follows: &lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;Eastbound&lt;/STRONG&gt;: Via E 98 St, right on Winthrop Av, left on Rockaway Pkwy, left on Lenox Rd, right on E 98 St and regular route. &lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;Westbound&lt;/STRONG&gt;: Via 98 St, right on Howard Av, left on Dumont into E 98 St and regular route. &lt;/P&gt;
+&lt;P&gt;Allow additional travel time. &lt;/P&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
                   &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                   &lt;span class="DateStyle"&gt;
                   &amp;nbsp;Posted:&amp;nbsp;07/20/2017&amp;nbsp; 6:07PM
@@ -160,7 +174,7 @@
               &lt;br/&gt;
             </text>
     <Date>07/20/2017</Date>
-    <Time> 6:07PM</Time>
+    <Time> 7:15PM</Time>
   </line>
   <line>
     <name>B100 - B103</name>
@@ -570,20 +584,10 @@
 </BT><LIRR>
   <line>
     <name>Babylon</name>
-    <status>DELAYS</status>
-    <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;07/20/2017&amp;nbsp; 7:00PM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  &lt;p&gt;The 5:59PM train from Penn due Babylon at 7:01PM is operating 16 minutes
- late due to an earlier train ahead with a customer in need of medical 
-assistance.
-                          &lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>07/20/2017</Date>
-    <Time> 7:00PM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>City Terminal Zone</name>
