@@ -1,17 +1,10 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>DELAYS</status>
-    <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;07/20/2017&amp;nbsp; 5:17PM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  Due to an earlier incident at &lt;STRONG&gt;Kingston Av&lt;/STRONG&gt;, [3] train service has resumed.
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>07/20/2017</Date>
-    <Time> 5:17PM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>456</name>
@@ -724,13 +717,14 @@
     <text>
                     &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;07/20/2017&amp;nbsp; 5:26PM
+                    &amp;nbsp;Posted:&amp;nbsp;07/20/2017&amp;nbsp; 5:28PM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  The 4:24PM train from Penn due Ronkonkoma at 5:44PM is operating 12 minutes late due to a customer in need of medical assistance at Mineola Station
+                  &lt;P&gt;The 4:34PM train from Atlantic Terminal due Ronkonkoma at 5:57PM is operating 15 minutes late due to a customer in need of medical assistance at Mineola Station &lt;/P&gt;
+&lt;P&gt;The 4:24PM train from Penn due Ronkonkoma at 5:44PM is operating 12 minutes late due to a customer in need of medical assistance at Mineola Station&lt;/P&gt;
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>07/20/2017</Date>
-    <Time> 5:26PM</Time>
+    <Time> 5:28PM</Time>
   </line>
   <line>
     <name>West Hempstead</name>
