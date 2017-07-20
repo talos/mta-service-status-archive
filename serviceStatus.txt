@@ -83,10 +83,15 @@
   </line>
   <line>
     <name>NQR</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>PLANNED WORK</status>
+    <text>
+                    &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
+                    &lt;br/&gt;
+                  &lt;a class="plannedWorkDetailLink" onclick=ShowHide(160841);&gt;&lt;b&gt;[Q] Coney Island-bound trains skip Avenue U and Neck Rd&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 160841 class="plannedWorkDetail" &gt;&lt;/b&gt;Days, 9:45 AM to 3 PM, Mon to Fri, until Jul 28 &lt;br&gt;&lt;br&gt;&lt;/font&gt;For service &lt;i&gt;to&lt;/i&gt; these stations, take the [Q] to Sheepshead Bay and &lt;br&gt;transfer to a 96 St-bound [Q].&lt;br&gt;&lt;br&gt;For service &lt;i&gt;from&lt;/i&gt; these stations, take the [Q] to Kings Hwy and &lt;br&gt;transfer to a Coney Island-bound [Q].&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>07/20/2017</Date>
+    <Time> 9:48AM</Time>
   </line>
   <line>
     <name>S</name>
@@ -98,7 +103,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>07/20/2017</Date>
-    <Time> 9:42AM</Time>
+    <Time> 9:48AM</Time>
   </line>
   <line>
     <name>SIR</name>
@@ -110,7 +115,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>07/20/2017</Date>
-    <Time> 9:42AM</Time>
+    <Time> 9:48AM</Time>
   </line>
 </subway><bus>
   <line>
@@ -208,7 +213,7 @@
               &lt;br/&gt;
             </text>
     <Date>07/20/2017</Date>
-    <Time> 9:42AM</Time>
+    <Time> 9:48AM</Time>
   </line>
   <line>
     <name>BXM1 - BXM18</name>
@@ -221,7 +226,7 @@
               &lt;br/&gt;
             </text>
     <Date>07/20/2017</Date>
-    <Time> 9:42AM</Time>
+    <Time> 9:48AM</Time>
   </line>
   <line>
     <name>M1 - M116</name>
@@ -246,7 +251,7 @@
               &lt;br/&gt;
             </text>
     <Date>07/20/2017</Date>
-    <Time> 9:42AM</Time>
+    <Time> 9:48AM</Time>
   </line>
   <line>
     <name>Q1 - Q113</name>
@@ -259,7 +264,7 @@
               &lt;br/&gt;
             </text>
     <Date>07/20/2017</Date>
-    <Time> 9:42AM</Time>
+    <Time> 9:48AM</Time>
   </line>
   <line>
     <name>QM1 - QM44</name>
@@ -272,7 +277,7 @@
               &lt;br/&gt;
             </text>
     <Date>07/20/2017</Date>
-    <Time> 9:42AM</Time>
+    <Time> 9:48AM</Time>
   </line>
   <line>
     <name>S40 - S98</name>
@@ -285,7 +290,7 @@
               &lt;br/&gt;
             </text>
     <Date>07/20/2017</Date>
-    <Time> 9:42AM</Time>
+    <Time> 9:48AM</Time>
   </line>
   <line>
     <name>x1 - x68</name>
