@@ -123,17 +123,10 @@
   </line>
   <line>
     <name>L</name>
-    <status>SERVICE CHANGE</status>
-    <text>
-                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;07/21/2017&amp;nbsp;12:13PM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  Following an earlier train with mechanical problems at &lt;STRONG&gt;6 Avenue&lt;/STRONG&gt;, [L] train service has resumed with delays.
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>07/21/2017</Date>
-    <Time>12:13PM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>NQR</name>
@@ -534,10 +527,17 @@
 </BT><LIRR>
   <line>
     <name>Babylon</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>DELAYS</status>
+    <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;07/21/2017&amp;nbsp;12:43PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  The 12:06PM train from Babylon due Penn at 1:08PM is operating 17 minutes late due to signal trouble near Massapequa.
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>07/21/2017</Date>
+    <Time>12:43PM</Time>
   </line>
   <line>
     <name>City Terminal Zone</name>
