@@ -75,8 +75,16 @@
   </line>
   <line>
     <name>BDFM</name>
-    <status>SERVICE CHANGE</status>
+    <status>DELAYS</status>
     <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;07/22/2017&amp;nbsp; 6:18PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;P&gt;Due to signal problems at &lt;STRONG&gt;York St&lt;/STRONG&gt;, northbound [F] trains are running with delays.   &lt;/P&gt;
+&lt;P&gt;Allow additional travel time.&lt;/P&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              
                     &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
                     &amp;nbsp;Posted:&amp;nbsp;07/22/2017&amp;nbsp; 6:09PM
@@ -85,14 +93,6 @@
 &lt;P&gt;Southbound [A] trains are running express from &lt;STRONG&gt;145 St&lt;/STRONG&gt; to &lt;STRONG&gt;Canal St&lt;/STRONG&gt;. &lt;/P&gt;
 &lt;P&gt;Southbound [D] trains are running local from &lt;STRONG&gt;145 St&lt;/STRONG&gt; to &lt;STRONG&gt;2 Av&lt;/STRONG&gt;. &lt;/P&gt;
 &lt;P&gt;Expect delays in [A][C] and [D] lines. &lt;/P&gt;
-&lt;P&gt;Allow additional travel time.&lt;/P&gt;
-                &lt;br/&gt;&lt;br/&gt;
-              
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;07/22/2017&amp;nbsp; 3:35PM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  &lt;P&gt;Due to signal problems at &lt;STRONG&gt;York St&lt;/STRONG&gt;, northbound [F] trains are running with delays.   &lt;/P&gt;
 &lt;P&gt;Allow additional travel time.&lt;/P&gt;
                 &lt;br/&gt;&lt;br/&gt;
               
@@ -122,7 +122,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>07/22/2017</Date>
-    <Time> 6:09PM</Time>
+    <Time> 6:18PM</Time>
   </line>
   <line>
     <name>G</name>
@@ -193,13 +193,14 @@
     <text>
                   &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
                   &lt;span class="DateStyle"&gt;
-                  &amp;nbsp;Posted:&amp;nbsp;07/22/2017&amp;nbsp; 2:36PM
+                  &amp;nbsp;Posted:&amp;nbsp;07/22/2017&amp;nbsp; 6:18PM
                   &lt;/span&gt;
                   &lt;br/&gt;
                   &lt;br/&gt;
-                &lt;P&gt;&lt;STRONG&gt;B11&lt;/STRONG&gt; buses are detoured, due to paving and a block party on 49 St between 6 Av and 8 Av. &lt;/P&gt;
+                &lt;P&gt;&lt;STRONG&gt;B35&lt;/STRONG&gt; and &lt;STRONG&gt;B68&lt;/STRONG&gt; buses are detoured, due to FDNY activity at Church Av and Coney Island Av. &lt;/P&gt;
 &lt;P&gt;Detour is as follows:&lt;/P&gt;
-&lt;P&gt;&lt;STRONG&gt;Westbound:&lt;/STRONG&gt; Via 49 St, right on 8 Av, left on 47 St, left on 6 Av, right on 49 St and regular route.&lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;B35 Eastbound&lt;/STRONG&gt;: Via Church Av, right on Ocean Pkwy, left on Beverly Rd, left on Ocean Av, right on Church Av and regular route.&lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;B68 Southbound&lt;/STRONG&gt;: Via Coney Island Av, right on Caton Av, left on Fort Hamilton Pkwy, left on Church Av, right on Ocean Pkwy, left on Beverly Rd, right on Coney Island Av and regular route.&lt;/P&gt;
 &lt;P&gt;Allow additional travel time.&lt;/P&gt;
               &lt;br/&gt;
               &lt;br/&gt;
@@ -210,10 +211,9 @@
                   &lt;/span&gt;
                   &lt;br/&gt;
                   &lt;br/&gt;
-                &lt;P&gt;&lt;STRONG&gt;B35&lt;/STRONG&gt; and &lt;STRONG&gt;B68&lt;/STRONG&gt; buses are detoured, due to FDNY activity at Church Av and Coney Island Av. &lt;/P&gt;
+                &lt;P&gt;&lt;STRONG&gt;B11&lt;/STRONG&gt; buses are detoured, due to paving and a block party on 49 St between 6 Av and 8 Av. &lt;/P&gt;
 &lt;P&gt;Detour is as follows:&lt;/P&gt;
-&lt;P&gt;&lt;STRONG&gt;B35 Eastbound&lt;/STRONG&gt;: Via Church Av, right on Ocean Pkwy, left on Beverly Rd, left on Ocean Av, right on Church Av and regular route.&lt;/P&gt;
-&lt;P&gt;&lt;STRONG&gt;B68 Southbound&lt;/STRONG&gt;: Via Coney Island Av, right on Caton Av, left on Fort Hamilton Pkwy, left on Church Av, right on Ocean Pkwy, left on Beverly Rd, right on Coney Island Av and regular route.&lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;Westbound:&lt;/STRONG&gt; Via 49 St, right on 8 Av, left on 47 St, left on 6 Av, right on 49 St and regular route.&lt;/P&gt;
 &lt;P&gt;Allow additional travel time.&lt;/P&gt;
               &lt;br/&gt;
               &lt;br/&gt;
@@ -261,7 +261,7 @@
               &lt;br/&gt;
             </text>
     <Date>07/22/2017</Date>
-    <Time> 2:36PM</Time>
+    <Time> 6:18PM</Time>
   </line>
   <line>
     <name>B100 - B103</name>
