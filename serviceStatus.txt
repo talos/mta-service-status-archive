@@ -42,13 +42,15 @@
   </line>
   <line>
     <name>ACE</name>
-    <status>DELAYS</status>
+    <status>SERVICE CHANGE</status>
     <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;07/22/2017&amp;nbsp; 5:56PM
+                    &amp;nbsp;Posted:&amp;nbsp;07/22/2017&amp;nbsp; 6:00PM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  &lt;P&gt;Due to signal problems at &lt;STRONG&gt;Canal St&lt;/STRONG&gt;, southbound [A] trains are running with delays. &lt;/P&gt;
+                  &lt;P&gt;Due to track maintenance in &lt;STRONG&gt;Manhattan&lt;/STRONG&gt;, the following service changes are in effect:&lt;/P&gt;
+&lt;P&gt;Southbound [A] trains are running express from &lt;STRONG&gt;145 St to Canal St&lt;/STRONG&gt;. &lt;/P&gt;
+&lt;P&gt;Southbound [D] trains are running local from &lt;STRONG&gt;145 St to 2 Av&lt;/STRONG&gt;. &lt;/P&gt;
 &lt;P&gt;Allow additional travel time.&lt;/P&gt;
                 &lt;br/&gt;&lt;br/&gt;
               
@@ -68,12 +70,22 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>07/22/2017</Date>
-    <Time> 5:56PM</Time>
+    <Time> 6:00PM</Time>
   </line>
   <line>
     <name>BDFM</name>
-    <status>DELAYS</status>
+    <status>SERVICE CHANGE</status>
     <text>
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;07/22/2017&amp;nbsp; 6:00PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;P&gt;Due to track maintenance in &lt;STRONG&gt;Manhattan&lt;/STRONG&gt;, the following service changes are in effect:&lt;/P&gt;
+&lt;P&gt;Southbound [A] trains are running express from &lt;STRONG&gt;145 St to Canal St&lt;/STRONG&gt;. &lt;/P&gt;
+&lt;P&gt;Southbound [D] trains are running local from &lt;STRONG&gt;145 St to 2 Av&lt;/STRONG&gt;. &lt;/P&gt;
+&lt;P&gt;Allow additional travel time.&lt;/P&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              
                     &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
                     &amp;nbsp;Posted:&amp;nbsp;07/22/2017&amp;nbsp; 3:35PM
@@ -108,7 +120,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>07/22/2017</Date>
-    <Time> 3:35PM</Time>
+    <Time> 6:00PM</Time>
   </line>
   <line>
     <name>G</name>
@@ -528,17 +540,10 @@
   </line>
   <line>
     <name>Far Rockaway</name>
-    <status>DELAYS</status>
-    <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;07/22/2017&amp;nbsp; 5:54PM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  &lt;p&gt;The 4:12PM train from Atlantic Terminal due Far Rockaway at 5:05PM will originate out of Jamaica today at 4:35PM due to trackwork near East New York. Customers at Atlantic Terminal will be accommodated by the 4:43PM train due Jamaica at 5:05PM.  At Jamaica, transfer to the 5:35PM train due Far Rockaway at 6:05PM. &lt;/p&gt;&lt;div class="shortmsg"&gt;&lt;br&gt;&lt;/div&gt;&lt;p&gt;        &lt;/p&gt;&lt;div class="shortmsg"&gt; &lt;/div&gt;&lt;div class="shortmsg"&gt;&lt;br&gt;&lt;/div&gt;
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>07/22/2017</Date>
-    <Time> 5:54PM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>Hempstead</name>
