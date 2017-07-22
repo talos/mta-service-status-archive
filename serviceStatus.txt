@@ -1,8 +1,16 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>SERVICE CHANGE</status>
+    <status>DELAYS</status>
     <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;07/21/2017&amp;nbsp; 7:57PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;P&gt;Due to a customer struck by a train at &lt;STRONG&gt;Allerton Av&lt;/STRONG&gt;, southbound [2] trains are running with delays.&lt;/P&gt;
+&lt;P&gt;Allow additional travel time.&lt;/P&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              
                     &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
                     &amp;nbsp;Posted:&amp;nbsp;07/21/2017&amp;nbsp; 7:50PM
@@ -13,7 +21,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>07/21/2017</Date>
-    <Time> 7:50PM</Time>
+    <Time> 7:57PM</Time>
   </line>
   <line>
     <name>456</name>
@@ -175,12 +183,11 @@
     <text>
                   &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                   &lt;span class="DateStyle"&gt;
-                  &amp;nbsp;Posted:&amp;nbsp;07/21/2017&amp;nbsp; 4:53PM
+                  &amp;nbsp;Posted:&amp;nbsp;07/21/2017&amp;nbsp; 7:58PM
                   &lt;/span&gt;
                   &lt;br/&gt;
                   &lt;br/&gt;
-                &lt;P&gt;&lt;STRONG&gt;B16&lt;/STRONG&gt; buses are running with delays in both directions due to traffic conditions on Caton Av between Ocean Pkwy and Flatbush Av. &lt;/P&gt;
-&lt;P&gt;Allow additional travel time.&lt;/P&gt;
+                Following earlier traffic conditions at Caton Av, &lt;STRONG&gt;B16&lt;/STRONG&gt; bus service has resumed with delays.
               &lt;br/&gt;
               &lt;br/&gt;
             
@@ -223,7 +230,7 @@
               &lt;br/&gt;
             </text>
     <Date>07/21/2017</Date>
-    <Time> 4:53PM</Time>
+    <Time> 7:58PM</Time>
   </line>
   <line>
     <name>B100 - B103</name>
