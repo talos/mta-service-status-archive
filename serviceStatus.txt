@@ -470,10 +470,17 @@
   </line>
   <line>
     <name>Long Beach</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>DELAYS</status>
+    <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;07/26/2017&amp;nbsp; 8:15PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  The 7:49PM train from Long Beach due Penn at 8:39PM is operating 13 minutes late due to an equipment problem prior to departure.
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>07/26/2017</Date>
+    <Time> 8:15PM</Time>
   </line>
   <line>
     <name>Montauk</name>
@@ -491,23 +498,10 @@
   </line>
   <line>
     <name>Port Jefferson</name>
-    <status>DELAYS</status>
-    <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;07/26/2017&amp;nbsp; 8:07PM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  &lt;p&gt;The 5:52PM train from Long Island City due Port Jefferson at 8:00PM is operating 17 minutes late due to congestion in Jamaica caused by an earlier train with equipment trouble.&lt;/p&gt;&lt;p&gt;The 6:30PM train from Hunterspoint Ave. due Port Jefferson at 8:15PM is 
-operating 10 minutes late due to a late-arriving westbound train in 
-single-track territory. 
-        &lt;/p&gt;&lt;p&gt;The 6:49PM train from Stony Brook due Huntington at 7:56PM is operating 
-11 minutes late after accommodating a late-arriving eastbound train in 
-single-track territory.
-        &lt;/p&gt;
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>07/26/2017</Date>
-    <Time> 8:07PM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>Port Washington</name>
@@ -522,16 +516,16 @@ single-track territory.
     <text>
                     &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;07/26/2017&amp;nbsp; 7:54PM
+                    &amp;nbsp;Posted:&amp;nbsp;07/26/2017&amp;nbsp; 8:16PM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  &lt;p&gt;The 6:04PM train from Atlantic Terminal due Ronkonkoma at 7:27PM is now 
-operating 30 minutes late due to a switch problem near Brentwood.
-        &lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;The 7:13PM train from Ronkonkoma due Penn at 8:32PM is operating 31 minutes late due to a switch problem near Brentwood.
-          &lt;/p&gt;
+                  &lt;P&gt;The 6:53PM train from Penn due Ronkonkoma at 8:12PM is operating 28 minutes late due to an earlier switch problem near Brentwood. &lt;/P&gt;
+&lt;P&gt;The 6:04PM train from Atlantic Terminal due Ronkonkoma at 7:27PM is now operating 30 minutes late due to a switch problem near Brentwood.         &lt;/P&gt;
+&lt;P&gt;&lt;BR&gt;&lt;/P&gt;
+&lt;P&gt;The 7:13PM train from Ronkonkoma due Penn at 8:32PM is operating 31 minutes late due to a switch problem near Brentwood.           &lt;/P&gt;
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>07/26/2017</Date>
-    <Time> 7:54PM</Time>
+    <Time> 8:16PM</Time>
   </line>
   <line>
     <name>West Hempstead</name>
