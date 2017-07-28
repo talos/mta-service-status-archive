@@ -1,13 +1,13 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>DELAYS</status>
+    <status>SERVICE CHANGE</status>
     <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;07/28/2017&amp;nbsp;10:42AM
+                    &amp;nbsp;Posted:&amp;nbsp;07/28/2017&amp;nbsp;10:55AM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  &lt;P&gt;Due to a dark station at &lt;STRONG&gt;145 St&lt;/STRONG&gt;, [3] trains are running with delays in both directions.&lt;/P&gt;
+                  &lt;P&gt;Due to a dark station at &lt;STRONG&gt;145 St&lt;/STRONG&gt;, [3] trains bypass station in both directions.&lt;/P&gt;
 &lt;P&gt;Allow additional travel time.&lt;/P&gt;
                 &lt;br/&gt;&lt;br/&gt;
               
@@ -27,7 +27,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>07/28/2017</Date>
-    <Time>10:42AM</Time>
+    <Time>10:55AM</Time>
   </line>
   <line>
     <name>456</name>
