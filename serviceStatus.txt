@@ -265,17 +265,10 @@
 </bus><BT>
   <line>
     <name>Bronx-Whitestone</name>
-    <status>DELAYS</status>
-    <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;07/30/2017&amp;nbsp;11:11AM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  BWB: TRAFFIC DELAYS: BRONX BOUND TOLL PLAZA
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>07/30/2017</Date>
-    <Time>11:11AM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>Cross Bay</name>
@@ -321,31 +314,24 @@
   </line>
   <line>
     <name>Throgs Neck</name>
-    <status>DELAYS</status>
-    <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;07/30/2017&amp;nbsp;11:09AM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  TNB: TRAFFIC DELAYS: QUEENS BOUND TOLL PLAZA
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>07/30/2017</Date>
-    <Time>11:09AM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>Verrazano-Narrows</name>
-    <status>DELAYS</status>
+    <status>SERVICE CHANGE</status>
     <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;07/30/2017&amp;nbsp; 5:23PM
+                    &amp;nbsp;Posted:&amp;nbsp;07/31/2017&amp;nbsp; 4:36AM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  &lt;body bgcolor='White' style='font-family:sans-serif;font-size:10pt;'&gt; VNB: OFF-PROPERTY DELAYS: EAST-BOUND( BROOKLYN BOUND) BELT PKWY RAMP&lt;/body&gt;
+                  VNB: BROOKLYN BOUND; HOV LANE OPEN
                 &lt;br/&gt;&lt;br/&gt;
               </text>
-    <Date>07/30/2017</Date>
-    <Time> 5:23PM</Time>
+    <Date>07/31/2017</Date>
+    <Time> 4:36AM</Time>
   </line>
 </BT><LIRR>
   <line>
