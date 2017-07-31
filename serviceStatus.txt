@@ -1,8 +1,16 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>DELAYS</status>
+    <status>SERVICE CHANGE</status>
     <text>
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;07/31/2017&amp;nbsp; 6:52AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;P&gt;Due to a train with mechanical problems at &lt;STRONG&gt;Nereid Av&lt;/STRONG&gt;, southbound [2] and [5] trains are running express from &lt;STRONG&gt;Wakefield-241 St&lt;/STRONG&gt; to &lt;STRONG&gt;Gun Hill Rd&lt;/STRONG&gt;. &lt;/P&gt;
+&lt;P&gt;Allow additional travel time.&lt;/P&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              
                     &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
                     &amp;nbsp;Posted:&amp;nbsp;07/31/2017&amp;nbsp; 6:27AM
@@ -12,14 +20,22 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>07/31/2017</Date>
-    <Time> 6:27AM</Time>
+    <Time> 6:52AM</Time>
   </line>
   <line>
     <name>456</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>SERVICE CHANGE</status>
+    <text>
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;07/31/2017&amp;nbsp; 6:52AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;P&gt;Due to a train with mechanical problems at &lt;STRONG&gt;Nereid Av&lt;/STRONG&gt;, southbound [2] and [5] trains are running express from &lt;STRONG&gt;Wakefield-241 St&lt;/STRONG&gt; to &lt;STRONG&gt;Gun Hill Rd&lt;/STRONG&gt;. &lt;/P&gt;
+&lt;P&gt;Allow additional travel time.&lt;/P&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>07/31/2017</Date>
+    <Time> 6:52AM</Time>
   </line>
   <line>
     <name>7</name>
@@ -30,10 +46,15 @@
   </line>
   <line>
     <name>ACE</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>PLANNED WORK</status>
+    <text>
+                    &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
+                    &lt;br/&gt;
+                  &lt;a class="plannedWorkDetailLink" onclick=ShowHide(161502);&gt;&lt;b&gt;[E] &lt;/font&gt;The last stop for some trains headed toward Jamaica Center is 71 Av&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 161502 class="plannedWorkDetail" &gt;&lt;/b&gt;Rush Hours, 6:30 AM to 9:30 AM&lt;i&gt; and&lt;/i&gt; 2:30 PM to 8 PM, Mon to Fri, until Aug 4&lt;br&gt;&lt;br&gt;&amp;bull; Take a Jamaica Center-bound train or transfer at 71 Av to continue your trip.&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>07/31/2017</Date>
+    <Time> 6:52AM</Time>
   </line>
   <line>
     <name>BDFM</name>
@@ -153,7 +174,7 @@
               &lt;br/&gt;
             </text>
     <Date>07/31/2017</Date>
-    <Time> 6:48AM</Time>
+    <Time> 6:52AM</Time>
   </line>
   <line>
     <name>B100 - B103</name>
@@ -187,7 +208,7 @@
               &lt;br/&gt;
             </text>
     <Date>07/31/2017</Date>
-    <Time> 6:48AM</Time>
+    <Time> 6:52AM</Time>
   </line>
   <line>
     <name>M1 - M116</name>
@@ -212,7 +233,7 @@
               &lt;br/&gt;
             </text>
     <Date>07/31/2017</Date>
-    <Time> 6:48AM</Time>
+    <Time> 6:52AM</Time>
   </line>
   <line>
     <name>Q1 - Q113</name>
@@ -231,7 +252,7 @@
               &lt;br/&gt;
             </text>
     <Date>07/31/2017</Date>
-    <Time> 6:48AM</Time>
+    <Time> 6:52AM</Time>
   </line>
   <line>
     <name>QM1 - QM44</name>
@@ -250,7 +271,7 @@
               &lt;br/&gt;
             </text>
     <Date>07/31/2017</Date>
-    <Time> 6:48AM</Time>
+    <Time> 6:52AM</Time>
   </line>
   <line>
     <name>S40 - S98</name>
@@ -263,7 +284,7 @@
               &lt;br/&gt;
             </text>
     <Date>07/31/2017</Date>
-    <Time> 6:48AM</Time>
+    <Time> 6:52AM</Time>
   </line>
   <line>
     <name>x1 - x68</name>
