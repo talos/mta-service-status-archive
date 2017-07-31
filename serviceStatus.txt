@@ -1,8 +1,16 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>DELAYS</status>
+    <status>SERVICE CHANGE</status>
     <text>
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;07/31/2017&amp;nbsp; 1:51PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;P&gt;Due to signal problems at &lt;STRONG&gt;Marble Hill-225 St&lt;/STRONG&gt;, southbound [1] trains are running with delays.&lt;/P&gt;
+&lt;P&gt;Allow additional travel time.&lt;/P&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              
                     &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
                     &amp;nbsp;Posted:&amp;nbsp;07/31/2017&amp;nbsp;12:14PM
@@ -17,7 +25,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>07/31/2017</Date>
-    <Time>12:14PM</Time>
+    <Time> 1:51PM</Time>
   </line>
   <line>
     <name>456</name>
@@ -416,10 +424,17 @@ territory.
   </line>
   <line>
     <name>Ronkonkoma</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>DELAYS</status>
+    <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;07/31/2017&amp;nbsp; 1:50PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  The 12:42PM train from Greenport due Ronkonkoma at 2:06PM is being delayed east of Yaphank Station due to a broken rail.
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>07/31/2017</Date>
+    <Time> 1:50PM</Time>
   </line>
   <line>
     <name>West Hempstead</name>
