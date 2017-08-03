@@ -1,8 +1,17 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>DELAYS</status>
+    <status>SERVICE CHANGE</status>
     <text>
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;08/03/2017&amp;nbsp; 8:25AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;P&gt;Due to a sick customer at&lt;STRONG&gt; Jackson Av&lt;/STRONG&gt;, southbound [2] trains are running express from&lt;STRONG&gt; E 180 St&lt;/STRONG&gt; to &lt;STRONG&gt;149 St-3 Av.&lt;/STRONG&gt;&lt;/P&gt;
+&lt;P&gt;Expect delays on [2] and [5] trains.&lt;/P&gt;
+&lt;P&gt;Allow additional travel time.&lt;/P&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              
                     &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
                     &amp;nbsp;Posted:&amp;nbsp;08/03/2017&amp;nbsp; 8:17AM
@@ -11,14 +20,23 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>08/03/2017</Date>
-    <Time> 8:17AM</Time>
+    <Time> 8:25AM</Time>
   </line>
   <line>
     <name>456</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>SERVICE CHANGE</status>
+    <text>
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;08/03/2017&amp;nbsp; 8:25AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;P&gt;Due to a sick customer at&lt;STRONG&gt; Jackson Av&lt;/STRONG&gt;, southbound [2] trains are running express from&lt;STRONG&gt; E 180 St&lt;/STRONG&gt; to &lt;STRONG&gt;149 St-3 Av.&lt;/STRONG&gt;&lt;/P&gt;
+&lt;P&gt;Expect delays on [2] and [5] trains.&lt;/P&gt;
+&lt;P&gt;Allow additional travel time.&lt;/P&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>08/03/2017</Date>
+    <Time> 8:25AM</Time>
   </line>
   <line>
     <name>7</name>
@@ -522,13 +540,13 @@
     <text>
                     &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;08/03/2017&amp;nbsp; 8:07AM
+                    &amp;nbsp;Posted:&amp;nbsp;08/03/2017&amp;nbsp; 8:25AM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  New Haven Line Westbound service is currently experiencing scattered delays of up to 20 minutes due to congestion caused by an earlier train with mechanical difficulties. Please listen for announcements at your station.
+                  New Haven Line Westbound service continues to experience scattered delays of up to35 minutes due to congestion caused by an earlier train with mechanical difficulties. Please listen for announcements at your station.
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>08/03/2017</Date>
-    <Time> 8:07AM</Time>
+    <Time> 8:25AM</Time>
   </line>
   <line>
     <name>New Canaan</name>
