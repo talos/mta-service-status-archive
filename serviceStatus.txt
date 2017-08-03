@@ -1,21 +1,10 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>SERVICE CHANGE</status>
-    <text>
-                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;08/02/2017&amp;nbsp;10:40PM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  &lt;P&gt;Due to FDNY activity at &lt;STRONG&gt;138 St-Grand Concourse&lt;/STRONG&gt;, the following service changes are in effect:&lt;/P&gt;
-&lt;P&gt;Southbound [4] trains are bypassing &lt;STRONG&gt;138 St-Grand Concourse&lt;/STRONG&gt;.&lt;/P&gt;
-&lt;P&gt;Southbound [5] trains are running on the [2] line from &lt;STRONG&gt;149 St-Grand Concourse&lt;/STRONG&gt; to &lt;STRONG&gt;Nevins St&lt;/STRONG&gt;.&lt;/P&gt;
-&lt;P&gt;Expect delays on southbound [2] [4] and [5] train service.&lt;/P&gt;
-&lt;P&gt;Allow additional travel time.&lt;/P&gt;
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>08/02/2017</Date>
-    <Time>10:40PM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>456</name>
@@ -23,25 +12,21 @@
     <text>
                     &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;08/02/2017&amp;nbsp;10:52PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  Following an earlier incident at &lt;STRONG&gt;138 St-Grand Concourse,&lt;/STRONG&gt; [4] and [5] train service has resumed with delays.
+                &lt;br/&gt;&lt;br/&gt;
+              
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
                     &amp;nbsp;Posted:&amp;nbsp;08/02/2017&amp;nbsp;10:47PM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
                   &lt;P&gt;Due to a water condition between &lt;STRONG&gt;Hunts Point Av&lt;/STRONG&gt; and&lt;STRONG&gt; E 143 St-St Mary's St&lt;/STRONG&gt;, [6] trains are running with delays in both directions. &lt;/P&gt;
 &lt;P&gt;Allow additional travel time.&lt;/P&gt;
                 &lt;br/&gt;&lt;br/&gt;
-              
-                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;08/02/2017&amp;nbsp;10:40PM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  &lt;P&gt;Due to FDNY activity at &lt;STRONG&gt;138 St-Grand Concourse&lt;/STRONG&gt;, the following service changes are in effect:&lt;/P&gt;
-&lt;P&gt;Southbound [4] trains are bypassing &lt;STRONG&gt;138 St-Grand Concourse&lt;/STRONG&gt;.&lt;/P&gt;
-&lt;P&gt;Southbound [5] trains are running on the [2] line from &lt;STRONG&gt;149 St-Grand Concourse&lt;/STRONG&gt; to &lt;STRONG&gt;Nevins St&lt;/STRONG&gt;.&lt;/P&gt;
-&lt;P&gt;Expect delays on southbound [2] [4] and [5] train service.&lt;/P&gt;
-&lt;P&gt;Allow additional travel time.&lt;/P&gt;
-                &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>08/02/2017</Date>
-    <Time>10:47PM</Time>
+    <Time>10:52PM</Time>
   </line>
   <line>
     <name>7</name>
@@ -204,8 +189,19 @@
   </line>
   <line>
     <name>BX1 - BX55</name>
-    <status>SERVICE CHANGE</status>
+    <status>DELAYS</status>
     <text>
+                  &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                  &lt;span class="DateStyle"&gt;
+                  &amp;nbsp;Posted:&amp;nbsp;08/02/2017&amp;nbsp;10:50PM
+                  &lt;/span&gt;
+                  &lt;br/&gt;
+                  &lt;br/&gt;
+                &lt;P&gt;&lt;STRONG&gt;Bx5&lt;/STRONG&gt;, &lt;STRONG&gt;Bx11&lt;/STRONG&gt;, &lt;STRONG&gt;Bx35 &lt;/STRONG&gt;and&lt;STRONG&gt; Bx4A&lt;/STRONG&gt; buses are running with delays in both directions, due to ongoing DOT water main construction on Westchester Av. &lt;/P&gt;
+&lt;P&gt;Allow additional travel time. &lt;/P&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
                   &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
                   &lt;span class="DateStyle"&gt;
                   &amp;nbsp;Posted:&amp;nbsp;08/02/2017&amp;nbsp;10:50PM
@@ -228,17 +224,6 @@
                   &lt;br/&gt;
                 &lt;P&gt;&lt;STRONG&gt;BX6&lt;/STRONG&gt; buses are running with delays din both directions due to traffic conditions at the Macomb Bridge. &lt;/P&gt;
 &lt;P&gt;Allow additional travel time.&lt;/P&gt;
-              &lt;br/&gt;
-              &lt;br/&gt;
-            
-                  &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                  &lt;span class="DateStyle"&gt;
-                  &amp;nbsp;Posted:&amp;nbsp;08/02/2017&amp;nbsp; 8:17PM
-                  &lt;/span&gt;
-                  &lt;br/&gt;
-                  &lt;br/&gt;
-                &lt;P&gt;&lt;STRONG&gt;Bx5&lt;/STRONG&gt;, &lt;STRONG&gt;Bx11&lt;/STRONG&gt;, &lt;STRONG&gt;Bx35 &lt;/STRONG&gt;and&lt;STRONG&gt; Bx4A&lt;/STRONG&gt; buses are running with delays in both directions, due to ongoing DOT water main construction on Westchester Av. &lt;/P&gt;
-&lt;P&gt;Allow additional travel time. &lt;/P&gt;
               &lt;br/&gt;
               &lt;br/&gt;
             </text>
