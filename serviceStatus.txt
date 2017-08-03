@@ -1,15 +1,8 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>DELAYS</status>
+    <status>SERVICE CHANGE</status>
     <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;08/02/2017&amp;nbsp; 8:46PM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  Following an earlier station condition at &lt;STRONG&gt;South Ferry&lt;/STRONG&gt;, [1] train service has resumed.
-                &lt;br/&gt;&lt;br/&gt;
-              
                     &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
                     &amp;nbsp;Posted:&amp;nbsp;08/02/2017&amp;nbsp; 8:17PM
@@ -22,7 +15,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>08/02/2017</Date>
-    <Time> 8:46PM</Time>
+    <Time> 8:17PM</Time>
   </line>
   <line>
     <name>456</name>
@@ -316,18 +309,8 @@
   </line>
   <line>
     <name>Q1 - Q113</name>
-    <status>DELAYS</status>
+    <status>SERVICE CHANGE</status>
     <text>
-                  &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                  &lt;span class="DateStyle"&gt;
-                  &amp;nbsp;Posted:&amp;nbsp;08/02/2017&amp;nbsp; 8:51PM
-                  &lt;/span&gt;
-                  &lt;br/&gt;
-                  &lt;br/&gt;
-                Following an earlier incident in Flushing, &lt;STRONG&gt;Q12, Q13, Q15, Q15A, Q16, Q17, Q19, Q20A, Q20B, Q25, Q26, Q27, Q28, Q34, Q44-SBS, Q48, Q50, Q65&lt;/STRONG&gt; and&lt;STRONG&gt; Q66 &lt;/STRONG&gt;bus service has resumed with delays.
-              &lt;br/&gt;
-              &lt;br/&gt;
-            
                   &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
                   &lt;span class="DateStyle"&gt;
                   &amp;nbsp;Posted:&amp;nbsp;08/02/2017&amp;nbsp; 8:20PM
@@ -392,7 +375,7 @@
               &lt;br/&gt;
             </text>
     <Date>08/02/2017</Date>
-    <Time> 8:51PM</Time>
+    <Time> 8:20PM</Time>
   </line>
   <line>
     <name>QM1 - QM44</name>
@@ -488,18 +471,10 @@
 </BT><LIRR>
   <line>
     <name>Babylon</name>
-    <status>DELAYS</status>
-    <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;08/02/2017&amp;nbsp; 8:52PM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  &lt;p&gt;The 7:40PM train from Babylon due Penn at 8:55PM is operating 18 minutes late due to a switch problem.
-        &lt;/p&gt;
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>08/02/2017</Date>
-    <Time> 8:52PM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>City Terminal Zone</name>
