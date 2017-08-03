@@ -1,13 +1,16 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>DELAYS</status>
+    <status>SERVICE CHANGE</status>
     <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;08/03/2017&amp;nbsp;11:46AM
+                    &amp;nbsp;Posted:&amp;nbsp;08/03/2017&amp;nbsp;12:04PM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  &lt;P&gt;Due to an investigation at &lt;STRONG&gt;Flatbush Av-Brooklyn College&lt;/STRONG&gt;, [2] and [5] trains are running with delays in both directions. &lt;/P&gt;
+                  &lt;P&gt;Due to an investigation at &lt;STRONG&gt;Flatbush Av-Brooklyn College&lt;/STRONG&gt;, the following service changes are in effect: &lt;/P&gt;
+&lt;P&gt;Some southbound [2] trains are terminating at &lt;STRONG&gt;42 St-Times Sq&lt;/STRONG&gt;.&lt;/P&gt;
+&lt;P&gt;Some southbound [5] trains are terminating at &lt;STRONG&gt;Bowling Green&lt;/STRONG&gt;.&lt;/P&gt;
+&lt;P&gt;Expect delays in [2], [3], [4] and [5] train service. &lt;/P&gt;
 &lt;P&gt;Allow additional travel time.&lt;/P&gt;
                 &lt;br/&gt;&lt;br/&gt;
               
@@ -22,17 +25,20 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>08/03/2017</Date>
-    <Time>11:46AM</Time>
+    <Time>12:04PM</Time>
   </line>
   <line>
     <name>456</name>
-    <status>DELAYS</status>
+    <status>SERVICE CHANGE</status>
     <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;08/03/2017&amp;nbsp;11:46AM
+                    &amp;nbsp;Posted:&amp;nbsp;08/03/2017&amp;nbsp;12:04PM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  &lt;P&gt;Due to an investigation at &lt;STRONG&gt;Flatbush Av-Brooklyn College&lt;/STRONG&gt;, [2] and [5] trains are running with delays in both directions. &lt;/P&gt;
+                  &lt;P&gt;Due to an investigation at &lt;STRONG&gt;Flatbush Av-Brooklyn College&lt;/STRONG&gt;, the following service changes are in effect: &lt;/P&gt;
+&lt;P&gt;Some southbound [2] trains are terminating at &lt;STRONG&gt;42 St-Times Sq&lt;/STRONG&gt;.&lt;/P&gt;
+&lt;P&gt;Some southbound [5] trains are terminating at &lt;STRONG&gt;Bowling Green&lt;/STRONG&gt;.&lt;/P&gt;
+&lt;P&gt;Expect delays in [2], [3], [4] and [5] train service. &lt;/P&gt;
 &lt;P&gt;Allow additional travel time.&lt;/P&gt;
                 &lt;br/&gt;&lt;br/&gt;
               
@@ -47,7 +53,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>08/03/2017</Date>
-    <Time>11:46AM</Time>
+    <Time>12:04PM</Time>
   </line>
   <line>
     <name>7</name>
@@ -83,7 +89,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>08/03/2017</Date>
-    <Time>11:52AM</Time>
+    <Time>12:02PM</Time>
   </line>
   <line>
     <name>G</name>
@@ -102,7 +108,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>08/03/2017</Date>
-    <Time>11:52AM</Time>
+    <Time>12:02PM</Time>
   </line>
   <line>
     <name>L</name>
@@ -114,7 +120,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>08/03/2017</Date>
-    <Time>11:52AM</Time>
+    <Time>12:02PM</Time>
   </line>
   <line>
     <name>NQR</name>
@@ -131,7 +137,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>08/03/2017</Date>
-    <Time>11:52AM</Time>
+    <Time>12:02PM</Time>
   </line>
   <line>
     <name>S</name>
@@ -150,7 +156,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>08/03/2017</Date>
-    <Time>11:52AM</Time>
+    <Time>12:02PM</Time>
   </line>
 </subway><bus>
   <line>
@@ -176,7 +182,7 @@
               &lt;br/&gt;
             </text>
     <Date>08/03/2017</Date>
-    <Time>11:52AM</Time>
+    <Time>12:02PM</Time>
   </line>
   <line>
     <name>B100 - B103</name>
@@ -250,6 +256,12 @@
 &lt;P&gt; &lt;/P&gt;
               &lt;br/&gt;
               &lt;br/&gt;
+            
+                  &lt;span class="TitlePlannedWork" &gt;Planned Detour&lt;/span&gt;
+                  &lt;br/&gt;
+                &lt;a class="plannedWorkDetailLink" onclick=ShowHide(164794);&gt;&lt;b&gt;Bx4/Bx4A, Bx5, Bx11 and Bx35 buses may experience delays&lt;br clear=left&gt;due to construction on Westchester Av between Southern Blvd and Hoe Av&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 164794 class="plannedWorkDetail" &gt;&lt;/b&gt;Until further notice&lt;br&gt;&lt;br&gt;&amp;bull; Please allow additional travel time.&lt;br&gt;&lt;b&gt;          &lt;/b&gt;&lt;a href=http://bustime.mta.info/ target=_blank&gt;&lt;img height=30px src=http://web.mta.info/nyct/images/Bus_Time_logo.png&gt;&lt;/a&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
             </text>
     <Date>08/03/2017</Date>
     <Time>10:09AM</Time>
@@ -265,7 +277,7 @@
               &lt;br/&gt;
             </text>
     <Date>08/03/2017</Date>
-    <Time>11:52AM</Time>
+    <Time>12:02PM</Time>
   </line>
   <line>
     <name>M1 - M116</name>
@@ -290,7 +302,7 @@
               &lt;br/&gt;
             </text>
     <Date>08/03/2017</Date>
-    <Time>11:52AM</Time>
+    <Time>12:02PM</Time>
   </line>
   <line>
     <name>Q1 - Q113</name>
@@ -309,7 +321,7 @@
               &lt;br/&gt;
             </text>
     <Date>08/03/2017</Date>
-    <Time>11:52AM</Time>
+    <Time>12:02PM</Time>
   </line>
   <line>
     <name>QM1 - QM44</name>
@@ -322,7 +334,7 @@
               &lt;br/&gt;
             </text>
     <Date>08/03/2017</Date>
-    <Time>11:52AM</Time>
+    <Time>12:02PM</Time>
   </line>
   <line>
     <name>S40 - S98</name>
@@ -403,7 +415,7 @@
                     &lt;span class="DateStyle"&gt;
                     &amp;nbsp;Posted:&amp;nbsp;08/03/2017&amp;nbsp;10:14AM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  &lt;body bgcolor='White' style='font-family:sans-serif;font-size:10pt;'&gt;VNB: DELAYS; BROOKLYN BOUND, DUE TO OFF PROPERTY VOLUME ON THE EASTBOUND BELT PARKWAY.&lt;/body&gt;
+                  &lt;body bgcolor='White' style='font-family:sans-serif;font-size:10pt;'&gt;VNB: DELAYS; BROOKLYN BOUND, DUE TO OFF PROPERTY ROADWORK ON THE EASTBOUND BELT PARKWAY.&lt;/body&gt;
                 &lt;br/&gt;&lt;br/&gt;
               
                     &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
