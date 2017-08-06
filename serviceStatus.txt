@@ -23,13 +23,15 @@
   </line>
   <line>
     <name>456</name>
-    <status>DELAYS</status>
+    <status>SERVICE CHANGE</status>
     <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;08/06/2017&amp;nbsp; 7:23PM
+                    &amp;nbsp;Posted:&amp;nbsp;08/06/2017&amp;nbsp; 7:31PM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  &lt;P&gt;Due to an investigation at &lt;STRONG&gt;14 St-Union Sq&lt;/STRONG&gt;, northbound [4] and [5] trains are running with delays.  &lt;/P&gt;
+                  &lt;P&gt;Due to a customer struck by train at &lt;STRONG&gt;14 St-Union Sq&lt;/STRONG&gt;, the following service change is in effect:&lt;/P&gt;
+&lt;P&gt;Northbound [4] and [5] trains are running local from &lt;STRONG&gt;14 St-Union Sq&lt;/STRONG&gt; to &lt;STRONG&gt;Grand Central-42 St&lt;/STRONG&gt;.&lt;/P&gt;
+&lt;P&gt;Expect delays on [4], [5] and [6] trains.&lt;/P&gt;
 &lt;P&gt;Allow additional travel time.&lt;/P&gt;
                 &lt;br/&gt;&lt;br/&gt;
               
@@ -44,7 +46,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>08/06/2017</Date>
-    <Time> 7:23PM</Time>
+    <Time> 7:31PM</Time>
   </line>
   <line>
     <name>7</name>
@@ -577,17 +579,10 @@
   </line>
   <line>
     <name>Montauk</name>
-    <status>DELAYS</status>
-    <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;08/06/2017&amp;nbsp; 7:01PM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  &lt;p&gt;The 4:00PM train from Montauk due Long Island City at 7:15PM is operating 15 minutes late due to a late train ahead. &lt;/p&gt;&lt;p&gt;The 5:35PM train from Montauk due Jamaica at 8:10PM is operating 11 minutes late due to a high volume of customers traveling.         &lt;/p&gt;&lt;p&gt;The 5:59PM train from Babylon due Penn at 7:14PM is operating 13 minutes late due to a late-arriving connection.         &lt;/p&gt;&lt;div class="shortmsg"&gt;&lt;br&gt;&lt;/div&gt;
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>08/06/2017</Date>
-    <Time> 7:01PM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>Oyster Bay</name>
