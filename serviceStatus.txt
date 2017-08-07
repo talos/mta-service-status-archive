@@ -1,25 +1,39 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>DELAYS</status>
+    <status>SERVICE CHANGE</status>
     <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;08/07/2017&amp;nbsp; 8:44AM
+                    &amp;nbsp;Posted:&amp;nbsp;08/07/2017&amp;nbsp; 8:51AM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  &lt;P&gt;Due to signal problems at &lt;STRONG&gt;Eastern Pkwy-Brooklyn Museum&lt;/STRONG&gt;, northbound [2] and [3] trains are running with delays. &lt;/P&gt;
+                  &lt;P&gt;Due to signal problems at &lt;STRONG&gt;Eastern Pkwy-Brooklyn Museum&lt;/STRONG&gt;, the following service changes are in effect:&lt;/P&gt;
+&lt;P&gt;Some northbound [2] are running express from &lt;STRONG&gt;Franklin Av&lt;/STRONG&gt; to &lt;STRONG&gt;Atlantic Av-Barclays Ctr&lt;/STRONG&gt;.&lt;/P&gt;
+&lt;P&gt;Northbound [3] trains are running with delays. &lt;/P&gt;
+&lt;P&gt;Expect delays in [4] and [5] train service.&lt;/P&gt;
 &lt;P&gt;Allow additional travel time.&lt;/P&gt;
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>08/07/2017</Date>
-    <Time> 8:44AM</Time>
+    <Time> 8:51AM</Time>
   </line>
   <line>
     <name>456</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>SERVICE CHANGE</status>
+    <text>
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;08/07/2017&amp;nbsp; 8:51AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;P&gt;Due to signal problems at &lt;STRONG&gt;Eastern Pkwy-Brooklyn Museum&lt;/STRONG&gt;, the following service changes are in effect:&lt;/P&gt;
+&lt;P&gt;Some northbound [2] are running express from &lt;STRONG&gt;Franklin Av&lt;/STRONG&gt; to &lt;STRONG&gt;Atlantic Av-Barclays Ctr&lt;/STRONG&gt;.&lt;/P&gt;
+&lt;P&gt;Northbound [3] trains are running with delays. &lt;/P&gt;
+&lt;P&gt;Expect delays in [4] and [5] train service.&lt;/P&gt;
+&lt;P&gt;Allow additional travel time.&lt;/P&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>08/07/2017</Date>
+    <Time> 8:51AM</Time>
   </line>
   <line>
     <name>7</name>
@@ -139,17 +153,43 @@
   </line>
   <line>
     <name>B100 - B103</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>SERVICE CHANGE</status>
+    <text>
+                  &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                  &lt;span class="DateStyle"&gt;
+                  &amp;nbsp;Posted:&amp;nbsp;08/07/2017&amp;nbsp; 8:51AM
+                  &lt;/span&gt;
+                  &lt;br/&gt;
+                  &lt;br/&gt;
+                &lt;P&gt;&lt;STRONG&gt;B103-LTD&lt;/STRONG&gt; and &lt;STRONG&gt;BM2&lt;/STRONG&gt; buses are detoured due to a road obstruction on Prospect Pkwy and 10 Av.&lt;/P&gt;
+&lt;P&gt;Detour is as follows:&lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;Eastbound&lt;/STRONG&gt;: Via Prospect Pkwy, take Exit 5, right on Caton Av, left on McDonald Av and regular route.&lt;/P&gt;
+&lt;P&gt;Allow additional travel time.&lt;/P&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            </text>
+    <Date>08/07/2017</Date>
+    <Time> 8:51AM</Time>
   </line>
   <line>
     <name>BM1 - BM5</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>SERVICE CHANGE</status>
+    <text>
+                  &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                  &lt;span class="DateStyle"&gt;
+                  &amp;nbsp;Posted:&amp;nbsp;08/07/2017&amp;nbsp; 8:51AM
+                  &lt;/span&gt;
+                  &lt;br/&gt;
+                  &lt;br/&gt;
+                &lt;P&gt;&lt;STRONG&gt;B103-LTD&lt;/STRONG&gt; and &lt;STRONG&gt;BM2&lt;/STRONG&gt; buses are detoured due to a road obstruction on Prospect Pkwy and 10 Av.&lt;/P&gt;
+&lt;P&gt;Detour is as follows:&lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;Eastbound&lt;/STRONG&gt;: Via Prospect Pkwy, take Exit 5, right on Caton Av, left on McDonald Av and regular route.&lt;/P&gt;
+&lt;P&gt;Allow additional travel time.&lt;/P&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            </text>
+    <Date>08/07/2017</Date>
+    <Time> 8:51AM</Time>
   </line>
   <line>
     <name>BX1 - BX55</name>
@@ -383,10 +423,17 @@
   </line>
   <line>
     <name>City Terminal Zone</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>DELAYS</status>
+    <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;08/07/2017&amp;nbsp; 8:50AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;body bgcolor='White' style='font-family:sans-serif;font-size:10pt;'&gt;The 5:39AM train from Montauk due Long Island City at 8:44AM is operating 10 minutes late at this time.&lt;/body&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>08/07/2017</Date>
+    <Time> 8:50AM</Time>
   </line>
   <line>
     <name>Far Rockaway</name>
@@ -411,10 +458,17 @@
   </line>
   <line>
     <name>Montauk</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>DELAYS</status>
+    <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;08/07/2017&amp;nbsp; 8:50AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;body bgcolor='White' style='font-family:sans-serif;font-size:10pt;'&gt;The 5:39AM train from Montauk due Long Island City at 8:44AM is operating 10 minutes late at this time.&lt;/body&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>08/07/2017</Date>
+    <Time> 8:50AM</Time>
   </line>
   <line>
     <name>Oyster Bay</name>
