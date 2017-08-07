@@ -1,60 +1,677 @@
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
-   "http://www.w3.org/TR/html4/strict.dtd">
-   
-<html>
-<head>
-<title>mta.info | Error 503 Service Unavailable</title>
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7" />
+<service><responsecode>0</responsecode><subway>
+  <line>
+    <name>123</name>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
+  </line>
+  <line>
+    <name>456</name>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
+  </line>
+  <line>
+    <name>7</name>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
+  </line>
+  <line>
+    <name>ACE</name>
+    <status>SERVICE CHANGE</status>
+    <text>
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;08/07/2017&amp;nbsp;10:09AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;P&gt;Due to switch problems at &lt;STRONG&gt;Kew Gardens-Union Tpke&lt;/STRONG&gt;, southbound [E] trains are running local from &lt;STRONG&gt;Jamaica Van Wyck&lt;/STRONG&gt; to &lt;STRONG&gt;Kew Gardens-Union Tpke&lt;/STRONG&gt;. &lt;/P&gt;
+&lt;P&gt;Allow additional travel time.&lt;/P&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;08/07/2017&amp;nbsp;10:05AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;P&gt;Due to a track test train operating between &lt;STRONG&gt;High St&lt;/STRONG&gt; and&lt;STRONG&gt; Inwood-207 St&lt;/STRONG&gt;, northbound [A] and [D] trains are running local from &lt;STRONG&gt;59 St-Columbus Circle&lt;/STRONG&gt; to &lt;STRONG&gt;125 St&lt;/STRONG&gt;.&lt;/P&gt;
+&lt;P&gt;Expect delays on [B] and [C] trains.&lt;/P&gt;
+&lt;P&gt;Allow additional travel time.&lt;/P&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              
+                    &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
+                    &lt;br/&gt;
+                  &lt;a class="plannedWorkDetailLink" onclick=ShowHide(162984);&gt;&lt;b&gt;[E] Manhattan-bound trains run local from 71 Av to Roosevelt Av&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 162984 class="plannedWorkDetail" &gt;&lt;/b&gt;Late Evenings, beginning at 10 PM, &lt;/font&gt;Mon to Thu, Aug 7 - 10&lt;br&gt;&lt;br&gt;Trains stop at 67 Av, 63 Dr, Woodhaven Blvd, Grand and Elmhurst Avs.&lt;br&gt;&lt;br&gt;&amp;bull; Please allow additional travel time.&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>08/07/2017</Date>
+    <Time>10:09AM</Time>
+  </line>
+  <line>
+    <name>BDFM</name>
+    <status>SERVICE CHANGE</status>
+    <text>
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;08/07/2017&amp;nbsp;10:05AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;P&gt;Due to a track test train operating between &lt;STRONG&gt;High St&lt;/STRONG&gt; and&lt;STRONG&gt; Inwood-207 St&lt;/STRONG&gt;, northbound [A] and [D] trains are running local from &lt;STRONG&gt;59 St-Columbus Circle&lt;/STRONG&gt; to &lt;STRONG&gt;125 St&lt;/STRONG&gt;.&lt;/P&gt;
+&lt;P&gt;Expect delays on [B] and [C] trains.&lt;/P&gt;
+&lt;P&gt;Allow additional travel time.&lt;/P&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              
+                    &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
+                    &lt;br/&gt;
+                  &lt;a class="plannedWorkDetailLink" onclick=ShowHide(159601);&gt;&lt;b&gt;[M] No trains between Myrtle Av and Metropolitan Av&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 159601 class="plannedWorkDetail" &gt;[L] trains and [SB] free shuttle buses provide alternate service&lt;br&gt;&lt;/b&gt;All times, until Sep 1, 2017&lt;br&gt;&lt;br&gt;&lt;b&gt;Weekdays:&lt;br&gt;&lt;/b&gt;[M] service operates between 71 Av and Myrtle Av, and via the [J] &lt;i&gt;to/from&lt;/i&gt; Broadway Junction.&lt;br&gt;&lt;br&gt;&lt;b&gt;Weekends:&lt;br&gt;&lt;/b&gt;[M] service operates between Essex St and Myrtle Av, and via the [J] &lt;i&gt;to/from&lt;/i&gt; Broadway Junction.&lt;br&gt;&lt;br&gt;[M] trains do not operate during late nights.                                                       [TP]&lt;br&gt;&lt;br&gt;[SB] &lt;b&gt;Shuttle buses operate along three routes:&lt;br&gt;&lt;/b&gt;&lt;html&gt;&lt;a href=http://bustime.mta.info/#Shuttle-M1 target=_blank&gt;&lt;font color=#0000FF align&gt;&lt;b&gt;&lt;u&gt;Shuttle-M1&lt;/u&gt;&lt;/b&gt;&lt;/font&gt;&lt;/a&gt;&lt;/font&gt;. &lt;i&gt;Local&lt;/i&gt; between &lt;b&gt;Myrtle Av&lt;/b&gt; and &lt;b&gt;Fresh Pond Rd &lt;/b&gt;stopping at Central Av, &lt;br&gt;                     Knickerbocker Av, Myrtle-Wyckoff Avs, Seneca Av and Forest Av.&lt;br&gt;&lt;a href=http://bustime.mta.info/#Shuttle-M2 target=_blank&gt;&lt;font color=#0000FF&gt;&lt;b&gt;&lt;u&gt;Shuttle-M2&lt;/u&gt;&lt;/b&gt;&lt;/font&gt;&lt;/a&gt;.&lt;/font&gt; &lt;i&gt;Local&lt;/i&gt; between &lt;b&gt;Myrtle Av&lt;/b&gt; and &lt;b&gt;Metropolitan Av &lt;/b&gt;stopping at Central Av, &lt;br&gt;                     Knickerbocker Av, Myrtle-Wyckoff Avs, Seneca Av and Forest Av.&lt;br&gt;&lt;a href=http://bustime.mta.info/#Shuttle-M3 target=_blank&gt;&lt;font color=#0000FF&gt;&lt;b&gt;&lt;u&gt;Shuttle-M3&lt;/u&gt;&lt;/b&gt;&lt;/font&gt;&lt;/a&gt;&lt;/font&gt;. &lt;i&gt;Express&lt;/i&gt; between &lt;b&gt;Flushing Av [J] &lt;/b&gt;and &lt;b&gt;Metropolitan Av &lt;/b&gt;stopping at &lt;br&gt;                     Jefferson St [L] and Fresh Pond Rd.&lt;br&gt;  &amp;bull; Transfer between trains and [SB] buses at Myrtle Av [J] [M] [Z], Flushing Av [J] [M],&lt;br&gt;     Myrtle-Wyckoff Avs [L] and Jefferson St [L].&lt;br&gt;&lt;br&gt;&lt;/font&gt;&lt;font size=3&gt;&lt;b&gt;&lt;a style="cursor:pointer; text-decoration:underline;" onclick=ShowHide(1596010);&gt;Show Shuttle Bus Stops&lt;/a&gt;&lt;/b&gt;&lt;/font&gt;&lt;div id="1596010"; style="display:none;"&gt;&lt;br&gt;&lt;br&gt;&lt;img height=18px src=http://web.mta.info/metrocard/tourism/images/Metrocard.jpg&gt; Station booths and MetroCard vending machines are available. &lt;br&gt;&lt;table class=plannedworkTableStyle  border="0" cellspacing=1 cellpadding=3 rules=rows frame=hsides&gt;&lt;tr bgcolor=#FAF8CC&gt;&lt;td&gt;&lt;font size=3&gt;&lt;b&gt;Station&lt;/b&gt;&lt;/fontsize&gt;&lt;td&gt;&lt;font size=3&gt;&lt;b&gt;Shuttle Bus Stop&lt;/b&gt;&lt;td&gt;&lt;font size=3&gt;&lt;b&gt;Shuttle Bus Route&lt;br&gt;&lt;/b&gt;&lt;tr&gt;&lt;td rowspan=2&gt;Metropolitan Av  &lt;img height=18px src=http://web.mta.info/metrocard/tourism/images/Metrocard.jpg align=right&gt; &lt;td&gt;Metropolitan Av at Rentar Plz&lt;td&gt;M2 &amp; M3&lt;br&gt;&lt;tr&gt;&lt;td&gt;Metropolitan Av at Fresh Pond Rd&lt;td&gt;M2 &amp; M3&lt;br&gt;&lt;tr&gt;&lt;td rowspan=2&gt;Fresh Pond Rd  &lt;img height=18px src=http://web.mta.info/metrocard/tourism/images/Metrocard.jpg align=right&gt;&lt;td&gt;Putnam Av at Stier Pl (to Myrtle Av)&lt;td&gt;M1, (M2 nights only)&lt;br&gt;&lt;tr&gt;&lt;td&gt;67 Av at Fresh Pond Rd (to Metropolitan Av)&lt;td&gt;M2 nights only&lt;br&gt;&lt;tr&gt;&lt;td rowspan=3&gt;Forest Av  &lt;img height=18px src=http://web.mta.info/metrocard/tourism/images/Metrocard.jpg align=right&gt;&lt;td&gt;Putnam Av at Fairview Av (to Myrtle Av)&lt;td&gt;M1 &amp; M2&lt;br&gt;&lt;tr&gt;&lt;td&gt;Madison St at Fairview Av (to Metropolitan Av)&lt;td&gt;M2&lt;br&gt;&lt;tr&gt;&lt;td&gt;Madison St at Fairview Av (to Fresh Pond Rd)&lt;td&gt;M1&lt;br&gt;&lt;tr&gt;&lt;td&gt;Seneca Av   &lt;img height=18px src=http://web.mta.info/metrocard/tourism/images/Metrocard.jpg align=right&gt;&lt;td&gt;Seneca Av at Woodbine St&lt;td&gt;M1 &amp; M2&lt;br&gt;&lt;tr&gt;&lt;td rowspan=3&gt;Myrtle-Wyckoff Avs [ad]  [L]   &lt;img height=18px src=http://web.mta.info/metrocard/tourism/images/Metrocard.jpg align=right&gt; &lt;td&gt;Gates Av at Myrtle Av (to Myrtle Av)&lt;td&gt;M1 &amp; M2&lt;br&gt;&lt;tr&gt;&lt;td&gt;Gates Av at Wyckoff Av (to Myrtle Av)&lt;td&gt;M1 &amp; M2&lt;br&gt;&lt;tr&gt;&lt;td&gt;Palmetto St at Myrtle Av (to Metropolitan Av)&lt;td&gt;M1 &amp; M2&lt;br&gt;&lt;tr&gt;&lt;td rowspan=2&gt;Knickerbocker Av&lt;td&gt;Myrtle Av at Bleecker St&lt;br&gt;(to Fresh Pond Rd/Metropolitan Av)&lt;td&gt;M1 &amp; M2&lt;tr&gt;&lt;br&gt;&lt;td&gt;Myrtle Av at Knickerbocker Av (to Myrtle Av)&lt;td&gt;M1 &amp; M2&lt;br&gt;&lt;tr&gt;&lt;td&gt;Central Av&lt;td&gt;Myrtle Av at Cedar St&lt;td&gt;M1 &amp; M2&lt;br&gt;&lt;tr&gt;&lt;td&gt;Myrtle Av (Broadway) [J] [M]  &lt;img height=18px src=http://web.mta.info/metrocard/tourism/images/Metrocard.jpg align=right&gt;&lt;td&gt;Broadway at Myrtle Av&lt;td&gt;M1 &amp; M2&lt;br&gt;&lt;tr&gt;&lt;td rowspan=2&gt;Jefferson St  [L]   &lt;img height=18px src=http://web.mta.info/metrocard/tourism/images/Metrocard.jpg align=right&gt;&lt;td&gt;Flushing Av at Wyckoff Av (to Metropolitan Av)&lt;td&gt;M3&lt;br&gt;&lt;tr&gt;&lt;td&gt;Flushing Av at Harrison Pl (to Flushing Av)&lt;td&gt;M3&lt;br&gt;&lt;tr&gt;&lt;td&gt;Flushing Av  [ad]  [J] [M]  &lt;img height=18px src=http://web.mta.info/metrocard/tourism/images/Metrocard.jpg align=right&gt;&lt;td&gt;Flushing Av at Broadway&lt;td&gt;M3&lt;/table&gt;&lt;/div&gt;&lt;/html&gt; &lt;br&gt;&lt;br&gt;&lt;/font&gt;&lt;a href=http://web.mta.info/nyct/service/MyrtleAvenue/ target=_blank&gt;&lt;font color=#0000FF&gt;&lt;b&gt;&lt;u&gt;Click here&lt;/u&gt;&lt;/b&gt;&lt;/font&gt;&lt;/a&gt; for additional details about the Myrtle Viaduct reconstruction project.&lt;br&gt;&lt;br&gt;New [M] timetable with route change. | &lt;a href=http://web.mta.info/nyct/service/pdf/tmcur.pdf target=_blank&gt;&lt;font color=#0000FF&gt;&lt;b&gt;&lt;u&gt;pdf&lt;/u&gt;&lt;/b&gt;&lt;/font&gt;&lt;/a&gt; &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/font&gt;&lt;table class=plannedworkTableStyle  border=1 cellspacing=1 cellpadding=5 rules=none frame=box&gt;&lt;td&gt;  [ad]  &lt;td&gt;&lt;font size=1&gt;This service change affects one or more ADA accessible stations. Please call 511 for help with planning&lt;br&gt;your trip. If you are deaf or hard of hearing, use your preferred relay service provider or the free 711 relay.  &lt;/font&gt;&lt;/table&gt;&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>08/07/2017</Date>
+    <Time>10:05AM</Time>
+  </line>
+  <line>
+    <name>G</name>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
+  </line>
+  <line>
+    <name>JZ</name>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
+  </line>
+  <line>
+    <name>L</name>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
+  </line>
+  <line>
+    <name>NQR</name>
+    <status>DELAYS</status>
+    <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;08/07/2017&amp;nbsp;10:56AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  Following an earlier incident involving a train with mechanical problems at &lt;STRONG&gt;8 Av&lt;/STRONG&gt;, [N] train service has resumed with delays.
+                &lt;br/&gt;&lt;br/&gt;
+              
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;08/07/2017&amp;nbsp;10:17AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;P&gt;Due to switch problems at &lt;STRONG&gt;Lexington Av-59 St&lt;/STRONG&gt;, southbound [R], [N] and [W] trains are running with delays.&lt;/P&gt;
+&lt;P&gt;Allow additional travel time.&lt;/P&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              
+                    &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
+                    &lt;br/&gt;
+                  &lt;a class="plannedWorkDetailLink" onclick=ShowHide(162961);&gt;&lt;b&gt;[Q] Coney Island-bound trains skip Avenue U and Neck Rd&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 162961 class="plannedWorkDetail" &gt;&lt;/b&gt;Days, 9:45 AM to 3 PM, Mon to Fri, Aug 7 - 11&lt;br&gt;&lt;br&gt;&lt;/font&gt;For service &lt;i&gt;to&lt;/i&gt; these stations, take the [Q] to Sheepshead Bay and &lt;br&gt;transfer to a 96 St-bound [Q].&lt;br&gt;&lt;br&gt;For service &lt;i&gt;from&lt;/i&gt; these stations, take the [Q] to Kings Hwy and &lt;br&gt;transfer to a Coney Island-bound [Q].&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>08/07/2017</Date>
+    <Time>10:56AM</Time>
+  </line>
+  <line>
+    <name>S</name>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
+  </line>
+  <line>
+    <name>SIR</name>
+    <status>PLANNED WORK</status>
+    <text>
+                    &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
+                    &lt;br/&gt;
+                  &lt;a class="plannedWorkDetailLink" onclick=ShowHide(164670);&gt;&lt;b&gt;[SIR] Trains board at the Tottenville-bound platform from Great Kills to Grant City Stations&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 164670 class="plannedWorkDetail" &gt;&lt;/b&gt;Days, 9 AM to 3 PM, Mon to Thu, Aug 7 - 10&lt;br&gt;&lt;br&gt;&amp;bull; Boarding change includes &lt;b&gt;Great Kills&lt;/b&gt;, &lt;b&gt;Bay Terrace&lt;/b&gt;, &lt;b&gt;Oakwood Heights&lt;/b&gt;, &lt;b&gt;New Dorp&lt;/b&gt; and &lt;br&gt;  &lt;b&gt;Grant City Stations&lt;/b&gt;. &lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>08/07/2017</Date>
+    <Time>11:08AM</Time>
+  </line>
+</subway><bus>
+  <line>
+    <name>B1 - B84</name>
+    <status>SERVICE CHANGE</status>
+    <text>
+                  &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                  &lt;span class="DateStyle"&gt;
+                  &amp;nbsp;Posted:&amp;nbsp;08/07/2017&amp;nbsp;10:15AM
+                  &lt;/span&gt;
+                  &lt;br/&gt;
+                  &lt;br/&gt;
+                &lt;P&gt;&lt;STRONG&gt;B43&lt;/STRONG&gt; buses are detoured, due to road work on Throop Av and Green Av.&lt;/P&gt;
+&lt;P&gt;Detour is as follows:&lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;Northbound:&lt;/STRONG&gt; Via Throop Av, left on Lexington Av, right on Marcy Av, right on Lafayette Av, left on Throop Av and regular route.&lt;/P&gt;
+&lt;P&gt;Allow additional travel time.&lt;/P&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
+                  &lt;span class="TitlePlannedWork" &gt;Planned Detour&lt;/span&gt;
+                  &lt;br/&gt;
+                &lt;a class="plannedWorkDetailLink" onclick=ShowHide(162490);&gt;&lt;b&gt;B61&lt;/b&gt; - &lt;b&gt;Southbound buses rerouted from 8 Av at 19 St to 20 St &lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 162490 class="plannedWorkDetail" &gt;&lt;/b&gt;Until further notice&lt;br&gt;&lt;br&gt;Due to road work, buses make corresponding stops along the detoured route.&lt;br&gt;&lt;br&gt;&lt;i&gt;Reroute Details&lt;br&gt;&lt;/i&gt;Via 20 St&lt;br&gt;Right on 7 Av&lt;br&gt;Right on 19 St then regular route&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
+                  &lt;span class="TitlePlannedWork" &gt;Planned Detour&lt;/span&gt;
+                  &lt;br/&gt;
+                &lt;a class="plannedWorkDetailLink" onclick=ShowHide(140601);&gt;&lt;b&gt;B24&lt;/b&gt; - &lt;b&gt;Northbound buses may experience delays due to construction on Greenpoint Av at West St  &lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 140601 class="plannedWorkDetail" &gt;&lt;/b&gt;Until further notice&lt;br&gt;&lt;br&gt;&amp;bull; &lt;/font&gt;Please allow additional travel time.&lt;br&gt;&lt;b&gt;          &lt;/b&gt;&lt;a href=http://bustime.mta.info/#b24 target=_blank&gt;&lt;img height=30px src=http://web.mta.info/nyct/images/Bus_Time_logo.png&gt;&lt;/a&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
+                  &lt;span class="TitlePlannedWork" &gt;Planned Detour&lt;/span&gt;
+                  &lt;br/&gt;
+                &lt;a class="plannedWorkDetailLink" onclick=ShowHide(162684);&gt;&lt;b&gt;B12&lt;/b&gt; - &lt;b&gt;Eastbound buses bypass stop on East New York Av at Sackman St &lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 162684 class="plannedWorkDetail" &gt;&lt;/b&gt;Until further notice&lt;br&gt;&lt;br&gt;Due to construction, please follow directional signage to the nearby stop on East New York Av at Junius St.&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            </text>
+    <Date>08/07/2017</Date>
+    <Time>10:15AM</Time>
+  </line>
+  <line>
+    <name>B100 - B103</name>
+    <status>SERVICE CHANGE</status>
+    <text>
+                  &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                  &lt;span class="DateStyle"&gt;
+                  &amp;nbsp;Posted:&amp;nbsp;08/07/2017&amp;nbsp;10:18AM
+                  &lt;/span&gt;
+                  &lt;br/&gt;
+                  &lt;br/&gt;
+                &lt;P&gt;&lt;STRONG&gt;B103-LTD&lt;/STRONG&gt; and &lt;STRONG&gt;BM2&lt;/STRONG&gt; buses are detoured due to a road obstruction on Prospect Pkwy and 10 Av.&lt;/P&gt;
+&lt;P&gt;Detour is as follows:&lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;Eastbound&lt;/STRONG&gt;: Via Prospect Pkwy, take Exit 5, right on Caton Av, left on McDonald Av and regular route.&lt;/P&gt;
+&lt;P&gt;Allow additional travel time.&lt;/P&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            </text>
+    <Date>08/07/2017</Date>
+    <Time>10:18AM</Time>
+  </line>
+  <line>
+    <name>BM1 - BM5</name>
+    <status>SERVICE CHANGE</status>
+    <text>
+                  &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                  &lt;span class="DateStyle"&gt;
+                  &amp;nbsp;Posted:&amp;nbsp;08/07/2017&amp;nbsp;10:18AM
+                  &lt;/span&gt;
+                  &lt;br/&gt;
+                  &lt;br/&gt;
+                &lt;P&gt;&lt;STRONG&gt;B103-LTD&lt;/STRONG&gt; and &lt;STRONG&gt;BM2&lt;/STRONG&gt; buses are detoured due to a road obstruction on Prospect Pkwy and 10 Av.&lt;/P&gt;
+&lt;P&gt;Detour is as follows:&lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;Eastbound&lt;/STRONG&gt;: Via Prospect Pkwy, take Exit 5, right on Caton Av, left on McDonald Av and regular route.&lt;/P&gt;
+&lt;P&gt;Allow additional travel time.&lt;/P&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            </text>
+    <Date>08/07/2017</Date>
+    <Time>10:18AM</Time>
+  </line>
+  <line>
+    <name>BX1 - BX55</name>
+    <status>SERVICE CHANGE</status>
+    <text>
+                  &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                  &lt;span class="DateStyle"&gt;
+                  &amp;nbsp;Posted:&amp;nbsp;08/07/2017&amp;nbsp;10:18AM
+                  &lt;/span&gt;
+                  &lt;br/&gt;
+                  &lt;br/&gt;
+                &lt;P&gt;&lt;STRONG&gt;Bx46 &lt;/STRONG&gt;buses are detoured, due to paving on Longwood Av between Westchester Av and Kelly St.&lt;/P&gt;
+&lt;P&gt;Detour is as follows:&lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;Westbound&lt;/STRONG&gt;: Via Longwood Av, right on Southern Blvd, left on Intervale Av, left on E 163 St, left on Westchester Av, left on Prospect Av and regular route.&lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;Eastbound:&lt;/STRONG&gt; Via Prospect Av, left on E 156 St, left on Southern Blvd, right on Longwood Av and regular route.&lt;/P&gt;
+&lt;P&gt;Allow additional travel time.&lt;/P&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
+                  &lt;span class="TitlePlannedWork" &gt;Planned Detour&lt;/span&gt;
+                  &lt;br/&gt;
+                &lt;a class="plannedWorkDetailLink" onclick=ShowHide(164794);&gt;&lt;b&gt;Bx4/Bx4A, Bx5, Bx11 and Bx35 buses may experience delays&lt;br clear=left&gt;due to construction on Westchester Av between Southern Blvd and Hoe Av&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 164794 class="plannedWorkDetail" &gt;&lt;/b&gt;Until further notice&lt;br&gt;&lt;br&gt;&amp;bull; Please allow additional travel time.&lt;br&gt;&lt;b&gt;          &lt;/b&gt;&lt;a href=http://bustime.mta.info/ target=_blank&gt;&lt;img height=30px src=http://web.mta.info/nyct/images/Bus_Time_logo.png&gt;&lt;/a&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            </text>
+    <Date>08/07/2017</Date>
+    <Time>10:18AM</Time>
+  </line>
+  <line>
+    <name>BXM1 - BXM18</name>
+    <status>PLANNED WORK</status>
+    <text>
+                  &lt;span class="TitlePlannedWork" &gt;Planned Detour&lt;/span&gt;
+                  &lt;br/&gt;
+                &lt;a class="plannedWorkDetailLink" onclick=ShowHide(142650);&gt;&lt;b&gt;BxM7 and BxM9 &lt;/b&gt;- &lt;b&gt;Southbound buses may experience delays&lt;br clear=left&gt;due to construction on the Bruckner Expy at White Plains Rd to Bronx River Av&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 142650 class="plannedWorkDetail" &gt;&lt;/b&gt;Until further notice&lt;br&gt;&lt;br&gt;&amp;bull; Please allow additional travel time.&lt;br&gt;&lt;br&gt;&lt;/font&gt;&lt;b&gt;Reminder&lt;/b&gt;: &lt;a href=http://web.mta.info/busco/schedules/bxm7cur.pdf target=_blank&gt;&lt;font color=#0000FF&gt;&lt;b&gt;&lt;u&gt;BxM7&lt;/b&gt;&lt;/u&gt;&lt;/font&gt;&lt;/a&gt; and &lt;a href=http://web.mta.info/busco/schedules/bxm9cur.pdf target=_blank&gt;&lt;font color=#0000FF&gt;&lt;b&gt;&lt;u&gt;BxM9&lt;/b&gt;&lt;/u&gt;&lt;/font&gt;&lt;/a&gt; buses do not operate overnight.&lt;br&gt;&lt;b&gt;&lt;/b&gt;          &lt;a href=http://bustime.mta.info/ target=_blank&gt;&lt;img height=30px src=http://web.mta.info/nyct/images/Bus_Time_logo.png&gt;&lt;/a&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            </text>
+    <Date>08/07/2017</Date>
+    <Time>11:08AM</Time>
+  </line>
+  <line>
+    <name>M1 - M116</name>
+    <status>PLANNED WORK</status>
+    <text>
+                  &lt;span class="TitlePlannedWork" &gt;Planned Detour&lt;/span&gt;
+                  &lt;br/&gt;
+                &lt;a class="plannedWorkDetailLink" onclick=ShowHide(77041);&gt;&lt;b&gt;M2/M2&lt;/b&gt; LTD&lt;b&gt; and M3 - Southbound stop on Broadway at 168 St temporarily relocated&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 77041 class="plannedWorkDetail" &gt;&lt;/b&gt;Until further notice&lt;br&gt;&lt;br&gt;Due to construction, please follow directional signage to nearby temporary stops &lt;b&gt;on 168 St&lt;/b&gt; at Audubon Av&lt;br clear =left&gt;(M2/M2 LTD) and &lt;b&gt;on 168 St &lt;/b&gt;at Broadway (M3).&lt;br&gt;&lt;br&gt;&lt;b&gt;Reminder&lt;/b&gt;: &lt;a href=http://web.mta.info/nyct/bus/schedule/manh/m002cur.pdf target=_blank&gt;&lt;font color=#0000FF&gt;&lt;b&gt;&lt;u&gt;M2 LTD&lt;/u&gt;&lt;/b&gt;&lt;/font&gt;&lt;a/&gt; and &lt;a href=http://web.mta.info/nyct/bus/schedule/manh/m003cur.pdf target=_blank&gt;&lt;font color=#0000FF&gt;&lt;b&gt;&lt;u&gt;M3&lt;/u&gt;&lt;/b&gt;&lt;/font&gt;&lt;a/&gt; buses do not operate overnight.&lt;br&gt;&lt;b&gt;                              [TP]&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
+                  &lt;span class="TitlePlannedWork" &gt;Planned Detour&lt;/span&gt;
+                  &lt;br/&gt;
+                &lt;a class="plannedWorkDetailLink" onclick=ShowHide(162813);&gt;&lt;b&gt;M101, M102 and M103 &lt;/b&gt;-&lt;b&gt; Southbound stop on Lexington Av at 48 St temporarily closed&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 162813 class="plannedWorkDetail" &gt;&lt;/b&gt;Until further notice&lt;br&gt;&lt;br&gt;Due to construction, please follow directional signage to nearby stops &lt;b&gt;on Lexington Av &lt;/b&gt;at 46 St or 50 St.&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            </text>
+    <Date>08/07/2017</Date>
+    <Time>11:08AM</Time>
+  </line>
+  <line>
+    <name>Q1 - Q113</name>
+    <status>SERVICE CHANGE</status>
+    <text>
+                  &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                  &lt;span class="DateStyle"&gt;
+                  &amp;nbsp;Posted:&amp;nbsp;08/07/2017&amp;nbsp;10:55AM
+                  &lt;/span&gt;
+                  &lt;br/&gt;
+                  &lt;br/&gt;
+                &lt;P&gt;&lt;STRONG&gt;Q44-SBS&lt;/STRONG&gt; buses are detoured, due to a road obstruction on the Cross Bronx Expwy and Castle Hill Av.&lt;/P&gt;
+&lt;P&gt;Detour is as follows:&lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;Northbound:&lt;/STRONG&gt; Via Cross Bronx Expwy, right on Castle Hill Av, left on Metropolitan Av, right on Westchester Av and regular route.&lt;/P&gt;
+&lt;P&gt;Allow additional travel time.&lt;/P&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
+                  &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                  &lt;span class="DateStyle"&gt;
+                  &amp;nbsp;Posted:&amp;nbsp;08/07/2017&amp;nbsp;10:19AM
+                  &lt;/span&gt;
+                  &lt;br/&gt;
+                  &lt;br/&gt;
+                &lt;P&gt;&lt;STRONG&gt;Q18&lt;/STRONG&gt; buses are detoured, due to construction 65 St between Woodside Av and the BQE.&lt;/P&gt;
+&lt;P&gt;Detour is as follows:&lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;Southbound&lt;/STRONG&gt;: Via Woodside Av, right on 69 St and regular route.&lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;Northbound&lt;/STRONG&gt;: Via 69 St, left on Woodside Av and regular route.&lt;/P&gt;
+&lt;P&gt;Allow additional travel time.&lt;/P&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
+                  &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                  &lt;span class="DateStyle"&gt;
+                  &amp;nbsp;Posted:&amp;nbsp;08/07/2017&amp;nbsp;10:12AM
+                  &lt;/span&gt;
+                  &lt;br/&gt;
+                  &lt;br/&gt;
+                &lt;P&gt;&lt;STRONG&gt;Q49&lt;/STRONG&gt; buses are detoured, due to DEP work on 35 Av between 90 St and 83 St.&lt;/P&gt;
+&lt;P&gt;Detour is as follows:&lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;Northbound&lt;/STRONG&gt;: Via 35 Av, left on 83 St, right on Northern Blvd, left on 89 St and regular route.&lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;Southbound&lt;/STRONG&gt;: Via 90 St, right on 37 Av, right on 83 St, left on 35 Av and regular route.&lt;/P&gt;
+&lt;P&gt;Allow additional travel time.&lt;/P&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
+                  &lt;span class="TitlePlannedWork" &gt;Planned Detour&lt;/span&gt;
+                  &lt;br/&gt;
+                &lt;a class="plannedWorkDetailLink" onclick=ShowHide(164776);&gt;&lt;b&gt;Q47 stops on 69 St at 48 Av and 49 Av temporarily closed&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 164776 class="plannedWorkDetail" &gt;&lt;/b&gt;Until further notice&lt;br&gt;&lt;br&gt;Due to construction:&lt;br&gt;&lt;br&gt;&lt;b&gt;Northbound: &lt;/b&gt;The 69 St at 49 Av stop will be made on 69 St at 48 Av.&lt;br&gt;&lt;br&gt;&lt;b&gt;Southbound: &lt;/b&gt;The 69 St at 48 Av stop will be made on 69 St at 50 Av.&lt;br&gt;&lt;b&gt;                              [TP]&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
+                  &lt;span class="TitlePlannedWork" &gt;Planned Detour&lt;/span&gt;
+                  &lt;br/&gt;
+                &lt;a class="plannedWorkDetailLink" onclick=ShowHide(152128);&gt;&lt;b&gt;Q27/Q27 &lt;/b&gt;LTD&lt;b&gt;, Q30, QM5 and QM35 buses may experience delays&lt;br clear=left&gt;due to construction on Springfield Blvd between Horace Harding Expy and 56 Av&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 152128 class="plannedWorkDetail" &gt;&lt;/b&gt;Until further notice&lt;br&gt;&lt;br&gt;&amp;bull; Please allow additional travel time.&lt;br&gt;&lt;/font&gt;&lt;b&gt;          &lt;/b&gt;&lt;/font&gt;&lt;a href=http://bustime.mta.info/ target=_blank&gt;&lt;img height=30px src=http://web.mta.info/nyct/images/Bus_Time_logo.png&gt;&lt;/a&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            </text>
+    <Date>08/07/2017</Date>
+    <Time>10:55AM</Time>
+  </line>
+  <line>
+    <name>QM1 - QM44</name>
+    <status>PLANNED WORK</status>
+    <text>
+                  &lt;span class="TitlePlannedWork" &gt;Planned Detour&lt;/span&gt;
+                  &lt;br/&gt;
+                &lt;a class="plannedWorkDetailLink" onclick=ShowHide(152128);&gt;&lt;b&gt;Q27/Q27 &lt;/b&gt;LTD&lt;b&gt;, Q30, QM5 and QM35 buses may experience delays&lt;br clear=left&gt;due to construction on Springfield Blvd between Horace Harding Expy and 56 Av&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 152128 class="plannedWorkDetail" &gt;&lt;/b&gt;Until further notice&lt;br&gt;&lt;br&gt;&amp;bull; Please allow additional travel time.&lt;br&gt;&lt;/font&gt;&lt;b&gt;          &lt;/b&gt;&lt;/font&gt;&lt;a href=http://bustime.mta.info/ target=_blank&gt;&lt;img height=30px src=http://web.mta.info/nyct/images/Bus_Time_logo.png&gt;&lt;/a&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            </text>
+    <Date>08/07/2017</Date>
+    <Time>11:08AM</Time>
+  </line>
+  <line>
+    <name>S40 - S98</name>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
+  </line>
+  <line>
+    <name>x1 - x68</name>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
+  </line>
+</bus><BT>
+  <line>
+    <name>Bronx-Whitestone</name>
+    <status>SERVICE CHANGE</status>
+    <text>
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;08/07/2017&amp;nbsp; 9:38AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;body bgcolor='White' style='font-family:sans-serif;font-size:10pt;'&gt;WEATHER CONDITIONS- DUE TO WET ROADWAYS AND WEATHER CONDITIONS, MOTORISTS ARE ASKED TO DRIVE AT REDUCED SPEEDS.&lt;/body&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>08/07/2017</Date>
+    <Time> 9:38AM</Time>
+  </line>
+  <line>
+    <name>Cross Bay</name>
+    <status>SERVICE CHANGE</status>
+    <text>
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;08/07/2017&amp;nbsp; 9:38AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;body bgcolor='White' style='font-family:sans-serif;font-size:10pt;'&gt;WEATHER CONDITIONS- DUE TO WET ROADWAYS AND WEATHER CONDITIONS, MOTORISTS ARE ASKED TO DRIVE AT REDUCED SPEEDS.&lt;/body&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>08/07/2017</Date>
+    <Time> 9:38AM</Time>
+  </line>
+  <line>
+    <name>Henry Hudson</name>
+    <status>SERVICE CHANGE</status>
+    <text>
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;08/07/2017&amp;nbsp; 9:38AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;body bgcolor='White' style='font-family:sans-serif;font-size:10pt;'&gt;WEATHER CONDITIONS- DUE TO WET ROADWAYS AND WEATHER CONDITIONS, MOTORISTS ARE ASKED TO DRIVE AT REDUCED SPEEDS.&lt;/body&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>08/07/2017</Date>
+    <Time> 9:38AM</Time>
+  </line>
+  <line>
+    <name>Hugh L. Carey</name>
+    <status>SERVICE CHANGE</status>
+    <text>
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;08/07/2017&amp;nbsp; 9:38AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;body bgcolor='White' style='font-family:sans-serif;font-size:10pt;'&gt;WEATHER CONDITIONS- DUE TO WET ROADWAYS AND WEATHER CONDITIONS, MOTORISTS ARE ASKED TO DRIVE AT REDUCED SPEEDS.&lt;/body&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>08/07/2017</Date>
+    <Time> 9:38AM</Time>
+  </line>
+  <line>
+    <name>Marine Parkway</name>
+    <status>SERVICE CHANGE</status>
+    <text>
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;08/07/2017&amp;nbsp; 9:38AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;body bgcolor='White' style='font-family:sans-serif;font-size:10pt;'&gt;WEATHER CONDITIONS- DUE TO WET ROADWAYS AND WEATHER CONDITIONS, MOTORISTS ARE ASKED TO DRIVE AT REDUCED SPEEDS.&lt;/body&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>08/07/2017</Date>
+    <Time> 9:38AM</Time>
+  </line>
+  <line>
+    <name>Queens Midtown</name>
+    <status>SERVICE CHANGE</status>
+    <text>
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;08/07/2017&amp;nbsp; 9:38AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;body bgcolor='White' style='font-family:sans-serif;font-size:10pt;'&gt;WEATHER CONDITIONS- DUE TO WET ROADWAYS AND WEATHER CONDITIONS, MOTORISTS ARE ASKED TO DRIVE AT REDUCED SPEEDS.&lt;/body&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>08/07/2017</Date>
+    <Time> 9:38AM</Time>
+  </line>
+  <line>
+    <name>Robert F. Kennedy</name>
+    <status>SERVICE CHANGE</status>
+    <text>
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;08/07/2017&amp;nbsp; 9:38AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;body bgcolor='White' style='font-family:sans-serif;font-size:10pt;'&gt;WEATHER CONDITIONS- DUE TO WET ROADWAYS AND WEATHER CONDITIONS, MOTORISTS ARE ASKED TO DRIVE AT REDUCED SPEEDS.&lt;/body&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>08/07/2017</Date>
+    <Time> 9:38AM</Time>
+  </line>
+  <line>
+    <name>Throgs Neck</name>
+    <status>SERVICE CHANGE</status>
+    <text>
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;08/07/2017&amp;nbsp; 9:38AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;body bgcolor='White' style='font-family:sans-serif;font-size:10pt;'&gt;WEATHER CONDITIONS- DUE TO WET ROADWAYS AND WEATHER CONDITIONS, MOTORISTS ARE ASKED TO DRIVE AT REDUCED SPEEDS.&lt;/body&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>08/07/2017</Date>
+    <Time> 9:38AM</Time>
+  </line>
+  <line>
+    <name>Verrazano-Narrows</name>
+    <status>DELAYS</status>
+    <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;08/07/2017&amp;nbsp;10:49AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  VNB: TRAFFIC DELAYS: BROOKLYN BOUND BELT PARKWAY RAMP
+                &lt;br/&gt;&lt;br/&gt;
+              
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;08/07/2017&amp;nbsp; 9:38AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;body bgcolor='White' style='font-family:sans-serif;font-size:10pt;'&gt;WEATHER CONDITIONS- DUE TO WET ROADWAYS AND WEATHER CONDITIONS, MOTORISTS ARE ASKED TO DRIVE AT REDUCED SPEEDS.&lt;/body&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>08/07/2017</Date>
+    <Time>10:49AM</Time>
+  </line>
+</BT><LIRR>
+  <line>
+    <name>Babylon</name>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
+  </line>
+  <line>
+    <name>City Terminal Zone</name>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
+  </line>
+  <line>
+    <name>Far Rockaway</name>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
+  </line>
+  <line>
+    <name>Hempstead</name>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
+  </line>
+  <line>
+    <name>Long Beach</name>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
+  </line>
+  <line>
+    <name>Montauk</name>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
+  </line>
+  <line>
+    <name>Oyster Bay</name>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
+  </line>
+  <line>
+    <name>Port Jefferson</name>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
+  </line>
+  <line>
+    <name>Port Washington</name>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
+  </line>
+  <line>
+    <name>Ronkonkoma</name>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
+  </line>
+  <line>
+    <name>West Hempstead</name>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
+  </line>
+</LIRR><MetroNorth>
+  <line>
+    <name>Hudson</name>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
+  </line>
+  <line>
+    <name>Harlem</name>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
+  </line>
+  <line>
+    <name>Wassaic</name>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
+  </line>
+  <line>
+    <name>New Haven</name>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
+  </line>
+  <line>
+    <name>New Canaan</name>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
+  </line>
+  <line>
+    <name>Danbury</name>
+    <status>DELAYS</status>
+    <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;08/07/2017&amp;nbsp;11:11AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;body bgcolor='White' style='font-family:sans-serif;font-size:10pt;'&gt;&lt;/body&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>08/07/2017</Date>
+    <Time>11:11AM</Time>
+  </line>
+  <line>
+    <name>Waterbury</name>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
+  </line>
+  <line>
+    <name>Pascack Valley</name>
+    <status>PLANNED WORK</status>
+    <text>
+                    &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;07/13/2017&amp;nbsp;10:15PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;font class="subTitle"&gt;NJ Transit summer service plan for Amtrak Penn Station New York repair work from 7/10 - 9/1/17 is now available. Visit njtransit.com/theupdate.&lt;a href="http://njtransit-theupdate.com/"&gt;Click here for more information&lt;/a&gt;&lt;/font&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              
+                    &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;07/07/2017&amp;nbsp; 8:55PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  NJ TRANSIT Reminder: The summer service changes due to Amtrak track work at PSNY begin this Monday, 7/10/17. Visit http://njtransit.com/theupdate. &lt;br&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>07/13/2017</Date>
+    <Time>10:15PM</Time>
+  </line>
+  <line>
+    <name>Port Jervis</name>
+    <status>PLANNED WORK</status>
+    <text>
+                    &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;07/13/2017&amp;nbsp;10:15PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;font class="subTitle"&gt;NJ Transit summer service plan for Amtrak Penn Station New York repair work from 7/10 - 9/1/17 is now available. Visit njtransit.com/theupdate.&lt;a href="http://njtransit-theupdate.com/"&gt;Click here for more information&lt;/a&gt;&lt;/font&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              
+                    &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;07/07/2017&amp;nbsp; 8:55PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  NJ TRANSIT Reminder: The summer service changes due to Amtrak track work at PSNY begin this Monday, 7/10/17. Visit http://njtransit.com/theupdate. &lt;br&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>07/13/2017</Date>
+    <Time>10:15PM</Time>
+  </line>
+</MetroNorth></service>
 
-<link rel="shortcut icon" href="http://webserver.mta.info/siteimages/favicon.ico" />
-
-<style type="text/css">
-html { margin:0; padding:0; border:0; overflow-y:scroll; }
-
-body, div, h1, a, ol, ul, li, img { margin: 0; padding: 0; border: 0; font-size: 100%; vertical-align: baseline; }
-
-h1 { font-size:136%; color: #0055aa; font-size: 153.9%; display: block; padding-bottom: 4px; border-bottom: 1px solid #b4b4b4; }
-
-p { margin-bottom:1em; }
-
-body { font:13px/1.231 helvetica,arial,clean,sans-serif; }
-
-#mainbox { width: 960px; margin:0 auto; background-color: #fff; padding: 0 0 20px 0; }
-
-#contentbox { margin: 20px 10px; padding: 0 20px 20px 20px; }
-
-#contentbox a:link {text-decoration: none; color:#0055aa;}
-#contentbox a:visited {text-decoration: none; color:#0055aa;}
-#contentbox a:hover {text-decoration: underline}
-#contentbox a:active {text-decoration: underline}
-
-</style>
-
-</head>
-
-<body>
-
-<div id="mainbox">	
-			<div id="topbar">
-	
-		<div id="branding">
-		<img src="/apology_objects/mta_info.gif" alt="Metropolitan Transportation Authority web logo">
-		</div>
-				<div style="float:right;"><a href="http://mta-nyc.custhelp.com/app/ask">Contact Us</a></div>
-
-<div id="contentbox" class="roundCorners clearfix" >
-		
-<!-- Start Page Content -->
-			 				 		
-<h1>503 Service Unavailable</h1>																		  
-<p>Our site is temporarily unavailable. Please try visiting us again later.</p>
-<p>We apologize for the inconvenience.</p>						
-
-								<!-- End Page Content -->
-
-</div> <!-- close contentbox -->
-</div> <!-- close mainbox -->
-
-  </body>
-</html>
