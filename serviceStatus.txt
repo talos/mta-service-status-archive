@@ -1,17 +1,10 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>DELAYS</status>
-    <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;10/11/2017&amp;nbsp; 3:06PM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  Following earlier incident involving a train with mechanical problems at &lt;STRONG&gt;Chambers St,&lt;/STRONG&gt; [2] and [3] train service has resumed with delays.
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>10/11/2017</Date>
-    <Time> 3:06PM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>456</name>
@@ -202,18 +195,8 @@
   </line>
   <line>
     <name>M1 - M116</name>
-    <status>DELAYS</status>
+    <status>SERVICE CHANGE</status>
     <text>
-                  &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                  &lt;span class="DateStyle"&gt;
-                  &amp;nbsp;Posted:&amp;nbsp;10/11/2017&amp;nbsp; 3:03PM
-                  &lt;/span&gt;
-                  &lt;br/&gt;
-                  &lt;br/&gt;
-                Following an earlier incident involving a local event on Riverside Dr&lt;STRONG&gt;, M5&lt;/STRONG&gt; bus service has resumed with delays.
-              &lt;br/&gt;
-              &lt;br/&gt;
-            
                   &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
                   &lt;span class="DateStyle"&gt;
                   &amp;nbsp;Posted:&amp;nbsp;10/11/2017&amp;nbsp; 2:03PM
@@ -255,7 +238,7 @@
               &lt;br/&gt;
             </text>
     <Date>10/11/2017</Date>
-    <Time> 3:03PM</Time>
+    <Time> 2:03PM</Time>
   </line>
   <line>
     <name>Q1 - Q113</name>
