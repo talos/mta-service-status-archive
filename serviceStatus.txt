@@ -1,10 +1,18 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>DELAYS</status>
+    <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;10/12/2017&amp;nbsp; 8:27AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;P&gt;Northbound [1] trains are running with delays because of an investigation at &lt;STRONG&gt;Dyckman St&lt;/STRONG&gt;. &lt;/P&gt;
+&lt;P&gt;Allow additional travel time.&lt;/P&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>10/12/2017</Date>
+    <Time> 8:27AM</Time>
   </line>
   <line>
     <name>456</name>
@@ -276,7 +284,7 @@
               &lt;br/&gt;
             </text>
     <Date>10/12/2017</Date>
-    <Time> 8:22AM</Time>
+    <Time> 8:28AM</Time>
   </line>
   <line>
     <name>Q1 - Q113</name>
@@ -503,7 +511,7 @@
               &lt;br/&gt;
             </text>
     <Date>10/12/2017</Date>
-    <Time> 8:22AM</Time>
+    <Time> 8:28AM</Time>
   </line>
   <line>
     <name>x1 - x68</name>
