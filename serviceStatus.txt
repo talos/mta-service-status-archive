@@ -8,17 +8,10 @@
   </line>
   <line>
     <name>456</name>
-    <status>DELAYS</status>
-    <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;10/12/2017&amp;nbsp; 5:57PM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  [6] service has resumed following an earlier incident involving a sick passenger at &lt;STRONG&gt;Bleecker St&lt;/STRONG&gt;.
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>10/12/2017</Date>
-    <Time> 5:57PM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>7</name>
@@ -57,10 +50,18 @@
   </line>
   <line>
     <name>L</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>SERVICE CHANGE</status>
+    <text>
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;10/12/2017&amp;nbsp; 6:21PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;P&gt;Canarsie bound [L] trains will end at &lt;STRONG&gt;Bedford Av&lt;/STRONG&gt;, because of a sick passenger at &lt;STRONG&gt;1 Av.&lt;/STRONG&gt; &lt;/P&gt;
+&lt;P&gt;Allow additional travel time.&lt;/P&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>10/12/2017</Date>
+    <Time> 6:21PM</Time>
   </line>
   <line>
     <name>NQR</name>
