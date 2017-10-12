@@ -1,17 +1,10 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>DELAYS</status>
-    <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;10/12/2017&amp;nbsp; 8:37AM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  Following an earlier investigation at &lt;STRONG&gt;Dyckman St&lt;/STRONG&gt;, [1] train service has resumed with delays.
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>10/12/2017</Date>
-    <Time> 8:37AM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>456</name>
@@ -503,8 +496,21 @@
   </line>
   <line>
     <name>x1 - x68</name>
-    <status>DELAYS</status>
+    <status>SERVICE CHANGE</status>
     <text>
+                  &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                  &lt;span class="DateStyle"&gt;
+                  &amp;nbsp;Posted:&amp;nbsp;10/12/2017&amp;nbsp;10:07AM
+                  &lt;/span&gt;
+                  &lt;br/&gt;
+                  &lt;br/&gt;
+                &lt;P&gt;&lt;STRONG&gt;X10&lt;/STRONG&gt; buses are detoured because of a non MTA accident on Slosson Av near eastbound entrance to Staten Island Expressway. &lt;/P&gt;
+&lt;P&gt;Detour is as follows:&lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;Manhattan bound:&lt;/STRONG&gt; Via Slosson Av, right on Victory Blvd, right on Clove Road into Narrows South and regular route.&lt;/P&gt;
+&lt;P&gt;Allow additional travel time.&lt;/P&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
                   &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                   &lt;span class="DateStyle"&gt;
                   &amp;nbsp;Posted:&amp;nbsp;10/12/2017&amp;nbsp; 8:11AM
@@ -517,7 +523,7 @@
               &lt;br/&gt;
             </text>
     <Date>10/12/2017</Date>
-    <Time> 8:11AM</Time>
+    <Time>10:07AM</Time>
   </line>
 </bus><BT>
   <line>
