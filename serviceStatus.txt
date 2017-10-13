@@ -1,31 +1,20 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>SERVICE CHANGE</status>
-    <text>
-                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;10/12/2017&amp;nbsp; 8:22PM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  &lt;P&gt;[6] Northbound service resumed. [6] Southbound trains bypass &lt;B&gt;77 St&lt;/B&gt; because of an NYPD investigation of an injured passenger. &lt;/P&gt;
-&lt;P&gt;As an alternative, for service to &lt;B&gt;77 St&lt;/B&gt;, take a southbound [6] train to &lt;B&gt;68 St-Hunter College&lt;/B&gt; and transfer to a northbound [6] train to &lt;B&gt;77 St&lt;/B&gt;. &lt;/P&gt;
-&lt;P&gt;Allow additional travel time. &lt;/P&gt;
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>10/12/2017</Date>
-    <Time> 8:22PM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>456</name>
-    <status>SERVICE CHANGE</status>
+    <status>DELAYS</status>
     <text>
-                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;10/12/2017&amp;nbsp; 8:22PM
+                    &amp;nbsp;Posted:&amp;nbsp;10/12/2017&amp;nbsp; 8:57PM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  &lt;P&gt;[6] Northbound service resumed. [6] Southbound trains bypass &lt;B&gt;77 St&lt;/B&gt; because of an NYPD investigation of an injured passenger. &lt;/P&gt;
-&lt;P&gt;As an alternative, for service to &lt;B&gt;77 St&lt;/B&gt;, take a southbound [6] train to &lt;B&gt;68 St-Hunter College&lt;/B&gt; and transfer to a northbound [6] train to &lt;B&gt;77 St&lt;/B&gt;. &lt;/P&gt;
-&lt;P&gt;Allow additional travel time. &lt;/P&gt;
+                  [6] service has resumed following an earlier NYPD investigation of an injured passenger at &lt;STRONG&gt;77 St.&lt;/STRONG&gt;
                 &lt;br/&gt;&lt;br/&gt;
               
                     &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
@@ -37,7 +26,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>10/12/2017</Date>
-    <Time> 8:22PM</Time>
+    <Time> 8:57PM</Time>
   </line>
   <line>
     <name>7</name>
