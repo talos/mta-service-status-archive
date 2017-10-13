@@ -41,14 +41,13 @@
     <text>
                     &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;10/13/2017&amp;nbsp; 8:44AM
+                    &amp;nbsp;Posted:&amp;nbsp;10/13/2017&amp;nbsp; 9:03AM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  &lt;P&gt;Southbound [F] and [M] trains are running with delays because of a train with mechanical problems at &lt;STRONG&gt;W 4 St-Wash Sq.&lt;/STRONG&gt; &lt;/P&gt;
-&lt;P&gt;Allow additional travel time.&lt;/P&gt;
+                  [F] and [M] service has resumed following an earlier incident involving a train with mechanical problems at &lt;STRONG&gt;W 4 St-Wash Sq&lt;/STRONG&gt;.
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>10/13/2017</Date>
-    <Time> 8:44AM</Time>
+    <Time> 9:03AM</Time>
   </line>
   <line>
     <name>G</name>
@@ -87,10 +86,15 @@
   </line>
   <line>
     <name>SIR</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>PLANNED WORK</status>
+    <text>
+                    &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
+                    &lt;br/&gt;
+                  &lt;a class="plannedWorkDetailLink" onclick=ShowHide(169682);&gt;&lt;b&gt;[SIR] Trains board at the St. George-bound platform from Prince's Bay to Arthur Kill Stations&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 169682 class="plannedWorkDetail" &gt;&lt;/b&gt;Days, 9 AM to 3 PM, Mon to Fri, Oct 9 - 13  &amp;bull;  Oct 16 - 20&lt;br&gt;&lt;br&gt;&amp;bull; Boarding change includes &lt;b&gt;Prince's Bay&lt;/b&gt;, &lt;b&gt;Pleasant Plains&lt;/b&gt;, &lt;b&gt;Richmond Valley&lt;/b&gt; and &lt;br&gt;  &lt;b&gt;Arthur Kill Stations&lt;/b&gt;.&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>10/13/2017</Date>
+    <Time> 9:02AM</Time>
   </line>
 </subway><bus>
   <line>
@@ -104,7 +108,7 @@
               &lt;br/&gt;
             </text>
     <Date>10/13/2017</Date>
-    <Time> 8:52AM</Time>
+    <Time> 9:02AM</Time>
   </line>
   <line>
     <name>B100 - B103</name>
@@ -137,7 +141,7 @@
               &lt;br/&gt;
             </text>
     <Date>10/13/2017</Date>
-    <Time> 8:52AM</Time>
+    <Time> 9:02AM</Time>
   </line>
   <line>
     <name>BXM1 - BXM18</name>
@@ -175,7 +179,7 @@
               &lt;br/&gt;
             </text>
     <Date>10/13/2017</Date>
-    <Time> 8:52AM</Time>
+    <Time> 9:02AM</Time>
   </line>
   <line>
     <name>Q1 - Q113</name>
@@ -241,7 +245,7 @@
               &lt;br/&gt;
             </text>
     <Date>10/13/2017</Date>
-    <Time> 8:52AM</Time>
+    <Time> 9:02AM</Time>
   </line>
   <line>
     <name>S40 - S98</name>
@@ -260,7 +264,7 @@
               &lt;br/&gt;
             </text>
     <Date>10/13/2017</Date>
-    <Time> 8:52AM</Time>
+    <Time> 9:02AM</Time>
   </line>
   <line>
     <name>x1 - x68</name>
