@@ -1,8 +1,16 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>SERVICE CHANGE</status>
+    <status>DELAYS</status>
     <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;10/14/2017&amp;nbsp; 8:29AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;P&gt;Southbound [2] and [5] trains are running with delays, because of an injured passenger at &lt;STRONG&gt;Simpson St.&lt;/STRONG&gt; &lt;/P&gt;
+&lt;P&gt;Allow additional travel time.&lt;/P&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              
                     &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
                     &amp;nbsp;Posted:&amp;nbsp;10/14/2017&amp;nbsp; 8:08AM
@@ -20,12 +28,20 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>10/14/2017</Date>
-    <Time> 8:08AM</Time>
+    <Time> 8:29AM</Time>
   </line>
   <line>
     <name>456</name>
-    <status>SERVICE CHANGE</status>
+    <status>DELAYS</status>
     <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;10/14/2017&amp;nbsp; 8:29AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;P&gt;Southbound [2] and [5] trains are running with delays, because of an injured passenger at &lt;STRONG&gt;Simpson St.&lt;/STRONG&gt; &lt;/P&gt;
+&lt;P&gt;Allow additional travel time.&lt;/P&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              
                     &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
                     &amp;nbsp;Posted:&amp;nbsp;10/14/2017&amp;nbsp; 8:02AM
@@ -55,7 +71,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>10/14/2017</Date>
-    <Time> 8:02AM</Time>
+    <Time> 8:29AM</Time>
   </line>
   <line>
     <name>7</name>
@@ -84,7 +100,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>10/14/2017</Date>
-    <Time> 8:22AM</Time>
+    <Time> 8:28AM</Time>
   </line>
   <line>
     <name>BDFM</name>
@@ -121,7 +137,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>10/14/2017</Date>
-    <Time> 8:22AM</Time>
+    <Time> 8:28AM</Time>
   </line>
   <line>
     <name>G</name>
@@ -179,7 +195,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>10/14/2017</Date>
-    <Time> 8:22AM</Time>
+    <Time> 8:28AM</Time>
   </line>
   <line>
     <name>S</name>
@@ -198,7 +214,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>10/14/2017</Date>
-    <Time> 8:22AM</Time>
+    <Time> 8:28AM</Time>
   </line>
 </subway><bus>
   <line>
@@ -296,7 +312,7 @@
               &lt;br/&gt;
             </text>
     <Date>10/14/2017</Date>
-    <Time> 8:22AM</Time>
+    <Time> 8:28AM</Time>
   </line>
   <line>
     <name>B100 - B103</name>
@@ -316,7 +332,7 @@
               &lt;br/&gt;
             </text>
     <Date>10/14/2017</Date>
-    <Time> 8:22AM</Time>
+    <Time> 8:28AM</Time>
   </line>
   <line>
     <name>BX1 - BX55</name>
@@ -335,7 +351,7 @@
               &lt;br/&gt;
             </text>
     <Date>10/14/2017</Date>
-    <Time> 8:22AM</Time>
+    <Time> 8:28AM</Time>
   </line>
   <line>
     <name>BXM1 - BXM18</name>
@@ -477,7 +493,7 @@
               &lt;br/&gt;
             </text>
     <Date>10/14/2017</Date>
-    <Time> 8:22AM</Time>
+    <Time> 8:28AM</Time>
   </line>
   <line>
     <name>S40 - S98</name>
@@ -496,7 +512,7 @@
               &lt;br/&gt;
             </text>
     <Date>10/14/2017</Date>
-    <Time> 8:22AM</Time>
+    <Time> 8:28AM</Time>
   </line>
   <line>
     <name>x1 - x68</name>
