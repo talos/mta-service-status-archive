@@ -522,10 +522,17 @@ operating 11 minutes late due to a broken crossing gate east of Hewlett.
   </line>
   <line>
     <name>Oyster Bay</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>DELAYS</status>
+    <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;10/16/2017&amp;nbsp; 9:21AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  The 9:02AM train from Jamaica due Oyster Bay at 10:00AM is operating 13 minutes late due to a track condition east of Merillon Ave. &lt;br&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>10/16/2017</Date>
+    <Time> 9:21AM</Time>
   </line>
   <line>
     <name>Port Jefferson</name>
