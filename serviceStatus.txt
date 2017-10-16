@@ -109,7 +109,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>10/16/2017</Date>
-    <Time>10:08AM</Time>
+    <Time>10:12AM</Time>
   </line>
 </subway><bus>
   <line>
@@ -223,7 +223,7 @@
               &lt;br/&gt;
             </text>
     <Date>10/16/2017</Date>
-    <Time>10:08AM</Time>
+    <Time>10:12AM</Time>
   </line>
   <line>
     <name>Q1 - Q113</name>
@@ -347,7 +347,7 @@
               &lt;br/&gt;
             </text>
     <Date>10/16/2017</Date>
-    <Time>10:08AM</Time>
+    <Time>10:12AM</Time>
   </line>
   <line>
     <name>S40 - S98</name>
@@ -366,7 +366,7 @@
               &lt;br/&gt;
             </text>
     <Date>10/16/2017</Date>
-    <Time>10:08AM</Time>
+    <Time>10:12AM</Time>
   </line>
   <line>
     <name>x1 - x68</name>
@@ -503,17 +503,10 @@
   </line>
   <line>
     <name>Oyster Bay</name>
-    <status>DELAYS</status>
-    <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;10/16/2017&amp;nbsp; 9:21AM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  The 9:02AM train from Jamaica due Oyster Bay at 10:00AM is operating 13 minutes late due to a track condition east of Merillon Ave. &lt;br&gt;
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>10/16/2017</Date>
-    <Time> 9:21AM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>Port Jefferson</name>
@@ -540,10 +533,17 @@
   </line>
   <line>
     <name>Ronkonkoma</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>DELAYS</status>
+    <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;10/16/2017&amp;nbsp;10:13AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  The 9:40AM train from Farmingdale due Penn at 10:40AM is operating 12 minutes late at this time.
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>10/16/2017</Date>
+    <Time>10:13AM</Time>
   </line>
   <line>
     <name>West Hempstead</name>
