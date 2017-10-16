@@ -1,31 +1,17 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>DELAYS</status>
-    <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;10/16/2017&amp;nbsp; 7:35AM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  [3] and [4] service has resumed following earlier signal problems at &lt;STRONG&gt;New Lots Av.&lt;/STRONG&gt;
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>10/16/2017</Date>
-    <Time> 7:35AM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>456</name>
-    <status>DELAYS</status>
-    <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;10/16/2017&amp;nbsp; 7:35AM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  [3] and [4] service has resumed following earlier signal problems at &lt;STRONG&gt;New Lots Av.&lt;/STRONG&gt;
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>10/16/2017</Date>
-    <Time> 7:35AM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>7</name>
@@ -191,8 +177,21 @@
   </line>
   <line>
     <name>Q1 - Q113</name>
-    <status>DELAYS</status>
+    <status>SERVICE CHANGE</status>
     <text>
+                  &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                  &lt;span class="DateStyle"&gt;
+                  &amp;nbsp;Posted:&amp;nbsp;10/16/2017&amp;nbsp; 7:38AM
+                  &lt;/span&gt;
+                  &lt;br/&gt;
+                  &lt;br/&gt;
+                &lt;P&gt;&lt;STRONG&gt;Q41 &lt;/STRONG&gt;buses are detoured because of road work on 128 St and 109 Av and Liberty Av.&lt;/P&gt;
+&lt;P&gt;Detour is as follows:&lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;Northbound:&lt;/STRONG&gt; Via 109 Av, left on 130 St, left on Liberty Av, right on 127 St and regular route.&lt;/P&gt;
+&lt;P&gt;Allow additional travel time.&lt;/P&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
                   &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                   &lt;span class="DateStyle"&gt;
                   &amp;nbsp;Posted:&amp;nbsp;10/16/2017&amp;nbsp; 7:21AM
@@ -223,7 +222,7 @@
               &lt;br/&gt;
             </text>
     <Date>10/16/2017</Date>
-    <Time> 7:21AM</Time>
+    <Time> 7:38AM</Time>
   </line>
   <line>
     <name>QM1 - QM44</name>
