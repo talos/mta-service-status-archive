@@ -71,10 +71,19 @@
   </line>
   <line>
     <name>NQR</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>SERVICE CHANGE</status>
+    <text>
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;10/16/2017&amp;nbsp; 2:21PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;P&gt;Northbound [Q] trains are running local from &lt;STRONG&gt;34 St-Herald Sq&lt;/STRONG&gt; to &lt;STRONG&gt;57 St-7 Av&lt;/STRONG&gt; because of an injured passenger at &lt;STRONG&gt;Times Sq-42 St&lt;/STRONG&gt;.&lt;/P&gt;
+&lt;P&gt;Expect delays to [N], [Q], [R] and [W] train service.  &lt;/P&gt;
+&lt;P&gt;Allow additional travel time. &lt;/P&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>10/16/2017</Date>
+    <Time> 2:21PM</Time>
   </line>
   <line>
     <name>S</name>
@@ -502,10 +511,17 @@
   </line>
   <line>
     <name>Port Jefferson</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>DELAYS</status>
+    <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;10/16/2017&amp;nbsp; 2:21PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  The 2:05PM train from Hicksville due Port Jefferson at 3:13PM is operating 10 minutes late after being held prior to departure at Hicksville Station to accommodate customers from a late-arriving connection.
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>10/16/2017</Date>
+    <Time> 2:21PM</Time>
   </line>
   <line>
     <name>Port Washington</name>
@@ -516,10 +532,15 @@
   </line>
   <line>
     <name>Ronkonkoma</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>PLANNED WORK</status>
+    <text>
+                    &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
+                    &lt;br/&gt;
+                  The 1:14PM train from Penn due Ronkonkoma at 2:37PM is operating 11 late due to earlier signal trouble. &lt;br&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>10/16/2017</Date>
+    <Time> 2:20PM</Time>
   </line>
   <line>
     <name>West Hempstead</name>
