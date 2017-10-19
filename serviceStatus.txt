@@ -1,25 +1,35 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>DELAYS</status>
+    <status>SERVICE CHANGE</status>
     <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;10/19/2017&amp;nbsp;10:13AM
+                    &amp;nbsp;Posted:&amp;nbsp;10/19/2017&amp;nbsp;10:21AM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  &lt;P&gt;Northbound [2] and [3] trains are running with delays because of signal problems at &lt;STRONG&gt;Park Place&lt;/STRONG&gt;. &lt;/P&gt;
+                  &lt;P&gt;Some northbound [2] trains are stopping along the [5] line from &lt;STRONG&gt;Nevins St&lt;/STRONG&gt; to &lt;STRONG&gt;149 St-Grand Concourse&lt;/STRONG&gt; because of signal problems at &lt;STRONG&gt;Park Place&lt;/STRONG&gt;.&lt;/P&gt;
+&lt;P&gt;Expect delays on [2] [3] [4] and [5] trains.&lt;/P&gt;
 &lt;P&gt;Allow additional travel time.&lt;/P&gt;
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>10/19/2017</Date>
-    <Time>10:13AM</Time>
+    <Time>10:21AM</Time>
   </line>
   <line>
     <name>456</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>SERVICE CHANGE</status>
+    <text>
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;10/19/2017&amp;nbsp;10:21AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;P&gt;Some northbound [2] trains are stopping along the [5] line from &lt;STRONG&gt;Nevins St&lt;/STRONG&gt; to &lt;STRONG&gt;149 St-Grand Concourse&lt;/STRONG&gt; because of signal problems at &lt;STRONG&gt;Park Place&lt;/STRONG&gt;.&lt;/P&gt;
+&lt;P&gt;Expect delays on [2] [3] [4] and [5] trains.&lt;/P&gt;
+&lt;P&gt;Allow additional travel time.&lt;/P&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>10/19/2017</Date>
+    <Time>10:21AM</Time>
   </line>
   <line>
     <name>7</name>
@@ -277,20 +287,7 @@
     <text>
                   &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
                   &lt;span class="DateStyle"&gt;
-                  &amp;nbsp;Posted:&amp;nbsp;10/19/2017&amp;nbsp;10:20AM
-                  &lt;/span&gt;
-                  &lt;br/&gt;
-                  &lt;br/&gt;
-                &lt;P&gt;&lt;STRONG&gt;Q41 &lt;/STRONG&gt;buses are detoured because of road work on 128 St between 107 Av and Liberty Av.&lt;/P&gt;
-&lt;P&gt;Detour is as follows:&lt;/P&gt;
-&lt;P&gt;&lt;STRONG&gt;Northbound:&lt;/STRONG&gt; Via 128 St, right on 107 Av, left on 130 St, left on Liberty Av, right on 127 St and regular route.&lt;/P&gt;
-&lt;P&gt;Allow additional travel time.&lt;/P&gt;
-              &lt;br/&gt;
-              &lt;br/&gt;
-            
-                  &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
-                  &lt;span class="DateStyle"&gt;
-                  &amp;nbsp;Posted:&amp;nbsp;10/19/2017&amp;nbsp; 8:11AM
+                  &amp;nbsp;Posted:&amp;nbsp;10/19/2017&amp;nbsp;10:21AM
                   &lt;/span&gt;
                   &lt;br/&gt;
                   &lt;br/&gt;
@@ -299,6 +296,19 @@
 &lt;P&gt;&lt;STRONG&gt;Q47 Southbound to Atlas Mall&lt;/STRONG&gt;: Via 73 St, right on 35 Av, left on 65 St, left on Broadway and regular route.&lt;/P&gt;
 &lt;P&gt;&lt;STRONG&gt;Q49 Eastbound to 102 St:&lt;/STRONG&gt; Via 74 St, right on Northern Blvd, right on 75 St, left on 35 Av and regular route.&lt;/P&gt;
 &lt;P&gt;No stops will be missed while on the detour.&lt;/P&gt;
+&lt;P&gt;Allow additional travel time.&lt;/P&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
+                  &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                  &lt;span class="DateStyle"&gt;
+                  &amp;nbsp;Posted:&amp;nbsp;10/19/2017&amp;nbsp;10:20AM
+                  &lt;/span&gt;
+                  &lt;br/&gt;
+                  &lt;br/&gt;
+                &lt;P&gt;&lt;STRONG&gt;Q41 &lt;/STRONG&gt;buses are detoured because of road work on 128 St between 107 Av and Liberty Av.&lt;/P&gt;
+&lt;P&gt;Detour is as follows:&lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;Northbound:&lt;/STRONG&gt; Via 128 St, right on 107 Av, left on 130 St, left on Liberty Av, right on 127 St and regular route.&lt;/P&gt;
 &lt;P&gt;Allow additional travel time.&lt;/P&gt;
               &lt;br/&gt;
               &lt;br/&gt;
@@ -328,7 +338,7 @@
               &lt;br/&gt;
             </text>
     <Date>10/19/2017</Date>
-    <Time>10:20AM</Time>
+    <Time>10:21AM</Time>
   </line>
   <line>
     <name>QM1 - QM44</name>
@@ -361,11 +371,11 @@
     <text>
                   &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
                   &lt;span class="DateStyle"&gt;
-                  &amp;nbsp;Posted:&amp;nbsp;10/19/2017&amp;nbsp; 8:12AM
+                  &amp;nbsp;Posted:&amp;nbsp;10/19/2017&amp;nbsp;10:22AM
                   &lt;/span&gt;
                   &lt;br/&gt;
                   &lt;br/&gt;
-                &lt;P&gt;&lt;STRONG&gt;S61&lt;/STRONG&gt; westbound buses are detoured because of construction on Bradley Av between Willowbrook rd and Harold St.&lt;/P&gt;
+                &lt;P&gt;&lt;STRONG&gt;S61&lt;/STRONG&gt; westbound buses are detoured because of construction on Bradley Av between Willowbrook Rd and Harold St.&lt;/P&gt;
 &lt;P&gt;Detour is as follows: &lt;/P&gt;
 &lt;P&gt;&lt;STRONG&gt;S61 Westbound&lt;/STRONG&gt;: Via Bradley Av, right on Willowbrook Rd, left on Forest Hill Rd and regular route. &lt;/P&gt;
 &lt;P&gt;Allow additional travel time. &lt;/P&gt;
@@ -385,7 +395,7 @@
               &lt;br/&gt;
             </text>
     <Date>10/19/2017</Date>
-    <Time> 8:12AM</Time>
+    <Time>10:22AM</Time>
   </line>
   <line>
     <name>x1 - x68</name>
