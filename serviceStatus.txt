@@ -1,15 +1,13 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>SERVICE CHANGE</status>
+    <status>DELAYS</status>
     <text>
-                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;10/19/2017&amp;nbsp;10:21AM
+                    &amp;nbsp;Posted:&amp;nbsp;10/19/2017&amp;nbsp;11:34AM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  &lt;P&gt;Some northbound [2] trains are stopping along the [5] line from &lt;STRONG&gt;Nevins St&lt;/STRONG&gt; to &lt;STRONG&gt;149 St-Grand Concourse&lt;/STRONG&gt; because of signal problems at &lt;STRONG&gt;Park Place&lt;/STRONG&gt;.&lt;/P&gt;
-&lt;P&gt;Expect delays on [2] [3] [4] and [5] trains.&lt;/P&gt;
-&lt;P&gt;Allow additional travel time.&lt;/P&gt;
+                  [2] and [3] train service has resumed following earlier signal problems at &lt;STRONG&gt;Park Pl&lt;/STRONG&gt;
                 &lt;br/&gt;&lt;br/&gt;
               
                     &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
@@ -18,19 +16,17 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>10/19/2017</Date>
-    <Time>10:21AM</Time>
+    <Time>11:34AM</Time>
   </line>
   <line>
     <name>456</name>
-    <status>SERVICE CHANGE</status>
+    <status>DELAYS</status>
     <text>
-                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;10/19/2017&amp;nbsp;10:21AM
+                    &amp;nbsp;Posted:&amp;nbsp;10/19/2017&amp;nbsp;11:34AM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  &lt;P&gt;Some northbound [2] trains are stopping along the [5] line from &lt;STRONG&gt;Nevins St&lt;/STRONG&gt; to &lt;STRONG&gt;149 St-Grand Concourse&lt;/STRONG&gt; because of signal problems at &lt;STRONG&gt;Park Place&lt;/STRONG&gt;.&lt;/P&gt;
-&lt;P&gt;Expect delays on [2] [3] [4] and [5] trains.&lt;/P&gt;
-&lt;P&gt;Allow additional travel time.&lt;/P&gt;
+                  [2] and [3] train service has resumed following earlier signal problems at &lt;STRONG&gt;Park Pl&lt;/STRONG&gt;
                 &lt;br/&gt;&lt;br/&gt;
               
                     &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
@@ -54,7 +50,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>10/19/2017</Date>
-    <Time>10:21AM</Time>
+    <Time>11:34AM</Time>
   </line>
   <line>
     <name>7</name>
@@ -66,7 +62,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>10/19/2017</Date>
-    <Time>11:28AM</Time>
+    <Time>11:32AM</Time>
   </line>
   <line>
     <name>ACE</name>
@@ -97,7 +93,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>10/19/2017</Date>
-    <Time>11:28AM</Time>
+    <Time>11:32AM</Time>
   </line>
   <line>
     <name>G</name>
@@ -123,7 +119,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>10/19/2017</Date>
-    <Time>11:28AM</Time>
+    <Time>11:32AM</Time>
   </line>
   <line>
     <name>NQR</name>
@@ -145,7 +141,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>10/19/2017</Date>
-    <Time>11:28AM</Time>
+    <Time>11:32AM</Time>
   </line>
   <line>
     <name>S</name>
@@ -164,7 +160,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>10/19/2017</Date>
-    <Time>11:28AM</Time>
+    <Time>11:32AM</Time>
   </line>
 </subway><bus>
   <line>
@@ -418,7 +414,7 @@
               &lt;br/&gt;
             </text>
     <Date>10/19/2017</Date>
-    <Time>11:28AM</Time>
+    <Time>11:32AM</Time>
   </line>
   <line>
     <name>S40 - S98</name>
