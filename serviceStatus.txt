@@ -1,15 +1,13 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>SERVICE CHANGE</status>
+    <status>DELAYS</status>
     <text>
-                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;10/20/2017&amp;nbsp;11:12AM
+                    &amp;nbsp;Posted:&amp;nbsp;10/20/2017&amp;nbsp;11:24AM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  &lt;P&gt;Northbound [2] and [3] trains are running local from &lt;STRONG&gt;Chambers St&lt;/STRONG&gt; to &lt;STRONG&gt;34 St-Penn Station&lt;/STRONG&gt; because of NYPD activity at &lt;STRONG&gt;14 St.&lt;/STRONG&gt; &lt;/P&gt;
-&lt;P&gt;Expect delays on [1], [2] and [3] trains.&lt;/P&gt;
-&lt;P&gt;Allow additional travel time.&lt;/P&gt;
+                  [2] and [3] service has resumed following an earlier incident involving NYPD activity at &lt;STRONG&gt;14 St.&lt;/STRONG&gt;
                 &lt;br/&gt;&lt;br/&gt;
               
                     &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
@@ -18,7 +16,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>10/20/2017</Date>
-    <Time>11:12AM</Time>
+    <Time>11:24AM</Time>
   </line>
   <line>
     <name>456</name>
@@ -66,7 +64,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>10/20/2017</Date>
-    <Time>11:12AM</Time>
+    <Time>11:22AM</Time>
   </line>
   <line>
     <name>ACE</name>
@@ -133,7 +131,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>10/20/2017</Date>
-    <Time>11:12AM</Time>
+    <Time>11:22AM</Time>
   </line>
   <line>
     <name>NQR</name>
@@ -183,7 +181,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>10/20/2017</Date>
-    <Time>11:12AM</Time>
+    <Time>11:22AM</Time>
   </line>
 </subway><bus>
   <line>
@@ -291,7 +289,7 @@
               &lt;br/&gt;
             </text>
     <Date>10/20/2017</Date>
-    <Time>11:12AM</Time>
+    <Time>11:22AM</Time>
   </line>
   <line>
     <name>BXM1 - BXM18</name>
