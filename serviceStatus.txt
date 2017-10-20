@@ -1,10 +1,18 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>DELAYS</status>
+    <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;10/20/2017&amp;nbsp; 9:02AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;P&gt;Southbound [1] trains are running with delays in both directions because of a train with mechanical problems at South Ferry.&lt;/P&gt;
+&lt;P&gt;Allow additional travel time.&lt;/P&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>10/20/2017</Date>
+    <Time> 9:02AM</Time>
   </line>
   <line>
     <name>456</name>
@@ -71,10 +79,15 @@
   </line>
   <line>
     <name>SIR</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>PLANNED WORK</status>
+    <text>
+                    &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
+                    &lt;br/&gt;
+                  &lt;a class="plannedWorkDetailLink" onclick=ShowHide(169682);&gt;&lt;b&gt;[SIR] Trains board at the St. George-bound platform from Prince's Bay to Arthur Kill Stations&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 169682 class="plannedWorkDetail" &gt;&lt;/b&gt;Days, 9 AM to 3 PM, Mon to Fri, Oct 16 - 20&lt;br&gt;&lt;br&gt;&amp;bull; Boarding change includes &lt;b&gt;Prince's Bay&lt;/b&gt;, &lt;b&gt;Pleasant Plains&lt;/b&gt;, &lt;b&gt;Richmond Valley&lt;/b&gt; and &lt;br&gt;  &lt;b&gt;Arthur Kill Stations&lt;/b&gt;.&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>10/20/2017</Date>
+    <Time> 9:02AM</Time>
   </line>
 </subway><bus>
   <line>
@@ -165,7 +178,7 @@
               &lt;br/&gt;
             </text>
     <Date>10/20/2017</Date>
-    <Time> 8:52AM</Time>
+    <Time> 9:02AM</Time>
   </line>
   <line>
     <name>BXM1 - BXM18</name>
@@ -178,6 +191,17 @@
     <name>M1 - M116</name>
     <status>DELAYS</status>
     <text>
+                  &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                  &lt;span class="DateStyle"&gt;
+                  &amp;nbsp;Posted:&amp;nbsp;10/20/2017&amp;nbsp; 9:02AM
+                  &lt;/span&gt;
+                  &lt;br/&gt;
+                  &lt;br/&gt;
+                &lt;P&gt;&lt;STRONG&gt;M1, M2&lt;/STRONG&gt; and &lt;STRONG&gt;M3 &lt;/STRONG&gt;buses are running with delays in both directions because of traffic conditions on Central Park North between Central Park West and 5 Av. &lt;/P&gt;
+&lt;P&gt;Allow additional travel time.&lt;/P&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
                   &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                   &lt;span class="DateStyle"&gt;
                   &amp;nbsp;Posted:&amp;nbsp;10/20/2017&amp;nbsp; 8:12AM
@@ -220,7 +244,7 @@
               &lt;br/&gt;
             </text>
     <Date>10/20/2017</Date>
-    <Time> 8:12AM</Time>
+    <Time> 9:02AM</Time>
   </line>
   <line>
     <name>Q1 - Q113</name>
@@ -475,19 +499,10 @@
 </BT><LIRR>
   <line>
     <name>Babylon</name>
-    <status>DELAYS</status>
-    <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;10/20/2017&amp;nbsp; 8:26AM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  The 7:10AM train from Babylon due Penn at 8:20AM is operating 16 minutes late after experiencing earlier equipment trouble prior to departure.&lt;div&gt;&lt;br&gt;&lt;div&gt;The 7:29AM train from Babylon due Atlantic Terminal at 8:43AM is 
-operating 10 minutes late due to a train ahead with earlier equipment 
-trouble.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;The 7:35AM train from Babylon due Penn at 8:48AM is operating 12 minutes late due to a late train ahead.          &lt;/div&gt;&lt;/div&gt;
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>10/20/2017</Date>
-    <Time> 8:26AM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>City Terminal Zone</name>
@@ -519,10 +534,25 @@ trouble.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;The 7:35AM train
   </line>
   <line>
     <name>Montauk</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>PLANNED WORK</status>
+    <text>
+                    &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
+                    &lt;br/&gt;
+                  &lt;span&gt;&lt;font size="3"&gt;&lt;b&gt;Buses Replace Midday Trains between Speonk &amp; Montauk on Weekdays&lt;/b&gt;&lt;/font&gt;&lt;br&gt;&lt;br&gt;Buses
+ replace four midday trains (two westbound and two eastbound) between 
+Speonk and Montauk to accommodate state-of- good-repair tie replacement 
+work and grade crossing modernization. Service will be affected as 
+follows:&lt;br&gt;&lt;br&gt;&lt;b&gt;Westbound&lt;/b&gt;&lt;br&gt;&lt;/span&gt;&lt;ul&gt;&lt;li&gt;&lt;span&gt;The weekday 
+trains that usually depart Montauk at 11:18AM and 2:51PM will originate 
+in Speonk. Customers at stations Montauk through Westhampton will board 
+buses to Speonk, then connect with train service to points west.&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;Buses will depart up to 32 minutes earlier than normal train time. &lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;span&gt;&lt;b&gt;Eastbound&lt;/b&gt;&lt;br&gt;&lt;/span&gt;&lt;ul&gt;&lt;li&gt;&lt;span&gt;The
+ 8:57AM train from Babylon and the 11:30AM train from Jamaica will 
+terminate in Speonk. Customers will transfer to buses for transportation
+ to stations Westhampton through Montauk.&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;Please plan for up to 28 minutes of additional travel time. &lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;span&gt;For additional information, pickup a new Montauk Branch Timetable, dated September 5 to November 12, 2017 or see &lt;a href="https://goo.gl/t6GxT2"&gt;https://goo.gl/t6GxT2&lt;/a&gt;&lt;br&gt;&lt;/span&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>10/20/2017</Date>
+    <Time> 9:00AM</Time>
   </line>
   <line>
     <name>Oyster Bay</name>
@@ -554,17 +584,10 @@ trouble.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;The 7:35AM train
   </line>
   <line>
     <name>West Hempstead</name>
-    <status>SERVICE CHANGE</status>
-    <text>
-                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;10/20/2017&amp;nbsp; 7:56AM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  The 7:36AM train from West Hempstead due Penn at 8:29AM is canceled due to equipment trouble. Customers will be accommodated by the 8:28AM from West Hempstead due Atlantic Terminal 9:16AM. Transfer at Jamaica for service to Penn Station.
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>10/20/2017</Date>
-    <Time> 7:56AM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
 </LIRR><MetroNorth>
   <line>
