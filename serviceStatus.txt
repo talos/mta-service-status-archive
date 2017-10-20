@@ -1,17 +1,35 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>SERVICE CHANGE</status>
+    <text>
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;10/20/2017&amp;nbsp; 7:48AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;P&gt;Northbound [4] and [5] trains are running local from &lt;STRONG&gt;Franklin Av&lt;/STRONG&gt; to &lt;STRONG&gt;Atlantic Av-Barclays Ctr&lt;/STRONG&gt; because of an unruly passenger at &lt;STRONG&gt;Atlantic Av-Barclays Ctr&lt;/STRONG&gt;.&lt;/P&gt;
+&lt;P&gt;Expect delays on [2] and [3] trains.&lt;/P&gt;
+&lt;P&gt;Allow additional travel time. &lt;/P&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>10/20/2017</Date>
+    <Time> 7:48AM</Time>
   </line>
   <line>
     <name>456</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>SERVICE CHANGE</status>
+    <text>
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;10/20/2017&amp;nbsp; 7:48AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;P&gt;Northbound [4] and [5] trains are running local from &lt;STRONG&gt;Franklin Av&lt;/STRONG&gt; to &lt;STRONG&gt;Atlantic Av-Barclays Ctr&lt;/STRONG&gt; because of an unruly passenger at &lt;STRONG&gt;Atlantic Av-Barclays Ctr&lt;/STRONG&gt;.&lt;/P&gt;
+&lt;P&gt;Expect delays on [2] and [3] trains.&lt;/P&gt;
+&lt;P&gt;Allow additional travel time. &lt;/P&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>10/20/2017</Date>
+    <Time> 7:48AM</Time>
   </line>
   <line>
     <name>7</name>
@@ -88,7 +106,7 @@
               &lt;br/&gt;
             </text>
     <Date>10/20/2017</Date>
-    <Time> 7:42AM</Time>
+    <Time> 7:48AM</Time>
   </line>
   <line>
     <name>B100 - B103</name>
@@ -121,7 +139,7 @@
               &lt;br/&gt;
             </text>
     <Date>10/20/2017</Date>
-    <Time> 7:42AM</Time>
+    <Time> 7:48AM</Time>
   </line>
   <line>
     <name>BXM1 - BXM18</name>
@@ -136,7 +154,7 @@
     <text>
                   &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                   &lt;span class="DateStyle"&gt;
-                  &amp;nbsp;Posted:&amp;nbsp;10/20/2017&amp;nbsp; 7:47AM
+                  &amp;nbsp;Posted:&amp;nbsp;10/20/2017&amp;nbsp; 7:48AM
                   &lt;/span&gt;
                   &lt;br/&gt;
                   &lt;br/&gt;
@@ -170,7 +188,7 @@
               &lt;br/&gt;
             </text>
     <Date>10/20/2017</Date>
-    <Time> 7:47AM</Time>
+    <Time> 7:48AM</Time>
   </line>
   <line>
     <name>Q1 - Q113</name>
@@ -237,7 +255,7 @@
               &lt;br/&gt;
             </text>
     <Date>10/20/2017</Date>
-    <Time> 7:42AM</Time>
+    <Time> 7:48AM</Time>
   </line>
   <line>
     <name>S40 - S98</name>
@@ -356,13 +374,15 @@
     <text>
                     &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;10/20/2017&amp;nbsp; 7:28AM
+                    &amp;nbsp;Posted:&amp;nbsp;10/20/2017&amp;nbsp; 7:48AM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  The 7:10AM train from Babylon due Penn at 8:20AM is operating 16 minutes late after experiencing earlier equipment trouble prior to departure.
+                  The 7:10AM train from Babylon due Penn at 8:20AM is operating 16 minutes late after experiencing earlier equipment trouble prior to departure.&lt;div&gt;&lt;br&gt;&lt;div&gt;The 7:29AM train from Babylon due Atlantic Terminal at 8:43AM is 
+operating 10 minutes late due to a train ahead with earlier equipment 
+trouble.          &lt;/div&gt;&lt;/div&gt;
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>10/20/2017</Date>
-    <Time> 7:28AM</Time>
+    <Time> 7:48AM</Time>
   </line>
   <line>
     <name>City Terminal Zone</name>
@@ -429,10 +449,17 @@
   </line>
   <line>
     <name>West Hempstead</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>DELAYS</status>
+    <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;10/20/2017&amp;nbsp; 7:48AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  The 7:36AM train from West Hempstead due Penn at 8:29AM is being held prior to departure due to equipment trouble.
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>10/20/2017</Date>
+    <Time> 7:48AM</Time>
   </line>
 </LIRR><MetroNorth>
   <line>
