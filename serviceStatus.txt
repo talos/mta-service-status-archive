@@ -259,8 +259,21 @@
 </subway><bus>
   <line>
     <name>B1 - B84</name>
-    <status>DELAYS</status>
+    <status>SERVICE CHANGE</status>
     <text>
+                  &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                  &lt;span class="DateStyle"&gt;
+                  &amp;nbsp;Posted:&amp;nbsp;10/21/2017&amp;nbsp;12:16PM
+                  &lt;/span&gt;
+                  &lt;br/&gt;
+                  &lt;br/&gt;
+                &lt;P&gt;&lt;STRONG&gt;B65 &lt;/STRONG&gt;buses are detoured westbound because of Con Ed work on Bergen St between 3 Av and Nevins St. &lt;/P&gt;
+&lt;P&gt;Detour is as follows: &lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;B65 Westbound:&lt;/STRONG&gt; Via Bergen St, right on 3 Av, left on Atlantic Av, left on Hoyt St, right on Bergen St and regular route.&lt;/P&gt;
+&lt;P&gt;Allow additional travel time.&lt;/P&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
                   &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                   &lt;span class="DateStyle"&gt;
                   &amp;nbsp;Posted:&amp;nbsp;10/21/2017&amp;nbsp;12:15PM
@@ -297,19 +310,6 @@
               &lt;br/&gt;
               &lt;br/&gt;
             
-                  &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
-                  &lt;span class="DateStyle"&gt;
-                  &amp;nbsp;Posted:&amp;nbsp;10/21/2017&amp;nbsp; 8:27AM
-                  &lt;/span&gt;
-                  &lt;br/&gt;
-                  &lt;br/&gt;
-                &lt;P&gt;&lt;STRONG&gt;B65 &lt;/STRONG&gt;buses are detoured westbound because of Con Ed work on Bergen St between 3 Av and Nevins St. &lt;/P&gt;
-&lt;P&gt;Detour is as follows: &lt;/P&gt;
-&lt;P&gt;&lt;STRONG&gt;B65 Westbound:&lt;/STRONG&gt; Via Bergen St, right on 3 Av, left on Atlantic Av, left on Hoyt St, right on Bergen St and regular route.&lt;/P&gt;
-&lt;P&gt;Allow additional travel time.&lt;/P&gt;
-              &lt;br/&gt;
-              &lt;br/&gt;
-            
                   &lt;span class="TitlePlannedWork" &gt;Planned Detour&lt;/span&gt;
                   &lt;br/&gt;
                 &lt;a class="plannedWorkDetailLink" onclick=ShowHide(170992);&gt;&lt;b&gt;B67 buses rerouted between Sands St at Navy St and Kent Av at Clymer St&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 170992 class="plannedWorkDetail" &gt;&lt;/b&gt;6 AM to 2 PM, Saturday, Oct 21&lt;br&gt;&lt;br&gt;Due to a crane operation, buses run via &lt;b&gt;Flushing Av &lt;/b&gt;and &lt;b&gt;Paulding St &lt;/b&gt;making corresponding stops.&lt;br&gt;&lt;br&gt;&lt;b&gt;&lt;i&gt;&lt;a style="cursor:pointer; text-decoration:underline;" onclick=ShowHide(1709920);&gt;Show Reroute Details&lt;/a&gt;&lt;/i&gt;&lt;/b&gt;&lt;br&gt;&lt;div id="1709920"; style="display:none;"&gt;&lt;b&gt;Northbound&lt;br&gt;&lt;/b&gt;Via Sands St&lt;br&gt;Right on Navy St&lt;br&gt;Left on Flushing Av&lt;br&gt;Left on Clinton Av into Navy Yard entrance&lt;br&gt;Right on Paulding St&lt;br&gt;Left on Assembly Rd then regular route&lt;br&gt;&lt;br&gt;&lt;b&gt;Southbound&lt;br&gt;&lt;/b&gt;Via Clymer St&lt;br&gt;Left on Kent Av&lt;br&gt;Right on Williamsburg St W&lt;br&gt;Right on Flushing Av&lt;br&gt;Right on Clinton Av into Navy Yard Entrance&lt;br&gt;Left on Paulding St&lt;br&gt;Right on 6 St (bus stop)&lt;br&gt;Left on Market St then regular route&lt;/div&gt;&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
@@ -341,7 +341,7 @@
               &lt;br/&gt;
             </text>
     <Date>10/21/2017</Date>
-    <Time>12:15PM</Time>
+    <Time>12:16PM</Time>
   </line>
   <line>
     <name>B100 - B103</name>
