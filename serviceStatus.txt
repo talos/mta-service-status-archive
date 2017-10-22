@@ -1,19 +1,11 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>DELAYS</status>
+    <status>SERVICE CHANGE</status>
     <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;10/22/2017&amp;nbsp; 8:22AM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  &lt;P&gt;[1], [2] and [3] trains are running with delays in both directions because of track maintenance between &lt;STRONG&gt;59 St&lt;/STRONG&gt; and &lt;STRONG&gt;72 St&lt;/STRONG&gt;. &lt;/P&gt;
-&lt;P&gt;Allow additional travel time. &lt;/P&gt;
-                &lt;br/&gt;&lt;br/&gt;
-              
                     &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;10/22/2017&amp;nbsp; 8:02AM
+                    &amp;nbsp;Posted:&amp;nbsp;10/22/2017&amp;nbsp;10:02AM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
                   &lt;P&gt;[3] [SB] buses are detoured in both directions because of construction on Livonia Av between Mother Gaston Blvd and Junius St.&lt;/P&gt;
 &lt;P&gt;Detour is as follows: &lt;/P&gt;
@@ -21,6 +13,14 @@
 &lt;P&gt;&lt;STRONG&gt;Westbound to Utica Av&lt;/STRONG&gt;: Via Livonia Av, left on Pennsylvania Av, right on New Lots Av, right on Mother Gaston Blvd and regular route.  &lt;/P&gt;
 &lt;P&gt;Allow additional travel time. &lt;/P&gt;
 &lt;P&gt; &lt;/P&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;10/22/2017&amp;nbsp; 8:22AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;P&gt;[1], [2] and [3] trains are running with delays in both directions because of track maintenance between &lt;STRONG&gt;59 St&lt;/STRONG&gt; and &lt;STRONG&gt;72 St&lt;/STRONG&gt;. &lt;/P&gt;
+&lt;P&gt;Allow additional travel time. &lt;/P&gt;
                 &lt;br/&gt;&lt;br/&gt;
               
                     &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
@@ -49,7 +49,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>10/22/2017</Date>
-    <Time> 8:22AM</Time>
+    <Time>10:02AM</Time>
   </line>
   <line>
     <name>456</name>
@@ -86,7 +86,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>10/22/2017</Date>
-    <Time> 9:52AM</Time>
+    <Time>10:02AM</Time>
   </line>
   <line>
     <name>7</name>
@@ -140,7 +140,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>10/22/2017</Date>
-    <Time> 9:52AM</Time>
+    <Time>10:02AM</Time>
   </line>
   <line>
     <name>BDFM</name>
@@ -167,7 +167,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>10/22/2017</Date>
-    <Time> 9:52AM</Time>
+    <Time>10:02AM</Time>
   </line>
   <line>
     <name>G</name>
@@ -186,7 +186,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>10/22/2017</Date>
-    <Time> 9:52AM</Time>
+    <Time>10:02AM</Time>
   </line>
   <line>
     <name>L</name>
@@ -214,16 +214,11 @@
               
                     &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
                     &lt;br/&gt;
-                  &lt;a class="plannedWorkDetailLink" onclick=ShowHide(168471);&gt;&lt;b&gt;[N] Coney Island-bound trains run express from Atlantic Av-Barclays Ctr to 59 St, Brooklyn&lt;/font&gt;  &lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 168471 class="plannedWorkDetail" &gt;&lt;/b&gt;&lt;a href=http://advisory.mtanyct.info/pdf_files/NightMap.pdf target=_blank&gt;&lt;font color=#0000FF&gt;&lt;b&gt;&lt;u&gt;Late Nights&lt;/u&gt;&lt;/b&gt;&lt;/font&gt;&lt;/a&gt;, 11:45 PM Fri to 5 AM Mon, Oct 20 - 23&lt;br&gt;&lt;br&gt;Trains stop at 36 St.&lt;br&gt;&lt;br&gt;For service &lt;i&gt;to&lt;/i&gt; Union St, 4 Av-9 St and 25 St, take the [N] to 36 St and transfer&lt;br&gt;to a &lt;i&gt;local&lt;/i&gt; Manhattan-bound [D] [N] or [R].&lt;br&gt;&lt;br&gt;For service &lt;i&gt;from&lt;/i&gt; these stations, take the [D] [N] or [R] to Atlantic Av-Barclays Ctr and transfer&lt;br&gt;to a Coney Island-bound [N].&lt;br&gt;&lt;br&gt;For service &lt;i&gt;to&lt;/i&gt; 45 St and 53 St, take the [N] to 59 St and transfer to a Manhattan-bound [N] &lt;i&gt;local &lt;/i&gt;or [R].&lt;br&gt;&lt;br&gt;For service &lt;i&gt;from&lt;/i&gt; these stations, take the [N] or [R] to 36 St and transfer to a Coney Island-bound [N].&lt;br&gt;&lt;br&gt;&lt;b&gt;Note:&lt;/b&gt; Prospect Av is closed for renovation.&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
-                &lt;br/&gt;&lt;br/&gt;
-              
-                    &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
-                    &lt;br/&gt;
                   &lt;a class="plannedWorkDetailLink" onclick=ShowHide(168469);&gt;&lt;b&gt;[N] Astoria-bound trains skip 39 Av, 36 Av, Broadway and 30 Av&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 168469 class="plannedWorkDetail" &gt;&lt;/b&gt;Weekend, 11:45 PM Fri to 5 AM Mon, Oct 20 - 23&lt;br&gt;&lt;br&gt;For service&lt;i&gt; to&lt;/i&gt; these stations, take the [N] to Astoria Blvd and transfer to a Coney Island-bound [N].&lt;br&gt;&lt;br&gt;For service&lt;i&gt; from &lt;/i&gt;these stations, take the [N] to Queensboro Plaza and transfer to an Astoria-bound [N].&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>10/22/2017</Date>
-    <Time> 9:52AM</Time>
+    <Time>10:02AM</Time>
   </line>
   <line>
     <name>S</name>
@@ -251,7 +246,7 @@
               &lt;br/&gt;
             </text>
     <Date>10/22/2017</Date>
-    <Time> 9:52AM</Time>
+    <Time>10:02AM</Time>
   </line>
   <line>
     <name>B100 - B103</name>
@@ -306,7 +301,7 @@
               &lt;br/&gt;
             </text>
     <Date>10/22/2017</Date>
-    <Time> 9:52AM</Time>
+    <Time>10:02AM</Time>
   </line>
   <line>
     <name>BXM1 - BXM18</name>
@@ -319,7 +314,7 @@
               &lt;br/&gt;
             </text>
     <Date>10/22/2017</Date>
-    <Time> 9:52AM</Time>
+    <Time>10:02AM</Time>
   </line>
   <line>
     <name>M1 - M116</name>
@@ -452,7 +447,7 @@
               &lt;br/&gt;
             </text>
     <Date>10/22/2017</Date>
-    <Time> 9:52AM</Time>
+    <Time>10:02AM</Time>
   </line>
   <line>
     <name>Q1 - Q113</name>
@@ -535,7 +530,7 @@
               &lt;br/&gt;
             </text>
     <Date>10/22/2017</Date>
-    <Time> 9:52AM</Time>
+    <Time>10:02AM</Time>
   </line>
   <line>
     <name>S40 - S98</name>
@@ -560,7 +555,7 @@
               &lt;br/&gt;
             </text>
     <Date>10/22/2017</Date>
-    <Time> 9:52AM</Time>
+    <Time>10:02AM</Time>
   </line>
   <line>
     <name>x1 - x68</name>
@@ -573,7 +568,7 @@
               &lt;br/&gt;
             </text>
     <Date>10/22/2017</Date>
-    <Time> 9:52AM</Time>
+    <Time>10:02AM</Time>
   </line>
 </bus><BT>
   <line>
