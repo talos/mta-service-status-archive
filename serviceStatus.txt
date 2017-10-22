@@ -1,19 +1,11 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>DELAYS</status>
+    <status>SERVICE CHANGE</status>
     <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;10/22/2017&amp;nbsp; 2:11PM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  &lt;P&gt;[1], [2] and [3] trains are running with slow speed in both directions because of track maintenance between 59 St and 72 St. &lt;/P&gt;
-&lt;P&gt;Allow additional travel time.&lt;/P&gt;
-                &lt;br/&gt;&lt;br/&gt;
-              
                     &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;10/22/2017&amp;nbsp; 2:03PM
+                    &amp;nbsp;Posted:&amp;nbsp;10/22/2017&amp;nbsp; 4:02PM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
                   &lt;P&gt;[3] [SB] buses are detoured in both directions because of construction on Livonia Av between Mother Gaston Blvd and Junius St.&lt;/P&gt;
 &lt;P&gt;Detour is as follows: &lt;/P&gt;
@@ -21,6 +13,14 @@
 &lt;P&gt;&lt;STRONG&gt;Westbound to Utica Av&lt;/STRONG&gt;: Via Livonia Av, left on Pennsylvania Av, right on New Lots Av, right on Mother Gaston Blvd and regular route.  &lt;/P&gt;
 &lt;P&gt;Allow additional travel time. &lt;/P&gt;
 &lt;P&gt; &lt;/P&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;10/22/2017&amp;nbsp; 2:11PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;P&gt;[1], [2] and [3] trains are running with slow speed in both directions because of track maintenance between 59 St and 72 St. &lt;/P&gt;
+&lt;P&gt;Allow additional travel time.&lt;/P&gt;
                 &lt;br/&gt;&lt;br/&gt;
               
                     &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
@@ -49,7 +49,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>10/22/2017</Date>
-    <Time> 2:11PM</Time>
+    <Time> 4:02PM</Time>
   </line>
   <line>
     <name>456</name>
@@ -81,7 +81,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>10/22/2017</Date>
-    <Time> 3:52PM</Time>
+    <Time> 4:02PM</Time>
   </line>
   <line>
     <name>7</name>
@@ -135,7 +135,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>10/22/2017</Date>
-    <Time> 3:52PM</Time>
+    <Time> 4:02PM</Time>
   </line>
   <line>
     <name>BDFM</name>
@@ -162,7 +162,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>10/22/2017</Date>
-    <Time> 3:52PM</Time>
+    <Time> 4:02PM</Time>
   </line>
   <line>
     <name>G</name>
@@ -181,7 +181,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>10/22/2017</Date>
-    <Time> 3:52PM</Time>
+    <Time> 4:02PM</Time>
   </line>
   <line>
     <name>L</name>
@@ -246,7 +246,7 @@
     <text>
                   &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                   &lt;span class="DateStyle"&gt;
-                  &amp;nbsp;Posted:&amp;nbsp;10/22/2017&amp;nbsp; 2:37PM
+                  &amp;nbsp;Posted:&amp;nbsp;10/22/2017&amp;nbsp; 4:02PM
                   &lt;/span&gt;
                   &lt;br/&gt;
                   &lt;br/&gt;
@@ -262,7 +262,7 @@
               &lt;br/&gt;
             </text>
     <Date>10/22/2017</Date>
-    <Time> 2:37PM</Time>
+    <Time> 4:02PM</Time>
   </line>
   <line>
     <name>B100 - B103</name>
@@ -305,7 +305,7 @@
               &lt;br/&gt;
             </text>
     <Date>10/22/2017</Date>
-    <Time> 3:52PM</Time>
+    <Time> 4:02PM</Time>
   </line>
   <line>
     <name>BXM1 - BXM18</name>
@@ -321,12 +321,6 @@
                   &lt;span class="TitlePlannedWork" &gt;Planned Detour&lt;/span&gt;
                   &lt;br/&gt;
                 &lt;a class="plannedWorkDetailLink" onclick=ShowHide(170843);&gt;&lt;b&gt;M66 &lt;/b&gt;-&lt;b&gt; Eastbound buses detoured from 68 St at 1 Av to York Av &lt;/b&gt;-&lt;b&gt; No stops missed &lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 170843 class="plannedWorkDetail" &gt;&lt;/b&gt;8 AM to 8 PM, Sat &lt;i&gt;and&lt;/i&gt; Sun, Oct 21 - 22&lt;br&gt;&lt;br&gt;Due to a crane operation, buses may experience delays.&lt;br&gt;&lt;br&gt;&amp;bull; Please allow additional travel time.&lt;br&gt;&lt;/font&gt;&lt;b&gt;&lt;/b&gt;          &lt;a href=http://bustime.mta.info/#M66 target=_blank&gt;&lt;img height=30px src=http://web.mta.info/nyct/images/Bus_Time_logo.png&gt;&lt;/a&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
-              &lt;br/&gt;
-              &lt;br/&gt;
-            
-                  &lt;span class="TitlePlannedWork" &gt;Planned Detour&lt;/span&gt;
-                  &lt;br/&gt;
-                &lt;a class="plannedWorkDetailLink" onclick=ShowHide(170839);&gt;&lt;b&gt;M50 &lt;/b&gt;-&lt;b&gt; Westbound buses rerouted from 49 St at 11 Av to 12 Av&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 170839 class="plannedWorkDetail" &gt;&lt;/b&gt;4 AM to 4 PM, Sat &lt;i&gt;and &lt;/i&gt;Sun, Oct 21 - 22&lt;br&gt;&lt;br&gt;Due to a crane operation, please use nearby stops &lt;b&gt;on 49 St &lt;/b&gt;at 11 Av or &lt;b&gt;on 12 Av &lt;/b&gt;at 46 St.&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
               &lt;br/&gt;
               &lt;br/&gt;
             
@@ -373,12 +367,23 @@
               &lt;br/&gt;
             </text>
     <Date>10/22/2017</Date>
-    <Time> 3:52PM</Time>
+    <Time> 4:02PM</Time>
   </line>
   <line>
     <name>Q1 - Q113</name>
-    <status>SERVICE CHANGE</status>
+    <status>DELAYS</status>
     <text>
+                  &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                  &lt;span class="DateStyle"&gt;
+                  &amp;nbsp;Posted:&amp;nbsp;10/22/2017&amp;nbsp; 4:02PM
+                  &lt;/span&gt;
+                  &lt;br/&gt;
+                  &lt;br/&gt;
+                &lt;P&gt;&lt;STRONG&gt;B62, &lt;/STRONG&gt;&lt;STRONG&gt;Q32, Q39, Q60, Q66, Q67, Q69, Q100, Q101 and Q102, &lt;/STRONG&gt; buses are running with delays in both directions because of traffic conditions in the Queens Plaza area. &lt;/P&gt;
+&lt;P&gt;Allow additional travel time.&lt;/P&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
                   &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
                   &lt;span class="DateStyle"&gt;
                   &amp;nbsp;Posted:&amp;nbsp;10/22/2017&amp;nbsp; 3:43PM
@@ -399,17 +404,6 @@
                   &lt;br/&gt;
                   &lt;br/&gt;
                 &lt;P&gt;&lt;STRONG&gt;Q5 &lt;/STRONG&gt;and &lt;STRONG&gt;Q85&lt;/STRONG&gt; are running with delays in both directions because of traffic conditions at Green Acres shopping mall. &lt;/P&gt;
-&lt;P&gt;Allow additional travel time.&lt;/P&gt;
-              &lt;br/&gt;
-              &lt;br/&gt;
-            
-                  &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                  &lt;span class="DateStyle"&gt;
-                  &amp;nbsp;Posted:&amp;nbsp;10/22/2017&amp;nbsp; 2:37PM
-                  &lt;/span&gt;
-                  &lt;br/&gt;
-                  &lt;br/&gt;
-                &lt;P&gt;&lt;STRONG&gt;B62, &lt;/STRONG&gt;&lt;STRONG&gt;Q32, Q39, Q60, Q66, Q67, Q69, Q100, Q101 and Q102, &lt;/STRONG&gt; buses are running with delays in both directions because of traffic conditions in the Queens Plaza area. &lt;/P&gt;
 &lt;P&gt;Allow additional travel time.&lt;/P&gt;
               &lt;br/&gt;
               &lt;br/&gt;
@@ -476,12 +470,23 @@
               &lt;br/&gt;
             </text>
     <Date>10/22/2017</Date>
-    <Time> 3:43PM</Time>
+    <Time> 4:02PM</Time>
   </line>
   <line>
     <name>QM1 - QM44</name>
-    <status>SERVICE CHANGE</status>
+    <status>DELAYS</status>
     <text>
+                  &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                  &lt;span class="DateStyle"&gt;
+                  &amp;nbsp;Posted:&amp;nbsp;10/22/2017&amp;nbsp; 4:02PM
+                  &lt;/span&gt;
+                  &lt;br/&gt;
+                  &lt;br/&gt;
+                &lt;P&gt;&lt;STRONG&gt;B62, &lt;/STRONG&gt;&lt;STRONG&gt;Q32, Q39, Q60, Q66, Q67, Q69, Q100, Q101 and Q102, &lt;/STRONG&gt; buses are running with delays in both directions because of traffic conditions in the Queens Plaza area. &lt;/P&gt;
+&lt;P&gt;Allow additional travel time.&lt;/P&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
                   &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
                   &lt;span class="DateStyle"&gt;
                   &amp;nbsp;Posted:&amp;nbsp;10/22/2017&amp;nbsp; 2:42PM
@@ -492,17 +497,6 @@
 &lt;P&gt;Detour is as follows: &lt;/P&gt;
 &lt;P&gt;&lt;STRONG&gt;Towards Midtown:&lt;/STRONG&gt; Via Long Island Expressway, exit at Greenpoint Av, right onto Hunters Point Av, left on 21 St, enter Midtown Tunnel Entrance and regular route. &lt;/P&gt;
 &lt;P&gt;Allow additonal travel time.&lt;/P&gt;
-              &lt;br/&gt;
-              &lt;br/&gt;
-            
-                  &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                  &lt;span class="DateStyle"&gt;
-                  &amp;nbsp;Posted:&amp;nbsp;10/22/2017&amp;nbsp; 2:37PM
-                  &lt;/span&gt;
-                  &lt;br/&gt;
-                  &lt;br/&gt;
-                &lt;P&gt;&lt;STRONG&gt;B62, &lt;/STRONG&gt;&lt;STRONG&gt;Q32, Q39, Q60, Q66, Q67, Q69, Q100, Q101 and Q102, &lt;/STRONG&gt; buses are running with delays in both directions because of traffic conditions in the Queens Plaza area. &lt;/P&gt;
-&lt;P&gt;Allow additional travel time.&lt;/P&gt;
               &lt;br/&gt;
               &lt;br/&gt;
             
@@ -525,7 +519,7 @@
               &lt;br/&gt;
             </text>
     <Date>10/22/2017</Date>
-    <Time> 2:42PM</Time>
+    <Time> 4:02PM</Time>
   </line>
   <line>
     <name>S40 - S98</name>
@@ -550,7 +544,7 @@
               &lt;br/&gt;
             </text>
     <Date>10/22/2017</Date>
-    <Time> 3:52PM</Time>
+    <Time> 4:02PM</Time>
   </line>
   <line>
     <name>x1 - x68</name>
@@ -563,7 +557,7 @@
               &lt;br/&gt;
             </text>
     <Date>10/22/2017</Date>
-    <Time> 3:52PM</Time>
+    <Time> 4:02PM</Time>
   </line>
 </bus><BT>
   <line>
