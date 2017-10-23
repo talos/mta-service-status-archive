@@ -1,19 +1,23 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>DELAYS</status>
+    <status>SERVICE CHANGE</status>
     <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;10/23/2017&amp;nbsp; 2:16PM
+                    &amp;nbsp;Posted:&amp;nbsp;10/23/2017&amp;nbsp; 2:44PM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  &lt;P&gt;Northbound [1] [2] and [3] trains are running with delays because of signal problems at &lt;STRONG&gt;Chambers St.&lt;/STRONG&gt;&lt;/P&gt;
+                  &lt;P&gt;Some southbound [1] trains end at &lt;STRONG&gt;14 St&lt;/STRONG&gt;. &lt;/P&gt;
+&lt;P&gt;Some northbound [2] trains are stopping along the [5] line from &lt;STRONG&gt;Nevins St&lt;/STRONG&gt; to &lt;STRONG&gt;149 St-Grand Concourse&lt;/STRONG&gt;. &lt;/P&gt;
+&lt;P&gt;Some northbound [3] trains end at &lt;STRONG&gt;Atlantic Av-Barclays Ctr&lt;/STRONG&gt;. &lt;/P&gt;
+&lt;P&gt;[1] [2] and [3] trains are running with delays in both directions. &lt;/P&gt;
+&lt;P&gt;These service changes are because of switch problems at &lt;STRONG&gt;Chambers St.&lt;/STRONG&gt;&lt;/P&gt;
 &lt;P&gt;Our crews are on site trying to fix it ASAP and we'll follow up soon. Stay tuned for updates.&lt;/P&gt;
 &lt;P&gt;Allow additional travel time.&lt;/P&gt;
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>10/23/2017</Date>
-    <Time> 2:16PM</Time>
+    <Time> 2:44PM</Time>
   </line>
   <line>
     <name>456</name>
@@ -40,7 +44,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>10/23/2017</Date>
-    <Time> 2:32PM</Time>
+    <Time> 2:42PM</Time>
   </line>
   <line>
     <name>7</name>
@@ -52,7 +56,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>10/23/2017</Date>
-    <Time> 2:32PM</Time>
+    <Time> 2:42PM</Time>
   </line>
   <line>
     <name>ACE</name>
@@ -92,7 +96,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>10/23/2017</Date>
-    <Time> 2:32PM</Time>
+    <Time> 2:42PM</Time>
   </line>
   <line>
     <name>NQR</name>
@@ -118,7 +122,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>10/23/2017</Date>
-    <Time> 2:32PM</Time>
+    <Time> 2:42PM</Time>
   </line>
 </subway><bus>
   <line>
@@ -259,12 +263,23 @@
               &lt;br/&gt;
             </text>
     <Date>10/23/2017</Date>
-    <Time> 2:32PM</Time>
+    <Time> 2:42PM</Time>
   </line>
   <line>
     <name>Q1 - Q113</name>
     <status>DELAYS</status>
     <text>
+                  &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                  &lt;span class="DateStyle"&gt;
+                  &amp;nbsp;Posted:&amp;nbsp;10/23/2017&amp;nbsp; 2:44PM
+                  &lt;/span&gt;
+                  &lt;br/&gt;
+                  &lt;br/&gt;
+                &lt;P&gt;&lt;STRONG&gt;Q32, Q53&lt;/STRONG&gt; and &lt;STRONG&gt;Q70-SBS&lt;/STRONG&gt; buses are running with delays in both directions because of a non TA accident at Roosevelt Av and 61 St. &lt;/P&gt;
+&lt;P&gt;Allow additional travel time.&lt;/P&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
                   &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                   &lt;span class="DateStyle"&gt;
                   &amp;nbsp;Posted:&amp;nbsp;10/23/2017&amp;nbsp; 2:31PM
@@ -350,7 +365,7 @@
               &lt;br/&gt;
             </text>
     <Date>10/23/2017</Date>
-    <Time> 2:31PM</Time>
+    <Time> 2:44PM</Time>
   </line>
   <line>
     <name>QM1 - QM44</name>
@@ -411,7 +426,7 @@
               &lt;br/&gt;
             </text>
     <Date>10/23/2017</Date>
-    <Time> 2:32PM</Time>
+    <Time> 2:42PM</Time>
   </line>
   <line>
     <name>x1 - x68</name>
@@ -424,7 +439,7 @@
               &lt;br/&gt;
             </text>
     <Date>10/23/2017</Date>
-    <Time> 2:32PM</Time>
+    <Time> 2:42PM</Time>
   </line>
 </bus><BT>
   <line>
@@ -507,17 +522,10 @@
   </line>
   <line>
     <name>Far Rockaway</name>
-    <status>DELAYS</status>
-    <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;10/23/2017&amp;nbsp; 2:12PM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  The 1:35PM train from Atlantic Terminal due Far Rockaway at 2:32PM is operating 11 minutes late due to earlier police activity at Jamaica.
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>10/23/2017</Date>
-    <Time> 2:12PM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>Hempstead</name>
