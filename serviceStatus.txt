@@ -1,19 +1,17 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>SERVICE CHANGE</status>
+    <status>DELAYS</status>
     <text>
-                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;10/23/2017&amp;nbsp; 3:54PM
+                    &amp;nbsp;Posted:&amp;nbsp;10/23/2017&amp;nbsp; 4:02PM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  &lt;P&gt;Northbound [1] trains are running express from &lt;STRONG&gt;Chambers St&lt;/STRONG&gt; to &lt;STRONG&gt;14 St&lt;/STRONG&gt; because of NYPD activity at &lt;STRONG&gt;Houston St.&lt;/STRONG&gt; &lt;/P&gt;
-&lt;P&gt;Expect delays in northbound [1], [2] and [3] train service. &lt;/P&gt;
-&lt;P&gt;Allow additional travel time.&lt;/P&gt;
+                  [1], [2] and [3] service has resumed following NYPD activity at &lt;STRONG&gt;Houston St&lt;/STRONG&gt;.
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>10/23/2017</Date>
-    <Time> 3:54PM</Time>
+    <Time> 4:02PM</Time>
   </line>
   <line>
     <name>456</name>
@@ -230,12 +228,23 @@
               &lt;br/&gt;
             </text>
     <Date>10/23/2017</Date>
-    <Time> 3:52PM</Time>
+    <Time> 4:02PM</Time>
   </line>
   <line>
     <name>Q1 - Q113</name>
     <status>DELAYS</status>
     <text>
+                  &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                  &lt;span class="DateStyle"&gt;
+                  &amp;nbsp;Posted:&amp;nbsp;10/23/2017&amp;nbsp; 4:02PM
+                  &lt;/span&gt;
+                  &lt;br/&gt;
+                  &lt;br/&gt;
+                &lt;P&gt;&lt;STRONG&gt;Q12, Q13, Q15, Q15A, Q16, Q17, Q19, Q20A, Q20B, Q25, Q26, Q27, Q28, Q34, Q44-SBS, Q48, Q50, Q65&lt;/STRONG&gt; and&lt;STRONG&gt; Q66 &lt;/STRONG&gt;buses are running with delays in both directions, because of traffic conditions in downtown Flushing area and new traffic patterns. &lt;/P&gt;
+&lt;P&gt;Allow additional travel time.&lt;/P&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
                   &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                   &lt;span class="DateStyle"&gt;
                   &amp;nbsp;Posted:&amp;nbsp;10/23/2017&amp;nbsp; 2:44PM
@@ -310,7 +319,7 @@
               &lt;br/&gt;
             </text>
     <Date>10/23/2017</Date>
-    <Time> 2:44PM</Time>
+    <Time> 4:02PM</Time>
   </line>
   <line>
     <name>QM1 - QM44</name>
@@ -335,7 +344,7 @@
               &lt;br/&gt;
             </text>
     <Date>10/23/2017</Date>
-    <Time> 3:52PM</Time>
+    <Time> 4:02PM</Time>
   </line>
   <line>
     <name>S40 - S98</name>
@@ -360,7 +369,7 @@
               &lt;br/&gt;
             </text>
     <Date>10/23/2017</Date>
-    <Time> 3:52PM</Time>
+    <Time> 4:02PM</Time>
   </line>
   <line>
     <name>x1 - x68</name>
