@@ -1,10 +1,18 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>DELAYS</status>
+    <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;10/24/2017&amp;nbsp;12:16PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;P&gt;[2] and [3] trains are holding in stations in both directions between 96 St and 148 St because of signal problems. &lt;/P&gt;
+&lt;P&gt;Allow additional travel time&lt;/P&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>10/24/2017</Date>
+    <Time>12:16PM</Time>
   </line>
   <line>
     <name>456</name>
@@ -114,15 +122,8 @@
   </line>
   <line>
     <name>SIR</name>
-    <status>DELAYS</status>
+    <status>PLANNED WORK</status>
     <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;10/24/2017&amp;nbsp;12:07PM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  [SIR] service has resumed following an earlier incident involving slippery rails along the line.
-                &lt;br/&gt;&lt;br/&gt;
-              
                     &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
                     &lt;br/&gt;
                   &lt;a class="plannedWorkDetailLink" onclick=ShowHide(170884);&gt;&lt;b&gt;[SIR] Service runs on an adjusted schedule in both directions&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 170884 class="plannedWorkDetail" &gt;&lt;/b&gt;Days, 9 AM to 3 PM, Tue to Fri, Oct 24 - 27&lt;br&gt;&lt;br&gt;&amp;bull; Tottenville-bound trains depart 2 minutes &lt;i&gt;later&lt;/i&gt; than regularly scheduled.&lt;br&gt;&lt;br&gt;&amp;bull; St George-bound trains depart 5 minutes &lt;i&gt;earlier&lt;/i&gt; than regularly scheduled.&lt;br&gt;&lt;b&gt;&lt;/b&gt;          &lt;/font&gt;&lt;a href=http://apps.mta.info/traintime/ target=_blank&gt;&lt;img height=32px src=http://apps.mta.info/traintime/desktop2Images/logoSm.png&gt;&lt;/a&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
@@ -134,7 +135,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>10/24/2017</Date>
-    <Time>12:07PM</Time>
+    <Time>12:12PM</Time>
   </line>
 </subway><bus>
   <line>
