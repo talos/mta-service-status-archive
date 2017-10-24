@@ -1,14 +1,13 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>SERVICE CHANGE</status>
+    <status>DELAYS</status>
     <text>
-                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;10/24/2017&amp;nbsp; 1:48AM
+                    &amp;nbsp;Posted:&amp;nbsp;10/24/2017&amp;nbsp; 1:55AM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  &lt;P&gt;[1] train there is no service between 168 St and Dyckman St in both directions because of an injured passenger at 181 St. &lt;/P&gt;
-&lt;P&gt;Allow additional travel time.&lt;/P&gt;
+                  [1] service has resumed following an earlier incident involving an injured passenger at &lt;STRONG&gt;181 St&lt;/STRONG&gt;.
                 &lt;br/&gt;&lt;br/&gt;
               
                     &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
@@ -22,7 +21,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>10/24/2017</Date>
-    <Time> 1:48AM</Time>
+    <Time> 1:55AM</Time>
   </line>
   <line>
     <name>456</name>
