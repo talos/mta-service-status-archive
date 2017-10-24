@@ -1,31 +1,17 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>DELAYS</status>
-    <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;10/24/2017&amp;nbsp; 7:12PM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  [2] service has resumed following an earlier incident involving a train with mechanical problems at &lt;STRONG&gt;Wakefield-241 St&lt;/STRONG&gt;.
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>10/24/2017</Date>
-    <Time> 7:12PM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>456</name>
-    <status>DELAYS</status>
-    <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;10/24/2017&amp;nbsp; 7:09PM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  [5] train service has resumed following earlier NYPD activity at &lt;STRONG&gt;Eastchester-Dyre Av.&lt;/STRONG&gt;
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>10/24/2017</Date>
-    <Time> 7:09PM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>7</name>
@@ -160,16 +146,6 @@
     <text>
                   &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                   &lt;span class="DateStyle"&gt;
-                  &amp;nbsp;Posted:&amp;nbsp;10/24/2017&amp;nbsp; 7:13PM
-                  &lt;/span&gt;
-                  &lt;br/&gt;
-                  &lt;br/&gt;
-                Following earlier traffic conditions on Caton Av, &lt;STRONG&gt;B16&lt;/STRONG&gt; bus service has resumed with delays.
-              &lt;br/&gt;
-              &lt;br/&gt;
-            
-                  &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                  &lt;span class="DateStyle"&gt;
                   &amp;nbsp;Posted:&amp;nbsp;10/24/2017&amp;nbsp; 6:07PM
                   &lt;/span&gt;
                   &lt;br/&gt;
@@ -186,7 +162,7 @@
               &lt;br/&gt;
             </text>
     <Date>10/24/2017</Date>
-    <Time> 7:13PM</Time>
+    <Time> 6:07PM</Time>
   </line>
   <line>
     <name>B100 - B103</name>
@@ -245,26 +221,6 @@
     <text>
                   &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                   &lt;span class="DateStyle"&gt;
-                  &amp;nbsp;Posted:&amp;nbsp;10/24/2017&amp;nbsp; 7:16PM
-                  &lt;/span&gt;
-                  &lt;br/&gt;
-                  &lt;br/&gt;
-                Following earlier traffic conditions near the Holland Tunnel, &lt;STRONG&gt;M20, M21, M55&lt;/STRONG&gt; and &lt;STRONG&gt;X1 &lt;/STRONG&gt;bus service has resumed with delays.
-              &lt;br/&gt;
-              &lt;br/&gt;
-            
-                  &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                  &lt;span class="DateStyle"&gt;
-                  &amp;nbsp;Posted:&amp;nbsp;10/24/2017&amp;nbsp; 7:15PM
-                  &lt;/span&gt;
-                  &lt;br/&gt;
-                  &lt;br/&gt;
-                Following earlier traffic conditions near the Manhattan Bridge, Williamsburg Bridge and Bowery, &lt;STRONG&gt;M103 &lt;/STRONG&gt;bus service has resumed with delays.
-              &lt;br/&gt;
-              &lt;br/&gt;
-            
-                  &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                  &lt;span class="DateStyle"&gt;
                   &amp;nbsp;Posted:&amp;nbsp;10/24/2017&amp;nbsp; 6:06PM
                   &lt;/span&gt;
                   &lt;br/&gt;
@@ -305,7 +261,7 @@
               &lt;br/&gt;
             </text>
     <Date>10/24/2017</Date>
-    <Time> 7:16PM</Time>
+    <Time> 6:06PM</Time>
   </line>
   <line>
     <name>Q1 - Q113</name>
@@ -428,18 +384,8 @@
   </line>
   <line>
     <name>x1 - x68</name>
-    <status>DELAYS</status>
+    <status>PLANNED WORK</status>
     <text>
-                  &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                  &lt;span class="DateStyle"&gt;
-                  &amp;nbsp;Posted:&amp;nbsp;10/24/2017&amp;nbsp; 7:16PM
-                  &lt;/span&gt;
-                  &lt;br/&gt;
-                  &lt;br/&gt;
-                Following earlier traffic conditions near the Holland Tunnel, &lt;STRONG&gt;M20, M21, M55&lt;/STRONG&gt; and &lt;STRONG&gt;X1 &lt;/STRONG&gt;bus service has resumed with delays.
-              &lt;br/&gt;
-              &lt;br/&gt;
-            
                   &lt;span class="TitlePlannedWork" &gt;Planned Detour&lt;/span&gt;
                   &lt;br/&gt;
                 &lt;a class="plannedWorkDetailLink" onclick=ShowHide(170970);&gt;&lt;b&gt;S61, S91 &lt;/b&gt;LTD &lt;b&gt;and X31&lt;br clear=left&gt;West/Southbound buses rerouted from Harold St at Bradley Av to Forest Hill Rd&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 170970 class="plannedWorkDetail" &gt;&lt;/b&gt;Until further notice&lt;br&gt;&lt;br&gt;Due to construction, buses run via &lt;b&gt;Willowbrook Rd &lt;/b&gt;making corresponding stops.&lt;br&gt;&lt;br&gt;&lt;i&gt;Reroute Details&lt;br&gt;&lt;/i&gt;Via Bradley Av&lt;br&gt;Right on Willowbrook Rd&lt;br&gt;Left on Forest Hill Rd then regular route&lt;br&gt;&lt;br&gt;&lt;b&gt;Reminder&lt;/b&gt;: &lt;a href=http://web.mta.info/nyct/bus/schedule/staten/s061cur.pdf target=_blank&gt;&lt;font color=#0000FF&gt;&lt;b&gt;&lt;u&gt;S61/S91 LTD&lt;/b&gt;&lt;/u&gt;&lt;/font&gt;&lt;/a&gt; and &lt;a href=http://web.mta.info/nyct/bus/schedule/xpress/x031cur.pdf target=_blank&gt;&lt;font color=#0000FF&gt;&lt;b&gt;&lt;u&gt;X31&lt;/b&gt;&lt;/u&gt;&lt;/font&gt;&lt;/a&gt; buses do not operate all times.&lt;br&gt;&lt;b&gt;                              [TP]&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
@@ -447,7 +393,7 @@
               &lt;br/&gt;
             </text>
     <Date>10/24/2017</Date>
-    <Time> 7:16PM</Time>
+    <Time> 7:28PM</Time>
   </line>
 </bus><BT>
   <line>
@@ -687,14 +633,13 @@ instead connect with the 6:55PM train from Babylon due Patchogue at
     <text>
                     &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;10/24/2017&amp;nbsp; 6:37PM
+                    &amp;nbsp;Posted:&amp;nbsp;10/24/2017&amp;nbsp; 7:30PM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  &lt;p class="MsoPlainText"&gt;Harlem Line Service continues to experience residual
-delays of up to 15 minutes due to earlier single tracking. Please listen for announcements at your station.&lt;/p&gt;
+                  &lt;p class="MsoPlainText"&gt;&lt;span style="font-size: 13.3333px;"&gt;Harlem Line Service continues to experience residual delays of up to 15 minutes due to earlier single tracking. Please listen for announcements at your station.&lt;/span&gt;&lt;/p&gt;
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>10/24/2017</Date>
-    <Time> 6:37PM</Time>
+    <Time> 7:30PM</Time>
   </line>
   <line>
     <name>Wassaic</name>
