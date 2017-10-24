@@ -387,22 +387,8 @@
 </bus><BT>
   <line>
     <name>Bronx-Whitestone</name>
-    <status>DELAYS</status>
+    <status>SERVICE CHANGE</status>
     <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;10/24/2017&amp;nbsp; 9:33AM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  FINAL-BWB BRONX BOUND COLLISION CLEARED
-                &lt;br/&gt;&lt;br/&gt;
-              
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;10/24/2017&amp;nbsp; 8:39AM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  BWB BRONX BOUND COLLISION. ONE LANE BLOCKED.
-                &lt;br/&gt;&lt;br/&gt;
-              
                     &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
                     &amp;nbsp;Posted:&amp;nbsp;10/24/2017&amp;nbsp; 7:17AM
@@ -411,7 +397,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>10/24/2017</Date>
-    <Time> 9:33AM</Time>
+    <Time> 7:17AM</Time>
   </line>
   <line>
     <name>Cross Bay</name>
@@ -499,8 +485,15 @@
   </line>
   <line>
     <name>Throgs Neck</name>
-    <status>SERVICE CHANGE</status>
+    <status>DELAYS</status>
     <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;10/24/2017&amp;nbsp;11:15AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  TNB: POLICE ACTIVITY: BRONX BOUND
+                &lt;br/&gt;&lt;br/&gt;
+              
                     &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
                     &amp;nbsp;Posted:&amp;nbsp;10/24/2017&amp;nbsp; 7:17AM
@@ -509,7 +502,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>10/24/2017</Date>
-    <Time> 7:17AM</Time>
+    <Time>11:15AM</Time>
   </line>
   <line>
     <name>Verrazano-Narrows</name>
@@ -678,10 +671,17 @@ terminate in Speonk. Customers will transfer to buses for transportation
   </line>
   <line>
     <name>Waterbury</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>DELAYS</status>
+    <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;10/24/2017&amp;nbsp;11:15AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  Waterbury Branch Line Service is currently experiencing delays of 15 to 20 minutes due to a late connecting train in the vicinity of Bridgeport. Please listen for announcements at your station.
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>10/24/2017</Date>
+    <Time>11:15AM</Time>
   </line>
   <line>
     <name>Pascack Valley</name>
