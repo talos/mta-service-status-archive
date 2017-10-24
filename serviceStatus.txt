@@ -543,10 +543,17 @@ terminate in Speonk. Customers will transfer to buses for transportation
   </line>
   <line>
     <name>Port Jefferson</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>DELAYS</status>
+    <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;10/24/2017&amp;nbsp;12:51PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  The 12:31PM train from Port Jefferson due Huntington at 1:17PM is operating 17 minutes late due to debris on the tracks.
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>10/24/2017</Date>
+    <Time>12:51PM</Time>
   </line>
   <line>
     <name>Port Washington</name>
