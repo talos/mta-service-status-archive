@@ -549,10 +549,17 @@ terminate in Speonk. Customers will transfer to buses for transportation
   </line>
   <line>
     <name>Port Jefferson</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>DELAYS</status>
+    <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;10/25/2017&amp;nbsp;10:40AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  The 10:05AM train from Hicksville due Port Jefferson at 11:13AM is operating 14 minutes late due to signal trouble near Huntington.
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>10/25/2017</Date>
+    <Time>10:40AM</Time>
   </line>
   <line>
     <name>Port Washington</name>
