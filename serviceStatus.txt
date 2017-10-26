@@ -1,29 +1,15 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>DELAYS</status>
-    <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;10/26/2017&amp;nbsp;12:46PM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  [2] and [3] train service has resumed following an earlier rail condition at 23 St.
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>10/26/2017</Date>
-    <Time>12:46PM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>456</name>
-    <status>DELAYS</status>
+    <status>PLANNED WORK</status>
     <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;10/26/2017&amp;nbsp;12:46PM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  [2] and [3] train service has resumed following an earlier rail condition at 23 St.
-                &lt;br/&gt;&lt;br/&gt;
-              
                     &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
                     &lt;br/&gt;
                   &lt;a class="plannedWorkDetailLink" onclick=ShowHide(168819);&gt;&lt;b&gt;[6D] Pelham Bay Park-bound trains run local from 3 Av-138 St to Parkchester&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 168819 class="plannedWorkDetail" &gt;&lt;/b&gt;Days, 1 PM to 3 PM, Mon to Fri, Oct 23 - 27&lt;br&gt;&lt;br&gt;&amp;bull; Please allow additional travel time.&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
@@ -45,7 +31,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>10/26/2017</Date>
-    <Time>12:46PM</Time>
+    <Time> 1:08PM</Time>
   </line>
   <line>
     <name>7</name>
