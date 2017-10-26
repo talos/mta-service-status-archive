@@ -1,10 +1,20 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>DELAYS</status>
+    <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;10/26/2017&amp;nbsp;10:04AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;P&gt;Southbound [1], [2] and [3] trains are running with delays because of track test train between&lt;STRONG&gt; 96 St &lt;/STRONG&gt;and &lt;STRONG&gt;Chambers St.&lt;/STRONG&gt;  &lt;/P&gt;
+&lt;P&gt;Allow additional travel time.&lt;/P&gt;
+&lt;P&gt;Southbound 1, 2 and 3 trains are running with delays because of track test train between 96 St and Chambers St. &lt;/P&gt;
+&lt;P&gt;Allow additional travel time.&lt;/P&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>10/26/2017</Date>
+    <Time>10:04AM</Time>
   </line>
   <line>
     <name>456</name>
@@ -44,9 +54,9 @@
     <text>
                     &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;10/26/2017&amp;nbsp;10:01AM
+                    &amp;nbsp;Posted:&amp;nbsp;10/26/2017&amp;nbsp;10:03AM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  &lt;P&gt;There is no [J] and [M] train service in both directions between &lt;STRONG&gt;Essex St&lt;/STRONG&gt; and &lt;STRONG&gt;Myrtle Av&lt;/STRONG&gt; because of an unauthorized person on the &lt;STRONG&gt;Williamsburg Bridge.&lt;/STRONG&gt;&lt;/P&gt;
+                  &lt;P&gt;There is no [J] and [M] train service in both directions between &lt;STRONG&gt;Essex St&lt;/STRONG&gt; and &lt;STRONG&gt;Hewes St &lt;/STRONG&gt;because of an unauthorized person on the &lt;STRONG&gt;Williamsburg Bridge.&lt;/STRONG&gt;&lt;/P&gt;
 &lt;P&gt;As an alternative, passengers are advised to take [A][C][L] train service or take &lt;STRONG&gt;B39 &lt;/STRONG&gt;or &lt;STRONG&gt;B46 &lt;/STRONG&gt;bus service to nearby [J][M] train stations. &lt;/P&gt;
 &lt;P&gt;Allow additional travel time. &lt;/P&gt;
                 &lt;br/&gt;&lt;br/&gt;
@@ -57,7 +67,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>10/26/2017</Date>
-    <Time>10:01AM</Time>
+    <Time>10:03AM</Time>
   </line>
   <line>
     <name>G</name>
@@ -72,15 +82,15 @@
     <text>
                     &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;10/26/2017&amp;nbsp;10:01AM
+                    &amp;nbsp;Posted:&amp;nbsp;10/26/2017&amp;nbsp;10:03AM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  &lt;P&gt;There is no [J] and [M] train service in both directions between &lt;STRONG&gt;Essex St&lt;/STRONG&gt; and &lt;STRONG&gt;Myrtle Av&lt;/STRONG&gt; because of an unauthorized person on the &lt;STRONG&gt;Williamsburg Bridge.&lt;/STRONG&gt;&lt;/P&gt;
+                  &lt;P&gt;There is no [J] and [M] train service in both directions between &lt;STRONG&gt;Essex St&lt;/STRONG&gt; and &lt;STRONG&gt;Hewes St &lt;/STRONG&gt;because of an unauthorized person on the &lt;STRONG&gt;Williamsburg Bridge.&lt;/STRONG&gt;&lt;/P&gt;
 &lt;P&gt;As an alternative, passengers are advised to take [A][C][L] train service or take &lt;STRONG&gt;B39 &lt;/STRONG&gt;or &lt;STRONG&gt;B46 &lt;/STRONG&gt;bus service to nearby [J][M] train stations. &lt;/P&gt;
 &lt;P&gt;Allow additional travel time. &lt;/P&gt;
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>10/26/2017</Date>
-    <Time>10:01AM</Time>
+    <Time>10:03AM</Time>
   </line>
   <line>
     <name>L</name>
@@ -118,7 +128,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>10/26/2017</Date>
-    <Time> 9:52AM</Time>
+    <Time>10:02AM</Time>
   </line>
 </subway><bus>
   <line>
@@ -385,7 +395,7 @@
               &lt;br/&gt;
             </text>
     <Date>10/26/2017</Date>
-    <Time> 9:52AM</Time>
+    <Time>10:02AM</Time>
   </line>
   <line>
     <name>S40 - S98</name>
