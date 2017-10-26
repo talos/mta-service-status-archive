@@ -34,7 +34,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>10/26/2017</Date>
-    <Time>10:52AM</Time>
+    <Time>11:02AM</Time>
   </line>
   <line>
     <name>7</name>
@@ -46,7 +46,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>10/26/2017</Date>
-    <Time>10:52AM</Time>
+    <Time>11:02AM</Time>
   </line>
   <line>
     <name>ACE</name>
@@ -65,7 +65,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>10/26/2017</Date>
-    <Time>10:52AM</Time>
+    <Time>11:02AM</Time>
   </line>
   <line>
     <name>G</name>
@@ -83,10 +83,15 @@
   </line>
   <line>
     <name>L</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>PLANNED WORK</status>
+    <text>
+                    &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
+                    &lt;br/&gt;
+                  &lt;a class="plannedWorkDetailLink" onclick=ShowHide(168478);&gt;&lt;b&gt;[L] Service operates every 12 minutes between Myrtle-Wyckoff Avs and Rockaway Pkwy&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 168478 class="plannedWorkDetail" &gt;&lt;/b&gt;Days, 11 AM to 3 PM, Mon to Fri, until Nov 17&lt;/font&gt; &lt;br&gt;&lt;br&gt;The last stop for &lt;b&gt;alternate&lt;/b&gt; trains &lt;i&gt;from &lt;/i&gt;Manhattan is Myrtle-Wyckoff Avs.&lt;br&gt;&lt;b&gt;&lt;/b&gt;          &lt;/font&gt;&lt;a href=http://apps.mta.info/traintime/ target=_blank&gt;&lt;img height=32px src=http://apps.mta.info/traintime/desktop2Images/logoSm.png&gt;&lt;/a&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>10/26/2017</Date>
+    <Time>11:02AM</Time>
   </line>
   <line>
     <name>NQR</name>
@@ -117,13 +122,23 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>10/26/2017</Date>
-    <Time>10:52AM</Time>
+    <Time>11:02AM</Time>
   </line>
 </subway><bus>
   <line>
     <name>B1 - B84</name>
     <status>DELAYS</status>
     <text>
+                  &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                  &lt;span class="DateStyle"&gt;
+                  &amp;nbsp;Posted:&amp;nbsp;10/26/2017&amp;nbsp;11:03AM
+                  &lt;/span&gt;
+                  &lt;br/&gt;
+                  &lt;br/&gt;
+                Following an earlier incident on Malcolm X Blvd, &lt;STRONG&gt;B46&lt;/STRONG&gt; bus service has resumed with delays.
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
                   &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                   &lt;span class="DateStyle"&gt;
                   &amp;nbsp;Posted:&amp;nbsp;10/26/2017&amp;nbsp;11:02AM
@@ -158,17 +173,6 @@
             
                   &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                   &lt;span class="DateStyle"&gt;
-                  &amp;nbsp;Posted:&amp;nbsp;10/26/2017&amp;nbsp; 8:30AM
-                  &lt;/span&gt;
-                  &lt;br/&gt;
-                  &lt;br/&gt;
-                &lt;P&gt;&lt;STRONG&gt;B46 &lt;/STRONG&gt;buses are running with delays in both directions because of traffic conditions on Malcolm X Blvd and Gates Av to Utica Av and Clarendon Rd.&lt;/P&gt;
-&lt;P&gt;Allow additional travel time.&lt;/P&gt;
-              &lt;br/&gt;
-              &lt;br/&gt;
-            
-                  &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                  &lt;span class="DateStyle"&gt;
                   &amp;nbsp;Posted:&amp;nbsp;10/26/2017&amp;nbsp; 8:03AM
                   &lt;/span&gt;
                   &lt;br/&gt;
@@ -185,7 +189,7 @@
               &lt;br/&gt;
             </text>
     <Date>10/26/2017</Date>
-    <Time>11:02AM</Time>
+    <Time>11:03AM</Time>
   </line>
   <line>
     <name>B100 - B103</name>
@@ -402,7 +406,7 @@
               &lt;br/&gt;
             </text>
     <Date>10/26/2017</Date>
-    <Time>10:52AM</Time>
+    <Time>11:02AM</Time>
   </line>
   <line>
     <name>S40 - S98</name>
