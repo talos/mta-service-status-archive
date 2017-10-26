@@ -36,10 +36,18 @@
   </line>
   <line>
     <name>BDFM</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>DELAYS</status>
+    <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;10/26/2017&amp;nbsp; 9:45AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;P&gt;[J] and [M] trains are holding in stations in both directions because of an unauthorized person on the tracks on the &lt;STRONG&gt;Williamsburg Bridge.&lt;/STRONG&gt; &lt;/P&gt;
+&lt;P&gt;Allow additional travel time. &lt;/P&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>10/26/2017</Date>
+    <Time> 9:45AM</Time>
   </line>
   <line>
     <name>G</name>
@@ -50,24 +58,25 @@
   </line>
   <line>
     <name>JZ</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
-  </line>
-  <line>
-    <name>L</name>
     <status>DELAYS</status>
     <text>
                     &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;10/26/2017&amp;nbsp; 9:36AM
+                    &amp;nbsp;Posted:&amp;nbsp;10/26/2017&amp;nbsp; 9:45AM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  [L] train service has resumed following an earlier incident involving debris on the tracks at &lt;STRONG&gt;Halsey St&lt;/STRONG&gt;.
+                  &lt;P&gt;[J] and [M] trains are holding in stations in both directions because of an unauthorized person on the tracks on the &lt;STRONG&gt;Williamsburg Bridge.&lt;/STRONG&gt; &lt;/P&gt;
+&lt;P&gt;Allow additional travel time. &lt;/P&gt;
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>10/26/2017</Date>
-    <Time> 9:36AM</Time>
+    <Time> 9:45AM</Time>
+  </line>
+  <line>
+    <name>L</name>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>NQR</name>
@@ -505,20 +514,10 @@
   </line>
   <line>
     <name>Long Beach</name>
-    <status>DELAYS</status>
-    <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;10/26/2017&amp;nbsp; 8:53AM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  The 8:38AM train from Long Beach due Atlantic Terminal at 9:26AM is 
-cancelled due to earlier signal trouble at the Reynolds Channel Bridge. 
- Customers accommodated by the 8:58AM from Long Beach due Penn at 
-9:53AM. Transfer at Jamaica for service to Atlantic Terminal.
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>10/26/2017</Date>
-    <Time> 8:53AM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>Montauk</name>
