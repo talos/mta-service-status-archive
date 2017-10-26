@@ -1,24 +1,49 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>DELAYS</status>
+    <status>SERVICE CHANGE</status>
     <text>
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;10/26/2017&amp;nbsp;10:27AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;P&gt;Some southbound [2] trains are stopping along the [5] line from &lt;STRONG&gt;149 St-Grand Concourse&lt;/STRONG&gt; to &lt;STRONG&gt;Nevins St&lt;/STRONG&gt; because of a track test train between &lt;STRONG&gt;96 St&lt;/STRONG&gt; and &lt;STRONG&gt;Chambers St&lt;/STRONG&gt;.&lt;/P&gt;
+&lt;P&gt;Expect delays on [1] [2] [3] [4] and [5] trains.&lt;/P&gt;
+&lt;P&gt;Allow additional travel time.&lt;/P&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              
                     &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;10/26/2017&amp;nbsp;10:08AM
+                    &amp;nbsp;Posted:&amp;nbsp;10/26/2017&amp;nbsp;10:26AM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  &lt;P&gt;Southbound [1], [2] and [3] trains are running with delays because of track test train between&lt;STRONG&gt; 96 St &lt;/STRONG&gt;and &lt;STRONG&gt;Chambers St.&lt;/STRONG&gt;  &lt;/P&gt;
+                  &lt;P&gt;Northbound [2], [4] and [5] trains are running with delays because of signal problems at &lt;STRONG&gt;149 St-Grand Concourse&lt;/STRONG&gt;. &lt;/P&gt;
 &lt;P&gt;Allow additional travel time.&lt;/P&gt;
-&lt;P&gt; &lt;/P&gt;
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>10/26/2017</Date>
-    <Time>10:08AM</Time>
+    <Time>10:27AM</Time>
   </line>
   <line>
     <name>456</name>
-    <status>PLANNED WORK</status>
+    <status>SERVICE CHANGE</status>
     <text>
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;10/26/2017&amp;nbsp;10:27AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;P&gt;Some southbound [2] trains are stopping along the [5] line from &lt;STRONG&gt;149 St-Grand Concourse&lt;/STRONG&gt; to &lt;STRONG&gt;Nevins St&lt;/STRONG&gt; because of a track test train between &lt;STRONG&gt;96 St&lt;/STRONG&gt; and &lt;STRONG&gt;Chambers St&lt;/STRONG&gt;.&lt;/P&gt;
+&lt;P&gt;Expect delays on [1] [2] [3] [4] and [5] trains.&lt;/P&gt;
+&lt;P&gt;Allow additional travel time.&lt;/P&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;10/26/2017&amp;nbsp;10:26AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;P&gt;Northbound [2], [4] and [5] trains are running with delays because of signal problems at &lt;STRONG&gt;149 St-Grand Concourse&lt;/STRONG&gt;. &lt;/P&gt;
+&lt;P&gt;Allow additional travel time.&lt;/P&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              
                     &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
                     &lt;br/&gt;
                   &lt;a class="plannedWorkDetailLink" onclick=ShowHide(170986);&gt;&lt;b&gt;[6] Brooklyn Bridge-bound trains run express from Pelham Bay Park to 3 Av-138 St&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 170986 class="plannedWorkDetail" &gt;&lt;/b&gt;Days, 10:15 AM to 3 PM, Mon to Fri, Oct 23 - 27&lt;br&gt;&lt;br&gt;Trains stop at Parkchester and Hunts Point Av.&lt;br&gt;&lt;br&gt;For service &lt;i&gt;to&lt;/i&gt; &lt;b&gt;Buhre Av&lt;/b&gt;, &lt;b&gt;Middletown Rd&lt;/b&gt;, &lt;b&gt;Westchester Sq&lt;/b&gt;, &lt;b&gt;Zerega&lt;/b&gt; and &lt;b&gt;Castle Hill Avs&lt;/b&gt;, &lt;br&gt;take the [6] to Parkchester and transfer to a Pelham Bay Park-bound [6].&lt;br&gt;&lt;br&gt;For service &lt;i&gt;to&lt;/i&gt; &lt;b&gt;St Lawrence Av&lt;/b&gt;, &lt;b&gt;Morrison Av-Soundview&lt;/b&gt;, &lt;b&gt;Elder &lt;/b&gt;and &lt;b&gt;Whitlock Avs&lt;/b&gt;, &lt;br&gt;take the [6] to Hunts Point Av and transfer to a Pelham Bay Park-bound [6].&lt;br&gt;&lt;br&gt;For service &lt;i&gt;to&lt;/i&gt; &lt;b&gt;Longwood Av&lt;/b&gt;, &lt;b&gt;E 149 St&lt;/b&gt;, &lt;b&gt;E 143 St&lt;/b&gt;, &lt;b&gt;Cypress Av&lt;/b&gt; and &lt;b&gt;Brook Av&lt;/b&gt;,&lt;br&gt;take the [6] to 3 Av-138 St and transfer to a Pelham Bay Park-bound [6].&lt;br&gt;&lt;br&gt;For service &lt;i&gt;from&lt;/i&gt; these stations, take the [6] to Hunts Point Av, Parkchester or Pelham Bay Park&lt;br&gt;and transfer to a Brooklyn Bridge-bound [6]&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
@@ -30,7 +55,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>10/26/2017</Date>
-    <Time>10:22AM</Time>
+    <Time>10:27AM</Time>
   </line>
   <line>
     <name>7</name>
