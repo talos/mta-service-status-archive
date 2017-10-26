@@ -1,8 +1,19 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>DELAYS</status>
+    <status>SERVICE CHANGE</status>
     <text>
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;10/26/2017&amp;nbsp;11:31AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;P&gt;Northbound [2] and [3] trains are running local from &lt;STRONG&gt;14 St&lt;/STRONG&gt; to &lt;STRONG&gt;34 St-Penn Station.&lt;/STRONG&gt;&lt;/P&gt;
+&lt;P&gt;Some northbound [2] trains are running on the [5] line from Nevins St to &lt;STRONG&gt;149 St-Grand Concourse.&lt;/STRONG&gt;&lt;/P&gt;
+&lt;P&gt;These service changes are because of a rail condition at &lt;STRONG&gt;23 St.&lt;/STRONG&gt; &lt;/P&gt;
+&lt;P&gt;Expect delays in [1][2][3][4][5] train service.&lt;/P&gt;
+&lt;P&gt;Allow additional travel time. &lt;/P&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              
                     &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
                     &amp;nbsp;Posted:&amp;nbsp;10/26/2017&amp;nbsp;11:21AM
@@ -11,12 +22,23 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>10/26/2017</Date>
-    <Time>11:21AM</Time>
+    <Time>11:31AM</Time>
   </line>
   <line>
     <name>456</name>
-    <status>PLANNED WORK</status>
+    <status>SERVICE CHANGE</status>
     <text>
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;10/26/2017&amp;nbsp;11:31AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;P&gt;Northbound [2] and [3] trains are running local from &lt;STRONG&gt;14 St&lt;/STRONG&gt; to &lt;STRONG&gt;34 St-Penn Station.&lt;/STRONG&gt;&lt;/P&gt;
+&lt;P&gt;Some northbound [2] trains are running on the [5] line from Nevins St to &lt;STRONG&gt;149 St-Grand Concourse.&lt;/STRONG&gt;&lt;/P&gt;
+&lt;P&gt;These service changes are because of a rail condition at &lt;STRONG&gt;23 St.&lt;/STRONG&gt; &lt;/P&gt;
+&lt;P&gt;Expect delays in [1][2][3][4][5] train service.&lt;/P&gt;
+&lt;P&gt;Allow additional travel time. &lt;/P&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              
                     &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
                     &lt;br/&gt;
                   &lt;a class="plannedWorkDetailLink" onclick=ShowHide(168817);&gt;&lt;b&gt;[6] The last stop for alternate trains headed toward Pelham Bay Park is 3 Av-138 St&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 168817 class="plannedWorkDetail" &gt;&lt;/b&gt;Days, 10:30 AM to 3 PM, Mon to Fri, Oct 23 - 27&lt;br&gt;&lt;br&gt;&amp;bull; &lt;/font&gt;Please allow additional travel time in the Bronx.                             &lt;b&gt; &lt;/b&gt;&lt;a href=http://apps.mta.info/traintime/ target=_blank&gt;&lt;img height=26px src=http://apps.mta.info/traintime/desktop2Images/logoSm.png&gt;&lt;/a&gt;&lt;br&gt;      &lt;br&gt;&lt;/font&gt;&lt;table class=plannedworkTableStyle  border=1 cellspacing=1 cellpadding=5 rules=none frame=box&gt;&lt;td&gt;  [ad]  &lt;td&gt;&lt;font size=1&gt;This service change affects one or more ADA accessible stations. Please call 511 for help with planning&lt;br&gt;your trip. If you are deaf or hard of hearing, use your preferred relay service provider or the free 711 relay.  &lt;/font&gt;&lt;/table&gt;&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
@@ -33,7 +55,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>10/26/2017</Date>
-    <Time>11:28AM</Time>
+    <Time>11:31AM</Time>
   </line>
   <line>
     <name>7</name>
@@ -45,7 +67,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>10/26/2017</Date>
-    <Time>11:28AM</Time>
+    <Time>11:32AM</Time>
   </line>
   <line>
     <name>ACE</name>
@@ -64,7 +86,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>10/26/2017</Date>
-    <Time>11:28AM</Time>
+    <Time>11:32AM</Time>
   </line>
   <line>
     <name>G</name>
@@ -90,7 +112,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>10/26/2017</Date>
-    <Time>11:28AM</Time>
+    <Time>11:32AM</Time>
   </line>
   <line>
     <name>NQR</name>
@@ -121,7 +143,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>10/26/2017</Date>
-    <Time>11:28AM</Time>
+    <Time>11:32AM</Time>
   </line>
 </subway><bus>
   <line>
@@ -130,22 +152,21 @@
     <text>
                   &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                   &lt;span class="DateStyle"&gt;
-                  &amp;nbsp;Posted:&amp;nbsp;10/26/2017&amp;nbsp;11:19AM
+                  &amp;nbsp;Posted:&amp;nbsp;10/26/2017&amp;nbsp;11:33AM
                   &lt;/span&gt;
                   &lt;br/&gt;
                   &lt;br/&gt;
-                &lt;P&gt;&lt;STRONG&gt;B57, B61, B62, B65&lt;/STRONG&gt; and &lt;STRONG&gt;B67 &lt;/STRONG&gt;buses are running with delays in both directions because of a road obstruction on Jay St between Myrtle Av and Willoughby St. &lt;/P&gt;
-&lt;P&gt;Allow additional travel time.&lt;/P&gt;
+                &lt;STRONG&gt;B39 &lt;/STRONG&gt;bus service has resumed following earlier traffic conditions on the Williamsburg Bridge.
               &lt;br/&gt;
               &lt;br/&gt;
             
                   &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                   &lt;span class="DateStyle"&gt;
-                  &amp;nbsp;Posted:&amp;nbsp;10/26/2017&amp;nbsp;10:07AM
+                  &amp;nbsp;Posted:&amp;nbsp;10/26/2017&amp;nbsp;11:19AM
                   &lt;/span&gt;
                   &lt;br/&gt;
                   &lt;br/&gt;
-                &lt;P&gt;&lt;STRONG&gt;B39 &lt;/STRONG&gt;buses are running with delays in both directions because of traffic conditions on the Williamsburg Bridge. &lt;/P&gt;
+                &lt;P&gt;&lt;STRONG&gt;B57, B61, B62, B65&lt;/STRONG&gt; and &lt;STRONG&gt;B67 &lt;/STRONG&gt;buses are running with delays in both directions because of a road obstruction on Jay St between Myrtle Av and Willoughby St. &lt;/P&gt;
 &lt;P&gt;Allow additional travel time.&lt;/P&gt;
               &lt;br/&gt;
               &lt;br/&gt;
@@ -179,7 +200,7 @@
               &lt;br/&gt;
             </text>
     <Date>10/26/2017</Date>
-    <Time>11:19AM</Time>
+    <Time>11:33AM</Time>
   </line>
   <line>
     <name>B100 - B103</name>
@@ -392,7 +413,7 @@
               &lt;br/&gt;
             </text>
     <Date>10/26/2017</Date>
-    <Time>11:28AM</Time>
+    <Time>11:32AM</Time>
   </line>
   <line>
     <name>S40 - S98</name>
