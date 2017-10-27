@@ -92,10 +92,20 @@
   </line>
   <line>
     <name>SIR</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>PLANNED WORK</status>
+    <text>
+                    &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
+                    &lt;br/&gt;
+                  &lt;a class="plannedWorkDetailLink" onclick=ShowHide(170884);&gt;&lt;b&gt;[SIR] Service runs on an adjusted schedule in both directions&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 170884 class="plannedWorkDetail" &gt;&lt;/b&gt;Days, 9 AM to 3 PM, Tue to Fri, Oct 24 - 27&lt;br&gt;&lt;br&gt;&amp;bull; Tottenville-bound trains depart 2 minutes &lt;i&gt;later&lt;/i&gt; than regularly scheduled.&lt;br&gt;&lt;br&gt;&amp;bull; St George-bound trains depart 5 minutes &lt;i&gt;earlier&lt;/i&gt; than regularly scheduled.&lt;br&gt;&lt;b&gt;&lt;/b&gt;          &lt;/font&gt;&lt;a href=http://apps.mta.info/traintime/ target=_blank&gt;&lt;img height=32px src=http://apps.mta.info/traintime/desktop2Images/logoSm.png&gt;&lt;/a&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              
+                    &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
+                    &lt;br/&gt;
+                  &lt;a class="plannedWorkDetailLink" onclick=ShowHide(170882);&gt;&lt;b&gt;[SIR] Trains board at the St. George-bound platform from Stapleton to Grasmere Stations&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 170882 class="plannedWorkDetail" &gt;&lt;/b&gt;Days, 9 AM to 3 PM, Tue to Fri, Oct 24 - 27&lt;br&gt;&lt;br&gt;&amp;bull; Boarding change includes &lt;b&gt;Stapleton&lt;/b&gt;, &lt;b&gt;Clifton&lt;/b&gt; and &lt;b&gt;Grasmere Stations&lt;/b&gt;.&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>10/27/2017</Date>
+    <Time> 9:02AM</Time>
   </line>
 </subway><bus>
   <line>
@@ -109,7 +119,7 @@
               &lt;br/&gt;
             </text>
     <Date>10/27/2017</Date>
-    <Time> 8:52AM</Time>
+    <Time> 9:02AM</Time>
   </line>
   <line>
     <name>B100 - B103</name>
@@ -147,7 +157,7 @@
               &lt;br/&gt;
             </text>
     <Date>10/27/2017</Date>
-    <Time> 8:52AM</Time>
+    <Time> 9:02AM</Time>
   </line>
   <line>
     <name>BXM1 - BXM18</name>
@@ -296,7 +306,7 @@
               &lt;br/&gt;
             </text>
     <Date>10/27/2017</Date>
-    <Time> 8:52AM</Time>
+    <Time> 9:02AM</Time>
   </line>
   <line>
     <name>S40 - S98</name>
@@ -315,7 +325,7 @@
               &lt;br/&gt;
             </text>
     <Date>10/27/2017</Date>
-    <Time> 8:52AM</Time>
+    <Time> 9:02AM</Time>
   </line>
   <line>
     <name>x1 - x68</name>
