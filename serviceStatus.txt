@@ -1,10 +1,17 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>DELAYS</status>
+    <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;10/27/2017&amp;nbsp; 9:54AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  [2] and [3] train service has resumed because of an earlier incident involving NYPD activity at &lt;STRONG&gt;116 St.&lt;/STRONG&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>10/27/2017</Date>
+    <Time> 9:54AM</Time>
   </line>
   <line>
     <name>456</name>
@@ -141,7 +148,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>10/27/2017</Date>
-    <Time> 9:48AM</Time>
+    <Time> 9:52AM</Time>
   </line>
 </subway><bus>
   <line>
@@ -204,7 +211,7 @@
               &lt;br/&gt;
             </text>
     <Date>10/27/2017</Date>
-    <Time> 9:48AM</Time>
+    <Time> 9:52AM</Time>
   </line>
   <line>
     <name>BXM1 - BXM18</name>
@@ -389,7 +396,7 @@
               &lt;br/&gt;
             </text>
     <Date>10/27/2017</Date>
-    <Time> 9:48AM</Time>
+    <Time> 9:52AM</Time>
   </line>
   <line>
     <name>S40 - S98</name>
@@ -408,7 +415,7 @@
               &lt;br/&gt;
             </text>
     <Date>10/27/2017</Date>
-    <Time> 9:48AM</Time>
+    <Time> 9:52AM</Time>
   </line>
   <line>
     <name>x1 - x68</name>
