@@ -1,17 +1,10 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>DELAYS</status>
-    <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;10/27/2017&amp;nbsp; 1:26PM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  [1] train service has resumed following earlier signal problems at&lt;STRONG&gt; 242 St-Van Cortland Park.&lt;/STRONG&gt;
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>10/27/2017</Date>
-    <Time> 1:26PM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>456</name>
@@ -58,7 +51,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>10/27/2017</Date>
-    <Time> 1:48PM</Time>
+    <Time> 1:52PM</Time>
   </line>
   <line>
     <name>ACE</name>
@@ -77,7 +70,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>10/27/2017</Date>
-    <Time> 1:48PM</Time>
+    <Time> 1:52PM</Time>
   </line>
   <line>
     <name>G</name>
@@ -103,7 +96,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>10/27/2017</Date>
-    <Time> 1:48PM</Time>
+    <Time> 1:52PM</Time>
   </line>
   <line>
     <name>NQR</name>
@@ -142,7 +135,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>10/27/2017</Date>
-    <Time> 1:48PM</Time>
+    <Time> 1:52PM</Time>
   </line>
 </subway><bus>
   <line>
@@ -435,7 +428,7 @@
               &lt;br/&gt;
             </text>
     <Date>10/27/2017</Date>
-    <Time> 1:48PM</Time>
+    <Time> 1:52PM</Time>
   </line>
   <line>
     <name>S40 - S98</name>
@@ -454,7 +447,7 @@
               &lt;br/&gt;
             </text>
     <Date>10/27/2017</Date>
-    <Time> 1:48PM</Time>
+    <Time> 1:52PM</Time>
   </line>
   <line>
     <name>x1 - x68</name>
@@ -630,10 +623,17 @@ terminate in Speonk. Customers will transfer to buses for transportation
   </line>
   <line>
     <name>Ronkonkoma</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>DELAYS</status>
+    <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;10/27/2017&amp;nbsp; 1:53PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  The 1:41PM train from Ronkonkoma due Penn at 3:02PM is operating 10 minutes late due to signal trouble near Brentwood.
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>10/27/2017</Date>
+    <Time> 1:53PM</Time>
   </line>
   <line>
     <name>West Hempstead</name>
