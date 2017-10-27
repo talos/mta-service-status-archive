@@ -15,18 +15,10 @@
   </line>
   <line>
     <name>456</name>
-    <status>DELAYS</status>
-    <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;10/27/2017&amp;nbsp; 7:43PM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  &lt;P&gt;Southbound [4] and [5] trains are running with delays because of signal problems at &lt;STRONG&gt;Grand Central-42 St. &lt;/STRONG&gt;&lt;/P&gt;
-&lt;P&gt;Allow additional travel time. &lt;/P&gt;
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>10/27/2017</Date>
-    <Time> 7:43PM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>7</name>
@@ -616,10 +608,17 @@
   </line>
   <line>
     <name>Queens Midtown</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>DELAYS</status>
+    <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;10/27/2017&amp;nbsp; 6:41PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  QMT: DELAYS; Manhattan bound on the viaduct due to volume.
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>10/27/2017</Date>
+    <Time> 6:41PM</Time>
   </line>
   <line>
     <name>Robert F. Kennedy</name>
