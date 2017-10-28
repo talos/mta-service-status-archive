@@ -1,17 +1,10 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>DELAYS</status>
-    <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;10/27/2017&amp;nbsp; 7:54PM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  [2] and [3] service has resumed following an earlier incident involving a train with mechanical problems at &lt;STRONG&gt;34 St-Penn Station&lt;/STRONG&gt;.
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>10/27/2017</Date>
-    <Time> 7:54PM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>456</name>
@@ -98,12 +91,11 @@
     <text>
                   &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                   &lt;span class="DateStyle"&gt;
-                  &amp;nbsp;Posted:&amp;nbsp;10/27/2017&amp;nbsp; 4:52PM
+                  &amp;nbsp;Posted:&amp;nbsp;10/27/2017&amp;nbsp; 8:15PM
                   &lt;/span&gt;
                   &lt;br/&gt;
                   &lt;br/&gt;
-                &lt;P&gt;&lt;STRONG&gt;B49&lt;/STRONG&gt; buses are running with delays in both directions because of traffic conditions on Bedford Av between Eastern Pkwy and Church Av. &lt;/P&gt;
-&lt;P&gt;Allow additional travel time.&lt;/P&gt;
+                &lt;STRONG&gt;B49&lt;/STRONG&gt; bus service has resumed following earlier traffic conditions on Bedford Av between Eastern Parkway and Church Av.
               &lt;br/&gt;
               &lt;br/&gt;
             
@@ -169,7 +161,7 @@
               &lt;br/&gt;
             </text>
     <Date>10/27/2017</Date>
-    <Time> 4:52PM</Time>
+    <Time> 8:15PM</Time>
   </line>
   <line>
     <name>B100 - B103</name>
