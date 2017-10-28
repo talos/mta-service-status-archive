@@ -1,24 +1,24 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>DELAYS</status>
+    <status>SERVICE CHANGE</status>
     <text>
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;10/28/2017&amp;nbsp;10:24AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;P&gt;[3] train shuttle buses are detoured because of construction on Livonia Av between Mother Gaston Blvd and Junius St. &lt;/P&gt;
+&lt;P&gt;Detours is as follows:&lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;Westbound&lt;/STRONG&gt; &lt;STRONG&gt;to Eastern Pkwy&lt;/STRONG&gt;: Via Livonia Av, left on Pennsylvania Av, right on New Lots Av, right on Mother Gaston Blvd and regular route.&lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;Eastbound to Livonia Av&lt;/STRONG&gt;: Via Livonia Av, right on Mother Gaston Blvd, left on New Lots Av and regular route.&lt;/P&gt;
+&lt;P&gt;Allow additional travel time.&lt;/P&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              
                     &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
                     &amp;nbsp;Posted:&amp;nbsp;10/28/2017&amp;nbsp;10:16AM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
                   &lt;P&gt;Northbound [1], [2] and [3] trains are running with delays because of track maintenance between &lt;STRONG&gt;59 St-Columbus Circle &lt;/STRONG&gt;and&lt;STRONG&gt; 72 St. &lt;/STRONG&gt;&lt;/P&gt;
-&lt;P&gt;Allow additional travel time.&lt;/P&gt;
-                &lt;br/&gt;&lt;br/&gt;
-              
-                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;10/28/2017&amp;nbsp;10:03AM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  &lt;P&gt;[3] Shuttle buses are detoured because of construction on Livonia Av between Mother Gaston Blvd and Junius St. &lt;/P&gt;
-&lt;P&gt;Detours is as follows:&lt;/P&gt;
-&lt;P&gt;&lt;STRONG&gt;Westbound&lt;/STRONG&gt; &lt;STRONG&gt;to Eastern Pkwy&lt;/STRONG&gt;: Via Livonia Av, left on Pennsylvania Av, right on New Lots Av, right on Mother Gaston Blvd and regular route.&lt;/P&gt;
-&lt;P&gt;&lt;STRONG&gt;Eastbound to Livonia Av&lt;/STRONG&gt;: Via Livonia Av, right on Mother Gaston Blvd, left on New Lots Av and regular route.&lt;/P&gt;
 &lt;P&gt;Allow additional travel time.&lt;/P&gt;
                 &lt;br/&gt;&lt;br/&gt;
               
@@ -53,7 +53,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>10/28/2017</Date>
-    <Time>10:16AM</Time>
+    <Time>10:24AM</Time>
   </line>
   <line>
     <name>456</name>
@@ -90,7 +90,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>10/28/2017</Date>
-    <Time>10:12AM</Time>
+    <Time>10:22AM</Time>
   </line>
   <line>
     <name>7</name>
@@ -107,7 +107,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>10/28/2017</Date>
-    <Time>10:12AM</Time>
+    <Time>10:22AM</Time>
   </line>
   <line>
     <name>ACE</name>
@@ -290,7 +290,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>10/28/2017</Date>
-    <Time>10:12AM</Time>
+    <Time>10:22AM</Time>
   </line>
 </subway><bus>
   <line>
@@ -316,7 +316,7 @@
               &lt;br/&gt;
             </text>
     <Date>10/28/2017</Date>
-    <Time>10:12AM</Time>
+    <Time>10:22AM</Time>
   </line>
   <line>
     <name>B100 - B103</name>
@@ -336,7 +336,7 @@
               &lt;br/&gt;
             </text>
     <Date>10/28/2017</Date>
-    <Time>10:12AM</Time>
+    <Time>10:22AM</Time>
   </line>
   <line>
     <name>BX1 - BX55</name>
@@ -349,7 +349,7 @@
               &lt;br/&gt;
             </text>
     <Date>10/28/2017</Date>
-    <Time>10:12AM</Time>
+    <Time>10:22AM</Time>
   </line>
   <line>
     <name>BXM1 - BXM18</name>
@@ -362,7 +362,7 @@
               &lt;br/&gt;
             </text>
     <Date>10/28/2017</Date>
-    <Time>10:12AM</Time>
+    <Time>10:22AM</Time>
   </line>
   <line>
     <name>M1 - M116</name>
@@ -423,7 +423,7 @@
               &lt;br/&gt;
             </text>
     <Date>10/28/2017</Date>
-    <Time>10:12AM</Time>
+    <Time>10:22AM</Time>
   </line>
   <line>
     <name>Q1 - Q113</name>
@@ -472,7 +472,7 @@
               &lt;br/&gt;
             </text>
     <Date>10/28/2017</Date>
-    <Time>10:12AM</Time>
+    <Time>10:22AM</Time>
   </line>
   <line>
     <name>QM1 - QM44</name>
@@ -503,7 +503,7 @@
               &lt;br/&gt;
             </text>
     <Date>10/28/2017</Date>
-    <Time>10:12AM</Time>
+    <Time>10:22AM</Time>
   </line>
   <line>
     <name>S40 - S98</name>
