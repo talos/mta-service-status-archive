@@ -1,8 +1,16 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>PLANNED WORK</status>
+    <status>DELAYS</status>
     <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;10/28/2017&amp;nbsp; 8:40AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;P&gt;Northbound [1], [2] and [3] trains are running with delays because of track maintenance between &lt;STRONG&gt;59 St-Columbus Circle &lt;/STRONG&gt;and&lt;STRONG&gt; 72 St. &lt;/STRONG&gt;&lt;/P&gt;
+&lt;P&gt;Allow additional travel time.&lt;/P&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              
                     &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
                     &lt;br/&gt;
                   &lt;a class="plannedWorkDetailLink" onclick=ShowHide(168255);&gt;&lt;b&gt;[3] Downtown trains run local from 96 St to Times Sq-42 St&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 168255 class="plannedWorkDetail" &gt;&lt;/b&gt;Weekends, 12:01 AM Sat to 5 AM Mon, Oct 28 - 30  &amp;bull;  Nov 4 - 6&lt;br&gt;&lt;br&gt;&amp;bull; Please allow additional travel time.&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
@@ -34,7 +42,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>10/28/2017</Date>
-    <Time> 8:32AM</Time>
+    <Time> 8:40AM</Time>
   </line>
   <line>
     <name>456</name>
