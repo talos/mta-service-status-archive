@@ -1,8 +1,16 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>SERVICE CHANGE</status>
+    <status>DELAYS</status>
     <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;10/28/2017&amp;nbsp;10:16AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;P&gt;Northbound [1], [2] and [3] trains are running with delays because of track maintenance between &lt;STRONG&gt;59 St-Columbus Circle &lt;/STRONG&gt;and&lt;STRONG&gt; 72 St. &lt;/STRONG&gt;&lt;/P&gt;
+&lt;P&gt;Allow additional travel time.&lt;/P&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              
                     &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
                     &amp;nbsp;Posted:&amp;nbsp;10/28/2017&amp;nbsp;10:03AM
@@ -11,14 +19,6 @@
 &lt;P&gt;Detours is as follows:&lt;/P&gt;
 &lt;P&gt;&lt;STRONG&gt;Westbound&lt;/STRONG&gt; &lt;STRONG&gt;to Eastern Pkwy&lt;/STRONG&gt;: Via Livonia Av, left on Pennsylvania Av, right on New Lots Av, right on Mother Gaston Blvd and regular route.&lt;/P&gt;
 &lt;P&gt;&lt;STRONG&gt;Eastbound to Livonia Av&lt;/STRONG&gt;: Via Livonia Av, right on Mother Gaston Blvd, left on New Lots Av and regular route.&lt;/P&gt;
-&lt;P&gt;Allow additional travel time.&lt;/P&gt;
-                &lt;br/&gt;&lt;br/&gt;
-              
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;10/28/2017&amp;nbsp; 8:40AM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  &lt;P&gt;Northbound [1], [2] and [3] trains are running with delays because of track maintenance between &lt;STRONG&gt;59 St-Columbus Circle &lt;/STRONG&gt;and&lt;STRONG&gt; 72 St. &lt;/STRONG&gt;&lt;/P&gt;
 &lt;P&gt;Allow additional travel time.&lt;/P&gt;
                 &lt;br/&gt;&lt;br/&gt;
               
@@ -53,7 +53,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>10/28/2017</Date>
-    <Time>10:03AM</Time>
+    <Time>10:16AM</Time>
   </line>
   <line>
     <name>456</name>
@@ -115,27 +115,20 @@
     <text>
                     &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;10/28/2017&amp;nbsp;10:01AM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  [E] service has resumed following an earlier incident involving of a sick passenger at &lt;STRONG&gt;50 St.&lt;/STRONG&gt;
-                &lt;br/&gt;&lt;br/&gt;
-              
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;10/28/2017&amp;nbsp; 9:44AM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  &lt;P&gt;Northbound [E], [F] and [R] trains are running with delays because of track maintenance at &lt;STRONG&gt;65 St,&lt;/STRONG&gt; &lt;STRONG&gt;Jackson Hts-Roosevelt Av&lt;/STRONG&gt; and &lt;STRONG&gt;Forest Hills-71 Av.&lt;/STRONG&gt;&lt;/P&gt;
-&lt;P&gt;Allow additional travel time.&lt;/P&gt;
-&lt;P&gt; &lt;/P&gt;
-                &lt;br/&gt;&lt;br/&gt;
-              
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;10/28/2017&amp;nbsp; 8:28AM
+                    &amp;nbsp;Posted:&amp;nbsp;10/28/2017&amp;nbsp;10:16AM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
                   &lt;P&gt;Northbound [E], [F] and [R] trains are running with delays because of switch problems at&lt;STRONG&gt; Forest Hills-71 Av&lt;/STRONG&gt;. &lt;/P&gt;
 &lt;P&gt;Allow additional travel time.&lt;/P&gt;
 &lt;P&gt;Our crews are on site trying to fix it ASAP, we will follow up soon. Stay tuned for updates. &lt;/P&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;10/28/2017&amp;nbsp;10:15AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;P&gt;Northbound [E], [F] and [R] trains are running with delays because of track maintenance at &lt;STRONG&gt;65 St,&lt;/STRONG&gt; &lt;STRONG&gt;Jackson Hts-Roosevelt Av&lt;/STRONG&gt; and &lt;STRONG&gt;Forest Hills-71 Av.&lt;/STRONG&gt;&lt;/P&gt;
+&lt;P&gt;Allow additional travel time.&lt;/P&gt;
+&lt;P&gt; &lt;/P&gt;
                 &lt;br/&gt;&lt;br/&gt;
               
                     &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
@@ -159,7 +152,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>10/28/2017</Date>
-    <Time>10:01AM</Time>
+    <Time>10:16AM</Time>
   </line>
   <line>
     <name>BDFM</name>
@@ -167,20 +160,20 @@
     <text>
                     &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;10/28/2017&amp;nbsp; 9:44AM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  &lt;P&gt;Northbound [E], [F] and [R] trains are running with delays because of track maintenance at &lt;STRONG&gt;65 St,&lt;/STRONG&gt; &lt;STRONG&gt;Jackson Hts-Roosevelt Av&lt;/STRONG&gt; and &lt;STRONG&gt;Forest Hills-71 Av.&lt;/STRONG&gt;&lt;/P&gt;
-&lt;P&gt;Allow additional travel time.&lt;/P&gt;
-&lt;P&gt; &lt;/P&gt;
-                &lt;br/&gt;&lt;br/&gt;
-              
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;10/28/2017&amp;nbsp; 8:28AM
+                    &amp;nbsp;Posted:&amp;nbsp;10/28/2017&amp;nbsp;10:16AM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
                   &lt;P&gt;Northbound [E], [F] and [R] trains are running with delays because of switch problems at&lt;STRONG&gt; Forest Hills-71 Av&lt;/STRONG&gt;. &lt;/P&gt;
 &lt;P&gt;Allow additional travel time.&lt;/P&gt;
 &lt;P&gt;Our crews are on site trying to fix it ASAP, we will follow up soon. Stay tuned for updates. &lt;/P&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;10/28/2017&amp;nbsp;10:15AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;P&gt;Northbound [E], [F] and [R] trains are running with delays because of track maintenance at &lt;STRONG&gt;65 St,&lt;/STRONG&gt; &lt;STRONG&gt;Jackson Hts-Roosevelt Av&lt;/STRONG&gt; and &lt;STRONG&gt;Forest Hills-71 Av.&lt;/STRONG&gt;&lt;/P&gt;
+&lt;P&gt;Allow additional travel time.&lt;/P&gt;
+&lt;P&gt; &lt;/P&gt;
                 &lt;br/&gt;&lt;br/&gt;
               
                     &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
@@ -194,7 +187,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>10/28/2017</Date>
-    <Time> 9:44AM</Time>
+    <Time>10:16AM</Time>
   </line>
   <line>
     <name>G</name>
@@ -231,20 +224,20 @@
     <text>
                     &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;10/28/2017&amp;nbsp; 9:44AM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  &lt;P&gt;Northbound [E], [F] and [R] trains are running with delays because of track maintenance at &lt;STRONG&gt;65 St,&lt;/STRONG&gt; &lt;STRONG&gt;Jackson Hts-Roosevelt Av&lt;/STRONG&gt; and &lt;STRONG&gt;Forest Hills-71 Av.&lt;/STRONG&gt;&lt;/P&gt;
-&lt;P&gt;Allow additional travel time.&lt;/P&gt;
-&lt;P&gt; &lt;/P&gt;
-                &lt;br/&gt;&lt;br/&gt;
-              
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;10/28/2017&amp;nbsp; 8:28AM
+                    &amp;nbsp;Posted:&amp;nbsp;10/28/2017&amp;nbsp;10:16AM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
                   &lt;P&gt;Northbound [E], [F] and [R] trains are running with delays because of switch problems at&lt;STRONG&gt; Forest Hills-71 Av&lt;/STRONG&gt;. &lt;/P&gt;
 &lt;P&gt;Allow additional travel time.&lt;/P&gt;
 &lt;P&gt;Our crews are on site trying to fix it ASAP, we will follow up soon. Stay tuned for updates. &lt;/P&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;10/28/2017&amp;nbsp;10:15AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;P&gt;Northbound [E], [F] and [R] trains are running with delays because of track maintenance at &lt;STRONG&gt;65 St,&lt;/STRONG&gt; &lt;STRONG&gt;Jackson Hts-Roosevelt Av&lt;/STRONG&gt; and &lt;STRONG&gt;Forest Hills-71 Av.&lt;/STRONG&gt;&lt;/P&gt;
+&lt;P&gt;Allow additional travel time.&lt;/P&gt;
+&lt;P&gt; &lt;/P&gt;
                 &lt;br/&gt;&lt;br/&gt;
               
                     &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
@@ -273,7 +266,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>10/28/2017</Date>
-    <Time> 9:44AM</Time>
+    <Time>10:16AM</Time>
   </line>
   <line>
     <name>S</name>
@@ -518,7 +511,7 @@
     <text>
                   &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
                   &lt;span class="DateStyle"&gt;
-                  &amp;nbsp;Posted:&amp;nbsp;10/28/2017&amp;nbsp; 8:38AM
+                  &amp;nbsp;Posted:&amp;nbsp;10/28/2017&amp;nbsp;10:17AM
                   &lt;/span&gt;
                   &lt;br/&gt;
                   &lt;br/&gt;
@@ -543,7 +536,7 @@
               &lt;br/&gt;
             </text>
     <Date>10/28/2017</Date>
-    <Time> 8:38AM</Time>
+    <Time>10:17AM</Time>
   </line>
   <line>
     <name>x1 - x68</name>
