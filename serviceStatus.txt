@@ -1,8 +1,15 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>SERVICE CHANGE</status>
+    <status>DELAYS</status>
     <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;10/28/2017&amp;nbsp; 6:13PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  [1] train service has resumed following an earlier incident involving NYPD activity at&lt;STRONG&gt; Cathedral Pkwy-110 St.&lt;/STRONG&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              
                     &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
                     &amp;nbsp;Posted:&amp;nbsp;10/28/2017&amp;nbsp; 6:11PM
@@ -21,13 +28,6 @@
                   &lt;P&gt;Northbound [1], [2] and [3] trains are running with slow speeds because of track maintenance between &lt;STRONG&gt;59 St-Columbus Circle &lt;/STRONG&gt;and&lt;STRONG&gt; 72 St. &lt;/STRONG&gt;&lt;/P&gt;
 &lt;P&gt;Expect delays in both directions.&lt;/P&gt;
 &lt;P&gt;Allow additional travel time.&lt;/P&gt;
-                &lt;br/&gt;&lt;br/&gt;
-              
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;10/28/2017&amp;nbsp; 4:13PM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  [1] train service has resumed following an earlier incident involving NYPD activity at&lt;STRONG&gt; Cathedral Pkwy-110 St.&lt;/STRONG&gt;
                 &lt;br/&gt;&lt;br/&gt;
               
                     &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
@@ -61,7 +61,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>10/28/2017</Date>
-    <Time> 6:11PM</Time>
+    <Time> 6:13PM</Time>
   </line>
   <line>
     <name>456</name>
@@ -237,6 +237,13 @@
     <text>
                     &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;10/28/2017&amp;nbsp; 6:14PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  [Q] train service has resumed following an earlier sick passenger at &lt;STRONG&gt;Avenue H.&lt;/STRONG&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
                     &amp;nbsp;Posted:&amp;nbsp;10/28/2017&amp;nbsp; 6:11PM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
                   &lt;P&gt;Northbound [D][N] and [R] trains are running with slow speeds because of track maintenance between &lt;STRONG&gt;59 St (Bklyn) &lt;/STRONG&gt;to &lt;STRONG&gt;Atlantic Av-Barclays Ctr.&lt;/STRONG&gt;&lt;/P&gt;
@@ -251,13 +258,6 @@
                   &lt;P&gt;Northbound [E][F] and [R] trains are running with slow speeds because of track maintenance at &lt;STRONG&gt;65 St,&lt;/STRONG&gt; &lt;STRONG&gt;Jackson Heights-Roosevelt Av&lt;/STRONG&gt; and &lt;STRONG&gt;Forest Hills-71 Av.&lt;/STRONG&gt;&lt;/P&gt;
 &lt;P&gt;Expect delays in both directions.&lt;/P&gt;
 &lt;P&gt;Allow additional travel time.&lt;/P&gt;
-                &lt;br/&gt;&lt;br/&gt;
-              
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;10/28/2017&amp;nbsp; 6:02PM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  [Q] train service has resumed following an earlier sick passenger at &lt;STRONG&gt;Avenue H.&lt;/STRONG&gt;
                 &lt;br/&gt;&lt;br/&gt;
               
                     &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
@@ -286,7 +286,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>10/28/2017</Date>
-    <Time> 6:11PM</Time>
+    <Time> 6:14PM</Time>
   </line>
   <line>
     <name>S</name>
