@@ -1,15 +1,8 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>DELAYS</status>
+    <status>PLANNED WORK</status>
     <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;10/28/2017&amp;nbsp; 5:14AM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  [2] and [3] train service has resumed following earlier track maintenance at &lt;STRONG&gt;135 St&lt;/STRONG&gt;.
-                &lt;br/&gt;&lt;br/&gt;
-              
                     &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
                     &lt;br/&gt;
                   &lt;a class="plannedWorkDetailLink" onclick=ShowHide(168255);&gt;&lt;b&gt;[3] Downtown trains run local from 96 St to Times Sq-42 St&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 168255 class="plannedWorkDetail" &gt;&lt;/b&gt;Weekends, 12:01 AM Sat to 5 AM Mon, Oct 28 - 30  &amp;bull;  Nov 4 - 6&lt;br&gt;&lt;br&gt;&amp;bull; Please allow additional travel time.&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
@@ -41,7 +34,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>10/28/2017</Date>
-    <Time> 5:14AM</Time>
+    <Time> 5:28AM</Time>
   </line>
   <line>
     <name>456</name>
@@ -248,19 +241,15 @@
   </line>
   <line>
     <name>M1 - M116</name>
-    <status>SERVICE CHANGE</status>
+    <status>DELAYS</status>
     <text>
-                  &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                  &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                   &lt;span class="DateStyle"&gt;
-                  &amp;nbsp;Posted:&amp;nbsp;10/28/2017&amp;nbsp;12:22AM
+                  &amp;nbsp;Posted:&amp;nbsp;10/28/2017&amp;nbsp; 5:31AM
                   &lt;/span&gt;
                   &lt;br/&gt;
                   &lt;br/&gt;
-                &lt;P&gt;&lt;STRONG&gt;M101, M102&lt;/STRONG&gt; and &lt;STRONG&gt;M103 &lt;/STRONG&gt;buses are detoured because of road work on Lexington Av from 96 St to 86 St.&lt;/P&gt;
-&lt;P&gt;Detour is as follows:&lt;/P&gt;
-&lt;P&gt;&lt;STRONG&gt;Towards East Village/City Hall:&lt;/STRONG&gt; Via Lexington Av, left on 96 St, right on 2 Av, right on 86 St, left on Lexington Av and regular route. &lt;/P&gt;
-&lt;P&gt;Corresponding stops will be made along the detour route. &lt;/P&gt;
-&lt;P&gt;Allow additional travel time. &lt;/P&gt;
+                &lt;STRONG&gt;M101, M102&lt;/STRONG&gt; and&lt;STRONG&gt; M103&lt;/STRONG&gt; bus service has resumed following earlier road work on Lexington Av.
               &lt;br/&gt;
               &lt;br/&gt;
             
@@ -307,7 +296,7 @@
               &lt;br/&gt;
             </text>
     <Date>10/28/2017</Date>
-    <Time>12:22AM</Time>
+    <Time> 5:31AM</Time>
   </line>
   <line>
     <name>Q1 - Q113</name>
