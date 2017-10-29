@@ -1,15 +1,8 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>DELAYS</status>
+    <status>SERVICE CHANGE</status>
     <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;10/29/2017&amp;nbsp; 3:33AM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  [1] train service has resumed following earlier signal problems at &lt;STRONG&gt;145 St.&lt;/STRONG&gt;
-                &lt;br/&gt;&lt;br/&gt;
-              
                     &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
                     &amp;nbsp;Posted:&amp;nbsp;10/29/2017&amp;nbsp;12:10AM
@@ -52,7 +45,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>10/29/2017</Date>
-    <Time> 3:33AM</Time>
+    <Time>12:10AM</Time>
   </line>
   <line>
     <name>456</name>
@@ -120,15 +113,8 @@
   </line>
   <line>
     <name>ACE</name>
-    <status>DELAYS</status>
+    <status>PLANNED WORK</status>
     <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;10/29/2017&amp;nbsp; 3:36AM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  Northbound [A] train service has resumed following an earlier incident involving a train with mechanical problem at &lt;STRONG&gt;14 St.&lt;/STRONG&gt;
-                &lt;br/&gt;&lt;br/&gt;
-              
                     &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
                     &lt;br/&gt;
                   &lt;a class="plannedWorkDetailLink" onclick=ShowHide(168361);&gt;&lt;b&gt;[E] Jamaica Center-bound trains skip Spring St and 23 St&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 168361 class="plannedWorkDetail" &gt;&lt;/b&gt;Weekend, 11:45 PM Fri to 5 AM Mon, Oct 27 - 30&lt;br&gt;&lt;br&gt;&lt;/font&gt;For service &lt;i&gt;to &lt;/i&gt;these stations, take the [E] to W 4 St or 34 St-Penn Station &lt;br&gt;and transfer to a downtown [A] &lt;i&gt;local&lt;/i&gt;, &lt;/font&gt;[C] or [E].&lt;br&gt;&lt;br&gt;For service &lt;i&gt;from &lt;/i&gt;these stations, take the [A] [C] or [E] to 14 St &lt;br&gt;or Canal St and transfer to a Jamaica Center-bound [E].&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
@@ -140,7 +126,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>10/29/2017</Date>
-    <Time> 3:36AM</Time>
+    <Time> 3:42AM</Time>
   </line>
   <line>
     <name>BDFM</name>
