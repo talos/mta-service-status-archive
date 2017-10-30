@@ -1,29 +1,15 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>DELAYS</status>
-    <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;10/30/2017&amp;nbsp; 2:26PM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  [2] and [5] train service has resumed following earlier incident involving loss of power at &lt;STRONG&gt;E 180 St&lt;/STRONG&gt;
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>10/30/2017</Date>
-    <Time> 2:26PM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>456</name>
-    <status>DELAYS</status>
+    <status>PLANNED WORK</status>
     <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;10/30/2017&amp;nbsp; 2:26PM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  [2] and [5] train service has resumed following earlier incident involving loss of power at &lt;STRONG&gt;E 180 St&lt;/STRONG&gt;
-                &lt;br/&gt;&lt;br/&gt;
-              
                     &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
                     &lt;br/&gt;
                   &lt;a class="plannedWorkDetailLink" onclick=ShowHide(170130);&gt;&lt;b&gt;[6] The last stop for alternate trains headed toward Pelham Bay Park is 3 Av-138 St&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 170130 class="plannedWorkDetail" &gt;&lt;/b&gt;Days, 10:30 AM to 3 PM, Mon to Fri, Oct 30 - Nov 3  &amp;bull;  Nov 6 - 10  &amp;bull;  Tue to Thu, Nov 14 - 16&lt;br&gt;&lt;br&gt;&amp;bull; &lt;/font&gt;Please allow additional travel time in the Bronx.                             &lt;b&gt; &lt;/b&gt;&lt;a href=http://apps.mta.info/traintime/ target=_blank&gt;&lt;img height=26px src=http://apps.mta.info/traintime/desktop2Images/logoSm.png&gt;&lt;/a&gt;&lt;br&gt;      &lt;br&gt;&lt;/font&gt;&lt;table class=plannedworkTableStyle  border=1 cellspacing=1 cellpadding=5 rules=none frame=box&gt;&lt;td&gt;  [ad]  &lt;td&gt;&lt;font size=1&gt;This service change affects one or more ADA accessible stations. Please call 511 for help with planning&lt;br&gt;your trip. If you are deaf or hard of hearing, use your preferred relay service provider or the free 711 relay.  &lt;/font&gt;&lt;/table&gt;&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
@@ -40,7 +26,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>10/30/2017</Date>
-    <Time> 2:26PM</Time>
+    <Time> 2:48PM</Time>
   </line>
   <line>
     <name>7</name>
@@ -244,16 +230,6 @@
     <text>
                   &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                   &lt;span class="DateStyle"&gt;
-                  &amp;nbsp;Posted:&amp;nbsp;10/30/2017&amp;nbsp; 2:32PM
-                  &lt;/span&gt;
-                  &lt;br/&gt;
-                  &lt;br/&gt;
-                Following an earlier incident on 74 St, &lt;STRONG&gt;Q47 &lt;/STRONG&gt;bus service has resumed with delays.
-              &lt;br/&gt;
-              &lt;br/&gt;
-            
-                  &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                  &lt;span class="DateStyle"&gt;
                   &amp;nbsp;Posted:&amp;nbsp;10/30/2017&amp;nbsp; 2:05PM
                   &lt;/span&gt;
                   &lt;br/&gt;
@@ -282,7 +258,7 @@
               &lt;br/&gt;
             </text>
     <Date>10/30/2017</Date>
-    <Time> 2:32PM</Time>
+    <Time> 2:05PM</Time>
   </line>
   <line>
     <name>QM1 - QM44</name>
