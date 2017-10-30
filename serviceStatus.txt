@@ -528,10 +528,17 @@ minutes late due a late eastbound train in single-track territory.         
   </line>
   <line>
     <name>Ronkonkoma</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>SERVICE CHANGE</status>
+    <text>
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;10/30/2017&amp;nbsp; 1:38AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;b&gt;Train service between Farmingdale and Deer Park is temporarily suspended due to a non-passenger train striking low-hanging power wires near Pinelawn.&lt;/b&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>10/30/2017</Date>
+    <Time> 1:38AM</Time>
   </line>
   <line>
     <name>West Hempstead</name>
