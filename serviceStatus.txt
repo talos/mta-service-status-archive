@@ -626,10 +626,17 @@
   </line>
   <line>
     <name>Oyster Bay</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>DELAYS</status>
+    <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;10/30/2017&amp;nbsp; 8:04AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  The 7:13AM train from Oyster Bay due Long Island City at 8:37AM is operating 10 minutes late due to congestion caused by an earlier suspension in service.
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>10/30/2017</Date>
+    <Time> 8:04AM</Time>
   </line>
   <line>
     <name>Port Jefferson</name>
@@ -702,8 +709,15 @@
   </line>
   <line>
     <name>New Haven</name>
-    <status>SERVICE CHANGE</status>
+    <status>DELAYS</status>
     <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;10/30/2017&amp;nbsp; 8:04AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  New Haven Line Service is currently experiencing Westbound delays of 20 to 30 minutes due to weather related issues. Please listen for announcements at your station.
+                &lt;br/&gt;&lt;br/&gt;
+              
                     &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
                     &amp;nbsp;Posted:&amp;nbsp;10/30/2017&amp;nbsp; 7:40AM
@@ -719,7 +733,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>10/30/2017</Date>
-    <Time> 7:40AM</Time>
+    <Time> 8:04AM</Time>
   </line>
   <line>
     <name>New Canaan</name>
