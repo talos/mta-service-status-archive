@@ -8,17 +8,10 @@
   </line>
   <line>
     <name>456</name>
-    <status>DELAYS</status>
-    <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;10/30/2017&amp;nbsp; 7:03AM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  [5] Train service has resumed following earlier track maintenance between&lt;STRONG&gt; Eastchester-Dyre Av&lt;/STRONG&gt; and &lt;STRONG&gt;East 180 St&lt;/STRONG&gt;.
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>10/30/2017</Date>
-    <Time> 7:03AM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>7</name>
@@ -164,7 +157,7 @@
               &lt;br/&gt;
             </text>
     <Date>10/30/2017</Date>
-    <Time> 7:28AM</Time>
+    <Time> 7:32AM</Time>
   </line>
   <line>
     <name>BXM1 - BXM18</name>
@@ -196,7 +189,7 @@
               &lt;br/&gt;
             </text>
     <Date>10/30/2017</Date>
-    <Time> 7:28AM</Time>
+    <Time> 7:32AM</Time>
   </line>
   <line>
     <name>Q1 - Q113</name>
@@ -302,7 +295,7 @@
               &lt;br/&gt;
             </text>
     <Date>10/30/2017</Date>
-    <Time> 7:28AM</Time>
+    <Time> 7:32AM</Time>
   </line>
   <line>
     <name>x1 - x68</name>
@@ -642,14 +635,6 @@
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
                   &lt;b&gt;LIRR train service is suspended in both directions between Farmingdale and Ronkonkoma due to power lines on the tracks near Pinelawn downed by high winds. There is limited service operating west of Farmingdale. Bus service is not available. Customers are encouraged to use alternate branches, including Port Jefferson, Babylon and Montauk trains.&lt;/b&gt;
                 &lt;br/&gt;&lt;br/&gt;
-              
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;10/30/2017&amp;nbsp; 6:51AM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  &lt;P&gt;The 6:00AM train from Farmingdale due Penn at 6:50AM is operating 16 minutes late due to power lines on the tracks near Pinelawn downed by high winds.&lt;/P&gt;
-&lt;P&gt;The 6:34AM train from Farmingdale due Penn at 7:27AM is operating 10 minutes late due to power lines on the tracks near Pinelawn downed by high winds. &lt;/P&gt;
-                &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>10/30/2017</Date>
     <Time> 5:11AM</Time>
@@ -685,8 +670,15 @@
   </line>
   <line>
     <name>New Haven</name>
-    <status>DELAYS</status>
+    <status>SERVICE CHANGE</status>
     <text>
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;10/30/2017&amp;nbsp; 7:32AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;body bgcolor='White' style='font-family:sans-serif;font-size:10pt;'&gt;&lt;/body&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              
                     &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
                     &amp;nbsp;Posted:&amp;nbsp;10/30/2017&amp;nbsp; 6:30AM
@@ -695,7 +687,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>10/30/2017</Date>
-    <Time> 6:30AM</Time>
+    <Time> 7:32AM</Time>
   </line>
   <line>
     <name>New Canaan</name>
