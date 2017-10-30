@@ -1,10 +1,19 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>SERVICE CHANGE</status>
+    <text>
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;10/30/2017&amp;nbsp;12:27PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;P&gt;Northbound [1] trains are running express from &lt;STRONG&gt;96 St&lt;/STRONG&gt; to&lt;STRONG&gt; 137 St-City College&lt;/STRONG&gt; because of track maintenance at &lt;STRONG&gt;103 St.&lt;/STRONG&gt; &lt;/P&gt;
+&lt;P&gt;Expect delays on [1], [2] and [3] trains.&lt;/P&gt;
+&lt;P&gt;Allow additional travel time.&lt;/P&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>10/30/2017</Date>
+    <Time>12:27PM</Time>
   </line>
   <line>
     <name>456</name>
@@ -31,7 +40,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>10/30/2017</Date>
-    <Time>12:22PM</Time>
+    <Time>12:28PM</Time>
   </line>
   <line>
     <name>7</name>
@@ -97,7 +106,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>10/30/2017</Date>
-    <Time>12:22PM</Time>
+    <Time>12:28PM</Time>
   </line>
   <line>
     <name>NQR</name>
@@ -105,7 +114,7 @@
     <text>
                     &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;10/30/2017&amp;nbsp;10:08AM
+                    &amp;nbsp;Posted:&amp;nbsp;10/30/2017&amp;nbsp;12:29PM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
                   &lt;P&gt;[N] [Q] [R] and [W] trains are running with delays in both directions because of signal problems at &lt;STRONG&gt;Lexington Av/59 St&lt;/STRONG&gt;. &lt;/P&gt;
 &lt;P&gt;Our crews are on scene trying to fix it ASAP and we'll follow up soon. Stay tuned for updates.&lt;/P&gt;
@@ -118,7 +127,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>10/30/2017</Date>
-    <Time>10:08AM</Time>
+    <Time>12:29PM</Time>
   </line>
   <line>
     <name>S</name>
@@ -137,7 +146,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>10/30/2017</Date>
-    <Time>12:22PM</Time>
+    <Time>12:28PM</Time>
   </line>
 </subway><bus>
   <line>
@@ -191,7 +200,7 @@
               &lt;br/&gt;
             </text>
     <Date>10/30/2017</Date>
-    <Time>12:22PM</Time>
+    <Time>12:28PM</Time>
   </line>
   <line>
     <name>BXM1 - BXM18</name>
@@ -223,7 +232,7 @@
               &lt;br/&gt;
             </text>
     <Date>10/30/2017</Date>
-    <Time>12:22PM</Time>
+    <Time>12:28PM</Time>
   </line>
   <line>
     <name>Q1 - Q113</name>
@@ -339,7 +348,7 @@
               &lt;br/&gt;
             </text>
     <Date>10/30/2017</Date>
-    <Time>12:22PM</Time>
+    <Time>12:28PM</Time>
   </line>
   <line>
     <name>x1 - x68</name>
