@@ -169,8 +169,16 @@
   </line>
   <line>
     <name>NQR</name>
-    <status>DELAYS</status>
+    <status>SERVICE CHANGE</status>
     <text>
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;10/30/2017&amp;nbsp;12:02AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;P&gt;Northbound [N] trains are stopping on the [Q] line from &lt;STRONG&gt;DeKalb Av&lt;/STRONG&gt; to &lt;STRONG&gt;Canal St&lt;/STRONG&gt; because of FDNY activity at &lt;STRONG&gt;Jay St-MetroTech.&lt;/STRONG&gt; &lt;/P&gt;
+&lt;P&gt;Allow additional travel time. &lt;/P&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              
                     &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
                     &amp;nbsp;Posted:&amp;nbsp;10/29/2017&amp;nbsp;11:50PM
@@ -202,8 +210,8 @@
                   &lt;a class="plannedWorkDetailLink" onclick=ShowHide(169035);&gt;&lt;b&gt;[N] Astoria-bound trains skip 39 Av and Broadway &lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 169035 class="plannedWorkDetail" &gt;&lt;/b&gt;Weekend, 11:45 PM Fri to 5 AM Mon, Oct 27 - 30&lt;br&gt;&lt;br&gt;For service&lt;i&gt; to&lt;/i&gt; these stations, take the [N] to Astoria Blvd and transfer to a&lt;br&gt;Coney Island-bound [N].&lt;br&gt;&lt;br&gt;For service&lt;i&gt; from &lt;/i&gt;these stations, take the [N] to Queensboro Plaza and transfer&lt;br&gt;to an Astoria-bound [N].&lt;br&gt;&lt;br&gt;&lt;b&gt;Note:&lt;/b&gt; 36 Av and 30 Av are closed for renovation.&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
                 &lt;br/&gt;&lt;br/&gt;
               </text>
-    <Date>10/29/2017</Date>
-    <Time>11:50PM</Time>
+    <Date>10/30/2017</Date>
+    <Time>12:02AM</Time>
   </line>
   <line>
     <name>S</name>
@@ -266,20 +274,10 @@
   </line>
   <line>
     <name>BM1 - BM5</name>
-    <status>SERVICE CHANGE</status>
-    <text>
-                  &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
-                  &lt;span class="DateStyle"&gt;
-                  &amp;nbsp;Posted:&amp;nbsp;10/29/2017&amp;nbsp; 5:24AM
-                  &lt;/span&gt;
-                  &lt;br/&gt;
-                  &lt;br/&gt;
-                There is no Sunday &lt;STRONG&gt;BM1, BM2, BM3, BM4&lt;/STRONG&gt; or &lt;STRONG&gt;BM5&lt;/STRONG&gt; bus service.
-              &lt;br/&gt;
-              &lt;br/&gt;
-            </text>
-    <Date>10/29/2017</Date>
-    <Time> 5:24AM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>BX1 - BX55</name>
