@@ -149,8 +149,19 @@
 </subway><bus>
   <line>
     <name>B1 - B84</name>
-    <status>SERVICE CHANGE</status>
+    <status>DELAYS</status>
     <text>
+                  &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                  &lt;span class="DateStyle"&gt;
+                  &amp;nbsp;Posted:&amp;nbsp;10/31/2017&amp;nbsp; 2:54PM
+                  &lt;/span&gt;
+                  &lt;br/&gt;
+                  &lt;br/&gt;
+                &lt;P&gt;&lt;STRONG&gt;B25, B26, B37, B38, B41, B45, B52, B54, B61, B62, B63, B65, B67&lt;/STRONG&gt; and &lt;STRONG&gt;B103&lt;/STRONG&gt; buses are running with delays in both directions because of traffic conditions in the downtown Brooklyn area. &lt;/P&gt;
+&lt;P&gt;Allow additional travel time.&lt;/P&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
                   &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
                   &lt;span class="DateStyle"&gt;
                   &amp;nbsp;Posted:&amp;nbsp;10/31/2017&amp;nbsp; 2:02PM
@@ -185,14 +196,25 @@
               &lt;br/&gt;
             </text>
     <Date>10/31/2017</Date>
-    <Time> 2:02PM</Time>
+    <Time> 2:54PM</Time>
   </line>
   <line>
     <name>B100 - B103</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>DELAYS</status>
+    <text>
+                  &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                  &lt;span class="DateStyle"&gt;
+                  &amp;nbsp;Posted:&amp;nbsp;10/31/2017&amp;nbsp; 2:54PM
+                  &lt;/span&gt;
+                  &lt;br/&gt;
+                  &lt;br/&gt;
+                &lt;P&gt;&lt;STRONG&gt;B25, B26, B37, B38, B41, B45, B52, B54, B61, B62, B63, B65, B67&lt;/STRONG&gt; and &lt;STRONG&gt;B103&lt;/STRONG&gt; buses are running with delays in both directions because of traffic conditions in the downtown Brooklyn area. &lt;/P&gt;
+&lt;P&gt;Allow additional travel time.&lt;/P&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            </text>
+    <Date>10/31/2017</Date>
+    <Time> 2:54PM</Time>
   </line>
   <line>
     <name>BM1 - BM5</name>
@@ -405,17 +427,10 @@
   </line>
   <line>
     <name>Hugh L. Carey</name>
-    <status>DELAYS</status>
-    <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;10/31/2017&amp;nbsp; 2:16PM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  &lt;body bgcolor='White' style='font-family:sans-serif;font-size:10pt;'&gt;HLC: DELAYS; BOTH DIRECTIONS; DUE TO PLANNED WORK.&lt;/body&gt;
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>10/31/2017</Date>
-    <Time> 2:16PM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>Marine Parkway</name>
