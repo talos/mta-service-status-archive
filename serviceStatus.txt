@@ -1,10 +1,17 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>DELAYS</status>
+    <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;10/31/2017&amp;nbsp; 5:35PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  [1], [2] and [3] train service has resumed with delays because of earlier FDNY activity at &lt;STRONG&gt;Times Sq-42 St&lt;/STRONG&gt;.
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>10/31/2017</Date>
+    <Time> 5:35PM</Time>
   </line>
   <line>
     <name>456</name>
@@ -227,12 +234,13 @@
     <text>
                   &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
                   &lt;span class="DateStyle"&gt;
-                  &amp;nbsp;Posted:&amp;nbsp;10/31/2017&amp;nbsp; 5:29PM
+                  &amp;nbsp;Posted:&amp;nbsp;10/31/2017&amp;nbsp; 5:35PM
                   &lt;/span&gt;
                   &lt;br/&gt;
                   &lt;br/&gt;
-                &lt;P&gt;&lt;STRONG&gt;M14A&lt;/STRONG&gt; and &lt;STRONG&gt;M14D&lt;/STRONG&gt; buses are detoured in both directions because of NYPD activity at Chambers St. &lt;/P&gt;
+                &lt;P&gt;&lt;STRONG&gt;M9, M14A&lt;/STRONG&gt; and &lt;STRONG&gt;M14D&lt;/STRONG&gt; buses are detoured in both directions because of NYPD activity at Chambers St. &lt;/P&gt;
 &lt;P&gt;Detour is as follows: &lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;M9 Southbound&lt;/STRONG&gt;: Via 2 St, left on 20 St, right on Avenue C and regular route. &lt;/P&gt;
 &lt;P&gt;&lt;STRONG&gt;M14A Eastbound&lt;/STRONG&gt;: Via 14 St, right on 2 Av, left on Houston St, right on Essex St and regular route. &lt;/P&gt;
 &lt;P&gt;&lt;STRONG&gt;M14D Eastbound&lt;/STRONG&gt;: Via 14 St, right on 2 Av, left on Houston St and regular route. &lt;/P&gt;
 &lt;P&gt;&lt;STRONG&gt;M14A and M14D Westbound&lt;/STRONG&gt;: Via 14 St, left on Houston St, right on 3 Av, left on 14 St and regular route. &lt;/P&gt;
@@ -309,7 +317,7 @@
               &lt;br/&gt;
             </text>
     <Date>10/31/2017</Date>
-    <Time> 5:29PM</Time>
+    <Time> 5:35PM</Time>
   </line>
   <line>
     <name>Q1 - Q113</name>
