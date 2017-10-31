@@ -31,7 +31,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>10/31/2017</Date>
-    <Time>10:52AM</Time>
+    <Time>11:02AM</Time>
   </line>
   <line>
     <name>7</name>
@@ -71,6 +71,11 @@
               
                     &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
                     &lt;br/&gt;
+                  &lt;a class="plannedWorkDetailLink" onclick=ShowHide(167133);&gt;&lt;b&gt;[M] Shuttle trains run every 20 minutes between Metropolitan Av and Myrtle-Wyckoff Avs&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 167133 class="plannedWorkDetail" &gt;&lt;/b&gt;Days, 11 AM to 1 PM, Mon &lt;i&gt;and&lt;/i&gt; Tue, until Dec 26&lt;br&gt;&lt;br&gt;&amp;bull; Please allow additional travel time.&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              
+                    &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
+                    &lt;br/&gt;
                   &lt;a class="plannedWorkDetailLink" onclick=ShowHide(169033);&gt;&lt;b&gt;[B] No trains between Kings Hwy and Brighton Beach&lt;br clear=left&gt;[Q] trains provide alternate service&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 169033 class="plannedWorkDetail" &gt;&lt;/b&gt;Days, 9:45 AM to 3 PM, Mon to Fri, until Nov 17 (&lt;i&gt;except Oct 30, Nov 6 &amp; 7&lt;/i&gt;)&lt;br&gt;&lt;br&gt;&lt;/font&gt;&lt;b&gt;[B] &lt;/b&gt;service operates between &lt;b&gt;145 St&lt;/b&gt; and &lt;b&gt;Kings Hwy&lt;/b&gt;.&lt;br&gt;&lt;br&gt;&amp;bull; Transfer between &lt;b&gt;[B]&lt;/b&gt; and &lt;b&gt;[Q]&lt;/b&gt; trains at Kings Hwy.&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
                 &lt;br/&gt;&lt;br/&gt;
               </text>
@@ -93,10 +98,15 @@
   </line>
   <line>
     <name>L</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>PLANNED WORK</status>
+    <text>
+                    &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
+                    &lt;br/&gt;
+                  &lt;a class="plannedWorkDetailLink" onclick=ShowHide(168478);&gt;&lt;b&gt;[L] Service operates every 12 minutes between Myrtle-Wyckoff Avs and Rockaway Pkwy&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 168478 class="plannedWorkDetail" &gt;&lt;/b&gt;Days, 11 AM to 3 PM, Mon to Fri, until Nov 17&lt;/font&gt; &lt;br&gt;&lt;br&gt;The last stop for &lt;b&gt;alternate&lt;/b&gt; trains &lt;i&gt;from &lt;/i&gt;Manhattan is Myrtle-Wyckoff Avs.&lt;br&gt;&lt;b&gt;&lt;/b&gt;          &lt;/font&gt;&lt;a href=http://apps.mta.info/traintime/ target=_blank&gt;&lt;img height=32px src=http://apps.mta.info/traintime/desktop2Images/logoSm.png&gt;&lt;/a&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>10/31/2017</Date>
+    <Time>11:02AM</Time>
   </line>
   <line>
     <name>NQR</name>
@@ -145,7 +155,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>10/31/2017</Date>
-    <Time>10:52AM</Time>
+    <Time>11:02AM</Time>
   </line>
 </subway><bus>
   <line>
@@ -201,7 +211,7 @@
               &lt;br/&gt;
             </text>
     <Date>10/31/2017</Date>
-    <Time>10:52AM</Time>
+    <Time>11:02AM</Time>
   </line>
   <line>
     <name>BXM1 - BXM18</name>
@@ -233,7 +243,7 @@
               &lt;br/&gt;
             </text>
     <Date>10/31/2017</Date>
-    <Time>10:52AM</Time>
+    <Time>11:02AM</Time>
   </line>
   <line>
     <name>Q1 - Q113</name>
@@ -340,7 +350,7 @@
               &lt;br/&gt;
             </text>
     <Date>10/31/2017</Date>
-    <Time>10:52AM</Time>
+    <Time>11:02AM</Time>
   </line>
   <line>
     <name>S40 - S98</name>
@@ -359,7 +369,7 @@
               &lt;br/&gt;
             </text>
     <Date>10/31/2017</Date>
-    <Time>10:52AM</Time>
+    <Time>11:02AM</Time>
   </line>
   <line>
     <name>x1 - x68</name>
