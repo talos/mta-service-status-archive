@@ -1,43 +1,22 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>DELAYS</status>
-    <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;11/02/2017&amp;nbsp; 4:43PM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  [2] service has resumed following an earlier incident involving a train with mechanical problems at &lt;STRONG&gt;135 St&lt;/STRONG&gt;.
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>11/02/2017</Date>
-    <Time> 4:43PM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>456</name>
-    <status>DELAYS</status>
-    <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;11/02/2017&amp;nbsp; 4:43PM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  [2] service has resumed following an earlier incident involving a train with mechanical problems at &lt;STRONG&gt;135 St&lt;/STRONG&gt;.
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>11/02/2017</Date>
-    <Time> 4:43PM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>7</name>
     <status>DELAYS</status>
     <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;11/02/2017&amp;nbsp; 4:42PM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  [7] service has resumed following an earlier incident involving a sick passenger at &lt;STRONG&gt;Queensboro Plaza&lt;/STRONG&gt;.
-                &lt;br/&gt;&lt;br/&gt;
-              
                     &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
                     &amp;nbsp;Posted:&amp;nbsp;11/02/2017&amp;nbsp; 4:07PM
@@ -46,7 +25,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>11/02/2017</Date>
-    <Time> 4:42PM</Time>
+    <Time> 4:07PM</Time>
   </line>
   <line>
     <name>ACE</name>
@@ -54,14 +33,13 @@
     <text>
                     &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;11/02/2017&amp;nbsp; 4:05PM
+                    &amp;nbsp;Posted:&amp;nbsp;11/02/2017&amp;nbsp; 5:01PM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  &lt;P&gt;Southbound [B] and [C] trains are running with delays because of signal problems at &lt;STRONG&gt;Cathedral Pkwy-(110 St)&lt;/STRONG&gt;.&lt;/P&gt;
-&lt;P&gt;Our crews are on site working to fix it ASAP and we'll follow up soon. Stay tuned for updates.&lt;/P&gt;
+                  [B] and [C] service has resumed following earlier signal problems at &lt;STRONG&gt;Cathedral Pkwy-(110 St)&lt;/STRONG&gt;.
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>11/02/2017</Date>
-    <Time> 4:05PM</Time>
+    <Time> 5:01PM</Time>
   </line>
   <line>
     <name>BDFM</name>
@@ -69,22 +47,21 @@
     <text>
                     &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;11/02/2017&amp;nbsp; 5:01PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  [B] and [C] service has resumed following earlier signal problems at &lt;STRONG&gt;Cathedral Pkwy-(110 St)&lt;/STRONG&gt;.
+                &lt;br/&gt;&lt;br/&gt;
+              
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
                     &amp;nbsp;Posted:&amp;nbsp;11/02/2017&amp;nbsp; 4:06PM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
                   &lt;P&gt;Northbound [F] trains are running with delays because of signal problems at &lt;STRONG&gt;Coney Island-Stillwell Av&lt;/STRONG&gt;. &lt;/P&gt;
 &lt;P&gt; &lt;/P&gt;
                 &lt;br/&gt;&lt;br/&gt;
-              
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;11/02/2017&amp;nbsp; 4:05PM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  &lt;P&gt;Southbound [B] and [C] trains are running with delays because of signal problems at &lt;STRONG&gt;Cathedral Pkwy-(110 St)&lt;/STRONG&gt;.&lt;/P&gt;
-&lt;P&gt;Our crews are on site working to fix it ASAP and we'll follow up soon. Stay tuned for updates.&lt;/P&gt;
-                &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>11/02/2017</Date>
-    <Time> 4:06PM</Time>
+    <Time> 5:01PM</Time>
   </line>
   <line>
     <name>G</name>
@@ -113,15 +90,13 @@
     <text>
                     &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;11/02/2017&amp;nbsp; 4:04PM
+                    &amp;nbsp;Posted:&amp;nbsp;11/02/2017&amp;nbsp; 5:00PM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  &lt;P&gt;Southbound [R] and [W] trains are running with delays because of signal problems at &lt;STRONG&gt;Whitehall St-South Ferry&lt;/STRONG&gt;.&lt;/P&gt;
-&lt;P&gt;Our crews are on scene trying to fix it ASAP and we'll follow up soon. Stay tuned for updates.&lt;/P&gt;
-&lt;P&gt; &lt;/P&gt;
+                  [R] and [W] service has resumed following earlier signal problems at &lt;STRONG&gt;Whitehall St-South Ferry&lt;/STRONG&gt;.
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>11/02/2017</Date>
-    <Time> 4:04PM</Time>
+    <Time> 5:00PM</Time>
   </line>
   <line>
     <name>S</name>
