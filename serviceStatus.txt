@@ -1,8 +1,17 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>DELAYS</status>
+    <status>SERVICE CHANGE</status>
     <text>
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;11/03/2017&amp;nbsp; 7:18PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;P&gt;Southbound [4] and [5] trains are running local from &lt;STRONG&gt;Atlantic Av-Barclays Center&lt;/STRONG&gt; to &lt;STRONG&gt;Franklin Av&lt;/STRONG&gt; because of a sick passenger at &lt;STRONG&gt;Atlantic Av-Barclays Center.&lt;/STRONG&gt; &lt;/P&gt;
+&lt;P&gt;Expect delays in [2][3][4][5] train service. &lt;/P&gt;
+&lt;P&gt;Allow additional travel time. &lt;/P&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              
                     &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
                     &amp;nbsp;Posted:&amp;nbsp;11/03/2017&amp;nbsp; 6:48PM
@@ -11,12 +20,21 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>11/03/2017</Date>
-    <Time> 6:48PM</Time>
+    <Time> 7:18PM</Time>
   </line>
   <line>
     <name>456</name>
-    <status>DELAYS</status>
+    <status>SERVICE CHANGE</status>
     <text>
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;11/03/2017&amp;nbsp; 7:18PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;P&gt;Southbound [4] and [5] trains are running local from &lt;STRONG&gt;Atlantic Av-Barclays Center&lt;/STRONG&gt; to &lt;STRONG&gt;Franklin Av&lt;/STRONG&gt; because of a sick passenger at &lt;STRONG&gt;Atlantic Av-Barclays Center.&lt;/STRONG&gt; &lt;/P&gt;
+&lt;P&gt;Expect delays in [2][3][4][5] train service. &lt;/P&gt;
+&lt;P&gt;Allow additional travel time. &lt;/P&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              
                     &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
                     &amp;nbsp;Posted:&amp;nbsp;11/03/2017&amp;nbsp; 7:01PM
@@ -33,7 +51,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>11/03/2017</Date>
-    <Time> 7:01PM</Time>
+    <Time> 7:18PM</Time>
   </line>
   <line>
     <name>7</name>
