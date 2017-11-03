@@ -1,17 +1,17 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>SERVICE CHANGE</status>
+    <status>DELAYS</status>
     <text>
-                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;11/02/2017&amp;nbsp; 9:05PM
+                    &amp;nbsp;Posted:&amp;nbsp;11/02/2017&amp;nbsp; 9:21PM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  Southbound [1] trains are running express from &lt;STRONG&gt;34 St-Penn Station&lt;/STRONG&gt; to &lt;STRONG&gt;Chambers St&lt;/STRONG&gt; because of a train with mechanical problems at &lt;STRONG&gt;14 St&lt;/STRONG&gt;.
+                  [1] service has resumed following an earlier incident involving a train with mechanical problems at &lt;STRONG&gt;14 St&lt;/STRONG&gt;.
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>11/02/2017</Date>
-    <Time> 9:05PM</Time>
+    <Time> 9:21PM</Time>
   </line>
   <line>
     <name>456</name>
@@ -246,8 +246,23 @@
   </line>
   <line>
     <name>M1 - M116</name>
-    <status>DELAYS</status>
+    <status>SERVICE CHANGE</status>
     <text>
+                  &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                  &lt;span class="DateStyle"&gt;
+                  &amp;nbsp;Posted:&amp;nbsp;11/02/2017&amp;nbsp; 9:22PM
+                  &lt;/span&gt;
+                  &lt;br/&gt;
+                  &lt;br/&gt;
+                &lt;P&gt;&lt;STRONG&gt;M57 &lt;/STRONG&gt;and &lt;STRONG&gt;M66 &lt;/STRONG&gt;buses are detoured because of milling on West End Av between W 70 St and W 61 St. &lt;/P&gt;
+&lt;P&gt;Detours is as follows:&lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;M57 Eastbound:&lt;/STRONG&gt; Via Broadway, right on Columbus Av, left on 57 St, and then regular.&lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;M57 Westbound:&lt;/STRONG&gt; Via 57 St, right on Amsterdam Av, left on 72 St, left on Broadway, alight customers.&lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;M66 Westbound:&lt;/STRONG&gt; Via 66 St, left on Columbus Av, right on 62 St, right on Amsterdam Av, right on 65 St, and wait your time.&lt;/P&gt;
+&lt;P&gt;Allow additional travel time.&lt;/P&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
                   &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                   &lt;span class="DateStyle"&gt;
                   &amp;nbsp;Posted:&amp;nbsp;11/02/2017&amp;nbsp; 6:14PM
@@ -278,7 +293,7 @@
               &lt;br/&gt;
             </text>
     <Date>11/02/2017</Date>
-    <Time> 6:14PM</Time>
+    <Time> 9:22PM</Time>
   </line>
   <line>
     <name>Q1 - Q113</name>
