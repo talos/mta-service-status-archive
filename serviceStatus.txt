@@ -138,7 +138,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>11/02/2017</Date>
-    <Time> 9:08PM</Time>
+    <Time> 9:12PM</Time>
   </line>
 </subway><bus>
   <line>
@@ -383,7 +383,7 @@
               &lt;br/&gt;
             </text>
     <Date>11/02/2017</Date>
-    <Time> 9:08PM</Time>
+    <Time> 9:12PM</Time>
   </line>
   <line>
     <name>S40 - S98</name>
@@ -402,7 +402,7 @@
               &lt;br/&gt;
             </text>
     <Date>11/02/2017</Date>
-    <Time> 9:08PM</Time>
+    <Time> 9:12PM</Time>
   </line>
   <line>
     <name>x1 - x68</name>
@@ -438,17 +438,10 @@
 </bus><BT>
   <line>
     <name>Bronx-Whitestone</name>
-    <status>DELAYS</status>
-    <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;11/02/2017&amp;nbsp; 1:49PM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  FINAL: BRONX WHITESTONE BRIDGE BRONX BOUND: OFF PROPERTY COLLISION AT THE 3rd AVENUE EXIT CLEARED. EXPECT RESIDUAL DELAYS.
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>11/02/2017</Date>
-    <Time> 1:49PM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>Cross Bay</name>
@@ -466,10 +459,17 @@
   </line>
   <line>
     <name>Hugh L. Carey</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>DELAYS</status>
+    <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;11/02/2017&amp;nbsp; 9:12PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  HLC: VEHICLE COLLISON: WEST TUBE
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>11/02/2017</Date>
+    <Time> 9:12PM</Time>
   </line>
   <line>
     <name>Marine Parkway</name>
@@ -501,17 +501,10 @@
   </line>
   <line>
     <name>Verrazano-Narrows</name>
-    <status>SERVICE CHANGE</status>
-    <text>
-                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;11/02/2017&amp;nbsp; 1:53PM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  FINAL: VNB: OPERATIONAL ACTIVITY: BROOKLYN BOUND UPPER LEVEL CLEARED
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>11/02/2017</Date>
-    <Time> 1:53PM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
 </BT><LIRR>
   <line>
