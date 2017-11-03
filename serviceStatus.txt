@@ -525,10 +525,17 @@ terminate in Speonk. Customers will transfer to buses for transportation
   </line>
   <line>
     <name>Oyster Bay</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>DELAYS</status>
+    <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;11/03/2017&amp;nbsp; 9:16AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  The 8:16AM train from Oyster Bay due Long Island City at 9:36AM is operating 10 minutes late due to a vehicle striking an LIRR bridge near Merillon Ave.
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>11/03/2017</Date>
+    <Time> 9:16AM</Time>
   </line>
   <line>
     <name>Port Jefferson</name>
