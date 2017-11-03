@@ -1,17 +1,10 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>DELAYS</status>
-    <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;11/03/2017&amp;nbsp;10:56AM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  [3] train service has resumed following an earlier incident involving a train with mechanical problems at &lt;STRONG&gt;145 St&lt;/STRONG&gt;.
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>11/03/2017</Date>
-    <Time>10:56AM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>456</name>
@@ -271,8 +264,19 @@
   </line>
   <line>
     <name>M1 - M116</name>
-    <status>PLANNED WORK</status>
+    <status>SERVICE CHANGE</status>
     <text>
+                  &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                  &lt;span class="DateStyle"&gt;
+                  &amp;nbsp;Posted:&amp;nbsp;11/03/2017&amp;nbsp;11:11AM
+                  &lt;/span&gt;
+                  &lt;br/&gt;
+                  &lt;br/&gt;
+                &lt;P&gt;&lt;STRONG&gt;M4&lt;/STRONG&gt; and&lt;STRONG&gt; M5&lt;/STRONG&gt; buses will bypass stop on Broadway and 161 St because of construction.&lt;/P&gt;
+&lt;P&gt;Allow additional travel time.&lt;/P&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
                   &lt;span class="TitlePlannedWork" &gt;Planned Detour&lt;/span&gt;
                   &lt;br/&gt;
                 &lt;a class="plannedWorkDetailLink" onclick=ShowHide(170948);&gt;&lt;b&gt;M31 and M57&lt;/b&gt; - &lt;b&gt;Eastbound buses bypass the stop on 57 St at 8 Av&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 170948 class="plannedWorkDetail" &gt;&lt;/b&gt;Until further notice&lt;br&gt;&lt;br&gt;Due to construction, please use the nearby stop&lt;b&gt; on 57 St &lt;/b&gt;at Broadway.&lt;br&gt;&lt;b&gt;                              [TP]&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
@@ -292,7 +296,7 @@
               &lt;br/&gt;
             </text>
     <Date>11/03/2017</Date>
-    <Time>11:08AM</Time>
+    <Time>11:11AM</Time>
   </line>
   <line>
     <name>Q1 - Q113</name>
