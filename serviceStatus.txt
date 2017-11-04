@@ -670,10 +670,17 @@
   </line>
   <line>
     <name>Ronkonkoma</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>DELAYS</status>
+    <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;11/04/2017&amp;nbsp;12:18PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  The 11:09AM train from Penn due Ronkonkoma at 12:32PM is operating 13 minutes late due to a track condition east of Hicksville Station.
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>11/04/2017</Date>
+    <Time>12:18PM</Time>
   </line>
   <line>
     <name>West Hempstead</name>
@@ -685,24 +692,10 @@
 </LIRR><MetroNorth>
   <line>
     <name>Hudson</name>
-    <status>DELAYS</status>
-    <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;11/04/2017&amp;nbsp;11:34AM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  Hudson Line customers should anticipate delays of 15 to 20 minutes due to single tracking between Tarrytown and Ossining. Please listen for announcements at your station.
-                &lt;br/&gt;&lt;br/&gt;
-              
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;11/04/2017&amp;nbsp;11:14AM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  Hudson Line Service is currently experiencing delays of up to 20 minutes due to congestion caused by an earlier train with mechanical difficulties.  Please listen for announcements at your station.
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>11/04/2017</Date>
-    <Time>11:34AM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>Harlem</name>
