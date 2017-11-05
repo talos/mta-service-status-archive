@@ -1,15 +1,8 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>DELAYS</status>
+    <status>PLANNED WORK</status>
     <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;11/05/2017&amp;nbsp;12:06AM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  [2] and [3] train service has resumed following earlier signal problems at &lt;STRONG&gt;72 St.&lt;/STRONG&gt;
-                &lt;br/&gt;&lt;br/&gt;
-              
                     &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
                     &lt;br/&gt;
                   &lt;a class="plannedWorkDetailLink" onclick=ShowHide(168255);&gt;&lt;b&gt;&lt;i&gt;TRACK MAINTENANCE&lt;/i&gt;&lt;br clear=left&gt;[3] Downtown trains run local from 96 St to Times Sq-42 St&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 168255 class="plannedWorkDetail" &gt;&lt;/b&gt;Weekend, 12:01 AM Sat to 5 AM Mon, Nov 4 - 6&lt;br&gt;&lt;br&gt;&amp;bull; Please allow additional travel time.&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
@@ -36,7 +29,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>11/05/2017</Date>
-    <Time>12:06AM</Time>
+    <Time>12:12AM</Time>
   </line>
   <line>
     <name>456</name>
@@ -111,15 +104,8 @@
   </line>
   <line>
     <name>BDFM</name>
-    <status>DELAYS</status>
+    <status>PLANNED WORK</status>
     <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;11/04/2017&amp;nbsp;12:00AM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  [F] and [G] train service has resumed following an incident involving an injured passenger at &lt;STRONG&gt;Fort Hamilton Pkwy.&lt;/STRONG&gt;
-                &lt;br/&gt;&lt;br/&gt;
-              
                     &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
                     &lt;br/&gt;
                   &lt;a class="plannedWorkDetailLink" onclick=ShowHide(169492);&gt;&lt;b&gt;&lt;i&gt;COMMUNICATION IMPROVEMENTS&lt;/i&gt;&lt;br clear=left&gt;[F] Jamaica-bound trains run local from 21 St-Queensbridge to Roosevelt Av&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 169492 class="plannedWorkDetail" &gt;&lt;/b&gt;Weekend, 10 PM Fri to 5 AM Mon, Nov 3 - 6&lt;br&gt;&lt;br&gt;&lt;/font&gt;Trains stop at 36 St, Steinway St, 46 St, Northern Blvd and 65 St.&lt;br&gt;&lt;br&gt;&amp;bull; Please allow additional travel time.&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
@@ -135,22 +121,15 @@
                   &lt;a class="plannedWorkDetailLink" onclick=ShowHide(169429);&gt;&lt;b&gt;&lt;i&gt;TRACK MAINTENANCE&lt;/i&gt;&lt;br clear=left&gt;[D] Coney Island-bound trains skip 182-183 Sts&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 169429 class="plannedWorkDetail" &gt;&lt;/b&gt;Weekend, 11:45 PM Fri to 5 AM Mon, Nov 3 - 6&lt;br&gt;&lt;br&gt;For service &lt;i&gt;to&lt;/i&gt; this station, take the [D] to Tremont Av and transfer to a Norwood-bound [D].&lt;br&gt;&lt;br&gt;For service &lt;i&gt;from&lt;/i&gt; this station, take the [D] to Fordham Rd and transfer to a Coney Island-bound [D].&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
                 &lt;br/&gt;&lt;br/&gt;
               </text>
-    <Date>11/04/2017</Date>
-    <Time>12:00AM</Time>
+    <Date>11/05/2017</Date>
+    <Time>12:12AM</Time>
   </line>
   <line>
     <name>G</name>
-    <status>DELAYS</status>
-    <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;11/04/2017&amp;nbsp;12:00AM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  [F] and [G] train service has resumed following an incident involving an injured passenger at &lt;STRONG&gt;Fort Hamilton Pkwy.&lt;/STRONG&gt;
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>11/04/2017</Date>
-    <Time>12:00AM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>JZ</name>
@@ -512,10 +491,17 @@
   </line>
   <line>
     <name>Ronkonkoma</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>DELAYS</status>
+    <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;11/05/2017&amp;nbsp;12:15AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  The 11:09PM train from Penn due Ronkonkoma at 12:32AM is operating 10 minutes late due to trackwork. &lt;br&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>11/05/2017</Date>
+    <Time>12:15AM</Time>
   </line>
   <line>
     <name>West Hempstead</name>
