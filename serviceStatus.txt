@@ -1,62 +1,17 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>PLANNED WORK</status>
-    <text>
-                    &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
-                    &lt;br/&gt;
-                  &lt;a class="plannedWorkDetailLink" onclick=ShowHide(168255);&gt;&lt;b&gt;&lt;i&gt;TRACK MAINTENANCE&lt;/i&gt;&lt;br clear=left&gt;[3] Downtown trains run local from 96 St to Times Sq-42 St&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 168255 class="plannedWorkDetail" &gt;&lt;/b&gt;Weekend, 12:01 AM Sat to 5 AM Mon, Nov 4 - 6&lt;br&gt;&lt;br&gt;&amp;bull; Please allow additional travel time.&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
-                &lt;br/&gt;&lt;br/&gt;
-              
-                    &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
-                    &lt;br/&gt;
-                  &lt;a class="plannedWorkDetailLink" onclick=ShowHide(168833);&gt;&lt;b&gt;&lt;i&gt;SIGNAL MODERNIZATION&lt;/i&gt;&lt;br clear=left&gt;[2] No trains between Dyre Av and E 180 St&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 168833 class="plannedWorkDetail" &gt;[SB] Free shuttle buses provide alternate service&lt;br&gt;&lt;/b&gt;Weekend, 11:45 PM Fri to 5 AM Mon, Nov 3 - 6  &lt;br&gt;&lt;br&gt;[2] service operates between &lt;b&gt;E 180 St&lt;/b&gt; and&lt;b&gt; South Ferry&lt;/b&gt;.&lt;br&gt;[5] service operates between &lt;b&gt;241 St &lt;/b&gt;and&lt;b&gt; Flatbush Av&lt;/b&gt;.&lt;br&gt;&lt;br&gt;[SB] Buses make all stops between &lt;b&gt;E 180 St&lt;/b&gt; and &lt;b&gt;Dyre Av&lt;/b&gt;.&lt;br&gt;&amp;bull; Transfer between [2] [5] trains and [SB] buses at &lt;b&gt;E 180 St&lt;/b&gt;.&lt;br&gt;&lt;br&gt;&lt;html&gt;&lt;font size=3&gt;&lt;b&gt;&lt;a style="cursor:pointer; text-decoration:underline;" onclick=ShowHide(1688330)&gt;Show Shuttle Bus Stops&lt;/a&gt;&lt;/b&gt;&lt;/font&gt;                           [TP]&lt;div id="1688330"; style="display:none;"&gt;&lt;br&gt;&lt;table class=plannedworkTableStyle  width=70% border=1 cellspacing=1 cellpadding=3 rules=rows frame=hsides&gt;&lt;br&gt;&lt;tr bgcolor=#FAF8CC&gt;&lt;td&gt;&lt;b&gt;Station&lt;/b&gt;&lt;td&gt;&lt;b&gt;Shuttle Bus Stop&lt;/b&gt;&lt;td&gt;&lt;b&gt;Bus&lt;br&gt;&lt;/b&gt;&lt;tr&gt;&lt;td&gt;E 180 St  [ad]  [2S] [5] &lt;td&gt;Morris Park Av at E 180 St&lt;td&gt;&lt;b&gt;Bx21&lt;br&gt;&lt;/b&gt;&lt;tr&gt;&lt;td rowspan=2&gt;Morris Park&lt;td&gt;Morris Park Av at Hone Av&lt;td&gt;&lt;b&gt;Bx21&lt;br&gt;&lt;/b&gt;&lt;tr&gt;&lt;td&gt;Williamsbridge Rd at Lydig Av&lt;td&gt; &amp;mdash;&lt;br&gt;&lt;tr&gt;&lt;td rowspan=2&gt;Pelham Pkwy&lt;td&gt;Williamsbridge Rd at Pelham Pkwy S&lt;td&gt;&lt;b&gt;Bx8&lt;br&gt;&lt;/b&gt;&lt;tr&gt;&lt;td&gt;Williamsbridge Rd at Pelham Pkwy N&lt;td&gt;&lt;b&gt;Bx8&lt;/b&gt;&lt;tr&gt;&lt;td rowspan=2&gt;Gun Hill Rd&lt;td&gt;E Gun Hill Rd at Knapp St (to Dyre Av)&lt;td&gt;&lt;b&gt;Bx28&lt;br&gt;&lt;/b&gt;&lt;tr&gt;&lt;td&gt;E Gun Hill Rd at DeWitt Pl (to E 180 St)&lt;td&gt;&lt;b&gt;Bx28&lt;br&gt;&lt;/b&gt;&lt;tr&gt;&lt;td&gt;Baychester Av&lt;td&gt;Boston Rd at Baychester Av &lt;td&gt;&lt;b&gt;Bx30&lt;br&gt;&lt;/b&gt;&lt;tr&gt;&lt;td&gt;Dyre Av&lt;td&gt;Dyre Av at Light St&lt;td&gt;&lt;b&gt;Bx16&lt;/b&gt;&lt;/table&gt;&lt;/div&gt;&lt;/html&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Note:&lt;/b&gt; This advisory reflects changes to weekend [2] train service | &lt;a href=http://web.mta.info/nyct/service/pdf/t2cur.pdf target=_blank&gt;&lt;font color=#0000FF&gt;&lt;b&gt;&lt;u&gt;pdf&lt;/u&gt;&lt;/b&gt;&lt;/font&gt;&lt;/a&gt;&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
-                &lt;br/&gt;&lt;br/&gt;
-              
-                    &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
-                    &lt;br/&gt;
-                  &lt;a class="plannedWorkDetailLink" onclick=ShowHide(162679);&gt;&lt;b&gt;&lt;i&gt;TUNNEL RECONSTRUCTION&lt;/i&gt;&lt;br clear=left&gt;Weekend [2] [3] station closures and route changes&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 162679 class="plannedWorkDetail" &gt;&lt;/b&gt;Until Summer 2018&lt;br&gt;&lt;br&gt;No service at Park Place, Wall St, Clark St and Hoyt St; use nearby [4] [5] stations&lt;br&gt;&lt;br&gt;No [2] [3] service between Manhattan and Brooklyn; take the [4] or [5] instead.&lt;br&gt;&lt;br&gt;Weekend service map for &lt;a href=http://web.mta.info/nyct/service/pdf/FF_Clark_St_web_map.pdf target=_blank&gt;&lt;font color=#0000FF&gt;&lt;b&gt;&lt;u&gt;Lower Manhattan and Downtown Brooklyn&lt;/u&gt;&lt;/b&gt;&lt;/font&gt;&lt;/a&gt;&lt;br&gt;&lt;br&gt;&lt;/font&gt;New timetables with Weekend Route Changes | [2] &lt;a href=http://web.mta.info/nyct/service/pdf/t2cur.pdf target=_blank&gt;&lt;font color=#0000FF&gt;&lt;b&gt;&lt;u&gt;pdf&lt;/u&gt;&lt;/b&gt;&lt;/font&gt;&lt;/a&gt; | [3] &lt;a href=http://web.mta.info/nyct/service/pdf/t3cur.pdf target=_blank&gt;&lt;font color=#0000FF&gt;&lt;b&gt;&lt;u&gt;pdf&lt;/u&gt;&lt;/b&gt;&lt;/font&gt;&lt;/a&gt; | [4] &lt;a href=http://web.mta.info/nyct/service/pdf/t4cur.pdf target=_blank&gt;&lt;font color=#0000FF&gt;&lt;b&gt;&lt;u&gt;pdf&lt;/u&gt;&lt;/b&gt;&lt;/font&gt;&lt;/a&gt; | [5] &lt;a href=http://web.mta.info/nyct/service/pdf/t5cur.pdf target=_blank&gt;&lt;font color=#0000FF&gt;&lt;b&gt;&lt;u&gt;pdf&lt;/u&gt;&lt;/b&gt;&lt;/font&gt;&lt;/a&gt;&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
-                &lt;br/&gt;&lt;br/&gt;
-              
-                    &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
-                    &lt;br/&gt;
-                  &lt;a class="plannedWorkDetailLink" onclick=ShowHide(168257);&gt;&lt;b&gt;&lt;i&gt;TRACK REPLACEMENT&lt;/i&gt;&lt;br clear=left&gt;[2] Uptown trains skip 50 St, 59 St and 66&lt;/font&gt; St&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 168257 class="plannedWorkDetail" &gt;&lt;/b&gt;&lt;a href=http://advisory.mtanyct.info/pdf_files/NightMap.pdf target=_blank&gt;&lt;font color=#0000FF&gt;&lt;b&gt;&lt;u&gt;Late Nights&lt;/u&gt;&lt;/b&gt;&lt;/font&gt;&lt;/a&gt;, 12:01 AM Sat to 5 AM Mon, Nov 4 - 6&lt;br&gt;&lt;br&gt;For service&lt;i&gt; to&lt;/i&gt; these stations, take the &lt;b&gt;[2]&lt;/b&gt; to 72 St and transfer to a downtown &lt;b&gt;[1]&lt;/b&gt; &lt;/font&gt;&lt;b&gt;[2]&lt;/b&gt;* or [3]*.&lt;br&gt;&lt;br&gt;For service&lt;b&gt; &lt;/b&gt;&lt;i&gt;from&lt;/i&gt; these stations, take the &lt;b&gt;[1]&lt;/b&gt;&lt;/font&gt; &lt;b&gt;[2]&lt;/b&gt; or [3] to Times Sq-42 St and transfer to an uptown&lt;/font&gt; &lt;b&gt;[2]&lt;/b&gt;.&lt;br&gt;&lt;br&gt;&lt;i&gt;*This detour has taken into account additional planned service changes.&lt;br&gt;&lt;/i&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
-                &lt;br/&gt;&lt;br/&gt;
-              
-                    &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
-                    &lt;br/&gt;
-                  &lt;a class="plannedWorkDetailLink" onclick=ShowHide(168256);&gt;&lt;b&gt;&lt;i&gt;TRACK REPLACEMENT&lt;/i&gt;&lt;br clear=left&gt;[1] Van Cortlandt Park-bound trains skip 50 St, 59 St and 66&lt;/font&gt; St&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 168256 class="plannedWorkDetail" &gt;&lt;/b&gt;Weekend, 11:45 PM Fri to 5 AM Mon, Nov 3 - 6&lt;br&gt;&lt;br&gt;For service&lt;i&gt; to&lt;/i&gt; these stations, take the &lt;b&gt;[1]&lt;/b&gt; to 72 St and &lt;/font&gt;transfer to a downtown &lt;b&gt;[1]&lt;/b&gt; &lt;/font&gt;&lt;b&gt;[2]&lt;/b&gt;* or [3]*.&lt;br&gt;&lt;br&gt;For service &lt;i&gt;from&lt;/i&gt; these stations, take the &lt;b&gt;[1]&lt;/b&gt; &lt;/font&gt;&lt;b&gt;[2]&lt;/b&gt; or [3] to Times Sq-42 St and transfer to a &lt;br&gt;Van Cortlandt Park-bound &lt;b&gt;[1]&lt;/b&gt;.&lt;br&gt;&lt;br&gt;&lt;i&gt;*This detour has taken into account additional planned service changes.&lt;br&gt;&lt;/i&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>11/06/2017</Date>
-    <Time> 4:52AM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>456</name>
-    <status>PLANNED WORK</status>
-    <text>
-                    &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
-                    &lt;br/&gt;
-                  &lt;a class="plannedWorkDetailLink" onclick=ShowHide(171266);&gt;&lt;b&gt;&lt;i&gt;ELECTRICAL IMPROVEMENTS&lt;/i&gt;&lt;br clear=left&gt;[6] Service operates &lt;i&gt;to/from&lt;/i&gt; Bowling Green&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 171266 class="plannedWorkDetail" &gt;&lt;/b&gt;Weekend, 12:01 AM Sat to 5 AM Mon, Nov 3 - 4&lt;br&gt;&lt;br&gt;Service operates between Pelham Bay Park/Parkchester* and Brooklyn Bridge and via the [4] &lt;br&gt;&lt;i&gt;to/from&lt;/i&gt; Bowling Green.&lt;br&gt;&lt;br&gt;&lt;i&gt;*From 4:45 AM to 7 PM, Sat and Sun, no [6] trains between Parkchester and Pelham Bay Park.&lt;br&gt;&lt;/i&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
-                &lt;br/&gt;&lt;br/&gt;
-              
-                    &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
-                    &lt;br/&gt;
-                  &lt;a class="plannedWorkDetailLink" onclick=ShowHide(171265);&gt;&lt;b&gt;&lt;i&gt;ELECTRICAL IMPROVEMENTS&lt;/i&gt;&lt;br clear=left&gt;[6] Downtown trains run express from 125 St to Brooklyn Bridge&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 171265 class="plannedWorkDetail" &gt;&lt;/b&gt;Weekend, 11:45 PM Fri to 5 AM Mon, Nov 3 - 6&lt;br&gt;&lt;br&gt;Trains stop at 86 St, 59 St, Grand Central-42 St, 14 St-Union Sq and Brooklyn Bridge.&lt;br&gt;&lt;br&gt;For service &lt;i&gt;to &lt;/i&gt;116, 110, 103, 96, 77, 68 and 51 Sts, take the [6] to 59 St or Grand Central-42 St &lt;br&gt;and transfer to an uptown [4] &lt;i&gt;local&lt;/i&gt; or [6].&lt;br&gt;&lt;br&gt;For service &lt;i&gt;to &lt;/i&gt;33, 28, 23 Sts, Astor Pl, Bleecker, Spring and Canal Sts, take the [6] to 14 St-Union Sq &lt;br&gt;or Brooklyn Bridge and transfer to an uptown [4] &lt;i&gt;local&lt;/i&gt; or [6].&lt;br&gt;&lt;br&gt;For service &lt;i&gt;from&lt;/i&gt; these stations, take the [4] or [6] to 14 St-Union Sq, Grand Central-42 St, 59 St &lt;br&gt;or 125 St and transfer to a downtown [6].&lt;br&gt;&lt;br&gt;&lt;/font&gt;&lt;b&gt;&lt;i&gt;Alternate travel notes:&lt;br&gt;&lt;/b&gt;&lt;/i&gt;Transfer between uptown and downtown trains with &lt;a href=http://web.mta.info/metrocard/mcgtreng.htm#unlimited target=blank&gt;&lt;font color=#0000FF&gt;&lt;b&gt;&lt;u&gt;Unlimited Ride MetroCard&lt;/u&gt;&lt;/b&gt;&lt;/font&gt;&lt;/a&gt; at 86 St. &lt;br&gt;&lt;i&gt;To&lt;/i&gt; Canal St, transfer to the [N] [Q] or [R] at 14 St-Union Sq.&lt;br&gt;&lt;i&gt;From &lt;/i&gt;Canal St, take the [J] to Chambers St-Brooklyn Bridge.&lt;br&gt;&lt;br&gt;&lt;table class=plannedworkTableStyle  border=1 cellspacing=1 cellpadding=5 rules=none frame=box&gt;&lt;td&gt;  [ad]  &lt;td&gt;&lt;font size=1&gt;This service change affects one or more ADA accessible stations. Please call 511 for help with planning &lt;br clear=left&gt;your trip. If you are deaf or hard of hearing, use your preferred relay service provider or the free 711 relay.  &lt;/font&gt;&lt;/table&gt;&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
-                &lt;br/&gt;&lt;br/&gt;
-              
-                    &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
-                    &lt;br/&gt;
-                  &lt;a class="plannedWorkDetailLink" onclick=ShowHide(171267);&gt;&lt;b&gt;&lt;i&gt;ELECTRICAL IMPROVEMENTS&lt;/i&gt;&lt;br clear=left&gt;[4] New Lots Av-bound trains run express from 125 St to Brooklyn Bridge&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 171267 class="plannedWorkDetail" &gt;&lt;/b&gt;&lt;a href=http://advisory.mtanyct.info/pdf_files/NightMap.pdf target=_blank&gt;&lt;font color=#0000FF&gt;&lt;b&gt;&lt;u&gt;Late Nights&lt;/u&gt;&lt;/b&gt;&lt;/font&gt;&lt;/a&gt;,&lt;/font&gt; 12:01 AM Sat to 5 AM Mon, Nov 4 - 6&lt;br&gt;&lt;br&gt;Trains stop at 86 St, 59 St, Grand Central-42 St and 14 St-Union Sq.&lt;br&gt;&lt;br&gt;For service &lt;i&gt;to&lt;/i&gt; 116, 110, 103, 96, 77, 68 and 51 Sts, take the [4] to 59 St or Grand Central-42 St &lt;br&gt;and transfer to an uptown [4] &lt;i&gt;local&lt;/i&gt; or [6].&lt;br&gt;&lt;br&gt;For service &lt;i&gt;to&lt;/i&gt; 33, 28, 23 Sts, Astor Pl, Bleecker, Spring and Canal Sts, take the [4] to 14 St-Union Sq&lt;br&gt;or Brooklyn Bridge and transfer to an uptown [4] &lt;i&gt;local&lt;/i&gt; or [6].&lt;br&gt;&lt;br&gt;For service &lt;i&gt;from&lt;/i&gt; these stations, take the [4] or [6] to 14 St-Union Sq, Grand Central-42 St,&lt;br&gt;59 St or 125 St and transfer to a New Lots Av-bound [4].&lt;br&gt;&lt;br&gt;&lt;b&gt;&lt;i&gt;Alternate travel notes:&lt;br&gt;&lt;/b&gt;&lt;/i&gt;Transfer between uptown and downtown trains with &lt;a href=http://web.mta.info/metrocard/mcgtreng.htm#unlimited target=blank&gt;&lt;font color=#0000FF&gt;&lt;b&gt;&lt;u&gt;Unlimited Ride MetroCard&lt;/u&gt;&lt;/b&gt;&lt;/font&gt;&lt;/a&gt; at 86 St. &lt;br&gt;&lt;i&gt;To&lt;/i&gt; Canal St, transfer to the [N] or [Q] at 14 St-Union Sq.&lt;br&gt;&lt;i&gt;From &lt;/i&gt;Canal St, take the [J] to Chambers St-Brooklyn Bridge.&lt;br&gt;&lt;br&gt;&lt;table class=plannedworkTableStyle  border=1 cellspacing=1 cellpadding=5 rules=none frame=box&gt;&lt;td&gt;  [ad]  &lt;td&gt;&lt;font size=1&gt;This service change affects one or more ADA accessible stations. Please call 511 for help with planning &lt;br clear=left&gt;your trip. If you are deaf or hard of hearing, use your preferred relay service provider or the free 711 relay.  &lt;/font&gt;&lt;/table&gt;&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
-                &lt;br/&gt;&lt;br/&gt;
-              
-                    &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
-                    &lt;br/&gt;
-                  &lt;a class="plannedWorkDetailLink" onclick=ShowHide(168833);&gt;&lt;b&gt;&lt;i&gt;SIGNAL MODERNIZATION&lt;/i&gt;&lt;br clear=left&gt;[2] No trains between Dyre Av and E 180 St&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 168833 class="plannedWorkDetail" &gt;[SB] Free shuttle buses provide alternate service&lt;br&gt;&lt;/b&gt;Weekend, 11:45 PM Fri to 5 AM Mon, Nov 3 - 6  &lt;br&gt;&lt;br&gt;[2] service operates between &lt;b&gt;E 180 St&lt;/b&gt; and&lt;b&gt; South Ferry&lt;/b&gt;.&lt;br&gt;[5] service operates between &lt;b&gt;241 St &lt;/b&gt;and&lt;b&gt; Flatbush Av&lt;/b&gt;.&lt;br&gt;&lt;br&gt;[SB] Buses make all stops between &lt;b&gt;E 180 St&lt;/b&gt; and &lt;b&gt;Dyre Av&lt;/b&gt;.&lt;br&gt;&amp;bull; Transfer between [2] [5] trains and [SB] buses at &lt;b&gt;E 180 St&lt;/b&gt;.&lt;br&gt;&lt;br&gt;&lt;html&gt;&lt;font size=3&gt;&lt;b&gt;&lt;a style="cursor:pointer; text-decoration:underline;" onclick=ShowHide(1688330)&gt;Show Shuttle Bus Stops&lt;/a&gt;&lt;/b&gt;&lt;/font&gt;                           [TP]&lt;div id="1688330"; style="display:none;"&gt;&lt;br&gt;&lt;table class=plannedworkTableStyle  width=70% border=1 cellspacing=1 cellpadding=3 rules=rows frame=hsides&gt;&lt;br&gt;&lt;tr bgcolor=#FAF8CC&gt;&lt;td&gt;&lt;b&gt;Station&lt;/b&gt;&lt;td&gt;&lt;b&gt;Shuttle Bus Stop&lt;/b&gt;&lt;td&gt;&lt;b&gt;Bus&lt;br&gt;&lt;/b&gt;&lt;tr&gt;&lt;td&gt;E 180 St  [ad]  [2S] [5] &lt;td&gt;Morris Park Av at E 180 St&lt;td&gt;&lt;b&gt;Bx21&lt;br&gt;&lt;/b&gt;&lt;tr&gt;&lt;td rowspan=2&gt;Morris Park&lt;td&gt;Morris Park Av at Hone Av&lt;td&gt;&lt;b&gt;Bx21&lt;br&gt;&lt;/b&gt;&lt;tr&gt;&lt;td&gt;Williamsbridge Rd at Lydig Av&lt;td&gt; &amp;mdash;&lt;br&gt;&lt;tr&gt;&lt;td rowspan=2&gt;Pelham Pkwy&lt;td&gt;Williamsbridge Rd at Pelham Pkwy S&lt;td&gt;&lt;b&gt;Bx8&lt;br&gt;&lt;/b&gt;&lt;tr&gt;&lt;td&gt;Williamsbridge Rd at Pelham Pkwy N&lt;td&gt;&lt;b&gt;Bx8&lt;/b&gt;&lt;tr&gt;&lt;td rowspan=2&gt;Gun Hill Rd&lt;td&gt;E Gun Hill Rd at Knapp St (to Dyre Av)&lt;td&gt;&lt;b&gt;Bx28&lt;br&gt;&lt;/b&gt;&lt;tr&gt;&lt;td&gt;E Gun Hill Rd at DeWitt Pl (to E 180 St)&lt;td&gt;&lt;b&gt;Bx28&lt;br&gt;&lt;/b&gt;&lt;tr&gt;&lt;td&gt;Baychester Av&lt;td&gt;Boston Rd at Baychester Av &lt;td&gt;&lt;b&gt;Bx30&lt;br&gt;&lt;/b&gt;&lt;tr&gt;&lt;td&gt;Dyre Av&lt;td&gt;Dyre Av at Light St&lt;td&gt;&lt;b&gt;Bx16&lt;/b&gt;&lt;/table&gt;&lt;/div&gt;&lt;/html&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Note:&lt;/b&gt; This advisory reflects changes to weekend [2] train service | &lt;a href=http://web.mta.info/nyct/service/pdf/t2cur.pdf target=_blank&gt;&lt;font color=#0000FF&gt;&lt;b&gt;&lt;u&gt;pdf&lt;/u&gt;&lt;/b&gt;&lt;/font&gt;&lt;/a&gt;&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>11/06/2017</Date>
-    <Time> 4:52AM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>7</name>
@@ -67,62 +22,17 @@
   </line>
   <line>
     <name>ACE</name>
-    <status>PLANNED WORK</status>
-    <text>
-                    &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
-                    &lt;br/&gt;
-                  &lt;a class="plannedWorkDetailLink" onclick=ShowHide(172119);&gt;&lt;b&gt;&lt;i&gt;PRIORITY REPAIRS&lt;/i&gt;&lt;BR CLEAR=LEFT&gt;[E] Jamaica Center-bound trains skip Spring St and 23 St&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 172119 class="plannedWorkDetail" &gt;&lt;/b&gt;Weekend, 8:01 PM Sat to 5 AM Mon, Nov 4 - 5&lt;br&gt;&lt;br&gt;&lt;/font&gt;For service &lt;i&gt;to &lt;/i&gt;these stations, take the [E] to W 4 St or 34 St-Penn Station &lt;br&gt;and transfer to a downtown [A] &lt;i&gt;local&lt;/i&gt;, &lt;/font&gt;[C] or [E].&lt;br&gt;&lt;br&gt;For service &lt;i&gt;from &lt;/i&gt;these stations, take the [A] [C] or [E] to 14 St &lt;br&gt;or Canal St and transfer to a Jamaica Center-bound [E].&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
-                &lt;br/&gt;&lt;br/&gt;
-              
-                    &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
-                    &lt;br/&gt;
-                  &lt;a class="plannedWorkDetailLink" onclick=ShowHide(169436);&gt;&lt;b&gt;&lt;i&gt;SIGNAL IMPROVEMENTS&lt;/i&gt;&lt;br clear=left&gt;[E] World Trade Center-bound trains run express from 71 Av to Queens Plaza&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 169436 class="plannedWorkDetail" &gt;&lt;/b&gt;Late Nights, 10:30 PM Sat to 5:30 AM Sun, Nov 4 - 5&lt;br&gt;                    10:30 PM Sun to 5 AM Mon, Nov 5 - 6&lt;br&gt;                   &lt;br&gt;&lt;/font&gt;Trains stop at Roosevelt Av.&lt;br&gt;&lt;br&gt;For service &lt;i&gt;to&lt;/i&gt; 67 Av, 63 Dr, Woodhaven Blvd, Grand and Elmhurst Avs, take &lt;br&gt;the [E] to Roosevelt Av and transfer to a Jamaica Center-bound [E] &lt;i&gt;local&lt;/i&gt;.&lt;br&gt;&lt;br&gt;&lt;/font&gt;For service &lt;i&gt;to&lt;/i&gt; 65 St, Northern Blvd, 46, Steinway and 36 Sts, take the [E] to Queens Plaza &lt;br&gt;and transfer to a Jamaica Center-bound [E] &lt;i&gt;local&lt;/i&gt;.&lt;br&gt;&lt;br&gt;For service &lt;i&gt;from&lt;/i&gt; these stations, take the [E] to Roosevelt Av or 71 Av and transfer to a &lt;br&gt;World Trade Center-bound [E].&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
-                &lt;br/&gt;&lt;br/&gt;
-              
-                    &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
-                    &lt;br/&gt;
-                  &lt;a class="plannedWorkDetailLink" onclick=ShowHide(169431);&gt;&lt;b&gt;&lt;i&gt;SIGNAL IMPROVEMENTS&lt;/i&gt;&lt;br clear=left&gt;[E] World Trade Center-bound trains skip Briarwood and 75 Av&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 169431 class="plannedWorkDetail" &gt;&lt;/b&gt;Weekend, 9:45 PM Fri to 5 AM Mon, Nov 3 - 6 &lt;br&gt;&lt;br&gt;For service &lt;i&gt;to&lt;/i&gt; these stations, take the [E] to Union Tpke or 71 Av and transfer&lt;br&gt;to a Jamaica Center-bound [E] or Jamaica-bound [F].&lt;br&gt;&lt;br&gt;For service &lt;i&gt;from&lt;/i&gt; Briarwood, take the [E] to Jamaica-Van Wyck, and transfer&lt;br&gt;to a World Trade Center-bound [E].&lt;br&gt;&lt;br&gt;For service &lt;i&gt;from&lt;/i&gt; 75 Av, take the [E] or [F] to Union Tpke and transfer&lt;br&gt;to a World Trade Center-bound [E].&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
-                &lt;br/&gt;&lt;br/&gt;
-              
-                    &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
-                    &lt;br/&gt;
-                  &lt;a class="plannedWorkDetailLink" onclick=ShowHide(169508);&gt;&lt;b&gt;&lt;i&gt;ELECTRICAL IMPROVMENTS&lt;/i&gt;&lt;br clear=left&gt;[A] No trains between Euclid Av and Lefferts Blvd/Howard Beach-JFK&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 169508 class="plannedWorkDetail" &gt;[SB] Free shuttle buses provide alternate service&lt;br&gt;&lt;/b&gt;Weekend, 11:30 PM Fri to 5 AM Mon, Nov 3 - 6&lt;br&gt;&lt;br&gt;&lt;b&gt;[A]&lt;/b&gt; service operates in two sections:&lt;br&gt;  1. Between &lt;b&gt;207 St&lt;/b&gt; and &lt;b&gt;Euclid Av&lt;br&gt;&lt;/b&gt;  2. Between &lt;b&gt;Howard Beach-JFK Airport&lt;/b&gt; and &lt;b&gt;Mott Av&lt;br&gt;&lt;br&gt;&lt;/b&gt;&lt;table class=plannedworkTableStyle  width=70%&gt;&lt;tr&gt;&lt;td&gt;&lt;font size=3&gt;&lt;b&gt;Travel Alternatives&lt;/b&gt;&lt;/font&gt;&lt;td align=right&gt;[TP]&lt;/table&gt;&lt;br&gt;&lt;/font&gt;[SB] Buses operate along two routes:&lt;br&gt;  1. &lt;i&gt;Local&lt;/i&gt; between &lt;b&gt;Euclid Av &lt;/b&gt;and &lt;b&gt;Howard Beach&lt;/b&gt; via &lt;b&gt;Lefferts Blvd&lt;/b&gt;, making&lt;/font&gt; stops at&lt;b&gt; &lt;br&gt;     Grant Av, 80, 88 Sts, Rockaway Blvd, 104&lt;/b&gt; and&lt;b&gt; 111 Sts&lt;/b&gt;, &lt;b&gt;Lefferts Blvd&lt;/b&gt;,&lt;br&gt;&lt;/font&gt;     &lt;b&gt;Aqueduct Racetrack&lt;/b&gt; and &lt;b&gt;Aqueduct-North Conduit Av&lt;/b&gt;.&lt;br&gt;  2. &lt;i&gt;Express&lt;/i&gt; between &lt;b&gt;Euclid Av&lt;/b&gt; and &lt;b&gt;Howard Beach-JFK&lt;/b&gt;.&lt;br&gt;&lt;br&gt;&lt;/font&gt;&amp;bull; Transfer between trains and [SB] buses at &lt;b&gt;Euclid Av&lt;/b&gt; and/or &lt;b&gt;Howard Beach-JFK&lt;/b&gt;.&lt;br&gt;&lt;br&gt;&lt;font size=3&gt;&lt;b&gt;&lt;a style="cursor:pointer; text-decoration:underline;" onclick=ShowHide(1695080);&gt;Show Shuttle Bus Stops&lt;/a&gt;&lt;/b&gt;&lt;/font&gt;&lt;br&gt;&lt;div id="1695080"; style="display:none;"&gt;&lt;table class=plannedworkTableStyle  border=1 cellspacing=1 cellpadding=3 rules=rows frame=hsides&gt;&lt;tr bgcolor=#FAF8CC&gt;&lt;td&gt;&lt;b&gt;Station&lt;/b&gt;&lt;/td&gt;&lt;td&gt;[SB] &lt;b&gt;Shuttle Bus Stop&lt;/b&gt;&lt;tr&gt;&lt;td rowspan=2&gt;Euclid Av  [ad]  [A] [C]&lt;td&gt; Pitkin Av at Euclid Av (&lt;i&gt;local&lt;/i&gt;)&lt;tr&gt;&lt;td&gt;Euclid Av at Pitkin Av (&lt;i&gt;express&lt;/i&gt;) &lt;tr&gt;&lt;td rowspan=2&gt;Grant Av&lt;td&gt;Pitkin Av at Eldert Ln (to Howard Beach)&lt;tr&gt;&lt;td&gt;Grant Av at Pitkin Av (to Euclid Av)&lt;tr&gt;&lt;td&gt;80 St&lt;td&gt;Liberty Av at 80 St&lt;tr&gt;&lt;td&gt;88 St&lt;td&gt;Liberty Av at 88 St&lt;tr&gt;&lt;td rowspan=3&gt;Rockaway Blvd&lt;td&gt;Liberty Av at 97 St&lt;tr&gt;&lt;td&gt;93 St at Liberty Av (to Howard Beach)&lt;tr&gt;&lt;td&gt;Liberty Av at 94 St (to Euclid Av)&lt;tr&gt;&lt;td&gt;104 St&lt;td&gt;Liberty Av at 104 St&lt;tr&gt;&lt;td&gt;111 St&lt;td&gt;Liberty Av at 111 St&lt;tr&gt;&lt;td rowspan=2&gt;Lefferts Blvd&lt;td&gt;Lefferts Blvd at Liberty Av (to Howard Beach)&lt;tr&gt;&lt;td&gt;Liberty Av at 118 St (to Euclid Av)&lt;tr&gt;&lt;td&gt;Aqueduct Racetrack&lt;td&gt;Aqueduct Rd at pedestrian bridge&lt;tr&gt;&lt;td rowspan=2&gt;Aqueduct-North Conduit Av&lt;td&gt;Aqueduct Rd at station entrance (&lt;i&gt;local&lt;/i&gt;)&lt;tr&gt;&lt;td&gt;North Conduit Av at station entrance (&lt;i&gt;express&lt;/i&gt;)&lt;tr&gt;&lt;td&gt;Howard Beach-JFK  [ad]  [A]  &lt;td&gt;Long Term Parking Lot (&lt;i&gt;local/express&lt;/i&gt;)&lt;/table&gt;&lt;/div&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Note:&lt;/b&gt; At Howard Beach-JFK, [A] trains board at the Manhattan-bound platform.&lt;br&gt;&lt;br&gt;&lt;b&gt;&lt;i&gt;Alternate travel note: &lt;br&gt;&lt;/b&gt;&lt;/i&gt;For JFK Airport, transfer to the [J] at Broadway Junction. Take the [J] to Sutphin Blvd/Archer Av where &lt;a href=http://www.panynj.gov/airports/jfk-airtrain.html target=_blank&gt;&lt;font color=#0000FF&gt;&lt;b&gt;&lt;u&gt;AirTrain&lt;/u&gt;&lt;/b&gt;&lt;/font&gt;&lt;/a&gt; service is available.&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
-                &lt;br/&gt;&lt;br/&gt;
-              
-                    &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
-                    &lt;br/&gt;
-                  &lt;a class="plannedWorkDetailLink" onclick=ShowHide(172115);&gt;&lt;b&gt;&lt;i&gt;PRIORITY REPAIRS&lt;/i&gt;&lt;BR CLEAR=LEFT&gt;[A] Inwood-bound trains skip Spring St, 23 St and 50 St&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 172115 class="plannedWorkDetail" &gt;&lt;/b&gt;&lt;a href=http://advisory.mtanyct.info/pdf_files/NightMap.pdf target=_blank&gt;&lt;font color=#0000FF&gt;&lt;b&gt;&lt;u&gt;Late Nights&lt;/u&gt;&lt;/b&gt;&lt;/font&gt;&lt;/a&gt;, 11 PM Fri to 5 AM Mon, Nov 3 - 6&lt;br&gt;&lt;br&gt;&lt;/font&gt;For service &lt;i&gt;to&lt;/i&gt; these stations, take the &lt;b&gt;[A]&lt;/b&gt; to W 4 St, 34 St-Penn Station&lt;br&gt;or 59 St-Columbus Circle and transfer to a downtown &lt;b&gt;[A]&lt;/b&gt; &lt;i&gt;local&lt;/i&gt;.&lt;br&gt;&lt;br&gt;For service &lt;i&gt;from&lt;/i&gt; these stations, take the &lt;b&gt;[A] &lt;/b&gt;or &lt;b&gt;[E] &lt;/b&gt; to 42 St-Port Authority, 14 St or Canal St &lt;br&gt;and transfer to an Inwood-bound &lt;b&gt;[A]&lt;/b&gt;.&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
-                &lt;br/&gt;&lt;br/&gt;
-              
-                    &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
-                    &lt;br/&gt;
-                  &lt;a class="plannedWorkDetailLink" onclick=ShowHide(169509);&gt;&lt;b&gt;&lt;i&gt;TRACK MAINTENANCE&lt;/i&gt;&lt;br clear=left&gt;[A] Inwood-bound trains skip Shepherd Av, Van Siclen Av and Liberty Av&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 169509 class="plannedWorkDetail" &gt;&lt;/b&gt;&lt;a href=http://advisory.mtanyct.info/pdf_files/NightMap.pdf target=_blank&gt;&lt;font color=#0000FF&gt;&lt;b&gt;&lt;u&gt;Late Nights&lt;/u&gt;&lt;/b&gt;&lt;/font&gt;&lt;/a&gt;, 11:45 PM Fri to 5 AM Mon, Nov 3 - 6&lt;br&gt;&lt;br&gt;For service &lt;i&gt;to &lt;/i&gt;these stations, take the [A] to Broadway Junction and transfer to a Euclid Av-bound* [A].&lt;br&gt;&lt;br&gt;For service &lt;i&gt;from &lt;/i&gt;these stations, take the [A] to Euclid Av and transfer to an Inwood-bound [A].&lt;br&gt;&lt;br&gt;&lt;i&gt;*No [A] trains between Euclid Av and Lefferts Blvd/Howard Beach during this time.&lt;br&gt;&lt;/i&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>11/06/2017</Date>
-    <Time> 4:52AM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>BDFM</name>
-    <status>PLANNED WORK</status>
-    <text>
-                    &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
-                    &lt;br/&gt;
-                  &lt;a class="plannedWorkDetailLink" onclick=ShowHide(169492);&gt;&lt;b&gt;&lt;i&gt;COMMUNICATION IMPROVEMENTS&lt;/i&gt;&lt;br clear=left&gt;[F] Jamaica-bound trains run local from 21 St-Queensbridge to Roosevelt Av&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 169492 class="plannedWorkDetail" &gt;&lt;/b&gt;Weekend, 10 PM Fri to 5 AM Mon, Nov 3 - 6&lt;br&gt;&lt;br&gt;&lt;/font&gt;Trains stop at 36 St, Steinway St, 46 St, Northern Blvd and 65 St.&lt;br&gt;&lt;br&gt;&amp;bull; Please allow additional travel time.&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
-                &lt;br/&gt;&lt;br/&gt;
-              
-                    &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
-                    &lt;br/&gt;
-                  &lt;a class="plannedWorkDetailLink" onclick=ShowHide(169435);&gt;&lt;b&gt;&lt;i&gt;SIGNAL IMPROVEMENTS&lt;/i&gt;&lt;br clear=left&gt;[F] Coney Island-bound trains skip Sutphin Blvd, Briarwood and 75 Av&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 169435 class="plannedWorkDetail" &gt;&lt;/b&gt;Weekend, 9:45 PM Fri to 5 AM Mon, Nov 3 - 6 &lt;br&gt;&lt;br&gt;For service &lt;i&gt;to &lt;/i&gt;&lt;b&gt;Sutphin Blvd&lt;/b&gt;, take the [F] to Union Tpke and transfer to a Jamaica-bound [F].&lt;br&gt;&lt;br&gt;For service &lt;i&gt;to &lt;/i&gt;&lt;b&gt;Briarwood&lt;/b&gt; and &lt;b&gt;75 Av&lt;/b&gt;, take the [F] to Union Tpke or 71 Av&lt;br&gt;and transfer to a Jamaica Center-bound [E] or Jamaica-bound [F].&lt;br&gt;&lt;br&gt;For service &lt;i&gt;from &lt;/i&gt;&lt;b&gt;Sutphin Blvd&lt;/b&gt; and &lt;b&gt;Briarwood&lt;/b&gt;, take the [F] to Parsons Blvd&lt;br&gt;and transfer to a Coney Island-bound [F].&lt;br&gt;&lt;br&gt;For service &lt;i&gt;from &lt;/i&gt;&lt;b&gt;75 Av&lt;/b&gt;, take the [E] or [F] to Union Tpke and transfer to a&lt;br&gt;Coney Island-bound [F].&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
-                &lt;br/&gt;&lt;br/&gt;
-              
-                    &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
-                    &lt;br/&gt;
-                  &lt;a class="plannedWorkDetailLink" onclick=ShowHide(169429);&gt;&lt;b&gt;&lt;i&gt;TRACK MAINTENANCE&lt;/i&gt;&lt;br clear=left&gt;[D] Coney Island-bound trains skip 182-183 Sts&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 169429 class="plannedWorkDetail" &gt;&lt;/b&gt;Weekend, 11:45 PM Fri to 5 AM Mon, Nov 3 - 6&lt;br&gt;&lt;br&gt;For service &lt;i&gt;to&lt;/i&gt; this station, take the [D] to Tremont Av and transfer to a Norwood-bound [D].&lt;br&gt;&lt;br&gt;For service &lt;i&gt;from&lt;/i&gt; this station, take the [D] to Fordham Rd and transfer to a Coney Island-bound [D].&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>11/06/2017</Date>
-    <Time> 4:52AM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>G</name>
@@ -140,15 +50,10 @@
   </line>
   <line>
     <name>L</name>
-    <status>PLANNED WORK</status>
-    <text>
-                    &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
-                    &lt;br/&gt;
-                  &lt;a class="plannedWorkDetailLink" onclick=ShowHide(172265);&gt;&lt;b&gt;&lt;i&gt;PRIORITY REPAIRS&lt;/i&gt;&lt;BR CLEAR=LEFT&gt;[L] No trains between 14 St-Union Sq and 8 Av&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 172265 class="plannedWorkDetail" &gt;M14 buses provide alternate service&lt;br&gt;&lt;/b&gt;Weekend, 9:45 PM Fri to 5 AM Mon, &lt;/font&gt;Nov 3 - 6&lt;br&gt;&lt;br&gt;&lt;b&gt;[L]&lt;/b&gt; service operates between &lt;b&gt;14 St-Union Sq&lt;/b&gt; and &lt;b&gt;Rockaway Pkwy&lt;/b&gt;.&lt;br&gt;&lt;br&gt;&lt;a href=http://web.mta.info/nyct/bus/schedule/manh/m014cur.pdf target=_blank&gt;&lt;font color=#0000FF&gt;&lt;b&gt;&lt;u&gt;M14&lt;/u&gt;&lt;/b&gt;&lt;/font&gt;&lt;/a&gt; buses make all &lt;b&gt;[L]&lt;/b&gt; stops between &lt;b&gt;14 St-Union Sq&lt;/b&gt; and &lt;b&gt;8 Av&lt;/b&gt;.&lt;br&gt;&lt;br&gt;&amp;bull; Transfer between &lt;b&gt;[L]&lt;/b&gt; trains and &lt;b&gt;M14&lt;/b&gt; buses at &lt;b&gt;14 St-Union Sq&lt;/b&gt;.&lt;br&gt;&amp;bull; Use transfer ticket for connections between &lt;b&gt;M14&lt;/b&gt; buses and &lt;b&gt;[A] [C]&lt;/b&gt; trains&lt;br&gt;  at&lt;b&gt; 8 Av-14 St&lt;/b&gt; or &lt;b&gt;[F]&lt;/b&gt; trains at &lt;b&gt;6 Av-14 St&lt;/b&gt;.&lt;br&gt;&lt;br&gt;&lt;b&gt;Note:&lt;/b&gt; Additional overnight &lt;b&gt;M14&lt;/b&gt; bus service will be provided between 8 Av and 1 Av. &lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>11/06/2017</Date>
-    <Time> 4:52AM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>NQR</name>
@@ -174,7 +79,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>11/06/2017</Date>
-    <Time> 4:52AM</Time>
+    <Time> 5:02AM</Time>
   </line>
 </subway><bus>
   <line>
@@ -188,7 +93,7 @@
               &lt;br/&gt;
             </text>
     <Date>11/06/2017</Date>
-    <Time> 4:52AM</Time>
+    <Time> 5:02AM</Time>
   </line>
   <line>
     <name>B100 - B103</name>
@@ -215,7 +120,7 @@
               &lt;br/&gt;
             </text>
     <Date>11/06/2017</Date>
-    <Time> 4:52AM</Time>
+    <Time> 5:02AM</Time>
   </line>
   <line>
     <name>BXM1 - BXM18</name>
@@ -247,7 +152,7 @@
               &lt;br/&gt;
             </text>
     <Date>11/06/2017</Date>
-    <Time> 4:52AM</Time>
+    <Time> 5:02AM</Time>
   </line>
   <line>
     <name>Q1 - Q113</name>
@@ -298,7 +203,7 @@
               &lt;br/&gt;
             </text>
     <Date>11/06/2017</Date>
-    <Time> 4:52AM</Time>
+    <Time> 5:02AM</Time>
   </line>
   <line>
     <name>S40 - S98</name>
@@ -309,9 +214,15 @@
                 &lt;a class="plannedWorkDetailLink" onclick=ShowHide(169867);&gt;&lt;b&gt;S53, S57, S59 and S66 buses rerouted from Pt Richmond Av between New St and Richmond Terr&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 169867 class="plannedWorkDetail" &gt;&lt;/b&gt;Until further notice&lt;br&gt;&lt;br&gt;Due to construction, please follow directional signage to the nearby temporary stop &lt;b&gt;on Richmond Terr &lt;/b&gt;at Park Av.&lt;br&gt;&lt;br&gt;Buses make corresponding stops along the detoured route.&lt;br&gt;&lt;br&gt;&lt;b&gt;&lt;i&gt;&lt;a style="cursor:pointer; text-decoration:underline;" onclick=ShowHide(1698670);&gt;Show Reroute Details&lt;/a&gt;&lt;/i&gt;&lt;/b&gt;&lt;br&gt;&lt;div id="1698670"; style="display:none;"&gt;&lt;b&gt;Northbound&lt;br&gt;&lt;/b&gt;Via Pt Richmond Av&lt;br&gt;Right on New St&lt;br&gt;Left on Heberton Av&lt;br&gt;Left on Richmond Terr&lt;br&gt;Left on Park Av&lt;br&gt;Right on Church St then take stand&lt;br&gt;&lt;br&gt;&lt;b&gt;Southbound&lt;br&gt;&lt;/b&gt;From temporary stand&lt;br&gt;Left on Pt Richmond Av then regular route&lt;/div&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Reminder&lt;/b&gt;: &lt;a href=http://web.mta.info/nyct/bus/schedule/staten/s057cur.pdf target=_blank&gt;&lt;font color=#0000FF&gt;&lt;b&gt;&lt;u&gt;S57&lt;/u&gt;&lt;/b&gt;&lt;/font&gt;&lt;/a&gt;, &lt;a href=http://web.mta.info/nyct/bus/schedule/staten/s059cur.pdf target=_blank&gt;&lt;font color=#0000FF&gt;&lt;b&gt;&lt;u&gt;S59&lt;/u&gt;&lt;/b&gt;&lt;/font&gt;&lt;/a&gt; and &lt;a href=http://web.mta.info/nyct/bus/schedule/staten/s066cur.pdf target=_blank&gt;&lt;font color=#0000FF&gt;&lt;b&gt;&lt;u&gt;S66&lt;/u&gt;&lt;/b&gt;&lt;/font&gt;&lt;/a&gt; buses do not operate all times.&lt;br&gt;&lt;b&gt;                              [TP]&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
               &lt;br/&gt;
               &lt;br/&gt;
+            
+                  &lt;span class="TitlePlannedWork" &gt;Planned Detour&lt;/span&gt;
+                  &lt;br/&gt;
+                &lt;a class="plannedWorkDetailLink" onclick=ShowHide(169864);&gt;&lt;b&gt;S40 and S90 &lt;/b&gt;LTD &lt;b&gt;buses rerouted from Richmond Terr between Nicholas Av and Heberton Av&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 169864 class="plannedWorkDetail" &gt;&lt;/b&gt;5 AM to 9 PM, daily, until further notice&lt;br&gt;&lt;br&gt;Due to construction, buses make corresponding stops along the detoured route in both directions.&lt;br&gt;&lt;br&gt;&lt;b&gt;&lt;i&gt;&lt;a style="cursor:pointer; text-decoration:underline;" onclick=ShowHide(1698640);&gt;Show Reroute Details&lt;/a&gt;&lt;/i&gt;&lt;/b&gt;&lt;br&gt;&lt;div id="1698640"; style="display:none;"&gt;&lt;b&gt;Eastbound&lt;br&gt;&lt;/b&gt;Via Richmond Terr&lt;br&gt;Right on Nicholas Av&lt;br&gt;Left on Castleton Av&lt;br&gt;Left on Heberton Av&lt;br&gt;Right on Richmond Terr then regular route&lt;br&gt;&lt;br&gt;&lt;b&gt;Westbound&lt;br&gt;&lt;/b&gt;Via Richmond Terr&lt;br&gt;Left on Park Av&lt;br&gt;Right on Church St&lt;br&gt;Left on Pt Richmond Av&lt;br&gt;Right on Castleton Av&lt;br&gt;Right on Nicholas Av&lt;br&gt;Left on Richmond Terr then regular route&lt;/div&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Reminder&lt;/b&gt;: &lt;a href=http://web.mta.info/nyct/bus/schedule/staten/s040cur.pdf target=_blank&gt;&lt;font color=#0000FF&gt;&lt;b&gt;&lt;u&gt;S90 LTD&lt;/b&gt;&lt;/u&gt;&lt;/font&gt;&lt;/a&gt; buses do not operate weekends.&lt;br&gt;&lt;b&gt;                              [TP]&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
             </text>
     <Date>11/06/2017</Date>
-    <Time> 4:52AM</Time>
+    <Time> 5:02AM</Time>
   </line>
   <line>
     <name>x1 - x68</name>
@@ -408,17 +319,10 @@
 </BT><LIRR>
   <line>
     <name>Babylon</name>
-    <status>DELAYS</status>
-    <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;11/06/2017&amp;nbsp; 4:10AM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  &lt;font face="sans-serif"&gt;&lt;span style="font-size: 13.3333px;"&gt;The 3:35AM train from Babylon due Penn at 4:49AM is operating 14 minutes late due to trackwork. &lt;/span&gt;&lt;/font&gt;
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>11/06/2017</Date>
-    <Time> 4:10AM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>City Terminal Zone</name>
