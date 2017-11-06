@@ -1,17 +1,31 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>DELAYS</status>
+    <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;11/06/2017&amp;nbsp; 6:53AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  [2] and [5] service has resumed with delays following an earlier incident involving an NYPD investigation at &lt;STRONG&gt;Simpson St&lt;/STRONG&gt;.
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>11/06/2017</Date>
+    <Time> 6:53AM</Time>
   </line>
   <line>
     <name>456</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>DELAYS</status>
+    <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;11/06/2017&amp;nbsp; 6:53AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  [2] and [5] service has resumed with delays following an earlier incident involving an NYPD investigation at &lt;STRONG&gt;Simpson St&lt;/STRONG&gt;.
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>11/06/2017</Date>
+    <Time> 6:53AM</Time>
   </line>
   <line>
     <name>7</name>
@@ -22,45 +36,31 @@
   </line>
   <line>
     <name>ACE</name>
-    <status>SERVICE CHANGE</status>
+    <status>DELAYS</status>
     <text>
-                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;11/06/2017&amp;nbsp; 6:43AM
+                    &amp;nbsp;Posted:&amp;nbsp;11/06/2017&amp;nbsp; 6:54AM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  &lt;P&gt;There is limited southbound [F] train service from &lt;STRONG&gt;Jamaica-179 St.&lt;/STRONG&gt;&lt;/P&gt;
-&lt;P&gt;Some northbound [F] trains end at &lt;STRONG&gt;Forest Hills-71 Av&lt;/STRONG&gt;.&lt;/P&gt;
-&lt;P&gt;Some northbound [F] trains are stopping along the [E] line from &lt;STRONG&gt;Forest Hills-71 Av&lt;/STRONG&gt; to &lt;STRONG&gt;Jamaica Center-Parsons/Archer.&lt;/STRONG&gt;&lt;/P&gt;
-&lt;P&gt;Expect delays on [E], [F] and [R] trains service in both directions.&lt;/P&gt;
-&lt;P&gt;These service changes are because of a passenger struck by a train at &lt;STRONG&gt;Sutphin Blvd&lt;/STRONG&gt;.&lt;/P&gt;
-&lt;P&gt;As an alternative, customer can use the &lt;STRONG&gt;Q60 &lt;/STRONG&gt;bus for service between&lt;STRONG&gt; Forest Hills-71 Av&lt;/STRONG&gt; and &lt;STRONG&gt;Sutphin Blvd&lt;/STRONG&gt; and the &lt;STRONG&gt;Q43&lt;/STRONG&gt; bus for service between &lt;STRONG&gt;Sutphin Blvd&lt;/STRONG&gt; and &lt;STRONG&gt;Jamaica-179 St&lt;/STRONG&gt;.&lt;/P&gt;
-&lt;P&gt;LIRR is accommodating NYCT customers at no additional charge at Jamaica station.&lt;/P&gt;
-&lt;P&gt;Our crews are scene  working to restore service ASAP. Stay tuned for updates.&lt;/P&gt;
+                  [E] [F] and [R] train service has resumed with delays following an earlier customer injury at &lt;STRONG&gt;Sutphin Blvd.&lt;/STRONG&gt;
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>11/06/2017</Date>
-    <Time> 6:43AM</Time>
+    <Time> 6:54AM</Time>
   </line>
   <line>
     <name>BDFM</name>
-    <status>SERVICE CHANGE</status>
+    <status>DELAYS</status>
     <text>
-                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;11/06/2017&amp;nbsp; 6:43AM
+                    &amp;nbsp;Posted:&amp;nbsp;11/06/2017&amp;nbsp; 6:54AM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  &lt;P&gt;There is limited southbound [F] train service from &lt;STRONG&gt;Jamaica-179 St.&lt;/STRONG&gt;&lt;/P&gt;
-&lt;P&gt;Some northbound [F] trains end at &lt;STRONG&gt;Forest Hills-71 Av&lt;/STRONG&gt;.&lt;/P&gt;
-&lt;P&gt;Some northbound [F] trains are stopping along the [E] line from &lt;STRONG&gt;Forest Hills-71 Av&lt;/STRONG&gt; to &lt;STRONG&gt;Jamaica Center-Parsons/Archer.&lt;/STRONG&gt;&lt;/P&gt;
-&lt;P&gt;Expect delays on [E], [F] and [R] trains service in both directions.&lt;/P&gt;
-&lt;P&gt;These service changes are because of a passenger struck by a train at &lt;STRONG&gt;Sutphin Blvd&lt;/STRONG&gt;.&lt;/P&gt;
-&lt;P&gt;As an alternative, customer can use the &lt;STRONG&gt;Q60 &lt;/STRONG&gt;bus for service between&lt;STRONG&gt; Forest Hills-71 Av&lt;/STRONG&gt; and &lt;STRONG&gt;Sutphin Blvd&lt;/STRONG&gt; and the &lt;STRONG&gt;Q43&lt;/STRONG&gt; bus for service between &lt;STRONG&gt;Sutphin Blvd&lt;/STRONG&gt; and &lt;STRONG&gt;Jamaica-179 St&lt;/STRONG&gt;.&lt;/P&gt;
-&lt;P&gt;LIRR is accommodating NYCT customers at no additional charge at Jamaica station.&lt;/P&gt;
-&lt;P&gt;Our crews are scene  working to restore service ASAP. Stay tuned for updates.&lt;/P&gt;
+                  [E] [F] and [R] train service has resumed with delays following an earlier customer injury at &lt;STRONG&gt;Sutphin Blvd.&lt;/STRONG&gt;
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>11/06/2017</Date>
-    <Time> 6:43AM</Time>
+    <Time> 6:54AM</Time>
   </line>
   <line>
     <name>G</name>
@@ -85,24 +85,17 @@
   </line>
   <line>
     <name>NQR</name>
-    <status>SERVICE CHANGE</status>
+    <status>DELAYS</status>
     <text>
-                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;11/06/2017&amp;nbsp; 6:43AM
+                    &amp;nbsp;Posted:&amp;nbsp;11/06/2017&amp;nbsp; 6:54AM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  &lt;P&gt;There is limited southbound [F] train service from &lt;STRONG&gt;Jamaica-179 St.&lt;/STRONG&gt;&lt;/P&gt;
-&lt;P&gt;Some northbound [F] trains end at &lt;STRONG&gt;Forest Hills-71 Av&lt;/STRONG&gt;.&lt;/P&gt;
-&lt;P&gt;Some northbound [F] trains are stopping along the [E] line from &lt;STRONG&gt;Forest Hills-71 Av&lt;/STRONG&gt; to &lt;STRONG&gt;Jamaica Center-Parsons/Archer.&lt;/STRONG&gt;&lt;/P&gt;
-&lt;P&gt;Expect delays on [E], [F] and [R] trains service in both directions.&lt;/P&gt;
-&lt;P&gt;These service changes are because of a passenger struck by a train at &lt;STRONG&gt;Sutphin Blvd&lt;/STRONG&gt;.&lt;/P&gt;
-&lt;P&gt;As an alternative, customer can use the &lt;STRONG&gt;Q60 &lt;/STRONG&gt;bus for service between&lt;STRONG&gt; Forest Hills-71 Av&lt;/STRONG&gt; and &lt;STRONG&gt;Sutphin Blvd&lt;/STRONG&gt; and the &lt;STRONG&gt;Q43&lt;/STRONG&gt; bus for service between &lt;STRONG&gt;Sutphin Blvd&lt;/STRONG&gt; and &lt;STRONG&gt;Jamaica-179 St&lt;/STRONG&gt;.&lt;/P&gt;
-&lt;P&gt;LIRR is accommodating NYCT customers at no additional charge at Jamaica station.&lt;/P&gt;
-&lt;P&gt;Our crews are scene  working to restore service ASAP. Stay tuned for updates.&lt;/P&gt;
+                  [E] [F] and [R] train service has resumed with delays following an earlier customer injury at &lt;STRONG&gt;Sutphin Blvd.&lt;/STRONG&gt;
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>11/06/2017</Date>
-    <Time> 6:43AM</Time>
+    <Time> 6:54AM</Time>
   </line>
   <line>
     <name>S</name>
@@ -121,7 +114,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>11/06/2017</Date>
-    <Time> 6:48AM</Time>
+    <Time> 6:52AM</Time>
   </line>
 </subway><bus>
   <line>
@@ -135,7 +128,7 @@
               &lt;br/&gt;
             </text>
     <Date>11/06/2017</Date>
-    <Time> 6:48AM</Time>
+    <Time> 6:52AM</Time>
   </line>
   <line>
     <name>B100 - B103</name>
@@ -162,7 +155,7 @@
               &lt;br/&gt;
             </text>
     <Date>11/06/2017</Date>
-    <Time> 6:48AM</Time>
+    <Time> 6:52AM</Time>
   </line>
   <line>
     <name>BXM1 - BXM18</name>
@@ -194,7 +187,7 @@
               &lt;br/&gt;
             </text>
     <Date>11/06/2017</Date>
-    <Time> 6:48AM</Time>
+    <Time> 6:52AM</Time>
   </line>
   <line>
     <name>Q1 - Q113</name>
@@ -257,7 +250,7 @@
               &lt;br/&gt;
             </text>
     <Date>11/06/2017</Date>
-    <Time> 6:48AM</Time>
+    <Time> 6:52AM</Time>
   </line>
   <line>
     <name>S40 - S98</name>
@@ -276,7 +269,7 @@
               &lt;br/&gt;
             </text>
     <Date>11/06/2017</Date>
-    <Time> 6:48AM</Time>
+    <Time> 6:52AM</Time>
   </line>
   <line>
     <name>x1 - x68</name>
