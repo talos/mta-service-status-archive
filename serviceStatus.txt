@@ -29,10 +29,17 @@
   </line>
   <line>
     <name>BDFM</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>DELAYS</status>
+    <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;11/06/2017&amp;nbsp; 5:14AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  Northbound [F] trains are running with delays because of a person struck by a train at &lt;STRONG&gt;Sutphin Blvd&lt;/STRONG&gt;.
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>11/06/2017</Date>
+    <Time> 5:14AM</Time>
   </line>
   <line>
     <name>G</name>
@@ -79,7 +86,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>11/06/2017</Date>
-    <Time> 5:08AM</Time>
+    <Time> 5:12AM</Time>
   </line>
 </subway><bus>
   <line>
@@ -93,7 +100,7 @@
               &lt;br/&gt;
             </text>
     <Date>11/06/2017</Date>
-    <Time> 5:08AM</Time>
+    <Time> 5:12AM</Time>
   </line>
   <line>
     <name>B100 - B103</name>
@@ -166,7 +173,7 @@
               &lt;br/&gt;
             </text>
     <Date>11/06/2017</Date>
-    <Time> 5:08AM</Time>
+    <Time> 5:12AM</Time>
   </line>
   <line>
     <name>Q1 - Q113</name>
@@ -217,7 +224,7 @@
               &lt;br/&gt;
             </text>
     <Date>11/06/2017</Date>
-    <Time> 5:08AM</Time>
+    <Time> 5:12AM</Time>
   </line>
   <line>
     <name>S40 - S98</name>
@@ -236,7 +243,7 @@
               &lt;br/&gt;
             </text>
     <Date>11/06/2017</Date>
-    <Time> 5:08AM</Time>
+    <Time> 5:12AM</Time>
   </line>
   <line>
     <name>x1 - x68</name>
@@ -382,17 +389,10 @@
   </line>
   <line>
     <name>Port Jefferson</name>
-    <status>DELAYS</status>
-    <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;11/06/2017&amp;nbsp; 4:34AM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  &lt;font face="sans-serif"&gt;&lt;span style="font-size: 13.3333px;"&gt;The 4:18AM train from Port Jefferson due Huntington at 5:02AM is operating 11 minutes late due to earlier police activity at Port Jefferson. &lt;/span&gt;&lt;/font&gt;
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>11/06/2017</Date>
-    <Time> 4:34AM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>Port Washington</name>
