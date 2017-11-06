@@ -455,10 +455,17 @@
   </line>
   <line>
     <name>Throgs Neck</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>DELAYS</status>
+    <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;11/05/2017&amp;nbsp; 7:40PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;body bgcolor='White' style='font-family:sans-serif;font-size:10pt;'&gt;TNB: VEHICLE COLLISION: QUEENS BOUND. ONE LANE BLOCKED&lt;/body&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>11/05/2017</Date>
+    <Time> 7:40PM</Time>
   </line>
   <line>
     <name>Verrazano-Narrows</name>
@@ -556,19 +563,10 @@ minutes late due to earlier equipment trouble prior to departure.
   </line>
   <line>
     <name>Port Jefferson</name>
-    <status>DELAYS</status>
-    <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;11/05/2017&amp;nbsp; 7:12PM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  The 6:21PM train from Penn due Huntington at 7:28PM is operating 18 
-minutes late following the removal of an unauthorized car that was on 
-the tracks near Bethpage.
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>11/05/2017</Date>
-    <Time> 7:12PM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>Port Washington</name>
