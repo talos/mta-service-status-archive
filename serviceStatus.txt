@@ -1,8 +1,15 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>PLANNED WORK</status>
+    <status>DELAYS</status>
     <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;11/05/2017&amp;nbsp; 6:59PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  Northbound [2] and [3] trains are running with delays because of signal problems at &lt;STRONG&gt;96 St.&lt;/STRONG&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              
                     &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
                     &lt;br/&gt;
                   &lt;a class="plannedWorkDetailLink" onclick=ShowHide(168255);&gt;&lt;b&gt;&lt;i&gt;TRACK MAINTENANCE&lt;/i&gt;&lt;br clear=left&gt;[3] Downtown trains run local from 96 St to Times Sq-42 St&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 168255 class="plannedWorkDetail" &gt;&lt;/b&gt;Weekend, 12:01 AM Sat to 5 AM Mon, Nov 4 - 6&lt;br&gt;&lt;br&gt;&amp;bull; Please allow additional travel time.&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
@@ -29,7 +36,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>11/05/2017</Date>
-    <Time> 6:52PM</Time>
+    <Time> 6:59PM</Time>
   </line>
   <line>
     <name>456</name>
@@ -778,6 +785,15 @@ Bethpage.
     <text>
                     &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;11/05/2017&amp;nbsp; 6:58PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  The 5:40PM train from Ronkonkoma due Penn at 7:01PM is operating 51 
+minutes late following the removal of an unauthorized car that was on 
+the tracks near Bethpage.
+                &lt;br/&gt;&lt;br/&gt;
+              
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
                     &amp;nbsp;Posted:&amp;nbsp;11/05/2017&amp;nbsp; 6:54PM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
                   The 6:09PM train from Penn due Ronkonkoma at 7:32PM is operating 19 
@@ -802,18 +818,9 @@ the tracks near Bethpage.
 delays following the removal of an unauthorized car that was on the 
 tracks near Bethpage.
                 &lt;br/&gt;&lt;br/&gt;
-              
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;11/05/2017&amp;nbsp; 6:27PM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  The 5:40PM train from Ronkonkoma due Penn at 7:01PM is being held at 
-Deer Park Station due to an unauthorized vehicle on the tracks near 
-Bethpage.
-                &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>11/05/2017</Date>
-    <Time> 6:54PM</Time>
+    <Time> 6:58PM</Time>
   </line>
   <line>
     <name>West Hempstead</name>
