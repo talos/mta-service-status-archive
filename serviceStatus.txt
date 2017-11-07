@@ -71,17 +71,10 @@
   </line>
   <line>
     <name>JZ</name>
-    <status>DELAYS</status>
-    <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;11/07/2017&amp;nbsp; 6:14PM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  [J] and [Z] service has resumed following an earlier incident involving a train with mechanical problems at &lt;STRONG&gt;Sutphin Blvd-Archer Av&lt;/STRONG&gt;.
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>11/07/2017</Date>
-    <Time> 6:14PM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>L</name>
@@ -114,7 +107,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>11/07/2017</Date>
-    <Time> 6:28PM</Time>
+    <Time> 6:32PM</Time>
   </line>
 </subway><bus>
   <line>
@@ -283,7 +276,7 @@
               &lt;br/&gt;
             </text>
     <Date>11/07/2017</Date>
-    <Time> 6:28PM</Time>
+    <Time> 6:32PM</Time>
   </line>
   <line>
     <name>BXM1 - BXM18</name>
@@ -656,10 +649,17 @@
 </BT><LIRR>
   <line>
     <name>Babylon</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>DELAYS</status>
+    <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;11/07/2017&amp;nbsp; 6:31PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  The 6:33PM train from Penn due Babylon at 7:35PM is canceled this evening. Customers will be accommodated by the 6:36PM train from Penn due Wantagh at 7:29PM with stops at Jamaica, St. Albans, Rockville Centre, and all further stops to Babylon.
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>11/07/2017</Date>
+    <Time> 6:31PM</Time>
   </line>
   <line>
     <name>City Terminal Zone</name>
