@@ -60,17 +60,17 @@
     <text>
                     &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;11/08/2017&amp;nbsp;12:01PM
+                    &amp;nbsp;Posted:&amp;nbsp;11/08/2017&amp;nbsp;12:06PM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  Northbound [D] trains are running express from &lt;STRONG&gt;167 St&lt;/STRONG&gt; to &lt;STRONG&gt;182-183 Sts&lt;/STRONG&gt; because of a train with mechanical problems at &lt;STRONG&gt;Tremont Av.&lt;/STRONG&gt;
+                  &lt;P&gt;Some southbound [B] trains are stopping along the [D] line from &lt;STRONG&gt;Atlantic Av-Barclays Ctr&lt;/STRONG&gt; to &lt;STRONG&gt;9 Av&lt;/STRONG&gt; because of track maintenance along the [B] and [Q] lines.&lt;/P&gt;
+&lt;P&gt;Expect delays in [B], [D] and [Q] train service. &lt;/P&gt;
                 &lt;br/&gt;&lt;br/&gt;
               
                     &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;11/08/2017&amp;nbsp;11:41AM
+                    &amp;nbsp;Posted:&amp;nbsp;11/08/2017&amp;nbsp;12:01PM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  &lt;P&gt;Some southbound [B] trains are stopping along the [D] line from &lt;STRONG&gt;Atlantic Av-Barclays Ctr&lt;/STRONG&gt; to &lt;STRONG&gt;9 Av&lt;/STRONG&gt; because of track maintenance along the [B] and [Q] lines.&lt;/P&gt;
-&lt;P&gt;Expect delays in [B], [D] and [Q] train service. &lt;/P&gt;
+                  Northbound [D] trains are running express from &lt;STRONG&gt;167 St&lt;/STRONG&gt; to &lt;STRONG&gt;182-183 Sts&lt;/STRONG&gt; because of a train with mechanical problems at &lt;STRONG&gt;Tremont Av.&lt;/STRONG&gt;
                 &lt;br/&gt;&lt;br/&gt;
               
                     &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
@@ -79,7 +79,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>11/08/2017</Date>
-    <Time>12:01PM</Time>
+    <Time>12:06PM</Time>
   </line>
   <line>
     <name>G</name>
@@ -113,7 +113,7 @@
     <text>
                     &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;11/08/2017&amp;nbsp;11:41AM
+                    &amp;nbsp;Posted:&amp;nbsp;11/08/2017&amp;nbsp;12:06PM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
                   &lt;P&gt;Some southbound [B] trains are stopping along the [D] line from &lt;STRONG&gt;Atlantic Av-Barclays Ctr&lt;/STRONG&gt; to &lt;STRONG&gt;9 Av&lt;/STRONG&gt; because of track maintenance along the [B] and [Q] lines.&lt;/P&gt;
 &lt;P&gt;Expect delays in [B], [D] and [Q] train service. &lt;/P&gt;
@@ -130,7 +130,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>11/08/2017</Date>
-    <Time>11:41AM</Time>
+    <Time>12:06PM</Time>
   </line>
   <line>
     <name>S</name>
@@ -647,17 +647,10 @@ terminate in Speonk. Customers will transfer to buses for transportation
   </line>
   <line>
     <name>Waterbury</name>
-    <status>DELAYS</status>
-    <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;11/08/2017&amp;nbsp;10:55AM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  Waterbury Branch Line Service is currently experiencing delays of 15 to 20 minutes due to a late connecting train in the vicinity of Bridgeport. Please listen for announcements at your station.
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>11/08/2017</Date>
-    <Time>10:55AM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>Pascack Valley</name>
