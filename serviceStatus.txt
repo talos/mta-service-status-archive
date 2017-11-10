@@ -1,15 +1,13 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>SERVICE CHANGE</status>
+    <status>DELAYS</status>
     <text>
-                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;11/10/2017&amp;nbsp; 2:25AM
+                    &amp;nbsp;Posted:&amp;nbsp;11/10/2017&amp;nbsp; 2:54AM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  &lt;P&gt;There is no [1] train service between &lt;STRONG&gt;Van Cortlandt Park-242 St&lt;/STRONG&gt; and &lt;STRONG&gt;168 St&lt;/STRONG&gt; in both directions.&lt;/P&gt;
-&lt;P&gt;This service change is because of a person struck by a train at &lt;STRONG&gt;191 St&lt;/STRONG&gt;. &lt;/P&gt;
-&lt;P&gt;As an alternative, customers will be provided with [SB] service to/from &lt;STRONG&gt;168 St&lt;/STRONG&gt;. &lt;/P&gt;
+                  [1] train service has resumed following an earlier incident involving a customer injury at &lt;STRONG&gt;191 St.&lt;/STRONG&gt;
                 &lt;br/&gt;&lt;br/&gt;
               
                     &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
@@ -45,7 +43,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>11/10/2017</Date>
-    <Time> 2:25AM</Time>
+    <Time> 2:54AM</Time>
   </line>
   <line>
     <name>456</name>
