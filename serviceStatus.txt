@@ -33,22 +33,23 @@
     <text>
                     &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;11/10/2017&amp;nbsp; 6:21PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;P&gt;Some southbound [D] and [N] trains are stopping along the [R] line from &lt;STRONG&gt;DeKalb Av&lt;/STRONG&gt; to&lt;STRONG&gt; 36 St&lt;/STRONG&gt; (BKLYN) because of signal problems at &lt;STRONG&gt;36 St &lt;/STRONG&gt;(BKLYN).&lt;/P&gt;
+&lt;P&gt;Expect delays on [D] [N] and [R] train service.&lt;/P&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
                     &amp;nbsp;Posted:&amp;nbsp;11/10/2017&amp;nbsp; 6:17PM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
                   &lt;P&gt;Some 71 Av bound [M] trains are stopping along the [F] line from &lt;STRONG&gt;47-50 Sts-Rockefeller Ctr&lt;/STRONG&gt; to &lt;STRONG&gt;36 St&lt;/STRONG&gt; (QNS).&lt;/P&gt;
 &lt;P&gt;Northbound [F] and [G] trains are running with delays.&lt;/P&gt;
 &lt;P&gt;This service change is because of is signal problems at &lt;STRONG&gt;Carroll St.&lt;/STRONG&gt;&lt;/P&gt;
                 &lt;br/&gt;&lt;br/&gt;
-              
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;11/10/2017&amp;nbsp; 6:11PM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  Southbound [D] trains are running with delays because of signal problems at &lt;STRONG&gt;36 St&lt;/STRONG&gt; (BKLYN).
-                &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>11/10/2017</Date>
-    <Time> 6:17PM</Time>
+    <Time> 6:21PM</Time>
   </line>
   <line>
     <name>G</name>
@@ -68,17 +69,10 @@
   </line>
   <line>
     <name>JZ</name>
-    <status>DELAYS</status>
-    <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;11/10/2017&amp;nbsp; 5:56PM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  [J] and [Z] train service has resumed following earlier loss of power at &lt;STRONG&gt;85 St-Forest Pkwy&lt;/STRONG&gt;.
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>11/10/2017</Date>
-    <Time> 5:56PM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>L</name>
@@ -89,10 +83,18 @@
   </line>
   <line>
     <name>NQR</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>SERVICE CHANGE</status>
+    <text>
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;11/10/2017&amp;nbsp; 6:21PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;P&gt;Some southbound [D] and [N] trains are stopping along the [R] line from &lt;STRONG&gt;DeKalb Av&lt;/STRONG&gt; to&lt;STRONG&gt; 36 St&lt;/STRONG&gt; (BKLYN) because of signal problems at &lt;STRONG&gt;36 St &lt;/STRONG&gt;(BKLYN).&lt;/P&gt;
+&lt;P&gt;Expect delays on [D] [N] and [R] train service.&lt;/P&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>11/10/2017</Date>
+    <Time> 6:21PM</Time>
   </line>
   <line>
     <name>S</name>
