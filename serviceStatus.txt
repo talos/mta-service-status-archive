@@ -61,13 +61,6 @@
 &lt;P&gt;Expect delays on [A] [C] and [F] train service.&lt;/P&gt;
                 &lt;br/&gt;&lt;br/&gt;
               
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;11/10/2017&amp;nbsp; 9:20PM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  [D] [N] and [R] Train service has resumed with delays following earlier signal problems at &lt;STRONG&gt;36 St&lt;/STRONG&gt; (BKLYN).
-                &lt;br/&gt;&lt;br/&gt;
-              
                     &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
                     &lt;br/&gt;
                   &lt;a class="plannedWorkDetailLink" onclick=ShowHide(172873);&gt;&lt;b&gt;&lt;i&gt;TRACK MAINTENANCE&lt;/i&gt;&lt;br clear=left&gt;[D] Trains run local in both directions between 145 St and 59 St-Columbus Circle&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 172873 class="plannedWorkDetail" &gt;&lt;/b&gt;Weekend, 10 PM Fri to 5 AM Mon, Nov 10 - 13 &lt;br&gt;&lt;br&gt;&amp;bull; Please allow additional travel time.&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
@@ -113,17 +106,10 @@
   </line>
   <line>
     <name>NQR</name>
-    <status>DELAYS</status>
-    <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;11/10/2017&amp;nbsp; 9:20PM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  [D] [N] and [R] Train service has resumed with delays following earlier signal problems at &lt;STRONG&gt;36 St&lt;/STRONG&gt; (BKLYN).
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>11/10/2017</Date>
-    <Time> 9:20PM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>S</name>
@@ -267,18 +253,8 @@
   </line>
   <line>
     <name>Q1 - Q113</name>
-    <status>DELAYS</status>
+    <status>SERVICE CHANGE</status>
     <text>
-                  &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                  &lt;span class="DateStyle"&gt;
-                  &amp;nbsp;Posted:&amp;nbsp;11/10/2017&amp;nbsp;10:06PM
-                  &lt;/span&gt;
-                  &lt;br/&gt;
-                  &lt;br/&gt;
-                &lt;STRONG&gt;Q66, QM2, QM3&lt;/STRONG&gt; and &lt;STRONG&gt;QM20 &lt;/STRONG&gt;bus service has resumed following earlier NYPD activity at Northern Blvd and the BQE.
-              &lt;br/&gt;
-              &lt;br/&gt;
-            
                   &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
                   &lt;span class="DateStyle"&gt;
                   &amp;nbsp;Posted:&amp;nbsp;11/10/2017&amp;nbsp;10:03PM
@@ -363,22 +339,12 @@
               &lt;br/&gt;
             </text>
     <Date>11/10/2017</Date>
-    <Time>10:06PM</Time>
+    <Time>10:03PM</Time>
   </line>
   <line>
     <name>QM1 - QM44</name>
-    <status>DELAYS</status>
+    <status>PLANNED WORK</status>
     <text>
-                  &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                  &lt;span class="DateStyle"&gt;
-                  &amp;nbsp;Posted:&amp;nbsp;11/10/2017&amp;nbsp;10:06PM
-                  &lt;/span&gt;
-                  &lt;br/&gt;
-                  &lt;br/&gt;
-                &lt;STRONG&gt;Q66, QM2, QM3&lt;/STRONG&gt; and &lt;STRONG&gt;QM20 &lt;/STRONG&gt;bus service has resumed following earlier NYPD activity at Northern Blvd and the BQE.
-              &lt;br/&gt;
-              &lt;br/&gt;
-            
                   &lt;span class="TitlePlannedWork" &gt;Planned Detour&lt;/span&gt;
                   &lt;br/&gt;
                 &lt;a class="plannedWorkDetailLink" onclick=ShowHide(168561);&gt;&lt;b&gt;Q64, QM4 and QM44 buses may experience delays&lt;br clear=left&gt;due to construction on the Jewel Av exit of the Van Wyck Expy&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 168561 class="plannedWorkDetail" &gt;&lt;/b&gt;Until further notice&lt;br&gt;&lt;br&gt;&amp;bull; Please allow additional travel time.&lt;br&gt;&lt;b&gt;          &lt;/b&gt;&lt;a href=http://bustime.mta.info/ target=_blank&gt;&lt;img height=30px src=http://web.mta.info/nyct/images/Bus_Time_logo.png&gt;&lt;/a&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
@@ -392,7 +358,7 @@
               &lt;br/&gt;
             </text>
     <Date>11/10/2017</Date>
-    <Time>10:06PM</Time>
+    <Time>10:12PM</Time>
   </line>
   <line>
     <name>S40 - S98</name>
