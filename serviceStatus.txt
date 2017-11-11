@@ -33,18 +33,9 @@
     <text>
                     &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;11/10/2017&amp;nbsp; 8:14PM
+                    &amp;nbsp;Posted:&amp;nbsp;11/10/2017&amp;nbsp; 8:17PM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  &lt;P&gt;Some northbound [F] trains are running express from &lt;STRONG&gt;Church Av&lt;/STRONG&gt; to &lt;STRONG&gt;Bergen St.&lt;/STRONG&gt;&lt;/P&gt;
-&lt;P&gt;Expect delays on [F] and [G] train service.&lt;/P&gt;
-&lt;P&gt;Our crews are on site trying to fix it ASAP and we'll follow up soon. Stay tuned for updates.&lt;/P&gt;
-                &lt;br/&gt;&lt;br/&gt;
-              
-                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;11/10/2017&amp;nbsp; 8:00PM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  &lt;P&gt;Some southbound [D] and [N] trains are stopping along the [R] line from &lt;STRONG&gt;DeKalb Av&lt;/STRONG&gt; to&lt;STRONG&gt; 36 St&lt;/STRONG&gt; (BKLYN) because of signal problems at &lt;STRONG&gt;36 St &lt;/STRONG&gt;(BKLYN).&lt;/P&gt;
+                  &lt;P&gt;Some southbound [D] and [N] trains are stopping along the [R] line from &lt;STRONG&gt;DeKalb Av&lt;/STRONG&gt; to&lt;STRONG&gt; 36 St&lt;/STRONG&gt; (BKLYN).&lt;/P&gt;
 &lt;P&gt;Some southbound [N] and [R] trains end at &lt;STRONG&gt;Canal St&lt;/STRONG&gt;.&lt;/P&gt;
 &lt;P&gt;Some southbound [N] trains are stopping along the [Q] line from &lt;STRONG&gt;DeKalb Av&lt;/STRONG&gt; to &lt;STRONG&gt;Coney Island-Stillwell Av.&lt;/STRONG&gt;&lt;/P&gt;
 &lt;P&gt;These service changes are because of signal problems at &lt;STRONG&gt;36 St&lt;/STRONG&gt; (BKLYN) and &lt;STRONG&gt;20 Av.&lt;/STRONG&gt;&lt;/P&gt;
@@ -52,9 +43,18 @@
 &lt;P&gt;Our crews are on the site trying to fix it ASAP and we'll follow up soon. Stay tuned for updates.&lt;/P&gt;
 &lt;P&gt; &lt;/P&gt;
                 &lt;br/&gt;&lt;br/&gt;
+              
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;11/10/2017&amp;nbsp; 8:14PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;P&gt;Some northbound [F] trains are running express from &lt;STRONG&gt;Church Av&lt;/STRONG&gt; to &lt;STRONG&gt;Bergen St.&lt;/STRONG&gt;&lt;/P&gt;
+&lt;P&gt;Expect delays on [F] and [G] train service.&lt;/P&gt;
+&lt;P&gt;Our crews are on site trying to fix it ASAP and we'll follow up soon. Stay tuned for updates.&lt;/P&gt;
+                &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>11/10/2017</Date>
-    <Time> 8:14PM</Time>
+    <Time> 8:17PM</Time>
   </line>
   <line>
     <name>G</name>
@@ -92,9 +92,9 @@
     <text>
                     &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;11/10/2017&amp;nbsp; 8:00PM
+                    &amp;nbsp;Posted:&amp;nbsp;11/10/2017&amp;nbsp; 8:17PM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  &lt;P&gt;Some southbound [D] and [N] trains are stopping along the [R] line from &lt;STRONG&gt;DeKalb Av&lt;/STRONG&gt; to&lt;STRONG&gt; 36 St&lt;/STRONG&gt; (BKLYN) because of signal problems at &lt;STRONG&gt;36 St &lt;/STRONG&gt;(BKLYN).&lt;/P&gt;
+                  &lt;P&gt;Some southbound [D] and [N] trains are stopping along the [R] line from &lt;STRONG&gt;DeKalb Av&lt;/STRONG&gt; to&lt;STRONG&gt; 36 St&lt;/STRONG&gt; (BKLYN).&lt;/P&gt;
 &lt;P&gt;Some southbound [N] and [R] trains end at &lt;STRONG&gt;Canal St&lt;/STRONG&gt;.&lt;/P&gt;
 &lt;P&gt;Some southbound [N] trains are stopping along the [Q] line from &lt;STRONG&gt;DeKalb Av&lt;/STRONG&gt; to &lt;STRONG&gt;Coney Island-Stillwell Av.&lt;/STRONG&gt;&lt;/P&gt;
 &lt;P&gt;These service changes are because of signal problems at &lt;STRONG&gt;36 St&lt;/STRONG&gt; (BKLYN) and &lt;STRONG&gt;20 Av.&lt;/STRONG&gt;&lt;/P&gt;
@@ -104,7 +104,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>11/10/2017</Date>
-    <Time> 8:00PM</Time>
+    <Time> 8:17PM</Time>
   </line>
   <line>
     <name>S</name>
@@ -508,10 +508,24 @@
 </BT><LIRR>
   <line>
     <name>Babylon</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>DELAYS</status>
+    <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;11/10/2017&amp;nbsp; 8:19PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;p&gt;The 7:41PM train from Penn due Babylon at 8:55PM is bypassing St Albans 
+Station today due to switch trouble at Jamaica. St Albans Station 
+customers will be accommodated to Lynbrook, where westbound service to 
+St Albans is available.
+        &lt;/p&gt;&lt;p&gt;The 8:08PM train from Penn due Babylon at 9:23PM will make an added stop
+ at St Albans Station at approximately 8:39PM to accommodate customers 
+due to switch trouble at Jamaica.
+        &lt;/p&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>11/10/2017</Date>
+    <Time> 8:19PM</Time>
   </line>
   <line>
     <name>City Terminal Zone</name>
