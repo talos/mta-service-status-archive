@@ -24,7 +24,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>11/11/2017</Date>
-    <Time> 6:32AM</Time>
+    <Time> 6:42AM</Time>
   </line>
   <line>
     <name>456</name>
@@ -46,7 +46,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>11/11/2017</Date>
-    <Time> 6:32AM</Time>
+    <Time> 6:42AM</Time>
   </line>
   <line>
     <name>7</name>
@@ -63,7 +63,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>11/11/2017</Date>
-    <Time> 6:32AM</Time>
+    <Time> 6:42AM</Time>
   </line>
   <line>
     <name>ACE</name>
@@ -129,7 +129,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>11/11/2017</Date>
-    <Time> 6:32AM</Time>
+    <Time> 6:42AM</Time>
   </line>
   <line>
     <name>G</name>
@@ -141,7 +141,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>11/11/2017</Date>
-    <Time> 6:32AM</Time>
+    <Time> 6:42AM</Time>
   </line>
   <line>
     <name>JZ</name>
@@ -153,7 +153,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>11/11/2017</Date>
-    <Time> 6:32AM</Time>
+    <Time> 6:42AM</Time>
   </line>
   <line>
     <name>L</name>
@@ -197,7 +197,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>11/11/2017</Date>
-    <Time> 6:32AM</Time>
+    <Time> 6:42AM</Time>
   </line>
   <line>
     <name>S</name>
@@ -216,7 +216,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>11/11/2017</Date>
-    <Time> 6:32AM</Time>
+    <Time> 6:42AM</Time>
   </line>
 </subway><bus>
   <line>
@@ -271,7 +271,7 @@
               &lt;br/&gt;
             </text>
     <Date>11/11/2017</Date>
-    <Time> 6:32AM</Time>
+    <Time> 6:42AM</Time>
   </line>
   <line>
     <name>BXM1 - BXM18</name>
@@ -408,7 +408,7 @@
               &lt;br/&gt;
             </text>
     <Date>11/11/2017</Date>
-    <Time> 6:32AM</Time>
+    <Time> 6:42AM</Time>
   </line>
   <line>
     <name>S40 - S98</name>
@@ -434,7 +434,7 @@
               &lt;br/&gt;
             </text>
     <Date>11/11/2017</Date>
-    <Time> 6:32AM</Time>
+    <Time> 6:42AM</Time>
   </line>
 </bus><BT>
   <line>
@@ -682,17 +682,10 @@ normal train departure times.&lt;/span&gt;&lt;/p&gt;&lt;font face="Times New Rom
 </LIRR><MetroNorth>
   <line>
     <name>Hudson</name>
-    <status>SERVICE CHANGE</status>
-    <text>
-                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;11/10/2017&amp;nbsp;11:20PM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  &lt;span id="MC_UCEmailAlerts1_gvEmail_lblMessage_0"&gt;Train service will not operate on the Hudson Line between Irvington and Tarrytown stations from approximately midnight on Friday, November 10, until 7 AM on Saturday, November 11 to accommodate the removal of a span of the retired Tappan Zee Bridge deck. During this time, customers should expect an additional 30 minutes in travel time. Customers should plan their travel accordingly by either traveling earlier in the evening or later in the morning when the bus operation is not in effect.&lt;/span&gt;
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>11/10/2017</Date>
-    <Time>11:20PM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>Harlem</name>
@@ -710,10 +703,17 @@ normal train departure times.&lt;/span&gt;&lt;/p&gt;&lt;font face="Times New Rom
   </line>
   <line>
     <name>New Haven</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>DELAYS</status>
+    <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;11/11/2017&amp;nbsp; 6:43AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  New Haven Line Service is currently experiencing delays of up to 20 minutes due to single tracking in the vicinity of New Rochelle. Please listen for announcements at your station.
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>11/11/2017</Date>
+    <Time> 6:43AM</Time>
   </line>
   <line>
     <name>New Canaan</name>
