@@ -1,18 +1,13 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>SERVICE CHANGE</status>
+    <status>DELAYS</status>
     <text>
-                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;11/12/2017&amp;nbsp; 7:19AM
+                    &amp;nbsp;Posted:&amp;nbsp;11/12/2017&amp;nbsp; 7:38AM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  &lt;P&gt;There is no [1] train service between &lt;STRONG&gt;137 St-City College&lt;/STRONG&gt; and&lt;STRONG&gt; 96 St&lt;/STRONG&gt; in both directions. &lt;/P&gt;
-&lt;P&gt;Some northbound [1] trains are stopping along the [2] line from &lt;STRONG&gt;96 St&lt;/STRONG&gt; to &lt;STRONG&gt;Central Park North-110 St&lt;/STRONG&gt; then end.&lt;/P&gt;
-&lt;P&gt;Some southbound [2] trains are stopping along the [5] line from&lt;STRONG&gt; 149 St-Grand Concourse&lt;/STRONG&gt; to &lt;STRONG&gt;Nevins St &lt;/STRONG&gt;then end. &lt;/P&gt;
-&lt;P&gt;[1][2][3] train service changes and delays in both directions. &lt;/P&gt;
-&lt;P&gt;Our crews are on site trying to fix it ASAP and we'll follow up soon. Stay tuned for updates. &lt;/P&gt;
-&lt;P&gt;These service changes are because of switch problems at &lt;STRONG&gt;96 St&lt;/STRONG&gt;. &lt;/P&gt;
+                  [1], [2] and [3] trains are running with delays in both directions because of switch problems at &lt;STRONG&gt;96 St&lt;/STRONG&gt;.
                 &lt;br/&gt;&lt;br/&gt;
               
                     &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
@@ -41,7 +36,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>11/12/2017</Date>
-    <Time> 7:19AM</Time>
+    <Time> 7:38AM</Time>
   </line>
   <line>
     <name>456</name>
@@ -604,17 +599,10 @@ normal train departure times.&lt;/span&gt;&lt;/p&gt;&lt;font face="Times New Rom
   </line>
   <line>
     <name>Port Jefferson</name>
-    <status>DELAYS</status>
-    <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;11/12/2017&amp;nbsp; 6:47AM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  The 6:21AM train from Penn due Huntington at 7:28AM is operating 10 minutes late after being delayed in the East River Tunnels due to an earlier power problem.
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>11/12/2017</Date>
-    <Time> 6:47AM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>Port Washington</name>
