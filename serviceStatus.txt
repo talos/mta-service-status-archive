@@ -1,13 +1,13 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>SERVICE CHANGE</status>
+    <status>DELAYS</status>
     <text>
-                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;11/12/2017&amp;nbsp;12:04PM
+                    &amp;nbsp;Posted:&amp;nbsp;11/12/2017&amp;nbsp; 1:43PM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  [1] trains are bypassing &lt;STRONG&gt;Dyckman St&lt;/STRONG&gt; in both directions because of FDNY activity on the street level.
+                  [1] service has resumed following earlier FDNY activity near&lt;STRONG&gt; Dyckman St&lt;/STRONG&gt;.
                 &lt;br/&gt;&lt;br/&gt;
               
                     &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
@@ -31,7 +31,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>11/12/2017</Date>
-    <Time>12:04PM</Time>
+    <Time> 1:43PM</Time>
   </line>
   <line>
     <name>456</name>
@@ -58,7 +58,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>11/12/2017</Date>
-    <Time> 1:32PM</Time>
+    <Time> 1:42PM</Time>
   </line>
   <line>
     <name>7</name>
@@ -75,7 +75,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>11/12/2017</Date>
-    <Time> 1:32PM</Time>
+    <Time> 1:42PM</Time>
   </line>
   <line>
     <name>ACE</name>
@@ -97,7 +97,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>11/12/2017</Date>
-    <Time> 1:32PM</Time>
+    <Time> 1:42PM</Time>
   </line>
   <line>
     <name>BDFM</name>
@@ -129,7 +129,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>11/12/2017</Date>
-    <Time> 1:32PM</Time>
+    <Time> 1:42PM</Time>
   </line>
   <line>
     <name>G</name>
@@ -141,7 +141,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>11/12/2017</Date>
-    <Time> 1:32PM</Time>
+    <Time> 1:42PM</Time>
   </line>
   <line>
     <name>JZ</name>
@@ -153,7 +153,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>11/12/2017</Date>
-    <Time> 1:32PM</Time>
+    <Time> 1:42PM</Time>
   </line>
   <line>
     <name>L</name>
@@ -302,7 +302,7 @@
               &lt;br/&gt;
             </text>
     <Date>11/12/2017</Date>
-    <Time> 1:32PM</Time>
+    <Time> 1:42PM</Time>
   </line>
   <line>
     <name>BXM1 - BXM18</name>
@@ -313,19 +313,15 @@
   </line>
   <line>
     <name>M1 - M116</name>
-    <status>SERVICE CHANGE</status>
+    <status>DELAYS</status>
     <text>
-                  &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                  &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                   &lt;span class="DateStyle"&gt;
-                  &amp;nbsp;Posted:&amp;nbsp;11/12/2017&amp;nbsp;12:05PM
+                  &amp;nbsp;Posted:&amp;nbsp;11/12/2017&amp;nbsp; 1:44PM
                   &lt;/span&gt;
                   &lt;br/&gt;
                   &lt;br/&gt;
-                &lt;P&gt;&lt;STRONG&gt;M100&lt;/STRONG&gt; buses are detoured in both directions because of FDNY activity at Dyckman St and 10 Av. &lt;/P&gt;
-&lt;P&gt;Detour is as follows:&lt;/P&gt;
-&lt;P&gt;&lt;STRONG&gt;Northbound:&lt;/STRONG&gt; Via Broadway, stay on Broadway to the terminal.&lt;/P&gt;
-&lt;P&gt;&lt;STRONG&gt;Southbound:&lt;/STRONG&gt; Via 215 St, left on Broadway and regular route.&lt;/P&gt;
-&lt;P&gt;All corresponding stops will be made along the route.&lt;/P&gt;
+                Following an earlier incident involving FDNY activity at Dyckman St, &lt;STRONG&gt;M100 &lt;/STRONG&gt;bus service has resumed with delays.
               &lt;br/&gt;
               &lt;br/&gt;
             
@@ -367,7 +363,7 @@
               &lt;br/&gt;
             </text>
     <Date>11/12/2017</Date>
-    <Time>12:05PM</Time>
+    <Time> 1:44PM</Time>
   </line>
   <line>
     <name>Q1 - Q113</name>
@@ -392,7 +388,7 @@
               &lt;br/&gt;
             </text>
     <Date>11/12/2017</Date>
-    <Time> 1:32PM</Time>
+    <Time> 1:42PM</Time>
   </line>
   <line>
     <name>QM1 - QM44</name>
@@ -417,7 +413,7 @@
               &lt;br/&gt;
             </text>
     <Date>11/12/2017</Date>
-    <Time> 1:32PM</Time>
+    <Time> 1:42PM</Time>
   </line>
   <line>
     <name>S40 - S98</name>
@@ -437,7 +433,7 @@
               &lt;br/&gt;
             </text>
     <Date>11/12/2017</Date>
-    <Time> 1:32PM</Time>
+    <Time> 1:42PM</Time>
   </line>
 </bus><BT>
   <line>
