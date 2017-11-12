@@ -1,8 +1,15 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>PLANNED WORK</status>
+    <status>SERVICE CHANGE</status>
     <text>
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;11/12/2017&amp;nbsp;10:58AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  [1] trains are bypassing &lt;STRONG&gt;Dyckman St&lt;/STRONG&gt; in both directions because of FDNY activity on the street level.
+                &lt;br/&gt;&lt;br/&gt;
+              
                     &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
                     &lt;br/&gt;
                   &lt;a class="plannedWorkDetailLink" onclick=ShowHide(172741);&gt;&lt;b&gt;&lt;i&gt;TRACK MAINTENANCE&lt;/i&gt;&lt;br clear=left&gt;[3] Downtown trains run local from 96 St to Times Sq-42 St&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 172741 class="plannedWorkDetail" &gt;&lt;/b&gt;Weekend, 12:01 AM Sat to 5 AM Mon, Nov 11 - 13&lt;br&gt;&lt;br&gt;&amp;bull; Please allow additional travel time.&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
@@ -24,7 +31,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>11/12/2017</Date>
-    <Time>10:52AM</Time>
+    <Time>10:58AM</Time>
   </line>
   <line>
     <name>456</name>
