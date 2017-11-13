@@ -1,10 +1,17 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>DELAYS</status>
+    <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;11/13/2017&amp;nbsp; 8:59AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  Southbound [2] trains are running with delays because of a sick passenger at &lt;STRONG&gt;219 St.&lt;/STRONG&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>11/13/2017</Date>
+    <Time> 8:59AM</Time>
   </line>
   <line>
     <name>456</name>
@@ -480,13 +487,13 @@
     <text>
                     &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;11/13/2017&amp;nbsp; 8:49AM
+                    &amp;nbsp;Posted:&amp;nbsp;11/13/2017&amp;nbsp; 8:59AM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  The 7:29AM train from Babylon due Atlantic Terminal at 8:45AM is operating 10 minutes at this time.&lt;br&gt;&lt;br&gt;The 7:35AM train from Babylon due Penn at 8:48AM is operating 15 minutes late due to equipment trouble.&lt;br&gt;&lt;br&gt;The 8:35AM train from Babylon due Penn at 9:37AM is operating 10 minutes late due to a late-arriving connection.&lt;br&gt;
+                  The 7:35AM train from Babylon due Penn at 8:48AM is operating 15 minutes late due to equipment trouble.&lt;br&gt;&lt;br&gt;&lt;br&gt;
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>11/13/2017</Date>
-    <Time> 8:49AM</Time>
+    <Time> 8:59AM</Time>
   </line>
   <line>
     <name>City Terminal Zone</name>
