@@ -1,10 +1,18 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>SERVICE CHANGE</status>
+    <text>
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;11/13/2017&amp;nbsp; 3:22PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;P&gt;Northbound [2] and [3] trains are running local from &lt;STRONG&gt;Times Sq-42 St&lt;/STRONG&gt; to &lt;STRONG&gt;96 St&lt;/STRONG&gt; because of NYPD Activity at &lt;STRONG&gt;72 St&lt;/STRONG&gt;.&lt;/P&gt;
+&lt;P&gt;Expect delays on [1], [2] and [3] trains.&lt;/P&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>11/13/2017</Date>
+    <Time> 3:22PM</Time>
   </line>
   <line>
     <name>456</name>
@@ -98,6 +106,16 @@
     <text>
                   &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                   &lt;span class="DateStyle"&gt;
+                  &amp;nbsp;Posted:&amp;nbsp;11/13/2017&amp;nbsp; 3:22PM
+                  &lt;/span&gt;
+                  &lt;br/&gt;
+                  &lt;br/&gt;
+                &lt;STRONG&gt;B35&lt;/STRONG&gt; and&lt;STRONG&gt; B35-LTD&lt;/STRONG&gt; buses are running with delays in both directions because of construction on Church Av between McDonald Av and Nostrand Av.
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
+                  &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                  &lt;span class="DateStyle"&gt;
                   &amp;nbsp;Posted:&amp;nbsp;11/13/2017&amp;nbsp; 2:36PM
                   &lt;/span&gt;
                   &lt;br/&gt;
@@ -123,7 +141,7 @@
               &lt;br/&gt;
             </text>
     <Date>11/13/2017</Date>
-    <Time> 2:36PM</Time>
+    <Time> 3:22PM</Time>
   </line>
   <line>
     <name>B100 - B103</name>
@@ -238,6 +256,16 @@
     <text>
                   &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                   &lt;span class="DateStyle"&gt;
+                  &amp;nbsp;Posted:&amp;nbsp;11/13/2017&amp;nbsp; 3:23PM
+                  &lt;/span&gt;
+                  &lt;br/&gt;
+                  &lt;br/&gt;
+                Roosevelt Av bound&lt;STRONG&gt; Q29&lt;/STRONG&gt; buses are running with delays because of a road obstruction on 81 St between Myrtle Av and 78 Rd.
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
+                  &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                  &lt;span class="DateStyle"&gt;
                   &amp;nbsp;Posted:&amp;nbsp;11/13/2017&amp;nbsp; 2:50PM
                   &lt;/span&gt;
                   &lt;br/&gt;
@@ -287,7 +315,7 @@
               &lt;br/&gt;
             </text>
     <Date>11/13/2017</Date>
-    <Time> 2:50PM</Time>
+    <Time> 3:23PM</Time>
   </line>
   <line>
     <name>QM1 - QM44</name>
@@ -539,17 +567,10 @@
   </line>
   <line>
     <name>Port Washington</name>
-    <status>DELAYS</status>
-    <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;11/13/2017&amp;nbsp; 3:15PM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  The 2:40PM train from Port Washington due Penn at 3:25PM is operating 10 minutes late due to congestion caused by a delayed eastbound train in single-track territory.
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>11/13/2017</Date>
-    <Time> 3:15PM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>Ronkonkoma</name>
