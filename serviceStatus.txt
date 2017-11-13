@@ -1,8 +1,16 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>DELAYS</status>
+    <status>SERVICE CHANGE</status>
     <text>
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;11/13/2017&amp;nbsp; 4:28PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;P&gt;Southbound [1] trains are running express from &lt;STRONG&gt;72 St&lt;/STRONG&gt; to &lt;STRONG&gt;Times Sq-42 St&lt;/STRONG&gt; because of a train with mechanical problems at &lt;STRONG&gt;34 St-Penn Station&lt;/STRONG&gt;.&lt;/P&gt;
+&lt;P&gt;Expect delays to [1], [2] and [3] train service.  &lt;/P&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              
                     &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
                     &amp;nbsp;Posted:&amp;nbsp;11/13/2017&amp;nbsp; 4:14PM
@@ -11,7 +19,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>11/13/2017</Date>
-    <Time> 4:14PM</Time>
+    <Time> 4:28PM</Time>
   </line>
   <line>
     <name>456</name>
@@ -166,10 +174,21 @@
   </line>
   <line>
     <name>BM1 - BM5</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>DELAYS</status>
+    <text>
+                  &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                  &lt;span class="DateStyle"&gt;
+                  &amp;nbsp;Posted:&amp;nbsp;11/13/2017&amp;nbsp; 4:29PM
+                  &lt;/span&gt;
+                  &lt;br/&gt;
+                  &lt;br/&gt;
+                &lt;P&gt;&lt;STRONG&gt;M15, M15-SBS, M55, M20, BM1, BM2, BM3, BM4, X27, X28, X1, X2, X3, X4, X5, X8, X9, X10, X11, X12, X42, X18, X17, X27, X28, X37, X38&lt;/STRONG&gt; buses are running with delays in both directions due to traffic conditions in the vicinity of the Hugh Carey Tunnel. &lt;/P&gt;
+&lt;P&gt; &lt;/P&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            </text>
+    <Date>11/13/2017</Date>
+    <Time> 4:29PM</Time>
   </line>
   <line>
     <name>BX1 - BX55</name>
@@ -214,6 +233,17 @@
     <name>M1 - M116</name>
     <status>DELAYS</status>
     <text>
+                  &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                  &lt;span class="DateStyle"&gt;
+                  &amp;nbsp;Posted:&amp;nbsp;11/13/2017&amp;nbsp; 4:29PM
+                  &lt;/span&gt;
+                  &lt;br/&gt;
+                  &lt;br/&gt;
+                &lt;P&gt;&lt;STRONG&gt;M15, M15-SBS, M55, M20, BM1, BM2, BM3, BM4, X27, X28, X1, X2, X3, X4, X5, X8, X9, X10, X11, X12, X42, X18, X17, X27, X28, X37, X38&lt;/STRONG&gt; buses are running with delays in both directions due to traffic conditions in the vicinity of the Hugh Carey Tunnel. &lt;/P&gt;
+&lt;P&gt; &lt;/P&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
                   &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                   &lt;span class="DateStyle"&gt;
                   &amp;nbsp;Posted:&amp;nbsp;11/13/2017&amp;nbsp; 4:20PM
@@ -303,7 +333,7 @@
               &lt;br/&gt;
             </text>
     <Date>11/13/2017</Date>
-    <Time> 4:20PM</Time>
+    <Time> 4:29PM</Time>
   </line>
   <line>
     <name>Q1 - Q113</name>
@@ -441,6 +471,17 @@
     <text>
                   &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                   &lt;span class="DateStyle"&gt;
+                  &amp;nbsp;Posted:&amp;nbsp;11/13/2017&amp;nbsp; 4:29PM
+                  &lt;/span&gt;
+                  &lt;br/&gt;
+                  &lt;br/&gt;
+                &lt;P&gt;&lt;STRONG&gt;M15, M15-SBS, M55, M20, BM1, BM2, BM3, BM4, X27, X28, X1, X2, X3, X4, X5, X8, X9, X10, X11, X12, X42, X18, X17, X27, X28, X37, X38&lt;/STRONG&gt; buses are running with delays in both directions due to traffic conditions in the vicinity of the Hugh Carey Tunnel. &lt;/P&gt;
+&lt;P&gt; &lt;/P&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
+                  &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                  &lt;span class="DateStyle"&gt;
                   &amp;nbsp;Posted:&amp;nbsp;11/13/2017&amp;nbsp; 4:18PM
                   &lt;/span&gt;
                   &lt;br/&gt;
@@ -467,7 +508,7 @@
               &lt;br/&gt;
             </text>
     <Date>11/13/2017</Date>
-    <Time> 4:18PM</Time>
+    <Time> 4:29PM</Time>
   </line>
 </bus><BT>
   <line>
