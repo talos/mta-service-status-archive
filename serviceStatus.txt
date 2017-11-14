@@ -1,37 +1,24 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>SERVICE CHANGE</status>
-    <text>
-                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;11/14/2017&amp;nbsp; 5:53PM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  &lt;P&gt;Northbound [4] and [5] trains are running local from &lt;STRONG&gt;Grand Central-42 St&lt;/STRONG&gt; to &lt;STRONG&gt;125 St&lt;/STRONG&gt;.&lt;/P&gt;
-&lt;P&gt;Some northbound [5] trains are stopping along the [2] line from &lt;STRONG&gt;Nevins St&lt;/STRONG&gt; to &lt;STRONG&gt;149 St-Grand Concourse&lt;/STRONG&gt;. &lt;/P&gt;
-&lt;P&gt;Expect delays to [2], [3], [4], [5] and [6] train service. &lt;/P&gt;
-&lt;P&gt;These service changes are because of NYPD activity at &lt;STRONG&gt;86 St&lt;/STRONG&gt;. &lt;/P&gt;
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>11/14/2017</Date>
-    <Time> 5:53PM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>456</name>
-    <status>SERVICE CHANGE</status>
+    <status>DELAYS</status>
     <text>
-                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;11/14/2017&amp;nbsp; 5:53PM
+                    &amp;nbsp;Posted:&amp;nbsp;11/14/2017&amp;nbsp; 5:59PM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  &lt;P&gt;Northbound [4] and [5] trains are running local from &lt;STRONG&gt;Grand Central-42 St&lt;/STRONG&gt; to &lt;STRONG&gt;125 St&lt;/STRONG&gt;.&lt;/P&gt;
-&lt;P&gt;Some northbound [5] trains are stopping along the [2] line from &lt;STRONG&gt;Nevins St&lt;/STRONG&gt; to &lt;STRONG&gt;149 St-Grand Concourse&lt;/STRONG&gt;. &lt;/P&gt;
-&lt;P&gt;Expect delays to [2], [3], [4], [5] and [6] train service. &lt;/P&gt;
-&lt;P&gt;These service changes are because of NYPD activity at &lt;STRONG&gt;86 St&lt;/STRONG&gt;. &lt;/P&gt;
+                  [4] and [5] service has resumed following earlier NYPD activity at &lt;STRONG&gt;86 St&lt;/STRONG&gt;.
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>11/14/2017</Date>
-    <Time> 5:53PM</Time>
+    <Time> 5:59PM</Time>
   </line>
   <line>
     <name>7</name>
