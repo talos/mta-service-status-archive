@@ -79,8 +79,18 @@
 </subway><bus>
   <line>
     <name>B1 - B84</name>
-    <status>SERVICE CHANGE</status>
+    <status>DELAYS</status>
     <text>
+                  &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                  &lt;span class="DateStyle"&gt;
+                  &amp;nbsp;Posted:&amp;nbsp;11/15/2017&amp;nbsp; 4:04PM
+                  &lt;/span&gt;
+                  &lt;br/&gt;
+                  &lt;br/&gt;
+                &lt;STRONG&gt;B12 &lt;/STRONG&gt;buses are running with delays in both directions because of construction at Clarkson Av between New York Av and Nostrand Av.
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
                   &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
                   &lt;span class="DateStyle"&gt;
                   &amp;nbsp;Posted:&amp;nbsp;11/15/2017&amp;nbsp; 2:08PM
@@ -140,16 +150,6 @@
               &lt;br/&gt;
               &lt;br/&gt;
             
-                  &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                  &lt;span class="DateStyle"&gt;
-                  &amp;nbsp;Posted:&amp;nbsp;11/15/2017&amp;nbsp; 2:03PM
-                  &lt;/span&gt;
-                  &lt;br/&gt;
-                  &lt;br/&gt;
-                &lt;STRONG&gt;B12 &lt;/STRONG&gt;buses are running with delays in both directions because of construction at Clarkson Av between New York Av and Nostrand Av.
-              &lt;br/&gt;
-              &lt;br/&gt;
-            
                   &lt;span class="TitlePlannedWork" &gt;Planned Detour&lt;/span&gt;
                   &lt;br/&gt;
                 &lt;a class="plannedWorkDetailLink" onclick=ShowHide(140601);&gt;&lt;b&gt;B24&lt;/b&gt; - &lt;b&gt;Northbound buses may experience delays due to construction on Greenpoint Av at West St  &lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 140601 class="plannedWorkDetail" &gt;&lt;/b&gt;Until further notice&lt;br&gt;&lt;br&gt;&amp;bull; &lt;/font&gt;Please allow additional travel time.&lt;br&gt;&lt;b&gt;          &lt;/b&gt;&lt;a href=http://bustime.mta.info/#b24 target=_blank&gt;&lt;img height=30px src=http://web.mta.info/nyct/images/Bus_Time_logo.png&gt;&lt;/a&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
@@ -163,7 +163,7 @@
               &lt;br/&gt;
             </text>
     <Date>11/15/2017</Date>
-    <Time> 2:08PM</Time>
+    <Time> 4:04PM</Time>
   </line>
   <line>
     <name>B100 - B103</name>
@@ -257,7 +257,7 @@
               &lt;br/&gt;
             </text>
     <Date>11/15/2017</Date>
-    <Time> 3:59PM</Time>
+    <Time> 4:03PM</Time>
   </line>
   <line>
     <name>Q1 - Q113</name>
@@ -448,7 +448,7 @@
               &lt;br/&gt;
             </text>
     <Date>11/15/2017</Date>
-    <Time> 3:59PM</Time>
+    <Time> 4:03PM</Time>
   </line>
 </bus><BT>
   <line>
