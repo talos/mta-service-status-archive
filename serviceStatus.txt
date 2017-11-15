@@ -22,10 +22,17 @@
   </line>
   <line>
     <name>ACE</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>DELAYS</status>
+    <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;11/15/2017&amp;nbsp; 9:22AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  Due to an earlier incident involving a sick passenger at &lt;STRONG&gt;Chambers St&lt;/STRONG&gt; [A] and [C] service has resumed with delays.
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>11/15/2017</Date>
+    <Time> 9:22AM</Time>
   </line>
   <line>
     <name>BDFM</name>
@@ -513,15 +520,8 @@
   </line>
   <line>
     <name>Montauk</name>
-    <status>DELAYS</status>
+    <status>PLANNED WORK</status>
     <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;11/15/2017&amp;nbsp; 9:17AM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  The 7:12AM train from Speonk due Hunterspoint Ave. at 9:11AM is operating 10 minutes late due to a late train ahead.&lt;br&gt;&lt;br&gt;
-                &lt;br/&gt;&lt;br/&gt;
-              
                     &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
                     &lt;br/&gt;
                   &lt;b&gt;Buses Replace Midday Trains between Patchogue &amp; Montauk on Weekdays&lt;/b&gt;&lt;br&gt;&lt;br&gt;To
@@ -539,7 +539,7 @@ for transportation to stations Bellport through Montauk.&lt;/li&gt;&lt;li&gt;Ple
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>11/15/2017</Date>
-    <Time> 9:17AM</Time>
+    <Time> 7:00AM</Time>
   </line>
   <line>
     <name>Oyster Bay</name>
