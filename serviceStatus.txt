@@ -64,10 +64,17 @@
   </line>
   <line>
     <name>NQR</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>DELAYS</status>
+    <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;11/15/2017&amp;nbsp; 9:05AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  [N] service has resumed with delays following an earlier incident involving NYPD activity at &lt;STRONG&gt;Atlantic Av-Barclays Ctr.&lt;/STRONG&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>11/15/2017</Date>
+    <Time> 9:05AM</Time>
   </line>
   <line>
     <name>S</name>
@@ -91,8 +98,32 @@
 </subway><bus>
   <line>
     <name>B1 - B84</name>
-    <status>DELAYS</status>
+    <status>SERVICE CHANGE</status>
     <text>
+                  &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                  &lt;span class="DateStyle"&gt;
+                  &amp;nbsp;Posted:&amp;nbsp;11/15/2017&amp;nbsp; 9:05AM
+                  &lt;/span&gt;
+                  &lt;br/&gt;
+                  &lt;br/&gt;
+                &lt;P&gt;Northbound&lt;STRONG&gt; B32&lt;/STRONG&gt; and Westbound &lt;STRONG&gt;Q59&lt;/STRONG&gt; buses are detoured because of a road obstruction on Wythe Av between South 4 and South 2 St. &lt;/P&gt;
+&lt;P&gt;Detour is as follows:&lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;Northbound B32&lt;/STRONG&gt;: Via Wythe Av, left on Grand Av, right on Driggs Av, left on Broadway and regular route.&lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;Westbound Q59&lt;/STRONG&gt;: Via Grand St, left on Driggs Av, left on Broadway and regular route.&lt;/P&gt;
+&lt;P&gt;All corresponding stops will be made along the detoured route.&lt;/P&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
+                  &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                  &lt;span class="DateStyle"&gt;
+                  &amp;nbsp;Posted:&amp;nbsp;11/15/2017&amp;nbsp; 9:05AM
+                  &lt;/span&gt;
+                  &lt;br/&gt;
+                  &lt;br/&gt;
+                &lt;STRONG&gt;B12 &lt;/STRONG&gt;buses are running with delays in both directions because of construction on East New York Av at Sackman St.
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
                   &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                   &lt;span class="DateStyle"&gt;
                   &amp;nbsp;Posted:&amp;nbsp;11/15/2017&amp;nbsp; 8:21AM
@@ -135,7 +166,7 @@
               &lt;br/&gt;
             </text>
     <Date>11/15/2017</Date>
-    <Time> 8:21AM</Time>
+    <Time> 9:05AM</Time>
   </line>
   <line>
     <name>B100 - B103</name>
@@ -224,8 +255,22 @@
   </line>
   <line>
     <name>Q1 - Q113</name>
-    <status>DELAYS</status>
+    <status>SERVICE CHANGE</status>
     <text>
+                  &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                  &lt;span class="DateStyle"&gt;
+                  &amp;nbsp;Posted:&amp;nbsp;11/15/2017&amp;nbsp; 9:05AM
+                  &lt;/span&gt;
+                  &lt;br/&gt;
+                  &lt;br/&gt;
+                &lt;P&gt;Northbound&lt;STRONG&gt; B32&lt;/STRONG&gt; and Westbound &lt;STRONG&gt;Q59&lt;/STRONG&gt; buses are detoured because of a road obstruction on Wythe Av between South 4 and South 2 St. &lt;/P&gt;
+&lt;P&gt;Detour is as follows:&lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;Northbound B32&lt;/STRONG&gt;: Via Wythe Av, left on Grand Av, right on Driggs Av, left on Broadway and regular route.&lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;Westbound Q59&lt;/STRONG&gt;: Via Grand St, left on Driggs Av, left on Broadway and regular route.&lt;/P&gt;
+&lt;P&gt;All corresponding stops will be made along the detoured route.&lt;/P&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
                   &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                   &lt;span class="DateStyle"&gt;
                   &amp;nbsp;Posted:&amp;nbsp;11/15/2017&amp;nbsp; 8:47AM
@@ -296,7 +341,7 @@
               &lt;br/&gt;
             </text>
     <Date>11/15/2017</Date>
-    <Time> 8:47AM</Time>
+    <Time> 9:05AM</Time>
   </line>
   <line>
     <name>QM1 - QM44</name>
