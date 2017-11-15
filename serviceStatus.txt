@@ -87,8 +87,21 @@
 </subway><bus>
   <line>
     <name>B1 - B84</name>
-    <status>DELAYS</status>
+    <status>SERVICE CHANGE</status>
     <text>
+                  &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                  &lt;span class="DateStyle"&gt;
+                  &amp;nbsp;Posted:&amp;nbsp;11/14/2017&amp;nbsp; 7:07PM
+                  &lt;/span&gt;
+                  &lt;br/&gt;
+                  &lt;br/&gt;
+                &lt;P&gt;&lt;STRONG&gt;Bx11 &lt;/STRONG&gt;buses are detoured because of a disabled vehicle on Woodycrest Av. &lt;/P&gt;
+&lt;P&gt;Detour is as follows: &lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;Westbound&lt;/STRONG&gt;: Via Shakespeare Av, right on 168 St, right on Ogden Av and regular route. &lt;/P&gt;
+&lt;P&gt; &lt;/P&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
                   &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                   &lt;span class="DateStyle"&gt;
                   &amp;nbsp;Posted:&amp;nbsp;11/14/2017&amp;nbsp; 6:09PM
@@ -181,7 +194,7 @@
               &lt;br/&gt;
             </text>
     <Date>11/14/2017</Date>
-    <Time> 6:09PM</Time>
+    <Time> 7:07PM</Time>
   </line>
   <line>
     <name>B100 - B103</name>
@@ -697,10 +710,17 @@ through Jamaica Station.
   </line>
   <line>
     <name>Oyster Bay</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>DELAYS</status>
+    <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;11/14/2017&amp;nbsp; 7:07PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  The 6:16PM train from Penn due Oyster Bay at 7:30PM is operating 13 minutes due to earlier Amtrak switch problem at Penn Station.
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>11/14/2017</Date>
+    <Time> 7:07PM</Time>
   </line>
   <line>
     <name>Port Jefferson</name>
