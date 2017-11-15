@@ -70,10 +70,17 @@
   </line>
   <line>
     <name>NQR</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>SERVICE CHANGE</status>
+    <text>
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;11/14/2017&amp;nbsp; 9:02PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  Northbound [Q] trains are running express from &lt;STRONG&gt;Brighton Beach&lt;/STRONG&gt; to &lt;STRONG&gt;Prospect Park&lt;/STRONG&gt; because of a train with mechanical problems at &lt;STRONG&gt;Avenue U&lt;/STRONG&gt;.
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>11/14/2017</Date>
+    <Time> 9:02PM</Time>
   </line>
   <line>
     <name>S</name>
@@ -173,8 +180,28 @@
   </line>
   <line>
     <name>M1 - M116</name>
-    <status>SERVICE CHANGE</status>
+    <status>DELAYS</status>
     <text>
+                  &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                  &lt;span class="DateStyle"&gt;
+                  &amp;nbsp;Posted:&amp;nbsp;11/14/2017&amp;nbsp; 9:04PM
+                  &lt;/span&gt;
+                  &lt;br/&gt;
+                  &lt;br/&gt;
+                &lt;STRONG&gt;M55 &lt;/STRONG&gt;bus service has resumed following an earlier non TA accident on Broadway.
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
+                  &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                  &lt;span class="DateStyle"&gt;
+                  &amp;nbsp;Posted:&amp;nbsp;11/14/2017&amp;nbsp; 9:03PM
+                  &lt;/span&gt;
+                  &lt;br/&gt;
+                  &lt;br/&gt;
+                &lt;STRONG&gt;M20&lt;/STRONG&gt; and&lt;STRONG&gt; M22&lt;/STRONG&gt; bus service has resumed following earlier NYPD activity on North End Av.
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
                   &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
                   &lt;span class="DateStyle"&gt;
                   &amp;nbsp;Posted:&amp;nbsp;11/14/2017&amp;nbsp; 8:31PM
@@ -197,30 +224,6 @@
               &lt;br/&gt;
               &lt;br/&gt;
             
-                  &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
-                  &lt;span class="DateStyle"&gt;
-                  &amp;nbsp;Posted:&amp;nbsp;11/14/2017&amp;nbsp; 6:20PM
-                  &lt;/span&gt;
-                  &lt;br/&gt;
-                  &lt;br/&gt;
-                &lt;P&gt;Southbound &lt;STRONG&gt;M20&lt;/STRONG&gt; and both directions &lt;STRONG&gt;M22&lt;/STRONG&gt; buses are detoured because of NYPD activity on North End Av and Vesey St. &lt;/P&gt;
-&lt;P&gt;&lt;STRONG&gt;Southbound M20&lt;/STRONG&gt;: Via North End Av, left on Murray St, right on West St and regular route. &lt;/P&gt;
-&lt;P&gt;&lt;STRONG&gt;Westbound M22&lt;/STRONG&gt;: Via North End Av, left on Warren St, right on Murray St, take stand at Movie Theatre. &lt;/P&gt;
-&lt;P&gt;&lt;STRONG&gt;Eastbound M22&lt;/STRONG&gt;: Via Chambers St, right on Broadway, right on Park Row and regular route. &lt;/P&gt;
-&lt;P&gt; &lt;/P&gt;
-              &lt;br/&gt;
-              &lt;br/&gt;
-            
-                  &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                  &lt;span class="DateStyle"&gt;
-                  &amp;nbsp;Posted:&amp;nbsp;11/14/2017&amp;nbsp; 6:09PM
-                  &lt;/span&gt;
-                  &lt;br/&gt;
-                  &lt;br/&gt;
-                &lt;STRONG&gt;M55&lt;/STRONG&gt; buses are running with delays in both directions because of a non MTA accident on Broadway and Chambers St.
-              &lt;br/&gt;
-              &lt;br/&gt;
-            
                   &lt;span class="TitlePlannedWork" &gt;Planned Detour&lt;/span&gt;
                   &lt;br/&gt;
                 &lt;a class="plannedWorkDetailLink" onclick=ShowHide(170948);&gt;&lt;b&gt;M31 and M57&lt;/b&gt; - &lt;b&gt;Eastbound buses bypass the stop on 57 St at 8 Av&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 170948 class="plannedWorkDetail" &gt;&lt;/b&gt;Until further notice&lt;br&gt;&lt;br&gt;Due to construction, please use the nearby stop&lt;b&gt; on 57 St &lt;/b&gt;at Broadway.&lt;br&gt;&lt;b&gt;                              [TP]&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
@@ -234,7 +237,7 @@
               &lt;br/&gt;
             </text>
     <Date>11/14/2017</Date>
-    <Time> 8:31PM</Time>
+    <Time> 9:04PM</Time>
   </line>
   <line>
     <name>Q1 - Q113</name>
