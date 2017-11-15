@@ -1,10 +1,25 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>PLANNED WORK</status>
+    <text>
+                    &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
+                    &lt;br/&gt;
+                  &lt;a class="plannedWorkDetailLink" onclick=ShowHide(172644);&gt;&lt;b&gt;&lt;i&gt;TRACK MAINTENANCE&lt;/i&gt;&lt;BR CLEAR=LEFT&gt;[3] New Lots Av-bound trains skip Bergen St, Grand Army Plaza and Eastern Pkwy&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 172644 class="plannedWorkDetail" &gt;&lt;/b&gt;Late Evenings, 9:45 PM to 11:45 PM, Mon to Thu, Nov 13 - 16&lt;br&gt;&lt;br&gt;&lt;/font&gt;For service &lt;i&gt;to &lt;/i&gt;these stations, take the [3] to Franklin Av and transfer to a&lt;br&gt;Manhattan-bound [2] or [3].&lt;br&gt;&lt;br&gt;For service&lt;i&gt; from &lt;/i&gt;these stations, take the [2] or [3] to Atlantic Av-Barclays Ctr&lt;br&gt;and transfer to a New Lots Av-bound [3].&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              
+                    &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
+                    &lt;br/&gt;
+                  &lt;a class="plannedWorkDetailLink" onclick=ShowHide(170125);&gt;&lt;b&gt;&lt;i&gt;TRACK MAINTENANCE&lt;/i&gt;&lt;BR CLEAR=LEFT&gt;[2] Flatbush Av-bound trains skip Bergen St, Grand Army Plaza and Eastern Pkwy&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 170125 class="plannedWorkDetail" &gt;&lt;/b&gt;Late Nights, 9:45 PM to 5 AM, Mon to Fri, Nov 13 - 17  &lt;br&gt;&lt;br&gt;&lt;/font&gt;For service&lt;i&gt; to&lt;/i&gt; these stations, take the [2] to Franklin Av and transfer to a &lt;br&gt;Manhattan-bound [2] [3] or &lt;i&gt;local &lt;/i&gt;[4].&lt;br&gt;&lt;br&gt;For service &lt;i&gt;from&lt;/i&gt; these stations, take the [2] [3] or [4] to Atlantic Av-Barclays Ctr &lt;br&gt;and transfer to a Flatbush Av-bound [2].&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              
+                    &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
+                    &lt;br/&gt;
+                  &lt;a class="plannedWorkDetailLink" onclick=ShowHide(172748);&gt;&lt;b&gt;&lt;i&gt;ELECTRICAL IMPROVEMENTS&lt;/i&gt;&lt;br clear=left&gt;[1] South Ferry-bound trains skip 86, 79, 66, 59 and 50 Sts&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 172748 class="plannedWorkDetail" &gt;&lt;/b&gt;Late Nights, 9:45 PM to 5 AM, Mon to Fri, Nov 13 - 17&lt;br&gt;&lt;br&gt;For service &lt;i&gt;to &lt;/i&gt;these stations, take the [1] to 72 St or Times Sq-42 St and transfer&lt;br&gt;to an uptown [1] or [2] &lt;i&gt;local&lt;/i&gt;.&lt;br&gt;&lt;br&gt;For service &lt;i&gt;from &lt;/i&gt;these stations, take the [1] or [2] to 72 St or 96 St and transfer&lt;br&gt;to a South Ferry-bound [1].&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>11/14/2017</Date>
+    <Time> 9:45PM</Time>
   </line>
   <line>
     <name>456</name>
@@ -14,9 +29,14 @@
                     &lt;br/&gt;
                   &lt;a class="plannedWorkDetailLink" onclick=ShowHide(172642);&gt;&lt;b&gt;&lt;i&gt;TRACK MAINTENANCE&lt;/i&gt;&lt;br clear=left&gt;[5] Service ends early between E 180 St and Bowling Green&lt;br clear=left&gt;[2] [4] trains provide alternate service&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 172642 class="plannedWorkDetail" &gt;&lt;/b&gt;Evenings, Mon to Thu, Nov 13 - 16&lt;br&gt;&lt;br&gt;[5] service operates between &lt;b&gt;Dyre Av&lt;/b&gt; and &lt;b&gt;E 180 St&lt;/b&gt;.&lt;br&gt;&lt;br&gt;&lt;table class=plannedworkTableStyle  width=75%&gt;&lt;tr&gt;&lt;td&gt;&lt;font size=3&gt;&lt;b&gt;Travel Alternatives&lt;/b&gt;&lt;/font&gt;&lt;td align=right&gt;[TP]&lt;/table&gt;&lt;br&gt;&lt;/font&gt;&amp;bull; Transfer between [5] and [2] trains at E 180 St.&lt;br&gt;&amp;bull; Transfer between [2] and [4] trains at 149 St-Grand Concourse.&lt;br&gt;&lt;br&gt;&lt;b&gt;Reminder:&lt;/b&gt; &lt;a href=http://advisory.mtanyct.info/pdf_files/NightMap.pdf target=_blank&gt;&lt;font color=#0000FF&gt;&lt;b&gt;&lt;u&gt;Late Night&lt;/u&gt;&lt;/b&gt;&lt;/font&gt;&lt;/a&gt; [5] service operates as scheduled in the Bronx.&lt;br&gt;&lt;/font&gt;           &lt;br&gt;&lt;table class=plannedworkTableStyle  border=1 cellspacing=1 cellpadding=5 rules=none frame=box&gt;&lt;td&gt;  [ad]  &lt;td&gt;&lt;font size=1&gt;This service change affects one or more ADA accessible stations. Please call 511 for help with planning&lt;br&gt;your trip. If you are deaf or hard of hearing, use your preferred relay service provider or the free 711 relay.  &lt;/font&gt;&lt;/table&gt;&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
                 &lt;br/&gt;&lt;br/&gt;
+              
+                    &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
+                    &lt;br/&gt;
+                  &lt;a class="plannedWorkDetailLink" onclick=ShowHide(170126);&gt;&lt;b&gt;&lt;i&gt;TRACK MAINTENANCE&lt;/i&gt;&lt;BR CLEAR=LEFT&gt;[4] New Lots Av-bound trains skip Bergen St, Grand Army Plaza and Eastern Pkwy&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 170126 class="plannedWorkDetail" &gt;&lt;/b&gt;Late Nights, 9:45 PM to 5 AM, Mon to Fri, &lt;/font&gt;Nov 13 - 17 &lt;br&gt;&lt;br&gt;&lt;/font&gt;For service &lt;i&gt;to &lt;/i&gt;these stations, take the [4] to Franklin Av and transfer to a&lt;br&gt;Manhattan-bound [2] [3] or &lt;i&gt;local &lt;/i&gt;[4].&lt;br&gt;&lt;br&gt;For service&lt;i&gt; from &lt;/i&gt;these stations, take the [2] [3] or [4] to Atlantic Av-Barclays Ctr&lt;br&gt;and transfer to a New Lots Av-bound [4].&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+                &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>11/14/2017</Date>
-    <Time> 9:33PM</Time>
+    <Time> 9:45PM</Time>
   </line>
   <line>
     <name>7</name>
@@ -27,10 +47,25 @@
   </line>
   <line>
     <name>ACE</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>PLANNED WORK</status>
+    <text>
+                    &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
+                    &lt;br/&gt;
+                  &lt;a class="plannedWorkDetailLink" onclick=ShowHide(172399);&gt;&lt;b&gt;&lt;i&gt;TRACK MAINTENANCE&lt;/i&gt;&lt;BR CLEAR=LEFT&gt;[E]&lt;/font&gt; No trains between W 4&lt;/font&gt; St and World Trade Center&lt;br clear=left&gt;[A] trains provide alternate service&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 172399 class="plannedWorkDetail" &gt;&lt;/b&gt;Late Nights, 9:45 PM to 5 AM, Mon to Fri, Nov 13 - 17&lt;br&gt;&lt;br&gt;&lt;/font&gt;[E] service operates between &lt;b&gt;Jamaica Center&lt;/b&gt; and &lt;b&gt;W 4 St&lt;/b&gt;, and via the [F] &lt;i&gt;to/from&lt;/i&gt; &lt;b&gt;2 Av&lt;/b&gt;.&lt;br&gt;&lt;br&gt;For Spring St*, Canal St and World Trade Center (Chambers St), take the [A] instead.&lt;br&gt;&lt;br&gt;&amp;bull; Transfer between trains at W 4 St.&lt;br&gt;&lt;br&gt;&lt;i&gt;*Please review [A] advisories for additional information that may affect your trip.&lt;br&gt;&lt;/i&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              
+                    &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
+                    &lt;br/&gt;
+                  &lt;a class="plannedWorkDetailLink" onclick=ShowHide(172962);&gt;&lt;b&gt;&lt;i&gt;TRACK MAINTENANCE&lt;/i&gt;&lt;br clear=left&gt;[C] 168 St-bound trains skip Spring St, 23 St and 50 St&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 172962 class="plannedWorkDetail" &gt;&lt;/b&gt;Late Evenings, 9:45 PM to 11 PM, Mon to Thu, Nov 13 - 16&lt;br&gt;&lt;br&gt;&lt;/font&gt;For service &lt;i&gt;to &lt;/i&gt;Spring St, take the [C] to W 4 St and transfer to a Euclid Av-bound [C].&lt;br&gt;&lt;br&gt;For service&lt;i&gt; from&lt;/i&gt; this station, take the [C] to Canal St and transfer &lt;br&gt;to a 168 St-bound [C].&lt;br&gt;&lt;br&gt;For service &lt;i&gt;to &lt;/i&gt;23 and 50 Sts, transfer to the [E] at 14 St or 42 St/Port Authority. &lt;br&gt;&lt;br&gt;For service&lt;i&gt; from&lt;/i&gt; 23 or 50 Sts, take the [E] to 42 St/Port Authority and transfer &lt;br&gt;to a 168 St-bound [C].&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              
+                    &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
+                    &lt;br/&gt;
+                  &lt;a class="plannedWorkDetailLink" onclick=ShowHide(172217);&gt;&lt;b&gt;&lt;i&gt;SIGNAL MAINTENANCE&lt;/i&gt;&lt;br clear=left&gt;[C] 168 St-bound trains run express from Euclid Av to Hoyt Schermerhorn&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 172217 class="plannedWorkDetail" &gt;&lt;/b&gt;Late Evenings, 9:45 PM to 10:45 PM, Mon to Thu, Nov 13 - 16&lt;br&gt;&lt;br&gt;Trains stop at Broadway Junction, Utica Av and Nostrand Av.&lt;br&gt;&lt;br&gt;For service &lt;i&gt;to&lt;/i&gt; &lt;b&gt;Shepherd&lt;/b&gt;, &lt;b&gt;Van Siclen&lt;/b&gt; and &lt;b&gt;Liberty Avs&lt;/b&gt;, take the [C] to Broadway Junction and transfer to a Euclid Av-bound [A].&lt;br&gt;&lt;br&gt;For service &lt;i&gt;to&lt;/i&gt; &lt;b&gt;Rockaway&lt;/b&gt; and &lt;b&gt;Ralph Avs&lt;/b&gt;, take the [C] to Utica Av and transfer to a Euclid Av-bound [C].&lt;br&gt;&lt;br&gt;For service &lt;i&gt;to&lt;/i&gt; &lt;b&gt;Kingston-Throop Avs&lt;/b&gt;, &lt;b&gt;Franklin&lt;/b&gt;, &lt;b&gt;Clinton-Washington Avs&lt;/b&gt; and &lt;b&gt;Lafayette Av&lt;/b&gt;, take the [C] to&lt;br&gt;Hoyt Schermerhorn and transfer to a Euclid Av-bound [C].&lt;br&gt;&lt;br&gt;For service &lt;i&gt;from&lt;/i&gt; these stations, take the [C] to Utica Av, Broadway Junction or Euclid Av and transfer to a &lt;br&gt;168 St-bound [C].&lt;br&gt;&lt;br&gt;&lt;b&gt;&lt;i&gt;Alternate travel note:&lt;br&gt;&lt;/b&gt;&lt;/i&gt;Transfer between trains with &lt;a href=http://web.mta.info/metrocard/mcgtreng.htm#unlimited target=_blank&gt;&lt;font color=#0000FF&gt;&lt;b&gt;&lt;u&gt;Unlimited Ride MetroCard&lt;/u&gt;&lt;/b&gt;&lt;/font&gt;&lt;/a&gt; at Nostrand Av.&lt;br&gt;&lt;br&gt;&lt;table class=plannedworkTableStyle  border=1 cellspacing=1 cellpadding=5 rules=none frame=box&gt;&lt;td&gt;  [ad]  &lt;td&gt;&lt;font size=1&gt;This service change affects one or more ADA accessible stations. Please call 511 for help with planning&lt;br clear=left&gt;your trip. If you are deaf or hard of hearing, use your preferred relay service provider or the free 711 relay.  &lt;/font&gt;&lt;/table&gt;&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>11/14/2017</Date>
+    <Time> 9:45PM</Time>
   </line>
   <line>
     <name>BDFM</name>
@@ -38,18 +73,28 @@
     <text>
                     &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
                     &lt;br/&gt;
+                  &lt;a class="plannedWorkDetailLink" onclick=ShowHide(172390);&gt;&lt;b&gt;&lt;i&gt;TRACK MAINTENANCE&lt;/i&gt;&lt;BR CLEAR=LEFT&gt;[F] [G] Queens-bound trains skip Fort Hamilton Pkwy&lt;/b&gt;, &lt;b&gt;15 St-Prospect Park&lt;/b&gt; &lt;b&gt;and&lt;/b&gt; &lt;b&gt;4 Av-9 St&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 172390 class="plannedWorkDetail" &gt;&lt;/b&gt;Late Nights, 9:45 PM to 5 AM, Mon to Fri, Nov 13 - 17&lt;/font&gt;                     &lt;br&gt;&lt;br&gt;For service &lt;i&gt;to&lt;/i&gt; these stations, take the [F] or [G] to 7 Av or Smith-9 Sts and transfer to a &lt;br&gt;Coney Island-bound [F] or Church Av-bound [G].&lt;br&gt;&lt;br&gt;For service&lt;i&gt; from&lt;/i&gt; these stations, take the [F] or [G] to 7 Av or Church Av and transfer to a &lt;br&gt;Queens-bound [F] or [G].&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              
+                    &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
+                    &lt;br/&gt;
                   &lt;a class="plannedWorkDetailLink" onclick=ShowHide(170246);&gt;&lt;b&gt;&lt;i&gt;FASTRACK&lt;/i&gt;&lt;br clear=left&gt;[D] Norwood-bound trains make local stops at 25 St, Prospect Av, 4 Av-9 St, Union St and DeKalb Av&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 170246 class="plannedWorkDetail" &gt;&lt;/b&gt;Evenings, beginning 8:30 PM, Mon to Thu, Nov 13 - 16&lt;br&gt;&lt;br&gt;&amp;bull; Please allow additional travel time.&lt;br&gt;&lt;br&gt;&lt;b&gt;Reminders:&lt;/b&gt; &lt;/font&gt;&lt;a href=http://advisory.mtanyct.info/pdf_files/NightMap.pdf target=_blank&gt;&lt;font color=#0000FF&gt;&lt;b&gt;&lt;u&gt;Late Night&lt;/u&gt;&lt;/b&gt;&lt;/font&gt;&lt;/a&gt; local service operates as scheduled in Brooklyn.&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>11/14/2017</Date>
-    <Time> 9:33PM</Time>
+    <Time> 9:45PM</Time>
   </line>
   <line>
     <name>G</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>PLANNED WORK</status>
+    <text>
+                    &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
+                    &lt;br/&gt;
+                  &lt;a class="plannedWorkDetailLink" onclick=ShowHide(172390);&gt;&lt;b&gt;&lt;i&gt;TRACK MAINTENANCE&lt;/i&gt;&lt;BR CLEAR=LEFT&gt;[F] [G] Queens-bound trains skip Fort Hamilton Pkwy&lt;/b&gt;, &lt;b&gt;15 St-Prospect Park&lt;/b&gt; &lt;b&gt;and&lt;/b&gt; &lt;b&gt;4 Av-9 St&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 172390 class="plannedWorkDetail" &gt;&lt;/b&gt;Late Nights, 9:45 PM to 5 AM, Mon to Fri, Nov 13 - 17&lt;/font&gt;                     &lt;br&gt;&lt;br&gt;For service &lt;i&gt;to&lt;/i&gt; these stations, take the [F] or [G] to 7 Av or Smith-9 Sts and transfer to a &lt;br&gt;Coney Island-bound [F] or Church Av-bound [G].&lt;br&gt;&lt;br&gt;For service&lt;i&gt; from&lt;/i&gt; these stations, take the [F] or [G] to 7 Av or Church Av and transfer to a &lt;br&gt;Queens-bound [F] or [G].&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>11/14/2017</Date>
+    <Time> 9:45PM</Time>
   </line>
   <line>
     <name>JZ</name>
@@ -415,7 +460,7 @@
               &lt;br/&gt;
             </text>
     <Date>11/14/2017</Date>
-    <Time> 9:33PM</Time>
+    <Time> 9:45PM</Time>
   </line>
 </bus><BT>
   <line>
