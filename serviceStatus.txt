@@ -1,17 +1,33 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>DELAYS</status>
+    <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;11/15/2017&amp;nbsp; 7:41AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;P&gt;Southbound [2] and [5] trains are holding in stations because of a train with mechanical problems at &lt;STRONG&gt;3 Av-149 St.&lt;/STRONG&gt;&lt;/P&gt;
+&lt;P&gt; &lt;/P&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>11/15/2017</Date>
+    <Time> 7:41AM</Time>
   </line>
   <line>
     <name>456</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>DELAYS</status>
+    <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;11/15/2017&amp;nbsp; 7:41AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;P&gt;Southbound [2] and [5] trains are holding in stations because of a train with mechanical problems at &lt;STRONG&gt;3 Av-149 St.&lt;/STRONG&gt;&lt;/P&gt;
+&lt;P&gt; &lt;/P&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>11/15/2017</Date>
+    <Time> 7:41AM</Time>
   </line>
   <line>
     <name>7</name>
@@ -22,24 +38,37 @@
   </line>
   <line>
     <name>ACE</name>
-    <status>DELAYS</status>
+    <status>SERVICE CHANGE</status>
     <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;11/15/2017&amp;nbsp; 7:33AM
+                    &amp;nbsp;Posted:&amp;nbsp;11/15/2017&amp;nbsp; 7:41AM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  Northbound [E] trains are running with delays because of a train with mechanical problems at &lt;STRONG&gt;7 Av-53 St.&lt;/STRONG&gt;
+                  &lt;P&gt;Some northbound [E] trains are stop[ping along the [C] line from &lt;STRONG&gt;42 St-Port Authority&lt;/STRONG&gt; to &lt;STRONG&gt;168 St&lt;/STRONG&gt;.&lt;/P&gt;
+&lt;P&gt;Some northbound [E] trains are stopping along the [M] line from &lt;STRONG&gt;W 4 St-Wash Sq&lt;/STRONG&gt; to &lt;STRONG&gt;Queens Plaza.&lt;/STRONG&gt;&lt;/P&gt;
+&lt;P&gt;These service changes are because of NYPD activity at 7 Av-53 St. &lt;/P&gt;
+&lt;P&gt;Expect delays on the [C], [E] and [F] trains.&lt;/P&gt;
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>11/15/2017</Date>
-    <Time> 7:33AM</Time>
+    <Time> 7:41AM</Time>
   </line>
   <line>
     <name>BDFM</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>SERVICE CHANGE</status>
+    <text>
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;11/15/2017&amp;nbsp; 7:41AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;P&gt;Some northbound [E] trains are stop[ping along the [C] line from &lt;STRONG&gt;42 St-Port Authority&lt;/STRONG&gt; to &lt;STRONG&gt;168 St&lt;/STRONG&gt;.&lt;/P&gt;
+&lt;P&gt;Some northbound [E] trains are stopping along the [M] line from &lt;STRONG&gt;W 4 St-Wash Sq&lt;/STRONG&gt; to &lt;STRONG&gt;Queens Plaza.&lt;/STRONG&gt;&lt;/P&gt;
+&lt;P&gt;These service changes are because of NYPD activity at 7 Av-53 St. &lt;/P&gt;
+&lt;P&gt;Expect delays on the [C], [E] and [F] trains.&lt;/P&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>11/15/2017</Date>
+    <Time> 7:41AM</Time>
   </line>
   <line>
     <name>G</name>
@@ -227,6 +256,20 @@
     <text>
                   &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
                   &lt;span class="DateStyle"&gt;
+                  &amp;nbsp;Posted:&amp;nbsp;11/15/2017&amp;nbsp; 7:43AM
+                  &lt;/span&gt;
+                  &lt;br/&gt;
+                  &lt;br/&gt;
+                &lt;P&gt;&lt;STRONG&gt;Q11&lt;/STRONG&gt; buses are detoured in both directions because of construction on Pitkin Av between Crossbay Blvd and 97 St. &lt;/P&gt;
+&lt;P&gt;Detour is as follows: &lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;Q11 Southbound&lt;/STRONG&gt;: Via Crossbay Blvd, left on Linden Blvd, right on 97 St and regular route. &lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;Q11 Northbound:&lt;/STRONG&gt; Via Centreville St into Hawtree St, left on Linden Blvd, right on Cross Bay Blvd and regular route. &lt;/P&gt;
+&lt;P&gt;All corresponding stops will  be made along the detoured route.&lt;/P&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
+                  &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                  &lt;span class="DateStyle"&gt;
                   &amp;nbsp;Posted:&amp;nbsp;11/15/2017&amp;nbsp; 2:24AM
                   &lt;/span&gt;
                   &lt;br/&gt;
@@ -271,7 +314,7 @@
               &lt;br/&gt;
             </text>
     <Date>11/15/2017</Date>
-    <Time> 2:24AM</Time>
+    <Time> 7:43AM</Time>
   </line>
   <line>
     <name>QM1 - QM44</name>
@@ -389,13 +432,13 @@
     <text>
                     &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;11/15/2017&amp;nbsp; 7:40AM
+                    &amp;nbsp;Posted:&amp;nbsp;11/15/2017&amp;nbsp; 7:42AM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  The 8:10AM train from Freeport due Penn at 8:50AM is canceled this morning due to Amtrak signal trouble in one of the East River tunnels. Customers will be accommodated by the next westbound train.&lt;br&gt;&lt;br&gt;The 6:57AM train from Freeport due Penn at 7:40AM is diverted to Atlantic Terminal today due to signal trouble in one of the East River tunnels. Customers headed to Penn Station can transfer at Jamaica for the next westbound train to Penn.
+                  &lt;font face="sans-serif"&gt;&lt;span style="font-size: 10pt;"&gt;The 8:10AM train from Freeport due Penn at 8:50AM is canceled this morning due to Amtrak signal trouble in one of the East River tunnels. Customers will be accommodated by the next westbound train.&lt;/span&gt;&lt;/font&gt;&lt;div style="font-family: sans-serif; font-size: 10pt;"&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=""&gt;&lt;font face="sans-serif"&gt;&lt;span style="font-size: 13.3333px;"&gt;The 7:29AM train from Freeport due Penn at 8:13AM is canceled at Jamaica today due to Amtrak signal trouble in one of the East River tunnels. Customers headed to Penn Station can transfer at Jamaica for the next westbound train to Penn.&lt;/span&gt;&lt;/font&gt;&lt;br&gt;&lt;br&gt;&lt;font face="sans-serif"&gt;&lt;span style="font-size: 10pt;"&gt;The 6:57AM train from Freeport due Penn at 7:40AM is diverted to Atlantic Terminal today due to signal trouble in one of the East River tunnels. Customers headed to Penn Station can transfer at Jamaica for the next westbound train to Penn.&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>11/15/2017</Date>
-    <Time> 7:40AM</Time>
+    <Time> 7:42AM</Time>
   </line>
   <line>
     <name>City Terminal Zone</name>
@@ -417,20 +460,25 @@
     <text>
                     &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;11/15/2017&amp;nbsp; 7:32AM
+                    &amp;nbsp;Posted:&amp;nbsp;11/15/2017&amp;nbsp; 7:41AM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  &lt;p&gt;&lt;span style='font-family: "Calibri",sans-serif; font-size: 11pt;"Times New Roman";'&gt;&lt;font face="Times New Roman" size="3"&gt;The 6:58AM train from Hempstead due Penn at 7:52AM is
+                  &lt;p&gt;&lt;span style='font-family: "Calibri",sans-serif; font-size: 11pt;'&gt;&lt;font face="Times New Roman" size="3"&gt;&lt;font face="Calibri"&gt;The 6:58AM train from Hempstead due Penn at 7:52AM is
 canceled in Jamaica today due to Amtrak signal trouble in one of the East River
 tunnels. Customers headed to Penn Station can transfer at Jamaica for the next
-westbound train to Penn.&lt;/font&gt;&lt;p&gt;&lt;font face="Times New Roman" size="3"&gt;
+westbound train to Penn.&lt;/font&gt;&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style='font-family: "Calibri",sans-serif; font-size: 11pt;'&gt;&lt;span style='font-family: "Calibri",sans-serif; font-size: 11pt;'&gt;&lt;font face="Times New Roman" size="3"&gt;&lt;font face="Calibri"&gt;The 7:12AM train from Hempstead due Penn at 8:03AM is
+canceled in Jamaica today due to Amtrak signal trouble in one of the East River
+tunnels. Customers headed to Penn Station can transfer at Jamaica for the next
+westbound train to Penn.&lt;/font&gt;&lt;/font&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;&lt;span style='font-family: "Calibri",sans-serif; font-size: 11pt;'&gt;&lt;span style='font-family: "Calibri",sans-serif; font-size: 11pt;'&gt;&lt;font face="Times New Roman" size="3"&gt;&lt;p&gt;
+
+&lt;br&gt;&lt;/p&gt;&lt;/font&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;/span&gt;&lt;/span&gt;&lt;p&gt;&lt;br&gt;&lt;p&gt;&lt;span style='font-family: "Calibri",sans-serif; font-size: 11pt;'&gt;&lt;font face="Times New Roman" size="3"&gt;&lt;span style='font-family: "Calibri",sans-serif; font-size: 11pt;"Times New Roman";'&gt;&lt;strong&gt;&lt;br&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/font&gt;&lt;/span&gt;&lt;p&gt;&lt;font face="Times New Roman" size="3"&gt;
 
 &lt;br&gt;&lt;/font&gt;&lt;/p&gt;&lt;p style="margin: 0in 0in 0pt;"&gt;&lt;b&gt;&lt;span style="color: red;"&gt; &lt;/span&gt;&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;font face="Times New Roman" size="3"&gt;
 
-&lt;br&gt;&lt;/font&gt;&lt;/p&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;br&gt;&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>11/15/2017</Date>
-    <Time> 7:32AM</Time>
+    <Time> 7:41AM</Time>
   </line>
   <line>
     <name>Long Beach</name>
