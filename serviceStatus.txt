@@ -1,14 +1,13 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>SERVICE CHANGE</status>
+    <status>DELAYS</status>
     <text>
-                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;11/16/2017&amp;nbsp; 8:43AM
+                    &amp;nbsp;Posted:&amp;nbsp;11/16/2017&amp;nbsp; 9:02AM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  &lt;P&gt;Southbound [1] trains are running express from &lt;STRONG&gt;72 St&lt;/STRONG&gt; to &lt;STRONG&gt;Times Sq-42 St&lt;/STRONG&gt; because of a train with mechanical problems at&lt;STRONG&gt; 66 St-Lincoln Center.&lt;/STRONG&gt;&lt;/P&gt;
-&lt;P&gt;Expect delays on [1] [2] and [3] train service.&lt;/P&gt;
+                  [1] train service has resumed following an earlier incident involving a train with mechanical problems at &lt;STRONG&gt;66 St.&lt;/STRONG&gt;
                 &lt;br/&gt;&lt;br/&gt;
               
                     &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
@@ -20,7 +19,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>11/16/2017</Date>
-    <Time> 8:43AM</Time>
+    <Time> 9:02AM</Time>
   </line>
   <line>
     <name>456</name>
@@ -39,17 +38,10 @@
   </line>
   <line>
     <name>7</name>
-    <status>DELAYS</status>
-    <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;11/16/2017&amp;nbsp; 8:44AM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  [7] train service has resumed following an earlier investigation at &lt;STRONG&gt;34 St-Hudson Yards&lt;/STRONG&gt;.
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>11/16/2017</Date>
-    <Time> 8:44AM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>ACE</name>
@@ -60,17 +52,10 @@
   </line>
   <line>
     <name>BDFM</name>
-    <status>DELAYS</status>
-    <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;11/16/2017&amp;nbsp; 8:59AM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  [D] train service has resumed following an earlier incident involving a train with mechanical problems at &lt;STRONG&gt;145 St&lt;/STRONG&gt;.
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>11/16/2017</Date>
-    <Time> 8:59AM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>G</name>
@@ -109,10 +94,15 @@
   </line>
   <line>
     <name>SIR</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>PLANNED WORK</status>
+    <text>
+                    &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
+                    &lt;br/&gt;
+                  &lt;a class="plannedWorkDetailLink" onclick=ShowHide(172980);&gt;&lt;b&gt;&lt;i&gt;SCHEDULED MAINTENANCE&lt;/i&gt;&lt;br clear=left&gt;[SIR] Trains board at the Tottenville-bound platform from Arthur Kill to Prince's Bay Stations&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 172980 class="plannedWorkDetail" &gt;&lt;/b&gt;Days, 9 AM to 2 PM, Mon to Fri, Nov 13 - 17&lt;br&gt;&lt;br&gt;&amp;bull; Boarding change includes &lt;b&gt;Arthur Kill&lt;/b&gt;, &lt;b&gt;Richmond Valley&lt;/b&gt;, &lt;b&gt;Pleasant Plains&lt;/b&gt; and &lt;br&gt;  &lt;b&gt;Prince's Bay Stations&lt;/b&gt;.&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>11/16/2017</Date>
+    <Time> 9:00AM</Time>
   </line>
 </subway><bus>
   <line>
@@ -185,7 +175,7 @@
               &lt;br/&gt;
             </text>
     <Date>11/16/2017</Date>
-    <Time> 8:55AM</Time>
+    <Time> 9:00AM</Time>
   </line>
   <line>
     <name>BXM1 - BXM18</name>
@@ -211,7 +201,7 @@
               &lt;br/&gt;
             </text>
     <Date>11/16/2017</Date>
-    <Time> 8:55AM</Time>
+    <Time> 9:00AM</Time>
   </line>
   <line>
     <name>Q1 - Q113</name>
@@ -333,7 +323,7 @@
               &lt;br/&gt;
             </text>
     <Date>11/16/2017</Date>
-    <Time> 8:55AM</Time>
+    <Time> 9:00AM</Time>
   </line>
   <line>
     <name>x1 - x68</name>
@@ -358,7 +348,7 @@
               &lt;br/&gt;
             </text>
     <Date>11/16/2017</Date>
-    <Time> 8:55AM</Time>
+    <Time> 9:00AM</Time>
   </line>
 </bus><BT>
   <line>
