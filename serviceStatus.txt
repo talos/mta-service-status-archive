@@ -1,8 +1,16 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>DELAYS</status>
+    <status>SERVICE CHANGE</status>
     <text>
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;11/16/2017&amp;nbsp; 8:43AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;P&gt;Southbound [1] trains are running express from &lt;STRONG&gt;72 St&lt;/STRONG&gt; to &lt;STRONG&gt;Times Sq-42 St&lt;/STRONG&gt; because of a train with mechanical problems at&lt;STRONG&gt; 66 St-Lincoln Center.&lt;/STRONG&gt;&lt;/P&gt;
+&lt;P&gt;Expect delays on [1] [2] and [3] train service.&lt;/P&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              
                     &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
                     &amp;nbsp;Posted:&amp;nbsp;11/16/2017&amp;nbsp; 8:25AM
@@ -12,7 +20,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>11/16/2017</Date>
-    <Time> 8:25AM</Time>
+    <Time> 8:43AM</Time>
   </line>
   <line>
     <name>456</name>
@@ -35,13 +43,13 @@
     <text>
                     &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;11/16/2017&amp;nbsp; 8:38AM
+                    &amp;nbsp;Posted:&amp;nbsp;11/16/2017&amp;nbsp; 8:44AM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  [7] trains are running with delays in both directions because of an investigation at &lt;STRONG&gt;34 St-Hudson Yards&lt;/STRONG&gt;.
+                  [7] train service has resumed following an earlier investigation at &lt;STRONG&gt;34 St-Hudson Yards&lt;/STRONG&gt;.
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>11/16/2017</Date>
-    <Time> 8:38AM</Time>
+    <Time> 8:44AM</Time>
   </line>
   <line>
     <name>ACE</name>
@@ -110,11 +118,11 @@
 </subway><bus>
   <line>
     <name>B1 - B84</name>
-    <status>SERVICE CHANGE</status>
+    <status>DELAYS</status>
     <text>
-                  &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                  &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                   &lt;span class="DateStyle"&gt;
-                  &amp;nbsp;Posted:&amp;nbsp;11/16/2017&amp;nbsp; 8:40AM
+                  &amp;nbsp;Posted:&amp;nbsp;11/16/2017&amp;nbsp; 8:42AM
                   &lt;/span&gt;
                   &lt;br/&gt;
                   &lt;br/&gt;
@@ -145,7 +153,7 @@
               &lt;br/&gt;
             </text>
     <Date>11/16/2017</Date>
-    <Time> 8:40AM</Time>
+    <Time> 8:42AM</Time>
   </line>
   <line>
     <name>B100 - B103</name>
@@ -178,7 +186,7 @@
               &lt;br/&gt;
             </text>
     <Date>11/16/2017</Date>
-    <Time> 8:40AM</Time>
+    <Time> 8:42AM</Time>
   </line>
   <line>
     <name>BXM1 - BXM18</name>
@@ -204,7 +212,7 @@
               &lt;br/&gt;
             </text>
     <Date>11/16/2017</Date>
-    <Time> 8:40AM</Time>
+    <Time> 8:42AM</Time>
   </line>
   <line>
     <name>Q1 - Q113</name>
@@ -316,7 +324,7 @@
               &lt;br/&gt;
             </text>
     <Date>11/16/2017</Date>
-    <Time> 8:40AM</Time>
+    <Time> 8:42AM</Time>
   </line>
   <line>
     <name>x1 - x68</name>
@@ -341,7 +349,7 @@
               &lt;br/&gt;
             </text>
     <Date>11/16/2017</Date>
-    <Time> 8:40AM</Time>
+    <Time> 8:42AM</Time>
   </line>
 </bus><BT>
   <line>
