@@ -1,32 +1,24 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>SERVICE CHANGE</status>
-    <text>
-                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;11/16/2017&amp;nbsp; 5:40PM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  &lt;P&gt;Northbound [2] and [3] trains are running local from &lt;STRONG&gt;Times Sq-42 St&lt;/STRONG&gt; to &lt;STRONG&gt;72 St&lt;/STRONG&gt; or &lt;STRONG&gt;96 St&lt;/STRONG&gt; because of a sick passenger at &lt;STRONG&gt;Times Sq-42 St&lt;/STRONG&gt;. &lt;/P&gt;
-&lt;P&gt;Expect delays to [1], [2] and [3] train service. &lt;/P&gt;
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>11/16/2017</Date>
-    <Time> 5:40PM</Time>
-  </line>
-  <line>
-    <name>456</name>
     <status>DELAYS</status>
     <text>
                     &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;11/16/2017&amp;nbsp; 5:34PM
+                    &amp;nbsp;Posted:&amp;nbsp;11/16/2017&amp;nbsp; 5:45PM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  [6] service has resumed following an earlier incident involving an unauthorized person near the track area at &lt;STRONG&gt;110 St&lt;/STRONG&gt;.
+                  [2] and [3] service has resumed following an earlier incident involving a sick passenger at &lt;STRONG&gt;Times Sq-42 St&lt;/STRONG&gt;.
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>11/16/2017</Date>
-    <Time> 5:34PM</Time>
+    <Time> 5:45PM</Time>
+  </line>
+  <line>
+    <name>456</name>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>7</name>
