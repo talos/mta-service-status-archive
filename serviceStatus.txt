@@ -1,17 +1,10 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>DELAYS</status>
-    <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;11/17/2017&amp;nbsp; 5:49AM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  [1], [2] and [3] train service has resumed following earlier train with mechanical problems at&lt;STRONG&gt; Times Sq-42 St.&lt;/STRONG&gt;
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>11/17/2017</Date>
-    <Time> 5:49AM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>456</name>
@@ -129,20 +122,24 @@
     <text>
                   &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
                   &lt;span class="DateStyle"&gt;
-                  &amp;nbsp;Posted:&amp;nbsp;11/17/2017&amp;nbsp; 6:04AM
+                  &amp;nbsp;Posted:&amp;nbsp;11/17/2017&amp;nbsp; 6:07AM
                   &lt;/span&gt;
                   &lt;br/&gt;
                   &lt;br/&gt;
-                &lt;P&gt;&lt;STRONG&gt;Bx32&lt;/STRONG&gt; buses are detoured in both directions because of paving on Morris Av between 161 St and 167 St. &lt;/P&gt;
-&lt;P&gt;Detour is as follows:&lt;/P&gt;
-&lt;P&gt;&lt;STRONG&gt;Northbound:&lt;/STRONG&gt; Via Morris Av, left on 161 St, right on Grand Concourse service road, right on 167 St, left on Morris Av and regular route. &lt;/P&gt;
-&lt;P&gt;&lt;STRONG&gt;Southbound: &lt;/STRONG&gt;Via Morris Av, right on 167 St, left on Grand Concourse main roadway, left on 161 St, right on Morris Av and regular route. &lt;/P&gt;
+                &lt;P&gt;&lt;STRONG&gt;BX9 &lt;/STRONG&gt;and&lt;STRONG&gt; BX39&lt;/STRONG&gt; buses are detoured in both directions because of paving on E 180 St between Bryant Av and Boston Rd. &lt;/P&gt;
+&lt;P&gt;Detours is as follows:&lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;BX9 Southbound:&lt;/STRONG&gt; Via Southern Blvd, remain on Southern Blvd to E Tremont Av, left on E Tremont Av and regular route into terminal.&lt;BR&gt;&lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;BX9 Northbound:&lt;/STRONG&gt; Via 180 St, left on Boston Rd, right on E Tremont Av, right on Southern Blvd and regular route.&lt;/P&gt;
+&lt;P&gt; &lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;BX36 Westbound:&lt;/STRONG&gt; Via Boston Rd, remain on Boston Rd to Bronx Park South, left on Bronx Park South, left on Southern Blvd, right on 180 St and regular route.&lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;BX36 Eastbound:&lt;/STRONG&gt; Via 180 St, left on Southern Blvd, right on Bronx Park South, right on Boston Rd and regular route.&lt;/P&gt;
+&lt;P&gt; &lt;/P&gt;
               &lt;br/&gt;
               &lt;br/&gt;
             
                   &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
                   &lt;span class="DateStyle"&gt;
-                  &amp;nbsp;Posted:&amp;nbsp;11/17/2017&amp;nbsp;12:13AM
+                  &amp;nbsp;Posted:&amp;nbsp;11/17/2017&amp;nbsp; 6:05AM
                   &lt;/span&gt;
                   &lt;br/&gt;
                   &lt;br/&gt;
@@ -155,18 +152,14 @@
             
                   &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
                   &lt;span class="DateStyle"&gt;
-                  &amp;nbsp;Posted:&amp;nbsp;11/17/2017&amp;nbsp;12:11AM
+                  &amp;nbsp;Posted:&amp;nbsp;11/17/2017&amp;nbsp; 6:04AM
                   &lt;/span&gt;
                   &lt;br/&gt;
                   &lt;br/&gt;
-                &lt;P&gt;&lt;STRONG&gt;BX9 &lt;/STRONG&gt;and&lt;STRONG&gt; BX39&lt;/STRONG&gt; buses are detoured in both directions because of paving on E 180 St between Bryant Av and Boston Rd. &lt;/P&gt;
-&lt;P&gt;Detours is as follows:&lt;/P&gt;
-&lt;P&gt;&lt;STRONG&gt;BX9 Southbound:&lt;/STRONG&gt; Via Southern Blvd, remain on Southern Blvd to E Tremont Av, left on E Tremont Av and regular route into terminal.&lt;BR&gt;&lt;/P&gt;
-&lt;P&gt;&lt;STRONG&gt;BX9 Northbound:&lt;/STRONG&gt; Via 180 St, left on Boston Rd, right on E Tremont Av, right on Southern Blvd and regular route.&lt;/P&gt;
-&lt;P&gt; &lt;/P&gt;
-&lt;P&gt;&lt;STRONG&gt;BX36 Westbound:&lt;/STRONG&gt; Via Boston Rd, remain on Boston Rd to Bronx Park South, left on Bronx Park South, left on Southern Blvd, right on 180 St and regular route.&lt;/P&gt;
-&lt;P&gt;&lt;STRONG&gt;BX36 Eastbound:&lt;/STRONG&gt; Via 180 St, left on Southern Blvd, right on Bronx Park South, right on Boston Rd and regular route.&lt;/P&gt;
-&lt;P&gt; &lt;/P&gt;
+                &lt;P&gt;&lt;STRONG&gt;Bx32&lt;/STRONG&gt; buses are detoured in both directions because of paving on Morris Av between 161 St and 167 St. &lt;/P&gt;
+&lt;P&gt;Detour is as follows:&lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;Northbound:&lt;/STRONG&gt; Via Morris Av, left on 161 St, right on Grand Concourse service road, right on 167 St, left on Morris Av and regular route. &lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;Southbound: &lt;/STRONG&gt;Via Morris Av, right on 167 St, left on Grand Concourse main roadway, left on 161 St, right on Morris Av and regular route. &lt;/P&gt;
               &lt;br/&gt;
               &lt;br/&gt;
             
@@ -183,7 +176,7 @@
               &lt;br/&gt;
             </text>
     <Date>11/17/2017</Date>
-    <Time> 6:04AM</Time>
+    <Time> 6:07AM</Time>
   </line>
   <line>
     <name>BXM1 - BXM18</name>
@@ -196,6 +189,18 @@
     <name>M1 - M116</name>
     <status>SERVICE CHANGE</status>
     <text>
+                  &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                  &lt;span class="DateStyle"&gt;
+                  &amp;nbsp;Posted:&amp;nbsp;11/17/2017&amp;nbsp; 6:06AM
+                  &lt;/span&gt;
+                  &lt;br/&gt;
+                  &lt;br/&gt;
+                &lt;P&gt;&lt;STRONG&gt;M104&lt;/STRONG&gt; buses are detoured because of a road obstruction on Convent Av and 126 St.&lt;/P&gt;
+&lt;P&gt;Detour is as follows:&lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;Northbound&lt;/STRONG&gt;: Via Broadway, right on LaSalle St, left on Amsterdam Av, left on 125 St and regular route.&lt;/P&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
                   &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
                   &lt;span class="DateStyle"&gt;
                   &amp;nbsp;Posted:&amp;nbsp;11/17/2017&amp;nbsp; 6:04AM
@@ -225,18 +230,6 @@
               &lt;br/&gt;
               &lt;br/&gt;
             
-                  &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
-                  &lt;span class="DateStyle"&gt;
-                  &amp;nbsp;Posted:&amp;nbsp;11/17/2017&amp;nbsp;12:11AM
-                  &lt;/span&gt;
-                  &lt;br/&gt;
-                  &lt;br/&gt;
-                &lt;P&gt;&lt;STRONG&gt;M104&lt;/STRONG&gt; buses are detoured because of a road obstruction on Convent Av and 126 St.&lt;/P&gt;
-&lt;P&gt;Detour is as follows:&lt;/P&gt;
-&lt;P&gt;&lt;STRONG&gt;Northbound&lt;/STRONG&gt;: Via Broadway, right on LaSalle St, left on Amsterdam Av, left on 125 St and regular route.&lt;/P&gt;
-              &lt;br/&gt;
-              &lt;br/&gt;
-            
                   &lt;span class="TitlePlannedWork" &gt;Planned Detour&lt;/span&gt;
                   &lt;br/&gt;
                 &lt;a class="plannedWorkDetailLink" onclick=ShowHide(170948);&gt;&lt;b&gt;M31 and M57&lt;/b&gt; - &lt;b&gt;Eastbound buses bypass the stop on 57 St at 8 Av&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 170948 class="plannedWorkDetail" &gt;&lt;/b&gt;Until further notice&lt;br&gt;&lt;br&gt;Due to construction, please use the nearby stop&lt;b&gt; on 57 St &lt;/b&gt;at Broadway.&lt;br&gt;&lt;b&gt;                              [TP]&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
@@ -250,12 +243,25 @@
               &lt;br/&gt;
             </text>
     <Date>11/17/2017</Date>
-    <Time> 6:04AM</Time>
+    <Time> 6:06AM</Time>
   </line>
   <line>
     <name>Q1 - Q113</name>
     <status>SERVICE CHANGE</status>
     <text>
+                  &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                  &lt;span class="DateStyle"&gt;
+                  &amp;nbsp;Posted:&amp;nbsp;11/17/2017&amp;nbsp; 6:07AM
+                  &lt;/span&gt;
+                  &lt;br/&gt;
+                  &lt;br/&gt;
+                &lt;P&gt;&lt;STRONG&gt;Q66&lt;/STRONG&gt; westbound buses are detoured because of milling on Northern Blvd between 76 St and 81 St. &lt;/P&gt;
+&lt;P&gt;Detour is as follows:&lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;Queens Plaza bound:&lt;/STRONG&gt; Via Northern Blvd, right on 83 St, left on 32 Av, left on 75 Av, right on Northern Blvd and regular route. &lt;/P&gt;
+&lt;P&gt; &lt;/P&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
                   &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
                   &lt;span class="DateStyle"&gt;
                   &amp;nbsp;Posted:&amp;nbsp;11/17/2017&amp;nbsp; 6:05AM
@@ -283,19 +289,6 @@
 &lt;P&gt;&lt;STRONG&gt;&lt;/STRONG&gt; &lt;/P&gt;
 &lt;P&gt;&lt;STRONG&gt;Q9 Westbound:&lt;/STRONG&gt; Via Sutphin Blvd, right on Linden Blvd, left on Lincoln St and regular route.&lt;/P&gt;
 &lt;P&gt;&lt;STRONG&gt;Q9 Eastbound:&lt;/STRONG&gt; Via Lincoln St, right on Linden BLvd, left on Sutphin Blvd and regular route.&lt;/P&gt;
-&lt;P&gt; &lt;/P&gt;
-              &lt;br/&gt;
-              &lt;br/&gt;
-            
-                  &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
-                  &lt;span class="DateStyle"&gt;
-                  &amp;nbsp;Posted:&amp;nbsp;11/17/2017&amp;nbsp;12:11AM
-                  &lt;/span&gt;
-                  &lt;br/&gt;
-                  &lt;br/&gt;
-                &lt;P&gt;&lt;STRONG&gt;Q66&lt;/STRONG&gt; westbound buses are detoured because of milling on Northern Blvd between 76 St and 81 St. &lt;/P&gt;
-&lt;P&gt;Detour is as follows:&lt;/P&gt;
-&lt;P&gt;&lt;STRONG&gt;Queens Plaza bound:&lt;/STRONG&gt; Via Northern Blvd, right on 83 St, left on 32 Av, left on 75 Av, right on Northern Blvd and regular route. &lt;/P&gt;
 &lt;P&gt; &lt;/P&gt;
               &lt;br/&gt;
               &lt;br/&gt;
@@ -331,7 +324,7 @@
               &lt;br/&gt;
             </text>
     <Date>11/17/2017</Date>
-    <Time> 6:05AM</Time>
+    <Time> 6:07AM</Time>
   </line>
   <line>
     <name>QM1 - QM44</name>
