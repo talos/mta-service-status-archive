@@ -8,10 +8,20 @@
   </line>
   <line>
     <name>456</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>SERVICE CHANGE</status>
+    <text>
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;11/17/2017&amp;nbsp; 8:40AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;P&gt;Northbound [6] trains are running express from &lt;STRONG&gt;Brooklyn Bridge-City Hall&lt;/STRONG&gt; to &lt;STRONG&gt;14 St-Union Sq.&lt;/STRONG&gt;&lt;/P&gt;
+&lt;P&gt;Some northbound [5] trains are stopping along the [2] line from &lt;STRONG&gt;Nevins St&lt;/STRONG&gt; to &lt;STRONG&gt;149 St-Grand Concourse&lt;/STRONG&gt;.&lt;/P&gt;
+&lt;P&gt;These service changes are because of a customer struck by the train at &lt;STRONG&gt;Bleecker St&lt;/STRONG&gt;.&lt;/P&gt;
+&lt;P&gt;Expect delays on [4], [5], and [6] trains.&lt;/P&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>11/17/2017</Date>
+    <Time> 8:40AM</Time>
   </line>
   <line>
     <name>7</name>
@@ -265,16 +275,6 @@
     <text>
                   &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                   &lt;span class="DateStyle"&gt;
-                  &amp;nbsp;Posted:&amp;nbsp;11/17/2017&amp;nbsp; 8:29AM
-                  &lt;/span&gt;
-                  &lt;br/&gt;
-                  &lt;br/&gt;
-                &lt;STRONG&gt;Q66&lt;/STRONG&gt; bus service has resumed following earlier milling on Northern Blvd.
-              &lt;br/&gt;
-              &lt;br/&gt;
-            
-                  &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                  &lt;span class="DateStyle"&gt;
                   &amp;nbsp;Posted:&amp;nbsp;11/17/2017&amp;nbsp; 8:05AM
                   &lt;/span&gt;
                   &lt;br/&gt;
@@ -384,7 +384,7 @@
               &lt;br/&gt;
             </text>
     <Date>11/17/2017</Date>
-    <Time> 8:29AM</Time>
+    <Time> 8:05AM</Time>
   </line>
   <line>
     <name>QM1 - QM44</name>
