@@ -1,33 +1,24 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>SERVICE CHANGE</status>
-    <text>
-                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;11/17/2017&amp;nbsp; 9:17AM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  &lt;P&gt;Southbound [2] and [3] trains are running express from &lt;STRONG&gt;Atlantic Av-Barclay Ctr&lt;/STRONG&gt; to &lt;STRONG&gt;Franklin Av&lt;/STRONG&gt; because of a train with mechanical problems at &lt;STRONG&gt;Grand Army Plaza&lt;/STRONG&gt;.&lt;/P&gt;
-&lt;P&gt;Expect delays on [2], [3], [4], and [5] trains.&lt;/P&gt;
-&lt;P&gt;Our crews are working to resolve the issue.&lt;/P&gt;
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>11/17/2017</Date>
-    <Time> 9:17AM</Time>
-  </line>
-  <line>
-    <name>456</name>
     <status>DELAYS</status>
     <text>
                     &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;11/17/2017&amp;nbsp; 9:13AM
+                    &amp;nbsp;Posted:&amp;nbsp;11/17/2017&amp;nbsp; 9:26AM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  [4], [5] and [6] train service has resumed following an earlier incident involving a customer struck by the train at&lt;STRONG&gt; Bleecker St.&lt;/STRONG&gt;
+                  [2] and [3] train service has resumed following an earlier train with mechanical problems at &lt;STRONG&gt;Grand Army Plaza&lt;/STRONG&gt;.
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>11/17/2017</Date>
-    <Time> 9:13AM</Time>
+    <Time> 9:26AM</Time>
+  </line>
+  <line>
+    <name>456</name>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>7</name>
@@ -100,21 +91,8 @@
 </subway><bus>
   <line>
     <name>B1 - B84</name>
-    <status>SERVICE CHANGE</status>
+    <status>DELAYS</status>
     <text>
-                  &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
-                  &lt;span class="DateStyle"&gt;
-                  &amp;nbsp;Posted:&amp;nbsp;11/17/2017&amp;nbsp; 9:20AM
-                  &lt;/span&gt;
-                  &lt;br/&gt;
-                  &lt;br/&gt;
-                &lt;P&gt;&lt;STRONG&gt;Q60 &lt;/STRONG&gt;buses are detoured eastbound because of Con Ed work on 108 Av between 155 St and 157 St. &lt;/P&gt;
-&lt;P&gt;Detour is as follows:&lt;/P&gt;
-&lt;P&gt;&lt;STRONG&gt;Eastbound:&lt;/STRONG&gt; Via Sutphin Blvd, left on 110 Av, left on 157 St, left on 109 Av and regular route.&lt;/P&gt;
-&lt;P&gt;Corresponding stops will be made along detour route.&lt;/P&gt;
-              &lt;br/&gt;
-              &lt;br/&gt;
-            
                   &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                   &lt;span class="DateStyle"&gt;
                   &amp;nbsp;Posted:&amp;nbsp;11/17/2017&amp;nbsp; 9:10AM
@@ -175,7 +153,7 @@
               &lt;br/&gt;
             </text>
     <Date>11/17/2017</Date>
-    <Time> 9:20AM</Time>
+    <Time> 9:10AM</Time>
   </line>
   <line>
     <name>B100 - B103</name>
@@ -320,7 +298,7 @@
     <text>
                   &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
                   &lt;span class="DateStyle"&gt;
-                  &amp;nbsp;Posted:&amp;nbsp;11/17/2017&amp;nbsp; 9:20AM
+                  &amp;nbsp;Posted:&amp;nbsp;11/17/2017&amp;nbsp; 9:26AM
                   &lt;/span&gt;
                   &lt;br/&gt;
                   &lt;br/&gt;
@@ -455,7 +433,7 @@
               &lt;br/&gt;
             </text>
     <Date>11/17/2017</Date>
-    <Time> 9:20AM</Time>
+    <Time> 9:26AM</Time>
   </line>
   <line>
     <name>QM1 - QM44</name>
