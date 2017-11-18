@@ -1,10 +1,17 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>SERVICE CHANGE</status>
+    <text>
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;11/17/2017&amp;nbsp; 8:05PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  Northbound [2] trains are running express from &lt;STRONG&gt;East 180 St&lt;/STRONG&gt; to &lt;STRONG&gt;Gun Hill Road&lt;/STRONG&gt; because of train with mechanical problems at &lt;STRONG&gt;Pelham Parkway.&lt;/STRONG&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>11/17/2017</Date>
+    <Time> 8:05PM</Time>
   </line>
   <line>
     <name>456</name>
@@ -83,32 +90,21 @@
     <text>
                   &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                   &lt;span class="DateStyle"&gt;
+                  &amp;nbsp;Posted:&amp;nbsp;11/17/2017&amp;nbsp; 8:05PM
+                  &lt;/span&gt;
+                  &lt;br/&gt;
+                  &lt;br/&gt;
+                &lt;STRONG&gt;B62, Q32, Q39, Q60, Q66, Q67, Q100, Q101, Q102, QM2, QM3 &lt;/STRONG&gt;and &lt;STRONG&gt;QM20 &lt;/STRONG&gt;bus service has resumed following earlier traffic conditions in the Queens Plaza area.
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
+                  &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                  &lt;span class="DateStyle"&gt;
                   &amp;nbsp;Posted:&amp;nbsp;11/17/2017&amp;nbsp; 7:57PM
                   &lt;/span&gt;
                   &lt;br/&gt;
                   &lt;br/&gt;
                 &lt;STRONG&gt;B35 &lt;/STRONG&gt;and &lt;STRONG&gt;B35-LTD&lt;/STRONG&gt; bus service has resumed following earlier traffic conditions on Church Av between McDonald Av and New York Av.
-              &lt;br/&gt;
-              &lt;br/&gt;
-            
-                  &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                  &lt;span class="DateStyle"&gt;
-                  &amp;nbsp;Posted:&amp;nbsp;11/17/2017&amp;nbsp; 7:54PM
-                  &lt;/span&gt;
-                  &lt;br/&gt;
-                  &lt;br/&gt;
-                &lt;STRONG&gt;B12 &lt;/STRONG&gt;bus service has resumed following earlier traffic conditions on East New York Av between Atlantic Av and Utica Av.
-              &lt;br/&gt;
-              &lt;br/&gt;
-            
-                  &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                  &lt;span class="DateStyle"&gt;
-                  &amp;nbsp;Posted:&amp;nbsp;11/17/2017&amp;nbsp; 6:15PM
-                  &lt;/span&gt;
-                  &lt;br/&gt;
-                  &lt;br/&gt;
-                &lt;P&gt;&lt;STRONG&gt;B62, Q32, Q39, Q60, Q66, Q67, Q100, Q101, Q102, QM2, QM3 &lt;/STRONG&gt;and &lt;STRONG&gt;QM20&lt;/STRONG&gt; &lt;STRONG&gt; &lt;/STRONG&gt;buses are running with delays in both directions, due to traffic conditions in the Queens Plaza area. &lt;/P&gt;
-&lt;P&gt;Allow additional travel time.&lt;/P&gt;
               &lt;br/&gt;
               &lt;br/&gt;
             
@@ -151,7 +147,7 @@
               &lt;br/&gt;
             </text>
     <Date>11/17/2017</Date>
-    <Time> 7:57PM</Time>
+    <Time> 8:05PM</Time>
   </line>
   <line>
     <name>B100 - B103</name>
@@ -327,6 +323,16 @@
     <text>
                   &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                   &lt;span class="DateStyle"&gt;
+                  &amp;nbsp;Posted:&amp;nbsp;11/17/2017&amp;nbsp; 8:05PM
+                  &lt;/span&gt;
+                  &lt;br/&gt;
+                  &lt;br/&gt;
+                &lt;STRONG&gt;B62, Q32, Q39, Q60, Q66, Q67, Q100, Q101, Q102, QM2, QM3 &lt;/STRONG&gt;and &lt;STRONG&gt;QM20 &lt;/STRONG&gt;bus service has resumed following earlier traffic conditions in the Queens Plaza area.
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
+                  &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                  &lt;span class="DateStyle"&gt;
                   &amp;nbsp;Posted:&amp;nbsp;11/17/2017&amp;nbsp; 8:02PM
                   &lt;/span&gt;
                   &lt;br/&gt;
@@ -342,16 +348,6 @@
                   &lt;br/&gt;
                   &lt;br/&gt;
                 &lt;STRONG&gt;Q66&lt;/STRONG&gt; bus service has resumed following earlier FDNY activity at 106 St and Northern Blvd.
-              &lt;br/&gt;
-              &lt;br/&gt;
-            
-                  &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                  &lt;span class="DateStyle"&gt;
-                  &amp;nbsp;Posted:&amp;nbsp;11/17/2017&amp;nbsp; 7:52PM
-                  &lt;/span&gt;
-                  &lt;br/&gt;
-                  &lt;br/&gt;
-                &lt;STRONG&gt;Q58 &lt;/STRONG&gt;and &lt;STRONG&gt;Q88&lt;/STRONG&gt; bus service has resumed following earlier traffic conditions on Horace Harding Expressway service road from College Point Blvd to 108 St.
               &lt;br/&gt;
               &lt;br/&gt;
             
@@ -386,17 +382,6 @@
                   &lt;br/&gt;
                   &lt;br/&gt;
                 &lt;STRONG&gt;Q27&lt;/STRONG&gt; bus service are running with delays in both directions because of traffic conditions on Springfield Blvd between 54 Av and 67 Av.
-              &lt;br/&gt;
-              &lt;br/&gt;
-            
-                  &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                  &lt;span class="DateStyle"&gt;
-                  &amp;nbsp;Posted:&amp;nbsp;11/17/2017&amp;nbsp; 6:15PM
-                  &lt;/span&gt;
-                  &lt;br/&gt;
-                  &lt;br/&gt;
-                &lt;P&gt;&lt;STRONG&gt;B62, Q32, Q39, Q60, Q66, Q67, Q100, Q101, Q102, QM2, QM3 &lt;/STRONG&gt;and &lt;STRONG&gt;QM20&lt;/STRONG&gt; &lt;STRONG&gt; &lt;/STRONG&gt;buses are running with delays in both directions, due to traffic conditions in the Queens Plaza area. &lt;/P&gt;
-&lt;P&gt;Allow additional travel time.&lt;/P&gt;
               &lt;br/&gt;
               &lt;br/&gt;
             
@@ -481,12 +466,22 @@
               &lt;br/&gt;
             </text>
     <Date>11/17/2017</Date>
-    <Time> 8:02PM</Time>
+    <Time> 8:05PM</Time>
   </line>
   <line>
     <name>QM1 - QM44</name>
-    <status>SERVICE CHANGE</status>
+    <status>DELAYS</status>
     <text>
+                  &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                  &lt;span class="DateStyle"&gt;
+                  &amp;nbsp;Posted:&amp;nbsp;11/17/2017&amp;nbsp; 8:05PM
+                  &lt;/span&gt;
+                  &lt;br/&gt;
+                  &lt;br/&gt;
+                &lt;STRONG&gt;B62, Q32, Q39, Q60, Q66, Q67, Q100, Q101, Q102, QM2, QM3 &lt;/STRONG&gt;and &lt;STRONG&gt;QM20 &lt;/STRONG&gt;bus service has resumed following earlier traffic conditions in the Queens Plaza area.
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
                   &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
                   &lt;span class="DateStyle"&gt;
                   &amp;nbsp;Posted:&amp;nbsp;11/17/2017&amp;nbsp; 6:56PM
@@ -497,17 +492,6 @@
 &lt;P&gt;Detour is as follows:&lt;/P&gt;
 &lt;P&gt;&lt;STRONG&gt;Towards Rochdale&lt;/STRONG&gt;: Via Linden Blvd, right on Merrick Blvd, right on Baisley Blvd, left on Bedell St and regular route. &lt;/P&gt;
 &lt;P&gt; &lt;/P&gt;
-              &lt;br/&gt;
-              &lt;br/&gt;
-            
-                  &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                  &lt;span class="DateStyle"&gt;
-                  &amp;nbsp;Posted:&amp;nbsp;11/17/2017&amp;nbsp; 6:15PM
-                  &lt;/span&gt;
-                  &lt;br/&gt;
-                  &lt;br/&gt;
-                &lt;P&gt;&lt;STRONG&gt;B62, Q32, Q39, Q60, Q66, Q67, Q100, Q101, Q102, QM2, QM3 &lt;/STRONG&gt;and &lt;STRONG&gt;QM20&lt;/STRONG&gt; &lt;STRONG&gt; &lt;/STRONG&gt;buses are running with delays in both directions, due to traffic conditions in the Queens Plaza area. &lt;/P&gt;
-&lt;P&gt;Allow additional travel time.&lt;/P&gt;
               &lt;br/&gt;
               &lt;br/&gt;
             
@@ -540,7 +524,7 @@
               &lt;br/&gt;
             </text>
     <Date>11/17/2017</Date>
-    <Time> 6:56PM</Time>
+    <Time> 8:05PM</Time>
   </line>
   <line>
     <name>S40 - S98</name>
@@ -702,17 +686,10 @@
   </line>
   <line>
     <name>Port Jefferson</name>
-    <status>DELAYS</status>
-    <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;11/17/2017&amp;nbsp; 7:03PM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  The 6:49PM train from Stony Brook due Huntington at 7:56PM is operating 10 minutes late due to congestion caused by a delayed eastbound train in single-track territory.
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>11/17/2017</Date>
-    <Time> 7:03PM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>Port Washington</name>
