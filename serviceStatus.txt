@@ -1,14 +1,13 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>SERVICE CHANGE</status>
+    <status>DELAYS</status>
     <text>
-                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;11/18/2017&amp;nbsp; 8:15AM
+                    &amp;nbsp;Posted:&amp;nbsp;11/18/2017&amp;nbsp; 9:56AM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  &lt;P&gt;Northbound [1] trains are running express from&lt;STRONG&gt; 72 St&lt;/STRONG&gt; to &lt;STRONG&gt;96 St&lt;/STRONG&gt; because of switch problems at &lt;STRONG&gt;72 St.&lt;/STRONG&gt;&lt;/P&gt;
-&lt;P&gt;Expect delays on [1], [2] and [3] trains.&lt;/P&gt;
+                  [1] train service has resumed following earlier switch problems at &lt;STRONG&gt;72 St.&lt;/STRONG&gt;
                 &lt;br/&gt;&lt;br/&gt;
               
                     &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
@@ -22,7 +21,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>11/18/2017</Date>
-    <Time> 8:15AM</Time>
+    <Time> 9:56AM</Time>
   </line>
   <line>
     <name>456</name>
