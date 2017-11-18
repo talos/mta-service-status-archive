@@ -1,8 +1,15 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>PLANNED WORK</status>
+    <status>SERVICE CHANGE</status>
     <text>
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;11/18/2017&amp;nbsp; 8:01AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  Northbound [1] trains are running express from &lt;STRONG&gt;207 St&lt;/STRONG&gt; to &lt;STRONG&gt;Van Cortlandt Park-242 St&lt;/STRONG&gt; because of signal problems at &lt;STRONG&gt;215 St.&lt;/STRONG&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              
                     &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
                     &lt;br/&gt;
                   &lt;a class="plannedWorkDetailLink" onclick=ShowHide(162679);&gt;&lt;b&gt;&lt;i&gt;TUNNEL RECONSTRUCTION&lt;/i&gt; &lt;/b&gt;&amp;nbsp&lt;br clear=left&gt;&lt;b&gt;Weekend [2] [3] station closures and route changes&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 162679 class="plannedWorkDetail" &gt;&lt;/b&gt;Until Summer 2018&lt;br&gt;&lt;br&gt;No service at Park Place, Wall St, Clark St and Hoyt St; use nearby [4] [5] stations&lt;br&gt;&lt;br&gt;No [2] [3] service between Manhattan and Brooklyn; take the [4] or [5] instead.&lt;br&gt;&lt;br&gt;Weekend service map for &lt;a href=http://web.mta.info/nyct/service/pdf/FF_Clark_St_web_map.pdf target=_blank&gt;&lt;font color=#0000FF&gt;&lt;b&gt;&lt;u&gt;Lower Manhattan and Downtown Brooklyn&lt;/u&gt;&lt;/b&gt;&lt;/font&gt;&lt;/a&gt;&lt;br&gt;&lt;br&gt;&lt;/font&gt;New timetables with Weekend Route Changes | [2] &lt;a href=http://web.mta.info/nyct/service/pdf/t2cur.pdf target=_blank&gt;&lt;font color=#0000FF&gt;&lt;b&gt;&lt;u&gt;pdf&lt;/u&gt;&lt;/b&gt;&lt;/font&gt;&lt;/a&gt; | [3] &lt;a href=http://web.mta.info/nyct/service/pdf/t3cur.pdf target=_blank&gt;&lt;font color=#0000FF&gt;&lt;b&gt;&lt;u&gt;pdf&lt;/u&gt;&lt;/b&gt;&lt;/font&gt;&lt;/a&gt; | [4] &lt;a href=http://web.mta.info/nyct/service/pdf/t4cur.pdf target=_blank&gt;&lt;font color=#0000FF&gt;&lt;b&gt;&lt;u&gt;pdf&lt;/u&gt;&lt;/b&gt;&lt;/font&gt;&lt;/a&gt; | [5] &lt;a href=http://web.mta.info/nyct/service/pdf/t5cur.pdf target=_blank&gt;&lt;font color=#0000FF&gt;&lt;b&gt;&lt;u&gt;pdf&lt;/u&gt;&lt;/b&gt;&lt;/font&gt;&lt;/a&gt;&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
@@ -14,7 +21,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>11/18/2017</Date>
-    <Time> 7:56AM</Time>
+    <Time> 8:01AM</Time>
   </line>
   <line>
     <name>456</name>
@@ -226,15 +233,8 @@
   </line>
   <line>
     <name>NQR</name>
-    <status>DELAYS</status>
+    <status>PLANNED WORK</status>
     <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;11/18/2017&amp;nbsp; 7:50AM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  [N] train service has resumed following an earlier incident of a sick passenger at&lt;STRONG&gt; Canal St.&lt;/STRONG&gt;
-                &lt;br/&gt;&lt;br/&gt;
-              
                     &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
                     &lt;br/&gt;
                   &lt;a class="plannedWorkDetailLink" onclick=ShowHide(170147);&gt;&lt;b&gt;&lt;i&gt;STATION ENHANCEMENTS&lt;/i&gt;&lt;br clear=left&gt;[W] Special service operates between Whitehall St and Ditmars Blvd&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 170147 class="plannedWorkDetail" &gt;&lt;/b&gt;Weekend, 7 AM to 9 PM, Saturday, Nov 18 &lt;br&gt;                  9 AM to 7 PM, Sunday, Nov 19&lt;br&gt;&lt;br&gt;&lt;b&gt;Note&lt;/b&gt;: No [7] trains between Queens and Manhattan during this time.&lt;br&gt;&lt;/font&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
@@ -266,7 +266,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>11/18/2017</Date>
-    <Time> 7:50AM</Time>
+    <Time> 7:56AM</Time>
   </line>
   <line>
     <name>S</name>
@@ -339,7 +339,7 @@
     <text>
                   &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
                   &lt;span class="DateStyle"&gt;
-                  &amp;nbsp;Posted:&amp;nbsp;11/18/2017&amp;nbsp; 7:57AM
+                  &amp;nbsp;Posted:&amp;nbsp;11/18/2017&amp;nbsp; 8:01AM
                   &lt;/span&gt;
                   &lt;br/&gt;
                   &lt;br/&gt;
@@ -365,7 +365,7 @@
               &lt;br/&gt;
             </text>
     <Date>11/18/2017</Date>
-    <Time> 7:57AM</Time>
+    <Time> 8:01AM</Time>
   </line>
   <line>
     <name>BXM1 - BXM18</name>
@@ -380,7 +380,7 @@
     <text>
                   &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
                   &lt;span class="DateStyle"&gt;
-                  &amp;nbsp;Posted:&amp;nbsp;11/18/2017&amp;nbsp; 7:57AM
+                  &amp;nbsp;Posted:&amp;nbsp;11/18/2017&amp;nbsp; 8:01AM
                   &lt;/span&gt;
                   &lt;br/&gt;
                   &lt;br/&gt;
@@ -440,7 +440,7 @@
               &lt;br/&gt;
             </text>
     <Date>11/18/2017</Date>
-    <Time> 7:57AM</Time>
+    <Time> 8:01AM</Time>
   </line>
   <line>
     <name>Q1 - Q113</name>
