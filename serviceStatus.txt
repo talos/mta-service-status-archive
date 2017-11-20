@@ -186,17 +186,10 @@
   </line>
   <line>
     <name>SIR</name>
-    <status>DELAYS</status>
-    <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;11/20/2017&amp;nbsp; 4:12AM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  [SIR] service has resumed following an earlier slippery rail condition in &lt;STRONG&gt;Staten Island&lt;/STRONG&gt;.
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>11/20/2017</Date>
-    <Time> 4:12AM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
 </subway><bus>
   <line>
@@ -279,8 +272,18 @@
   </line>
   <line>
     <name>M1 - M116</name>
-    <status>SERVICE CHANGE</status>
+    <status>DELAYS</status>
     <text>
+                  &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                  &lt;span class="DateStyle"&gt;
+                  &amp;nbsp;Posted:&amp;nbsp;11/20/2017&amp;nbsp; 4:26AM
+                  &lt;/span&gt;
+                  &lt;br/&gt;
+                  &lt;br/&gt;
+                &lt;STRONG&gt;M14D&lt;/STRONG&gt; service has resumed following earlier FDNY activity on Avenue D.
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
                   &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
                   &lt;span class="DateStyle"&gt;
                   &amp;nbsp;Posted:&amp;nbsp;11/20/2017&amp;nbsp; 4:13AM
@@ -291,20 +294,6 @@
 &lt;P&gt;Detour is as follows:&lt;/P&gt;
 &lt;P&gt;&lt;STRONG&gt;M4 and M5 Northbound&lt;/STRONG&gt;: Via 135 St, left on Amsterdam Av, left on 145 St, right on Broadway and regular route.&lt;/P&gt;
 &lt;P&gt;All corresponding bus stops will be made.&lt;/P&gt;
-              &lt;br/&gt;
-              &lt;br/&gt;
-            
-                  &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
-                  &lt;span class="DateStyle"&gt;
-                  &amp;nbsp;Posted:&amp;nbsp;11/20/2017&amp;nbsp; 4:12AM
-                  &lt;/span&gt;
-                  &lt;br/&gt;
-                  &lt;br/&gt;
-                &lt;P&gt;&lt;STRONG&gt;M14D&lt;/STRONG&gt; buses are detoured in both directions because of FDNY activity on Avenue D and E 6 St.&lt;/P&gt;
-&lt;P&gt;Detour is as follows:&lt;/P&gt;
-&lt;P&gt;&lt;STRONG&gt;Eastbound:&lt;/STRONG&gt; Via Avenue C, left on Houston St and regular route.&lt;/P&gt;
-&lt;P&gt;&lt;STRONG&gt;Westbound:&lt;/STRONG&gt; Via Avenue D, left on Houston St, right on Avenue A and regular route.&lt;/P&gt;
-&lt;P&gt;All corresponding bus stops will be made along the detour route.&lt;/P&gt;
               &lt;br/&gt;
               &lt;br/&gt;
             
@@ -345,7 +334,7 @@
               &lt;br/&gt;
             </text>
     <Date>11/20/2017</Date>
-    <Time> 4:13AM</Time>
+    <Time> 4:26AM</Time>
   </line>
   <line>
     <name>Q1 - Q113</name>
