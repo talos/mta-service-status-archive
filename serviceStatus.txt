@@ -1,15 +1,29 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>DELAYS</status>
+    <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;11/20/2017&amp;nbsp; 2:12PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  [2], [3], [4] and [5] trains are running with delays in both directions because of switch maintenance at &lt;STRONG&gt;Nostrand Av&lt;/STRONG&gt;.
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>11/20/2017</Date>
+    <Time> 2:12PM</Time>
   </line>
   <line>
     <name>456</name>
-    <status>SERVICE CHANGE</status>
+    <status>DELAYS</status>
     <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;11/20/2017&amp;nbsp; 2:12PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  [2], [3], [4] and [5] trains are running with delays in both directions because of switch maintenance at &lt;STRONG&gt;Nostrand Av&lt;/STRONG&gt;.
+                &lt;br/&gt;&lt;br/&gt;
+              
                     &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
                     &amp;nbsp;Posted:&amp;nbsp;11/20/2017&amp;nbsp; 2:02PM
@@ -28,7 +42,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>11/20/2017</Date>
-    <Time> 2:02PM</Time>
+    <Time> 2:12PM</Time>
   </line>
   <line>
     <name>7</name>
