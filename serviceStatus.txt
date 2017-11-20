@@ -39,10 +39,18 @@
   </line>
   <line>
     <name>ACE</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>SERVICE CHANGE</status>
+    <text>
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;11/20/2017&amp;nbsp; 2:10PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;P&gt;Southbound [C] trains are running express from &lt;STRONG&gt;59 St-Columbus Circle&lt;/STRONG&gt; to &lt;STRONG&gt;Canal St&lt;/STRONG&gt; because of switch problems at &lt;STRONG&gt;Canal St&lt;/STRONG&gt;.&lt;/P&gt;
+&lt;P&gt;Expect delays to [A] and [C] train service. &lt;/P&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>11/20/2017</Date>
+    <Time> 2:10PM</Time>
   </line>
   <line>
     <name>BDFM</name>
@@ -86,17 +94,10 @@
   </line>
   <line>
     <name>NQR</name>
-    <status>DELAYS</status>
-    <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;11/20/2017&amp;nbsp; 1:39PM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  [N], [Q], [R] and [W] train service has resumed with delays following an earlier incident involving a train with mechanical problems at &lt;STRONG&gt;Queensboro Plaza.&lt;/STRONG&gt;
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>11/20/2017</Date>
-    <Time> 1:39PM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>S</name>
@@ -108,7 +109,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>11/20/2017</Date>
-    <Time> 2:03PM</Time>
+    <Time> 2:11PM</Time>
   </line>
   <line>
     <name>SIR</name>
@@ -135,7 +136,7 @@
               &lt;br/&gt;
             </text>
     <Date>11/20/2017</Date>
-    <Time> 2:03PM</Time>
+    <Time> 2:11PM</Time>
   </line>
   <line>
     <name>B100 - B103</name>
@@ -168,7 +169,7 @@
               &lt;br/&gt;
             </text>
     <Date>11/20/2017</Date>
-    <Time> 2:03PM</Time>
+    <Time> 2:11PM</Time>
   </line>
   <line>
     <name>BXM1 - BXM18</name>
@@ -278,7 +279,7 @@
               &lt;br/&gt;
             </text>
     <Date>11/20/2017</Date>
-    <Time> 2:03PM</Time>
+    <Time> 2:11PM</Time>
   </line>
   <line>
     <name>QM1 - QM44</name>
@@ -315,7 +316,7 @@
               &lt;br/&gt;
             </text>
     <Date>11/20/2017</Date>
-    <Time> 2:03PM</Time>
+    <Time> 2:11PM</Time>
   </line>
   <line>
     <name>S40 - S98</name>
@@ -341,7 +342,7 @@
               &lt;br/&gt;
             </text>
     <Date>11/20/2017</Date>
-    <Time> 2:03PM</Time>
+    <Time> 2:11PM</Time>
   </line>
 </bus><BT>
   <line>
@@ -374,10 +375,15 @@
   </line>
   <line>
     <name>Marine Parkway</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>PLANNED WORK</status>
+    <text>
+                    &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
+                    &lt;br/&gt;
+                  &lt;body bgcolor='White' style='font-family:sans-serif;font-size:10pt;'&gt;MPB: BRIDGE LIFT; BOTH DIRECTIONS&lt;/body&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>11/20/2017</Date>
+    <Time> 2:09PM</Time>
   </line>
   <line>
     <name>Queens Midtown</name>
