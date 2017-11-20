@@ -1,29 +1,15 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>DELAYS</status>
-    <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;11/20/2017&amp;nbsp; 3:16PM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  [2], [3], [4] and [5] service has resumed following earlier switch maintenance at &lt;STRONG&gt;Nostrand Av&lt;/STRONG&gt;.
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>11/20/2017</Date>
-    <Time> 3:16PM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>456</name>
-    <status>DELAYS</status>
+    <status>SERVICE CHANGE</status>
     <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;11/20/2017&amp;nbsp; 3:16PM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  [2], [3], [4] and [5] service has resumed following earlier switch maintenance at &lt;STRONG&gt;Nostrand Av&lt;/STRONG&gt;.
-                &lt;br/&gt;&lt;br/&gt;
-              
                     &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
                     &amp;nbsp;Posted:&amp;nbsp;11/20/2017&amp;nbsp; 2:02PM
@@ -42,7 +28,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>11/20/2017</Date>
-    <Time> 3:16PM</Time>
+    <Time> 2:02PM</Time>
   </line>
   <line>
     <name>7</name>
@@ -115,7 +101,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>11/20/2017</Date>
-    <Time> 3:23PM</Time>
+    <Time> 3:31PM</Time>
   </line>
   <line>
     <name>SIR</name>
@@ -142,7 +128,7 @@
               &lt;br/&gt;
             </text>
     <Date>11/20/2017</Date>
-    <Time> 3:23PM</Time>
+    <Time> 3:31PM</Time>
   </line>
   <line>
     <name>B100 - B103</name>
@@ -185,7 +171,7 @@
               &lt;br/&gt;
             </text>
     <Date>11/20/2017</Date>
-    <Time> 3:23PM</Time>
+    <Time> 3:31PM</Time>
   </line>
   <line>
     <name>BXM1 - BXM18</name>
@@ -224,12 +210,6 @@
                   &lt;span class="TitlePlannedWork" &gt;Planned Detour&lt;/span&gt;
                   &lt;br/&gt;
                 &lt;a class="plannedWorkDetailLink" onclick=ShowHide(173518);&gt;&lt;b&gt;M5/M5 &lt;/b&gt;LTD &lt;b&gt;and M7&lt;/b&gt; -&lt;b&gt; Northbound holiday bus stop changes in Midtown&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 173518 class="plannedWorkDetail" &gt;&lt;/b&gt;Until Sat, Jan 6, 2018&lt;br&gt;&lt;br&gt;Buses will not stop on 6 Av at 49 St or 50 St.  Please use the nearby stop &lt;b&gt;on 51 St&lt;/b&gt; instead.&lt;br&gt;Local buses also stop &lt;b&gt;on 47 St&lt;/b&gt;.&lt;br&gt;&lt;br&gt;&lt;b&gt;Reminder&lt;/b&gt;: &lt;a href=http://web.mta.info/nyct/bus/schedule/manh/m005cur.pdf target=_blank&gt;&lt;font color=#0000FF&gt;&lt;b&gt;&lt;u&gt;M5 LTD&lt;/u&gt;&lt;/b&gt;&lt;/font&gt;&lt;a/&gt; buses do not operate weekends or overnight.&lt;br&gt;&lt;br&gt;&lt;b&gt;Note&lt;/b&gt;: Thursday, Nov 23, buses operate on a Sunday schedule.&lt;br&gt;&lt;b&gt;                              [TP]&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
-              &lt;br/&gt;
-              &lt;br/&gt;
-            
-                  &lt;span class="TitlePlannedWork" &gt;Planned Detour&lt;/span&gt;
-                  &lt;br/&gt;
-                &lt;a class="plannedWorkDetailLink" onclick=ShowHide(170948);&gt;&lt;b&gt;M31 and M57&lt;/b&gt; - &lt;b&gt;Eastbound buses bypass the stop on 57 St at 8 Av&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 170948 class="plannedWorkDetail" &gt;&lt;/b&gt;Until further notice&lt;br&gt;&lt;br&gt;Due to construction, please use the nearby stop&lt;b&gt; on 57 St &lt;/b&gt;at Broadway.&lt;br&gt;&lt;b&gt;                              [TP]&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
               &lt;br/&gt;
               &lt;br/&gt;
             
@@ -358,7 +338,7 @@
               &lt;br/&gt;
             </text>
     <Date>11/20/2017</Date>
-    <Time> 3:23PM</Time>
+    <Time> 3:31PM</Time>
   </line>
   <line>
     <name>S40 - S98</name>
