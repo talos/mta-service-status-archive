@@ -1,15 +1,23 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>PLANNED WORK</status>
+    <status>SERVICE CHANGE</status>
     <text>
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;11/21/2017&amp;nbsp;10:15AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;P&gt;Southbound [1] trains are running express from &lt;STRONG&gt;14 St&lt;/STRONG&gt; to &lt;STRONG&gt;Chambers St&lt;/STRONG&gt; because of a train with mechanical problems at &lt;STRONG&gt;14 St&lt;/STRONG&gt;.&lt;/P&gt;
+&lt;P&gt;Expect delays on [1], [2] and [3] trains.&lt;/P&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              
                     &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
                     &lt;br/&gt;
                   &lt;a class="plannedWorkDetailLink" onclick=ShowHide(171165);&gt;&lt;b&gt;&lt;i&gt;SIGNAL MAINTENANCE&lt;/i&gt;&lt;br clear=left&gt;[2] Wakefield-bound trains skip Bronx Park East, Pelham Pkwy, Allerton Av and Burke Av&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 171165 class="plannedWorkDetail" &gt;&lt;/b&gt;Days, 9:45 AM to 3:30 PM, Tue &lt;i&gt;and&lt;/i&gt; Wed, Nov 21 - 22&lt;br&gt;&lt;br&gt;For service &lt;i&gt;to &lt;/i&gt;these stations, take the [2] to Gun Hill Rd and transfer to a Flatbush Av-bound [2].&lt;br&gt;&lt;br&gt;For service &lt;i&gt;from &lt;/i&gt;these stations, take the [2] to E 180 St and transfer to a Wakefield-bound [2].&lt;br&gt;&lt;br&gt;&lt;/font&gt;&lt;b&gt;&lt;i&gt;Alternate travel note:&lt;br&gt;&lt;/b&gt;From&lt;/i&gt; these stations, take the &lt;a href=http://web.mta.info/nyct/bus/schedule/bronx/bx039cur.pdf target=_blank&gt;&lt;font color=#0000FF&gt;&lt;b&gt;&lt;u&gt;Bx39&lt;/u&gt;&lt;/b&gt;&lt;/font&gt;&lt;/a&gt; bus.&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>11/21/2017</Date>
-    <Time>10:13AM</Time>
+    <Time>10:15AM</Time>
   </line>
   <line>
     <name>456</name>
@@ -35,35 +43,21 @@
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
                   [A] and [S]-Rockaway shuttle trains are running with delays in both directions because of a train with mechanical problems at &lt;STRONG&gt;Broad Channel&lt;/STRONG&gt;.
                 &lt;br/&gt;&lt;br/&gt;
-              
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;11/21/2017&amp;nbsp; 9:52AM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  [E], [F], [M] and [R] train service has resumed following earlier FDNY activity at &lt;STRONG&gt;Grand Av-Newtown.&lt;/STRONG&gt;
-                &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>11/21/2017</Date>
     <Time>10:08AM</Time>
   </line>
   <line>
     <name>BDFM</name>
-    <status>DELAYS</status>
+    <status>PLANNED WORK</status>
     <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;11/21/2017&amp;nbsp; 9:52AM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  [E], [F], [M] and [R] train service has resumed following earlier FDNY activity at &lt;STRONG&gt;Grand Av-Newtown.&lt;/STRONG&gt;
-                &lt;br/&gt;&lt;br/&gt;
-              
                     &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
                     &lt;br/&gt;
                   &lt;a class="plannedWorkDetailLink" onclick=ShowHide(172380);&gt;&lt;b&gt;&lt;i&gt;ELECTRICAL IMPROVEMENTS&lt;/i&gt;&lt;br clear=left&gt;[B] Trains run local in both directions between Prospect Park and Brighton Beach&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 172380 class="plannedWorkDetail" &gt;&lt;/b&gt;Days, 10 AM to 3:30 PM, Mon to Wed, Nov 20 - 22&lt;br&gt;&lt;br&gt;&amp;bull Please allow additional travel time.&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>11/21/2017</Date>
-    <Time> 9:52AM</Time>
+    <Time>10:13AM</Time>
   </line>
   <line>
     <name>G</name>
@@ -88,17 +82,10 @@
   </line>
   <line>
     <name>NQR</name>
-    <status>DELAYS</status>
-    <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;11/21/2017&amp;nbsp; 9:52AM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  [E], [F], [M] and [R] train service has resumed following earlier FDNY activity at &lt;STRONG&gt;Grand Av-Newtown.&lt;/STRONG&gt;
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>11/21/2017</Date>
-    <Time> 9:52AM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>S</name>
@@ -467,35 +454,15 @@
   </line>
   <line>
     <name>S40 - S98</name>
-    <status>DELAYS</status>
-    <text>
-                  &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                  &lt;span class="DateStyle"&gt;
-                  &amp;nbsp;Posted:&amp;nbsp;11/21/2017&amp;nbsp;10:02AM
-                  &lt;/span&gt;
-                  &lt;br/&gt;
-                  &lt;br/&gt;
-                &lt;STRONG&gt;X14, S53&lt;/STRONG&gt; and &lt;STRONG&gt;S93&lt;/STRONG&gt;-LTD bus service has resumed following a non TA accident on Clove Rd.
-              &lt;br/&gt;
-              &lt;br/&gt;
-            </text>
-    <Date>11/21/2017</Date>
-    <Time>10:02AM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>x1 - x68</name>
-    <status>DELAYS</status>
+    <status>PLANNED WORK</status>
     <text>
-                  &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                  &lt;span class="DateStyle"&gt;
-                  &amp;nbsp;Posted:&amp;nbsp;11/21/2017&amp;nbsp;10:02AM
-                  &lt;/span&gt;
-                  &lt;br/&gt;
-                  &lt;br/&gt;
-                &lt;STRONG&gt;X14, S53&lt;/STRONG&gt; and &lt;STRONG&gt;S93&lt;/STRONG&gt;-LTD bus service has resumed following a non TA accident on Clove Rd.
-              &lt;br/&gt;
-              &lt;br/&gt;
-            
                   &lt;span class="TitlePlannedWork" &gt;Planned Detour&lt;/span&gt;
                   &lt;br/&gt;
                 &lt;a class="plannedWorkDetailLink" onclick=ShowHide(172963);&gt;&lt;b&gt;X28 and X38&lt;/b&gt; - &lt;b&gt;Northbound buses rerouted from W 20 St at Surf Av to Mermaid Av&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 172963 class="plannedWorkDetail" &gt;&lt;/b&gt;Until further notice&lt;br&gt;&lt;br&gt;Due to construction, buses run via &lt;b&gt;W 22 St &lt;/b&gt;making corresponding stops.&lt;br&gt;&lt;br&gt;&lt;b&gt;&lt;i&gt;&lt;a style="cursor:pointer; text-decoration:underline;" onclick=ShowHide(1729630);&gt;Show Reroute Details&lt;/a&gt;&lt;/i&gt;&lt;/b&gt;&lt;br&gt;&lt;div id="1729630"; style="display:none;"&gt;Via Surf Av&lt;br&gt;Left on W 22 St&lt;br&gt;Right on Mermaid Av&lt;br&gt;Left on W 20 St then regular route&lt;/div&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Reminder&lt;/b&gt;: &lt;a href=http://web.mta.info/nyct/bus/schedule/xpress/x028cur.pdf target=_blank&gt;&lt;font color=#0000FF&gt;&lt;b&gt;&lt;u&gt;X38&lt;/b&gt;&lt;/u&gt;&lt;/font&gt;&lt;/a&gt; buses do not operate weekends or overnight.&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
@@ -509,7 +476,7 @@
               &lt;br/&gt;
             </text>
     <Date>11/21/2017</Date>
-    <Time>10:02AM</Time>
+    <Time>10:13AM</Time>
   </line>
 </bus><BT>
   <line>
