@@ -1,15 +1,10 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>PLANNED WORK</status>
-    <text>
-                    &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
-                    &lt;br/&gt;
-                  &lt;a class="plannedWorkDetailLink" onclick=ShowHide(171165);&gt;&lt;b&gt;&lt;i&gt;SIGNAL MAINTENANCE&lt;/i&gt;&lt;br clear=left&gt;[2] Wakefield-bound trains skip Bronx Park East, Pelham Pkwy, Allerton Av and Burke Av&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 171165 class="plannedWorkDetail" &gt;&lt;/b&gt;Days, 9:45 AM to 3:30 PM, Tue &lt;i&gt;and&lt;/i&gt; Wed, Nov 21 - 22&lt;br&gt;&lt;br&gt;For service &lt;i&gt;to &lt;/i&gt;these stations, take the [2] to Gun Hill Rd and transfer to a Flatbush Av-bound [2].&lt;br&gt;&lt;br&gt;For service &lt;i&gt;from &lt;/i&gt;these stations, take the [2] to E 180 St and transfer to a Wakefield-bound [2].&lt;br&gt;&lt;br&gt;&lt;/font&gt;&lt;b&gt;&lt;i&gt;Alternate travel note:&lt;br&gt;&lt;/b&gt;From&lt;/i&gt; these stations, take the &lt;a href=http://web.mta.info/nyct/bus/schedule/bronx/bx039cur.pdf target=_blank&gt;&lt;font color=#0000FF&gt;&lt;b&gt;&lt;u&gt;Bx39&lt;/u&gt;&lt;/b&gt;&lt;/font&gt;&lt;/a&gt; bus.&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>11/21/2017</Date>
-    <Time> 3:24PM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>456</name>
@@ -34,22 +29,31 @@
   </line>
   <line>
     <name>ACE</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
-  </line>
-  <line>
-    <name>BDFM</name>
-    <status>PLANNED WORK</status>
+    <status>DELAYS</status>
     <text>
-                    &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
-                    &lt;br/&gt;
-                  &lt;a class="plannedWorkDetailLink" onclick=ShowHide(172380);&gt;&lt;b&gt;&lt;i&gt;ELECTRICAL IMPROVEMENTS&lt;/i&gt;&lt;br clear=left&gt;[B] Trains run local in both directions between Prospect Park and Brighton Beach&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 172380 class="plannedWorkDetail" &gt;&lt;/b&gt;Days, 10 AM to 3:30 PM, Mon to Wed, Nov 20 - 22&lt;br&gt;&lt;br&gt;&amp;bull Please allow additional travel time.&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;11/21/2017&amp;nbsp; 3:35PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  Northbound [B] and [C] trains are running with delays because of an investigation at &lt;STRONG&gt;Cathedral Pkwy-110 St&lt;/STRONG&gt;.
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>11/21/2017</Date>
-    <Time> 3:24PM</Time>
+    <Time> 3:35PM</Time>
+  </line>
+  <line>
+    <name>BDFM</name>
+    <status>DELAYS</status>
+    <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;11/21/2017&amp;nbsp; 3:35PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  Northbound [B] and [C] trains are running with delays because of an investigation at &lt;STRONG&gt;Cathedral Pkwy-110 St&lt;/STRONG&gt;.
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>11/21/2017</Date>
+    <Time> 3:35PM</Time>
   </line>
   <line>
     <name>G</name>
@@ -89,7 +93,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>11/21/2017</Date>
-    <Time> 3:24PM</Time>
+    <Time> 3:34PM</Time>
   </line>
   <line>
     <name>SIR</name>
@@ -440,7 +444,7 @@
               &lt;br/&gt;
             </text>
     <Date>11/21/2017</Date>
-    <Time> 3:24PM</Time>
+    <Time> 3:34PM</Time>
   </line>
   <line>
     <name>S40 - S98</name>
