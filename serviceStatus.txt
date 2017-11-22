@@ -1,45 +1,24 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>DELAYS</status>
-    <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;11/22/2017&amp;nbsp; 9:27AM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  [2] and [5] trains have resumed service following earlier signal problems at Nereid Av.
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>11/22/2017</Date>
-    <Time> 9:27AM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>456</name>
-    <status>DELAYS</status>
-    <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;11/22/2017&amp;nbsp; 9:27AM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  [2] and [5] trains have resumed service following earlier signal problems at Nereid Av.
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>11/22/2017</Date>
-    <Time> 9:27AM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>7</name>
-    <status>DELAYS</status>
-    <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;11/22/2017&amp;nbsp; 9:30AM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  [7] train service has resumed following an earlier incident involving a train with mechanical problems at &lt;STRONG&gt;34 St-Hudson Yards.&lt;/STRONG&gt;
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>11/22/2017</Date>
-    <Time> 9:30AM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>ACE</name>
@@ -60,8 +39,15 @@
   </line>
   <line>
     <name>BDFM</name>
-    <status>SERVICE CHANGE</status>
+    <status>DELAYS</status>
     <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;11/22/2017&amp;nbsp; 9:40AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  [D] train service has resumed following earlier signal problems at &lt;STRONG&gt;Bay 50 St&lt;/STRONG&gt;.
+                &lt;br/&gt;&lt;br/&gt;
+              
                     &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
                     &amp;nbsp;Posted:&amp;nbsp;11/22/2017&amp;nbsp; 8:58AM
@@ -71,16 +57,9 @@
 &lt;P&gt;These service changes are because of signal problems at &lt;STRONG&gt;36 St (Queens).&lt;/STRONG&gt;&lt;/P&gt;
 &lt;P&gt;Expect delays on [E], [F], [M] and [R] trains.&lt;/P&gt;
                 &lt;br/&gt;&lt;br/&gt;
-              
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;11/22/2017&amp;nbsp; 8:25AM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  Northbound [D] trains are running with delays because of signal problems at &lt;STRONG&gt;Bay 50 St.&lt;/STRONG&gt;
-                &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>11/22/2017</Date>
-    <Time> 8:58AM</Time>
+    <Time> 9:40AM</Time>
   </line>
   <line>
     <name>G</name>
