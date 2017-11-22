@@ -12,7 +12,7 @@
     <text>
                     &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;11/22/2017&amp;nbsp; 5:59PM
+                    &amp;nbsp;Posted:&amp;nbsp;11/22/2017&amp;nbsp; 6:13PM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
                   &lt;P&gt;Some northbound [4] and [5] trains are running local from &lt;STRONG&gt;Grand Central-42 St&lt;/STRONG&gt; to &lt;STRONG&gt;125 St&lt;/STRONG&gt;.&lt;/P&gt;
 &lt;P&gt;Northbound [4], [5] and [6] trains are running with delays.&lt;/P&gt;
@@ -20,7 +20,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>11/22/2017</Date>
-    <Time> 5:59PM</Time>
+    <Time> 6:13PM</Time>
   </line>
   <line>
     <name>7</name>
@@ -61,17 +61,10 @@
   </line>
   <line>
     <name>G</name>
-    <status>DELAYS</status>
-    <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;11/22/2017&amp;nbsp; 5:24PM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  [G] train service has resumed following earlier NYPD activity at &lt;STRONG&gt;Myrtle-Willoughby Avs&lt;/STRONG&gt;.
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>11/22/2017</Date>
-    <Time> 5:24PM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>JZ</name>
@@ -421,7 +414,7 @@
               &lt;br/&gt;
             </text>
     <Date>11/22/2017</Date>
-    <Time> 6:05PM</Time>
+    <Time> 6:13PM</Time>
   </line>
   <line>
     <name>M1 - M116</name>
@@ -515,8 +508,18 @@
   </line>
   <line>
     <name>Q1 - Q113</name>
-    <status>SERVICE CHANGE</status>
+    <status>DELAYS</status>
     <text>
+                  &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                  &lt;span class="DateStyle"&gt;
+                  &amp;nbsp;Posted:&amp;nbsp;11/22/2017&amp;nbsp; 6:11PM
+                  &lt;/span&gt;
+                  &lt;br/&gt;
+                  &lt;br/&gt;
+                Following an earlier incident involving NYPD activity, &lt;STRONG&gt;Q19 &lt;/STRONG&gt;and&lt;STRONG&gt; Q33&lt;/STRONG&gt; bus service has resumed with delays.
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
                   &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
                   &lt;span class="DateStyle"&gt;
                   &amp;nbsp;Posted:&amp;nbsp;11/22/2017&amp;nbsp; 6:08PM
@@ -548,21 +551,6 @@
                   &lt;br/&gt;
                   &lt;br/&gt;
                 &lt;STRONG&gt;Q47 &lt;/STRONG&gt;and &lt;STRONG&gt;Q69&lt;/STRONG&gt; buses are running with delays in both directions because of NYPD activity at Astoria Blvd and 82 St.
-              &lt;br/&gt;
-              &lt;br/&gt;
-            
-                  &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
-                  &lt;span class="DateStyle"&gt;
-                  &amp;nbsp;Posted:&amp;nbsp;11/22/2017&amp;nbsp; 4:13PM
-                  &lt;/span&gt;
-                  &lt;br/&gt;
-                  &lt;br/&gt;
-                &lt;P&gt;&lt;STRONG&gt;Q19&lt;/STRONG&gt; and &lt;STRONG&gt;Q33&lt;/STRONG&gt; buses detoured because of NYPD activity at Astoria Blvd and 82 St. &lt;/P&gt;
-&lt;P&gt;Detour is as follows: &lt;/P&gt;
-&lt;P&gt;&lt;STRONG&gt;Q19 Flushing Bound&lt;/STRONG&gt;: Via Astoria Blvd, right on 80 St, left on 25 Av, right on Astoria Blvd and regular route.  &lt;/P&gt;
-&lt;P&gt;&lt;STRONG&gt;Q33 VM Terminal Bound&lt;/STRONG&gt;: Via 82 St, right on Astoria Blvd, left on 80 St, left on 25 Av, right on 82 St and regular route. &lt;/P&gt;
-&lt;P&gt; &lt;/P&gt;
-&lt;P&gt; &lt;/P&gt;
               &lt;br/&gt;
               &lt;br/&gt;
             
@@ -704,7 +692,7 @@
               &lt;br/&gt;
             </text>
     <Date>11/22/2017</Date>
-    <Time> 6:08PM</Time>
+    <Time> 6:11PM</Time>
   </line>
   <line>
     <name>QM1 - QM44</name>
