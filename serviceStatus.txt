@@ -1110,9 +1110,12 @@ train.         &lt;/p&gt;&lt;p&gt;The 5:11PM train from Penn due Port Washi
               
                     &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;11/22/2017&amp;nbsp; 5:38PM
+                    &amp;nbsp;Posted:&amp;nbsp;11/22/2017&amp;nbsp; 5:45PM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  &lt;p&gt;&lt;b&gt;Eastbound&lt;/b&gt;&lt;br&gt;The 4:24PM train from Penn due Ronkonkoma at 5:44PM is operating 14 minutes late due to switch trouble east of Mineola. &lt;/p&gt;&lt;p&gt;The 5:21PM train from Ronkonkoma due Yaphank at 5:40PM is operating 11 minutes late due to a late-arriving connection.    &lt;br&gt;&lt;/p&gt;&lt;p&gt;The 4:34PM train from Atlantic Terminal due Ronkonkoma at 5:57PM is operating 15 minutes late due to switch trouble near Mineola.      &lt;br&gt;&lt;br&gt;&lt;b&gt;Westbound&lt;/b&gt;&lt;br&gt;The 4:11PM train from Ronkonkoma due Penn at 5:38PM is being delayed at Hicksville due to switch trouble east of Mineola. &lt;/p&gt;&lt;p&gt;The 4:48PM train from Ronkonkoma due Penn at 6:08PM is being delayed at Bethpage Station due to switch trouble near Mineola.
+                  &lt;p&gt;&lt;b&gt;Eastbound&lt;/b&gt;&lt;br&gt;The 4:24PM train from Penn due Ronkonkoma at 5:44PM is operating 14 minutes late due to switch trouble east of Mineola. &lt;/p&gt;&lt;p&gt;The 5:21PM train from Ronkonkoma due Yaphank at 5:40PM is operating 11 minutes late due to a late-arriving connection.    &lt;br&gt;&lt;/p&gt;&lt;p&gt;The 4:34PM train from Atlantic Terminal due Ronkonkoma at 5:57PM is operating 15 minutes late due to switch trouble near Mineola.      &lt;br&gt;&lt;br&gt;&lt;b&gt;Westbound&lt;/b&gt;&lt;br&gt;The 4:11PM train from Ronkonkoma due Penn at 5:38PM is operating 54 
+minutes late after being delayed at Hicksville Station due to earlier 
+switch trouble near Mineola.
+&lt;/p&gt;&lt;p&gt;The 4:48PM train from Ronkonkoma due Penn at 6:08PM is being delayed at Bethpage Station due to switch trouble near Mineola.
         &lt;br&gt;&lt;/p&gt;
                 &lt;br/&gt;&lt;br/&gt;
               </text>
@@ -1185,10 +1188,17 @@ train.         &lt;/p&gt;&lt;p&gt;The 5:11PM train from Penn due Port Washi
   </line>
   <line>
     <name>Pascack Valley</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>DELAYS</status>
+    <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;11/22/2017&amp;nbsp; 5:44PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  PVL train #1627, the 5:12pm from SEC is up to 20 min. late due to an earlier mechanical problem. &lt;br&gt;&lt;br&gt;Sent: 5:26 PM
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>11/22/2017</Date>
+    <Time> 5:44PM</Time>
   </line>
   <line>
     <name>Port Jervis</name>
