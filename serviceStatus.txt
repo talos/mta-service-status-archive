@@ -1,5 +1,51 @@
 <service><responsecode>0</responsecode><subway>
   <line>
+    <name>123</name>
+    <status>DELAYS</status>
+    <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;11/22/2017&amp;nbsp; 8:18AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;P&gt;[2] and [5] trains are not running between &lt;STRONG&gt;President St&lt;/STRONG&gt; and &lt;STRONG&gt;Brooklyn College-Flatbush Av&lt;/STRONG&gt; because of an unauthorized person on the tracks. &lt;/P&gt;
+&lt;P&gt;Southbound [2] trains are stopping along the [3] line between&lt;STRONG&gt; Franklin Av&lt;/STRONG&gt; and &lt;STRONG&gt;New Lots Av.&lt;/STRONG&gt;&lt;/P&gt;
+&lt;P&gt;Southbound [5] trains are stopping along the [4] line between &lt;STRONG&gt;Franklin Av&lt;/STRONG&gt; and &lt;STRONG&gt;Crown Hts-Utica Av&lt;/STRONG&gt;.&lt;/P&gt;
+&lt;P&gt;Customers are advised to take &lt;STRONG&gt;B44&lt;/STRONG&gt; or &lt;STRONG&gt;B44-SBS&lt;/STRONG&gt; buses making nearby station stops.&lt;/P&gt;
+&lt;P&gt;Expect delays on [2], [3], [4] and [5] trains.&lt;/P&gt;
+&lt;P&gt;2 and 5 trains are not running between President St and Brooklyn College-Flatbush Av because of an unauthorized person on the tracks. &lt;/P&gt;
+&lt;P&gt;Southbound 2 trains are stopping along the 3 line between Franklin Av and New Lots Av.&lt;/P&gt;
+&lt;P&gt;Southbound 5 trains are stopping along the 4 line between Franklin Av and Crown Hts-Utica Av.&lt;/P&gt;
+&lt;P&gt;Customers are advised to take B44 or B44-SBS buses making nearby station stops.&lt;/P&gt;
+&lt;P&gt;Expect delays on 2, 3, 4 and 5 trains.&lt;BR&gt;&lt;/P&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>11/22/2017</Date>
+    <Time> 8:18AM</Time>
+  </line>
+  <line>
+    <name>456</name>
+    <status>DELAYS</status>
+    <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;11/22/2017&amp;nbsp; 8:18AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;P&gt;[2] and [5] trains are not running between &lt;STRONG&gt;President St&lt;/STRONG&gt; and &lt;STRONG&gt;Brooklyn College-Flatbush Av&lt;/STRONG&gt; because of an unauthorized person on the tracks. &lt;/P&gt;
+&lt;P&gt;Southbound [2] trains are stopping along the [3] line between&lt;STRONG&gt; Franklin Av&lt;/STRONG&gt; and &lt;STRONG&gt;New Lots Av.&lt;/STRONG&gt;&lt;/P&gt;
+&lt;P&gt;Southbound [5] trains are stopping along the [4] line between &lt;STRONG&gt;Franklin Av&lt;/STRONG&gt; and &lt;STRONG&gt;Crown Hts-Utica Av&lt;/STRONG&gt;.&lt;/P&gt;
+&lt;P&gt;Customers are advised to take &lt;STRONG&gt;B44&lt;/STRONG&gt; or &lt;STRONG&gt;B44-SBS&lt;/STRONG&gt; buses making nearby station stops.&lt;/P&gt;
+&lt;P&gt;Expect delays on [2], [3], [4] and [5] trains.&lt;/P&gt;
+&lt;P&gt;2 and 5 trains are not running between President St and Brooklyn College-Flatbush Av because of an unauthorized person on the tracks. &lt;/P&gt;
+&lt;P&gt;Southbound 2 trains are stopping along the 3 line between Franklin Av and New Lots Av.&lt;/P&gt;
+&lt;P&gt;Southbound 5 trains are stopping along the 4 line between Franklin Av and Crown Hts-Utica Av.&lt;/P&gt;
+&lt;P&gt;Customers are advised to take B44 or B44-SBS buses making nearby station stops.&lt;/P&gt;
+&lt;P&gt;Expect delays on 2, 3, 4 and 5 trains.&lt;BR&gt;&lt;/P&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>11/22/2017</Date>
+    <Time> 8:18AM</Time>
+  </line>
+  <line>
     <name>7</name>
     <status>GOOD SERVICE</status>
     <text />
@@ -40,6 +86,20 @@
     <text />
     <Date></Date>
     <Time></Time>
+  </line>
+  <line>
+    <name>NQR</name>
+    <status>DELAYS</status>
+    <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;11/22/2017&amp;nbsp; 7:57AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  Northbound [R] and [W] trains are running with slower speeds between &lt;STRONG&gt;Canal St&lt;/STRONG&gt; and &lt;STRONG&gt;57 St-7 Av&lt;/STRONG&gt; because of signal problems at &lt;STRONG&gt;Canal St&lt;/STRONG&gt;.
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>11/22/2017</Date>
+    <Time> 7:57AM</Time>
   </line>
   <line>
     <name>S</name>
@@ -335,10 +395,20 @@
   </line>
   <line>
     <name>S40 - S98</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>DELAYS</status>
+    <text>
+                  &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                  &lt;span class="DateStyle"&gt;
+                  &amp;nbsp;Posted:&amp;nbsp;11/22/2017&amp;nbsp; 8:20AM
+                  &lt;/span&gt;
+                  &lt;br/&gt;
+                  &lt;br/&gt;
+                &lt;STRONG&gt;S44&lt;/STRONG&gt; and &lt;STRONG&gt;S89&lt;/STRONG&gt; buses are running with delays in both directions because of a street blockage on Morningstar Rd and Dickson Av.
+              &lt;br/&gt;
+              &lt;br/&gt;
+            </text>
+    <Date>11/22/2017</Date>
+    <Time> 8:20AM</Time>
   </line>
   <line>
     <name>x1 - x68</name>
