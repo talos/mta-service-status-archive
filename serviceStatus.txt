@@ -8,17 +8,10 @@
   </line>
   <line>
     <name>456</name>
-    <status>DELAYS</status>
-    <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;11/22/2017&amp;nbsp; 9:27PM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  [4] and [5] train service has resumed following earlier signal problems at &lt;STRONG&gt;125 St&lt;/STRONG&gt;.
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>11/22/2017</Date>
-    <Time> 9:27PM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>7</name>
@@ -394,8 +387,21 @@
   </line>
   <line>
     <name>M1 - M116</name>
-    <status>DELAYS</status>
+    <status>SERVICE CHANGE</status>
     <text>
+                  &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                  &lt;span class="DateStyle"&gt;
+                  &amp;nbsp;Posted:&amp;nbsp;11/22/2017&amp;nbsp; 9:41PM
+                  &lt;/span&gt;
+                  &lt;br/&gt;
+                  &lt;br/&gt;
+                &lt;P&gt;&lt;STRONG&gt;M1, M2, M3&lt;/STRONG&gt; and &lt;STRONG&gt;M4&lt;/STRONG&gt; buses are detoured because of DOT closure on 5 Av. &lt;/P&gt;
+&lt;P&gt;Detour is as follows: &lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;Southbound&lt;/STRONG&gt;: Via 5 Av, left on 96 St, right on Lexington Av, right on 79 St, left on 5 Av and regular route. &lt;/P&gt;
+&lt;P&gt; &lt;/P&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
                   &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                   &lt;span class="DateStyle"&gt;
                   &amp;nbsp;Posted:&amp;nbsp;11/22/2017&amp;nbsp; 4:12PM
@@ -473,7 +479,7 @@
               &lt;br/&gt;
             </text>
     <Date>11/22/2017</Date>
-    <Time> 4:12PM</Time>
+    <Time> 9:41PM</Time>
   </line>
   <line>
     <name>Q1 - Q113</name>
