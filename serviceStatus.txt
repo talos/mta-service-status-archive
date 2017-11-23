@@ -71,10 +71,17 @@
   </line>
   <line>
     <name>SIR</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>DELAYS</status>
+    <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;11/23/2017&amp;nbsp; 6:25PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  [SIR] trains are running with delays in both directions because of a train with mechanical problems at &lt;STRONG&gt;St George&lt;/STRONG&gt;.
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>11/23/2017</Date>
+    <Time> 6:25PM</Time>
   </line>
 </subway><bus>
   <line>
@@ -94,7 +101,7 @@
               &lt;br/&gt;
             </text>
     <Date>11/23/2017</Date>
-    <Time> 6:13PM</Time>
+    <Time> 6:25PM</Time>
   </line>
   <line>
     <name>B100 - B103</name>
@@ -137,7 +144,7 @@
               &lt;br/&gt;
             </text>
     <Date>11/23/2017</Date>
-    <Time> 6:13PM</Time>
+    <Time> 6:25PM</Time>
   </line>
   <line>
     <name>BXM1 - BXM18</name>
@@ -269,7 +276,7 @@
               &lt;br/&gt;
             </text>
     <Date>11/23/2017</Date>
-    <Time> 6:13PM</Time>
+    <Time> 6:25PM</Time>
   </line>
   <line>
     <name>S40 - S98</name>
@@ -289,7 +296,7 @@
               &lt;br/&gt;
             </text>
     <Date>11/23/2017</Date>
-    <Time> 6:13PM</Time>
+    <Time> 6:25PM</Time>
   </line>
 </bus><BT>
   <line>
