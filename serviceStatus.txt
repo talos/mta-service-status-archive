@@ -1,10 +1,17 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>SERVICE CHANGE</status>
+    <text>
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;11/23/2017&amp;nbsp; 9:15PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  Southbound [1] trains are running express from &lt;STRONG&gt;137 St&lt;/STRONG&gt; to &lt;STRONG&gt;96 St&lt;/STRONG&gt; because of a train with mechanical problems at &lt;STRONG&gt;116 St&lt;/STRONG&gt;.
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>11/23/2017</Date>
+    <Time> 9:15PM</Time>
   </line>
   <line>
     <name>456</name>
@@ -37,7 +44,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>11/23/2017</Date>
-    <Time> 9:04PM</Time>
+    <Time> 9:15PM</Time>
   </line>
   <line>
     <name>G</name>
@@ -106,7 +113,7 @@
               &lt;br/&gt;
             </text>
     <Date>11/23/2017</Date>
-    <Time> 9:04PM</Time>
+    <Time> 9:15PM</Time>
   </line>
   <line>
     <name>B100 - B103</name>
@@ -205,7 +212,7 @@
               &lt;br/&gt;
             </text>
     <Date>11/23/2017</Date>
-    <Time> 9:04PM</Time>
+    <Time> 9:15PM</Time>
   </line>
   <line>
     <name>Q1 - Q113</name>
@@ -242,7 +249,7 @@
               &lt;br/&gt;
             </text>
     <Date>11/23/2017</Date>
-    <Time> 9:04PM</Time>
+    <Time> 9:15PM</Time>
   </line>
   <line>
     <name>QM1 - QM44</name>
@@ -273,7 +280,7 @@
               &lt;br/&gt;
             </text>
     <Date>11/23/2017</Date>
-    <Time> 9:04PM</Time>
+    <Time> 9:15PM</Time>
   </line>
   <line>
     <name>S40 - S98</name>
@@ -293,7 +300,7 @@
               &lt;br/&gt;
             </text>
     <Date>11/23/2017</Date>
-    <Time> 9:04PM</Time>
+    <Time> 9:15PM</Time>
   </line>
 </bus><BT>
   <line>
