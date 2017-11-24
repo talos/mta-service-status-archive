@@ -1,27 +1,31 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>DELAYS</status>
+    <status>SERVICE CHANGE</status>
     <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;11/23/2017&amp;nbsp;11:21PM
+                    &amp;nbsp;Posted:&amp;nbsp;11/23/2017&amp;nbsp;11:39PM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  [2] and [5] trains are running with delays in both directions because of switch problems at &lt;STRONG&gt;149 St-Grand Concourse.&lt;/STRONG&gt;
+                  &lt;P&gt;Southbound [5] trains will end at &lt;STRONG&gt;149 St-Grand Concourse.&lt;/STRONG&gt;&lt;/P&gt;
+&lt;P&gt;[2] and [5] trains are delayed in both directions.&lt;/P&gt;
+&lt;P&gt;This service changes is because of switch problems at &lt;STRONG&gt;149 St-Grand Concourse. &lt;/STRONG&gt;&lt;/P&gt;
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>11/23/2017</Date>
-    <Time>11:21PM</Time>
+    <Time>11:39PM</Time>
   </line>
   <line>
     <name>456</name>
-    <status>DELAYS</status>
+    <status>SERVICE CHANGE</status>
     <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;11/23/2017&amp;nbsp;11:21PM
+                    &amp;nbsp;Posted:&amp;nbsp;11/23/2017&amp;nbsp;11:39PM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  [2] and [5] trains are running with delays in both directions because of switch problems at &lt;STRONG&gt;149 St-Grand Concourse.&lt;/STRONG&gt;
+                  &lt;P&gt;Southbound [5] trains will end at &lt;STRONG&gt;149 St-Grand Concourse.&lt;/STRONG&gt;&lt;/P&gt;
+&lt;P&gt;[2] and [5] trains are delayed in both directions.&lt;/P&gt;
+&lt;P&gt;This service changes is because of switch problems at &lt;STRONG&gt;149 St-Grand Concourse. &lt;/STRONG&gt;&lt;/P&gt;
                 &lt;br/&gt;&lt;br/&gt;
               
                     &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
@@ -30,7 +34,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>11/23/2017</Date>
-    <Time>11:21PM</Time>
+    <Time>11:39PM</Time>
   </line>
   <line>
     <name>7</name>
