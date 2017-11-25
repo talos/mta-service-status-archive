@@ -1,13 +1,14 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>DELAYS</status>
+    <status>SERVICE CHANGE</status>
     <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;11/25/2017&amp;nbsp; 4:27AM
+                    &amp;nbsp;Posted:&amp;nbsp;11/25/2017&amp;nbsp; 2:01AM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  [1] and [2] train service has resumed following earlier track maintenance at &lt;STRONG&gt;34 St-Penn Station.&lt;/STRONG&gt;
+                  &lt;P&gt;Northbound [1] and [2] trains are running express from &lt;STRONG&gt;Chambers St&lt;/STRONG&gt; to &lt;STRONG&gt;Times Sq-42 St.&lt;/STRONG&gt;&lt;/P&gt;
+&lt;P&gt;This service change is because of track maintenance at &lt;STRONG&gt;34 St-Penn Station&lt;/STRONG&gt;.&lt;/P&gt;
                 &lt;br/&gt;&lt;br/&gt;
               
                     &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
@@ -36,7 +37,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>11/25/2017</Date>
-    <Time> 4:27AM</Time>
+    <Time> 2:01AM</Time>
   </line>
   <line>
     <name>456</name>
