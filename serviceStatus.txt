@@ -1,10 +1,19 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>DELAYS</status>
+    <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;11/24/2017&amp;nbsp; 7:05PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;P&gt;Southbound [2] and [3] trains are running with delays because of signal problems at &lt;STRONG&gt;Hoyt St.&lt;/STRONG&gt; &lt;/P&gt;
+&lt;P&gt;Our crews are on site working to fix it ASAP, we'll follow up soon. &lt;/P&gt;
+&lt;P&gt;Stay tuned for updates. &lt;/P&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>11/24/2017</Date>
+    <Time> 7:05PM</Time>
   </line>
   <line>
     <name>456</name>
