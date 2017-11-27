@@ -1,15 +1,13 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>SERVICE CHANGE</status>
+    <status>DELAYS</status>
     <text>
-                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;11/27/2017&amp;nbsp; 1:52PM
+                    &amp;nbsp;Posted:&amp;nbsp;11/27/2017&amp;nbsp; 2:07PM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  &lt;P&gt;Northbound [1] trains are running express from &lt;STRONG&gt;72 St&lt;/STRONG&gt; to &lt;STRONG&gt;96 St&lt;/STRONG&gt; because of a rail condition at &lt;STRONG&gt;96 St.&lt;/STRONG&gt;&lt;/P&gt;
-&lt;P&gt;Expect delays on [1] [2] and [3] trains.&lt;/P&gt;
-&lt;P&gt;Our crews are on scene trying to fix it ASAP and we'll follow up soon. Stay tuned for updates.&lt;/P&gt;
+                  [1] train service has resumed following an earlier rail condition at &lt;STRONG&gt;96 St&lt;/STRONG&gt;.
                 &lt;br/&gt;&lt;br/&gt;
               
                     &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
@@ -18,7 +16,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>11/27/2017</Date>
-    <Time> 1:52PM</Time>
+    <Time> 2:07PM</Time>
   </line>
   <line>
     <name>456</name>
@@ -147,7 +145,7 @@
     <text>
                   &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
                   &lt;span class="DateStyle"&gt;
-                  &amp;nbsp;Posted:&amp;nbsp;11/27/2017&amp;nbsp;12:30PM
+                  &amp;nbsp;Posted:&amp;nbsp;11/27/2017&amp;nbsp; 2:08PM
                   &lt;/span&gt;
                   &lt;br/&gt;
                   &lt;br/&gt;
@@ -201,7 +199,7 @@
               &lt;br/&gt;
             </text>
     <Date>11/27/2017</Date>
-    <Time>12:30PM</Time>
+    <Time> 2:08PM</Time>
   </line>
   <line>
     <name>B100 - B103</name>
@@ -320,21 +318,26 @@
   </line>
   <line>
     <name>Q1 - Q113</name>
-    <status>DELAYS</status>
+    <status>SERVICE CHANGE</status>
     <text>
-                  &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                  &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
                   &lt;span class="DateStyle"&gt;
-                  &amp;nbsp;Posted:&amp;nbsp;11/27/2017&amp;nbsp; 2:06PM
+                  &amp;nbsp;Posted:&amp;nbsp;11/27/2017&amp;nbsp; 2:07PM
                   &lt;/span&gt;
                   &lt;br/&gt;
                   &lt;br/&gt;
-                &lt;STRONG&gt;M60-SBS, Q48, Q70-SBS&lt;/STRONG&gt;, and &lt;STRONG&gt;Q72&lt;/STRONG&gt; buses are running with delays in both directions because of traffic conditons in and around LaGuardia Airport.
+                &lt;P&gt;&lt;STRONG&gt;Q16 and QM20&lt;/STRONG&gt; are detoured eastbound because of DOT paving on Utopia Pkwy between 26 Av and Willets Point Blvd. &lt;/P&gt;
+&lt;P&gt;Detour is as follows:&lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;Q16 Eastbound:&lt;/STRONG&gt; Via Francis Lewis Blvd, right on 23 Av, left on 166 St, right on Willets Point Blvd and regular route.&lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;QM20 Westbound&lt;/STRONG&gt;: Via 26 Av, right on Clearview Expressway. Get off Willets Point Blvd exit, left on Willets Point Blvd and regular route.&lt;/P&gt;
+&lt;P&gt;Corresponding stops will be made along detour route.&lt;/P&gt;
+&lt;P&gt; &lt;/P&gt;
               &lt;br/&gt;
               &lt;br/&gt;
             
                   &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
                   &lt;span class="DateStyle"&gt;
-                  &amp;nbsp;Posted:&amp;nbsp;11/27/2017&amp;nbsp;12:31PM
+                  &amp;nbsp;Posted:&amp;nbsp;11/27/2017&amp;nbsp; 2:06PM
                   &lt;/span&gt;
                   &lt;br/&gt;
                   &lt;br/&gt;
@@ -345,18 +348,13 @@
               &lt;br/&gt;
               &lt;br/&gt;
             
-                  &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                  &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                   &lt;span class="DateStyle"&gt;
-                  &amp;nbsp;Posted:&amp;nbsp;11/27/2017&amp;nbsp;12:31PM
+                  &amp;nbsp;Posted:&amp;nbsp;11/27/2017&amp;nbsp; 2:06PM
                   &lt;/span&gt;
                   &lt;br/&gt;
                   &lt;br/&gt;
-                &lt;P&gt;&lt;STRONG&gt;Q16 and QM20&lt;/STRONG&gt; are detoured eastbound because of DOT paving on Utopia Pkwy between 26 Av and Willets Point Blvd. &lt;/P&gt;
-&lt;P&gt;Detour is as follows:&lt;/P&gt;
-&lt;P&gt;&lt;STRONG&gt;Q16 Eastbound:&lt;/STRONG&gt; Via Francis Lewis Blvd, right on 23 Av, left on 166 St, right on Willets Point Blvd and regular route.&lt;/P&gt;
-&lt;P&gt;QM20 Westbound: Via 26 Av, right on Clearview Expressway. Get off Willets Point Blvd exit, left on Willets Point Blvd and regular route.&lt;/P&gt;
-&lt;P&gt;Corresponding stops will be made along detour route.&lt;/P&gt;
-&lt;P&gt; &lt;/P&gt;
+                &lt;STRONG&gt;M60-SBS, Q48, Q70-SBS&lt;/STRONG&gt;, and &lt;STRONG&gt;Q72&lt;/STRONG&gt; buses are running with delays in both directions because of traffic conditons in and around LaGuardia Airport.
               &lt;br/&gt;
               &lt;br/&gt;
             
@@ -428,7 +426,7 @@
               &lt;br/&gt;
             </text>
     <Date>11/27/2017</Date>
-    <Time> 2:06PM</Time>
+    <Time> 2:07PM</Time>
   </line>
   <line>
     <name>QM1 - QM44</name>
@@ -436,14 +434,14 @@
     <text>
                   &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
                   &lt;span class="DateStyle"&gt;
-                  &amp;nbsp;Posted:&amp;nbsp;11/27/2017&amp;nbsp;12:31PM
+                  &amp;nbsp;Posted:&amp;nbsp;11/27/2017&amp;nbsp; 2:07PM
                   &lt;/span&gt;
                   &lt;br/&gt;
                   &lt;br/&gt;
                 &lt;P&gt;&lt;STRONG&gt;Q16 and QM20&lt;/STRONG&gt; are detoured eastbound because of DOT paving on Utopia Pkwy between 26 Av and Willets Point Blvd. &lt;/P&gt;
 &lt;P&gt;Detour is as follows:&lt;/P&gt;
 &lt;P&gt;&lt;STRONG&gt;Q16 Eastbound:&lt;/STRONG&gt; Via Francis Lewis Blvd, right on 23 Av, left on 166 St, right on Willets Point Blvd and regular route.&lt;/P&gt;
-&lt;P&gt;QM20 Westbound: Via 26 Av, right on Clearview Expressway. Get off Willets Point Blvd exit, left on Willets Point Blvd and regular route.&lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;QM20 Westbound&lt;/STRONG&gt;: Via 26 Av, right on Clearview Expressway. Get off Willets Point Blvd exit, left on Willets Point Blvd and regular route.&lt;/P&gt;
 &lt;P&gt;Corresponding stops will be made along detour route.&lt;/P&gt;
 &lt;P&gt; &lt;/P&gt;
               &lt;br/&gt;
@@ -480,7 +478,7 @@
               &lt;br/&gt;
             </text>
     <Date>11/27/2017</Date>
-    <Time>12:31PM</Time>
+    <Time> 2:07PM</Time>
   </line>
   <line>
     <name>S40 - S98</name>
