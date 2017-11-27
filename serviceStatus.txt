@@ -1,10 +1,17 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>DELAYS</status>
+    <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;11/27/2017&amp;nbsp; 6:38PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  [3] trains are running with delays in both directions because of an NYPD investigation at &lt;STRONG&gt;New Lots Av&lt;/STRONG&gt;.
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>11/27/2017</Date>
+    <Time> 6:38PM</Time>
   </line>
   <line>
     <name>456</name>
