@@ -1,10 +1,18 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>SERVICE CHANGE</status>
+    <text>
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;11/27/2017&amp;nbsp; 7:13AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;P&gt;[1], [2] and [3] trains are bypassing &lt;STRONG&gt;72 St&lt;/STRONG&gt; in both directions because of an investigation.&lt;/P&gt;
+&lt;P&gt;As an alternative, use the &lt;STRONG&gt;79 St&lt;/STRONG&gt; station or &lt;STRONG&gt;86&lt;/STRONG&gt; &lt;STRONG&gt;St&lt;/STRONG&gt; station. We expect to resume service at &lt;STRONG&gt;72 St&lt;/STRONG&gt; soon.&lt;/P&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>11/27/2017</Date>
+    <Time> 7:13AM</Time>
   </line>
   <line>
     <name>456</name>
@@ -114,7 +122,7 @@
               &lt;br/&gt;
             </text>
     <Date>11/27/2017</Date>
-    <Time> 7:10AM</Time>
+    <Time> 7:13AM</Time>
   </line>
   <line>
     <name>B100 - B103</name>
@@ -147,7 +155,7 @@
               &lt;br/&gt;
             </text>
     <Date>11/27/2017</Date>
-    <Time> 7:10AM</Time>
+    <Time> 7:13AM</Time>
   </line>
   <line>
     <name>BXM1 - BXM18</name>
@@ -362,7 +370,7 @@
               &lt;br/&gt;
             </text>
     <Date>11/27/2017</Date>
-    <Time> 7:10AM</Time>
+    <Time> 7:13AM</Time>
   </line>
 </bus><BT>
   <line>
