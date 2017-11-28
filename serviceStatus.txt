@@ -47,36 +47,22 @@
   </line>
   <line>
     <name>ACE</name>
-    <status>DELAYS</status>
-    <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;11/28/2017&amp;nbsp;10:07AM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  [A] and [D] service has resumed following an earlier incident involving a customer requiring medical assistance at &lt;STRONG&gt;125 St.&lt;/STRONG&gt;
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>11/28/2017</Date>
-    <Time>10:07AM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>BDFM</name>
-    <status>DELAYS</status>
+    <status>PLANNED WORK</status>
     <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;11/28/2017&amp;nbsp;10:07AM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  [A] and [D] service has resumed following an earlier incident involving a customer requiring medical assistance at &lt;STRONG&gt;125 St.&lt;/STRONG&gt;
-                &lt;br/&gt;&lt;br/&gt;
-              
                     &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
                     &lt;br/&gt;
                   &lt;a class="plannedWorkDetailLink" onclick=ShowHide(172345);&gt;&lt;b&gt;&lt;i&gt;TRACK REPLACEMENT&lt;/i&gt;&lt;br clear=left&gt;[D]Coney Island-bound trains skip Fort Hamilton Pkwy, 50 St and 55 St&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 172345 class="plannedWorkDetail" &gt;&lt;/b&gt;Days, 9:45 AM to 3 PM, Mon to Fri, Nov 27 - Dec 1&lt;br&gt;&lt;br&gt;For service to these stations, take the [D] to 62 St and transfer to a Norwood-bound [D].&lt;br&gt;&lt;br&gt;For service from these stations, take the [D] to 9 Av and transfer to a Coney Island-bound [D].&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>11/28/2017</Date>
-    <Time>10:07AM</Time>
+    <Time>10:13AM</Time>
   </line>
   <line>
     <name>G</name>
@@ -143,8 +129,20 @@
 </subway><bus>
   <line>
     <name>B1 - B84</name>
-    <status>SERVICE CHANGE</status>
+    <status>DELAYS</status>
     <text>
+                  &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                  &lt;span class="DateStyle"&gt;
+                  &amp;nbsp;Posted:&amp;nbsp;11/28/2017&amp;nbsp;10:21AM
+                  &lt;/span&gt;
+                  &lt;br/&gt;
+                  &lt;br/&gt;
+                &lt;P&gt;&lt;STRONG&gt;B14 &lt;/STRONG&gt;buses are detoured because of construction on Blake Av and Junius St. &lt;/P&gt;
+&lt;P&gt;Detour is as follows:&lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;Westbound:&lt;/STRONG&gt; Via Sutter Av and regular route.  &lt;/P&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
                   &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
                   &lt;span class="DateStyle"&gt;
                   &amp;nbsp;Posted:&amp;nbsp;11/28/2017&amp;nbsp;10:11AM
@@ -260,7 +258,7 @@
               &lt;br/&gt;
             </text>
     <Date>11/28/2017</Date>
-    <Time>10:11AM</Time>
+    <Time>10:21AM</Time>
   </line>
   <line>
     <name>B100 - B103</name>
@@ -590,10 +588,15 @@
   </line>
   <line>
     <name>City Terminal Zone</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>PLANNED WORK</status>
+    <text>
+                    &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
+                    &lt;br/&gt;
+                  Temporary westbound platforms are in place at Kew Gardens, Forest Hills and Woodside. Customers must board and exit from the first door of the first west car at Kew Gardens and Forest Hills, and through the first two west cars at Woodside. Port Washington service is not affected.
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>11/28/2017</Date>
+    <Time>10:19AM</Time>
   </line>
   <line>
     <name>Far Rockaway</name>
@@ -604,17 +607,10 @@
   </line>
   <line>
     <name>Hempstead</name>
-    <status>DELAYS</status>
-    <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;11/28/2017&amp;nbsp; 8:05AM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  &lt;font face="sans-serif"&gt;&lt;span style="font-size: 13.3333px;"&gt;The 7:50AM train from Atlantic Terminal due Hempstead at 8:38AM is operating 11 minutes late caused by a late train ahead due to a customer in need of medical assistance. &lt;/span&gt;&lt;/font&gt;
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>11/28/2017</Date>
-    <Time> 8:05AM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>Long Beach</name>
