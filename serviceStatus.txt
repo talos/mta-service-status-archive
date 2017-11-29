@@ -1,17 +1,10 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>DELAYS</status>
-    <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;11/28/2017&amp;nbsp; 8:41PM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  [2] and [3] train service has resumed following an earlier unruly passenger at &lt;STRONG&gt;14 St.&lt;/STRONG&gt;
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>11/28/2017</Date>
-    <Time> 8:41PM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>456</name>
@@ -244,16 +237,6 @@
     <text>
                   &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                   &lt;span class="DateStyle"&gt;
-                  &amp;nbsp;Posted:&amp;nbsp;11/28/2017&amp;nbsp; 8:45PM
-                  &lt;/span&gt;
-                  &lt;br/&gt;
-                  &lt;br/&gt;
-                &lt;STRONG&gt;Q47&lt;/STRONG&gt; and &lt;STRONG&gt;Q48&lt;/STRONG&gt; bus service has resumed following earlier NYPD activity in the vicinity of Astoria Blvd and 82 St.
-              &lt;br/&gt;
-              &lt;br/&gt;
-            
-                  &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                  &lt;span class="DateStyle"&gt;
                   &amp;nbsp;Posted:&amp;nbsp;11/28/2017&amp;nbsp; 8:04PM
                   &lt;/span&gt;
                   &lt;br/&gt;
@@ -303,7 +286,7 @@
               &lt;br/&gt;
             </text>
     <Date>11/28/2017</Date>
-    <Time> 8:45PM</Time>
+    <Time> 8:04PM</Time>
   </line>
   <line>
     <name>QM1 - QM44</name>
