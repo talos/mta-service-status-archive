@@ -1,10 +1,17 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>SERVICE CHANGE</status>
+    <text>
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;11/28/2017&amp;nbsp; 8:23PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  Northbound [2] and [3] trains are running local from &lt;STRONG&gt;Chambers St&lt;/STRONG&gt; to &lt;STRONG&gt;34 St-Penn Station&lt;/STRONG&gt; because of an unruly passenger at&lt;STRONG&gt; 34 St-Penn Station.&lt;/STRONG&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>11/28/2017</Date>
+    <Time> 8:23PM</Time>
   </line>
   <line>
     <name>456</name>
@@ -157,7 +164,7 @@
               &lt;br/&gt;
             </text>
     <Date>11/28/2017</Date>
-    <Time> 8:13PM</Time>
+    <Time> 8:23PM</Time>
   </line>
   <line>
     <name>BXM1 - BXM18</name>
@@ -380,7 +387,7 @@
               &lt;br/&gt;
             </text>
     <Date>11/28/2017</Date>
-    <Time> 8:13PM</Time>
+    <Time> 8:23PM</Time>
   </line>
   <line>
     <name>S40 - S98</name>
@@ -450,13 +457,13 @@
     <text>
                     &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;11/28/2017&amp;nbsp; 4:34PM
+                    &amp;nbsp;Posted:&amp;nbsp;11/28/2017&amp;nbsp; 8:21PM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  &lt;body bgcolor='White' style='font-family:sans-serif;font-size:10pt;'&gt; WESTBOUND GOWANUS HOV AND VNB HOV REMAIN OPEN.&lt;/body&gt;
+                  &lt;body bgcolor='White' style='font-family:sans-serif;font-size:10pt;'&gt;GOWANUS HOV LANE BETWEEN HLC AND VNB IS NOW CLOSED TO TRAFFIC. VNB UPPER LEVEL HOV LANE REMAINS IN THE STATEN ISLAND-BOUND CONFIGURATION.&lt;/body&gt;
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>11/28/2017</Date>
-    <Time> 4:34PM</Time>
+    <Time> 8:21PM</Time>
   </line>
   <line>
     <name>Marine Parkway</name>
@@ -576,17 +583,10 @@
   </line>
   <line>
     <name>West Hempstead</name>
-    <status>DELAYS</status>
-    <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;11/28/2017&amp;nbsp; 8:14PM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  The 7:23PM train from Atlantic Terminal due West Hempstead at 8:10PM is operating 13 minutes late due to slippery rail conditions - where train wheels slip while accelerating, or slide during braking - caused by oily residue left by crushed leaves on the rails. See attached link for info on how we combat slippery rail conditions. &lt;br&gt;
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>11/28/2017</Date>
-    <Time> 8:14PM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
 </LIRR><MetroNorth>
   <line>
@@ -626,10 +626,17 @@
   </line>
   <line>
     <name>Danbury</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>DELAYS</status>
+    <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;11/28/2017&amp;nbsp; 8:23PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  Danbury Branch Line Service is currently experiencing delays of 20 to 25 minutes due to a late connecting train. Please listen for announcements at your station
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>11/28/2017</Date>
+    <Time> 8:23PM</Time>
   </line>
   <line>
     <name>Waterbury</name>
