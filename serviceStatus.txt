@@ -1,10 +1,17 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>DELAYS</status>
+    <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;11/29/2017&amp;nbsp; 5:55PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  Southbound [1] trains are running with delays because of an investigation at &lt;STRONG&gt;Dyckman St&lt;/STRONG&gt;.
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>11/29/2017</Date>
+    <Time> 5:55PM</Time>
   </line>
   <line>
     <name>456</name>
@@ -256,7 +263,7 @@
               &lt;br/&gt;
             </text>
     <Date>11/29/2017</Date>
-    <Time> 5:47PM</Time>
+    <Time> 5:56PM</Time>
   </line>
   <line>
     <name>BXM1 - BXM18</name>
@@ -275,7 +282,7 @@
               &lt;br/&gt;
             </text>
     <Date>11/29/2017</Date>
-    <Time> 5:47PM</Time>
+    <Time> 5:56PM</Time>
   </line>
   <line>
     <name>M1 - M116</name>
@@ -768,17 +775,10 @@ operating 23 minutes late due to switch trouble near Atlantic Terminal.      
   </line>
   <line>
     <name>Port Jefferson</name>
-    <status>DELAYS</status>
-    <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;11/29/2017&amp;nbsp; 5:19PM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  The 4:06PM train from Port Jefferson due Jamaica at 5:39PM is operating 16 minutes late due to earlier police activity at Port Jefferson. &lt;br&gt;
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>11/29/2017</Date>
-    <Time> 5:19PM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>Port Washington</name>
@@ -867,13 +867,6 @@ operating 23 minutes late due to switch trouble near Atlantic Terminal.      
                     &amp;nbsp;Posted:&amp;nbsp;11/29/2017&amp;nbsp; 5:39PM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
                   Update: MBPJ train #53, the 5:29pm from Suffern is operating up to 25 min. late due to an earlier vehicle stuck on tracks.&lt;br&gt;Sent: 5:28 PM&lt;br&gt;&lt;br&gt;&lt;br&gt;MBPJ train #53, the 5:29pm from Suffern is delayed due to vehicle stuck on tracks. An update will follow.&lt;br&gt;Sent: 5:20 PM
-                &lt;br/&gt;&lt;br/&gt;
-              
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;11/29/2017&amp;nbsp; 3:19PM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  &lt;br&gt;Update #2: MBPJ train #0064, the 2:09pm from Middletown is operating up to 50 min. late due to an earlier operational issue. &lt;br&gt;&lt;br&gt;Sent: 3:02 PM
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>11/29/2017</Date>
