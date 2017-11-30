@@ -1,17 +1,20 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>DELAYS</status>
+    <status>SERVICE CHANGE</status>
     <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;11/30/2017&amp;nbsp; 4:41PM
+                    &amp;nbsp;Posted:&amp;nbsp;11/30/2017&amp;nbsp; 4:58PM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  [3] trains are running with delays in both directions because of a sick passenger at &lt;STRONG&gt;Harlem-148 St.&lt;/STRONG&gt;
+                  &lt;P&gt;Some northbound [3] trains end at &lt;STRONG&gt;96 St.&lt;/STRONG&gt;&lt;/P&gt;
+&lt;P&gt;Some northbound [3] trains are stopping along the [1] line from &lt;STRONG&gt;96 St&lt;/STRONG&gt; to &lt;STRONG&gt;137 St-City College&lt;/STRONG&gt; and end.&lt;/P&gt;
+&lt;P&gt;Expect delays on [1][2] and [3] trains. &lt;/P&gt;
+&lt;P&gt;These service changes are because of a sick passenger at &lt;STRONG&gt;Harlem-148 St&lt;/STRONG&gt;&lt;/P&gt;
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>11/30/2017</Date>
-    <Time> 4:41PM</Time>
+    <Time> 4:58PM</Time>
   </line>
   <line>
     <name>456</name>
@@ -743,15 +746,15 @@ the 5:17PM train from Penn due Huntington at 6:21PM.
     <text>
                     &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;11/30/2017&amp;nbsp; 4:53PM
+                    &amp;nbsp;Posted:&amp;nbsp;11/30/2017&amp;nbsp; 4:58PM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  &lt;P&gt;The 4:34PM train from Atlantic Terminal due Ronkonkoma at 5:57PM is operating 13 minutes late after being held prior to departure due to earlier equipment trouble at Atlantic Terminal. &lt;/P&gt;
-&lt;P&gt; &lt;/P&gt;
-&lt;P&gt;The 3:55PM train from Penn due Ronkonkoma at 5:16PM is operating 10 minutes late after being delayed at Jamaica Station due to equipment trouble.&lt;/P&gt;
+                  &lt;p&gt;&lt;span style="font-size: 10pt;"&gt;The 3:55PM train from Penn due Ronkonkoma at 5:16PM is operating 10 minutes late after being delayed at Jamaica Station due to equipment trouble.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style="font-size: 13.3333px;"&gt;The 4:34PM train from Atlantic Terminal due Ronkonkoma at 5:57PM is operating 13 minutes late after being held prior to departure due to earlier equipment trouble at Atlantic Terminal.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;The 5:01PM train from Penn due Ronkonkoma at 6:21PM is cancelled due to 
+switch trouble near Merillon Avenue. Customers will be accommodated by 
+the 5:22PM train from Penn due Ronkonkoma at 6:38PM.         &lt;/p&gt;
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>11/30/2017</Date>
-    <Time> 4:53PM</Time>
+    <Time> 4:58PM</Time>
   </line>
   <line>
     <name>West Hempstead</name>
