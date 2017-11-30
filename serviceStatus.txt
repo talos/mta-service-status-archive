@@ -1,10 +1,17 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>SERVICE CHANGE</status>
+    <text>
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;11/30/2017&amp;nbsp; 6:20PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  Some northbound [1] trains end at &lt;STRONG&gt;137 St-City College&lt;/STRONG&gt; or &lt;STRONG&gt;145 St&lt;/STRONG&gt; because of a train with mechanical problems at &lt;STRONG&gt;157 St.&lt;/STRONG&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>11/30/2017</Date>
+    <Time> 6:20PM</Time>
   </line>
   <line>
     <name>456</name>
@@ -29,17 +36,10 @@
   </line>
   <line>
     <name>BDFM</name>
-    <status>DELAYS</status>
-    <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;11/30/2017&amp;nbsp; 6:04PM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  [M] and [R] train service has resumed following an earlier incident involving NYPD activity at &lt;STRONG&gt;Woodhaven Blvd.&lt;/STRONG&gt;
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>11/30/2017</Date>
-    <Time> 6:04PM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>G</name>
@@ -64,17 +64,10 @@
   </line>
   <line>
     <name>NQR</name>
-    <status>DELAYS</status>
-    <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;11/30/2017&amp;nbsp; 6:04PM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  [M] and [R] train service has resumed following an earlier incident involving NYPD activity at &lt;STRONG&gt;Woodhaven Blvd.&lt;/STRONG&gt;
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>11/30/2017</Date>
-    <Time> 6:04PM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>S</name>
@@ -220,13 +213,13 @@
     <text>
                   &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
                   &lt;span class="DateStyle"&gt;
-                  &amp;nbsp;Posted:&amp;nbsp;11/30/2017&amp;nbsp; 6:09PM
+                  &amp;nbsp;Posted:&amp;nbsp;11/30/2017&amp;nbsp; 6:22PM
                   &lt;/span&gt;
                   &lt;br/&gt;
                   &lt;br/&gt;
                 &lt;P&gt;Southbound &lt;STRONG&gt;Bx10 &lt;/STRONG&gt;and &lt;STRONG&gt;Bx20&lt;/STRONG&gt; buses are detoured because of a water main break on Henry Hudson Pkwy at 227 St. &lt;/P&gt;
 &lt;P&gt;Detour is as follows:&lt;/P&gt;
-&lt;P&gt;Southbound Bx10 and Bx20: Via Henry Hudson Parkway, right on 232 St, left on Independence Av, left on Kappock St and regular route.&lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;Southbound&lt;/STRONG&gt;: Bx10 and Bx20: Via Henry Hudson Parkway, right on 232 St, left on Independence Av, left on Kappock St and regular route.&lt;/P&gt;
               &lt;br/&gt;
               &lt;br/&gt;
             
@@ -253,7 +246,7 @@
               &lt;br/&gt;
             </text>
     <Date>11/30/2017</Date>
-    <Time> 6:09PM</Time>
+    <Time> 6:22PM</Time>
   </line>
   <line>
     <name>BXM1 - BXM18</name>
