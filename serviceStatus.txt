@@ -89,8 +89,18 @@
 </subway><bus>
   <line>
     <name>B1 - B84</name>
-    <status>DELAYS</status>
+    <status>SERVICE CHANGE</status>
     <text>
+                  &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                  &lt;span class="DateStyle"&gt;
+                  &amp;nbsp;Posted:&amp;nbsp;12/01/2017&amp;nbsp; 3:50PM
+                  &lt;/span&gt;
+                  &lt;br/&gt;
+                  &lt;br/&gt;
+                &lt;STRONG&gt;B6 &lt;/STRONG&gt;and&lt;STRONG&gt; B11&lt;/STRONG&gt; buses are running with delays in both directions because of traffic conditions on Avenue J between Bay Parkway and Nostrand Av.
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
                   &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                   &lt;span class="DateStyle"&gt;
                   &amp;nbsp;Posted:&amp;nbsp;12/01/2017&amp;nbsp; 3:32PM
@@ -134,7 +144,7 @@
               &lt;br/&gt;
             </text>
     <Date>12/01/2017</Date>
-    <Time> 3:32PM</Time>
+    <Time> 3:50PM</Time>
   </line>
   <line>
     <name>B100 - B103</name>
@@ -210,17 +220,15 @@
   </line>
   <line>
     <name>M1 - M116</name>
-    <status>SERVICE CHANGE</status>
+    <status>DELAYS</status>
     <text>
-                  &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                  &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                   &lt;span class="DateStyle"&gt;
-                  &amp;nbsp;Posted:&amp;nbsp;12/01/2017&amp;nbsp; 2:13PM
+                  &amp;nbsp;Posted:&amp;nbsp;12/01/2017&amp;nbsp; 3:50PM
                   &lt;/span&gt;
                   &lt;br/&gt;
                   &lt;br/&gt;
-                &lt;P&gt;Southbound &lt;STRONG&gt;M2 &lt;/STRONG&gt;buses are detoured because of NYPD activity on Adam Clayton Powell Blvd between 147 St and 150 St.&lt;/P&gt;
-&lt;P&gt;&lt;STRONG&gt;Southbound&lt;/STRONG&gt;: Via Edgecombe Av, right on 155 St, left on St Nicholas Av, left on 145 St, right on Adam Clayton Powell Blvd and regular route. &lt;/P&gt;
-&lt;P&gt; &lt;/P&gt;
+                &lt;STRONG&gt;M2&lt;/STRONG&gt; bus service has resumed following earlier NYPD activity on Adam Clayton Powell Blvd between 147 St and 150 St.
               &lt;br/&gt;
               &lt;br/&gt;
             
@@ -255,7 +263,7 @@
               &lt;br/&gt;
             </text>
     <Date>12/01/2017</Date>
-    <Time> 2:13PM</Time>
+    <Time> 3:50PM</Time>
   </line>
   <line>
     <name>Q1 - Q113</name>
