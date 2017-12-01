@@ -104,10 +104,17 @@
   </line>
   <line>
     <name>L</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>DELAYS</status>
+    <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;12/01/2017&amp;nbsp;10:20AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  8 Av-bound [L] trains are holding in stations between &lt;b&gt;Grand St&lt;/b&gt; and &lt;b&gt;Myrtle-Wyckoff Avs&lt;/b&gt; because of a passenger in need of medical assistance at &lt;b&gt;Graham Av.&lt;/b&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>12/01/2017</Date>
+    <Time>10:20AM</Time>
   </line>
   <line>
     <name>NQR</name>
@@ -416,20 +423,10 @@
   </line>
   <line>
     <name>S40 - S98</name>
-    <status>DELAYS</status>
-    <text>
-                  &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                  &lt;span class="DateStyle"&gt;
-                  &amp;nbsp;Posted:&amp;nbsp;12/01/2017&amp;nbsp;10:07AM
-                  &lt;/span&gt;
-                  &lt;br/&gt;
-                  &lt;br/&gt;
-                S74 and S78 buses have resumed service following earlier road work on Van Duzer near Baltic St.
-              &lt;br/&gt;
-              &lt;br/&gt;
-            </text>
-    <Date>12/01/2017</Date>
-    <Time>10:07AM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>x1 - x68</name>
