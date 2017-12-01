@@ -1,8 +1,15 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>DELAYS</status>
+    <status>SERVICE CHANGE</status>
     <text>
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;12/01/2017&amp;nbsp;12:34PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  No [1] train service between &lt;STRONG&gt;215 St&lt;/STRONG&gt; and &lt;STRONG&gt;Van Cortlandt-242&lt;/STRONG&gt; St because of the opening of the Broadway Bridge.
+                &lt;br/&gt;&lt;br/&gt;
+              
                     &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
                     &amp;nbsp;Posted:&amp;nbsp;12/01/2017&amp;nbsp;12:11PM
@@ -16,7 +23,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>12/01/2017</Date>
-    <Time>12:11PM</Time>
+    <Time>12:34PM</Time>
   </line>
   <line>
     <name>456</name>
@@ -43,7 +50,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>12/01/2017</Date>
-    <Time>12:29PM</Time>
+    <Time>12:34PM</Time>
   </line>
   <line>
     <name>7</name>
@@ -55,7 +62,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>12/01/2017</Date>
-    <Time>12:29PM</Time>
+    <Time>12:34PM</Time>
   </line>
   <line>
     <name>ACE</name>
@@ -67,7 +74,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>12/01/2017</Date>
-    <Time>12:29PM</Time>
+    <Time>12:34PM</Time>
   </line>
   <line>
     <name>BDFM</name>
@@ -79,7 +86,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>12/01/2017</Date>
-    <Time>12:29PM</Time>
+    <Time>12:34PM</Time>
   </line>
   <line>
     <name>G</name>
@@ -105,7 +112,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>12/01/2017</Date>
-    <Time>12:29PM</Time>
+    <Time>12:34PM</Time>
   </line>
   <line>
     <name>NQR</name>
@@ -122,7 +129,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>12/01/2017</Date>
-    <Time>12:29PM</Time>
+    <Time>12:34PM</Time>
   </line>
   <line>
     <name>S</name>
@@ -134,7 +141,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>12/01/2017</Date>
-    <Time>12:29PM</Time>
+    <Time>12:34PM</Time>
   </line>
   <line>
     <name>SIR</name>
@@ -146,7 +153,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>12/01/2017</Date>
-    <Time>12:29PM</Time>
+    <Time>12:34PM</Time>
   </line>
 </subway><bus>
   <line>
@@ -166,7 +173,7 @@
               &lt;br/&gt;
             </text>
     <Date>12/01/2017</Date>
-    <Time>12:29PM</Time>
+    <Time>12:34PM</Time>
   </line>
   <line>
     <name>B100 - B103</name>
@@ -420,7 +427,7 @@
               &lt;br/&gt;
             </text>
     <Date>12/01/2017</Date>
-    <Time>12:29PM</Time>
+    <Time>12:34PM</Time>
   </line>
   <line>
     <name>S40 - S98</name>
@@ -446,7 +453,7 @@
               &lt;br/&gt;
             </text>
     <Date>12/01/2017</Date>
-    <Time>12:29PM</Time>
+    <Time>12:34PM</Time>
   </line>
 </bus><BT>
   <line>
