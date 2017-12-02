@@ -568,10 +568,19 @@
   </line>
   <line>
     <name>City Terminal Zone</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>SUSPENDED</status>
+    <text>
+                    &lt;span class="TitleSuspended"&gt;Suspended&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;12/02/2017&amp;nbsp;10:15AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  This weekend, LIRR service to/from Brooklyn is suspended due to switch 
+installation work near Atlantic Terminal. For alternate bus and subway 
+options: &lt;a href="http://web.mta.info/supplemental/lirr/dec23dec910atlanticterminaljamaica.htm"&gt;http://web.mta.info/supplemental/lirr/dec23dec910atlanticterminaljamaica.htm&lt;/a&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>12/02/2017</Date>
+    <Time>10:15AM</Time>
   </line>
   <line>
     <name>Far Rockaway</name>
