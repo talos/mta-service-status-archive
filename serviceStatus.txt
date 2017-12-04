@@ -162,8 +162,18 @@
 </subway><bus>
   <line>
     <name>B1 - B84</name>
-    <status>SERVICE CHANGE</status>
+    <status>DELAYS</status>
     <text>
+                  &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                  &lt;span class="DateStyle"&gt;
+                  &amp;nbsp;Posted:&amp;nbsp;12/04/2017&amp;nbsp;11:46AM
+                  &lt;/span&gt;
+                  &lt;br/&gt;
+                  &lt;br/&gt;
+                &lt;STRONG&gt;B41 &lt;/STRONG&gt;buses are delayed in both directions because of traffic conditions on Flatbush Av between Avenue H and Foster Av.
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
                   &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
                   &lt;span class="DateStyle"&gt;
                   &amp;nbsp;Posted:&amp;nbsp;12/04/2017&amp;nbsp;11:12AM
@@ -233,7 +243,7 @@
               &lt;br/&gt;
             </text>
     <Date>12/04/2017</Date>
-    <Time>11:12AM</Time>
+    <Time>11:46AM</Time>
   </line>
   <line>
     <name>B100 - B103</name>
