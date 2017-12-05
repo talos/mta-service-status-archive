@@ -1,14 +1,19 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>DELAYS</status>
+    <status>SERVICE CHANGE</status>
     <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;12/05/2017&amp;nbsp; 1:23PM
+                    &amp;nbsp;Posted:&amp;nbsp;12/05/2017&amp;nbsp; 1:45PM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  &lt;P&gt;Southbound [1] trains are running with delays because of a rail condition at &lt;STRONG&gt;96 St.&lt;/STRONG&gt;&lt;/P&gt;
-&lt;P&gt;Our crews are on site working to fix it ASAP and we'll follow up soon. Stay tuned for updates.&lt;STRONG&gt; &lt;/STRONG&gt;&lt;/P&gt;
+                  &lt;P&gt;There is no [1] train service in both directions between &lt;STRONG&gt;96 St&lt;/STRONG&gt; and &lt;STRONG&gt;137 St-City College.&lt;/STRONG&gt;&lt;/P&gt;
+&lt;P&gt;Northbound [1] trains are stopping along the [3] line from &lt;STRONG&gt;96 St&lt;/STRONG&gt; to &lt;STRONG&gt;Harlem-148 St.&lt;/STRONG&gt;&lt;/P&gt;
+&lt;P&gt;Southbound [1] trains will end at &lt;STRONG&gt;137 St-City College.&lt;/STRONG&gt;&lt;/P&gt;
+&lt;P&gt;Southbound [3] trains are running local from &lt;STRONG&gt;96 St&lt;/STRONG&gt; to &lt;STRONG&gt;Chambers St.&lt;/STRONG&gt;&lt;/P&gt;
+&lt;P&gt;Expect delays on the [1], [2] and [3] trains.&lt;/P&gt;
+&lt;P&gt;These service changes are because of a rail condition at &lt;STRONG&gt;96 St.&lt;/STRONG&gt; &lt;/P&gt;
+&lt;P&gt;Our crews are on site trying to fix it ASAP, and we'll follow up soon.&lt;/P&gt;
                 &lt;br/&gt;&lt;br/&gt;
               
                     &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
@@ -22,7 +27,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>12/05/2017</Date>
-    <Time> 1:23PM</Time>
+    <Time> 1:45PM</Time>
   </line>
   <line>
     <name>456</name>
@@ -781,10 +786,17 @@
   </line>
   <line>
     <name>Waterbury</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>DELAYS</status>
+    <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;12/05/2017&amp;nbsp; 1:46PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  Waterbury Branch Line Service is currently experiencing delays of 15 to 20 minutes due to a late connection.&lt;br&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>12/05/2017</Date>
+    <Time> 1:46PM</Time>
   </line>
   <line>
     <name>Pascack Valley</name>
