@@ -1,13 +1,13 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>SERVICE CHANGE</status>
+    <status>DELAYS</status>
     <text>
-                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;12/06/2017&amp;nbsp; 9:01PM
+                    &amp;nbsp;Posted:&amp;nbsp;12/06/2017&amp;nbsp; 9:09PM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  Southbound [2] and [3] trains are running express from &lt;B style="FONT-SIZE: 13px"&gt;Atlantic Av-Barclays Ctr&lt;/B&gt; to &lt;B&gt;Franklin Av &lt;/B&gt;because of a sick passenger at &lt;B style="FONT-SIZE: 13px"&gt;Atlantic Av-Barclays Ctr.&lt;/B&gt;
+                  [2] train service has resumed following an earlier incident involving sick passenger at &lt;STRONG&gt;Atlantic Av-Barclays Ctr.&lt;/STRONG&gt;
                 &lt;br/&gt;&lt;br/&gt;
               
                     &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
@@ -16,7 +16,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>12/06/2017</Date>
-    <Time> 9:01PM</Time>
+    <Time> 9:09PM</Time>
   </line>
   <line>
     <name>456</name>
@@ -665,17 +665,10 @@ this time.&lt;/strong&gt;      &lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p
   </line>
   <line>
     <name>Danbury</name>
-    <status>DELAYS</status>
-    <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;12/06/2017&amp;nbsp; 7:43PM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  Danbury Branch Line Northbound Service is currently experiencing delays of 25 to 30 minutes due to earlier mechanical difficulties and congestion. Please listen for announcements at your station.
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>12/06/2017</Date>
-    <Time> 7:43PM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>Waterbury</name>
