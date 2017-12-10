@@ -120,10 +120,17 @@
   </line>
   <line>
     <name>L</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>DELAYS</status>
+    <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;12/10/2017&amp;nbsp;11:40AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  [L] trains are running with delays in both directions because of track maintenance at Wilson Av.
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>12/10/2017</Date>
+    <Time>11:40AM</Time>
   </line>
   <line>
     <name>NQR</name>
@@ -398,18 +405,8 @@
   </line>
   <line>
     <name>S40 - S98</name>
-    <status>DELAYS</status>
+    <status>SERVICE CHANGE</status>
     <text>
-                  &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                  &lt;span class="DateStyle"&gt;
-                  &amp;nbsp;Posted:&amp;nbsp;12/10/2017&amp;nbsp;11:27AM
-                  &lt;/span&gt;
-                  &lt;br/&gt;
-                  &lt;br/&gt;
-                &lt;STRONG&gt;S52 &lt;/STRONG&gt;bus service has resumed following earlier DEP work on Norway Av and Cameron Av.
-              &lt;br/&gt;
-              &lt;br/&gt;
-            
                   &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
                   &lt;span class="DateStyle"&gt;
                   &amp;nbsp;Posted:&amp;nbsp;12/10/2017&amp;nbsp;10:03AM
@@ -429,7 +426,7 @@
               &lt;br/&gt;
             </text>
     <Date>12/10/2017</Date>
-    <Time>11:27AM</Time>
+    <Time>10:03AM</Time>
   </line>
   <line>
     <name>x1 - x68</name>
