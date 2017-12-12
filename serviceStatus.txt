@@ -13,10 +13,17 @@
   </line>
   <line>
     <name>456</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>DELAYS</status>
+    <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;12/12/2017&amp;nbsp; 9:24AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  Southbound [6] trains are running with delays because of a train with mechanical problems at &lt;STRONG&gt;Bleecker St.&lt;/STRONG&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>12/12/2017</Date>
+    <Time> 9:24AM</Time>
   </line>
   <line>
     <name>7</name>
@@ -42,17 +49,10 @@
   </line>
   <line>
     <name>BDFM</name>
-    <status>DELAYS</status>
-    <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;12/12/2017&amp;nbsp; 9:16AM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  [B] and [D] train service has resumed following an earlier incident involving a train with mechanical problems at &lt;STRONG&gt;W 4 St-Washington Sq.&lt;/STRONG&gt;
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>12/12/2017</Date>
-    <Time> 9:16AM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>G</name>
@@ -640,6 +640,13 @@
     <text>
                     &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;12/12/2017&amp;nbsp; 9:26AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  New Haven Line Service is currently experiencing delays of up to 30 minutes due to earlier wire damage in the vicinity of Stamford. Please listen for announcements at your station.
+                &lt;br/&gt;&lt;br/&gt;
+              
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
                     &amp;nbsp;Posted:&amp;nbsp;12/12/2017&amp;nbsp; 9:09AM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
                   New Haven Line Service is currently experiencing delays of up to 40 minutes due to Wire Damage in the vicinity of Stamford.  Please listen for announcements at your station.
@@ -653,7 +660,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>12/12/2017</Date>
-    <Time> 9:09AM</Time>
+    <Time> 9:26AM</Time>
   </line>
   <line>
     <name>New Canaan</name>
