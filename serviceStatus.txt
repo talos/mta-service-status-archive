@@ -1,10 +1,15 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>PLANNED WORK</status>
+    <text>
+                    &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
+                    &lt;br/&gt;
+                  &lt;a class="plannedWorkDetailLink" onclick=ShowHide(174863);&gt;&lt;b&gt;&lt;i&gt;TRACK &amp; TRACK PLATE INSTALLATION, REPLACEMENT OF POWER &amp; COMMUNICATION CABLES&lt;/i&gt;&lt;br clear=left&gt;[2] [3] Trains run at reduced speed through the Clark St Tunnel between Manhattan and Brooklyn&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 174863 class="plannedWorkDetail" &gt;&lt;/b&gt;All times, Monday to Friday, Dec 4 - 8  &amp;bull;  Dec 11 - 15  &lt;br&gt;&lt;br&gt;The slower speed will keep everyone safe as our crews make critical repairs to the tunnel.&lt;br&gt;&lt;br&gt;&amp;bull; Please allow additional travel time.&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>12/12/2017</Date>
+    <Time> 7:09PM</Time>
   </line>
   <line>
     <name>456</name>
@@ -68,14 +73,15 @@
     <text>
                     &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;12/12/2017&amp;nbsp; 6:43PM
+                    &amp;nbsp;Posted:&amp;nbsp;12/12/2017&amp;nbsp; 7:10PM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
                   &lt;P&gt;Northbound [Q] trains are running express from &lt;STRONG&gt;Kings Hwy&lt;/STRONG&gt; to &lt;STRONG&gt;Prospect Park&lt;/STRONG&gt; because of switch problems at &lt;STRONG&gt;Parkside Av.&lt;/STRONG&gt;&lt;/P&gt;
 &lt;P&gt;Expect delays on [B] and [Q].&lt;/P&gt;
+&lt;P&gt;Crews are on site trying to fix it ASAP and we'll follow up soon.&lt;/P&gt;
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>12/12/2017</Date>
-    <Time> 6:43PM</Time>
+    <Time> 7:10PM</Time>
   </line>
   <line>
     <name>S</name>
@@ -181,7 +187,31 @@
             
                   &lt;span class="TitlePlannedWork" &gt;Planned Detour&lt;/span&gt;
                   &lt;br/&gt;
+                &lt;a class="plannedWorkDetailLink" onclick=ShowHide(173659);&gt;&lt;b&gt;B41 and B67 &lt;/b&gt;- &lt;b&gt;Southbound buses bypass the stop on Flatbush Av at Bergen St&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 173659 class="plannedWorkDetail" &gt;&lt;/b&gt;Until further notice&lt;br&gt;&lt;br&gt;Due to construction, please use the nearby stop &lt;b&gt;on Flatbush Av &lt;/b&gt;at &lt;a href=http://bustime.mta.info/#307360 target=_blank&gt;&lt;font color=#0000FF&gt;St Marks Av&lt;/font&gt;&lt;/a&gt;.&lt;br&gt;&lt;br&gt;&lt;b&gt;Reminder&lt;/b&gt;: &lt;a href=http://web.mta.info/nyct/bus/schedule/bkln/b067cur.pdf target=_blank&gt;&lt;font color=#0000FF&gt;B67&lt;/font&gt;&lt;/a&gt; buses do not operate overnight.&lt;br&gt;&lt;b&gt;                              [TP]&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
+                  &lt;span class="TitlePlannedWork" &gt;Planned Detour&lt;/span&gt;
+                  &lt;br/&gt;
+                &lt;a class="plannedWorkDetailLink" onclick=ShowHide(175464);&gt;&lt;b&gt;B4 and B64 buses may experience delays due to a local event in Dyker Heights&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 175464 class="plannedWorkDetail" &gt;&lt;/b&gt;6 PM to 7:15 PM, Tuesday, Dec 12&lt;br&gt;&lt;br&gt;&amp;bull; Please allow additional travel time.&lt;br&gt;&lt;b&gt;&lt;/b&gt;          &lt;a href=http://bustime.mta.info/ target=_blank&gt;&lt;img height=30px src=http://web.mta.info/nyct/images/Bus_Time_logo.png&gt;&lt;/a&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
+                  &lt;span class="TitlePlannedWork" &gt;Planned Detour&lt;/span&gt;
+                  &lt;br/&gt;
+                &lt;a class="plannedWorkDetailLink" onclick=ShowHide(175462);&gt;&lt;b&gt;B4 and B6/B6 &lt;/b&gt;LTD &lt;b&gt;buses may experience delays due to a local event in Bensonhurst&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 175462 class="plannedWorkDetail" &gt;&lt;/b&gt;6 PM to 8 PM, Tuesday, Dec 12&lt;br&gt;&lt;br&gt;&amp;bull; Please allow additional travel time.&lt;br&gt;&lt;b&gt;&lt;/b&gt;          &lt;a href=http://bustime.mta.info/ target=_blank&gt;&lt;img height=30px src=http://web.mta.info/nyct/images/Bus_Time_logo.png&gt;&lt;/a&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
+                  &lt;span class="TitlePlannedWork" &gt;Planned Detour&lt;/span&gt;
+                  &lt;br/&gt;
                 &lt;a class="plannedWorkDetailLink" onclick=ShowHide(140601);&gt;&lt;b&gt;B24&lt;/b&gt; - &lt;b&gt;Northbound buses may experience delays due to construction on Greenpoint Av at West St  &lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 140601 class="plannedWorkDetail" &gt;&lt;/b&gt;Until further notice&lt;br&gt;&lt;br&gt;&amp;bull; &lt;/font&gt;Please allow additional travel time.&lt;br&gt;&lt;b&gt;          &lt;/b&gt;&lt;a href=http://bustime.mta.info/#b24 target=_blank&gt;&lt;img height=30px src=http://web.mta.info/nyct/images/Bus_Time_logo.png&gt;&lt;/a&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
+                  &lt;span class="TitlePlannedWork" &gt;Planned Detour&lt;/span&gt;
+                  &lt;br/&gt;
+                &lt;a class="plannedWorkDetailLink" onclick=ShowHide(175561);&gt;&lt;b&gt;B1 buses rerouted from 86 St between 18 Av and Stillwell Av&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 175561 class="plannedWorkDetail" &gt;&lt;/b&gt;6 PM to 7:15 PM, Tuesday, Dec 12&lt;br&gt;&lt;br&gt;Due to a local event, buses run via&lt;b&gt; Bath Av &lt;/b&gt;making corresponding stops in both directions.&lt;br&gt;&lt;br&gt;&lt;b&gt;&lt;i&gt;&lt;a style="cursor:pointer; text-decoration:underline;" onclick=ShowHide(1755610);&gt;Show Reroute Details&lt;/a&gt;&lt;/i&gt;&lt;/b&gt;&lt;br&gt;&lt;div id="1755610"; style="display:none;"&gt;&lt;b&gt;Northbound&lt;br&gt;&lt;/b&gt;Via 86 St&lt;br&gt;Left on 23 Av&lt;br&gt;Right on Bath Av&lt;br&gt;Right on 18 Av&lt;br&gt;Left on 86 St then regular route&lt;br&gt;&lt;br&gt;&lt;b&gt;Southbound&lt;br&gt;&lt;/b&gt;Via 86 St&lt;br&gt;Right on 19 Av&lt;br&gt;Left on Bath Av&lt;br&gt;Left on 25 Av&lt;br&gt;Right on Stillwell Av&lt;br&gt;Left on 86 St then regular route&lt;/div&gt;&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
               &lt;br/&gt;
               &lt;br/&gt;
             </text>
@@ -241,9 +271,15 @@
                 &lt;a class="plannedWorkDetailLink" onclick=ShowHide(159764);&gt;&lt;b&gt;Bx27 and Bx39 stops on Soundview Av/White Plains Rd between Gildersleeve Av and O'Brien Av&lt;br clear=left&gt;temporarily closed&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 159764 class="plannedWorkDetail" &gt;&lt;/b&gt;Until further notice&lt;br&gt;&lt;br&gt;Due to construction, please &lt;/font&gt;use the nearby temporary stop &lt;b&gt;on Soundview Av &lt;/b&gt;at O'Brien Av.&lt;br&gt;&lt;br&gt;&lt;b&gt;&lt;i&gt;&lt;a style="cursor:pointer; text-decoration:underline;" onclick=ShowHide(1597640);&gt;Show Reroute Details&lt;/a&gt;&lt;/i&gt;&lt;/b&gt;&lt;br&gt;&lt;div id="1597640"; style="display:none;"&gt;&lt;b&gt;Bx27 Northbound&lt;br&gt;&lt;/b&gt;Via Soundview Av&lt;br&gt;Right on Newman Av&lt;br&gt;Left on O'Brien Av&lt;br&gt;Right on Soundview Av then regular route&lt;br&gt;&lt;br&gt;&lt;b&gt;Bx27 Southbound&lt;br&gt;&lt;/b&gt;Via Soundview Av&lt;br&gt;Left on O'Brien Av&lt;br&gt;Right on Newman Av&lt;br&gt;Left on Soundview Av then regular route&lt;br&gt;&lt;br&gt;&lt;b&gt;Bx39 Northbound&lt;br&gt;&lt;/b&gt;Via Soundview Av&lt;br&gt;Right on Newman Av&lt;br&gt;Left on O'Brien Av&lt;br&gt;Right on White Plains Rd then regular route&lt;br&gt;&lt;br&gt;&lt;b&gt;Bx39 Southbound&lt;br&gt;&lt;/b&gt;Via White Plains Rd&lt;br&gt;Left on O'Brien Av&lt;br&gt;Right on Newman Av&lt;br&gt;Left on Soundview Av then regular route&lt;/div&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Reminder&lt;/b&gt;: &lt;a href=http://web.mta.info/nyct/bus/schedule/bronx/bx027cur.pdf target=_blank&gt;&lt;font color=#0000FF&gt;Bx27&lt;/font&gt;&lt;/a&gt; and &lt;a href=http://web.mta.info/nyct/bus/schedule/bronx/bx039cur.pdf target=_blank&gt;&lt;font color=#0000FF&gt;Bx39&lt;/font&gt;&lt;/a&gt; buses do not operate overnight.&lt;br&gt;&lt;/font&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
               &lt;br/&gt;
               &lt;br/&gt;
+            
+                  &lt;span class="TitlePlannedWork" &gt;Planned Detour&lt;/span&gt;
+                  &lt;br/&gt;
+                &lt;a class="plannedWorkDetailLink" onclick=ShowHide(164794);&gt;&lt;b&gt;Bx4/Bx4A, Bx5, Bx11 and Bx35 buses may experience delays&lt;br clear=left&gt;due to construction on Westchester Av between Southern Blvd and Hoe Av&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 164794 class="plannedWorkDetail" &gt;&lt;/b&gt;Until further notice&lt;br&gt;&lt;br&gt;&amp;bull; Please allow additional travel time.&lt;br&gt;&lt;b&gt;          &lt;/b&gt;&lt;a href=http://bustime.mta.info/ target=_blank&gt;&lt;img height=30px src=http://web.mta.info/nyct/images/Bus_Time_logo.png&gt;&lt;/a&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
             </text>
     <Date>12/12/2017</Date>
-    <Time> 7:02PM</Time>
+    <Time> 7:09PM</Time>
   </line>
   <line>
     <name>BXM1 - BXM18</name>
@@ -373,7 +409,31 @@
             
                   &lt;span class="TitlePlannedWork" &gt;Planned Detour&lt;/span&gt;
                   &lt;br/&gt;
+                &lt;a class="plannedWorkDetailLink" onclick=ShowHide(173518);&gt;&lt;b&gt;M5/M5 &lt;/b&gt;LTD &lt;b&gt;and M7 &lt;/b&gt;- &lt;b&gt;Northbound holiday bus stop changes in Midtown&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 173518 class="plannedWorkDetail" &gt;&lt;/b&gt;Until Saturday, Jan 6, 2018&lt;br&gt;&lt;br&gt;Buses will not stop on 6 Av at 49 St or 50 St.  Please use the nearby stop &lt;b&gt;on 51 St &lt;/b&gt;instead.&lt;br&gt;&lt;br&gt;Local buses also stop &lt;b&gt;on 47 St&lt;/b&gt;.&lt;br&gt;&lt;br&gt;&lt;b&gt;Reminder&lt;/b&gt;: &lt;a href=http://web.mta.info/nyct/bus/schedule/manh/m005cur.pdf target=_blank&gt;&lt;font color=#0000FF&gt;M5 LTD&lt;/font&gt;&lt;a/&gt; buses do not operate weekends or overnight.&lt;br&gt;&lt;b&gt;                              [TP]&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
+                  &lt;span class="TitlePlannedWork" &gt;Planned Detour&lt;/span&gt;
+                  &lt;br/&gt;
+                &lt;a class="plannedWorkDetailLink" onclick=ShowHide(174148);&gt;&lt;b&gt;M4/M4 &lt;/b&gt;LTD&lt;b&gt; and M5/M5 &lt;/b&gt;LTD - &lt;b&gt;Northbound buses rerouted from Broadway at 135 St to 145 St&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 174148 class="plannedWorkDetail" &gt;&lt;/b&gt;Until further notice&lt;br&gt;&lt;br&gt;Due to FDNY activity, buses run via &lt;b&gt;Amsterdam Av &lt;/b&gt;making corresponding stops.&lt;br&gt;&lt;br&gt;&lt;b&gt;&lt;i&gt;&lt;a style="cursor:pointer; text-decoration:underline;" onclick=ShowHide(1741480);&gt;Show Reroute Details&lt;/a&gt;&lt;/i&gt;&lt;/b&gt;&lt;br&gt;&lt;div id="1741480"; style="display:none;"&gt;&lt;b&gt;M4/M4 &lt;/b&gt;LTD&lt;br&gt;Via Broadway&lt;br&gt;Right on 135 St&lt;br&gt;Left on Amsterdam Av&lt;br&gt;Left on 145 St&lt;br&gt;Right on Broadway then regular route&lt;br&gt;&lt;br&gt;&lt;b&gt;M5/M5 &lt;/b&gt;LTD&lt;br&gt;Via 135 St&lt;br&gt;Left on Amsterdam Av&lt;br&gt;Left on145 St&lt;br&gt;Right on Broadway then regular route&lt;/div&gt;&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
+                  &lt;span class="TitlePlannedWork" &gt;Planned Detour&lt;/span&gt;
+                  &lt;br/&gt;
+                &lt;a class="plannedWorkDetailLink" onclick=ShowHide(173516);&gt;&lt;b&gt;M2/M2 &lt;/b&gt;LTD&lt;b&gt;, M3 and M5/M5 &lt;/b&gt;LTD - &lt;b&gt;Southbound holiday bus stop changes in Midtown&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 173516 class="plannedWorkDetail" &gt;&lt;/b&gt;Until Saturday, Jan 6, 2018&lt;br&gt;&lt;br&gt;Buses will not stop on 5 Av at 50 St.  Please use the nearby stop &lt;b&gt;on 53 St &lt;/b&gt;instead.&lt;br&gt;&lt;br&gt;Local buses also stop &lt;b&gt;on 47 St&lt;/b&gt;.&lt;br&gt;&lt;br&gt;&lt;b&gt;Reminder&lt;/b&gt;: &lt;a href=http://web.mta.info/nyct/bus/schedule/manh/m002cur.pdf target=_blank&gt;&lt;font color=#0000FF&gt;M2 LTD&lt;/font&gt;&lt;a/&gt;, &lt;a href=http://web.mta.info/nyct/bus/schedule/manh/m003cur.pdf target=_blank&gt;&lt;font color=#0000FF&gt;M3&lt;/font&gt;&lt;a/&gt; and &lt;a href=http://web.mta.info/nyct/bus/schedule/manh/m005cur.pdf target=_blank&gt;&lt;font color=#0000FF&gt;M5/M5 LTD&lt;/font&gt;&lt;a/&gt; buses do not operate all times.&lt;br&gt;&lt;b&gt;                              [TP]&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
+                  &lt;span class="TitlePlannedWork" &gt;Planned Detour&lt;/span&gt;
+                  &lt;br/&gt;
                 &lt;a class="plannedWorkDetailLink" onclick=ShowHide(77041);&gt;&lt;b&gt;M2/M2&lt;/b&gt; LTD&lt;b&gt; and M3 - Southbound stop on Broadway at 168 St temporarily relocated&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 77041 class="plannedWorkDetail" &gt;&lt;/b&gt;Until further notice&lt;br&gt;&lt;br&gt;Due to construction, please follow directional signage to nearby temporary stops &lt;b&gt;on 168 St&lt;/b&gt; at Audubon Av&lt;br clear =left&gt;(M2/M2 LTD) and &lt;b&gt;on 168 St &lt;/b&gt;at Broadway (M3).&lt;br&gt;&lt;br&gt;&lt;b&gt;Reminder&lt;/b&gt;: &lt;a href=http://web.mta.info/nyct/bus/schedule/manh/m002cur.pdf target=_blank&gt;&lt;font color=#0000FF&gt;M2 LTD&lt;/font&gt;&lt;a/&gt; and &lt;a href=http://web.mta.info/nyct/bus/schedule/manh/m003cur.pdf target=_blank&gt;&lt;font color=#0000FF&gt;M3&lt;/font&gt;&lt;a/&gt; buses do not operate overnight.&lt;br&gt;&lt;b&gt;                              [TP]&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
+                  &lt;span class="TitlePlannedWork" &gt;Planned Detour&lt;/span&gt;
+                  &lt;br/&gt;
+                &lt;a class="plannedWorkDetailLink" onclick=ShowHide(173514);&gt;&lt;b&gt;M1/M1 &lt;/b&gt;LTD&lt;b&gt;, M4/M4 &lt;/b&gt;LTD &lt;b&gt;and Q32 &lt;/b&gt;- &lt;b&gt;South/Westbound holiday bus stop changes in Midtown&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 173514 class="plannedWorkDetail" &gt;&lt;/b&gt;Until Saturday, Jan 6, 2018&lt;br&gt;&lt;br&gt;Buses will not stop on 5 Av at 49 St.  Please use the nearby stop &lt;b&gt;on 52 St &lt;/b&gt;instead.&lt;br&gt;&lt;br&gt;Local buses also stop &lt;b&gt;on 46 St&lt;/b&gt;.&lt;br&gt;&lt;br&gt;&lt;b&gt;Reminder&lt;/b&gt;: &lt;a href=http://web.mta.info/nyct/bus/schedule/manh/m001cur.pdf target=_blank&gt;&lt;font color=#0000FF&gt;M1 LTD&lt;/font&gt;&lt;a/&gt; and &lt;a href=http://web.mta.info/nyct/bus/schedule/manh/m004cur.pdf target=_blank&gt;&lt;font color=#0000FF&gt;M4 LTD&lt;/font&gt;&lt;a/&gt; buses do not operate weekends.&lt;br&gt;&lt;b&gt;                              [TP]&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
               &lt;br/&gt;
               &lt;br/&gt;
             </text>
@@ -451,6 +511,12 @@
             
                   &lt;span class="TitlePlannedWork" &gt;Planned Detour&lt;/span&gt;
                   &lt;br/&gt;
+                &lt;a class="plannedWorkDetailLink" onclick=ShowHide(168561);&gt;&lt;b&gt;Q64, QM4 and QM44 buses may experience delays&lt;br clear=left&gt;due to construction on the Jewel Av exit of the Van Wyck Expy&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 168561 class="plannedWorkDetail" &gt;&lt;/b&gt;Until further notice&lt;br&gt;&lt;br&gt;&amp;bull; Please allow additional travel time.&lt;br&gt;&lt;b&gt;          &lt;/b&gt;&lt;a href=http://bustime.mta.info/ target=_blank&gt;&lt;img height=30px src=http://web.mta.info/nyct/images/Bus_Time_logo.png&gt;&lt;/a&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
+                  &lt;span class="TitlePlannedWork" &gt;Planned Detour&lt;/span&gt;
+                  &lt;br/&gt;
                 &lt;a class="plannedWorkDetailLink" onclick=ShowHide(147045);&gt;&lt;b&gt;Q38, Q39, Q54, Q58/Q58 &lt;/b&gt;LTD&lt;b&gt; and Q67 buses may experience delays&lt;br clear=left&gt;due to construction on Metropolitan Av at Fresh Pond Rd&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 147045 class="plannedWorkDetail" &gt;&lt;/b&gt;6 AM to 10 PM, until further notice&lt;br&gt;&lt;br&gt;&amp;bull; Please allow additional travel time.&lt;br&gt;&lt;/font&gt;&lt;b&gt;          &lt;/b&gt;&lt;/font&gt;&lt;a href=http://bustime.mta.info/ target=_blank&gt;&lt;img height=30px src=http://web.mta.info/nyct/images/Bus_Time_logo.png&gt;&lt;/a&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
               &lt;br/&gt;
               &lt;br/&gt;
@@ -458,6 +524,12 @@
                   &lt;span class="TitlePlannedWork" &gt;Planned Detour&lt;/span&gt;
                   &lt;br/&gt;
                 &lt;a class="plannedWorkDetailLink" onclick=ShowHide(152128);&gt;&lt;b&gt;Q27/Q27 &lt;/b&gt;LTD&lt;b&gt;, Q30, QM5 and QM35 buses may experience delays&lt;br clear=left&gt;due to construction on Springfield Blvd between Horace Harding Expy and 56 Av&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 152128 class="plannedWorkDetail" &gt;&lt;/b&gt;Until further notice&lt;br&gt;&lt;br&gt;&amp;bull; Please allow additional travel time.&lt;br&gt;&lt;/font&gt;&lt;b&gt;          &lt;/b&gt;&lt;/font&gt;&lt;a href=http://bustime.mta.info/ target=_blank&gt;&lt;img height=30px src=http://web.mta.info/nyct/images/Bus_Time_logo.png&gt;&lt;/a&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
+                  &lt;span class="TitlePlannedWork" &gt;Planned Detour&lt;/span&gt;
+                  &lt;br/&gt;
+                &lt;a class="plannedWorkDetailLink" onclick=ShowHide(173514);&gt;&lt;b&gt;M1/M1 &lt;/b&gt;LTD&lt;b&gt;, M4/M4 &lt;/b&gt;LTD &lt;b&gt;and Q32 &lt;/b&gt;- &lt;b&gt;South/Westbound holiday bus stop changes in Midtown&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 173514 class="plannedWorkDetail" &gt;&lt;/b&gt;Until Saturday, Jan 6, 2018&lt;br&gt;&lt;br&gt;Buses will not stop on 5 Av at 49 St.  Please use the nearby stop &lt;b&gt;on 52 St &lt;/b&gt;instead.&lt;br&gt;&lt;br&gt;Local buses also stop &lt;b&gt;on 46 St&lt;/b&gt;.&lt;br&gt;&lt;br&gt;&lt;b&gt;Reminder&lt;/b&gt;: &lt;a href=http://web.mta.info/nyct/bus/schedule/manh/m001cur.pdf target=_blank&gt;&lt;font color=#0000FF&gt;M1 LTD&lt;/font&gt;&lt;a/&gt; and &lt;a href=http://web.mta.info/nyct/bus/schedule/manh/m004cur.pdf target=_blank&gt;&lt;font color=#0000FF&gt;M4 LTD&lt;/font&gt;&lt;a/&gt; buses do not operate weekends.&lt;br&gt;&lt;b&gt;                              [TP]&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
               &lt;br/&gt;
               &lt;br/&gt;
             </text>
@@ -485,6 +557,30 @@
                   &lt;br/&gt;
                   &lt;br/&gt;
                 &lt;P&gt;&lt;STRONG&gt;B62, &lt;/STRONG&gt;&lt;STRONG&gt;Q32, Q39, Q60, Q66, Q67, Q100, Q101, Q102, QM2, QM3, QM20&lt;/STRONG&gt; and &lt;STRONG&gt;QM32 &lt;/STRONG&gt;buses are running with delays in both directions because of traffic conditions in the Queens Plaza area. &lt;/P&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
+                  &lt;span class="TitlePlannedWork" &gt;Planned Detour&lt;/span&gt;
+                  &lt;br/&gt;
+                &lt;a class="plannedWorkDetailLink" onclick=ShowHide(169871);&gt;&lt;b&gt;QM24, QM25 and QM34 buses may experience delays&lt;br clear=left&gt;due to construction on Metropolitan Av at Fresh Pond Rd &lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 169871 class="plannedWorkDetail" &gt;&lt;/b&gt;6 AM to 10 PM, Mon to Fri, until further notice&lt;br&gt;&lt;br&gt;&amp;bull; Please allow additional travel time.&lt;br&gt;&lt;/font&gt;&lt;b&gt;          &lt;/b&gt;&lt;/font&gt;&lt;a href=http://bustime.mta.info/ target=_blank&gt;&lt;img height=30px src=http://web.mta.info/nyct/images/Bus_Time_logo.png&gt;&lt;/a&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
+                  &lt;span class="TitlePlannedWork" &gt;Planned Detour&lt;/span&gt;
+                  &lt;br/&gt;
+                &lt;a class="plannedWorkDetailLink" onclick=ShowHide(173527);&gt;&lt;b&gt;QM10, QM12 and QM24 &lt;/b&gt;- &lt;b&gt;Eastbound holiday bus stop changes in Midtown&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 173527 class="plannedWorkDetail" &gt;&lt;/b&gt;Until Saturday, Jan 6, 2018&lt;br&gt;&lt;br&gt;Buses will not stop on 6 Av at 49 St or 50 St.  Please use the nearby stop &lt;b&gt;on 6 Av &lt;/b&gt;at 51 St instead.&lt;br&gt;&lt;br&gt;&lt;b&gt;Reminder&lt;/b&gt;:  &lt;a href=http://web.mta.info/busco/schedules/qm010cur.pdf target=_blank&gt;&lt;font color=#0000FF&gt;QM10&lt;/font&gt;&lt;/a&gt;, &lt;a href=http://web.mta.info/busco/schedules/qm012cur.pdf target=_blank&gt;&lt;font color=#0000FF&gt;QM12&lt;/font&gt;&lt;/a&gt; and &lt;a href=http://web.mta.info/busco/schedules/qm024cur.pdf target=_blank&gt;&lt;font color=#0000FF&gt;QM24&lt;/font&gt;&lt;/a&gt; buses do not operate weekends or overnight.&lt;br&gt;&lt;b&gt;                              [TP]&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
+                  &lt;span class="TitlePlannedWork" &gt;Planned Detour&lt;/span&gt;
+                  &lt;br/&gt;
+                &lt;a class="plannedWorkDetailLink" onclick=ShowHide(173526);&gt;&lt;b&gt;QM1, QM5, QM6, QM15, QM16, QM17 and QM18 buses&lt;br clear=left&gt;Eastbound holiday bus stop changes in Midtown&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 173526 class="plannedWorkDetail" &gt;&lt;/b&gt;Until Saturday, Jan 6, 2018&lt;br&gt;&lt;br&gt;Buses will not stop on 6 Av at 49 St or 51 St. Please use the nearby stop &lt;b&gt;on 6 Av &lt;/b&gt;at 48 St.&lt;br&gt;&lt;br&gt;&lt;b&gt;Reminder&lt;/b&gt;: &lt;a href=http://web.mta.info/busco/schedules/qm001cur.pdf target=_blank&gt;&lt;font color=#0000FF&gt;QM1, QM5, QM6&lt;/font&gt;&lt;/a&gt;, &lt;a href=http://web.mta.info/busco/schedules/qm015cur.pdf target=_blank&gt;&lt;font color=#0000FF&gt;QM15&lt;/font&gt;&lt;/a&gt;, &lt;a href=http://web.mta.info/busco/schedules/qm16cur.pdf target=_blank&gt;&lt;font color=#0000FF&gt;QM16, QM17&lt;/font&gt;&lt;/a&gt; and &lt;a href=http://web.mta.info/busco/schedules/qm18cur.pdf target=_blank&gt;&lt;font color=#0000FF&gt;QM18&lt;/font&gt;&lt;/a&gt; buses do not operate all times.&lt;br&gt;&lt;b&gt;                              [TP]&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
+                  &lt;span class="TitlePlannedWork" &gt;Planned Detour&lt;/span&gt;
+                  &lt;br/&gt;
+                &lt;a class="plannedWorkDetailLink" onclick=ShowHide(168561);&gt;&lt;b&gt;Q64, QM4 and QM44 buses may experience delays&lt;br clear=left&gt;due to construction on the Jewel Av exit of the Van Wyck Expy&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 168561 class="plannedWorkDetail" &gt;&lt;/b&gt;Until further notice&lt;br&gt;&lt;br&gt;&amp;bull; Please allow additional travel time.&lt;br&gt;&lt;b&gt;          &lt;/b&gt;&lt;a href=http://bustime.mta.info/ target=_blank&gt;&lt;img height=30px src=http://web.mta.info/nyct/images/Bus_Time_logo.png&gt;&lt;/a&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
               &lt;br/&gt;
               &lt;br/&gt;
             
@@ -526,6 +622,12 @@
 &lt;P&gt;&lt;STRONG&gt;S44 to St George Ferry&lt;/STRONG&gt;: Via Post Av, left on Jewett Av, right on Castleton Av, right on Clove Rd, left on Cary Av and regular route. &lt;/P&gt;
 &lt;P&gt;&lt;STRONG&gt;S44 to Yukon Av&lt;/STRONG&gt;: Via Cary Av, right on Clove Rd, left on Castleton Av, left on Jewett Av, right on Post Av and regular route. &lt;/P&gt;
 &lt;P&gt;All corresponding stops will be made along the detoured route.  &lt;/P&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
+                  &lt;span class="TitlePlannedWork" &gt;Planned Detour&lt;/span&gt;
+                  &lt;br/&gt;
+                &lt;a class="plannedWorkDetailLink" onclick=ShowHide(175571);&gt;&lt;b&gt;S46 and S96 &lt;/b&gt;LTD &lt;b&gt;buses rerouted from Castleton Av between Nicholas Av and Port Richmond Av&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 175571 class="plannedWorkDetail" &gt;&lt;/b&gt;Until further notice&lt;br&gt;&lt;br&gt;Due to construction, buses make corresponding stops along the detoured route in both directions.&lt;br&gt;&lt;br&gt;&lt;b&gt;&lt;i&gt;&lt;a style="cursor:pointer; text-decoration:underline;" onclick=ShowHide(1755710);&gt;Show Reroute Details&lt;/a&gt;&lt;/i&gt;&lt;/b&gt;&lt;br&gt;&lt;div id="1755710"; style="display:none;"&gt;&lt;b&gt;Eastbound&lt;br&gt;&lt;/b&gt;Via Nicholas Av&lt;br&gt;Continue to Richmond Terr&lt;br&gt;Right on Richmond Terr&lt;br&gt;Right on Port Richmond Av&lt;br&gt;Left on Castleton Av then regular route&lt;br&gt;&lt;br&gt;&lt;b&gt;Westbound&lt;br&gt;&lt;/b&gt;Via Castleton Av&lt;br&gt;Right on Port Richmond Av&lt;br&gt;Left on Richmond Terr&lt;br&gt;Left on Nicholas Av then regular route&lt;/div&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Reminder&lt;/b&gt;: &lt;a href=http://web.mta.info/nyct/bus/schedule/staten/s046cur.pdf target=_blank&gt;&lt;font color=#0000FF&gt;S96 LTD&lt;/font&gt;&lt;/a&gt; buses do not operate weekends or overnight.&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
               &lt;br/&gt;
               &lt;br/&gt;
             </text>
@@ -573,6 +675,18 @@
                   &lt;br/&gt;
                   &lt;br/&gt;
                 &lt;STRONG&gt;M20, M21, M55&lt;/STRONG&gt; and&lt;STRONG&gt; X1&lt;/STRONG&gt; buses running with delays in both directions because of traffic conditions near the Holland Tunnel.
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
+                  &lt;span class="TitlePlannedWork" &gt;Planned Detour&lt;/span&gt;
+                  &lt;br/&gt;
+                &lt;a class="plannedWorkDetailLink" onclick=ShowHide(174239);&gt;&lt;b&gt;X27, X28, X37 and X38 &lt;/b&gt;- &lt;b&gt;Southbound buses may experience delays on 5 Av from 57 St to 42 St&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 174239 class="plannedWorkDetail" &gt;&lt;/b&gt;Until Saturday, Jan 6, 2018&lt;br&gt;&lt;br&gt;Due to Rockefeller Center Holiday Events, please allow additional travel time.&lt;br&gt;&lt;br&gt;&lt;b&gt;Reminder&lt;/b&gt;: &lt;a href=http://web.mta.info/nyct/bus/schedule/xpress/x027cur.pdf target=_blank&gt;&lt;font color=#0000FF&gt;X27, X37&lt;/font&gt;&lt;/a&gt; and &lt;a href=http://web.mta.info/nyct/bus/schedule/xpress/x028cur.pdf target=_blank&gt;&lt;font color=#0000FF&gt;X28, X38&lt;/font&gt;&lt;/a&gt; &lt;/font&gt;buses do not operate all times.&lt;br&gt;&lt;br&gt;&lt;b&gt;          &lt;/b&gt;&lt;a href=http://bustime.mta.info/ target=_blank&gt;&lt;img height=30px src=http://web.mta.info/nyct/images/Bus_Time_logo.png&gt;&lt;/a&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
+                  &lt;span class="TitlePlannedWork" &gt;Planned Detour&lt;/span&gt;
+                  &lt;br/&gt;
+                &lt;a class="plannedWorkDetailLink" onclick=ShowHide(173530);&gt;&lt;b&gt;X1, X7 and X9 &lt;/b&gt;- &lt;b&gt;Southbound buses rerouted from 5 Av at 50 St to 42 St&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 173530 class="plannedWorkDetail" &gt;&lt;/b&gt;Until Saturday, Jan 6, 2018&lt;br&gt;&lt;br&gt;Due to Rockefeller Center Holiday Events, buses run via &lt;b&gt;7 Av &lt;/b&gt;making corresponding stops.&lt;br&gt;&lt;br&gt;&lt;b&gt;&lt;i&gt;&lt;a style="cursor:pointer; text-decoration:underline;" onclick=ShowHide(1735300);&gt;Show Reroute Details&lt;/a&gt;&lt;/i&gt;&lt;/b&gt;&lt;br&gt;&lt;div id="1735300"; style="display:none;"&gt;Via 7 Av to 50 St&lt;br&gt;Continue on 7 Av&lt;br&gt;Left on 42 St&lt;br&gt;Right on 5 Av then regular route&lt;/div&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Reminder&lt;/b&gt;: &lt;a href=http://web.mta.info/nyct/bus/schedule/xpress/x001cur.pdf target=_blank&gt;&lt;font color=#0000FF&gt;X7, X9&lt;/font&gt;&lt;/a&gt; buses do not operate weekends or overnight.&lt;br&gt;&lt;b&gt;                              [TP]&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
               &lt;br/&gt;
               &lt;br/&gt;
             </text>
@@ -660,19 +774,10 @@
 </BT><LIRR>
   <line>
     <name>Babylon</name>
-    <status>DELAYS</status>
-    <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;12/12/2017&amp;nbsp; 6:36PM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  &lt;p&gt;&lt;strong&gt;&lt;u&gt;Eastbound:&lt;/u&gt;&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The 6:05PM train from Penn due Wantagh at 6:51PM is canceled due to car shortages caused by a seasonal problem called "Slippery Rail". Customers will be accommodated by the 6:10PM train from Penn due Freeport at 6:54PM, making all combined stops. Slippery rail occurs when fallen leaves deposit a slippery residue on the rails that causes train wheels to skid &amp; develop flat spots. Cars with flat wheels are taken out of service for repair &amp; returned to service as soon as possible. See how the LIRR combats slippery rail at: &lt;a href="http://web.mta.info/lirr/Video/SlipperyRail/"&gt;http://web.mta.info/lirr/Video/SlipperyRail/&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;&lt;u&gt;Westbound:&lt;/u&gt;&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The 5:39PM train from Babylon due Penn at 6:51PM is operating 15 minutes
- late after being delayed at Merrick Station due to a customer in need 
-of medical assistance.&lt;/p&gt;&lt;p&gt;The 6:03PM train from Babylon due Penn at 7:04PM is operating 11 minutes late due to congestion caused by a late train ahead.&lt;br&gt;&lt;/p&gt;
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>12/12/2017</Date>
-    <Time> 6:36PM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>City Terminal Zone</name>
@@ -704,10 +809,17 @@ of medical assistance.&lt;/p&gt;&lt;p&gt;The 6:03PM train from Babylon due Penn 
   </line>
   <line>
     <name>Montauk</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>DELAYS</status>
+    <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;12/12/2017&amp;nbsp; 7:11PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  The 6:17PM train from Jamaica due Montauk at 9:07PM is operating 11 minutes late after making an added stop to accommodate customers from a delayed train.
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>12/12/2017</Date>
+    <Time> 7:11PM</Time>
   </line>
   <line>
     <name>Oyster Bay</name>
