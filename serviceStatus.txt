@@ -1,13 +1,13 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>SERVICE CHANGE</status>
+    <status>DELAYS</status>
     <text>
-                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;12/14/2017&amp;nbsp;10:48PM
+                    &amp;nbsp;Posted:&amp;nbsp;12/14/2017&amp;nbsp;11:10PM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  Southbound [1] trains are running express from &lt;b&gt;96 St&lt;/b&gt; to &lt;b&gt;Times Square-42 St&lt;/b&gt; because of NYPD activity &lt;b&gt;86 St.&lt;/b&gt;
+                  [1] train service has resumed following earlier NYPD activity &lt;b&gt;86 St.&lt;/b&gt;
                 &lt;br/&gt;&lt;br/&gt;
               
                     &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
@@ -26,7 +26,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>12/14/2017</Date>
-    <Time>10:48PM</Time>
+    <Time>11:10PM</Time>
   </line>
   <line>
     <name>456</name>
