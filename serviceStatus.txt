@@ -872,10 +872,17 @@
 </BT><LIRR>
   <line>
     <name>Babylon</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>DELAYS</status>
+    <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;12/15/2017&amp;nbsp; 7:35PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;font face="sans-serif"&gt;&lt;span style="font-size: 13.3333px;"&gt;The 7:09PM train from Babylon due Penn at 8:25PM is operating 20 minutes late due to equipment trouble.&lt;/span&gt;&lt;/font&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>12/15/2017</Date>
+    <Time> 7:35PM</Time>
   </line>
   <line>
     <name>City Terminal Zone</name>
@@ -956,17 +963,10 @@ Amagansett.
   </line>
   <line>
     <name>Ronkonkoma</name>
-    <status>DELAYS</status>
-    <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;12/15/2017&amp;nbsp; 7:07PM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  &lt;font face="sans-serif"&gt;&lt;span style="font-size: 13.3333px;"&gt;The 6:25PM train from Farmingdale due Penn at 7:22PM is operating 13 minutes late due to signal trouble near Queens Village.&lt;/span&gt;&lt;/font&gt;
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>12/15/2017</Date>
-    <Time> 7:07PM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>West Hempstead</name>
