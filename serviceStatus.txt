@@ -1,13 +1,14 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>DELAYS</status>
+    <status>SERVICE CHANGE</status>
     <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;12/17/2017&amp;nbsp;12:27PM
+                    &amp;nbsp;Posted:&amp;nbsp;12/17/2017&amp;nbsp;12:37PM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  [1] and [5] train service has resumed following earlier switch problems at &lt;STRONG&gt;South Ferry&lt;/STRONG&gt;.
+                  &lt;P&gt;Southbound [1] trains end at&lt;STRONG&gt; Chambers St&lt;/STRONG&gt; because of switch problems at &lt;STRONG&gt;South Ferry&lt;/STRONG&gt;.&lt;/P&gt;
+&lt;P&gt;Expect delays on [1] and [5] train service.&lt;/P&gt;
                 &lt;br/&gt;&lt;br/&gt;
               
                     &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
@@ -21,24 +22,25 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>12/17/2017</Date>
-    <Time>12:27PM</Time>
+    <Time>12:37PM</Time>
   </line>
   <line>
     <name>456</name>
-    <status>DELAYS</status>
+    <status>SERVICE CHANGE</status>
     <text>
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;12/17/2017&amp;nbsp;12:37PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;P&gt;Southbound [1] trains end at&lt;STRONG&gt; Chambers St&lt;/STRONG&gt; because of switch problems at &lt;STRONG&gt;South Ferry&lt;/STRONG&gt;.&lt;/P&gt;
+&lt;P&gt;Expect delays on [1] and [5] train service.&lt;/P&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              
                     &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
                     &amp;nbsp;Posted:&amp;nbsp;12/17/2017&amp;nbsp;12:30PM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
                   Southbound [4] and [5] trains are running with delays because of signal problems at &lt;STRONG&gt;Nevins St.&lt;/STRONG&gt;
-                &lt;br/&gt;&lt;br/&gt;
-              
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;12/17/2017&amp;nbsp;12:27PM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  [1] and [5] train service has resumed following earlier switch problems at &lt;STRONG&gt;South Ferry&lt;/STRONG&gt;.
                 &lt;br/&gt;&lt;br/&gt;
               
                     &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
@@ -62,7 +64,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>12/17/2017</Date>
-    <Time>12:30PM</Time>
+    <Time>12:37PM</Time>
   </line>
   <line>
     <name>7</name>
