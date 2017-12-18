@@ -1,15 +1,13 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>SERVICE CHANGE</status>
+    <status>DELAYS</status>
     <text>
-                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;12/18/2017&amp;nbsp; 1:28AM
+                    &amp;nbsp;Posted:&amp;nbsp;12/18/2017&amp;nbsp; 2:02AM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  &lt;P&gt;Southbound [1], [2] and [3] trains are running express from &lt;STRONG&gt;72 St&lt;/STRONG&gt; to &lt;STRONG&gt;Times Sq-42 St&lt;/STRONG&gt;.&lt;/P&gt;
-&lt;P&gt;These service changes are because of FDNY activity at &lt;STRONG&gt;59 St-Columbus Circle.&lt;/STRONG&gt;&lt;/P&gt;
-&lt;P&gt;Expect delays on [1], [2] and [3] train service in both directions. &lt;/P&gt;
+                  [1] [2] and [3] train service has resumed following earlier FDNY activity at &lt;STRONG&gt;59 St-Columbus Circle.&lt;/STRONG&gt;
                 &lt;br/&gt;&lt;br/&gt;
               
                     &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
@@ -23,7 +21,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>12/18/2017</Date>
-    <Time> 1:28AM</Time>
+    <Time> 2:02AM</Time>
   </line>
   <line>
     <name>456</name>
