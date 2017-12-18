@@ -1,8 +1,15 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>SERVICE CHANGE</status>
+    <status>DELAYS</status>
     <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;12/18/2017&amp;nbsp; 5:30PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  [1] train service has resumed following an earlier investigation at &lt;STRONG&gt;Times Sq-42 Sq&lt;/STRONG&gt;.
+                &lt;br/&gt;&lt;br/&gt;
+              
                     &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
                     &amp;nbsp;Posted:&amp;nbsp;12/18/2017&amp;nbsp; 5:22PM
@@ -12,17 +19,9 @@
 &lt;P&gt;Expect delays to [1], [2], [3], [4] and [5] train service. &lt;/P&gt;
 &lt;P&gt;These service changes are because of FDNY activity at &lt;STRONG&gt;Hoyt St&lt;/STRONG&gt;. &lt;/P&gt;
                 &lt;br/&gt;&lt;br/&gt;
-              
-                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;12/18/2017&amp;nbsp; 5:16PM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  &lt;P&gt;Southbound [1] trains are running express from &lt;STRONG&gt;72 St&lt;/STRONG&gt; to &lt;STRONG&gt;Times Sq-42 St&lt;/STRONG&gt; because of an investigation at &lt;STRONG&gt;Times Sq-42 St&lt;/STRONG&gt;.&lt;/P&gt;
-&lt;P&gt;Expect delays to [1], [2] and [3] train service. &lt;/P&gt;
-                &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>12/18/2017</Date>
-    <Time> 5:22PM</Time>
+    <Time> 5:30PM</Time>
   </line>
   <line>
     <name>456</name>
@@ -444,6 +443,16 @@
     <text>
                   &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                   &lt;span class="DateStyle"&gt;
+                  &amp;nbsp;Posted:&amp;nbsp;12/18/2017&amp;nbsp; 5:32PM
+                  &lt;/span&gt;
+                  &lt;br/&gt;
+                  &lt;br/&gt;
+                &lt;STRONG&gt;Q58 &lt;/STRONG&gt;and &lt;STRONG&gt;Q88 &lt;/STRONG&gt;buses are running with delays in both directions because of traffic conditions on the LIE between 108 St and College Point Blvd.
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
+                  &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                  &lt;span class="DateStyle"&gt;
                   &amp;nbsp;Posted:&amp;nbsp;12/18/2017&amp;nbsp; 5:29PM
                   &lt;/span&gt;
                   &lt;br/&gt;
@@ -531,7 +540,7 @@
               &lt;br/&gt;
             </text>
     <Date>12/18/2017</Date>
-    <Time> 5:29PM</Time>
+    <Time> 5:32PM</Time>
   </line>
   <line>
     <name>QM1 - QM44</name>
@@ -591,7 +600,7 @@
               &lt;br/&gt;
             </text>
     <Date>12/18/2017</Date>
-    <Time> 5:22PM</Time>
+    <Time> 5:30PM</Time>
   </line>
   <line>
     <name>x1 - x68</name>
