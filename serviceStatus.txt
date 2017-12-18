@@ -1,24 +1,39 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>PLANNED WORK</status>
+    <text>
+                    &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
+                    &lt;br/&gt;
+                  &lt;a class="plannedWorkDetailLink" onclick=ShowHide(173350);&gt;&lt;b&gt;&lt;i&gt;TRACK MAINTENANCE&lt;/i&gt;&lt;br clear=left&gt;[2] Flatbush Av-bound trains skip Burke Av, Allerton Av, Pelham Pkwy and Bronx Park East&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 173350 class="plannedWorkDetail" &gt;&lt;/b&gt;Days, 9:45 AM to 3:30 PM, Mon to Fri, Dec 18 - 22  &amp;bull;  Tue to Fri, Dec 26 - 29&lt;br&gt;&lt;br&gt;For service&lt;i&gt; to&lt;/i&gt; these stations, take the [2] to E 180 St and transfer to a Wakefield-bound [2].&lt;br&gt;&lt;br&gt;For service &lt;i&gt;from&lt;/i&gt; these stations, take the [2] to Gun Hill Rd and transfer to a Flatbush Av-bound [2].&lt;br&gt;&lt;br&gt;&lt;b&gt;&lt;i&gt;Alternate travel note:&lt;br&gt;&lt;/b&gt;&lt;/i&gt;For service &lt;i&gt;to &lt;/i&gt;these stations, transfer to the &lt;a href=http://web.mta.info/nyct/bus/schedule/bronx/bx039cur.pdf target=_blank&gt;&lt;font color=#0000FF&gt;Bx39&lt;/font&gt;&lt;/a&gt; bus at Gun Hill Rd.&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>12/18/2017</Date>
+    <Time> 9:50AM</Time>
   </line>
   <line>
     <name>456</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>PLANNED WORK</status>
+    <text>
+                    &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
+                    &lt;br/&gt;
+                  &lt;a class="plannedWorkDetailLink" onclick=ShowHide(173981);&gt;&lt;b&gt;&lt;i&gt;ELECTRICAL IMPROVEMENTS&lt;/i&gt;&lt;br clear=left&gt;[6D] Brooklyn Bridge-bound trains run local from Parkchester to 3 Av-138 St&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 173981 class="plannedWorkDetail" &gt;&lt;/b&gt;Days, 9:45 AM to 1 PM, Mon to Fri, Dec 18 - 22&lt;br&gt;&lt;br&gt;&amp;bull; Please allow additional travel time.&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>12/18/2017</Date>
+    <Time> 9:50AM</Time>
   </line>
   <line>
     <name>7</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>PLANNED WORK</status>
+    <text>
+                    &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
+                    &lt;br/&gt;
+                  &lt;a class="plannedWorkDetailLink" onclick=ShowHide(176088);&gt;&lt;b&gt;&lt;i&gt;ELECTRICAL IMPROVEMENTS&lt;/i&gt;&lt;br clear=left&gt;[7] Hudson Yards-bound trains skip 111, 103, 90, 82, 74, 69, 52, 46, 40 and 33 Sts&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 176088 class="plannedWorkDetail" &gt;&lt;/b&gt;Days, 9:45 AM to 3:30 PM, Mon to Fri, Dec 18 - 22&lt;br&gt;&lt;br&gt;For service&lt;i&gt; to&lt;/i&gt; these stations, take the [7] to Junction Blvd, 61 St-Woodside or Queensboro Plaza &lt;br&gt;and transfer to a Flushing-bound [7].&lt;br&gt;&lt;br&gt;For service &lt;i&gt;from&lt;/i&gt; these stations, take the [7] to 61 St-Woodside, Junction Blvd or Willets Point and &lt;br&gt;transfer to a Hudson Yards-bound [7].&lt;br&gt;&lt;br&gt;&lt;table class=plannedworkTableStyle  border=1 cellspacing=1 cellpadding=5 rules=none frame=box&gt;&lt;td&gt;  [ad]  &lt;td&gt;&lt;font size=1&gt;This service change affects one or more ADA accessible stations. Please call 511 for help with planning&lt;br&gt;your trip. If you are deaf or hard of hearing, use your preferred relay service provider or the free 711 relay.  &lt;/font&gt;&lt;/table&gt;&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>12/18/2017</Date>
+    <Time> 9:50AM</Time>
   </line>
   <line>
     <name>ACE</name>
@@ -30,7 +45,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>12/18/2017</Date>
-    <Time> 9:42AM</Time>
+    <Time> 9:50AM</Time>
   </line>
   <line>
     <name>BDFM</name>
@@ -84,7 +99,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>12/18/2017</Date>
-    <Time> 9:42AM</Time>
+    <Time> 9:50AM</Time>
   </line>
   <line>
     <name>SIR</name>
@@ -96,7 +111,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>12/18/2017</Date>
-    <Time> 9:42AM</Time>
+    <Time> 9:50AM</Time>
   </line>
 </subway><bus>
   <line>
@@ -207,7 +222,7 @@
               &lt;br/&gt;
             </text>
     <Date>12/18/2017</Date>
-    <Time> 9:42AM</Time>
+    <Time> 9:50AM</Time>
   </line>
   <line>
     <name>BXM1 - BXM18</name>
@@ -257,7 +272,7 @@
               &lt;br/&gt;
             </text>
     <Date>12/18/2017</Date>
-    <Time> 9:42AM</Time>
+    <Time> 9:50AM</Time>
   </line>
   <line>
     <name>Q1 - Q113</name>
@@ -335,7 +350,7 @@
               &lt;br/&gt;
             </text>
     <Date>12/18/2017</Date>
-    <Time> 9:42AM</Time>
+    <Time> 9:50AM</Time>
   </line>
   <line>
     <name>S40 - S98</name>
@@ -348,7 +363,7 @@
               &lt;br/&gt;
             </text>
     <Date>12/18/2017</Date>
-    <Time> 9:42AM</Time>
+    <Time> 9:50AM</Time>
   </line>
   <line>
     <name>x1 - x68</name>
