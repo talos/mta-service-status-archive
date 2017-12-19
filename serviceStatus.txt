@@ -1,18 +1,17 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>SERVICE CHANGE</status>
+    <status>DELAYS</status>
     <text>
-                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;12/19/2017&amp;nbsp; 4:34PM
+                    &amp;nbsp;Posted:&amp;nbsp;12/19/2017&amp;nbsp; 4:43PM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  &lt;P&gt;Southbound [1] trains are running express from &lt;STRONG&gt;137 St-City College&lt;/STRONG&gt; to &lt;STRONG&gt;96 St&lt;/STRONG&gt; because of an NYPD investigation at &lt;STRONG&gt;125 St&lt;/STRONG&gt;.&lt;/P&gt;
-&lt;P&gt;Expect delays to [1], [2] and [3] train service. &lt;/P&gt;
+                  [1] train service has resumed following an earlier NYPD investigation at &lt;STRONG&gt;125 St&lt;/STRONG&gt;.
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>12/19/2017</Date>
-    <Time> 4:34PM</Time>
+    <Time> 4:43PM</Time>
   </line>
   <line>
     <name>456</name>
@@ -419,6 +418,16 @@
     <text>
                   &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                   &lt;span class="DateStyle"&gt;
+                  &amp;nbsp;Posted:&amp;nbsp;12/19/2017&amp;nbsp; 4:43PM
+                  &lt;/span&gt;
+                  &lt;br/&gt;
+                  &lt;br/&gt;
+                &lt;STRONG&gt;M1, M2, M3, M4, M5, Q32, BM1, BM2, BM3, BM4, BM5, X10, X17, X27, X28, X37, X38, M50, M57&lt;/STRONG&gt;, &lt;STRONG&gt;M31, QM4, QM5, QM6, QM7, QM8, QM15, QM16, QM17&lt;/STRONG&gt;and &lt;STRONG&gt;QM21&lt;/STRONG&gt; buses are running with delays because of holiday festivities and traffic conditions on 5 Av and 6 Av between 57 St and 34 St.
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
+                  &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                  &lt;span class="DateStyle"&gt;
                   &amp;nbsp;Posted:&amp;nbsp;12/19/2017&amp;nbsp; 3:24PM
                   &lt;/span&gt;
                   &lt;br/&gt;
@@ -458,7 +467,7 @@
               &lt;br/&gt;
             </text>
     <Date>12/19/2017</Date>
-    <Time> 3:24PM</Time>
+    <Time> 4:43PM</Time>
   </line>
   <line>
     <name>S40 - S98</name>
@@ -471,7 +480,7 @@
               &lt;br/&gt;
             </text>
     <Date>12/19/2017</Date>
-    <Time> 4:33PM</Time>
+    <Time> 4:43PM</Time>
   </line>
   <line>
     <name>x1 - x68</name>
@@ -695,17 +704,10 @@
   </line>
   <line>
     <name>Ronkonkoma</name>
-    <status>DELAYS</status>
-    <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;12/19/2017&amp;nbsp; 4:01PM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  The 3:11PM train from Ronkonkoma due Penn at 4:34PM is operating 10 minutes late due to an earlier broken crossing gate near Central Islip.
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>12/19/2017</Date>
-    <Time> 4:01PM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>West Hempstead</name>
