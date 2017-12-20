@@ -1,8 +1,15 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>PLANNED WORK</status>
+    <status>DELAYS</status>
     <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;12/19/2017&amp;nbsp;11:36PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  Northbound [2] trains are running with delays because of an unruly passenger at &lt;b&gt;Sterling St.&lt;/b&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              
                     &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
                     &lt;br/&gt;
                   &lt;a class="plannedWorkDetailLink" onclick=ShowHide(174492);&gt;&lt;b&gt;&lt;i&gt;ELECTRICAL IMPROVEMENTS&lt;/i&gt;&lt;br clear=left&gt;[1] Van Cortlandt Park-bound trains skip 103, 110, 116, 125, 137 and 145 Sts&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 174492 class="plannedWorkDetail" &gt;&lt;/b&gt;Late Nights, 9:45 PM to 5 AM, Mon to Fri, Dec 18 - 22&lt;br&gt;                               &lt;br&gt;For service &lt;i&gt;to &lt;/i&gt;these stations, take the [1] to 168 St* and transfer to a South Ferry-bound [1].&lt;br&gt;&lt;br&gt;For service &lt;i&gt;from &lt;/i&gt;these stations, take the [1] to 96 St and transfer to a Van Cortlandt Park-bound [1].&lt;br&gt;&lt;br&gt;&lt;i&gt;*Transfer at 157 St with &lt;/i&gt;&lt;a href=http://web.mta.info/metrocard/mcgtreng.htm#unlimited target=_blank&gt;&lt;font color=#0000FF&gt;&lt;i&gt;Unlimited Ride MetroCard&lt;/i&gt;&lt;/font&gt;&lt;/a&gt;.&lt;/i&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;&lt;i&gt;Alternate travel note:&lt;br&gt;&lt;/b&gt;&lt;/i&gt;For service &lt;i&gt;to &lt;/i&gt;&lt;b&gt;103&lt;/b&gt;, &lt;b&gt;110&lt;/b&gt;, &lt;b&gt;116 &lt;/b&gt;and &lt;b&gt;125 Sts&lt;/b&gt;, transfer to the &lt;a href=http://web.mta.info/nyct/bus/schedule/manh/m104cur.pdf target=_blank&gt;&lt;font color=#0000FF&gt;M104&lt;/font&gt;&lt;/a&gt; bus at 96 St.&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
@@ -14,7 +21,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>12/19/2017</Date>
-    <Time>11:33PM</Time>
+    <Time>11:36PM</Time>
   </line>
   <line>
     <name>456</name>
