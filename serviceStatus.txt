@@ -1,13 +1,13 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>SERVICE CHANGE</status>
+    <status>DELAYS</status>
     <text>
-                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;12/21/2017&amp;nbsp; 2:07AM
+                    &amp;nbsp;Posted:&amp;nbsp;12/21/2017&amp;nbsp; 3:45AM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  Northbound [2] trains are running express from &lt;B&gt;72 St&lt;/B&gt; to &lt;B&gt;96 St &lt;/B&gt;because of track maintenance at &lt;B&gt;96 St. &lt;/B&gt;
+                  [2] train service has resumed following earlier track maintenance at &lt;STRONG&gt;96 St.&lt;/STRONG&gt;
                 &lt;br/&gt;&lt;br/&gt;
               
                     &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
@@ -31,7 +31,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>12/21/2017</Date>
-    <Time> 2:07AM</Time>
+    <Time> 3:45AM</Time>
   </line>
   <line>
     <name>456</name>
@@ -48,7 +48,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>12/21/2017</Date>
-    <Time> 3:32AM</Time>
+    <Time> 3:43AM</Time>
   </line>
   <line>
     <name>7</name>
@@ -144,7 +144,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>12/21/2017</Date>
-    <Time> 3:32AM</Time>
+    <Time> 3:43AM</Time>
   </line>
   <line>
     <name>L</name>
@@ -163,7 +163,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>12/21/2017</Date>
-    <Time> 3:32AM</Time>
+    <Time> 3:43AM</Time>
   </line>
   <line>
     <name>S</name>
@@ -197,7 +197,7 @@
               &lt;br/&gt;
             </text>
     <Date>12/21/2017</Date>
-    <Time> 3:32AM</Time>
+    <Time> 3:43AM</Time>
   </line>
   <line>
     <name>B100 - B103</name>
@@ -240,7 +240,7 @@
               &lt;br/&gt;
             </text>
     <Date>12/21/2017</Date>
-    <Time> 3:32AM</Time>
+    <Time> 3:43AM</Time>
   </line>
   <line>
     <name>BXM1 - BXM18</name>
