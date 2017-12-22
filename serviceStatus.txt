@@ -22,17 +22,10 @@
   </line>
   <line>
     <name>7</name>
-    <status>DELAYS</status>
-    <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;12/21/2017&amp;nbsp; 6:51PM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  [7] train service has resumed following an earlier incident involving a sick passenger at &lt;STRONG&gt;Grand Central-42 St&lt;/STRONG&gt;.
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>12/21/2017</Date>
-    <Time> 6:51PM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>ACE</name>
@@ -274,8 +267,21 @@
   </line>
   <line>
     <name>M1 - M116</name>
-    <status>DELAYS</status>
+    <status>SERVICE CHANGE</status>
     <text>
+                  &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                  &lt;span class="DateStyle"&gt;
+                  &amp;nbsp;Posted:&amp;nbsp;12/21/2017&amp;nbsp; 7:09PM
+                  &lt;/span&gt;
+                  &lt;br/&gt;
+                  &lt;br/&gt;
+                &lt;P&gt;&lt;STRONG&gt;M96&lt;/STRONG&gt; buses are detoured because of NYPD activity on 97 St between Broadway and West End Av. &lt;/P&gt;
+&lt;P&gt;Detour is as follows: &lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;Westbound&lt;/STRONG&gt;: Via Broadway, left on 99 St, left on West End Av and regular route. &lt;/P&gt;
+&lt;P&gt;All corresponding stops will be made. &lt;/P&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
                   &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                   &lt;span class="DateStyle"&gt;
                   &amp;nbsp;Posted:&amp;nbsp;12/21/2017&amp;nbsp; 6:17PM
@@ -283,19 +289,6 @@
                   &lt;br/&gt;
                   &lt;br/&gt;
                 &lt;STRONG&gt;M55&lt;/STRONG&gt;, &lt;STRONG&gt;X1&lt;/STRONG&gt;, &lt;STRONG&gt;X10&lt;/STRONG&gt;, &lt;STRONG&gt;X12&lt;/STRONG&gt;, &lt;STRONG&gt;X19&lt;/STRONG&gt;,&lt;STRONG&gt; X27&lt;/STRONG&gt;,&lt;STRONG&gt; X28&lt;/STRONG&gt;, &lt;STRONG&gt;X37&lt;/STRONG&gt; and &lt;STRONG&gt;X38&lt;/STRONG&gt; buses are delayed in both directions because of construction on Broadway at Worth St.
-              &lt;br/&gt;
-              &lt;br/&gt;
-            
-                  &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
-                  &lt;span class="DateStyle"&gt;
-                  &amp;nbsp;Posted:&amp;nbsp;12/21/2017&amp;nbsp; 6:13PM
-                  &lt;/span&gt;
-                  &lt;br/&gt;
-                  &lt;br/&gt;
-                &lt;P&gt;&lt;STRONG&gt;M96&lt;/STRONG&gt; buses are detoured because of NYPD activity. &lt;/P&gt;
-&lt;P&gt;Detour is as follows: &lt;/P&gt;
-&lt;P&gt;&lt;STRONG&gt;Westbound&lt;/STRONG&gt;: Via Broadway, left on 99 St, left on West End Av and regular route. &lt;/P&gt;
-&lt;P&gt;All corresponding stops will be made. &lt;/P&gt;
               &lt;br/&gt;
               &lt;br/&gt;
             
@@ -384,7 +377,7 @@
               &lt;br/&gt;
             </text>
     <Date>12/21/2017</Date>
-    <Time> 6:17PM</Time>
+    <Time> 7:09PM</Time>
   </line>
   <line>
     <name>Q1 - Q113</name>
