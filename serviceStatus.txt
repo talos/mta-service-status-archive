@@ -14,7 +14,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>12/23/2017</Date>
-    <Time>12:13PM</Time>
+    <Time>12:23PM</Time>
   </line>
   <line>
     <name>456</name>
@@ -31,7 +31,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>12/23/2017</Date>
-    <Time>12:13PM</Time>
+    <Time>12:23PM</Time>
   </line>
   <line>
     <name>7</name>
@@ -60,7 +60,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>12/23/2017</Date>
-    <Time>12:13PM</Time>
+    <Time>12:23PM</Time>
   </line>
   <line>
     <name>BDFM</name>
@@ -87,7 +87,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>12/23/2017</Date>
-    <Time>12:13PM</Time>
+    <Time>12:23PM</Time>
   </line>
   <line>
     <name>G</name>
@@ -130,7 +130,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>12/23/2017</Date>
-    <Time>12:13PM</Time>
+    <Time>12:23PM</Time>
   </line>
   <line>
     <name>S</name>
@@ -149,7 +149,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>12/23/2017</Date>
-    <Time>12:13PM</Time>
+    <Time>12:23PM</Time>
   </line>
 </subway><bus>
   <line>
@@ -205,7 +205,7 @@
               &lt;br/&gt;
             </text>
     <Date>12/23/2017</Date>
-    <Time>12:13PM</Time>
+    <Time>12:23PM</Time>
   </line>
   <line>
     <name>BX1 - BX55</name>
@@ -218,7 +218,7 @@
               &lt;br/&gt;
             </text>
     <Date>12/23/2017</Date>
-    <Time>12:13PM</Time>
+    <Time>12:23PM</Time>
   </line>
   <line>
     <name>BXM1 - BXM18</name>
@@ -447,7 +447,7 @@
               &lt;br/&gt;
             </text>
     <Date>12/23/2017</Date>
-    <Time>12:13PM</Time>
+    <Time>12:23PM</Time>
   </line>
 </bus><BT>
   <line>
@@ -614,10 +614,17 @@
   </line>
   <line>
     <name>Montauk</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>DELAYS</status>
+    <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;12/23/2017&amp;nbsp;12:24PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  The 12:10PM train from Jamaica due Montauk at 3:01PM is being held prior to departure due to equipment trouble.
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>12/23/2017</Date>
+    <Time>12:24PM</Time>
   </line>
   <line>
     <name>Oyster Bay</name>
@@ -642,18 +649,10 @@
   </line>
   <line>
     <name>Ronkonkoma</name>
-    <status>DELAYS</status>
-    <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;12/23/2017&amp;nbsp;11:48AM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  The 10:12AM train from Penn due Ronkonkoma at 11:32AM is operating 11 
-minutes late due to weather-related slippery rail conditions.
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>12/23/2017</Date>
-    <Time>11:48AM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>West Hempstead</name>
