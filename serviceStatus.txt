@@ -1,17 +1,32 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>PLANNED WORK</status>
+    <text>
+                    &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
+                    &lt;br/&gt;
+                  &lt;a class="plannedWorkDetailLink" onclick=ShowHide(176514);&gt;&lt;b&gt;&lt;i&gt;TRACK MAINTENANCE&lt;/i&gt;&lt;BR CLEAR=LEFT&gt;[3] New Lots Av-bound trains skip Bergen St, Grand Army Plaza and Eastern Pkwy&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 176514 class="plannedWorkDetail" &gt;&lt;/b&gt;Late Evening, 9:45 PM to 11:59 PM, Friday, Dec 22&lt;br&gt;&lt;br&gt;&lt;/font&gt;For service &lt;i&gt;to &lt;/i&gt;these stations, take the [3] to Franklin Av and transfer to a&lt;br&gt;Manhattan-bound [2] or [3].&lt;br&gt;&lt;br&gt;For service&lt;i&gt; from &lt;/i&gt;these stations, take the [2] or [3] to Atlantic Av-Barclays Ctr&lt;br&gt;and transfer to a New Lots Av-bound [3].&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              
+                    &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
+                    &lt;br/&gt;
+                  &lt;a class="plannedWorkDetailLink" onclick=ShowHide(176517);&gt;&lt;b&gt;&lt;i&gt;TRACK MAINTENANCE&lt;/i&gt;&lt;BR CLEAR=LEFT&gt;[2] Flatbush Av-bound trains skip Bergen St, Grand Army Plaza and Eastern Pkwy&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 176517 class="plannedWorkDetail" &gt;&lt;/b&gt;Late Night, 9:45 PM Fri to &lt;b&gt;1:15 AM&lt;/b&gt; Sat, Dec 22 - 23  &lt;br&gt;&lt;br&gt;&lt;/font&gt;For service&lt;i&gt; to&lt;/i&gt; these stations, take the [2] to Franklin Av and transfer to a &lt;br&gt;Manhattan-bound [2] [3] or [4] &lt;i&gt;local&lt;/i&gt;.&lt;br&gt;&lt;br&gt;For service &lt;i&gt;from&lt;/i&gt; these stations, take the [2] [3] or [4] to Atlantic Av-Barclays Ctr &lt;br&gt;and transfer to a Flatbush Av-bound [2].&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>12/22/2017</Date>
+    <Time> 9:50PM</Time>
   </line>
   <line>
     <name>456</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>PLANNED WORK</status>
+    <text>
+                    &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
+                    &lt;br/&gt;
+                  &lt;a class="plannedWorkDetailLink" onclick=ShowHide(176513);&gt;&lt;b&gt;&lt;i&gt;TRACK MAINTENANCE&lt;/i&gt;&lt;br clear=left&gt;[4] New Lots Av-bound trains skip Bergen St, Grand Army Plaza and Eastern Pkwy&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 176513 class="plannedWorkDetail" &gt;&lt;/b&gt;Late Night, beginning 9:45 PM, Friday, Dec 22&lt;br&gt;&lt;br&gt;&lt;/font&gt;For service &lt;i&gt;to &lt;/i&gt;these stations, take the [4] to Franklin Av and transfer to a&lt;br&gt;Manhattan-bound [2] [3] or [4].&lt;br&gt;&lt;br&gt;For service&lt;i&gt; from &lt;/i&gt;these stations, take the [2] [3] or [4] to Atlantic Av-Barclays Ctr&lt;br&gt;and transfer to a Crown Hts-bound [4].&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>12/22/2017</Date>
+    <Time> 9:50PM</Time>
   </line>
   <line>
     <name>7</name>
@@ -22,10 +37,20 @@
   </line>
   <line>
     <name>ACE</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>PLANNED WORK</status>
+    <text>
+                    &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
+                    &lt;br/&gt;
+                  &lt;a class="plannedWorkDetailLink" onclick=ShowHide(176082);&gt;&lt;b&gt;&lt;i&gt;TRACK MAINTENANCE&lt;/i&gt;&lt;br clear=left&gt;[E] Jamaica Center-bound trains skip Spring St and 23 St&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 176082 class="plannedWorkDetail" &gt;&lt;/b&gt;Weekend, 9:45 PM Fri to 7 AM &lt;b&gt;Sun&lt;/b&gt;, Dec 22 - 24&lt;br&gt;&lt;br&gt;&lt;/font&gt;For service &lt;i&gt;to &lt;/i&gt;these stations, take the [E] to W 4 St or 34 St-Penn Station &lt;br&gt;and transfer to a downtown [A] &lt;i&gt;local&lt;/i&gt;, &lt;/font&gt;[C] or [E].&lt;br&gt;&lt;br&gt;For service &lt;i&gt;from &lt;/i&gt;these stations, take the [A] [C] or [E] to 14 St &lt;br&gt;or Canal St and transfer to a Jamaica Center-bound [E].&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              
+                    &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
+                    &lt;br/&gt;
+                  &lt;a class="plannedWorkDetailLink" onclick=ShowHide(176081);&gt;&lt;b&gt;&lt;i&gt;TRACK MAINTENANCE&lt;/i&gt;&lt;br clear=left&gt;[C] 168 St-bound trains skip Spring St, 23 St and 50 St&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 176081 class="plannedWorkDetail" &gt;&lt;/b&gt;Late Evening, 9:45 PM to 11 PM, Friday, Dec 22&lt;br&gt;&lt;br&gt;&lt;/font&gt;For service &lt;i&gt;to&lt;/i&gt; Spring and 23 Sts, take the [C] to W 4 or 34 St-Penn Station&lt;br&gt;and transfer to a downtown [C] or [E].&lt;br&gt;&lt;br&gt;For service &lt;i&gt;to&lt;/i&gt; 50 St, transfer to the [E] at 42 St/Port Authority.&lt;br&gt;&lt;br&gt;For service &lt;i&gt;from&lt;/i&gt; these stations, take the [C] or [E] to 42 St/Port Authority, 14 or Canal Sts&lt;br&gt;and transfer to a 168 St-bound [C].&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>12/22/2017</Date>
+    <Time> 9:50PM</Time>
   </line>
   <line>
     <name>BDFM</name>
@@ -35,9 +60,19 @@
                     &lt;br/&gt;
                   &lt;a class="plannedWorkDetailLink" onclick=ShowHide(176016);&gt;&lt;b&gt;&lt;i&gt;TRACK MAINTENANCE&lt;/i&gt;&lt;br clear=left&gt;[M] Service ends early between 71 Av and Essex St&lt;br clear=left&gt;[E] [F] [R] trains provide alternate service&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 176016 class="plannedWorkDetail" &gt;&lt;/b&gt;Evening, 8:30 PM to 11:59 PM, Friday, Dec 22 &lt;br&gt;&lt;br&gt;[M] service operates between &lt;b&gt;Essex St&lt;/b&gt; and &lt;b&gt;Myrtle Av &lt;/b&gt;and via the [J] &lt;i&gt;to/from&lt;/i&gt; Broadway Junction.&lt;br&gt;[M] shuttle service operates between &lt;b&gt;Metropolitan Av&lt;/b&gt; and &lt;b&gt;Myrtle Wyckoff Avs&lt;/b&gt;.&lt;br&gt;&lt;br&gt;&lt;table class=plannedworkTableStyle  width=70%&gt;&lt;tr&gt;&lt;td&gt;&lt;font size=3&gt;&lt;b&gt;Travel Alternatives&lt;/b&gt;&lt;/font&gt;&lt;td align=right&gt;[TP]&lt;/table&gt;&lt;br&gt;[R]* trains make [M] stops between 71 Av and Queens Plaza.&lt;br&gt;[E] trains make all [M] stops between Queens Plaza and 5 Av/53 St.&lt;br&gt;[F]* trains make [M] stops between 47-50 Sts and Delancey St/Essex St.&lt;br&gt;&lt;br&gt;&amp;bull; Transfer between &lt;b&gt;[F]&lt;/b&gt; and &lt;b&gt;[R]&lt;/b&gt; trains at Roosevelt Av or 34 At-Herald Sq.&lt;br&gt;&amp;bull; Transfer between &lt;b&gt;[E]&lt;/b&gt; and &lt;b&gt;[F]&lt;/b&gt; trains at W 4 St.&lt;br&gt;&amp;bull; Transfer between &lt;b&gt;[F]&lt;/b&gt; and &lt;b&gt;[M]&lt;/b&gt; trains at Delancey St/Essex St.&lt;br&gt;&lt;br&gt;&lt;i&gt;*Please review [F] and [R] advisories for additional information that may affect your trip.&lt;br&gt;&lt;br&gt;&lt;/i&gt;Please use the following guide to arrive at your station before end of service.&lt;br&gt;&lt;br&gt;&lt;table class=plannedworkTableStyle  width=65% border=1 cellspacing=1 cellpadding=3 rules=rows frame=hsides&gt;&lt;tr bgcolor=#FAF8CC&gt;&lt;td colspan=2&gt;&lt;b&gt;To 71 Av:&lt;/b&gt;&lt;td&gt;  &lt;td colspan=2&gt;&lt;b&gt;To Broadway Junction:&lt;/b&gt;&lt;tr&gt;&lt;td&gt;Broadway Junction&lt;td align=right&gt;8:43 PM&lt;td rowspan=5&gt; &lt;td&gt;71 Av&lt;td align=right&gt;8:30 PM&lt;tr&gt;&lt;td&gt;Myrtle Av&lt;td align=right&gt;8:53 PM&lt;td&gt;Roosevelt Av&lt;td align=right&gt;8:40 PM&lt;tr&gt;&lt;td&gt;Essex St&lt;td align=right&gt;9:05 PM&lt;td&gt;Queens Plaza&lt;td align=right&gt;8:51 PM&lt;tr&gt;&lt;td&gt;W 4 St&lt;td align=right&gt;9:11 PM&lt;td&gt;47-50 Sts&lt;td align=right&gt;8:59 PM&lt;tr&gt;&lt;td&gt;47-50 Sts&lt;td align=right&gt;9:19 PM&lt;td&gt;B'way-Lafayette St&lt;td align=right&gt;9:09 PM&lt;/table&gt;&lt;br&gt;&lt;b&gt;Reminder:&lt;/b&gt; No &lt;b&gt;[M]&lt;/b&gt; service between Myrtle-Wyckoff Avs and Myrtle Av.&lt;/font&gt;          &lt;br&gt;&lt;br&gt;&lt;/font&gt;&lt;table class=plannedworkTableStyle  border=1 cellspacing=1 cellpadding=5 rules=none frame=box&gt;&lt;td&gt;  [ad]  &lt;td&gt;&lt;font size=1&gt;This service change affects one or more ADA accessible stations. Please call 511 for help with planning&lt;br&gt;your trip. If you are deaf or hard of hearing, use your preferred relay service provider or the free 711 relay.  &lt;/font&gt;&lt;/table&gt;&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
                 &lt;br/&gt;&lt;br/&gt;
+              
+                    &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
+                    &lt;br/&gt;
+                  &lt;a class="plannedWorkDetailLink" onclick=ShowHide(175443);&gt;&lt;b&gt;&lt;i&gt;TRACK MAINTENANCE&lt;/i&gt;&lt;br clear=left&gt;[F] Jamaica-bound trains skip 14 St and 23 St&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 175443 class="plannedWorkDetail" &gt;&lt;/b&gt;Weekend, 9:45 PM Fri to 7 AM &lt;b&gt;Sun&lt;/b&gt;, Dec 22 - 24&lt;br&gt;&lt;br&gt;For service&lt;i&gt; to&lt;/i&gt; these stations, take the [F] to 34 St-Herald Sq and transfer&lt;br&gt;to a Coney Island-bound [F].&lt;br&gt;&lt;br&gt;For service &lt;i&gt;from&lt;/i&gt; these stations, take the [F] to W 4 St and transfer to a&lt;br&gt;Jamaica-bound [F].&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              
+                    &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
+                    &lt;br/&gt;
+                  &lt;a class="plannedWorkDetailLink" onclick=ShowHide(174004);&gt;&lt;b&gt;&lt;i&gt;TRACK MAINTENANCE&lt;/i&gt;&lt;br clear=left&gt;[D] Norwood-bound trains skip 170 St, 174-175 Sts and 182-183 Sts&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 174004 class="plannedWorkDetail" &gt;&lt;/b&gt;Weekend, 9:45 PM Fri to 5 AM &lt;b&gt;Sun&lt;/b&gt;, Dec 22 - 24&lt;br&gt;&lt;br&gt;&lt;/font&gt;For service &lt;i&gt;to&lt;/i&gt; these stations, take the [D] to Tremont Av or Fordham Rd and transfer to&lt;br&gt;a Coney Island-bound [D].&lt;br&gt;&lt;br&gt;For service &lt;i&gt;from &lt;/i&gt;these stations, take the [D] to Tremont Av or 167 St and transfer to&lt;br&gt;a Norwood-bound [D].&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+                &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>12/22/2017</Date>
-    <Time> 9:43PM</Time>
+    <Time> 9:50PM</Time>
   </line>
   <line>
     <name>G</name>
@@ -62,10 +97,15 @@
   </line>
   <line>
     <name>NQR</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>PLANNED WORK</status>
+    <text>
+                    &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
+                    &lt;br/&gt;
+                  &lt;a class="plannedWorkDetailLink" onclick=ShowHide(176012);&gt;&lt;b&gt;&lt;i&gt;TRACK MAINTENANCE&lt;/i&gt;&lt;br clear=left&gt;[R] Bay Ridge-bound trains skip 65 St, Northern Blvd, 46 St, Steinway St and 36 St&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 176012 class="plannedWorkDetail" &gt;&lt;/b&gt;Late Evenng, 9:45 PM to 11 PM, Friday, Dec 22&lt;br&gt;&lt;br&gt;&lt;/font&gt;For service &lt;i&gt;to&lt;/i&gt; these stations, take the [R] to Queens Plaza and transfer to a Forest Hills-bound.&lt;br&gt;&lt;br&gt;For service &lt;i&gt;from&lt;/i&gt; these stations, take the [R] to Roosevelt Av and transfer to a Bay Ridge-bound [R].&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>12/22/2017</Date>
+    <Time> 9:50PM</Time>
   </line>
   <line>
     <name>S</name>
@@ -84,18 +124,8 @@
 </subway><bus>
   <line>
     <name>B1 - B84</name>
-    <status>DELAYS</status>
+    <status>PLANNED WORK</status>
     <text>
-                  &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                  &lt;span class="DateStyle"&gt;
-                  &amp;nbsp;Posted:&amp;nbsp;12/22/2017&amp;nbsp; 9:36PM
-                  &lt;/span&gt;
-                  &lt;br/&gt;
-                  &lt;br/&gt;
-                &lt;STRONG&gt;B41&lt;/STRONG&gt; bus service has resumed following earlier road obstruction on Flatbush Av at Nostrand Av.
-              &lt;br/&gt;
-              &lt;br/&gt;
-            
                   &lt;span class="TitlePlannedWork" &gt;Planned Detour&lt;/span&gt;
                   &lt;br/&gt;
                 &lt;a class="plannedWorkDetailLink" onclick=ShowHide(140601);&gt;&lt;b&gt;B24&lt;/b&gt; - &lt;b&gt;Northbound buses may experience delays due to construction on Greenpoint Av at West St  &lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 140601 class="plannedWorkDetail" &gt;&lt;/b&gt;Until further notice&lt;br&gt;&lt;br&gt;&amp;bull; &lt;/font&gt;Please allow additional travel time.&lt;br&gt;&lt;b&gt;          &lt;/b&gt;&lt;a href=http://bustime.mta.info/#b24 target=_blank&gt;&lt;img height=30px src=http://web.mta.info/nyct/images/Bus_Time_logo.png&gt;&lt;/a&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
@@ -103,7 +133,7 @@
               &lt;br/&gt;
             </text>
     <Date>12/22/2017</Date>
-    <Time> 9:36PM</Time>
+    <Time> 9:50PM</Time>
   </line>
   <line>
     <name>B100 - B103</name>
@@ -118,16 +148,16 @@
     <text>
                   &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                   &lt;span class="DateStyle"&gt;
-                  &amp;nbsp;Posted:&amp;nbsp;12/22/2017&amp;nbsp; 6:52PM
+                  &amp;nbsp;Posted:&amp;nbsp;12/22/2017&amp;nbsp; 9:52PM
                   &lt;/span&gt;
                   &lt;br/&gt;
                   &lt;br/&gt;
-                &lt;STRONG&gt;BM1, BM2, BM3, BM4, BM5, M1, M2, M3, M4, M5, M31, M50, M57, Q32, &lt;/STRONG&gt;&lt;STRONG&gt;QM4, QM5, QM6, QM7, QM8, QM15, QM16, QM17,&lt;/STRONG&gt; &lt;STRONG&gt;QM21, X10, X17, X27, X28, X37 &lt;/STRONG&gt;and &lt;STRONG&gt;X38 &lt;/STRONG&gt;buses are running with delays in both directions because of traffic conditions, holiday crowds and activities on 5 Av and 6 Av between 57 St and 34 St.
+                &lt;STRONG&gt;BM1, BM2, BM3, BM4, BM5, M1, M2, M3, M4, M5, M31, M50, M57, Q32, &lt;/STRONG&gt;&lt;STRONG&gt;QM4, QM5, QM6, QM7, QM8, QM15, QM16, QM17,&lt;/STRONG&gt; &lt;STRONG&gt;QM21, X10, X17, X27, X28, X37 &lt;/STRONG&gt;and &lt;STRONG&gt;X38 &lt;/STRONG&gt;bus service has resumed following earlier traffic conditions and holiday crowds on 5 Av and 6 Av.
               &lt;br/&gt;
               &lt;br/&gt;
             </text>
     <Date>12/22/2017</Date>
-    <Time> 6:52PM</Time>
+    <Time> 9:52PM</Time>
   </line>
   <line>
     <name>BX1 - BX55</name>
@@ -165,11 +195,11 @@
     <text>
                   &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                   &lt;span class="DateStyle"&gt;
-                  &amp;nbsp;Posted:&amp;nbsp;12/22/2017&amp;nbsp; 6:52PM
+                  &amp;nbsp;Posted:&amp;nbsp;12/22/2017&amp;nbsp; 9:52PM
                   &lt;/span&gt;
                   &lt;br/&gt;
                   &lt;br/&gt;
-                &lt;STRONG&gt;BM1, BM2, BM3, BM4, BM5, M1, M2, M3, M4, M5, M31, M50, M57, Q32, &lt;/STRONG&gt;&lt;STRONG&gt;QM4, QM5, QM6, QM7, QM8, QM15, QM16, QM17,&lt;/STRONG&gt; &lt;STRONG&gt;QM21, X10, X17, X27, X28, X37 &lt;/STRONG&gt;and &lt;STRONG&gt;X38 &lt;/STRONG&gt;buses are running with delays in both directions because of traffic conditions, holiday crowds and activities on 5 Av and 6 Av between 57 St and 34 St.
+                &lt;STRONG&gt;BM1, BM2, BM3, BM4, BM5, M1, M2, M3, M4, M5, M31, M50, M57, Q32, &lt;/STRONG&gt;&lt;STRONG&gt;QM4, QM5, QM6, QM7, QM8, QM15, QM16, QM17,&lt;/STRONG&gt; &lt;STRONG&gt;QM21, X10, X17, X27, X28, X37 &lt;/STRONG&gt;and &lt;STRONG&gt;X38 &lt;/STRONG&gt;bus service has resumed following earlier traffic conditions and holiday crowds on 5 Av and 6 Av.
               &lt;br/&gt;
               &lt;br/&gt;
             
@@ -198,7 +228,7 @@
               &lt;br/&gt;
             </text>
     <Date>12/22/2017</Date>
-    <Time> 6:52PM</Time>
+    <Time> 9:52PM</Time>
   </line>
   <line>
     <name>Q1 - Q113</name>
@@ -206,11 +236,31 @@
     <text>
                   &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                   &lt;span class="DateStyle"&gt;
-                  &amp;nbsp;Posted:&amp;nbsp;12/22/2017&amp;nbsp; 7:59PM
+                  &amp;nbsp;Posted:&amp;nbsp;12/22/2017&amp;nbsp; 9:52PM
                   &lt;/span&gt;
                   &lt;br/&gt;
                   &lt;br/&gt;
-                &lt;STRONG&gt;Q12, Q15, Q15A&lt;/STRONG&gt; and &lt;STRONG&gt;Q26&lt;/STRONG&gt; buses are running with delays in both directions because of FDNY activity on Roosevelt Av between Main St and Union St.
+                &lt;STRONG&gt;Q29, Q38, Q53-SBS&lt;/STRONG&gt; and&lt;STRONG&gt; Q88&lt;/STRONG&gt; bus service has resumed following earlier traffic conditions near the Queens Center Mall.
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
+                  &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                  &lt;span class="DateStyle"&gt;
+                  &amp;nbsp;Posted:&amp;nbsp;12/22/2017&amp;nbsp; 9:52PM
+                  &lt;/span&gt;
+                  &lt;br/&gt;
+                  &lt;br/&gt;
+                &lt;STRONG&gt;BM1, BM2, BM3, BM4, BM5, M1, M2, M3, M4, M5, M31, M50, M57, Q32, &lt;/STRONG&gt;&lt;STRONG&gt;QM4, QM5, QM6, QM7, QM8, QM15, QM16, QM17,&lt;/STRONG&gt; &lt;STRONG&gt;QM21, X10, X17, X27, X28, X37 &lt;/STRONG&gt;and &lt;STRONG&gt;X38 &lt;/STRONG&gt;bus service has resumed following earlier traffic conditions and holiday crowds on 5 Av and 6 Av.
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
+                  &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                  &lt;span class="DateStyle"&gt;
+                  &amp;nbsp;Posted:&amp;nbsp;12/22/2017&amp;nbsp; 9:49PM
+                  &lt;/span&gt;
+                  &lt;br/&gt;
+                  &lt;br/&gt;
+                &lt;STRONG&gt;Q12, Q15, Q15A&lt;/STRONG&gt; and &lt;STRONG&gt;Q26&lt;/STRONG&gt; bus service has resumed following an earlier FDNY activity on Roosevelt Av between Main St and Union St.
               &lt;br/&gt;
               &lt;br/&gt;
             
@@ -236,31 +286,11 @@
             
                   &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                   &lt;span class="DateStyle"&gt;
-                  &amp;nbsp;Posted:&amp;nbsp;12/22/2017&amp;nbsp; 6:55PM
-                  &lt;/span&gt;
-                  &lt;br/&gt;
-                  &lt;br/&gt;
-                &lt;STRONG&gt;Q29, Q38, Q53-SBS &lt;/STRONG&gt;and &lt;STRONG&gt;Q88 &lt;/STRONG&gt;buses are running with delays in both directions because of traffic conditions near the Queens Center Mall.
-              &lt;br/&gt;
-              &lt;br/&gt;
-            
-                  &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                  &lt;span class="DateStyle"&gt;
                   &amp;nbsp;Posted:&amp;nbsp;12/22/2017&amp;nbsp; 6:54PM
                   &lt;/span&gt;
                   &lt;br/&gt;
                   &lt;br/&gt;
                 &lt;STRONG&gt;Q38&lt;/STRONG&gt;, &lt;STRONG&gt;Q72 &lt;/STRONG&gt;and &lt;STRONG&gt;Q88&lt;/STRONG&gt; buses are running with delays in both directions because of traffic conditions on Junction Blvd between Queens Blvd and 57 Av.
-              &lt;br/&gt;
-              &lt;br/&gt;
-            
-                  &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                  &lt;span class="DateStyle"&gt;
-                  &amp;nbsp;Posted:&amp;nbsp;12/22/2017&amp;nbsp; 6:52PM
-                  &lt;/span&gt;
-                  &lt;br/&gt;
-                  &lt;br/&gt;
-                &lt;STRONG&gt;BM1, BM2, BM3, BM4, BM5, M1, M2, M3, M4, M5, M31, M50, M57, Q32, &lt;/STRONG&gt;&lt;STRONG&gt;QM4, QM5, QM6, QM7, QM8, QM15, QM16, QM17,&lt;/STRONG&gt; &lt;STRONG&gt;QM21, X10, X17, X27, X28, X37 &lt;/STRONG&gt;and &lt;STRONG&gt;X38 &lt;/STRONG&gt;buses are running with delays in both directions because of traffic conditions, holiday crowds and activities on 5 Av and 6 Av between 57 St and 34 St.
               &lt;br/&gt;
               &lt;br/&gt;
             
@@ -295,7 +325,7 @@
               &lt;br/&gt;
             </text>
     <Date>12/22/2017</Date>
-    <Time> 7:59PM</Time>
+    <Time> 9:52PM</Time>
   </line>
   <line>
     <name>QM1 - QM44</name>
@@ -303,11 +333,11 @@
     <text>
                   &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                   &lt;span class="DateStyle"&gt;
-                  &amp;nbsp;Posted:&amp;nbsp;12/22/2017&amp;nbsp; 6:52PM
+                  &amp;nbsp;Posted:&amp;nbsp;12/22/2017&amp;nbsp; 9:52PM
                   &lt;/span&gt;
                   &lt;br/&gt;
                   &lt;br/&gt;
-                &lt;STRONG&gt;BM1, BM2, BM3, BM4, BM5, M1, M2, M3, M4, M5, M31, M50, M57, Q32, &lt;/STRONG&gt;&lt;STRONG&gt;QM4, QM5, QM6, QM7, QM8, QM15, QM16, QM17,&lt;/STRONG&gt; &lt;STRONG&gt;QM21, X10, X17, X27, X28, X37 &lt;/STRONG&gt;and &lt;STRONG&gt;X38 &lt;/STRONG&gt;buses are running with delays in both directions because of traffic conditions, holiday crowds and activities on 5 Av and 6 Av between 57 St and 34 St.
+                &lt;STRONG&gt;BM1, BM2, BM3, BM4, BM5, M1, M2, M3, M4, M5, M31, M50, M57, Q32, &lt;/STRONG&gt;&lt;STRONG&gt;QM4, QM5, QM6, QM7, QM8, QM15, QM16, QM17,&lt;/STRONG&gt; &lt;STRONG&gt;QM21, X10, X17, X27, X28, X37 &lt;/STRONG&gt;and &lt;STRONG&gt;X38 &lt;/STRONG&gt;bus service has resumed following earlier traffic conditions and holiday crowds on 5 Av and 6 Av.
               &lt;br/&gt;
               &lt;br/&gt;
             
@@ -342,7 +372,7 @@
               &lt;br/&gt;
             </text>
     <Date>12/22/2017</Date>
-    <Time> 6:52PM</Time>
+    <Time> 9:52PM</Time>
   </line>
   <line>
     <name>S40 - S98</name>
@@ -357,11 +387,11 @@
     <text>
                   &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                   &lt;span class="DateStyle"&gt;
-                  &amp;nbsp;Posted:&amp;nbsp;12/22/2017&amp;nbsp; 6:52PM
+                  &amp;nbsp;Posted:&amp;nbsp;12/22/2017&amp;nbsp; 9:52PM
                   &lt;/span&gt;
                   &lt;br/&gt;
                   &lt;br/&gt;
-                &lt;STRONG&gt;BM1, BM2, BM3, BM4, BM5, M1, M2, M3, M4, M5, M31, M50, M57, Q32, &lt;/STRONG&gt;&lt;STRONG&gt;QM4, QM5, QM6, QM7, QM8, QM15, QM16, QM17,&lt;/STRONG&gt; &lt;STRONG&gt;QM21, X10, X17, X27, X28, X37 &lt;/STRONG&gt;and &lt;STRONG&gt;X38 &lt;/STRONG&gt;buses are running with delays in both directions because of traffic conditions, holiday crowds and activities on 5 Av and 6 Av between 57 St and 34 St.
+                &lt;STRONG&gt;BM1, BM2, BM3, BM4, BM5, M1, M2, M3, M4, M5, M31, M50, M57, Q32, &lt;/STRONG&gt;&lt;STRONG&gt;QM4, QM5, QM6, QM7, QM8, QM15, QM16, QM17,&lt;/STRONG&gt; &lt;STRONG&gt;QM21, X10, X17, X27, X28, X37 &lt;/STRONG&gt;and &lt;STRONG&gt;X38 &lt;/STRONG&gt;bus service has resumed following earlier traffic conditions and holiday crowds on 5 Av and 6 Av.
               &lt;br/&gt;
               &lt;br/&gt;
             
@@ -378,7 +408,7 @@
               &lt;br/&gt;
             </text>
     <Date>12/22/2017</Date>
-    <Time> 6:52PM</Time>
+    <Time> 9:52PM</Time>
   </line>
 </bus><BT>
   <line>
