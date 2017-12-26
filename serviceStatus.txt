@@ -1,13 +1,13 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>SERVICE CHANGE</status>
+    <status>DELAYS</status>
     <text>
-                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;12/26/2017&amp;nbsp; 2:21PM
+                    &amp;nbsp;Posted:&amp;nbsp;12/26/2017&amp;nbsp; 2:31PM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  Southbound [2] and [5] trains are running express from &lt;STRONG&gt;E 180 St&lt;/STRONG&gt; to &lt;STRONG&gt;3 Av-149 St&lt;/STRONG&gt; because of a sick passenger at &lt;STRONG&gt;Freeman St&lt;/STRONG&gt;.
+                  [2] and [5] train service has resumed following an earlier sick passenger at &lt;STRONG&gt;Freeman St.&lt;/STRONG&gt;
                 &lt;br/&gt;&lt;br/&gt;
               
                     &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
@@ -21,24 +21,24 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>12/26/2017</Date>
-    <Time> 2:21PM</Time>
+    <Time> 2:31PM</Time>
   </line>
   <line>
     <name>456</name>
-    <status>SERVICE CHANGE</status>
+    <status>DELAYS</status>
     <text>
-                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;12/26/2017&amp;nbsp; 2:21PM
+                    &amp;nbsp;Posted:&amp;nbsp;12/26/2017&amp;nbsp; 2:31PM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  Southbound [2] and [5] trains are running express from &lt;STRONG&gt;E 180 St&lt;/STRONG&gt; to &lt;STRONG&gt;3 Av-149 St&lt;/STRONG&gt; because of a sick passenger at &lt;STRONG&gt;Freeman St&lt;/STRONG&gt;.
+                  [2] and [5] train service has resumed following an earlier sick passenger at &lt;STRONG&gt;Freeman St.&lt;/STRONG&gt;
                 &lt;br/&gt;&lt;br/&gt;
               
                     &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;12/26/2017&amp;nbsp; 2:17PM
+                    &amp;nbsp;Posted:&amp;nbsp;12/26/2017&amp;nbsp; 2:29PM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  Due to an earlier incident at &lt;STRONG&gt;3 Av-138 St&lt;/STRONG&gt;, [6] train service has resumed.
+                  Southbound [6] trains are running with delays because of NYPD activity at &lt;STRONG&gt;86 St&lt;/STRONG&gt;.
                 &lt;br/&gt;&lt;br/&gt;
               
                     &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
@@ -47,7 +47,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>12/26/2017</Date>
-    <Time> 2:21PM</Time>
+    <Time> 2:31PM</Time>
   </line>
   <line>
     <name>7</name>
@@ -66,7 +66,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>12/26/2017</Date>
-    <Time> 2:23PM</Time>
+    <Time> 2:30PM</Time>
   </line>
   <line>
     <name>BDFM</name>
@@ -104,7 +104,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>12/26/2017</Date>
-    <Time> 2:23PM</Time>
+    <Time> 2:30PM</Time>
   </line>
   <line>
     <name>L</name>
@@ -128,7 +128,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>12/26/2017</Date>
-    <Time> 2:23PM</Time>
+    <Time> 2:30PM</Time>
   </line>
   <line>
     <name>S</name>
@@ -147,7 +147,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>12/26/2017</Date>
-    <Time> 2:23PM</Time>
+    <Time> 2:30PM</Time>
   </line>
 </subway><bus>
   <line>
@@ -161,7 +161,7 @@
               &lt;br/&gt;
             </text>
     <Date>12/26/2017</Date>
-    <Time> 2:23PM</Time>
+    <Time> 2:30PM</Time>
   </line>
   <line>
     <name>B100 - B103</name>
@@ -188,7 +188,7 @@
               &lt;br/&gt;
             </text>
     <Date>12/26/2017</Date>
-    <Time> 2:23PM</Time>
+    <Time> 2:30PM</Time>
   </line>
   <line>
     <name>BXM1 - BXM18</name>
@@ -226,7 +226,7 @@
               &lt;br/&gt;
             </text>
     <Date>12/26/2017</Date>
-    <Time> 2:23PM</Time>
+    <Time> 2:30PM</Time>
   </line>
   <line>
     <name>Q1 - Q113</name>
@@ -340,7 +340,7 @@
               &lt;br/&gt;
             </text>
     <Date>12/26/2017</Date>
-    <Time> 2:23PM</Time>
+    <Time> 2:30PM</Time>
   </line>
   <line>
     <name>S40 - S98</name>
@@ -353,7 +353,7 @@
               &lt;br/&gt;
             </text>
     <Date>12/26/2017</Date>
-    <Time> 2:23PM</Time>
+    <Time> 2:30PM</Time>
   </line>
   <line>
     <name>x1 - x68</name>
@@ -372,7 +372,7 @@
               &lt;br/&gt;
             </text>
     <Date>12/26/2017</Date>
-    <Time> 2:23PM</Time>
+    <Time> 2:30PM</Time>
   </line>
 </bus><BT>
   <line>
@@ -490,17 +490,10 @@
   </line>
   <line>
     <name>Montauk</name>
-    <status>DELAYS</status>
-    <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;12/26/2017&amp;nbsp; 1:09PM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  &lt;b&gt;&lt;u&gt;Westbound:&lt;/u&gt;&lt;/b&gt;&lt;br&gt;The 11:18AM train from Montauk due Jamaica at 2:15PM is operating 14 minutes late due to late arriving equipment. &lt;br&gt;&lt;br&gt;&lt;u&gt;&lt;b&gt;Eastbound:&lt;/b&gt;&lt;/u&gt;&lt;br&gt;The 11:25AM train from Jamaica due Montauk at 2:15PM is operating 13 minutes late due to a late westbound train in single-track territory. &lt;br&gt;
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>12/26/2017</Date>
-    <Time> 1:09PM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>Oyster Bay</name>
