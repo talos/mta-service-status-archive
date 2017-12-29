@@ -1,15 +1,8 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>DELAYS</status>
+    <status>SERVICE CHANGE</status>
     <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;12/29/2017&amp;nbsp; 9:30AM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  [2], [3], [4] and [5] train service has resumed following earlier signal problems at &lt;STRONG&gt;Nevins St.&lt;/STRONG&gt;
-                &lt;br/&gt;&lt;br/&gt;
-              
                     &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
                     &amp;nbsp;Posted:&amp;nbsp;12/29/2017&amp;nbsp; 8:06AM
@@ -21,19 +14,12 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>12/29/2017</Date>
-    <Time> 9:30AM</Time>
+    <Time> 8:06AM</Time>
   </line>
   <line>
     <name>456</name>
-    <status>DELAYS</status>
+    <status>SERVICE CHANGE</status>
     <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;12/29/2017&amp;nbsp; 9:30AM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  [2], [3], [4] and [5] train service has resumed following earlier signal problems at &lt;STRONG&gt;Nevins St.&lt;/STRONG&gt;
-                &lt;br/&gt;&lt;br/&gt;
-              
                     &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
                     &amp;nbsp;Posted:&amp;nbsp;12/29/2017&amp;nbsp; 8:06AM
@@ -45,7 +31,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>12/29/2017</Date>
-    <Time> 9:30AM</Time>
+    <Time> 8:06AM</Time>
   </line>
   <line>
     <name>7</name>
@@ -99,22 +85,15 @@
   </line>
   <line>
     <name>JZ</name>
-    <status>DELAYS</status>
+    <status>PLANNED WORK</status>
     <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;12/29/2017&amp;nbsp; 9:26AM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  [J] train service has resumed following an earlier incident involving a train with mechanical problems at &lt;STRONG&gt;Bowery.&lt;/STRONG&gt;
-                &lt;br/&gt;&lt;br/&gt;
-              
                     &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
                     &lt;br/&gt;
                   &lt;a class="plannedWorkDetailLink" onclick=ShowHide(175862);&gt;&lt;b&gt;[J] Additional service operates between Broadway Junction and Chambers St&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 175862 class="plannedWorkDetail" &gt;&lt;/b&gt;Days, 6 AM to 11:59 PM, Tue to Fri, Dec 26 - 29&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>12/29/2017</Date>
-    <Time> 9:26AM</Time>
+    <Time> 9:43AM</Time>
   </line>
   <line>
     <name>L</name>
@@ -453,17 +432,10 @@
   </line>
   <line>
     <name>Long Beach</name>
-    <status>DELAYS</status>
-    <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;12/29/2017&amp;nbsp; 9:20AM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  The 8:45AM train from Penn due Long Beach at 9:36AM is operating 10 minutes late due to a late train ahead.
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>12/29/2017</Date>
-    <Time> 9:20AM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>Montauk</name>
