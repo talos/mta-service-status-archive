@@ -538,20 +538,10 @@
   </line>
   <line>
     <name>Montauk</name>
-    <status>DELAYS</status>
-    <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;12/30/2017&amp;nbsp; 6:27PM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  The 5:35PM train from Montauk due Jamaica at 8:10PM is now operating 24 
-minutes late after being delayed at East Hampton due to an equipment 
-problem.
-            
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>12/30/2017</Date>
-    <Time> 6:27PM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>Oyster Bay</name>
@@ -598,10 +588,17 @@ problem.
 </LIRR><MetroNorth>
   <line>
     <name>Hudson</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>DELAYS</status>
+    <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;12/30/2017&amp;nbsp; 8:30PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  Hudson Line Service is currently experiencing delays of 10 to 15 minutes due to circuit issues in the vicinity of Irvington. Please listen for announcements at your station.
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>12/30/2017</Date>
+    <Time> 8:30PM</Time>
   </line>
   <line>
     <name>Harlem</name>
