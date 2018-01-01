@@ -1,13 +1,13 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>SERVICE CHANGE</status>
+    <status>DELAYS</status>
     <text>
-                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;01/01/2018&amp;nbsp; 8:28AM
+                    &amp;nbsp;Posted:&amp;nbsp;01/01/2018&amp;nbsp; 8:34AM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  &lt;P&gt;Southbound [1] trains are running express from &lt;STRONG&gt;96 St&lt;/STRONG&gt; to &lt;STRONG&gt;72 St&lt;/STRONG&gt; because of a passenger requiring medical assistance at &lt;STRONG&gt;79 St.&lt;/STRONG&gt;&lt;/P&gt;
+                  [1] train service has resumed following an earlier incident involving a passenger requiring medical assistance at &lt;STRONG&gt;79 St.&lt;/STRONG&gt;
                 &lt;br/&gt;&lt;br/&gt;
               
                     &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
@@ -21,7 +21,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>01/01/2018</Date>
-    <Time> 8:28AM</Time>
+    <Time> 8:34AM</Time>
   </line>
   <line>
     <name>456</name>
@@ -33,7 +33,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>01/01/2018</Date>
-    <Time> 8:30AM</Time>
+    <Time> 8:34AM</Time>
   </line>
   <line>
     <name>7</name>
@@ -48,25 +48,32 @@
     <text>
                     &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;01/01/2018&amp;nbsp; 8:30AM
+                    &amp;nbsp;Posted:&amp;nbsp;01/01/2018&amp;nbsp; 8:32AM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  [E] and [F] train service has resumed following an earlier NYPD investigation at &lt;STRONG&gt;Jackson Hts-Roosevelt Av.&lt;/STRONG&gt;
+                  Southbound [E] and [F] trains are running with delays because of signal problems at &lt;STRONG&gt;Woodhaven Blvd&lt;/STRONG&gt;.
                 &lt;br/&gt;&lt;br/&gt;
               
                     &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;01/01/2018&amp;nbsp; 6:36AM
+                    &amp;nbsp;Posted:&amp;nbsp;01/01/2018&amp;nbsp; 8:30AM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  Southbound [E] and [F] trains are running with delays because of signal problems at &lt;STRONG&gt;Woodhaven Blvd&lt;/STRONG&gt;.
+                  [E] and [F] train service has resumed following an earlier NYPD investigation at &lt;STRONG&gt;Jackson Hts-Roosevelt Av.&lt;/STRONG&gt;
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>01/01/2018</Date>
-    <Time> 8:30AM</Time>
+    <Time> 8:32AM</Time>
   </line>
   <line>
     <name>BDFM</name>
     <status>DELAYS</status>
     <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;01/01/2018&amp;nbsp; 8:32AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  Southbound [E] and [F] trains are running with delays because of signal problems at &lt;STRONG&gt;Woodhaven Blvd&lt;/STRONG&gt;.
+                &lt;br/&gt;&lt;br/&gt;
+              
                     &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
                     &amp;nbsp;Posted:&amp;nbsp;01/01/2018&amp;nbsp; 8:32AM
@@ -79,13 +86,6 @@
                     &amp;nbsp;Posted:&amp;nbsp;01/01/2018&amp;nbsp; 8:30AM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
                   [E] and [F] train service has resumed following an earlier NYPD investigation at &lt;STRONG&gt;Jackson Hts-Roosevelt Av.&lt;/STRONG&gt;
-                &lt;br/&gt;&lt;br/&gt;
-              
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;01/01/2018&amp;nbsp; 6:36AM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  Southbound [E] and [F] trains are running with delays because of signal problems at &lt;STRONG&gt;Woodhaven Blvd&lt;/STRONG&gt;.
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>01/01/2018</Date>
@@ -145,7 +145,7 @@
               &lt;br/&gt;
             </text>
     <Date>01/01/2018</Date>
-    <Time> 8:30AM</Time>
+    <Time> 8:33AM</Time>
   </line>
   <line>
     <name>B100 - B103</name>
@@ -182,7 +182,7 @@
               &lt;br/&gt;
             </text>
     <Date>01/01/2018</Date>
-    <Time> 8:30AM</Time>
+    <Time> 8:34AM</Time>
   </line>
   <line>
     <name>BXM1 - BXM18</name>
@@ -238,7 +238,7 @@
               &lt;br/&gt;
             </text>
     <Date>01/01/2018</Date>
-    <Time> 8:30AM</Time>
+    <Time> 8:34AM</Time>
   </line>
   <line>
     <name>Q1 - Q113</name>
@@ -275,7 +275,7 @@
               &lt;br/&gt;
             </text>
     <Date>01/01/2018</Date>
-    <Time> 8:30AM</Time>
+    <Time> 8:34AM</Time>
   </line>
   <line>
     <name>QM1 - QM44</name>
@@ -300,7 +300,7 @@
               &lt;br/&gt;
             </text>
     <Date>01/01/2018</Date>
-    <Time> 8:30AM</Time>
+    <Time> 8:34AM</Time>
   </line>
   <line>
     <name>S40 - S98</name>
@@ -326,7 +326,7 @@
               &lt;br/&gt;
             </text>
     <Date>01/01/2018</Date>
-    <Time> 8:30AM</Time>
+    <Time> 8:34AM</Time>
   </line>
 </bus><BT>
   <line>
@@ -399,17 +399,17 @@
     <text>
                     &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;01/01/2018&amp;nbsp; 8:30AM
+                    &amp;nbsp;Posted:&amp;nbsp;01/01/2018&amp;nbsp; 8:35AM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
                   &lt;div&gt;&lt;b&gt;&lt;span style="font-size: 10pt;"&gt;Babylon Branch customers are advised to expect cancellations
 and delays of 45-60 minutes as LIRR trains operate on one of two tracks through
-Freeport due to downed PSEG utility wires.&lt;/span&gt;&lt;span style="font-size: 10pt;"&gt;  &lt;/span&gt;&lt;/b&gt;&lt;/div&gt;&lt;u&gt;&lt;b&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;Westbound&lt;/b&gt;&lt;/u&gt;&lt;br&gt;The 6:58AM train from Babylon due Penn at 8:14AM is being delayed at Seaford due to PSEG utility wires on the tracks through Freeport.&lt;br&gt;&lt;br&gt;The 7:28AM train from Babylon due Penn at 8:44AM is canceled due to a local power outage causing signal trouble near Freeport. Customers accommodated by the 8:10AM train from Babylon due Penn at 9:14AM making all local stops to Jamaica.&lt;div&gt;&lt;br&gt;&lt;div&gt;The 8:28AM train from Babylon due Penn at 9:44AM is cancelled due to 
+Freeport due to downed PSEG utility wires.&lt;/span&gt;&lt;span style="font-size: 10pt;"&gt;  &lt;/span&gt;&lt;/b&gt;&lt;/div&gt;&lt;u&gt;&lt;b&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;Westbound&lt;/b&gt;&lt;/u&gt;&lt;br&gt;The 6:58AM train from Babylon due Penn at 8:14AM is operating 74 minutes late after being delayed at Seaford due to LIRR trains operate on one of two tracks through Freeport due to downed PSEG utility wires.&lt;br&gt;&lt;br&gt;The 7:28AM train from Babylon due Penn at 8:44AM is canceled due to a local power outage causing signal trouble near Freeport. Customers accommodated by the 8:10AM train from Babylon due Penn at 9:14AM making all local stops to Jamaica.&lt;div&gt;&lt;br&gt;&lt;div&gt;The 8:28AM train from Babylon due Penn at 9:44AM is cancelled due to 
 PSEG utility wires on the tracks through Freeport.  Customers 
-accommodated on the 8:58AM train from Babylon due Penn at 10:14A.M         &lt;br&gt;&lt;br&gt;&lt;u&gt;&lt;b&gt;Eastbound&lt;/b&gt;&lt;/u&gt;&lt;br&gt;&lt;font face="sans-serif"&gt;&lt;span style="font-size: 13.3333px;"&gt;The 6:25AM train from Penn due Babylon at 7:42AM is operating 41 minutes late due to PSEG utility wires on the tracks through Freeport.&lt;br&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face="sans-serif"&gt;&lt;span style="font-size: 13.3333px;"&gt;&lt;br&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face="sans-serif"&gt;&lt;span style="font-size: 13.3333px;"&gt;The 7:15AM train from Penn due Babylon at 8:21AM is being delayed at Rockville Centre due to PSEG utility wires on the tracks through Freeport. &lt;/span&gt;&lt;/font&gt;&lt;font face="sans-serif"&gt;&lt;span style="font-size: 13.3333px;"&gt;&lt;/span&gt;&lt;/font&gt;&lt;font face="sans-serif"&gt;&lt;span style="font-size: 13.3333px;"&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face="sans-serif"&gt;&lt;span style="font-size: 13.3333px;"&gt;&lt;br&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face="sans-serif"&gt;&lt;span style="font-size: 13.3333px;"&gt;The 7:55AM train from Penn due Babylon at 9:11AM is canceled due to PSEG utility wires on the tracks through Freeport. &lt;br&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face="sans-serif"&gt;&lt;span style="font-size: 13.3333px;"&gt;&lt;br&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face="sans-serif"&gt;&lt;span style="font-size: 13.3333px;"&gt;The 8:55AM train from Penn due Babylon at 10:12AM is canceled due to trains operating on one of two tracks through Freeport due to downed PSEG utility wires. Customers accommodated by the 9:25AM train from Penn due Babylon at 10:43AM making all local stops to Babylon.&lt;br&gt;&lt;/span&gt;&lt;/font&gt;&lt;div style="font-family: sans-serif; font-size: 10pt;"&gt;&lt;font face="sans-serif"&gt;&lt;span style="font-size: 13.3333px;"&gt;&lt;br&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style="font-family: sans-serif; font-size: 10pt;"&gt;&lt;font face="sans-serif"&gt;&lt;span style="font-size: 13.3333px;"&gt;&lt;br&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style="font-family: sans-serif; font-size: 10pt;"&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
+accommodated on the 8:58AM train from Babylon due Penn at 10:14A.M         &lt;br&gt;&lt;br&gt;&lt;u&gt;&lt;b&gt;Eastbound&lt;/b&gt;&lt;/u&gt;&lt;br&gt;&lt;font face="sans-serif"&gt;&lt;span style="font-size: 13.3333px;"&gt;The 6:25AM train from Penn due Babylon at 7:42AM is operating 41 minutes late due to  &lt;/span&gt;&lt;/font&gt;&lt;font face="sans-serif"&gt;&lt;span style="font-size: 13.3333px;"&gt;LIRR trains operate on one of two tracks through Freeport due to downed PSEG utility wires.&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face="sans-serif"&gt;&lt;span style="font-size: 13.3333px;"&gt;&lt;br&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face="sans-serif"&gt;&lt;span style="font-size: 13.3333px;"&gt;The 7:15AM train from Penn due Babylon at 8:21AM is being delayed at Rockville Centre &lt;/span&gt;&lt;/font&gt;due to LIRR trains operate on one of two tracks through Freeport due to downed PSEG utility wires.&lt;font face="sans-serif"&gt;&lt;span style="font-size: 13.3333px;"&gt;&lt;/span&gt;&lt;/font&gt;&lt;font face="sans-serif"&gt;&lt;span style="font-size: 13.3333px;"&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face="sans-serif"&gt;&lt;span style="font-size: 13.3333px;"&gt;&lt;br&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face="sans-serif"&gt;&lt;span style="font-size: 13.3333px;"&gt;The 7:55AM train from Penn due Babylon at 9:11AM is canceled due to PSEG utility wires on the tracks through Freeport. &lt;br&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face="sans-serif"&gt;&lt;span style="font-size: 13.3333px;"&gt;&lt;br&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face="sans-serif"&gt;&lt;span style="font-size: 13.3333px;"&gt;The 8:55AM train from Penn due Babylon at 10:12AM is canceled due to trains operating on one of two tracks through Freeport due to downed PSEG utility wires. Customers accommodated by the 9:25AM train from Penn due Babylon at 10:43AM making all local stops to Babylon.&lt;br&gt;&lt;/span&gt;&lt;/font&gt;&lt;div style="font-family: sans-serif; font-size: 10pt;"&gt;&lt;font face="sans-serif"&gt;&lt;span style="font-size: 13.3333px;"&gt;&lt;br&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style="font-family: sans-serif; font-size: 10pt;"&gt;&lt;font face="sans-serif"&gt;&lt;span style="font-size: 13.3333px;"&gt;&lt;br&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style="font-family: sans-serif; font-size: 10pt;"&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>01/01/2018</Date>
-    <Time> 8:30AM</Time>
+    <Time> 8:35AM</Time>
   </line>
   <line>
     <name>City Terminal Zone</name>
