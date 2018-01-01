@@ -437,10 +437,17 @@ as LIRR trains operate on one of two tracks through Freeport due to PSEG
   </line>
   <line>
     <name>Long Beach</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>DELAYS</status>
+    <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;01/01/2018&amp;nbsp; 7:42AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  The 7:24AM train from Long Beach due Penn at 8:21AM is being held in Long beach due to equipment trouble.
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>01/01/2018</Date>
+    <Time> 7:42AM</Time>
   </line>
   <line>
     <name>Montauk</name>
