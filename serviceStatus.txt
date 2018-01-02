@@ -46,10 +46,18 @@
   </line>
   <line>
     <name>ACE</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>SERVICE CHANGE</status>
+    <text>
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;01/02/2018&amp;nbsp; 8:21AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;P&gt;Northbound [E] trains are running local from &lt;STRONG&gt;75 Av&lt;/STRONG&gt; to &lt;STRONG&gt;Briarwood-Van Wyck&lt;/STRONG&gt; because of signal problems at &lt;STRONG&gt;Kew Gardens-Union Tpke&lt;/STRONG&gt;.&lt;/P&gt;
+&lt;P&gt;Expect delays on [E] and [F] trains.&lt;/P&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>01/02/2018</Date>
+    <Time> 8:21AM</Time>
   </line>
   <line>
     <name>BDFM</name>
@@ -457,10 +465,17 @@ Babylon due Penn at 9:11AM, making added stops at Baldwin &amp; Rockville Centre
   </line>
   <line>
     <name>Hempstead</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>DELAYS</status>
+    <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;01/02/2018&amp;nbsp; 8:21AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  The 7:50AM train from Atlantic Terminal due Hempstead at 8:38AM is operating 10 minutes late due to earlier equipment trouble.
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>01/02/2018</Date>
+    <Time> 8:21AM</Time>
   </line>
   <line>
     <name>Long Beach</name>
