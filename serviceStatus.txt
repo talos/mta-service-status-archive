@@ -1,8 +1,15 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>DELAYS</status>
+    <status>SERVICE CHANGE</status>
     <text>
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;01/02/2018&amp;nbsp; 3:00PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  Some northbound [1] trains end at &lt;STRONG&gt;96 St&lt;/STRONG&gt; because of signal problems at &lt;STRONG&gt;137 St-City College&lt;/STRONG&gt;.
+                &lt;br/&gt;&lt;br/&gt;
+              
                     &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
                     &amp;nbsp;Posted:&amp;nbsp;01/02/2018&amp;nbsp; 2:33PM
@@ -16,7 +23,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>01/02/2018</Date>
-    <Time> 2:33PM</Time>
+    <Time> 3:00PM</Time>
   </line>
   <line>
     <name>456</name>
@@ -327,12 +334,11 @@
     <text>
                   &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                   &lt;span class="DateStyle"&gt;
-                  &amp;nbsp;Posted:&amp;nbsp;01/02/2018&amp;nbsp; 2:04PM
+                  &amp;nbsp;Posted:&amp;nbsp;01/02/2018&amp;nbsp; 2:59PM
                   &lt;/span&gt;
                   &lt;br/&gt;
                   &lt;br/&gt;
-                &lt;P&gt;&lt;STRONG&gt;X27 &lt;/STRONG&gt;and &lt;STRONG&gt;X28&lt;/STRONG&gt; buses are running with delays northbound because of traffic conditions on the Gowanus Expwy between the Prospect Expwy and Brooklyn Queens Expwy.&lt;/P&gt;
-&lt;P&gt;  &lt;/P&gt;
+                &lt;b&gt;X27&lt;/b&gt; and &lt;b&gt;X28&lt;/b&gt; bus service has resumed following earlier traffic conditions on the Gowanus Expressway.
               &lt;br/&gt;
               &lt;br/&gt;
             
@@ -349,7 +355,7 @@
               &lt;br/&gt;
             </text>
     <Date>01/02/2018</Date>
-    <Time> 2:04PM</Time>
+    <Time> 2:59PM</Time>
   </line>
 </bus><BT>
   <line>
