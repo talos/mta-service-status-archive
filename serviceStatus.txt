@@ -85,10 +85,15 @@
   </line>
   <line>
     <name>SIR</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>PLANNED WORK</status>
+    <text>
+                    &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
+                    &lt;br/&gt;
+                  &lt;a class="plannedWorkDetailLink" onclick=ShowHide(177256);&gt;&lt;b&gt;&lt;i&gt;SCHEDULED MAINTENANCE&lt;/i&gt;&lt;br clear=left&gt;[SIR] Trains board at the St. George-bound platform from Stapleton to Grasmere Stations&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 177256 class="plannedWorkDetail" &gt;&lt;/b&gt;Days, 9:30 AM to 3 PM, Tue to Fri, Jan 2 - 5&lt;br&gt;&lt;br&gt;&amp;bull; Boarding change includes &lt;b&gt;Stapleton&lt;/b&gt;, &lt;b&gt;Clifton&lt;/b&gt; and &lt;b&gt;Grasmere Stations&lt;/b&gt;.&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>01/03/2018</Date>
+    <Time> 9:32AM</Time>
   </line>
 </subway><bus>
   <line>
@@ -102,7 +107,7 @@
               &lt;br/&gt;
             </text>
     <Date>01/03/2018</Date>
-    <Time> 9:30AM</Time>
+    <Time> 9:32AM</Time>
   </line>
   <line>
     <name>B100 - B103</name>
@@ -129,7 +134,7 @@
               &lt;br/&gt;
             </text>
     <Date>01/03/2018</Date>
-    <Time> 9:30AM</Time>
+    <Time> 9:32AM</Time>
   </line>
   <line>
     <name>BXM1 - BXM18</name>
@@ -167,7 +172,7 @@
               &lt;br/&gt;
             </text>
     <Date>01/03/2018</Date>
-    <Time> 9:30AM</Time>
+    <Time> 9:32AM</Time>
   </line>
   <line>
     <name>Q1 - Q113</name>
@@ -246,7 +251,7 @@
               &lt;br/&gt;
             </text>
     <Date>01/03/2018</Date>
-    <Time> 9:30AM</Time>
+    <Time> 9:32AM</Time>
   </line>
   <line>
     <name>S40 - S98</name>
@@ -272,7 +277,7 @@
               &lt;br/&gt;
             </text>
     <Date>01/03/2018</Date>
-    <Time> 9:30AM</Time>
+    <Time> 9:32AM</Time>
   </line>
 </bus><BT>
   <line>
@@ -341,19 +346,10 @@
 </BT><LIRR>
   <line>
     <name>Babylon</name>
-    <status>DELAYS</status>
-    <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;01/03/2018&amp;nbsp; 9:04AM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  &lt;p&gt;&lt;span&gt;The 8:09AM train from Penn due Babylon at 9:20AM is operating 13 minutes
- late due to third rail damage in one of Amtrak's East River tunnels
-        &lt;/span&gt;&lt;/p&gt;
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>01/03/2018</Date>
-    <Time> 9:04AM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>City Terminal Zone</name>
