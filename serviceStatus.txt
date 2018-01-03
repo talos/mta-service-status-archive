@@ -1,17 +1,10 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>DELAYS</status>
-    <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;01/03/2018&amp;nbsp; 7:03AM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  [1] train service has resumed following earlier signal problems at &lt;STRONG&gt;137 St-City College.&lt;/STRONG&gt;
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>01/03/2018</Date>
-    <Time> 7:03AM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>456</name>
@@ -102,7 +95,7 @@
               &lt;br/&gt;
             </text>
     <Date>01/03/2018</Date>
-    <Time> 7:03AM</Time>
+    <Time> 7:10AM</Time>
   </line>
   <line>
     <name>B100 - B103</name>
@@ -129,7 +122,7 @@
               &lt;br/&gt;
             </text>
     <Date>01/03/2018</Date>
-    <Time> 7:03AM</Time>
+    <Time> 7:10AM</Time>
   </line>
   <line>
     <name>BXM1 - BXM18</name>
@@ -167,7 +160,7 @@
               &lt;br/&gt;
             </text>
     <Date>01/03/2018</Date>
-    <Time> 7:03AM</Time>
+    <Time> 7:10AM</Time>
   </line>
   <line>
     <name>Q1 - Q113</name>
@@ -246,7 +239,7 @@
               &lt;br/&gt;
             </text>
     <Date>01/03/2018</Date>
-    <Time> 7:03AM</Time>
+    <Time> 7:10AM</Time>
   </line>
   <line>
     <name>S40 - S98</name>
@@ -272,7 +265,7 @@
               &lt;br/&gt;
             </text>
     <Date>01/03/2018</Date>
-    <Time> 7:03AM</Time>
+    <Time> 7:10AM</Time>
   </line>
 </bus><BT>
   <line>
@@ -442,13 +435,14 @@ tunnels.    
     <text>
                     &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;01/03/2018&amp;nbsp; 6:48AM
+                    &amp;nbsp;Posted:&amp;nbsp;01/03/2018&amp;nbsp; 7:11AM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  &lt;p style="font-family: sans-serif; font-size: 10pt;"&gt;&lt;span style="font-size: 13.3333px;"&gt;The 6:08AM train from Ronkonkoma due Penn at 7:27AM is operating 11 minutes late due to third rail damage in one of Amtrak's East River tunnels.&lt;/span&gt;&lt;/p&gt;
+                  &lt;p style="font-family: sans-serif; font-size: 10pt;"&gt;&lt;span style="font-size: 13.33px;"&gt;The 6:08AM train from Ronkonkoma due Penn at 7:27AM is operating 11 minutes late due to third rail damage in one of Amtrak's East River tunnels.&lt;/span&gt;&lt;/p&gt;&lt;p style="font-family: sans-serif; font-size: 10pt;"&gt;&lt;span style="font-size: 13.33px;"&gt;The 6:56AM train from Ronkonkoma due Atlantic Terminal at 8:17AM is operating 12 minutes late due to earlier equipment trouble.
+&lt;/span&gt;&lt;/p&gt;
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>01/03/2018</Date>
-    <Time> 6:48AM</Time>
+    <Time> 7:11AM</Time>
   </line>
   <line>
     <name>West Hempstead</name>
