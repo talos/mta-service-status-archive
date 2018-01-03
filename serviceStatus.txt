@@ -412,13 +412,6 @@
                   The 10:48AM train from Babylon due Penn at 12:02PM is operating 21 minutes late due to trackwork.
        
                 &lt;br/&gt;&lt;br/&gt;
-              
-                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;01/03/2018&amp;nbsp; 9:58AM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  The 10:22AM train from Penn due Babylon at 11:24AM is canceled due to third rail damage in one of Amtrak's East River tunnels. Customers will be accommodated by the 10:38AM from Penn due Babylon 11:53AM.
-                &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>01/03/2018</Date>
     <Time>11:24AM</Time>
@@ -453,10 +446,17 @@
   </line>
   <line>
     <name>Montauk</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>DELAYS</status>
+    <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;01/03/2018&amp;nbsp;11:54AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;div&gt;&lt;span style="font-family: Arial, Helvetica;"&gt;&lt;font size="2"&gt;The 11:18AM train from Montauk due Jamaica at 2:15PM is operating 24 minutes late due to a late eastbound train in single-track territory.&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>01/03/2018</Date>
+    <Time>11:54AM</Time>
   </line>
   <line>
     <name>Oyster Bay</name>
