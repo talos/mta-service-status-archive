@@ -114,10 +114,15 @@
   </line>
   <line>
     <name>S</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>PLANNED WORK</status>
+    <text>
+                    &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
+                    &lt;br/&gt;
+                  &lt;a class="plannedWorkDetailLink" onclick=ShowHide(175037);&gt;&lt;b&gt;&lt;i&gt;TRACK REPLACEMENT&lt;/i&gt;&lt;br clear=left&gt;[S] 42 Street Shuttle service operates overnight&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 175037 class="plannedWorkDetail" &gt;&lt;/b&gt;Late Nights, 12:01 AM to 6 AM, Wed to Fri, Jan 3 - 5  &amp;bull;  Tue to Fri, Jan 9 - 12&lt;br&gt;&lt;/font&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>01/03/2018</Date>
+    <Time> 1:30AM</Time>
   </line>
   <line>
     <name>SIR</name>
