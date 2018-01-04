@@ -1,8 +1,15 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>SERVICE CHANGE</status>
+    <status>DELAYS</status>
     <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;01/04/2018&amp;nbsp; 3:34PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  Northbound [2] and [3] trains are running with delays because of signal problems at &lt;STRONG&gt;Atlantic Av-Barclays Ctr&lt;/STRONG&gt;.
+                &lt;br/&gt;&lt;br/&gt;
+              
                     &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
                     &amp;nbsp;Posted:&amp;nbsp;01/04/2018&amp;nbsp; 3:31PM
@@ -21,7 +28,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>01/04/2018</Date>
-    <Time> 3:31PM</Time>
+    <Time> 3:34PM</Time>
   </line>
   <line>
     <name>456</name>
@@ -862,10 +869,19 @@
   </line>
   <line>
     <name>Hempstead</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>SERVICE CHANGE</status>
+    <text>
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;01/04/2018&amp;nbsp; 3:37PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  Eastbound trains continue to bypass Hillside Support Facility (for LIRR 
+employees only), Hollis, and Queens Village due to winter weather 
+conditions.         
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>01/04/2018</Date>
+    <Time> 3:37PM</Time>
   </line>
   <line>
     <name>Long Beach</name>
@@ -876,6 +892,13 @@
                     &amp;nbsp;Posted:&amp;nbsp;01/04/2018&amp;nbsp; 3:33PM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
                   &lt;body bgcolor='White' style='font-family:sans-serif;font-size:10pt;'&gt;&lt;body bgcolor='White' style='font-family:sans-serif;font-size:10pt;'&gt;&lt;body bgcolor='White' style='font-family:sans-serif;font-size:10pt;'&gt;&lt;strong&gt;The LIRR continues to experience system-wide delays averaging 30-45  minutes due to winter weather conditions.&lt;/strong&gt;         &lt;/body&gt;&lt;/body&gt;&lt;/body&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;01/04/2018&amp;nbsp; 3:35PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  The 3:09PM train from Long Beach due Penn at 3:59PM is operating 12 minutes late due to winter weather conditions.  
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>01/04/2018</Date>
@@ -938,6 +961,13 @@ branches at this time.     &lt;/b&gt;    &lt;/p&gt;&lt;p style="font-size: 
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
                   &lt;body bgcolor='White' style='font-family:sans-serif;font-size:10pt;'&gt;&lt;body bgcolor='White' style='font-family:sans-serif;font-size:10pt;'&gt;&lt;body bgcolor='White' style='font-family:sans-serif;font-size:10pt;'&gt;&lt;strong&gt;The LIRR continues to experience system-wide delays averaging 30-45  minutes due to winter weather conditions.&lt;/strong&gt;         &lt;/body&gt;&lt;/body&gt;&lt;/body&gt;
                 &lt;br/&gt;&lt;br/&gt;
+              
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;01/04/2018&amp;nbsp; 3:34PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  The 3:10PM train from Port Washington due Penn at 3:55PM is operating 15 minutes late due to winter weather conditions.          
+                &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>01/04/2018</Date>
     <Time> 3:33PM</Time>
@@ -955,9 +985,11 @@ branches at this time.     &lt;/b&gt;    &lt;/p&gt;&lt;p style="font-size: 
               
                     &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;01/04/2018&amp;nbsp; 3:32PM
+                    &amp;nbsp;Posted:&amp;nbsp;01/04/2018&amp;nbsp; 3:36PM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  &lt;p&gt;&lt;strong style="font-size: 10pt;"&gt;&lt;u&gt;Eastbound:&lt;/u&gt;&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;span style="font-size: 10pt;"&gt;The 2:14PM train from Penn due Ronkonkoma at 3:37PM is being delayed at Bethpage Station due to weather-related switch trouble.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style="font-size: 10pt;"&gt;The 3:07PM train from Penn due Ronkonkoma at 4:25PM has been canceled due to winter weather conditions. Customers will be accommodated by the 3:14PM train from Penn due Ronkonkoma at 4:34PM.     &lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style="font-size: 10pt;"&gt;&lt;b&gt;&lt;u&gt;Westbound:&lt;/u&gt;&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;The 2:11PM train from Ronkonkoma due Penn at 3:33PM is operating 41 
+                  &lt;p&gt;&lt;strong style="font-size: 10pt;"&gt;&lt;u&gt;Eastbound:&lt;/u&gt;&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;span style="font-size: 10pt;"&gt;The 2:14PM train from Penn due Ronkonkoma at 3:37PM is being delayed at Bethpage Station due to weather-related switch trouble.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style="font-size: 10pt;"&gt;The 3:07PM train from Penn due Ronkonkoma at 4:25PM has been canceled due to winter weather conditions. Customers will be accommodated by the 3:14PM train from Penn due Ronkonkoma at 4:34PM.     &lt;/span&gt;&lt;/p&gt;&lt;p&gt;The 4:09PM train from Penn due Farmingdale at 5:04PM is canceled due to 
+winter weather conditions. Customers will be accommodated by the next 
+eastbound train.          &lt;/p&gt;&lt;p&gt;&lt;span style="font-size: 10pt;"&gt;&lt;b&gt;&lt;u&gt;Westbound:&lt;/u&gt;&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;The 2:11PM train from Ronkonkoma due Penn at 3:33PM is operating 41 
 minutes late following the removal of a disabled tractor trailer on the 
 tracks at Deer Park.         
                 &lt;br/&gt;&lt;br/&gt;
