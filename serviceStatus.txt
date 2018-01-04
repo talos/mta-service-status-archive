@@ -1,17 +1,31 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>SERVICE CHANGE</status>
+    <text>
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;01/04/2018&amp;nbsp; 3:14PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  Northbound [2] and [5] trains are running express from &lt;STRONG&gt;3 Av-149 St&lt;/STRONG&gt; to &lt;STRONG&gt;E 180 St&lt;/STRONG&gt; because of switch problems at &lt;STRONG&gt;Jackson Av&lt;/STRONG&gt;.
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>01/04/2018</Date>
+    <Time> 3:14PM</Time>
   </line>
   <line>
     <name>456</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>SERVICE CHANGE</status>
+    <text>
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;01/04/2018&amp;nbsp; 3:14PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  Northbound [2] and [5] trains are running express from &lt;STRONG&gt;3 Av-149 St&lt;/STRONG&gt; to &lt;STRONG&gt;E 180 St&lt;/STRONG&gt; because of switch problems at &lt;STRONG&gt;Jackson Av&lt;/STRONG&gt;.
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>01/04/2018</Date>
+    <Time> 3:14PM</Time>
   </line>
   <line>
     <name>7</name>
@@ -47,8 +61,15 @@
   </line>
   <line>
     <name>BDFM</name>
-    <status>SERVICE CHANGE</status>
+    <status>DELAYS</status>
     <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;01/04/2018&amp;nbsp; 3:16PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  Jamaica Center bound [J] and 71 Av bound [M] trains are running with delays because of a train with mechanical problems at &lt;STRONG&gt;Broadway Junction&lt;/STRONG&gt;.
+                &lt;br/&gt;&lt;br/&gt;
+              
                     &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
                     &amp;nbsp;Posted:&amp;nbsp;01/04/2018&amp;nbsp; 2:09PM
@@ -77,7 +98,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>01/04/2018</Date>
-    <Time> 2:09PM</Time>
+    <Time> 3:16PM</Time>
   </line>
   <line>
     <name>G</name>
@@ -88,22 +109,22 @@
   </line>
   <line>
     <name>JZ</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
-  </line>
-  <line>
-    <name>L</name>
     <status>DELAYS</status>
     <text>
                     &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;01/04/2018&amp;nbsp; 3:08PM
+                    &amp;nbsp;Posted:&amp;nbsp;01/04/2018&amp;nbsp; 3:16PM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  [L] train service has resumed following an earlier incident involving an unruly passenger at &lt;STRONG&gt;Canarsie-Rockaway Pkwy&lt;/STRONG&gt;.
+                  Jamaica Center bound [J] and 71 Av bound [M] trains are running with delays because of a train with mechanical problems at &lt;STRONG&gt;Broadway Junction&lt;/STRONG&gt;.
                 &lt;br/&gt;&lt;br/&gt;
-              
+              </text>
+    <Date>01/04/2018</Date>
+    <Time> 3:16PM</Time>
+  </line>
+  <line>
+    <name>L</name>
+    <status>SERVICE CHANGE</status>
+    <text>
                     &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
                     &amp;nbsp;Posted:&amp;nbsp;01/04/2018&amp;nbsp; 2:10PM
@@ -114,7 +135,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>01/04/2018</Date>
-    <Time> 3:08PM</Time>
+    <Time> 2:10PM</Time>
   </line>
   <line>
     <name>NQR</name>
@@ -909,11 +930,14 @@
                   &lt;strong&gt;The LIRR continues to experience system-wide delays averaging 30-45  minutes due to winter weather conditions.&lt;/strong&gt;         
                 &lt;br/&gt;&lt;br/&gt;
               
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;01/04/2018&amp;nbsp; 3:10PM
+                    &amp;nbsp;Posted:&amp;nbsp;01/04/2018&amp;nbsp; 3:13PM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  &lt;p style="font-size: 13.3333px;"&gt;&lt;strong&gt;&lt;u&gt;Eastbound:&lt;/u&gt;&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;span style="font-size: 13.3333px;"&gt;The 2:52PM train from Huntington due Port Jefferson at 3:38PM is operating 10 minutes late due to winter weather conditions.  &lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;&lt;u&gt;Westbound:&lt;/u&gt;&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The 2:03PM train from Huntington due Penn at 3:12PM is operating 25 minutes late due to winter weather conditions. &lt;/p&gt;&lt;p&gt;&lt;span style="font-size: 10pt;"&gt;       &lt;/span&gt;&lt;/p&gt;
+                  &lt;p style="font-size: 13.3333px;"&gt;&lt;b&gt;Service is suspended in both directions on the Port Jefferson Branch 
+between Huntington and Port Jefferson due to a fallen tree across the 
+tracks near Northport Station. Customers are advised to use alternate 
+branches at this time.     &lt;/b&gt;    &lt;/p&gt;&lt;p style="font-size: 13.3333px;"&gt;&lt;strong style="font-size: 13.3333px;"&gt;&lt;u&gt;Eastbound:&lt;/u&gt;&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;span style="font-size: 13.3333px;"&gt;The 2:52PM train from Huntington due Port Jefferson at 3:38PM is operating 10 minutes late due to winter weather conditions.  &lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;&lt;u&gt;Westbound:&lt;/u&gt;&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The 2:03PM train from Huntington due Penn at 3:12PM is operating 25 minutes late due to winter weather conditions. &lt;/p&gt;&lt;p&gt;&lt;span style="font-size: 10pt;"&gt;       &lt;/span&gt;&lt;/p&gt;
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>01/04/2018</Date>
@@ -928,13 +952,6 @@
                     &amp;nbsp;Posted:&amp;nbsp;01/04/2018&amp;nbsp; 3:03PM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
                   &lt;strong&gt;The LIRR continues to experience system-wide delays averaging 30-45  minutes due to winter weather conditions.&lt;/strong&gt;         
-                &lt;br/&gt;&lt;br/&gt;
-              
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;01/04/2018&amp;nbsp; 3:09PM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  &lt;body bgcolor='White' style='font-family:sans-serif;font-size:10pt;'&gt;The 2:19PM train from Penn due Port Washington at 3:05PM is operating 14 minutes late due to winter weather conditions. &lt;br&gt;&lt;/body&gt;
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>01/04/2018</Date>
@@ -965,24 +982,24 @@ tracks at Deer Park.         
   </line>
   <line>
     <name>West Hempstead</name>
-    <status>DELAYS</status>
+    <status>SUSPENDED</status>
     <text>
+                    &lt;span class="TitleSuspended"&gt;Suspended&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;01/04/2018&amp;nbsp; 3:14PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;body bgcolor='White' style='font-family:sans-serif;font-size:10pt;'&gt;Service is suspended on the West Hempstead Branch due to weather-related switch trouble. Customers looking to go west are advised to find alternate means of getting to Valley Stream.&lt;/body&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              
                     &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
                     &amp;nbsp;Posted:&amp;nbsp;01/04/2018&amp;nbsp; 3:03PM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
                   &lt;strong&gt;The LIRR continues to experience system-wide delays averaging 30-45  minutes due to winter weather conditions.&lt;/strong&gt;         
                 &lt;br/&gt;&lt;br/&gt;
-              
-                    &lt;span class="TitleSuspended"&gt;Suspended&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;01/04/2018&amp;nbsp;11:26AM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  Service is suspended on the West Hempstead Branch due to weather-related switch trouble. Customers looking to go west are advised to find alternate means of getting to Valley Stream.
-                &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>01/04/2018</Date>
-    <Time> 3:03PM</Time>
+    <Time> 3:14PM</Time>
   </line>
 </LIRR><MetroNorth>
   <line>
