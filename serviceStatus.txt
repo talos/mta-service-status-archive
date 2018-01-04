@@ -816,10 +816,17 @@
   </line>
   <line>
     <name>Long Beach</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>DELAYS</status>
+    <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;01/04/2018&amp;nbsp; 2:48PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  The 2:12PM train from Long Beach due Penn at 3:05PM is operating 13 minutes late due to winter weather conditions.
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>01/04/2018</Date>
+    <Time> 2:48PM</Time>
   </line>
   <line>
     <name>Montauk</name>
@@ -962,8 +969,15 @@ tracks east of Deer Park Station. Customers are advised to use alternate
   </line>
   <line>
     <name>New Canaan</name>
-    <status>SUSPENDED</status>
+    <status>SERVICE CHANGE</status>
     <text>
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;01/04/2018&amp;nbsp; 2:49PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  Substitute Bus Service will be provided on the New Canaan Branch for the 2:58PM train departing Stamford making all stops to New Canaan, due to a downed tree in the vicinity of Talmadge Hill.  Please listen for announcements at your station.
+                &lt;br/&gt;&lt;br/&gt;
+              
                     &lt;span class="TitleSuspended"&gt;Suspended&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
                     &amp;nbsp;Posted:&amp;nbsp;01/04/2018&amp;nbsp; 2:27PM
@@ -972,7 +986,7 @@ tracks east of Deer Park Station. Customers are advised to use alternate
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>01/04/2018</Date>
-    <Time> 2:27PM</Time>
+    <Time> 2:49PM</Time>
   </line>
   <line>
     <name>Danbury</name>
