@@ -71,17 +71,10 @@
   </line>
   <line>
     <name>L</name>
-    <status>DELAYS</status>
-    <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;01/04/2018&amp;nbsp; 4:13PM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  [L] train service has resumed following earlier switch problems at &lt;STRONG&gt;Canarsie-Rockaway Pkwy&lt;/STRONG&gt;.
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>01/04/2018</Date>
-    <Time> 4:13PM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>NQR</name>
@@ -89,9 +82,9 @@
     <text>
                     &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;01/04/2018&amp;nbsp; 4:23PM
+                    &amp;nbsp;Posted:&amp;nbsp;01/04/2018&amp;nbsp; 4:29PM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  Northbound [N] and [R] trains are running with delays because of a train with mechanical problems at &lt;STRONG&gt;36 St (Bklyn)&lt;/STRONG&gt;.
+                  [N] and [R] train service has resumed following an earlier incident involving a train with mechanical problems at &lt;STRONG&gt;36 St (Bklyn)&lt;/STRONG&gt;.
                 &lt;br/&gt;&lt;br/&gt;
               
                     &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
@@ -112,12 +105,19 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>01/04/2018</Date>
-    <Time> 4:23PM</Time>
+    <Time> 4:29PM</Time>
   </line>
   <line>
     <name>S</name>
-    <status>SERVICE CHANGE</status>
+    <status>DELAYS</status>
     <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;01/04/2018&amp;nbsp; 4:30PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  There is no service on the [S] Franklin Av Shuttle between &lt;STRONG&gt;Franklin Av&lt;/STRONG&gt; and &lt;STRONG&gt;Prospect Park&lt;/STRONG&gt; in both directions because of a train with mechanical problems at&lt;STRONG&gt; Park Pl&lt;/STRONG&gt;.
+                &lt;br/&gt;&lt;br/&gt;
+              
                     &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
                     &amp;nbsp;Posted:&amp;nbsp;01/04/2018&amp;nbsp; 4:26PM
@@ -130,7 +130,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>01/04/2018</Date>
-    <Time> 4:26PM</Time>
+    <Time> 4:30PM</Time>
   </line>
   <line>
     <name>SIR</name>
@@ -828,10 +828,21 @@ Centre, and all further stops to Wantagh. &lt;/div&gt;&lt;div&gt;&lt;span style
   </line>
   <line>
     <name>Hempstead</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>DELAYS</status>
+    <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;01/04/2018&amp;nbsp; 4:30PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;body bgcolor='White' style='font-family:sans-serif;font-size:10pt;'&gt;&lt;div&gt;&lt;b&gt;Eastbound trains continue to bypass Hillside Support Facility (for LIRR 
+employees only), Hollis, and Queens Village due to winter weather 
+conditions.       &lt;/b&gt;  &lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;u&gt;Eastbound:&lt;/u&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;The 3:32PM train from Atlantic Terminal due Hempstead at 4:26PM is 
+delayed east of Jamaica at Hillside Support Facility (for employees 
+only) due to weather-related equipment trouble.         &lt;div&gt;&lt;b&gt;&lt;u&gt;Westbound:&lt;/u&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;The 4:04PM train from Hempstead due Atlantic Terminal at 4:52PM is operating 11 minutes late due to winter weather conditions.          &lt;/div&gt;&lt;/body&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>01/04/2018</Date>
+    <Time> 4:30PM</Time>
   </line>
   <line>
     <name>Long Beach</name>
