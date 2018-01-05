@@ -1,15 +1,29 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>DELAYS</status>
+    <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;01/05/2018&amp;nbsp; 7:29AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  Southbound [2] and [5] trains are running with delays because of switch problems at &lt;STRONG&gt;Nereid Av.&lt;/STRONG&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>01/05/2018</Date>
+    <Time> 7:29AM</Time>
   </line>
   <line>
     <name>456</name>
-    <status>SERVICE CHANGE</status>
+    <status>DELAYS</status>
     <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;01/05/2018&amp;nbsp; 7:29AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  Southbound [2] and [5] trains are running with delays because of switch problems at &lt;STRONG&gt;Nereid Av.&lt;/STRONG&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              
                     &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
                     &amp;nbsp;Posted:&amp;nbsp;01/05/2018&amp;nbsp; 6:37AM
@@ -26,7 +40,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>01/05/2018</Date>
-    <Time> 6:37AM</Time>
+    <Time> 7:29AM</Time>
   </line>
   <line>
     <name>7</name>
@@ -292,7 +306,7 @@
             
                   &lt;span class="TitlePlannedWork" &gt;Planned Detour&lt;/span&gt;
                   &lt;br/&gt;
-                &lt;a class="plannedWorkDetailLink" onclick=ShowHide(177704);&gt;&lt;b&gt;Q70 &lt;/b&gt;SBS&lt;b&gt; buses are fare free following the snowstorm&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 177704 class="plannedWorkDetail" &gt;&lt;/b&gt;12 midnight Fri to 11:59 PM Sat, Jan 5 - 6&lt;br&gt;&lt;br&gt;Ride free on the &lt;a href=http://web.mta.info/busco/schedules/q070scur.pdf target=_blank&gt;&lt;font color=#0000FF&gt;&lt;b&gt;&lt;u&gt;LaGuardia Link Q70 SBS&lt;/u&gt;&lt;/b&gt;&lt;/font&gt;&lt;/a&gt;. Customers do not have to obtain a Select Bus Service ticket and may board at any door.&lt;br&gt;&lt;br&gt;&lt;a href=http://www.panynj.gov/press-room/press-item.cfm?headLine_id=2653 target=_blank&gt;&lt;font color=#0000FF&gt;&lt;b&gt;&lt;u&gt;Click here&lt;/u&gt;&lt;/b&gt;&lt;/font&gt;&lt;/a&gt; for a LaGuardia Airport travel advisory. &lt;br&gt;&lt;br&gt;&lt;b&gt;Note:&lt;/b&gt; Customers transferring to the subway will still have to pay the subway fare.&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+                &lt;a class="plannedWorkDetailLink" onclick=ShowHide(177704);&gt;&lt;b&gt;Q70 &lt;/b&gt;SBS&lt;b&gt; buses are fare free following the snowstorm&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 177704 class="plannedWorkDetail" &gt;&lt;/b&gt;12 midnight Fri to 11:59 PM Sat, Jan 5 - 6&lt;br&gt;&lt;br&gt;Ride free on the &lt;a href=http://web.mta.info/busco/schedules/q070scur.pdf target=_blank&gt;&lt;font color=#0000FF&gt;&lt;b&gt;&lt;u&gt;LaGuardia Link Q70 SBS&lt;/u&gt;&lt;/b&gt;&lt;/font&gt;&lt;/a&gt;. Customers do not have to obtain a Select Bus Service ticket and may board at any door.&lt;br&gt;&lt;br&gt;&lt;a href=http://laguardiaairport.com/traveladvisories/ target=_blank&gt;&lt;font color=#0000FF&gt;&lt;b&gt;&lt;u&gt;Click here&lt;/u&gt;&lt;/b&gt;&lt;/font&gt;&lt;/a&gt; for LaGuardia Airport travel advisories. &lt;br&gt;&lt;br&gt;&lt;b&gt;Note:&lt;/b&gt; Customers transferring to the subway will still have to pay the subway fare.&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
               &lt;br/&gt;
               &lt;br/&gt;
             
@@ -615,10 +629,17 @@
   </line>
   <line>
     <name>Far Rockaway</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>DELAYS</status>
+    <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;01/05/2018&amp;nbsp; 7:29AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;span style="font-family: Arial, Helvetica;"&gt;&lt;font size="2"&gt;The 6:28AM train from Far Rockaway due Atlantic Terminal at 7:23AM is operating 34 minutes late due to winter weather conditions.&lt;/font&gt;&lt;/span&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>01/05/2018</Date>
+    <Time> 7:29AM</Time>
   </line>
   <line>
     <name>Hempstead</name>
@@ -707,10 +728,17 @@
   </line>
   <line>
     <name>Ronkonkoma</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>DELAYS</status>
+    <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;01/05/2018&amp;nbsp; 7:29AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  The 6:57AM train from Farmingdale due Penn at 7:48AM is operating 22 minutes late due to winter weather conditions.&lt;br&gt;&lt;br&gt;&lt;span style="font-family: Arial, Helvetica;"&gt;&lt;font size="2"&gt;The 6:39AM train from Ronkonkoma due Penn at 8:00AM is operating 10 minutes late due to winter weather conditions.&lt;/font&gt;&lt;/span&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>01/05/2018</Date>
+    <Time> 7:29AM</Time>
   </line>
   <line>
     <name>West Hempstead</name>
