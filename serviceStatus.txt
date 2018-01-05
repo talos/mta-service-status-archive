@@ -29,10 +29,17 @@
   </line>
   <line>
     <name>7</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>DELAYS</status>
+    <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;01/05/2018&amp;nbsp; 4:29PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  [7] trains are running with delays in both directions because of signal problems at &lt;b&gt;Court Sq-23 St. &lt;/b&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>01/05/2018</Date>
+    <Time> 4:29PM</Time>
   </line>
   <line>
     <name>ACE</name>
@@ -47,20 +54,13 @@
     <text>
                     &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;01/05/2018&amp;nbsp; 4:12PM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  &lt;body bgcolor='White' style='font-family:sans-serif;font-size:10pt;'&gt;[B] train service has resumed following earlier weather conditions.&lt;/body&gt;
-                &lt;br/&gt;&lt;br/&gt;
-              
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
                     &amp;nbsp;Posted:&amp;nbsp;01/05/2018&amp;nbsp; 4:04PM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
                   Northbound [F] and [G] trains are running with delays because of signal problems at &lt;STRONG&gt;Smith-9 Sts.&lt;/STRONG&gt;
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>01/05/2018</Date>
-    <Time> 4:12PM</Time>
+    <Time> 4:04PM</Time>
   </line>
   <line>
     <name>G</name>
@@ -96,20 +96,13 @@
     <text>
                     &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;01/05/2018&amp;nbsp; 4:12PM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  &lt;body bgcolor='White' style='font-family:sans-serif;font-size:10pt;'&gt;[B] train service has resumed following earlier weather conditions.&lt;/body&gt;
-                &lt;br/&gt;&lt;br/&gt;
-              
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
                     &amp;nbsp;Posted:&amp;nbsp;01/05/2018&amp;nbsp; 4:03PM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
                   Northbound [R] trains are running with delays because of signal problems at &lt;STRONG&gt;53 St-Bklyn&lt;/STRONG&gt;.
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>01/05/2018</Date>
-    <Time> 4:12PM</Time>
+    <Time> 4:03PM</Time>
   </line>
   <line>
     <name>S</name>
@@ -723,6 +716,13 @@ westbound service to these stations is available.
 through Jamaica Station due to congestion caused by a disabled train in 
 the station.&lt;/strong&gt;
                 &lt;br/&gt;&lt;br/&gt;
+              
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;01/05/2018&amp;nbsp; 4:30PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;font face="sans-serif"&gt;&lt;span style="font-size: 13.3333px;"&gt;The 3:52PM train from Penn due Long Beach at 4:44PM is operating 12 minutes late due to congestion caused by a disabled train at Jamaica Station.&lt;/span&gt;&lt;/font&gt;
+                &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>01/05/2018</Date>
     <Time> 4:24PM</Time>
@@ -781,11 +781,13 @@ the station.&lt;/strong&gt;
               
                     &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;01/05/2018&amp;nbsp; 4:25PM
+                    &amp;nbsp;Posted:&amp;nbsp;01/05/2018&amp;nbsp; 4:30PM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
                   &lt;div&gt;&lt;b&gt;&lt;u&gt;Eastbound:&lt;/u&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;The 4:06PM train from Huntington due Port &lt;span style="font-size: 10pt;"&gt;Jefferson at 4:53PM is 
 operating 11 minutes late due to an equipment problem prior to 
-departure.         &lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;u&gt;&lt;br&gt;&lt;/u&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;u&gt;Westbound:&lt;/u&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;The 3:03PM train from Huntington due Penn at 4:13PM is operating 27 minutes late due to a late train ahead.
+departure.     &lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style="font-size: 10pt;"&gt;The 3:27PM train from Penn due Huntington at 4:33PM is canceled at 
+Jamaica Station due to ongoing equipment trouble. Customers will be 
+accommodated by the following eastbound train.    &lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style="font-size: 10pt;"&gt;The 3:43PM train from Penn due Huntington at 4:49PM is operating 11 minutes late after accommodating customers from a disabled train at Jamaica. This train will make added stops at New Hyde Park, Merillon Ave, &amp; Carle Place. &lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;u&gt;&lt;br&gt;&lt;/u&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;u&gt;Westbound:&lt;/u&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;The 3:03PM train from Huntington due Penn at 4:13PM is operating 27 minutes late due to a late train ahead.
         .
                 &lt;br/&gt;&lt;br/&gt;
               </text>
