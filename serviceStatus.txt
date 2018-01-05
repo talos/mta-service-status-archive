@@ -1,10 +1,18 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>SERVICE CHANGE</status>
+    <text>
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;01/05/2018&amp;nbsp; 9:48AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;P&gt;Southbound [1] trains are running express from &lt;STRONG&gt;14 St&lt;/STRONG&gt; to&lt;STRONG&gt; Chambers St&lt;/STRONG&gt; because of FDNY activity at &lt;STRONG&gt;Houston St.&lt;/STRONG&gt;&lt;/P&gt;
+&lt;P&gt;Expect delays on [1], [2] and [3] trains.&lt;/P&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>01/05/2018</Date>
+    <Time> 9:48AM</Time>
   </line>
   <line>
     <name>456</name>
@@ -637,13 +645,13 @@
     <text>
                     &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;01/05/2018&amp;nbsp; 9:42AM
+                    &amp;nbsp;Posted:&amp;nbsp;01/05/2018&amp;nbsp; 9:49AM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  &lt;div style=""&gt;&lt;font face="Arial, Helvetica" size="2"&gt;&lt;b&gt;&lt;u&gt;WESTBOUND:&lt;/u&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=""&gt;&lt;font face="Arial, Helvetica" size="2"&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=""&gt;&lt;font face="Arial, Helvetica" size="2"&gt;The 8:54AM train from Far Rockaway due Atlantic Terminal at 9:50AM operating 12 minutes late due to winter weather conditions.&lt;/font&gt;&lt;/div&gt;&lt;div style=""&gt;&lt;font face="Arial, Helvetica" size="2"&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=""&gt;&lt;font face="Arial, Helvetica" size="2"&gt;&lt;b&gt;&lt;u&gt;EASTBOUND:&lt;/u&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=""&gt;&lt;font face="Arial, Helvetica" size="2"&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style="font-family: sans-serif; font-size: 10pt;"&gt;&lt;span style="font-size: small; font-family: Arial, Helvetica;"&gt;The 8:35AM train from Atlantic Terminal due Far Rockaway at 9:32AM is operating 15 minutes late due to winter weather conditions.&lt;/span&gt;&lt;/div&gt;
+                  &lt;div style="font-family: sans-serif; font-size: 10pt;"&gt;&lt;font face="Arial, Helvetica" size="2"&gt;&lt;b&gt;&lt;u&gt;WESTBOUND:&lt;/u&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style="font-family: sans-serif; font-size: 10pt;"&gt;&lt;font face="Arial, Helvetica" size="2"&gt;&lt;b&gt;&lt;u&gt;&lt;br&gt;&lt;/u&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=""&gt;&lt;font face="Arial, Helvetica" size="2" style=""&gt;The 9:36AM train from Far Rockaway due Atlantic Terminal at 10:33AM is operating 11 minutes late due to earlier equipment trouble.&lt;/font&gt;&lt;/div&gt;&lt;div style=""&gt;&lt;font face="Arial, Helvetica" size="2" style=""&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style="font-family: sans-serif; font-size: 10pt;"&gt;&lt;font face="Arial, Helvetica" size="2"&gt;The 8:54AM train from Far Rockaway due Atlantic Terminal at 9:50AM operating 12 minutes late due to winter weather conditions.&lt;/font&gt;&lt;/div&gt;&lt;div style="font-family: sans-serif; font-size: 10pt;"&gt;&lt;font face="Arial, Helvetica" size="2"&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style="font-family: sans-serif; font-size: 10pt;"&gt;&lt;font face="Arial, Helvetica" size="2"&gt;&lt;b&gt;&lt;u&gt;EASTBOUND:&lt;/u&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style="font-family: sans-serif; font-size: 10pt;"&gt;&lt;font face="Arial, Helvetica" size="2"&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style="font-family: sans-serif; font-size: 10pt;"&gt;&lt;span style="font-size: small; font-family: Arial, Helvetica;"&gt;The 8:35AM train from Atlantic Terminal due Far Rockaway at 9:32AM is operating 15 minutes late due to winter weather conditions.&lt;/span&gt;&lt;/div&gt;
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>01/05/2018</Date>
-    <Time> 9:42AM</Time>
+    <Time> 9:49AM</Time>
   </line>
   <line>
     <name>Hempstead</name>
