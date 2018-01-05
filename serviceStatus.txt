@@ -694,10 +694,17 @@
   </line>
   <line>
     <name>Port Jefferson</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>DELAYS</status>
+    <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;01/05/2018&amp;nbsp; 1:59PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;span style="font-family: Arial, Helvetica;"&gt;&lt;font size="2"&gt;The 1:10PM train from Port Jefferson due Huntington at 1:56PM is operating 10 minutes late due to winter weather conditions.&lt;/font&gt;&lt;/span&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>01/05/2018</Date>
+    <Time> 1:59PM</Time>
   </line>
   <line>
     <name>Port Washington</name>
@@ -814,8 +821,15 @@
   </line>
   <line>
     <name>Waterbury</name>
-    <status>SERVICE CHANGE</status>
+    <status>DELAYS</status>
     <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;01/05/2018&amp;nbsp; 1:59PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;body bgcolor='White' style='font-family:sans-serif;font-size:10pt;'&gt;&lt;/body&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              
                     &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
                     &amp;nbsp;Posted:&amp;nbsp;01/05/2018&amp;nbsp;12:17PM
@@ -824,7 +838,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>01/05/2018</Date>
-    <Time>12:17PM</Time>
+    <Time> 1:59PM</Time>
   </line>
   <line>
     <name>Pascack Valley</name>
