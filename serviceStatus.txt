@@ -825,10 +825,22 @@
   </line>
   <line>
     <name>Oyster Bay</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>DELAYS</status>
+    <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;01/06/2018&amp;nbsp; 5:36PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;div class="logbody"&gt;
+        &lt;div class="mainmsg"&gt;The 5:19PM train from Oyster Bay due Jamaica at 6:13PM is 
+operating 11 minutes late due to an equipment problem prior to 
+departure.
+        &lt;/div&gt;
+        &lt;div class="shortmsg"&gt;     &lt;/div&gt;&lt;/div&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>01/06/2018</Date>
+    <Time> 5:36PM</Time>
   </line>
   <line>
     <name>Port Jefferson</name>
