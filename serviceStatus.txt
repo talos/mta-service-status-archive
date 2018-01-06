@@ -17,14 +17,14 @@
     <text>
                     &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;01/06/2018&amp;nbsp; 4:35PM
+                    &amp;nbsp;Posted:&amp;nbsp;01/06/2018&amp;nbsp; 6:06PM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  &lt;body bgcolor='White' style='font-family:sans-serif;font-size:10pt;'&gt;&lt;P&gt;Northbound [4] and [5] trains are running local from &lt;STRONG&gt;Brooklyn Bridge-City Hall&lt;/STRONG&gt; to &lt;STRONG&gt;125 St&lt;/STRONG&gt; because of weather conditions.&lt;/P&gt;
-&lt;P&gt;Expect delays on [4], [5] and [6] trains.&lt;/P&gt;&lt;/body&gt;
+                  &lt;P&gt;Northbound [4] and [5] trains are running local from &lt;STRONG&gt;Brooklyn Bridge-City Hall&lt;/STRONG&gt; to &lt;STRONG&gt;125 St&lt;/STRONG&gt; because of weather conditions.&lt;/P&gt;
+&lt;P&gt;Expect delays on [4], [5] and [6] trains.&lt;/P&gt;
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>01/06/2018</Date>
-    <Time> 4:35PM</Time>
+    <Time> 6:06PM</Time>
   </line>
   <line>
     <name>7</name>
@@ -58,7 +58,7 @@
     <text>
                     &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;01/06/2018&amp;nbsp; 5:26PM
+                    &amp;nbsp;Posted:&amp;nbsp;01/06/2018&amp;nbsp; 6:07PM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
                   &lt;P&gt;There is no [J] and [M] train service between &lt;STRONG&gt;Marcy Av&lt;/STRONG&gt; and &lt;STRONG&gt;Broadway Junction&lt;/STRONG&gt; in both directions.&lt;/P&gt;
 &lt;P&gt;Jamaica bound [J] and [M] trains will end at &lt;STRONG&gt;Marcy Av.&lt;/STRONG&gt;&lt;/P&gt;
@@ -96,7 +96,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>01/06/2018</Date>
-    <Time> 5:26PM</Time>
+    <Time> 6:07PM</Time>
   </line>
   <line>
     <name>G</name>
@@ -118,7 +118,7 @@
     <text>
                     &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;01/06/2018&amp;nbsp; 5:26PM
+                    &amp;nbsp;Posted:&amp;nbsp;01/06/2018&amp;nbsp; 6:07PM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
                   &lt;P&gt;There is no [J] and [M] train service between &lt;STRONG&gt;Marcy Av&lt;/STRONG&gt; and &lt;STRONG&gt;Broadway Junction&lt;/STRONG&gt; in both directions.&lt;/P&gt;
 &lt;P&gt;Jamaica bound [J] and [M] trains will end at &lt;STRONG&gt;Marcy Av.&lt;/STRONG&gt;&lt;/P&gt;
@@ -134,7 +134,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>01/06/2018</Date>
-    <Time> 5:26PM</Time>
+    <Time> 6:07PM</Time>
   </line>
   <line>
     <name>L</name>
@@ -824,10 +824,20 @@ departure.
   </line>
   <line>
     <name>Port Jefferson</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>DELAYS</status>
+    <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;01/06/2018&amp;nbsp; 6:06PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;div class="logbody"&gt;
+        &lt;div class="mainmsg"&gt;The 5:51PM train from Penn due Huntington at 6:55PM is being held prior to departure due to an equipment problem.
+        &lt;/div&gt;
+        &lt;div class="shortmsg"&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>01/06/2018</Date>
+    <Time> 6:06PM</Time>
   </line>
   <line>
     <name>Port Washington</name>
