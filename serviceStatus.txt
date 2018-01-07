@@ -1,13 +1,13 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>SERVICE CHANGE</status>
+    <status>DELAYS</status>
     <text>
-                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;01/07/2018&amp;nbsp; 8:18AM
+                    &amp;nbsp;Posted:&amp;nbsp;01/07/2018&amp;nbsp; 8:41AM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  Southbound [2] and [3] trains are running local from &lt;b&gt;72 St &lt;/b&gt;to &lt;b&gt;Times Sq-42 St&lt;/b&gt; because of a train with mechanical problems at &lt;b&gt;50 St.&lt;/b&gt;
+                  [2] and [3] train service has resumed following an earlier train with mechanical problems at &lt;b&gt;50 St.&lt;/b&gt;
                 &lt;br/&gt;&lt;br/&gt;
               
                     &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
@@ -16,7 +16,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>01/07/2018</Date>
-    <Time> 8:18AM</Time>
+    <Time> 8:41AM</Time>
   </line>
   <line>
     <name>456</name>
@@ -68,13 +68,13 @@
   </line>
   <line>
     <name>BDFM</name>
-    <status>DELAYS</status>
+    <status>SERVICE CHANGE</status>
     <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;01/07/2018&amp;nbsp; 8:24AM
+                    &amp;nbsp;Posted:&amp;nbsp;01/07/2018&amp;nbsp; 8:39AM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  Northbound [F], [N], [Q] and [R] trains are running with delays because of signal problems at &lt;b&gt;Canal St.&lt;/b&gt;
+                  &lt;div&gt;Northbound [R] trains end at &lt;b&gt;Whitehall St-South Ferry. &lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;This service change is&lt;span style="font-size: 10pt;"&gt; because of signal problems at&lt;/span&gt;&lt;span style="font-size: 10pt;"&gt; &lt;/span&gt;&lt;b style="font-size: 10pt;"&gt;Canal St.&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;Expect delays on [F], [N], [Q] and [R] trains.&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;As an alternative, customers can take the [E], [4], [5] or [7] trains for service between Manhattan and Brooklyn.&lt;/div&gt;
                 &lt;br/&gt;&lt;br/&gt;
               
                     &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
@@ -103,7 +103,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>01/07/2018</Date>
-    <Time> 8:24AM</Time>
+    <Time> 8:39AM</Time>
   </line>
   <line>
     <name>G</name>
@@ -133,13 +133,13 @@
   </line>
   <line>
     <name>NQR</name>
-    <status>DELAYS</status>
+    <status>SERVICE CHANGE</status>
     <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;01/07/2018&amp;nbsp; 8:24AM
+                    &amp;nbsp;Posted:&amp;nbsp;01/07/2018&amp;nbsp; 8:39AM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  Northbound [F], [N], [Q] and [R] trains are running with delays because of signal problems at &lt;b&gt;Canal St.&lt;/b&gt;
+                  &lt;div&gt;Northbound [R] trains end at &lt;b&gt;Whitehall St-South Ferry. &lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;This service change is&lt;span style="font-size: 10pt;"&gt; because of signal problems at&lt;/span&gt;&lt;span style="font-size: 10pt;"&gt; &lt;/span&gt;&lt;b style="font-size: 10pt;"&gt;Canal St.&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;Expect delays on [F], [N], [Q] and [R] trains.&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;As an alternative, customers can take the [E], [4], [5] or [7] trains for service between Manhattan and Brooklyn.&lt;/div&gt;
                 &lt;br/&gt;&lt;br/&gt;
               
                     &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
@@ -148,7 +148,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>01/07/2018</Date>
-    <Time> 8:24AM</Time>
+    <Time> 8:39AM</Time>
   </line>
   <line>
     <name>S</name>
