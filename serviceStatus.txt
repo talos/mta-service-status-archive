@@ -1,18 +1,13 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>SERVICE CHANGE</status>
+    <status>DELAYS</status>
     <text>
-                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;01/07/2018&amp;nbsp; 3:57AM
+                    &amp;nbsp;Posted:&amp;nbsp;01/07/2018&amp;nbsp; 5:13AM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  &lt;P&gt;Northbound [2] trains are running express from &lt;STRONG&gt;72 St&lt;/STRONG&gt; to &lt;STRONG&gt;96 St.&lt;/STRONG&gt; &lt;/P&gt;
-&lt;P&gt;Northbound [3] trains are stopping along the [1] line from &lt;STRONG&gt;96 St&lt;/STRONG&gt; and end at &lt;STRONG&gt;137 St-City College.&lt;/STRONG&gt;&lt;/P&gt;
-&lt;P&gt;This service change is because of a rail condition at &lt;STRONG&gt;96 St.&lt;/STRONG&gt; &lt;/P&gt;
-&lt;P&gt;Travel alternative: For service between &lt;STRONG&gt;135 St&lt;/STRONG&gt; and &lt;STRONG&gt;Harlem-148 St&lt;/STRONG&gt; take &lt;STRONG&gt;M7&lt;/STRONG&gt; and &lt;STRONG&gt;M102&lt;/STRONG&gt; bus service stopping at nearby [3] train stations. &lt;/P&gt;
-&lt;P&gt;Expect delays in [1][2][3] train service in both directions. &lt;/P&gt;
-&lt;P&gt;Our crews are on site working to fix it. Stay tuned for updates. &lt;/P&gt;
+                  [1][2] and [3] train service has resumed following earlier switch problems at &lt;STRONG&gt;96 St.&lt;/STRONG&gt;
                 &lt;br/&gt;&lt;br/&gt;
               
                     &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
@@ -21,7 +16,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>01/07/2018</Date>
-    <Time> 3:57AM</Time>
+    <Time> 5:13AM</Time>
   </line>
   <line>
     <name>456</name>
@@ -94,7 +89,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>01/07/2018</Date>
-    <Time> 5:10AM</Time>
+    <Time> 5:12AM</Time>
   </line>
   <line>
     <name>G</name>
@@ -113,7 +108,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>01/07/2018</Date>
-    <Time> 5:10AM</Time>
+    <Time> 5:12AM</Time>
   </line>
   <line>
     <name>L</name>
