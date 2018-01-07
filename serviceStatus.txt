@@ -658,10 +658,17 @@ departure.         
   </line>
   <line>
     <name>Hempstead</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>DELAYS</status>
+    <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;01/07/2018&amp;nbsp; 5:25PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  The 4:45PM train from Atlantic Terminal due Hempstead at 5:37PM is operating 10 minutes late due to a late connection.         
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>01/07/2018</Date>
+    <Time> 5:25PM</Time>
   </line>
   <line>
     <name>Long Beach</name>
