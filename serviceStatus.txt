@@ -1,26 +1,30 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>DELAYS</status>
+    <status>SERVICE CHANGE</status>
     <text>
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;01/08/2018&amp;nbsp; 6:20AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;P&gt;Northbound [2] trains are stopping along the [5] line from &lt;STRONG&gt;Nevins St&lt;/STRONG&gt; to &lt;STRONG&gt;149 St-Grand Concourse&lt;/STRONG&gt;. &lt;/P&gt;
+&lt;P&gt;There is no [3] train service between&lt;STRONG&gt; Atlantic Av-Barclays Ctr&lt;/STRONG&gt; and &lt;STRONG&gt;Chambers St&lt;/STRONG&gt; in both directions.&lt;/P&gt;
+&lt;P&gt;Some southbound [2] and [3] trains end at &lt;STRONG&gt;Chambers St&lt;/STRONG&gt;, &lt;STRONG&gt;Wall St&lt;/STRONG&gt; or &lt;STRONG&gt;South Ferry&lt;/STRONG&gt;.&lt;/P&gt;
+&lt;P&gt;Some northbound [3] trains are running express from &lt;STRONG&gt;Franklin Av&lt;/STRONG&gt; to &lt;STRONG&gt;Atlantic Av-Barclays Ctr&lt;/STRONG&gt;.&lt;/P&gt;
+&lt;P&gt;Some northbound [4] and [5] trains are running local from &lt;STRONG&gt;Franklin Av&lt;/STRONG&gt; to &lt;STRONG&gt;Atlantic Av-Barclays Ctr&lt;/STRONG&gt;.&lt;/P&gt;
+&lt;P&gt;These service changes are because of rail condition at &lt;STRONG&gt;Clark St.&lt;/STRONG&gt;&lt;/P&gt;
+&lt;P&gt;Expect delays in [2] [3] [4] and [5] train service.&lt;/P&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              
                     &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
                     &amp;nbsp;Posted:&amp;nbsp;01/08/2018&amp;nbsp; 6:17AM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
                   [3] train service has resumed following earlier weather conditions.
                 &lt;br/&gt;&lt;br/&gt;
-              
-                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;01/08/2018&amp;nbsp; 6:01AM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  &lt;P&gt;Northbound [2] trains are stopping along the [5] line from &lt;STRONG&gt;Nevins St&lt;/STRONG&gt; to &lt;STRONG&gt;149 St-Grand Concourse&lt;/STRONG&gt;. &lt;/P&gt;
-&lt;P&gt;This service changes because of rail condition at &lt;STRONG&gt;Clark St.&lt;/STRONG&gt;&lt;/P&gt;
-&lt;P&gt;Expect delays in [2][3][4][5] train service. &lt;/P&gt;
-                &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>01/08/2018</Date>
-    <Time> 6:17AM</Time>
+    <Time> 6:20AM</Time>
   </line>
   <line>
     <name>456</name>
@@ -28,11 +32,15 @@
     <text>
                     &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;01/08/2018&amp;nbsp; 6:01AM
+                    &amp;nbsp;Posted:&amp;nbsp;01/08/2018&amp;nbsp; 6:20AM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  &lt;P&gt;Northbound [2] trains are stopping along the [5] line from &lt;STRONG&gt;Nevins St&lt;/STRONG&gt; to &lt;STRONG&gt;149 St-Grand Concourse&lt;/STRONG&gt;. &lt;/P&gt;
-&lt;P&gt;This service changes because of rail condition at &lt;STRONG&gt;Clark St.&lt;/STRONG&gt;&lt;/P&gt;
-&lt;P&gt;Expect delays in [2][3][4][5] train service. &lt;/P&gt;
+                  &lt;P&gt;Northbound [2] trains are stopping along the [5] line from &lt;STRONG&gt;Nevins St&lt;/STRONG&gt; to &lt;STRONG&gt;149 St-Grand Concourse&lt;/STRONG&gt;. &lt;/P&gt;
+&lt;P&gt;There is no [3] train service between&lt;STRONG&gt; Atlantic Av-Barclays Ctr&lt;/STRONG&gt; and &lt;STRONG&gt;Chambers St&lt;/STRONG&gt; in both directions.&lt;/P&gt;
+&lt;P&gt;Some southbound [2] and [3] trains end at &lt;STRONG&gt;Chambers St&lt;/STRONG&gt;, &lt;STRONG&gt;Wall St&lt;/STRONG&gt; or &lt;STRONG&gt;South Ferry&lt;/STRONG&gt;.&lt;/P&gt;
+&lt;P&gt;Some northbound [3] trains are running express from &lt;STRONG&gt;Franklin Av&lt;/STRONG&gt; to &lt;STRONG&gt;Atlantic Av-Barclays Ctr&lt;/STRONG&gt;.&lt;/P&gt;
+&lt;P&gt;Some northbound [4] and [5] trains are running local from &lt;STRONG&gt;Franklin Av&lt;/STRONG&gt; to &lt;STRONG&gt;Atlantic Av-Barclays Ctr&lt;/STRONG&gt;.&lt;/P&gt;
+&lt;P&gt;These service changes are because of rail condition at &lt;STRONG&gt;Clark St.&lt;/STRONG&gt;&lt;/P&gt;
+&lt;P&gt;Expect delays in [2] [3] [4] and [5] train service.&lt;/P&gt;
                 &lt;br/&gt;&lt;br/&gt;
               
                     &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
@@ -44,7 +52,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>01/08/2018</Date>
-    <Time> 6:01AM</Time>
+    <Time> 6:20AM</Time>
   </line>
   <line>
     <name>7</name>
@@ -115,14 +123,14 @@
     <text>
                     &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;01/08/2018&amp;nbsp; 5:29AM
+                    &amp;nbsp;Posted:&amp;nbsp;01/08/2018&amp;nbsp; 6:21AM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
                   &lt;P&gt;Southbound [N] trains are running local from &lt;STRONG&gt;Atlantic Av-Barclays Center&lt;/STRONG&gt; to &lt;STRONG&gt;59 St(Bklyn)&lt;/STRONG&gt; because of a water condition at &lt;STRONG&gt;59 St(Bklyn).&lt;/STRONG&gt; &lt;/P&gt;
 &lt;P&gt;Expect delays in [N][R] train service. &lt;/P&gt;
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>01/08/2018</Date>
-    <Time> 5:29AM</Time>
+    <Time> 6:21AM</Time>
   </line>
   <line>
     <name>S</name>
@@ -539,9 +547,9 @@
               
                     &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;01/08/2018&amp;nbsp; 6:11AM
+                    &amp;nbsp;Posted:&amp;nbsp;01/08/2018&amp;nbsp; 6:20AM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  The 5:29AM train from Ronkonkoma due Penn at 6:38AM is operating 11 minutes late due to an earlier unauthorized vehicle on the tracks.&lt;br&gt;&lt;br&gt;The 4:58AM train from Ronkonkoma due Penn at 6:19AM is operating 19 
+                  The 5:42AM train from Ronkonkoma due Penn at 6:58AM is operating 11 minutes late due to an earlier unauthorized vehicle on the tracks.&lt;br&gt;&lt;br&gt;The 5:29AM train from Ronkonkoma due Penn at 6:38AM is operating 11 minutes late due to an earlier unauthorized vehicle on the tracks.&lt;br&gt;&lt;br&gt;The 4:58AM train from Ronkonkoma due Penn at 6:19AM is operating 19 
 minutes late following the removal of an unauthorized vehicle on the 
 tracks near Wyandanch.         
                 &lt;br/&gt;&lt;br/&gt;
