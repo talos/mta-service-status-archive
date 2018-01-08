@@ -1,10 +1,17 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>SERVICE CHANGE</status>
+    <text>
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;01/08/2018&amp;nbsp; 4:38PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  [1] trains are bypassing &lt;B&gt;181 St&lt;/B&gt; in both directions because of a water condition at &lt;B&gt;181 St.&lt;/B&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>01/08/2018</Date>
+    <Time> 4:38PM</Time>
   </line>
   <line>
     <name>456</name>
@@ -22,17 +29,10 @@
   </line>
   <line>
     <name>ACE</name>
-    <status>SERVICE CHANGE</status>
-    <text>
-                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;01/08/2018&amp;nbsp; 4:34PM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  [A] trains are bypassing &lt;b&gt;181 St&lt;/b&gt; in both directions because of a water condition at &lt;b&gt;181 St.&lt;/b&gt;
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>01/08/2018</Date>
-    <Time> 4:34PM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>BDFM</name>
@@ -267,8 +267,18 @@
   </line>
   <line>
     <name>Q1 - Q113</name>
-    <status>SERVICE CHANGE</status>
+    <status>DELAYS</status>
     <text>
+                  &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                  &lt;span class="DateStyle"&gt;
+                  &amp;nbsp;Posted:&amp;nbsp;01/08/2018&amp;nbsp; 4:38PM
+                  &lt;/span&gt;
+                  &lt;br/&gt;
+                  &lt;br/&gt;
+                &lt;p&gt;&lt;strong&gt;Q58 &lt;/strong&gt;and &lt;strong&gt;Q88&lt;/strong&gt; buses are running with delays in both directions because of traffic conditions on the Long Island Expressway from College Point Blvd to 108 St.&lt;/p&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
                   &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
                   &lt;span class="DateStyle"&gt;
                   &amp;nbsp;Posted:&amp;nbsp;01/08/2018&amp;nbsp; 4:10PM
@@ -364,7 +374,7 @@
               &lt;br/&gt;
             </text>
     <Date>01/08/2018</Date>
-    <Time> 4:10PM</Time>
+    <Time> 4:38PM</Time>
   </line>
   <line>
     <name>QM1 - QM44</name>
@@ -682,29 +692,22 @@
   </line>
   <line>
     <name>Oyster Bay</name>
-    <status>SERVICE CHANGE</status>
+    <status>DELAYS</status>
     <text>
-                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;01/08/2018&amp;nbsp; 3:48PM
+                    &amp;nbsp;Posted:&amp;nbsp;01/08/2018&amp;nbsp; 4:37PM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  &lt;strong&gt;Service is restored on the Oyster Bay, Huntington/Port Jefferson, &amp; Ronkonkoma branches. Earlier, service was suspended due to an unauthorized person on the tracks being struck by a train at Mineola Station. Trains are stopping at their regularly scheduled station stops at this time. Customers are advised to anticipate possible delays and cancellations during the PM Rush.&lt;/strong&gt;
+                  The 4:20PM train from Oyster Bay due Jamaica at 5:15PM is being held prior to departure due to late-arriving equipment.
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>01/08/2018</Date>
-    <Time> 3:48PM</Time>
+    <Time> 4:37PM</Time>
   </line>
   <line>
     <name>Port Jefferson</name>
-    <status>SERVICE CHANGE</status>
+    <status>DELAYS</status>
     <text>
-                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;01/08/2018&amp;nbsp; 3:48PM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  &lt;strong&gt;Service is restored on the Oyster Bay, Huntington/Port Jefferson, &amp; Ronkonkoma branches. Earlier, service was suspended due to an unauthorized person on the tracks being struck by a train at Mineola Station. Trains are stopping at their regularly scheduled station stops at this time. Customers are advised to anticipate possible delays and cancellations during the PM Rush.&lt;/strong&gt;
-                &lt;br/&gt;&lt;br/&gt;
-              
                     &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
                     &amp;nbsp;Posted:&amp;nbsp;01/08/2018&amp;nbsp; 4:33PM
@@ -713,7 +716,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>01/08/2018</Date>
-    <Time> 3:48PM</Time>
+    <Time> 4:33PM</Time>
   </line>
   <line>
     <name>Port Washington</name>
@@ -726,13 +729,6 @@
     <name>Ronkonkoma</name>
     <status>SERVICE CHANGE</status>
     <text>
-                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;01/08/2018&amp;nbsp; 3:48PM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  &lt;strong&gt;Service is restored on the Oyster Bay, Huntington/Port Jefferson, &amp; Ronkonkoma branches. Earlier, service was suspended due to an unauthorized person on the tracks being struck by a train at Mineola Station. Trains are stopping at their regularly scheduled station stops at this time. Customers are advised to anticipate possible delays and cancellations during the PM Rush.&lt;/strong&gt;
-                &lt;br/&gt;&lt;br/&gt;
-              
                     &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
                     &amp;nbsp;Posted:&amp;nbsp;01/08/2018&amp;nbsp;11:13AM
@@ -748,7 +744,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>01/08/2018</Date>
-    <Time> 3:48PM</Time>
+    <Time>11:13AM</Time>
   </line>
   <line>
     <name>West Hempstead</name>
