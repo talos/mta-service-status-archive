@@ -751,10 +751,17 @@
   </line>
   <line>
     <name>Oyster Bay</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>DELAYS</status>
+    <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;01/09/2018&amp;nbsp; 5:53PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  The 4:44PM train from Long Island City due Oyster Bay at 6:15PM is operating 11 minutes after experiencing earlier equipment trouble.
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>01/09/2018</Date>
+    <Time> 5:53PM</Time>
   </line>
   <line>
     <name>Port Jefferson</name>
@@ -827,17 +834,10 @@ to Huntington and all other points east.
   </line>
   <line>
     <name>New Haven</name>
-    <status>SERVICE CHANGE</status>
-    <text>
-                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;01/09/2018&amp;nbsp; 5:11PM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  &lt;span style="font-size: 13.3333px;"&gt;New Haven Line Customers: the 4:47 PM train from Stamford to New haven has been cancelled due to mechanical difficulties. The next train will be departing Stamford at 4:50 PM making stops to New Haven. Please listen for announcements at your station.&lt;/span&gt;
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>01/09/2018</Date>
-    <Time> 5:11PM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>New Canaan</name>
