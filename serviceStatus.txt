@@ -1,24 +1,37 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>DELAYS</status>
+    <status>SERVICE CHANGE</status>
     <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;01/09/2018&amp;nbsp; 6:22AM
+                    &amp;nbsp;Posted:&amp;nbsp;01/09/2018&amp;nbsp; 6:30AM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  Northbound [2] and [3] trains are running with delays because of an investigation at &lt;STRONG&gt;Central Park North (110 St).&lt;/STRONG&gt;
+                  &lt;P&gt;[2] trains stopping along the [5] line from &lt;STRONG&gt;Nevins St&lt;/STRONG&gt; to &lt;STRONG&gt;149 St-Grand Concourse&lt;/STRONG&gt; in both directions. &lt;/P&gt;
+&lt;P&gt;[3] trains are running with delays in both directions.&lt;/P&gt;
+&lt;P&gt;These service changes are because of a customer injury at &lt;STRONG&gt;Central Park North (110 St).&lt;/STRONG&gt;&lt;/P&gt;
+&lt;P&gt;Expect delays on [2], [3], [4] and [5] trains.&lt;/P&gt;
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>01/09/2018</Date>
-    <Time> 6:22AM</Time>
+    <Time> 6:30AM</Time>
   </line>
   <line>
     <name>456</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>SERVICE CHANGE</status>
+    <text>
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;01/09/2018&amp;nbsp; 6:30AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;P&gt;[2] trains stopping along the [5] line from &lt;STRONG&gt;Nevins St&lt;/STRONG&gt; to &lt;STRONG&gt;149 St-Grand Concourse&lt;/STRONG&gt; in both directions. &lt;/P&gt;
+&lt;P&gt;[3] trains are running with delays in both directions.&lt;/P&gt;
+&lt;P&gt;These service changes are because of a customer injury at &lt;STRONG&gt;Central Park North (110 St).&lt;/STRONG&gt;&lt;/P&gt;
+&lt;P&gt;Expect delays on [2], [3], [4] and [5] trains.&lt;/P&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>01/09/2018</Date>
+    <Time> 6:30AM</Time>
   </line>
   <line>
     <name>7</name>
