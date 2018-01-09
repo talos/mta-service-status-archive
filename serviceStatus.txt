@@ -1,8 +1,17 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>DELAYS</status>
+    <status>SERVICE CHANGE</status>
     <text>
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;01/09/2018&amp;nbsp; 7:12AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;P&gt;Southbound [4] and [5] trains are running local from &lt;STRONG&gt;Atlantic Av-Barclays Ctr&lt;/STRONG&gt; to &lt;STRONG&gt;Franklin Av&lt;/STRONG&gt; because of ice on the express tracks at &lt;STRONG&gt;Bergen St&lt;/STRONG&gt;.&lt;/P&gt;
+&lt;P&gt;Expect delays on [2], [3], [4] and [5] trains.&lt;/P&gt;
+&lt;P&gt; &lt;/P&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              
                     &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
                     &amp;nbsp;Posted:&amp;nbsp;01/09/2018&amp;nbsp; 7:04AM
@@ -11,12 +20,21 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>01/09/2018</Date>
-    <Time> 7:04AM</Time>
+    <Time> 7:12AM</Time>
   </line>
   <line>
     <name>456</name>
-    <status>DELAYS</status>
+    <status>SERVICE CHANGE</status>
     <text>
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;01/09/2018&amp;nbsp; 7:12AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;P&gt;Southbound [4] and [5] trains are running local from &lt;STRONG&gt;Atlantic Av-Barclays Ctr&lt;/STRONG&gt; to &lt;STRONG&gt;Franklin Av&lt;/STRONG&gt; because of ice on the express tracks at &lt;STRONG&gt;Bergen St&lt;/STRONG&gt;.&lt;/P&gt;
+&lt;P&gt;Expect delays on [2], [3], [4] and [5] trains.&lt;/P&gt;
+&lt;P&gt; &lt;/P&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              
                     &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
                     &amp;nbsp;Posted:&amp;nbsp;01/09/2018&amp;nbsp; 7:04AM
@@ -25,7 +43,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>01/09/2018</Date>
-    <Time> 7:04AM</Time>
+    <Time> 7:12AM</Time>
   </line>
   <line>
     <name>7</name>
@@ -116,7 +134,7 @@
               &lt;br/&gt;
             </text>
     <Date>01/09/2018</Date>
-    <Time> 7:10AM</Time>
+    <Time> 7:12AM</Time>
   </line>
   <line>
     <name>B100 - B103</name>
@@ -228,7 +246,7 @@
               &lt;br/&gt;
             </text>
     <Date>01/09/2018</Date>
-    <Time> 7:10AM</Time>
+    <Time> 7:12AM</Time>
   </line>
   <line>
     <name>QM1 - QM44</name>
@@ -253,7 +271,7 @@
               &lt;br/&gt;
             </text>
     <Date>01/09/2018</Date>
-    <Time> 7:10AM</Time>
+    <Time> 7:12AM</Time>
   </line>
   <line>
     <name>S40 - S98</name>
