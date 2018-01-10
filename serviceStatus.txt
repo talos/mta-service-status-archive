@@ -1,10 +1,17 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>DELAYS</status>
+    <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;01/09/2018&amp;nbsp; 8:39PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  Northbound [1] trains are running with delays because of signal problems at &lt;STRONG&gt;225 St&lt;/STRONG&gt;.
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>01/09/2018</Date>
+    <Time> 8:39PM</Time>
   </line>
   <line>
     <name>456</name>
@@ -130,17 +137,6 @@
               &lt;br/&gt;
               &lt;br/&gt;
             
-                  &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                  &lt;span class="DateStyle"&gt;
-                  &amp;nbsp;Posted:&amp;nbsp;01/09/2018&amp;nbsp; 8:24PM
-                  &lt;/span&gt;
-                  &lt;br/&gt;
-                  &lt;br/&gt;
-                &lt;b style="font-size: 10pt; font-family: sans-serif;"&gt;&lt;span style="font-size:11.0pt;font-family:"Arial","sans-serif";"&gt;B25, B26, B37, B38,
-B41, B45, B52, B54, B57, B61, B62, B63, B65, B67&lt;/span&gt;&lt;/b&gt;&lt;span style="font-size: 11pt; font-family: Arial, sans-serif;"&gt; &lt;/span&gt;&lt;font face="Arial" style="" size="2"&gt;and&lt;/font&gt;&lt;span style="font-size: 11pt; font-family: Arial, sans-serif;"&gt; &lt;b&gt;B103 &lt;/b&gt;&lt;/span&gt;&lt;font face="sans-serif" style="font-size: 10pt;"&gt;bus service has resumed following earlier traffic conditions in the downtown Brooklyn area.&lt;/font&gt;
-              &lt;br/&gt;
-              &lt;br/&gt;
-            
                   &lt;span class="TitlePlannedWork" &gt;Planned Detour&lt;/span&gt;
                   &lt;br/&gt;
                 &lt;a class="plannedWorkDetailLink" onclick=ShowHide(140601);&gt;&lt;b&gt;B24&lt;/b&gt; - &lt;b&gt;Northbound buses may experience delays due to construction on Greenpoint Av at West St  &lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 140601 class="plannedWorkDetail" &gt;&lt;/b&gt;Until further notice&lt;br&gt;&lt;br&gt;&amp;bull; &lt;/font&gt;Please allow additional travel time.&lt;br&gt;&lt;b&gt;          &lt;/b&gt;&lt;a href=http://bustime.mta.info/#b24 target=_blank&gt;&lt;img height=30px src=http://web.mta.info/nyct/images/Bus_Time_logo.png&gt;&lt;/a&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
@@ -152,21 +148,10 @@ B41, B45, B52, B54, B57, B61, B62, B63, B65, B67&lt;/span&gt;&lt;/b&gt;&lt;span 
   </line>
   <line>
     <name>B100 - B103</name>
-    <status>DELAYS</status>
-    <text>
-                  &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                  &lt;span class="DateStyle"&gt;
-                  &amp;nbsp;Posted:&amp;nbsp;01/09/2018&amp;nbsp; 8:24PM
-                  &lt;/span&gt;
-                  &lt;br/&gt;
-                  &lt;br/&gt;
-                &lt;b style="font-size: 10pt; font-family: sans-serif;"&gt;&lt;span style="font-size:11.0pt;font-family:"Arial","sans-serif";"&gt;B25, B26, B37, B38,
-B41, B45, B52, B54, B57, B61, B62, B63, B65, B67&lt;/span&gt;&lt;/b&gt;&lt;span style="font-size: 11pt; font-family: Arial, sans-serif;"&gt; &lt;/span&gt;&lt;font face="Arial" style="" size="2"&gt;and&lt;/font&gt;&lt;span style="font-size: 11pt; font-family: Arial, sans-serif;"&gt; &lt;b&gt;B103 &lt;/b&gt;&lt;/span&gt;&lt;font face="sans-serif" style="font-size: 10pt;"&gt;bus service has resumed following earlier traffic conditions in the downtown Brooklyn area.&lt;/font&gt;
-              &lt;br/&gt;
-              &lt;br/&gt;
-            </text>
-    <Date>01/09/2018</Date>
-    <Time> 8:24PM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>BM1 - BM5</name>
