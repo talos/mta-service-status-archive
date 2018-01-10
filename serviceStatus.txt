@@ -15,10 +15,17 @@
   </line>
   <line>
     <name>456</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>SERVICE CHANGE</status>
+    <text>
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;01/09/2018&amp;nbsp; 8:42PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  Southbound [4] trains are running local from &lt;STRONG&gt;Grand Central-42 St&lt;/STRONG&gt; to &lt;STRONG&gt;Brooklyn Bridge-City Hal&lt;/STRONG&gt;l because of a sick passenger at &lt;STRONG&gt;14 St-Union Sq&lt;/STRONG&gt;.
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>01/09/2018</Date>
+    <Time> 8:42PM</Time>
   </line>
   <line>
     <name>7</name>
@@ -129,11 +136,11 @@
     <text>
                   &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                   &lt;span class="DateStyle"&gt;
-                  &amp;nbsp;Posted:&amp;nbsp;01/09/2018&amp;nbsp; 8:28PM
+                  &amp;nbsp;Posted:&amp;nbsp;01/09/2018&amp;nbsp; 8:42PM
                   &lt;/span&gt;
                   &lt;br/&gt;
                   &lt;br/&gt;
-                &lt;B&gt;B35 &lt;/B&gt;and &lt;B&gt;B35-LTD&lt;/B&gt; buses are running with delays in both directions because of traffic conditions on Church Av between McDonald Av and East New York Av.
+                &lt;b&gt;B35&lt;/b&gt; and&lt;b&gt; B35-LTD&lt;/b&gt; bus service has resumed following earlier traffic conditions on Church Av between McDonald Av and East New York Av.
               &lt;br/&gt;
               &lt;br/&gt;
             
@@ -144,7 +151,7 @@
               &lt;br/&gt;
             </text>
     <Date>01/09/2018</Date>
-    <Time> 8:28PM</Time>
+    <Time> 8:42PM</Time>
   </line>
   <line>
     <name>B100 - B103</name>
