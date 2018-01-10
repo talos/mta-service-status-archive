@@ -181,8 +181,20 @@
 </subway><bus>
   <line>
     <name>B1 - B84</name>
-    <status>DELAYS</status>
+    <status>SERVICE CHANGE</status>
     <text>
+                  &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                  &lt;span class="DateStyle"&gt;
+                  &amp;nbsp;Posted:&amp;nbsp;01/10/2018&amp;nbsp;11:00AM
+                  &lt;/span&gt;
+                  &lt;br/&gt;
+                  &lt;br/&gt;
+                &lt;P&gt;Southbound &lt;STRONG&gt;B62 &lt;/STRONG&gt;buses are detoured because of Con Ed work on Driggs Av between North 7 and North 6 St. &lt;/P&gt;
+&lt;P&gt;Detour is as follows: &lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;Southbound&lt;/STRONG&gt;: Via Driggs Av, left on North 9 St, right on Roebling St, right on Metropolitan Av, left on Driggs Av and regular route. &lt;/P&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
                   &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                   &lt;span class="DateStyle"&gt;
                   &amp;nbsp;Posted:&amp;nbsp;01/10/2018&amp;nbsp;10:32AM
@@ -210,7 +222,7 @@
               &lt;br/&gt;
             </text>
     <Date>01/10/2018</Date>
-    <Time>10:32AM</Time>
+    <Time>11:00AM</Time>
   </line>
   <line>
     <name>B100 - B103</name>
