@@ -78,17 +78,10 @@
   </line>
   <line>
     <name>NQR</name>
-    <status>DELAYS</status>
-    <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;01/11/2018&amp;nbsp; 4:36PM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  [N] train service has resumed following an earlier incident involving a sick passenger at &lt;b&gt;Atlantic Av.&lt;/b&gt;
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>01/11/2018</Date>
-    <Time> 4:36PM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>S</name>
@@ -276,8 +269,18 @@
   </line>
   <line>
     <name>M1 - M116</name>
-    <status>SERVICE CHANGE</status>
+    <status>DELAYS</status>
     <text>
+                  &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                  &lt;span class="DateStyle"&gt;
+                  &amp;nbsp;Posted:&amp;nbsp;01/11/2018&amp;nbsp; 5:17PM
+                  &lt;/span&gt;
+                  &lt;br/&gt;
+                  &lt;br/&gt;
+                &lt;P&gt;&lt;STRONG&gt;M9 &lt;/STRONG&gt;and&lt;STRONG&gt; M22&lt;/STRONG&gt; buses are running with delays in both directions due to traffic conditions near the Brooklyn Bridge. &lt;/P&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
                   &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
                   &lt;span class="DateStyle"&gt;
                   &amp;nbsp;Posted:&amp;nbsp;01/11/2018&amp;nbsp; 4:16PM
@@ -317,7 +320,7 @@
               &lt;br/&gt;
             </text>
     <Date>01/11/2018</Date>
-    <Time> 4:16PM</Time>
+    <Time> 5:17PM</Time>
   </line>
   <line>
     <name>Q1 - Q113</name>
@@ -602,13 +605,13 @@
     <text>
                     &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;01/11/2018&amp;nbsp; 4:59PM
+                    &amp;nbsp;Posted:&amp;nbsp;01/11/2018&amp;nbsp; 5:16PM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  The 4:19PM train from Penn due Port Jefferson at 6:05PM is operating 10 minutes late due to debris on the tracks near New Hyde Park.
+                  &lt;p&gt;The 4:19PM train from Penn due Port Jefferson at 6:05PM is operating 10 minutes late due to debris on the tracks near New Hyde Park.&lt;/p&gt;&lt;p&gt;The 4:31PM train from Penn due Huntington at 5:31PM is operating 10 minutes late due to debris on the tracks near New Hyde Park.&lt;/p&gt;
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>01/11/2018</Date>
-    <Time> 4:59PM</Time>
+    <Time> 5:16PM</Time>
   </line>
   <line>
     <name>Port Washington</name>
@@ -619,10 +622,17 @@
   </line>
   <line>
     <name>Ronkonkoma</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>DELAYS</status>
+    <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;01/11/2018&amp;nbsp; 5:17PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  The 4:24PM train from Penn due Ronkonkoma at 5:44PM is operating 13 minutes late due to debris on the tracks near New Hyde Park.         
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>01/11/2018</Date>
+    <Time> 5:17PM</Time>
   </line>
   <line>
     <name>West Hempstead</name>
