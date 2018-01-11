@@ -1,17 +1,10 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>DELAYS</status>
-    <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;01/11/2018&amp;nbsp; 5:39PM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  [2] train service has resumed following earlier track maintenance at &lt;STRONG&gt;219 St.&lt;/STRONG&gt;
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>01/11/2018</Date>
-    <Time> 5:39PM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>456</name>
@@ -255,8 +248,21 @@
   </line>
   <line>
     <name>M1 - M116</name>
-    <status>DELAYS</status>
+    <status>SERVICE CHANGE</status>
     <text>
+                  &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                  &lt;span class="DateStyle"&gt;
+                  &amp;nbsp;Posted:&amp;nbsp;01/11/2018&amp;nbsp; 5:44PM
+                  &lt;/span&gt;
+                  &lt;br/&gt;
+                  &lt;br/&gt;
+                &lt;P&gt;&lt;STRONG&gt;M14A &lt;/STRONG&gt;westbound buses are detoured because of a non MTA accident on Essex St and Grand St. &lt;/P&gt;
+&lt;P&gt;Detour is as follows:&lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;M14A Westbound:&lt;/STRONG&gt; Via Grand St, right on Allen St, right on Broome St, left on Essex then regular route.&lt;/P&gt;
+&lt;P&gt;Corresponding stops will be made.&lt;/P&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
                   &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                   &lt;span class="DateStyle"&gt;
                   &amp;nbsp;Posted:&amp;nbsp;01/11/2018&amp;nbsp; 5:19PM
@@ -336,7 +342,7 @@
               &lt;br/&gt;
             </text>
     <Date>01/11/2018</Date>
-    <Time> 5:19PM</Time>
+    <Time> 5:44PM</Time>
   </line>
   <line>
     <name>Q1 - Q113</name>
@@ -619,17 +625,10 @@
   </line>
   <line>
     <name>Montauk</name>
-    <status>DELAYS</status>
-    <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;01/11/2018&amp;nbsp; 5:40PM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  &lt;div&gt;The 4:28PM train from Long Island City due Patchogue at 6:14PM is operating 10 minutes late due to signal trouble near Westbury.         &lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;The 2:51PM train from Montauk due Jamaica at 5:50PM is operating 10 minutes late at this time.
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>01/11/2018</Date>
-    <Time> 5:40PM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>Oyster Bay</name>
@@ -744,13 +743,20 @@ accommodated by the 6:07PM train from Atlantic Terminal due Babylon at
     <text>
                     &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;01/11/2018&amp;nbsp; 5:46PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  Danbury Branch Line Southbound Service is currently experiencing delays of 15 to 20 minutes due to an earlier train with mechanical difficulties and late connecting trains.. Please listen for announcements at your station.
+                &lt;br/&gt;&lt;br/&gt;
+              
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
                     &amp;nbsp;Posted:&amp;nbsp;01/11/2018&amp;nbsp; 5:25PM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
                   Substitute Bus Service will be provided on the Danbury Branch for the 5:30 PM train departing South Norwalk making all stops to Danbury.  Bus service is operating approximately 10 minutes late. Please listen for announcements at your station.
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>01/11/2018</Date>
-    <Time> 5:25PM</Time>
+    <Time> 5:46PM</Time>
   </line>
   <line>
     <name>Waterbury</name>
