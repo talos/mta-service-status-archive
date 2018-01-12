@@ -1,29 +1,22 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>DELAYS</status>
+    <status>SERVICE CHANGE</status>
     <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;01/12/2018&amp;nbsp; 3:25PM
+                    &amp;nbsp;Posted:&amp;nbsp;01/12/2018&amp;nbsp; 3:27PM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  Northbound [2] and [5] trains are running express from &lt;STRONG&gt;3 Av-149 St&lt;/STRONG&gt; to &lt;STRONG&gt;E 180 St&lt;/STRONG&gt; because of signal problems at &lt;STRONG&gt;Freeman St.&lt;/STRONG&gt;
+                  Northbound [2] trains are running express from&lt;STRONG&gt; 3 Av-149 St&lt;/STRONG&gt; to &lt;STRONG&gt;E 180 St&lt;/STRONG&gt; because of signal problems at &lt;STRONG&gt;Freeman St&lt;/STRONG&gt; and &lt;STRONG&gt;E 180 St&lt;/STRONG&gt;.
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>01/12/2018</Date>
-    <Time> 3:25PM</Time>
+    <Time> 3:27PM</Time>
   </line>
   <line>
     <name>456</name>
-    <status>DELAYS</status>
+    <status>SERVICE CHANGE</status>
     <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;01/12/2018&amp;nbsp; 3:25PM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  Northbound [2] and [5] trains are running express from &lt;STRONG&gt;3 Av-149 St&lt;/STRONG&gt; to &lt;STRONG&gt;E 180 St&lt;/STRONG&gt; because of signal problems at &lt;STRONG&gt;Freeman St.&lt;/STRONG&gt;
-                &lt;br/&gt;&lt;br/&gt;
-              
                     &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
                     &amp;nbsp;Posted:&amp;nbsp;01/12/2018&amp;nbsp; 3:07PM
@@ -39,7 +32,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>01/12/2018</Date>
-    <Time> 3:25PM</Time>
+    <Time> 3:07PM</Time>
   </line>
   <line>
     <name>7</name>
@@ -583,15 +576,15 @@
     <text>
                     &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;01/12/2018&amp;nbsp; 3:22PM
+                    &amp;nbsp;Posted:&amp;nbsp;01/12/2018&amp;nbsp; 3:28PM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  The 3:03PM train from Penn due Babylon at 4:15PM is cancelled due to an 
+                  &lt;body bgcolor='White' style='font-family:sans-serif;font-size:10pt;'&gt;The 3:03PM train from Penn due Babylon at 4:15PM is cancelled due to an 
 Amtrak signal problem.  Customers will be accommodated by the 3:21PM 
-train from Penn due Babylon at 4:24PM.          
+train from Penn due Babylon at 4:24PM.          &lt;/body&gt;
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>01/12/2018</Date>
-    <Time> 3:22PM</Time>
+    <Time> 3:28PM</Time>
   </line>
   <line>
     <name>City Terminal Zone</name>
@@ -669,15 +662,15 @@ train from Penn due Babylon at 4:24PM.          
     <text>
                     &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;01/12/2018&amp;nbsp; 3:27PM
+                    &amp;nbsp;Posted:&amp;nbsp;01/12/2018&amp;nbsp; 3:28PM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  The 3:07PM train from Penn due Ronkonkoma at 4:25PM is cancelled due to 
+                  &lt;p&gt;&lt;strong&gt;&lt;u&gt;Eastbound:&lt;/u&gt;&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The 3:07PM train from Penn due Ronkonkoma at 4:25PM is cancelled due to 
 an earlier Amtrak signal problem. Customers will be accommodated by the 
-3:14PM train from Penn due Ronkonkoma at 4:34PM.         
+3:14PM train from Penn due Ronkonkoma at 4:34PM.         &lt;/p&gt;&lt;p&gt;&lt;strong&gt;&lt;u&gt;Westbound:&lt;/u&gt;&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The 2:11PM train from Ronkonkoma due Penn at 3:33PM is operating 14 minutes late due to congestion caused an earlier Amtrak signal problem.&lt;/p&gt;
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>01/12/2018</Date>
-    <Time> 3:27PM</Time>
+    <Time> 3:28PM</Time>
   </line>
   <line>
     <name>West Hempstead</name>
