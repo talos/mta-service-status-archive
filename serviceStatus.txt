@@ -1,14 +1,13 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>SERVICE CHANGE</status>
+    <status>DELAYS</status>
     <text>
-                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;01/12/2018&amp;nbsp; 7:20AM
+                    &amp;nbsp;Posted:&amp;nbsp;01/12/2018&amp;nbsp; 7:54AM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  &lt;P&gt;Southbound [4] and [5] trains are running local between &lt;STRONG&gt;Atlantic Av-Barclays&lt;/STRONG&gt; and &lt;STRONG&gt;Franklin Av&lt;/STRONG&gt; because of FDNY activity at &lt;STRONG&gt;Bergen St&lt;/STRONG&gt;.&lt;/P&gt;
-&lt;P&gt;Expect delays in [2] [3] [4] and [5] service in both directions. &lt;/P&gt;
+                  [2], [3], [4] and [5] train service has resumed following earlier FDNY activity at &lt;STRONG&gt;Bergen St&lt;/STRONG&gt;.
                 &lt;br/&gt;&lt;br/&gt;
               
                     &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
@@ -19,7 +18,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>01/12/2018</Date>
-    <Time> 7:20AM</Time>
+    <Time> 7:54AM</Time>
   </line>
   <line>
     <name>456</name>
@@ -27,21 +26,20 @@
     <text>
                     &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;01/12/2018&amp;nbsp; 7:54AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  [2], [3], [4] and [5] train service has resumed following earlier FDNY activity at &lt;STRONG&gt;Bergen St&lt;/STRONG&gt;.
+                &lt;br/&gt;&lt;br/&gt;
+              
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
                     &amp;nbsp;Posted:&amp;nbsp;01/12/2018&amp;nbsp; 7:42AM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
                   [6] train service has resumed following an earlier incident involving a sick passenger at &lt;STRONG&gt;14 St-Union Sq&lt;/STRONG&gt;.
                 &lt;br/&gt;&lt;br/&gt;
-              
-                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;01/12/2018&amp;nbsp; 7:20AM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  &lt;P&gt;Southbound [4] and [5] trains are running local between &lt;STRONG&gt;Atlantic Av-Barclays&lt;/STRONG&gt; and &lt;STRONG&gt;Franklin Av&lt;/STRONG&gt; because of FDNY activity at &lt;STRONG&gt;Bergen St&lt;/STRONG&gt;.&lt;/P&gt;
-&lt;P&gt;Expect delays in [2] [3] [4] and [5] service in both directions. &lt;/P&gt;
-                &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>01/12/2018</Date>
-    <Time> 7:42AM</Time>
+    <Time> 7:54AM</Time>
   </line>
   <line>
     <name>7</name>
@@ -118,8 +116,18 @@
 </subway><bus>
   <line>
     <name>B1 - B84</name>
-    <status>PLANNED WORK</status>
+    <status>DELAYS</status>
     <text>
+                  &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                  &lt;span class="DateStyle"&gt;
+                  &amp;nbsp;Posted:&amp;nbsp;01/12/2018&amp;nbsp; 7:55AM
+                  &lt;/span&gt;
+                  &lt;br/&gt;
+                  &lt;br/&gt;
+                &lt;STRONG&gt;B15, B46&lt;/STRONG&gt; and &lt;STRONG&gt;B47&lt;/STRONG&gt; buses are running with delays in both directions because of a crane operation on Debevoise St between Broadway and Graham Av.
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
                   &lt;span class="TitlePlannedWork" &gt;Planned Detour&lt;/span&gt;
                   &lt;br/&gt;
                 &lt;a class="plannedWorkDetailLink" onclick=ShowHide(140601);&gt;&lt;b&gt;B24&lt;/b&gt; - &lt;b&gt;Northbound buses may experience delays due to construction on Greenpoint Av at West St  &lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 140601 class="plannedWorkDetail" &gt;&lt;/b&gt;Until further notice&lt;br&gt;&lt;br&gt;&amp;bull; &lt;/font&gt;Please allow additional travel time.&lt;br&gt;&lt;b&gt;          &lt;/b&gt;&lt;a href=http://bustime.mta.info/#b24 target=_blank&gt;&lt;img height=30px src=http://web.mta.info/nyct/images/Bus_Time_logo.png&gt;&lt;/a&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
@@ -127,7 +135,7 @@
               &lt;br/&gt;
             </text>
     <Date>01/12/2018</Date>
-    <Time> 7:50AM</Time>
+    <Time> 7:55AM</Time>
   </line>
   <line>
     <name>B100 - B103</name>
@@ -154,7 +162,7 @@
               &lt;br/&gt;
             </text>
     <Date>01/12/2018</Date>
-    <Time> 7:50AM</Time>
+    <Time> 7:52AM</Time>
   </line>
   <line>
     <name>BXM1 - BXM18</name>
@@ -244,7 +252,7 @@
               &lt;br/&gt;
             </text>
     <Date>01/12/2018</Date>
-    <Time> 7:50AM</Time>
+    <Time> 7:52AM</Time>
   </line>
   <line>
     <name>QM1 - QM44</name>
@@ -269,7 +277,7 @@
               &lt;br/&gt;
             </text>
     <Date>01/12/2018</Date>
-    <Time> 7:50AM</Time>
+    <Time> 7:52AM</Time>
   </line>
   <line>
     <name>S40 - S98</name>
