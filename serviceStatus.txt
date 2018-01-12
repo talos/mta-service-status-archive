@@ -1,8 +1,15 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>SERVICE CHANGE</status>
+    <status>DELAYS</status>
     <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;01/12/2018&amp;nbsp; 1:14PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  Northbound [2] and [5] trains are running with delays because of signal problems at &lt;STRONG&gt;Freeman St&lt;/STRONG&gt;.
+                &lt;br/&gt;&lt;br/&gt;
+              
                     &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
                     &amp;nbsp;Posted:&amp;nbsp;01/12/2018&amp;nbsp;12:47PM
@@ -19,12 +26,19 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>01/12/2018</Date>
-    <Time>12:47PM</Time>
+    <Time> 1:14PM</Time>
   </line>
   <line>
     <name>456</name>
     <status>DELAYS</status>
     <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;01/12/2018&amp;nbsp; 1:14PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  Northbound [2] and [5] trains are running with delays because of signal problems at &lt;STRONG&gt;Freeman St&lt;/STRONG&gt;.
+                &lt;br/&gt;&lt;br/&gt;
+              
                     &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
                     &amp;nbsp;Posted:&amp;nbsp;01/12/2018&amp;nbsp;12:55PM
@@ -62,7 +76,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>01/12/2018</Date>
-    <Time>12:55PM</Time>
+    <Time> 1:14PM</Time>
   </line>
   <line>
     <name>7</name>
@@ -84,9 +98,9 @@
     <text>
                     &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;01/12/2018&amp;nbsp; 1:07PM
+                    &amp;nbsp;Posted:&amp;nbsp;01/12/2018&amp;nbsp; 1:14PM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  [E] trains are running with delays in both direction because of an investigation at &lt;STRONG&gt;Sutphin Blvd-Archer&lt;/STRONG&gt; Av.
+                  There is no [E] train service between &lt;STRONG&gt;Briarwood &lt;/STRONG&gt;and &lt;STRONG&gt;Jamaica Center-Parsons/Archer&lt;/STRONG&gt; in both directions because of an investigation at &lt;STRONG&gt;Sutphin Blvd-Archer Av.&lt;/STRONG&gt;
                 &lt;br/&gt;&lt;br/&gt;
               
                     &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
@@ -105,7 +119,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>01/12/2018</Date>
-    <Time> 1:07PM</Time>
+    <Time> 1:14PM</Time>
   </line>
   <line>
     <name>BDFM</name>
@@ -224,7 +238,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>01/12/2018</Date>
-    <Time> 1:10PM</Time>
+    <Time> 1:12PM</Time>
   </line>
 </subway><bus>
   <line>
@@ -295,7 +309,7 @@
               &lt;br/&gt;
             </text>
     <Date>01/12/2018</Date>
-    <Time> 1:10PM</Time>
+    <Time> 1:12PM</Time>
   </line>
   <line>
     <name>BXM1 - BXM18</name>
@@ -651,13 +665,16 @@
     <text>
                     &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;01/12/2018&amp;nbsp; 1:03PM
+                    &amp;nbsp;Posted:&amp;nbsp;01/12/2018&amp;nbsp; 1:14PM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  The 11:18AM train from Montauk due Jamaica at 2:15PM is operating 23 minutes late after being delayed due to earlier equipment trouble.  
+                  &lt;P&gt;&lt;STRONG&gt;&lt;U&gt;Westbound:&lt;/U&gt;&lt;/STRONG&gt;&lt;/P&gt;
+&lt;P&gt;The 11:18AM train from Montauk due Jamaica at 2:15PM is operating 23 minutes late after being delayed due to earlier equipment trouble.  &lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;&lt;U&gt;Eastbound:&lt;/U&gt;&lt;/STRONG&gt;&lt;/P&gt;
+&lt;P&gt;The 11:25AM train from Jamaica due Montauk at 2:15PM is operating 19 minutes late due to a late-arriving westbound train in single-track territory. &lt;/P&gt;
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>01/12/2018</Date>
-    <Time> 1:03PM</Time>
+    <Time> 1:14PM</Time>
   </line>
   <line>
     <name>Oyster Bay</name>
