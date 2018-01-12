@@ -1,43 +1,22 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>DELAYS</status>
-    <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;01/12/2018&amp;nbsp; 4:36PM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  [2], [3], [4], [5] trains service has resumed following earlier weather related track conditions at &lt;STRONG&gt;Borough Hall.&lt;/STRONG&gt;
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>01/12/2018</Date>
-    <Time> 4:36PM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>456</name>
-    <status>DELAYS</status>
-    <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;01/12/2018&amp;nbsp; 4:36PM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  [2], [3], [4], [5] trains service has resumed following earlier weather related track conditions at &lt;STRONG&gt;Borough Hall.&lt;/STRONG&gt;
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>01/12/2018</Date>
-    <Time> 4:36PM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>7</name>
     <status>DELAYS</status>
     <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;01/12/2018&amp;nbsp; 4:15PM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  [7] train service has resumed following earlier FDNY activity at &lt;STRONG&gt;74 St-Broadway&lt;/STRONG&gt;.
-                &lt;br/&gt;&lt;br/&gt;
-              
                     &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
                     &amp;nbsp;Posted:&amp;nbsp;01/12/2018&amp;nbsp; 4:06PM
@@ -46,7 +25,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>01/12/2018</Date>
-    <Time> 4:15PM</Time>
+    <Time> 4:06PM</Time>
   </line>
   <line>
     <name>ACE</name>
@@ -701,19 +680,10 @@
   </line>
   <line>
     <name>Hempstead</name>
-    <status>DELAYS</status>
-    <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;01/12/2018&amp;nbsp; 4:43PM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  The 4:04PM train from Hempstead due Atlantic Terminal at 4:52PM is 
-operating 10 minutes late due to a vehicle striking an LIRR Bridge near 
-Garden City.          
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>01/12/2018</Date>
-    <Time> 4:43PM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>Long Beach</name>
@@ -766,10 +736,19 @@ Garden City.          
   </line>
   <line>
     <name>Ronkonkoma</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>DELAYS</status>
+    <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;01/12/2018&amp;nbsp; 5:01PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  The 4:48PM train from Ronkonkoma due Penn at 6:08PM is being held prior 
+to departure as a result of an earlier unauthorized vehicle on the 
+tracks near the station.         
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>01/12/2018</Date>
+    <Time> 5:01PM</Time>
   </line>
   <line>
     <name>West Hempstead</name>
