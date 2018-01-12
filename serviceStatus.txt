@@ -751,10 +751,17 @@ operating 10 minutes late due to congestion through Jamaica Station.
   </line>
   <line>
     <name>Harlem</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>SERVICE CHANGE</status>
+    <text>
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;01/12/2018&amp;nbsp; 4:14PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  Harlem Line Southbound service is currently not making station stops between Woodlawn and Melrose due to track conditions requiring attention. Customers wishing to access these stations should travel to Harlem-125th Street for Northbound service to your destination. Customers at stations between Woodlawn and Melrose should travel to Mount Vernon West for Southbound service to Grand Central Terminal. Please listen for announcements at your station.
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>01/12/2018</Date>
+    <Time> 4:14PM</Time>
   </line>
   <line>
     <name>Wassaic</name>
