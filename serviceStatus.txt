@@ -1,29 +1,27 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>SERVICE CHANGE</status>
+    <status>DELAYS</status>
     <text>
-                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;01/12/2018&amp;nbsp; 4:22PM
+                    &amp;nbsp;Posted:&amp;nbsp;01/12/2018&amp;nbsp; 4:36PM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  &lt;P&gt;Northbound [4] trains are running with delays and [5] trains are stopping along the [2] line from &lt;STRONG&gt;Nevins St&lt;/STRONG&gt; to &lt;STRONG&gt;149 St-Grand Concourse&lt;/STRONG&gt; because of weather related track conditions at &lt;STRONG&gt;Borough Hall&lt;/STRONG&gt;.&lt;/P&gt;
-&lt;P&gt;Expect delays on the [2], [4] and [5] train service.&lt;/P&gt;
+                  [2], [3], [4], [5] trains service has resumed following earlier weather related track conditions at &lt;STRONG&gt;Borough Hall.&lt;/STRONG&gt;
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>01/12/2018</Date>
-    <Time> 4:22PM</Time>
+    <Time> 4:36PM</Time>
   </line>
   <line>
     <name>456</name>
-    <status>SERVICE CHANGE</status>
+    <status>DELAYS</status>
     <text>
-                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;01/12/2018&amp;nbsp; 4:22PM
+                    &amp;nbsp;Posted:&amp;nbsp;01/12/2018&amp;nbsp; 4:36PM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  &lt;P&gt;Northbound [4] trains are running with delays and [5] trains are stopping along the [2] line from &lt;STRONG&gt;Nevins St&lt;/STRONG&gt; to &lt;STRONG&gt;149 St-Grand Concourse&lt;/STRONG&gt; because of weather related track conditions at &lt;STRONG&gt;Borough Hall&lt;/STRONG&gt;.&lt;/P&gt;
-&lt;P&gt;Expect delays on the [2], [4] and [5] train service.&lt;/P&gt;
+                  [2], [3], [4], [5] trains service has resumed following earlier weather related track conditions at &lt;STRONG&gt;Borough Hall.&lt;/STRONG&gt;
                 &lt;br/&gt;&lt;br/&gt;
               
                     &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
@@ -34,7 +32,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>01/12/2018</Date>
-    <Time> 4:22PM</Time>
+    <Time> 4:36PM</Time>
   </line>
   <line>
     <name>7</name>
@@ -59,14 +57,13 @@
   </line>
   <line>
     <name>ACE</name>
-    <status>SERVICE CHANGE</status>
+    <status>DELAYS</status>
     <text>
-                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;01/12/2018&amp;nbsp; 4:06PM
+                    &amp;nbsp;Posted:&amp;nbsp;01/12/2018&amp;nbsp; 4:36PM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  &lt;P&gt;Southbound [C] trains are running express from &lt;STRONG&gt;59 St-Columbus Circle&lt;/STRONG&gt; to &lt;STRONG&gt;W 4 St-Washington Sq. &lt;/STRONG&gt;Southbound [E] trains are running express from &lt;STRONG&gt;42 St-Port Authority&lt;/STRONG&gt; to &lt;STRONG&gt;W 4 St-Washington Sq.&lt;/STRONG&gt;&lt;/P&gt;
-&lt;P&gt;These service changes are because of FDNY activity at &lt;STRONG&gt;W4 St.&lt;/STRONG&gt;&lt;/P&gt;
+                  [C] and [E] train service has resumed following earlier FDNY activity at &lt;STRONG&gt;W4 St- Washington Sq.&lt;/STRONG&gt;
                 &lt;br/&gt;&lt;br/&gt;
               
                     &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
@@ -77,7 +74,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>01/12/2018</Date>
-    <Time> 4:06PM</Time>
+    <Time> 4:36PM</Time>
   </line>
   <line>
     <name>BDFM</name>
@@ -721,17 +718,10 @@ operating 10 minutes late due to congestion through Jamaica Station.
   </line>
   <line>
     <name>Hempstead</name>
-    <status>DELAYS</status>
-    <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;01/12/2018&amp;nbsp; 4:19PM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  The 3:32PM train from Atlantic Terminal due Hempstead at 4:26PM is operating 11 minutes late due to a vehicle striking an LIRR Bridge near Garden City
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>01/12/2018</Date>
-    <Time> 4:19PM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>Long Beach</name>
