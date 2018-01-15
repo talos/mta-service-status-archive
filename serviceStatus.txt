@@ -1,35 +1,47 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>SERVICE CHANGE</status>
+    <text>
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;01/15/2018&amp;nbsp; 7:01AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;P&gt;Northbound [4] and [5] trains are running express from &lt;STRONG&gt;Franklin Av&lt;/STRONG&gt; to &lt;STRONG&gt;Atlantic Av-Barclays Ctr&lt;/STRONG&gt; because of signal problems at &lt;STRONG&gt;Atlantic Av-Barclays Ctr.&lt;/STRONG&gt;&lt;/P&gt;
+&lt;P&gt;Expect delays in [2] [3][4] and [5] train service. &lt;/P&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>01/15/2018</Date>
+    <Time> 7:01AM</Time>
   </line>
   <line>
     <name>456</name>
-    <status>DELAYS</status>
+    <status>SERVICE CHANGE</status>
     <text>
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;01/15/2018&amp;nbsp; 7:01AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;P&gt;Northbound [4] and [5] trains are running express from &lt;STRONG&gt;Franklin Av&lt;/STRONG&gt; to &lt;STRONG&gt;Atlantic Av-Barclays Ctr&lt;/STRONG&gt; because of signal problems at &lt;STRONG&gt;Atlantic Av-Barclays Ctr.&lt;/STRONG&gt;&lt;/P&gt;
+&lt;P&gt;Expect delays in [2] [3][4] and [5] train service. &lt;/P&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;01/15/2018&amp;nbsp; 7:00AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  [6] and [6D] express train service has resumed following earlier weather related switch problems at &lt;STRONG&gt;Westchester Sq-East Tremont Av.&lt;/STRONG&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              
                     &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
                     &amp;nbsp;Posted:&amp;nbsp;01/15/2018&amp;nbsp; 6:51AM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
                   [4] and [5] service has resumed following earlier signal problems at &lt;STRONG&gt;Atlantic Av-Barclays Ctr.&lt;/STRONG&gt;
                 &lt;br/&gt;&lt;br/&gt;
-              
-                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;01/15/2018&amp;nbsp; 6:33AM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  &lt;P&gt;Some southbound [5] trains are running local from &lt;STRONG&gt;125 St&lt;/STRONG&gt; to &lt;STRONG&gt;Brooklyn Bridge-City Hall&lt;/STRONG&gt;.&lt;/P&gt;
-&lt;P&gt;There is no southbound [6D] express train service.&lt;/P&gt;
-&lt;P&gt;Southbound [6] local trains are running express from &lt;STRONG&gt;Pelham Bay Park&lt;/STRONG&gt; to&lt;STRONG&gt; Parkchester&lt;/STRONG&gt;.&lt;/P&gt;
-&lt;P&gt;These service changes are because of weather related switch problems at&lt;STRONG&gt; Westchester Sq-East Tremont Av.&lt;/STRONG&gt;&lt;/P&gt;
-&lt;P&gt;Expect delays on [5] and [6] trains.&lt;/P&gt;
-                &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>01/15/2018</Date>
-    <Time> 6:51AM</Time>
+    <Time> 7:01AM</Time>
   </line>
   <line>
     <name>7</name>
@@ -47,17 +59,10 @@
   </line>
   <line>
     <name>BDFM</name>
-    <status>DELAYS</status>
-    <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;01/15/2018&amp;nbsp; 6:47AM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  [N] and [R] service has resumed following earlier switch problems at &lt;STRONG&gt;49 St.&lt;/STRONG&gt;
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>01/15/2018</Date>
-    <Time> 6:47AM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>G</name>
@@ -82,17 +87,10 @@
   </line>
   <line>
     <name>NQR</name>
-    <status>DELAYS</status>
-    <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;01/15/2018&amp;nbsp; 6:47AM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  [N] and [R] service has resumed following earlier switch problems at &lt;STRONG&gt;49 St.&lt;/STRONG&gt;
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>01/15/2018</Date>
-    <Time> 6:47AM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>S</name>
