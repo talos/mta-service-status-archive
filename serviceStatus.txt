@@ -1,18 +1,17 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>SERVICE CHANGE</status>
+    <status>DELAYS</status>
     <text>
-                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;01/15/2018&amp;nbsp; 7:36PM
+                    &amp;nbsp;Posted:&amp;nbsp;01/15/2018&amp;nbsp; 7:51PM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  &lt;P&gt;Northbound [2] and [3] trains are running local from &lt;STRONG&gt;Chambers St&lt;/STRONG&gt; to &lt;STRONG&gt;Times Sq-42 St&lt;/STRONG&gt; because of a train with mechanical problems at &lt;STRONG&gt;Chambers St&lt;/STRONG&gt;.&lt;/P&gt;
-&lt;P&gt;Expect delays to [1], [2] and [3] train service. &lt;/P&gt;
+                  [1], [2] and [3] train service has resumed following an earlier incident involving a train with mechanical problems at &lt;STRONG&gt;Chambers St&lt;/STRONG&gt;.
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>01/15/2018</Date>
-    <Time> 7:36PM</Time>
+    <Time> 7:51PM</Time>
   </line>
   <line>
     <name>456</name>
@@ -110,7 +109,7 @@
               &lt;br/&gt;
             </text>
     <Date>01/15/2018</Date>
-    <Time> 7:50PM</Time>
+    <Time> 7:52PM</Time>
   </line>
   <line>
     <name>B100 - B103</name>
@@ -130,7 +129,7 @@
               &lt;br/&gt;
             </text>
     <Date>01/15/2018</Date>
-    <Time> 7:50PM</Time>
+    <Time> 7:52PM</Time>
   </line>
   <line>
     <name>BX1 - BX55</name>
@@ -182,12 +181,22 @@
               &lt;br/&gt;
             </text>
     <Date>01/15/2018</Date>
-    <Time> 7:50PM</Time>
+    <Time> 7:52PM</Time>
   </line>
   <line>
     <name>M1 - M116</name>
-    <status>SERVICE CHANGE</status>
+    <status>DELAYS</status>
     <text>
+                  &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                  &lt;span class="DateStyle"&gt;
+                  &amp;nbsp;Posted:&amp;nbsp;01/15/2018&amp;nbsp; 7:52PM
+                  &lt;/span&gt;
+                  &lt;br/&gt;
+                  &lt;br/&gt;
+                &lt;STRONG&gt;M103&lt;/STRONG&gt; bus service has resumed following earlier road obstruction at Park Row and Spruce St.
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
                   &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
                   &lt;span class="DateStyle"&gt;
                   &amp;nbsp;Posted:&amp;nbsp;01/15/2018&amp;nbsp; 6:35PM
@@ -197,19 +206,6 @@
                 &lt;P&gt;&lt;STRONG&gt;M104&lt;/STRONG&gt; southbound buses are detoured because on Con Ed work on W 41 St between 7 Av and 8 Av. &lt;/P&gt;
 &lt;P&gt;&lt;STRONG&gt;M104 Southbound:&lt;/STRONG&gt; Via 7 Av, right on 39 St, right on 8 Av then regular route.&lt;/P&gt;
 &lt;P&gt;No stops will be missed.&lt;/P&gt;
-              &lt;br/&gt;
-              &lt;br/&gt;
-            
-                  &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
-                  &lt;span class="DateStyle"&gt;
-                  &amp;nbsp;Posted:&amp;nbsp;01/15/2018&amp;nbsp; 6:17PM
-                  &lt;/span&gt;
-                  &lt;br/&gt;
-                  &lt;br/&gt;
-                &lt;P&gt;&lt;STRONG&gt;M103&lt;/STRONG&gt; buses are detoured because of road obstruction at Park Row and Spruce St. &lt;/P&gt;
-&lt;P&gt;Detour is as follows: &lt;/P&gt;
-&lt;P&gt;&lt;STRONG&gt;Towards City Hall:&lt;/STRONG&gt; Delancey St will be the last stop.&lt;/P&gt;
-&lt;P&gt;&lt;STRONG&gt;Towards Harlem:&lt;/STRONG&gt; Via Bowery St, left on Delancey St, left on Christie St, left on Houston St, right on Bowery, and regular route.&lt;/P&gt;
               &lt;br/&gt;
               &lt;br/&gt;
             
@@ -226,7 +222,7 @@
               &lt;br/&gt;
             </text>
     <Date>01/15/2018</Date>
-    <Time> 6:35PM</Time>
+    <Time> 7:52PM</Time>
   </line>
   <line>
     <name>Q1 - Q113</name>
@@ -352,7 +348,7 @@
               &lt;br/&gt;
             </text>
     <Date>01/15/2018</Date>
-    <Time> 7:50PM</Time>
+    <Time> 7:52PM</Time>
   </line>
   <line>
     <name>S40 - S98</name>
