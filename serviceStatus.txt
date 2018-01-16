@@ -1,31 +1,17 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>DELAYS</status>
-    <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;01/16/2018&amp;nbsp; 4:12PM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  [2] and [5] train service has resumed following an earlier incident involving a train with mechanical problems at &lt;STRONG&gt;Beverly Rd&lt;/STRONG&gt;.
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>01/16/2018</Date>
-    <Time> 4:12PM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>456</name>
-    <status>DELAYS</status>
-    <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;01/16/2018&amp;nbsp; 4:12PM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  [2] and [5] train service has resumed following an earlier incident involving a train with mechanical problems at &lt;STRONG&gt;Beverly Rd&lt;/STRONG&gt;.
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>01/16/2018</Date>
-    <Time> 4:12PM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>7</name>
@@ -54,21 +40,20 @@
     <text>
                     &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;01/16/2018&amp;nbsp; 4:15PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  [M] and [R] service has resumed following an earlier incident involving an injured passenger at &lt;STRONG&gt;Forest Hills-71 Av.&lt;/STRONG&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
                     &amp;nbsp;Posted:&amp;nbsp;01/16/2018&amp;nbsp; 4:10PM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
                   Southbound [B] and [C] trains are running with delays because of a train with mechanical problems at &lt;STRONG&gt;116 St.&lt;/STRONG&gt;
                 &lt;br/&gt;&lt;br/&gt;
-              
-                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;01/16/2018&amp;nbsp; 4:07PM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  &lt;P&gt;71 Av bound [M] and northbound [R] trains are running express from &lt;STRONG&gt;Jackson Hts-Roosevelt Av&lt;/STRONG&gt; to &lt;STRONG&gt;Forest Hills-71 Av&lt;/STRONG&gt; because of an injured passenger at&lt;STRONG&gt; Forest Hills-Roosevelt Av&lt;/STRONG&gt;.&lt;/P&gt;
-&lt;P&gt;Expect delays on [E], [F], [M] and [R] trains.&lt;/P&gt;
-                &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>01/16/2018</Date>
-    <Time> 4:10PM</Time>
+    <Time> 4:15PM</Time>
   </line>
   <line>
     <name>G</name>
@@ -93,18 +78,17 @@
   </line>
   <line>
     <name>NQR</name>
-    <status>SERVICE CHANGE</status>
+    <status>DELAYS</status>
     <text>
-                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;01/16/2018&amp;nbsp; 4:07PM
+                    &amp;nbsp;Posted:&amp;nbsp;01/16/2018&amp;nbsp; 4:15PM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  &lt;P&gt;71 Av bound [M] and northbound [R] trains are running express from &lt;STRONG&gt;Jackson Hts-Roosevelt Av&lt;/STRONG&gt; to &lt;STRONG&gt;Forest Hills-71 Av&lt;/STRONG&gt; because of an injured passenger at&lt;STRONG&gt; Forest Hills-Roosevelt Av&lt;/STRONG&gt;.&lt;/P&gt;
-&lt;P&gt;Expect delays on [E], [F], [M] and [R] trains.&lt;/P&gt;
+                  [M] and [R] service has resumed following an earlier incident involving an injured passenger at &lt;STRONG&gt;Forest Hills-71 Av.&lt;/STRONG&gt;
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>01/16/2018</Date>
-    <Time> 4:07PM</Time>
+    <Time> 4:15PM</Time>
   </line>
   <line>
     <name>S</name>
