@@ -131,8 +131,18 @@
 </subway><bus>
   <line>
     <name>B1 - B84</name>
-    <status>SERVICE CHANGE</status>
+    <status>DELAYS</status>
     <text>
+                  &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                  &lt;span class="DateStyle"&gt;
+                  &amp;nbsp;Posted:&amp;nbsp;01/16/2018&amp;nbsp; 2:16PM
+                  &lt;/span&gt;
+                  &lt;br/&gt;
+                  &lt;br/&gt;
+                &lt;STRONG&gt;B37&lt;/STRONG&gt; buses are running with delays in both directions because of a construction on 3 Av between 55 St and 24 St.
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
                   &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
                   &lt;span class="DateStyle"&gt;
                   &amp;nbsp;Posted:&amp;nbsp;01/16/2018&amp;nbsp; 2:16PM
@@ -154,16 +164,6 @@
 &lt;P&gt;Detour is as follows: &lt;/P&gt;
 &lt;P&gt;&lt;STRONG&gt;Towards Shore Road&lt;/STRONG&gt;: Via Bay Ridge Av, right on Ridge Blvd, left on 68 St, left on Colonial Rd, right on Bay Ridge Av and regular route. &lt;/P&gt;
 &lt;P&gt;&lt;STRONG&gt;Towards Kings Plaza&lt;/STRONG&gt;, &lt;STRONG&gt;Stillwell Av&lt;/STRONG&gt; and &lt;STRONG&gt;Manhattan&lt;/STRONG&gt;: Via Bay Ridge Av, right on Colonial Rd, left on 70 St, left on Ridge Blvd, right on Bay Ridge Av and regular route. &lt;/P&gt;
-              &lt;br/&gt;
-              &lt;br/&gt;
-            
-                  &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                  &lt;span class="DateStyle"&gt;
-                  &amp;nbsp;Posted:&amp;nbsp;01/16/2018&amp;nbsp;12:02PM
-                  &lt;/span&gt;
-                  &lt;br/&gt;
-                  &lt;br/&gt;
-                &lt;STRONG&gt;B37&lt;/STRONG&gt; buses are running with delays in both directions because of a construction on 3 Av between 55 St and 24 St.
               &lt;br/&gt;
               &lt;br/&gt;
             
@@ -443,10 +443,17 @@
   </line>
   <line>
     <name>Ronkonkoma</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>DELAYS</status>
+    <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;01/16/2018&amp;nbsp; 2:16PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  The 2:43PM train from Greenport due Ronkonkoma at 4:06PM is canceled due to an earlier train with equipment trouble. Customers will be accommodated by buses.
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>01/16/2018</Date>
+    <Time> 2:16PM</Time>
   </line>
   <line>
     <name>West Hempstead</name>
