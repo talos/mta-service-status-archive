@@ -563,10 +563,17 @@ operating 11 minutes late due to a late-arriving connection.
   </line>
   <line>
     <name>Ronkonkoma</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>DELAYS</status>
+    <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;01/17/2018&amp;nbsp;11:00AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;font face="sans-serif"&gt;&lt;span style="font-size: 13.3333px;"&gt;The 10:14AM train from Penn due Ronkonkoma at 11:37AM is operating 10 minutes late due to an Amtrak track condition in one of the East River Tunnels.&lt;/span&gt;&lt;/font&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>01/17/2018</Date>
+    <Time>11:00AM</Time>
   </line>
   <line>
     <name>West Hempstead</name>
