@@ -1,8 +1,15 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>PLANNED WORK</status>
+    <status>DELAYS</status>
     <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;01/17/2018&amp;nbsp; 2:42AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  Northbound [1] and [2] trains are holding in stations because of an unauthorized person on the tracks at &lt;STRONG&gt;66 St-Lincoln Center.&lt;/STRONG&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              
                     &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
                     &lt;br/&gt;
                   &lt;a class="plannedWorkDetailLink" onclick=ShowHide(176552);&gt;&lt;b&gt;&lt;i&gt;ELECTRICAL IMPROVEMENTS&lt;/i&gt;&lt;br clear=left&gt;[3] No trains running&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 176552 class="plannedWorkDetail" &gt;[2] [4] trains and [SB] free shuttle buses provide alternate service&lt;br&gt;&lt;/b&gt;Late Nights, 9:45 PM to 5 AM, Mon to Fri, Jan 15 - 19&lt;br&gt;&lt;i&gt;                     &lt;/i&gt;                        &lt;br&gt;&lt;/font&gt;&lt;b&gt;[2]&lt;/b&gt; trains make all &lt;b&gt;[3]&lt;/b&gt; stops between &lt;b&gt;Franklin Av &lt;/b&gt;and &lt;b&gt;135 St&lt;/b&gt;.&lt;br&gt;[4] trains make all [3] stops between &lt;b&gt;Franklin Av &lt;/b&gt;and &lt;b&gt;New Lots Av&lt;/b&gt;.&lt;br&gt;&lt;br&gt;[SB] Buses operate between &lt;b&gt;135 St &lt;/b&gt;and &lt;b&gt;148 St&lt;/b&gt;, stopping at 145 St.&lt;br&gt;&lt;/font&gt;&amp;bull; Transfer between trains and [SB] buses at &lt;b&gt;135 St&lt;/b&gt;.&lt;br&gt;&amp;bull; Transfer between [2] and [4] trains at &lt;b&gt;Franklin Av&lt;/b&gt;.&lt;br&gt;&lt;br&gt;&lt;table class=plannedworkTableStyle  border=1 cellspacing=1 cellpadding=3 rules=rows frame=hsides&gt;&lt;tr bgcolor=#FAF8CC&gt;&lt;td&gt;&lt;b&gt;Station      &lt;/b&gt;&lt;/td&gt;&lt;td&gt;&lt;b&gt;Bus Stop&lt;/b&gt;&lt;td&gt;&lt;b&gt;Bus&lt;/b&gt;&lt;tr&gt;&lt;td&gt;135 St  [ad]  [2]  &lt;td&gt;Lenox Av at 135 St&lt;td&gt;[SB], &lt;b&gt;M7&lt;/b&gt;, &lt;b&gt;M102&lt;/b&gt;&lt;tr&gt;&lt;td&gt;145 St&lt;td&gt;Lenox Av at 145 St&lt;td&gt;[SB], &lt;b&gt;M7&lt;/b&gt;, &lt;b&gt;M102&lt;/b&gt;&lt;tr&gt;&lt;td&gt;148 St&lt;td&gt;Adam Clayton Powell Jr Blvd at 149 St&lt;td&gt;[SB]&lt;/table&gt; &lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
@@ -19,7 +26,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>01/17/2018</Date>
-    <Time> 2:32AM</Time>
+    <Time> 2:42AM</Time>
   </line>
   <line>
     <name>456</name>
