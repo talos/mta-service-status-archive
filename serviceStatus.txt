@@ -79,10 +79,17 @@
   </line>
   <line>
     <name>SIR</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>DELAYS</status>
+    <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;01/16/2018&amp;nbsp; 7:51PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  [SIR] train service has resumed following an earlier incident involving an injured passenger at &lt;STRONG&gt;Annadale&lt;/STRONG&gt;.
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>01/16/2018</Date>
+    <Time> 7:51PM</Time>
   </line>
 </subway><bus>
   <line>
@@ -143,7 +150,7 @@
               &lt;br/&gt;
             </text>
     <Date>01/16/2018</Date>
-    <Time> 7:45PM</Time>
+    <Time> 7:50PM</Time>
   </line>
   <line>
     <name>BXM1 - BXM18</name>
@@ -239,7 +246,7 @@
               &lt;br/&gt;
             </text>
     <Date>01/16/2018</Date>
-    <Time> 7:45PM</Time>
+    <Time> 7:50PM</Time>
   </line>
   <line>
     <name>S40 - S98</name>
