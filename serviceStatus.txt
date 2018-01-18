@@ -8,17 +8,10 @@
   </line>
   <line>
     <name>456</name>
-    <status>DELAYS</status>
-    <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;01/17/2018&amp;nbsp; 7:06PM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  [4] train service has resumed following earlier switch problems at &lt;STRONG&gt;Woodlawn&lt;/STRONG&gt;.
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>01/17/2018</Date>
-    <Time> 7:06PM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>7</name>
@@ -29,8 +22,16 @@
   </line>
   <line>
     <name>ACE</name>
-    <status>DELAYS</status>
+    <status>SERVICE CHANGE</status>
     <text>
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;01/17/2018&amp;nbsp; 7:16PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;P&gt;Southbound [E] trains are stopping along the [F] line from &lt;STRONG&gt;W 4 St-Washington Sq&lt;/STRONG&gt; to &lt;STRONG&gt;2 Av&lt;/STRONG&gt; then will end because of an unruly passenger at &lt;STRONG&gt;Canal St&lt;/STRONG&gt;. &lt;/P&gt;
+&lt;P&gt;Expect delays to [E] and [F] train service. &lt;/P&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              
                     &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
                     &amp;nbsp;Posted:&amp;nbsp;01/17/2018&amp;nbsp; 6:02PM
@@ -39,7 +40,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>01/17/2018</Date>
-    <Time> 6:02PM</Time>
+    <Time> 7:16PM</Time>
   </line>
   <line>
     <name>BDFM</name>
