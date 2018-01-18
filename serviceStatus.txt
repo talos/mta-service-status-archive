@@ -135,8 +135,21 @@
 </subway><bus>
   <line>
     <name>B1 - B84</name>
-    <status>DELAYS</status>
+    <status>SERVICE CHANGE</status>
     <text>
+                  &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                  &lt;span class="DateStyle"&gt;
+                  &amp;nbsp;Posted:&amp;nbsp;01/18/2018&amp;nbsp;11:09AM
+                  &lt;/span&gt;
+                  &lt;br/&gt;
+                  &lt;br/&gt;
+                &lt;P&gt;&lt;STRONG&gt;B43 &lt;/STRONG&gt;buses are detoured because of a crane operation on Tompkins and Handcock Av. &lt;/P&gt;
+&lt;P&gt;Detour is as follows:&lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;B43 Southbound&lt;/STRONG&gt;: Via Tompkins Av, left on Madison Av, right on Marcus Garvey Av, right on Halsey St, left on Tompkins Av and regular route.&lt;/P&gt;
+&lt;P&gt;All corresponding stops will be made along the detoured route.&lt;/P&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
                   &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                   &lt;span class="DateStyle"&gt;
                   &amp;nbsp;Posted:&amp;nbsp;01/18/2018&amp;nbsp;10:04AM
@@ -189,7 +202,7 @@
               &lt;br/&gt;
             </text>
     <Date>01/18/2018</Date>
-    <Time>10:04AM</Time>
+    <Time>11:09AM</Time>
   </line>
   <line>
     <name>B100 - B103</name>
@@ -450,10 +463,17 @@
   </line>
   <line>
     <name>Hempstead</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>DELAYS</status>
+    <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;01/18/2018&amp;nbsp;11:08AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;body bgcolor='White' style='font-family:sans-serif;font-size:10pt;'&gt;&lt;/body&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>01/18/2018</Date>
+    <Time>11:08AM</Time>
   </line>
   <line>
     <name>Long Beach</name>
