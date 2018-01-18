@@ -101,8 +101,18 @@
 </subway><bus>
   <line>
     <name>B1 - B84</name>
-    <status>SERVICE CHANGE</status>
+    <status>DELAYS</status>
     <text>
+                  &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                  &lt;span class="DateStyle"&gt;
+                  &amp;nbsp;Posted:&amp;nbsp;01/18/2018&amp;nbsp; 8:04AM
+                  &lt;/span&gt;
+                  &lt;br/&gt;
+                  &lt;br/&gt;
+                &lt;STRONG&gt;B48&lt;/STRONG&gt; buses are running with delays in both directions because of traffic conditions on Classon Av between Sterling Pl and Broadway.
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
                   &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
                   &lt;span class="DateStyle"&gt;
                   &amp;nbsp;Posted:&amp;nbsp;01/18/2018&amp;nbsp; 8:04AM
@@ -125,16 +135,6 @@
                   &lt;br/&gt;
                 &lt;P&gt;Northbound &lt;STRONG&gt;B46&lt;/STRONG&gt; and &lt;STRONG&gt;B46-SBS&lt;/STRONG&gt; buses are running with delays because of construction at the Utica Av and Avenue K bus stop.&lt;/P&gt;
 &lt;P&gt;*Due to construction the northbound bus stop on Utica Av and Avenue K will be moved to the far side of the street.&lt;/P&gt;
-              &lt;br/&gt;
-              &lt;br/&gt;
-            
-                  &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                  &lt;span class="DateStyle"&gt;
-                  &amp;nbsp;Posted:&amp;nbsp;01/18/2018&amp;nbsp; 7:55AM
-                  &lt;/span&gt;
-                  &lt;br/&gt;
-                  &lt;br/&gt;
-                &lt;STRONG&gt;B48&lt;/STRONG&gt; buses are running with delays in both directions because of traffic conditions on Classon Av between Sterling Pl and Broadway.
               &lt;br/&gt;
               &lt;br/&gt;
             
@@ -216,7 +216,7 @@
     <text>
                   &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                   &lt;span class="DateStyle"&gt;
-                  &amp;nbsp;Posted:&amp;nbsp;01/18/2018&amp;nbsp; 7:44AM
+                  &amp;nbsp;Posted:&amp;nbsp;01/18/2018&amp;nbsp; 8:04AM
                   &lt;/span&gt;
                   &lt;br/&gt;
                   &lt;br/&gt;
@@ -243,7 +243,7 @@
               &lt;br/&gt;
             </text>
     <Date>01/18/2018</Date>
-    <Time> 7:44AM</Time>
+    <Time> 8:04AM</Time>
   </line>
   <line>
     <name>QM1 - QM44</name>
@@ -423,29 +423,15 @@
   </line>
   <line>
     <name>Oyster Bay</name>
-    <status>DELAYS</status>
-    <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;01/18/2018&amp;nbsp; 7:34AM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  The LIRR is experiencing 10-15 minute westbound delays on the Port Jefferson, Ronkonkoma and Oyster Bay Branches due to switch trouble east of Mineola.
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>01/18/2018</Date>
-    <Time> 7:34AM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>Port Jefferson</name>
     <status>DELAYS</status>
     <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;01/18/2018&amp;nbsp; 7:34AM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  The LIRR is experiencing 10-15 minute westbound delays on the Port Jefferson, Ronkonkoma and Oyster Bay Branches due to switch trouble east of Mineola.
-                &lt;br/&gt;&lt;br/&gt;
-              
                     &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
                     &amp;nbsp;Posted:&amp;nbsp;01/18/2018&amp;nbsp; 7:47AM
@@ -456,7 +442,7 @@ operating 11 minutes late due to switch trouble east of Mineola.          
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>01/18/2018</Date>
-    <Time> 7:34AM</Time>
+    <Time> 7:47AM</Time>
   </line>
   <line>
     <name>Port Washington</name>
@@ -467,17 +453,10 @@ operating 11 minutes late due to switch trouble east of Mineola.          
   </line>
   <line>
     <name>Ronkonkoma</name>
-    <status>DELAYS</status>
-    <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;01/18/2018&amp;nbsp; 7:34AM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  The LIRR is experiencing 10-15 minute westbound delays on the Port Jefferson, Ronkonkoma and Oyster Bay Branches due to switch trouble east of Mineola.
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>01/18/2018</Date>
-    <Time> 7:34AM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>West Hempstead</name>
