@@ -333,7 +333,7 @@
     <text>
                   &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
                   &lt;span class="DateStyle"&gt;
-                  &amp;nbsp;Posted:&amp;nbsp;01/18/2018&amp;nbsp;10:02AM
+                  &amp;nbsp;Posted:&amp;nbsp;01/18/2018&amp;nbsp;12:08PM
                   &lt;/span&gt;
                   &lt;br/&gt;
                   &lt;br/&gt;
@@ -348,7 +348,7 @@
               &lt;br/&gt;
             </text>
     <Date>01/18/2018</Date>
-    <Time>10:02AM</Time>
+    <Time>12:08PM</Time>
   </line>
   <line>
     <name>x1 - x68</name>
@@ -356,7 +356,7 @@
     <text>
                   &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
                   &lt;span class="DateStyle"&gt;
-                  &amp;nbsp;Posted:&amp;nbsp;01/18/2018&amp;nbsp;10:02AM
+                  &amp;nbsp;Posted:&amp;nbsp;01/18/2018&amp;nbsp;12:08PM
                   &lt;/span&gt;
                   &lt;br/&gt;
                   &lt;br/&gt;
@@ -369,7 +369,7 @@
               &lt;br/&gt;
             </text>
     <Date>01/18/2018</Date>
-    <Time>10:02AM</Time>
+    <Time>12:08PM</Time>
   </line>
 </bus><BT>
   <line>
@@ -437,17 +437,10 @@
   </line>
   <line>
     <name>Verrazano-Narrows</name>
-    <status>DELAYS</status>
-    <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;01/18/2018&amp;nbsp;11:55AM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  &lt;body bgcolor='White' style='font-family:sans-serif;font-size:10pt;'&gt;VNB: DISABLED TRUCK: BROOKLYN BOUND UPPER LEVEL. ONE LANE BLOCKED&lt;/body&gt;
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>01/18/2018</Date>
-    <Time>11:55AM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
 </BT><LIRR>
   <line>
@@ -501,10 +494,17 @@
   </line>
   <line>
     <name>Port Jefferson</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>DELAYS</status>
+    <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;01/18/2018&amp;nbsp;12:09PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  The 11:52AM train from Huntington due Port Jefferson at 12:38PM is operating 15 minutes late due to a late-arriving connection.
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>01/18/2018</Date>
+    <Time>12:09PM</Time>
   </line>
   <line>
     <name>Port Washington</name>
