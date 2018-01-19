@@ -1,17 +1,18 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>DELAYS</status>
+    <status>SERVICE CHANGE</status>
     <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;01/19/2018&amp;nbsp; 9:08AM
+                    &amp;nbsp;Posted:&amp;nbsp;01/19/2018&amp;nbsp; 9:19AM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  Southbound [1] trains are running with delays because of signal problems at &lt;STRONG&gt;Rector St.&lt;/STRONG&gt;
+                  &lt;P&gt;[1] trains are not running between &lt;STRONG&gt;Rector St&lt;/STRONG&gt; and &lt;STRONG&gt;South Ferry&lt;/STRONG&gt; because of signal problems at &lt;STRONG&gt;Rector St&lt;/STRONG&gt;.&lt;/P&gt;
+&lt;P&gt;For service to &lt;STRONG&gt;South Ferry&lt;/STRONG&gt;, customers may take [R] or [W] trains to &lt;STRONG&gt;Whitehall St&lt;/STRONG&gt;.&lt;/P&gt;
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>01/19/2018</Date>
-    <Time> 9:08AM</Time>
+    <Time> 9:19AM</Time>
   </line>
   <line>
     <name>456</name>
