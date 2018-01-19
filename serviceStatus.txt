@@ -37,6 +37,11 @@
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
                   [J] and [M] train service has resumed following earlier NYPD activity at &lt;STRONG&gt;Gates Av&lt;/STRONG&gt;.
                 &lt;br/&gt;&lt;br/&gt;
+              
+                    &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
+                    &lt;br/&gt;
+                  &lt;a class="plannedWorkDetailLink" onclick=ShowHide(176409);&gt;&lt;b&gt;&lt;i&gt;ALTERNATIVE SERVICE&lt;/i&gt;&lt;br clear=left&gt;[D] Manhattan-bound trains make local stops at 25 St, Prospect Av, 4 Av-9 St, Union St and DeKalb Av&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 176409 class="plannedWorkDetail" &gt;&lt;/b&gt;Evenings, beginning 8:30 PM, Mon to Thu, Jan 15 - 18  &amp;bull;  &lt;/font&gt;Jan 22 - 25&lt;br&gt;&lt;br&gt;&amp;bull; Please allow additional travel time.&lt;br&gt;&lt;br&gt;&lt;b&gt;Reminder:&lt;/b&gt; &lt;/font&gt;&lt;a href=http://advisory.mtanyct.info/pdf_files/NightMap.pdf target=_blank&gt;&lt;font color=#0000FF&gt;Late Night&lt;/font&gt;&lt;/a&gt; local service operates as scheduled in Brooklyn.&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+                &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>01/18/2018</Date>
     <Time> 8:22PM</Time>
@@ -71,10 +76,15 @@
   </line>
   <line>
     <name>NQR</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>PLANNED WORK</status>
+    <text>
+                    &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
+                    &lt;br/&gt;
+                  &lt;a class="plannedWorkDetailLink" onclick=ShowHide(176410);&gt;&lt;b&gt;&lt;i&gt;SIGNAL MAINTENANCE&lt;/i&gt;&lt;BR CLEAR=LEFT&gt;[N] Astoria-bound trains run local from 59 St, Brooklyn to DeKalb Av&lt;/font&gt; &lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 176410 class="plannedWorkDetail" &gt;&lt;/b&gt;Evenings, beginning 8:30 PM, Mon to Thu, Jan 15 - 18  &amp;bull;  &lt;/font&gt;Jan 22 - 25&lt;br&gt;&lt;br&gt;&amp;bull; Please allow additional travel time.&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>01/18/2018</Date>
+    <Time> 8:32PM</Time>
   </line>
   <line>
     <name>S</name>
@@ -240,11 +250,11 @@
     <text>
                   &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                   &lt;span class="DateStyle"&gt;
-                  &amp;nbsp;Posted:&amp;nbsp;01/18/2018&amp;nbsp; 8:13PM
+                  &amp;nbsp;Posted:&amp;nbsp;01/18/2018&amp;nbsp; 8:32PM
                   &lt;/span&gt;
                   &lt;br/&gt;
                   &lt;br/&gt;
-                &lt;P&gt;&lt;STRONG&gt;Q1, Q2, Q3, Q4, Q5, Q6, Q8, Q9, Q17, Q20A, Q20B, Q24, Q25, Q30, Q31, Q34, Q42, Q44-SBS, Q54, Q56, Q65 Q83, Q84, Q85, Q110, Q111, Q112, Q113-LTD&lt;/STRONG&gt; and &lt;STRONG&gt;Q114-LTD&lt;/STRONG&gt; buses are running with delays in both directions because of traffic conditions on Archer Av between Sutphin Blvd and 168 St, Jamaica Av between Sutphin Blvd and 168 St and Sutphin Blvd between Hillside Av and Archer Av.&lt;/P&gt;
+                &lt;STRONG&gt;Q1, Q2, Q3, Q4, Q5, Q6, Q8, Q9, Q17, Q20A, Q20B, Q24, Q25, Q30, Q31, Q34, Q42, Q44-SBS, Q54, Q56, Q65 Q83, Q84, Q85, Q110, Q111, Q112, Q113-LTD&lt;/STRONG&gt; and &lt;STRONG&gt;Q114-LTD&lt;/STRONG&gt; bus service has resumed following earlier traffic conditions on Jamaica Av and Sutphin Blvd.
               &lt;br/&gt;
               &lt;br/&gt;
             
@@ -267,7 +277,7 @@
               &lt;br/&gt;
             </text>
     <Date>01/18/2018</Date>
-    <Time> 8:13PM</Time>
+    <Time> 8:32PM</Time>
   </line>
   <line>
     <name>QM1 - QM44</name>
@@ -292,7 +302,7 @@
               &lt;br/&gt;
             </text>
     <Date>01/18/2018</Date>
-    <Time> 8:23PM</Time>
+    <Time> 8:32PM</Time>
   </line>
   <line>
     <name>S40 - S98</name>
