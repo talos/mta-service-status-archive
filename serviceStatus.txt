@@ -70,7 +70,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>01/20/2018</Date>
-    <Time> 9:54AM</Time>
+    <Time>10:03AM</Time>
   </line>
   <line>
     <name>7</name>
@@ -82,7 +82,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>01/20/2018</Date>
-    <Time> 9:54AM</Time>
+    <Time>10:03AM</Time>
   </line>
   <line>
     <name>ACE</name>
@@ -199,7 +199,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>01/20/2018</Date>
-    <Time> 9:54AM</Time>
+    <Time>10:03AM</Time>
   </line>
   <line>
     <name>L</name>
@@ -211,7 +211,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>01/20/2018</Date>
-    <Time> 9:54AM</Time>
+    <Time>10:03AM</Time>
   </line>
   <line>
     <name>NQR</name>
@@ -233,7 +233,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>01/20/2018</Date>
-    <Time> 9:54AM</Time>
+    <Time>10:03AM</Time>
   </line>
   <line>
     <name>S</name>
@@ -257,7 +257,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>01/20/2018</Date>
-    <Time> 9:54AM</Time>
+    <Time>10:03AM</Time>
   </line>
 </subway><bus>
   <line>
@@ -301,7 +301,7 @@
               &lt;br/&gt;
             </text>
     <Date>01/20/2018</Date>
-    <Time> 9:54AM</Time>
+    <Time>10:03AM</Time>
   </line>
   <line>
     <name>B100 - B103</name>
@@ -314,7 +314,7 @@
               &lt;br/&gt;
             </text>
     <Date>01/20/2018</Date>
-    <Time> 9:54AM</Time>
+    <Time>10:03AM</Time>
   </line>
   <line>
     <name>BM1 - BM5</name>
@@ -327,7 +327,7 @@
               &lt;br/&gt;
             </text>
     <Date>01/20/2018</Date>
-    <Time> 9:54AM</Time>
+    <Time>10:03AM</Time>
   </line>
   <line>
     <name>BX1 - BX55</name>
@@ -346,14 +346,20 @@
               &lt;br/&gt;
             </text>
     <Date>01/20/2018</Date>
-    <Time> 9:54AM</Time>
+    <Time>10:03AM</Time>
   </line>
   <line>
     <name>BXM1 - BXM18</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>PLANNED WORK</status>
+    <text>
+                  &lt;span class="TitlePlannedWork" &gt;Planned Detour&lt;/span&gt;
+                  &lt;br/&gt;
+                &lt;a class="plannedWorkDetailLink" onclick=ShowHide(179028);&gt;&lt;b&gt;BxM2 buses rerouted from 6 Av/7 Av/Amsterdam Av/Columbus Av/Central Park West and Broadway between 42 St and 79 St&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 179028 class="plannedWorkDetail" &gt;&lt;/b&gt;10 AM to 4 PM, Saturday, Jan 20&lt;br&gt;&lt;br&gt;Due to the 2018 Women's March on NYC:&lt;br&gt;&lt;br&gt;&lt;b&gt;Northbound&lt;/b&gt;: Buses run via Madison Av from 42 St to 79 St.&lt;br&gt;&lt;br&gt;&lt;b&gt;Southbound&lt;/b&gt;: Buses run via 5 Av from 79 St to 34 St.&lt;br&gt;&lt;br&gt;Buses make corresponding stops along the detoured route.&lt;br&gt;&lt;br&gt;&lt;b&gt;&lt;i&gt;&lt;a style="cursor:pointer; text-decoration:underline;" onclick=ShowHide(1790280);&gt;Show Reroute Details&lt;/a&gt;&lt;/i&gt;&lt;/b&gt;&lt;br&gt;&lt;div id="1790280"; style="display:none;"&gt;&lt;b&gt;Northbound&lt;br&gt;&lt;/b&gt;Via 6 Av&lt;br&gt;Right on 42 St&lt;br&gt;Left on Madison Av to 79 St then regular route&lt;br&gt;&lt;br&gt;&lt;b&gt;Southbound&lt;br&gt;&lt;/b&gt;Via 5 Av&lt;br&gt;Continue on 5 Av&lt;br&gt;Right on 34 St&lt;/div&gt;&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            </text>
+    <Date>01/20/2018</Date>
+    <Time>10:03AM</Time>
   </line>
   <line>
     <name>M1 - M116</name>
@@ -402,7 +408,7 @@
               &lt;br/&gt;
             </text>
     <Date>01/20/2018</Date>
-    <Time> 9:54AM</Time>
+    <Time>10:03AM</Time>
   </line>
   <line>
     <name>Q1 - Q113</name>
@@ -439,7 +445,7 @@
               &lt;br/&gt;
             </text>
     <Date>01/20/2018</Date>
-    <Time> 9:54AM</Time>
+    <Time>10:03AM</Time>
   </line>
   <line>
     <name>QM1 - QM44</name>
@@ -447,7 +453,13 @@
     <text>
                   &lt;span class="TitlePlannedWork" &gt;Planned Detour&lt;/span&gt;
                   &lt;br/&gt;
-                &lt;a class="plannedWorkDetailLink" onclick=ShowHide(139058);&gt;&lt;b&gt;QM2, QM4, QM5 and QM6, weekend delays in the Queens Midtown Tunnel&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 139058 class="plannedWorkDetail" &gt;&lt;/b&gt;Until Spring 2018&lt;br&gt;&lt;br&gt;Due to &lt;a href=http://web.mta.info/sandy/bandt.htm target=_blank&gt;&lt;font color=#0000FF&gt;Superstorm Sandy&lt;/font&gt;&lt;/a&gt; restoration and repair work, please allow additional travel time.&lt;br&gt;&lt;br&gt;&lt;b&gt;Reminder&lt;/b&gt;: &lt;a href=http://web.mta.info/busco/schedules/qm002cur.pdf target=_blank&gt;&lt;font color=#0000FF&gt;QM2&lt;/font&gt;&lt;/a&gt;, &lt;a href=http://web.mta.info/busco/schedules/qm004cur.pdf target=_blank&gt;&lt;font color=#0000FF&gt;QM4&lt;/font&gt;&lt;/a&gt;, &lt;a href=http://web.mta.info/busco/schedules/qm001cur.pdf target=_blank&gt;&lt;font color=#0000FF&gt;QM5&lt;/font&gt;&lt;/a&gt; and &lt;a href=http://web.mta.info/busco/schedules/qm001cur.pdf target=_blank&gt;&lt;font color=#0000FF&gt;QM6&lt;/font&gt;&lt;/a&gt; buses do not operate overnight.&lt;br&gt;&lt;br&gt;&lt;b&gt;&lt;/b&gt;          &lt;a href=http://bustime.mta.info/ target=_blank&gt;&lt;img height=30px src=http://web.mta.info/nyct/images/Bus_Time_logo.png&gt;&lt;/a&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+                &lt;a class="plannedWorkDetailLink" onclick=ShowHide(179062);&gt;&lt;b&gt;QM2, QM5 and QM6&lt;/b&gt; - &lt;b&gt;Eastbound buses rerouted from 6 Av at 42 St to 59 St&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 179062 class="plannedWorkDetail" &gt;&lt;/b&gt;10 AM to 4 PM, Saturday, Jan 20&lt;br&gt;&lt;br&gt;Due to the 2018 Women's March on NYC, buses run via &lt;b&gt;Madison Av &lt;/b&gt;making corresponding stops.&lt;br&gt;&lt;br&gt;&lt;b&gt;&lt;i&gt;&lt;a style="cursor:pointer; text-decoration:underline;" onclick=ShowHide(1790620);&gt;Show Reroute Details&lt;/a&gt;&lt;/i&gt;&lt;/b&gt;&lt;br&gt;&lt;div id="1790620"; style="display:none;"&gt;&lt;b&gt;QM2&lt;br&gt;&lt;/b&gt;Via 6 Av&lt;br&gt;Right on 42 St&lt;br&gt;Left on Madison Av&lt;br&gt;Right on 59 St then regular route&lt;br&gt;&lt;br&gt;&lt;b&gt;QM5 and QM6&lt;br&gt;&lt;/b&gt;Via 6 Av&lt;br&gt;Right on 42 St&lt;br&gt;Left on Madison Av&lt;br&gt;Right on 57 St then regular route&lt;/div&gt;&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
+                  &lt;span class="TitlePlannedWork" &gt;Planned Detour&lt;/span&gt;
+                  &lt;br/&gt;
+                &lt;a class="plannedWorkDetailLink" onclick=ShowHide(179275);&gt;&lt;b&gt;QM4 and QM15&lt;/b&gt; - &lt;b&gt;Eastbound buses rerouted from 6 Av at 42 St to 57 St&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 179275 class="plannedWorkDetail" &gt;&lt;/b&gt;10 AM to 4 PM, Saturday, Jan 20&lt;br&gt;&lt;br&gt;Due to the 2018 Women's March on NYC, buses run via&lt;b&gt; Madison Av &lt;/b&gt;making corresponding stops.&lt;br&gt;&lt;br&gt;&lt;b&gt;&lt;i&gt;&lt;a style="cursor:pointer; text-decoration:underline;" onclick=ShowHide(1792750);&gt;Show Reroute Details&lt;/a&gt;&lt;/i&gt;&lt;/b&gt;&lt;br&gt;&lt;div id="1792750"; style="display:none;"&gt;Via 6 Av&lt;br&gt;Right on 42 St&lt;br&gt;Left on Madison Av&lt;br&gt;Right on 57 St then regular route&lt;/div&gt;&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
               &lt;br/&gt;
               &lt;br/&gt;
             
@@ -470,7 +482,7 @@
               &lt;br/&gt;
             </text>
     <Date>01/20/2018</Date>
-    <Time> 9:54AM</Time>
+    <Time>10:03AM</Time>
   </line>
   <line>
     <name>S40 - S98</name>
