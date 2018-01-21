@@ -244,8 +244,20 @@
 </subway><bus>
   <line>
     <name>B1 - B84</name>
-    <status>PLANNED WORK</status>
+    <status>SERVICE CHANGE</status>
     <text>
+                  &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                  &lt;span class="DateStyle"&gt;
+                  &amp;nbsp;Posted:&amp;nbsp;01/21/2018&amp;nbsp;12:39PM
+                  &lt;/span&gt;
+                  &lt;br/&gt;
+                  &lt;br/&gt;
+                &lt;P&gt;Westbound &lt;STRONG&gt;B16 &lt;/STRONG&gt;buses are detoured because of a road obstruction on 57 St and 13 Av.&lt;/P&gt;
+&lt;P&gt;Detour is as follows:&lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;Westbound:&lt;/STRONG&gt; Via 13 Av, right on 60 St, left on Fort Hamilton Pkwy and regular route.&lt;/P&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
                   &lt;span class="TitlePlannedWork" &gt;Planned Detour&lt;/span&gt;
                   &lt;br/&gt;
                 &lt;a class="plannedWorkDetailLink" onclick=ShowHide(179109);&gt;&lt;b&gt;B67 buses rerouted from Livingston St between Smith St/Jay St and Flatbush Av &lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 179109 class="plannedWorkDetail" &gt;&lt;/b&gt;10 PM Fri to 5 AM Mon, Jan 19 - 22&lt;br&gt;&lt;br&gt;Due to a crane operation:&lt;br&gt;&lt;br&gt;&lt;b&gt;Northbound&lt;/b&gt;: Buses run via Schermerhorn St.&lt;br&gt;&lt;br&gt;&lt;b&gt;Southbound&lt;/b&gt;: Buses run via Fulton St.&lt;br&gt;&lt;br&gt;Buses make corresponding stops along the detoured route.&lt;br&gt;&lt;br&gt;&lt;b&gt;&lt;i&gt;&lt;a style="cursor:pointer; text-decoration:underline;" onclick=ShowHide(1791090);&gt;Show Reroute Details&lt;/a&gt;&lt;/i&gt;&lt;/b&gt;&lt;br&gt;&lt;div id="1791090"; style="display:none;"&gt;&lt;b&gt;Northbound&lt;br&gt;&lt;/b&gt;Via Livingston St&lt;br&gt;Left on Bond St&lt;br&gt;Right on Schermerhorn St&lt;br&gt;Right on Smith St then regular route&lt;br&gt;&lt;br&gt;&lt;b&gt;Southbound&lt;br&gt;&lt;/b&gt;Via Jay St&lt;br&gt;Left on Fulton St&lt;br&gt;Right on Flatbush Av then regular route&lt;/div&gt;&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
@@ -307,7 +319,7 @@
               &lt;br/&gt;
             </text>
     <Date>01/21/2018</Date>
-    <Time>12:33PM</Time>
+    <Time>12:39PM</Time>
   </line>
   <line>
     <name>B100 - B103</name>
