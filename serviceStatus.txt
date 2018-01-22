@@ -1,15 +1,31 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>SERVICE CHANGE</status>
+    <text>
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;01/22/2018&amp;nbsp; 9:23AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;P&gt;Northbound [4] and [5] trains are running local from &lt;STRONG&gt;Franklin Av&lt;/STRONG&gt; to &lt;STRONG&gt;Atlantic Av-Barclays Ctr&lt;/STRONG&gt; because of a sick passenger at &lt;STRONG&gt;Atlantic Av-Barclays Ctr.&lt;/STRONG&gt;&lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;Expect delays in [2][3][4] and [5] train service. &lt;/STRONG&gt;&lt;/P&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>01/22/2018</Date>
+    <Time> 9:23AM</Time>
   </line>
   <line>
     <name>456</name>
     <status>SERVICE CHANGE</status>
     <text>
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;01/22/2018&amp;nbsp; 9:23AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;P&gt;Northbound [4] and [5] trains are running local from &lt;STRONG&gt;Franklin Av&lt;/STRONG&gt; to &lt;STRONG&gt;Atlantic Av-Barclays Ctr&lt;/STRONG&gt; because of a sick passenger at &lt;STRONG&gt;Atlantic Av-Barclays Ctr.&lt;/STRONG&gt;&lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;Expect delays in [2][3][4] and [5] train service. &lt;/STRONG&gt;&lt;/P&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              
                     &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
                     &amp;nbsp;Posted:&amp;nbsp;01/22/2018&amp;nbsp; 8:53AM
@@ -18,7 +34,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>01/22/2018</Date>
-    <Time> 8:53AM</Time>
+    <Time> 9:23AM</Time>
   </line>
   <line>
     <name>7</name>
@@ -93,7 +109,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>01/22/2018</Date>
-    <Time> 9:12AM</Time>
+    <Time> 9:23AM</Time>
   </line>
 </subway><bus>
   <line>
@@ -210,7 +226,7 @@
               &lt;br/&gt;
             </text>
     <Date>01/22/2018</Date>
-    <Time> 9:12AM</Time>
+    <Time> 9:23AM</Time>
   </line>
   <line>
     <name>BXM1 - BXM18</name>
@@ -236,7 +252,7 @@
               &lt;br/&gt;
             </text>
     <Date>01/22/2018</Date>
-    <Time> 9:12AM</Time>
+    <Time> 9:23AM</Time>
   </line>
   <line>
     <name>Q1 - Q113</name>
@@ -296,7 +312,7 @@
               &lt;br/&gt;
             </text>
     <Date>01/22/2018</Date>
-    <Time> 9:12AM</Time>
+    <Time> 9:23AM</Time>
   </line>
   <line>
     <name>S40 - S98</name>
