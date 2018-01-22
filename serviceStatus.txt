@@ -1,18 +1,17 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>SERVICE CHANGE</status>
+    <status>DELAYS</status>
     <text>
-                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;01/22/2018&amp;nbsp; 8:57AM
+                    &amp;nbsp;Posted:&amp;nbsp;01/22/2018&amp;nbsp; 9:02AM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  &lt;P&gt;Southbound [2] and [3] trains are running local from&lt;STRONG&gt; 34 St-Penn Station&lt;/STRONG&gt; to &lt;STRONG&gt;14 St&lt;/STRONG&gt; because of a sick passenger at &lt;STRONG&gt;34 St-Penn Station&lt;/STRONG&gt;.&lt;/P&gt;
-&lt;P&gt;Expect delays to [1] [2] and [3] train service.&lt;/P&gt;
+                  [2] and [3] train service has resumed following an earlier incident involving a sick passenger at &lt;STRONG&gt;34 St-Penn Station.&lt;/STRONG&gt;
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>01/22/2018</Date>
-    <Time> 8:57AM</Time>
+    <Time> 9:02AM</Time>
   </line>
   <line>
     <name>456</name>
@@ -37,31 +36,17 @@
   </line>
   <line>
     <name>ACE</name>
-    <status>DELAYS</status>
-    <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;01/22/2018&amp;nbsp; 8:11AM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  [A] [B] [C] and [E] train service has resumed following earlier signal problems at &lt;STRONG&gt;W 4 St-Washington Sq.&lt;/STRONG&gt;
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>01/22/2018</Date>
-    <Time> 8:11AM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>BDFM</name>
-    <status>DELAYS</status>
-    <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;01/22/2018&amp;nbsp; 8:11AM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  [A] [B] [C] and [E] train service has resumed following earlier signal problems at &lt;STRONG&gt;W 4 St-Washington Sq.&lt;/STRONG&gt;
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>01/22/2018</Date>
-    <Time> 8:11AM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>G</name>
