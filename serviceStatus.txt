@@ -1,39 +1,31 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>SERVICE CHANGE</status>
+    <status>DELAYS</status>
     <text>
-                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;01/23/2018&amp;nbsp; 4:28PM
+                    &amp;nbsp;Posted:&amp;nbsp;01/23/2018&amp;nbsp; 5:10PM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  &lt;P&gt;Some northbound [2] trains will end at &lt;STRONG&gt;34 St-Penn Station&lt;/STRONG&gt;. &lt;/P&gt;
-&lt;P&gt;Some northbound [2] trains are stopping along the [3] line from &lt;STRONG&gt;96 St&lt;/STRONG&gt; to &lt;STRONG&gt;Harlem-148 St&lt;/STRONG&gt; then end. &lt;/P&gt;
-&lt;P&gt;Southbound [2] trains are stopping along the [5] line from &lt;STRONG&gt;149 St-Grand Concourse&lt;/STRONG&gt; to &lt;STRONG&gt;Nevins St&lt;/STRONG&gt;. &lt;/P&gt;
-&lt;P&gt;Expect delays to [2], [3], [4] and [5] train service. &lt;/P&gt;
-&lt;P&gt;These service changes are because of FDNY activity at &lt;STRONG&gt;149 St-Grand Concourse&lt;/STRONG&gt;. &lt;/P&gt;
+                  [2] [3] [4] and [5] train service has resumed following the earlier FDNY activity at &lt;STRONG&gt;149 St-Grand Concourse&lt;/STRONG&gt;.
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>01/23/2018</Date>
-    <Time> 4:28PM</Time>
+    <Time> 5:10PM</Time>
   </line>
   <line>
     <name>456</name>
-    <status>SERVICE CHANGE</status>
+    <status>DELAYS</status>
     <text>
-                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;01/23/2018&amp;nbsp; 4:28PM
+                    &amp;nbsp;Posted:&amp;nbsp;01/23/2018&amp;nbsp; 5:10PM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  &lt;P&gt;Some northbound [2] trains will end at &lt;STRONG&gt;34 St-Penn Station&lt;/STRONG&gt;. &lt;/P&gt;
-&lt;P&gt;Some northbound [2] trains are stopping along the [3] line from &lt;STRONG&gt;96 St&lt;/STRONG&gt; to &lt;STRONG&gt;Harlem-148 St&lt;/STRONG&gt; then end. &lt;/P&gt;
-&lt;P&gt;Southbound [2] trains are stopping along the [5] line from &lt;STRONG&gt;149 St-Grand Concourse&lt;/STRONG&gt; to &lt;STRONG&gt;Nevins St&lt;/STRONG&gt;. &lt;/P&gt;
-&lt;P&gt;Expect delays to [2], [3], [4] and [5] train service. &lt;/P&gt;
-&lt;P&gt;These service changes are because of FDNY activity at &lt;STRONG&gt;149 St-Grand Concourse&lt;/STRONG&gt;. &lt;/P&gt;
+                  [2] [3] [4] and [5] train service has resumed following the earlier FDNY activity at &lt;STRONG&gt;149 St-Grand Concourse&lt;/STRONG&gt;.
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>01/23/2018</Date>
-    <Time> 4:28PM</Time>
+    <Time> 5:10PM</Time>
   </line>
   <line>
     <name>7</name>
@@ -44,17 +36,10 @@
   </line>
   <line>
     <name>ACE</name>
-    <status>DELAYS</status>
-    <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;01/23/2018&amp;nbsp; 4:56PM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  [M] and [R] train service has resumed following an earlier incident involving a train with mechanical problems at &lt;STRONG&gt;63 Dr-Rego Park&lt;/STRONG&gt;.
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>01/23/2018</Date>
-    <Time> 4:56PM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>BDFM</name>
@@ -65,13 +50,6 @@
                     &amp;nbsp;Posted:&amp;nbsp;01/23/2018&amp;nbsp; 4:59PM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
                   [D] train service has resumed following earlier signal problems at &lt;STRONG&gt;Bay Pkwy&lt;/STRONG&gt;.
-                &lt;br/&gt;&lt;br/&gt;
-              
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;01/23/2018&amp;nbsp; 4:56PM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  [M] and [R] train service has resumed following an earlier incident involving a train with mechanical problems at &lt;STRONG&gt;63 Dr-Rego Park&lt;/STRONG&gt;.
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>01/23/2018</Date>
@@ -100,17 +78,10 @@
   </line>
   <line>
     <name>NQR</name>
-    <status>DELAYS</status>
-    <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;01/23/2018&amp;nbsp; 4:56PM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  [M] and [R] train service has resumed following an earlier incident involving a train with mechanical problems at &lt;STRONG&gt;63 Dr-Rego Park&lt;/STRONG&gt;.
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>01/23/2018</Date>
-    <Time> 4:56PM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>S</name>
@@ -138,7 +109,7 @@
               &lt;br/&gt;
             </text>
     <Date>01/23/2018</Date>
-    <Time> 5:03PM</Time>
+    <Time> 5:10PM</Time>
   </line>
   <line>
     <name>B100 - B103</name>
@@ -171,7 +142,7 @@
               &lt;br/&gt;
             </text>
     <Date>01/23/2018</Date>
-    <Time> 5:03PM</Time>
+    <Time> 5:10PM</Time>
   </line>
   <line>
     <name>BXM1 - BXM18</name>
@@ -307,7 +278,7 @@
               &lt;br/&gt;
             </text>
     <Date>01/23/2018</Date>
-    <Time> 5:03PM</Time>
+    <Time> 5:10PM</Time>
   </line>
   <line>
     <name>S40 - S98</name>
