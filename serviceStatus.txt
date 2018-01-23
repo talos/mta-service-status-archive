@@ -29,10 +29,17 @@
   </line>
   <line>
     <name>BDFM</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>DELAYS</status>
+    <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;01/23/2018&amp;nbsp; 8:15AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  Broadway Junction bound [M] and southbound [R] trains are running with delays because of signal problems at &lt;STRONG&gt;36 St-&lt;/STRONG&gt;Bklyn.
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>01/23/2018</Date>
+    <Time> 8:15AM</Time>
   </line>
   <line>
     <name>G</name>
@@ -61,13 +68,13 @@
     <text>
                     &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;01/23/2018&amp;nbsp; 7:51AM
+                    &amp;nbsp;Posted:&amp;nbsp;01/23/2018&amp;nbsp; 8:15AM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  [N] train service has resumed following earlier signal problems at &lt;STRONG&gt;34 St-Herald Sq&lt;/STRONG&gt;.
+                  Broadway Junction bound [M] and southbound [R] trains are running with delays because of signal problems at &lt;STRONG&gt;36 St-&lt;/STRONG&gt;Bklyn.
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>01/23/2018</Date>
-    <Time> 7:51AM</Time>
+    <Time> 8:15AM</Time>
   </line>
   <line>
     <name>S</name>
@@ -375,15 +382,8 @@
   </line>
   <line>
     <name>Port Jefferson</name>
-    <status>DELAYS</status>
+    <status>SERVICE CHANGE</status>
     <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;01/23/2018&amp;nbsp; 7:55AM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  The 7:18AM train from Westbury due Penn at 8:02AM is operating 13 minutes late after making added stops to accommodate customers from an earlier canceled train.
-                &lt;br/&gt;&lt;br/&gt;
-              
                     &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
                     &amp;nbsp;Posted:&amp;nbsp;01/23/2018&amp;nbsp; 7:38AM
@@ -392,7 +392,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>01/23/2018</Date>
-    <Time> 7:55AM</Time>
+    <Time> 7:38AM</Time>
   </line>
   <line>
     <name>Port Washington</name>
