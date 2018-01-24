@@ -1,13 +1,13 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>SERVICE CHANGE</status>
+    <status>DELAYS</status>
     <text>
-                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;01/23/2018&amp;nbsp; 9:57PM
+                    &amp;nbsp;Posted:&amp;nbsp;01/23/2018&amp;nbsp;10:02PM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  Southbound [1] trains are running express from &lt;STRONG&gt;34 St-Penn Stations&lt;/STRONG&gt; to &lt;STRONG&gt;Chambers St&lt;/STRONG&gt; because of signal problems at &lt;STRONG&gt;34 St-Penn Station&lt;/STRONG&gt;.
+                  [1] train service has resumed following earlier signal problems at &lt;STRONG&gt;34 St-Penn Station.&lt;/STRONG&gt;
                 &lt;br/&gt;&lt;br/&gt;
               
                     &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
@@ -21,7 +21,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>01/23/2018</Date>
-    <Time> 9:57PM</Time>
+    <Time>10:02PM</Time>
   </line>
   <line>
     <name>456</name>
@@ -490,17 +490,10 @@
   </line>
   <line>
     <name>New Canaan</name>
-    <status>DELAYS</status>
-    <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;01/23/2018&amp;nbsp; 9:03PM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  New Canaan Branch Line Service is currently experiencing delays of 10 to 15 minutes due to speed restrictions in the vicinity of Springdale. Please listen for announcements at your station.
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>01/23/2018</Date>
-    <Time> 9:03PM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>Danbury</name>
