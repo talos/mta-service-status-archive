@@ -1,10 +1,17 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>DELAYS</status>
+    <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;01/24/2018&amp;nbsp; 3:50PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  Southbound [2] trains are running with delays because of a train with mechanical problems at&lt;STRONG&gt; E 180 St&lt;/STRONG&gt;.
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>01/24/2018</Date>
+    <Time> 3:50PM</Time>
   </line>
   <line>
     <name>456</name>
