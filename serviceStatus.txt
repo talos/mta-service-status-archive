@@ -29,10 +29,15 @@
   </line>
   <line>
     <name>BDFM</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>PLANNED WORK</status>
+    <text>
+                    &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
+                    &lt;br/&gt;
+                  &lt;a class="plannedWorkDetailLink" onclick=ShowHide(176409);&gt;&lt;b&gt;&lt;i&gt;SIGNAL MAINTENANCE&lt;/i&gt;&lt;br clear=left&gt;[D] Norwood-bound trains make local stops at 25 St, Prospect Av, 4 Av-9 St, Union St and DeKalb Av&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 176409 class="plannedWorkDetail" &gt;&lt;/b&gt;Evenings, beginning 8:30 PM, Mon to Thu, Jan 22 - 25&lt;br&gt;&lt;br&gt;&amp;bull; Please allow additional travel time.&lt;br&gt;&lt;br&gt;&lt;b&gt;Reminder:&lt;/b&gt; &lt;/font&gt;&lt;a href=http://advisory.mtanyct.info/pdf_files/NightMap.pdf target=_blank&gt;&lt;font color=#0000FF&gt;Late Night&lt;/font&gt;&lt;/a&gt; local service operates as scheduled in Brooklyn.&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>01/23/2018</Date>
+    <Time> 8:31PM</Time>
   </line>
   <line>
     <name>G</name>
@@ -57,10 +62,15 @@
   </line>
   <line>
     <name>NQR</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>PLANNED WORK</status>
+    <text>
+                    &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
+                    &lt;br/&gt;
+                  &lt;a class="plannedWorkDetailLink" onclick=ShowHide(176410);&gt;&lt;b&gt;&lt;i&gt;SIGNAL MAINTENANCE&lt;/i&gt;&lt;BR CLEAR=LEFT&gt;[N] Astoria-bound trains run local from 59 St, Brooklyn to DeKalb Av&lt;/font&gt; &lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 176410 class="plannedWorkDetail" &gt;&lt;/b&gt;Evenings, beginning 8:30 PM, Mon to Thu, Jan 22 - 25&lt;br&gt;&lt;br&gt;&amp;bull; Please allow additional travel time.&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>01/23/2018</Date>
+    <Time> 8:31PM</Time>
   </line>
   <line>
     <name>S</name>
@@ -88,7 +98,7 @@
               &lt;br/&gt;
             </text>
     <Date>01/23/2018</Date>
-    <Time> 8:23PM</Time>
+    <Time> 8:31PM</Time>
   </line>
   <line>
     <name>B100 - B103</name>
@@ -121,7 +131,7 @@
               &lt;br/&gt;
             </text>
     <Date>01/23/2018</Date>
-    <Time> 8:23PM</Time>
+    <Time> 8:31PM</Time>
   </line>
   <line>
     <name>BXM1 - BXM18</name>
@@ -175,18 +185,15 @@
   </line>
   <line>
     <name>Q1 - Q113</name>
-    <status>SERVICE CHANGE</status>
+    <status>DELAYS</status>
     <text>
-                  &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                  &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                   &lt;span class="DateStyle"&gt;
-                  &amp;nbsp;Posted:&amp;nbsp;01/23/2018&amp;nbsp; 8:01PM
+                  &amp;nbsp;Posted:&amp;nbsp;01/23/2018&amp;nbsp; 8:32PM
                   &lt;/span&gt;
                   &lt;br/&gt;
                   &lt;br/&gt;
-                &lt;P&gt;&lt;STRONG&gt;Q39&lt;/STRONG&gt; buses are detoured westbound because of Con Ed work on 44 Dr and 23 Av. &lt;/P&gt;
-&lt;P&gt;Detour is as follows:&lt;/P&gt;
-&lt;P&gt;&lt;STRONG&gt;Q39 Westbound&lt;/STRONG&gt;: Via 23 St continue on 23 St, left on Jackson Av, right on Thompson Av and regular route.&lt;/P&gt;
-&lt;P&gt;Corresponding stops will be made along detour route.&lt;/P&gt;
+                &lt;STRONG&gt;Q39 &lt;/STRONG&gt;bus service has resumed following earlier Con Ed work on 44 Dr.
               &lt;br/&gt;
               &lt;br/&gt;
             
@@ -219,7 +226,7 @@
               &lt;br/&gt;
             </text>
     <Date>01/23/2018</Date>
-    <Time> 8:01PM</Time>
+    <Time> 8:32PM</Time>
   </line>
   <line>
     <name>QM1 - QM44</name>
@@ -244,7 +251,7 @@
               &lt;br/&gt;
             </text>
     <Date>01/23/2018</Date>
-    <Time> 8:23PM</Time>
+    <Time> 8:31PM</Time>
   </line>
   <line>
     <name>S40 - S98</name>
@@ -309,13 +316,20 @@
     <text>
                     &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;01/23/2018&amp;nbsp; 8:31PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  GOWANUS HOV LANE BETWEEN HLC AND VNB IS NOW CLOSED TO TRAFFIC. VNB UPPER LEVEL HOV LANE REMAINS IN THE STATEN ISLAND-BOUND CONFIGURATION.
+                &lt;br/&gt;&lt;br/&gt;
+              
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
                     &amp;nbsp;Posted:&amp;nbsp;01/23/2018&amp;nbsp;10:15AM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
                   &lt;body bgcolor='White' style='font-family:sans-serif;font-size:10pt;'&gt;DUE TO WET ROADWAYS MOTORISTS ARE ASKED TO DRIVE AT REDUCED SPEEDS.&lt;/body&gt;
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>01/23/2018</Date>
-    <Time>10:15AM</Time>
+    <Time> 8:31PM</Time>
   </line>
   <line>
     <name>Marine Parkway</name>
@@ -379,13 +393,20 @@
     <text>
                     &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;01/23/2018&amp;nbsp; 8:31PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  GOWANUS HOV LANE BETWEEN HLC AND VNB IS NOW CLOSED TO TRAFFIC. VNB UPPER LEVEL HOV LANE REMAINS IN THE STATEN ISLAND-BOUND CONFIGURATION.
+                &lt;br/&gt;&lt;br/&gt;
+              
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
                     &amp;nbsp;Posted:&amp;nbsp;01/23/2018&amp;nbsp;10:15AM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
                   &lt;body bgcolor='White' style='font-family:sans-serif;font-size:10pt;'&gt;DUE TO WET ROADWAYS MOTORISTS ARE ASKED TO DRIVE AT REDUCED SPEEDS.&lt;/body&gt;
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>01/23/2018</Date>
-    <Time>10:15AM</Time>
+    <Time> 8:31PM</Time>
   </line>
 </BT><LIRR>
   <line>
