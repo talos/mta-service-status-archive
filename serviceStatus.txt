@@ -1,17 +1,10 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>DELAYS</status>
-    <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;01/24/2018&amp;nbsp; 5:37PM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  [1] train service has resumed following an earlier incident involving a train with mechanical problems at &lt;STRONG&gt;86 St&lt;/STRONG&gt;.
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>01/24/2018</Date>
-    <Time> 5:37PM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>456</name>
@@ -356,7 +349,7 @@
               &lt;br/&gt;
             </text>
     <Date>01/24/2018</Date>
-    <Time> 5:43PM</Time>
+    <Time> 5:51PM</Time>
   </line>
   <line>
     <name>S40 - S98</name>
@@ -581,6 +574,13 @@
                     &amp;nbsp;Posted:&amp;nbsp;01/24/2018&amp;nbsp; 5:47PM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
                   &lt;strong&gt;The LIRR is experiencing delays and cancellations due to an Amtrak signal problem in Penn Station.&lt;/strong&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;01/24/2018&amp;nbsp; 5:51PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;font face="sans-serif"&gt;&lt;span style="font-size: 13.3333px;"&gt;The 5:29PM train from Penn due Great Neck at 6:05PM is operating 17 minutes late due to an earlier Amtrak signal problem in Penn Station.&lt;/span&gt;&lt;/font&gt;
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>01/24/2018</Date>
