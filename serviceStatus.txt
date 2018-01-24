@@ -1,8 +1,16 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>DELAYS</status>
+    <status>SERVICE CHANGE</status>
     <text>
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;01/24/2018&amp;nbsp; 8:43AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;P&gt;Southbound [2] and [3] trains are running local from &lt;STRONG&gt;34 St-Penn Station&lt;/STRONG&gt; to &lt;STRONG&gt;Chambers St&lt;/STRONG&gt; because of a sick passenger at &lt;STRONG&gt;14 St.&lt;/STRONG&gt;&lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;Expect delays in [1] [2] and [3] train service. &lt;/STRONG&gt;&lt;/P&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              
                     &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
                     &amp;nbsp;Posted:&amp;nbsp;01/24/2018&amp;nbsp; 8:37AM
@@ -11,7 +19,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>01/24/2018</Date>
-    <Time> 8:37AM</Time>
+    <Time> 8:43AM</Time>
   </line>
   <line>
     <name>456</name>
@@ -179,18 +187,15 @@
   </line>
   <line>
     <name>M1 - M116</name>
-    <status>SERVICE CHANGE</status>
+    <status>DELAYS</status>
     <text>
-                  &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                  &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                   &lt;span class="DateStyle"&gt;
-                  &amp;nbsp;Posted:&amp;nbsp;01/24/2018&amp;nbsp; 8:22AM
+                  &amp;nbsp;Posted:&amp;nbsp;01/24/2018&amp;nbsp; 8:44AM
                   &lt;/span&gt;
                   &lt;br/&gt;
                   &lt;br/&gt;
-                &lt;P&gt;&lt;STRONG&gt;M1, M7&lt;/STRONG&gt; and &lt;STRONG&gt;M102&lt;/STRONG&gt; northbound buses are detoured because of road work on 147 St between Lenox Av and 7 Av. &lt;/P&gt;
-&lt;P&gt;Detour is as follows:&lt;/P&gt;
-&lt;P&gt;&lt;STRONG&gt;M1, M2 Northbound&lt;/STRONG&gt;: Via Lenox Av will make U-turn on Lenox Av between 146 St and 147 St and take stand.&lt;/P&gt;
-&lt;P&gt;&lt;STRONG&gt;M102 Northbound&lt;/STRONG&gt;: Via Lenox Av, left 145 St, right on 7 Av, right on 146 St and take stand. &lt;/P&gt;
+                &lt;STRONG&gt;M1,&lt;/STRONG&gt; &lt;STRONG&gt;M7 &lt;/STRONG&gt;and &lt;STRONG&gt;M102&lt;/STRONG&gt; bus service has resumed following earlier road work on 147 St between Lenox Av and 7 Av. See mta.info.
               &lt;br/&gt;
               &lt;br/&gt;
             
@@ -207,7 +212,7 @@
               &lt;br/&gt;
             </text>
     <Date>01/24/2018</Date>
-    <Time> 8:22AM</Time>
+    <Time> 8:44AM</Time>
   </line>
   <line>
     <name>Q1 - Q113</name>
