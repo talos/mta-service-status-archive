@@ -1,17 +1,10 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>DELAYS</status>
-    <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;01/24/2018&amp;nbsp; 8:06PM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  [3] train service has resumed following an earlier NYPD investigation at &lt;STRONG&gt;Kingston Av&lt;/STRONG&gt;.
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>01/24/2018</Date>
-    <Time> 8:06PM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>456</name>
@@ -420,18 +413,10 @@
   </line>
   <line>
     <name>Oyster Bay</name>
-    <status>DELAYS</status>
-    <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;01/24/2018&amp;nbsp; 7:30PM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  &lt;P&gt;The 6:41PM train from Hunterspoint Ave. due Oyster Bay at 7:56PM is operating 11 minutes late due to an earlier Amtrak signal problem in Penn Station. &lt;/P&gt;
-&lt;P&gt;The 6:16PM train from Penn due Oyster Bay at 7:30PM is operating 12 minutes late due to congestion caused by an earlier Amtrak signal problem in Penn Station.&lt;/P&gt;
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>01/24/2018</Date>
-    <Time> 7:30PM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>Port Jefferson</name>
