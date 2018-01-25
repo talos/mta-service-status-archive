@@ -294,10 +294,17 @@
 </BT><LIRR>
   <line>
     <name>Babylon</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>DELAYS</status>
+    <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;01/25/2018&amp;nbsp; 7:28AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;font face="sans-serif"&gt;&lt;span style="font-size: 13.3333px;"&gt;The 6:31AM train from Lindenhurst due Penn at 7:33AM is operating 10 minutes late due to congestion at Jamaica.&lt;/span&gt;&lt;/font&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>01/25/2018</Date>
+    <Time> 7:28AM</Time>
   </line>
   <line>
     <name>City Terminal Zone</name>
@@ -385,19 +392,10 @@
   </line>
   <line>
     <name>Port Washington</name>
-    <status>DELAYS</status>
-    <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;01/25/2018&amp;nbsp; 7:10AM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  &lt;body bgcolor='White' style='font-family:sans-serif;font-size:10pt;'&gt;The 6:45AM train from Port Washington due Penn at 7:24AM is cancelled 
-due to equipment trouble. Customers will be accommodated on the 
-following westbound train.          &lt;/body&gt;
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>01/25/2018</Date>
-    <Time> 7:10AM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>Ronkonkoma</name>
