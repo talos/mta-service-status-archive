@@ -1,36 +1,22 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>DELAYS</status>
-    <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;01/24/2018&amp;nbsp; 9:00PM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  [2] [3] [4] and [5] train service has resumed following the earlier NYPD activity at &lt;STRONG&gt;Kingston Av&lt;/STRONG&gt;.
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>01/24/2018</Date>
-    <Time> 9:00PM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>456</name>
-    <status>DELAYS</status>
+    <status>PLANNED WORK</status>
     <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;01/24/2018&amp;nbsp; 9:00PM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  [2] [3] [4] and [5] train service has resumed following the earlier NYPD activity at &lt;STRONG&gt;Kingston Av&lt;/STRONG&gt;.
-                &lt;br/&gt;&lt;br/&gt;
-              
                     &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
                     &lt;br/&gt;
                   &lt;a class="plannedWorkDetailLink" onclick=ShowHide(177101);&gt;&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 177101 class="plannedWorkDetail" &gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>01/24/2018</Date>
-    <Time> 9:00PM</Time>
+    <Time> 9:23PM</Time>
   </line>
   <line>
     <name>7</name>
