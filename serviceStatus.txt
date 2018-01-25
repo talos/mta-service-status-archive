@@ -1,14 +1,13 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>SERVICE CHANGE</status>
+    <status>DELAYS</status>
     <text>
-                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;01/25/2018&amp;nbsp;10:28AM
+                    &amp;nbsp;Posted:&amp;nbsp;01/25/2018&amp;nbsp;10:37AM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  &lt;P&gt;Some northbound [3] trains will end at &lt;STRONG&gt;Times Sq-42 St&lt;/STRONG&gt; or &lt;STRONG&gt;Crown Hts-Utica Av&lt;/STRONG&gt; because of signal problems at&lt;STRONG&gt; New Lots Av&lt;/STRONG&gt;.&lt;/P&gt;
-&lt;P&gt;Expect delays on [3] train service in both directions. &lt;/P&gt;
+                  [3] train service has resumed following earlier signal problems at &lt;STRONG&gt;New Lots Av&lt;/STRONG&gt;.
                 &lt;br/&gt;&lt;br/&gt;
               
                     &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
@@ -17,7 +16,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>01/25/2018</Date>
-    <Time>10:28AM</Time>
+    <Time>10:37AM</Time>
   </line>
   <line>
     <name>456</name>
