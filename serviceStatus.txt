@@ -1,10 +1,18 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>DELAYS</status>
+    <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;01/25/2018&amp;nbsp; 9:19PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;P&gt;Northbound [2] trains are running with delays because of an investigation at &lt;STRONG&gt;Atlantic Av- Barclays Ctr&lt;/STRONG&gt;.&lt;/P&gt;
+&lt;P&gt;Expect delays on [2], [3] and [4] train service.&lt;/P&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>01/25/2018</Date>
+    <Time> 9:19PM</Time>
   </line>
   <line>
     <name>456</name>
