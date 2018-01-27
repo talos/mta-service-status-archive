@@ -1,17 +1,17 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>SERVICE CHANGE</status>
+    <status>DELAYS</status>
     <text>
-                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;01/26/2018&amp;nbsp; 8:28PM
+                    &amp;nbsp;Posted:&amp;nbsp;01/26/2018&amp;nbsp; 8:32PM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  Northbound [1] trains are running express from &lt;STRONG&gt;96 St&lt;/STRONG&gt; to &lt;STRONG&gt;137 St-City College&lt;/STRONG&gt; because of NYPD Activity at &lt;STRONG&gt;103 St.&lt;/STRONG&gt;
+                  [1] train service has resumed following earlier NYPD Activity at &lt;STRONG&gt;103 St.&lt;/STRONG&gt;
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>01/26/2018</Date>
-    <Time> 8:28PM</Time>
+    <Time> 8:32PM</Time>
   </line>
   <line>
     <name>456</name>
@@ -43,10 +43,15 @@
   </line>
   <line>
     <name>BDFM</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>PLANNED WORK</status>
+    <text>
+                    &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
+                    &lt;br/&gt;
+                  &lt;a class="plannedWorkDetailLink" onclick=ShowHide(177069);&gt;&lt;b&gt;&lt;i&gt;TRACK MAINTENANCE&lt;/i&gt;&lt;br clear=left&gt;[M] Service ends early between 71 Av and Essex St&lt;br clear=left&gt;[E] [F] [R] trains provide alternate service&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 177069 class="plannedWorkDetail" &gt;&lt;/b&gt;Evening, 8:30 PM to 11:59 PM, Friday, Jan 26  &lt;br&gt;&lt;br&gt;[M] service operates between &lt;b&gt;Essex St&lt;/b&gt; and &lt;b&gt;Myrtle Av &lt;/b&gt;and via the [J] &lt;i&gt;to/from&lt;/i&gt; Broadway Junction.&lt;br&gt;[M] shuttle service operates between &lt;b&gt;Metropolitan Av&lt;/b&gt; and &lt;b&gt;Myrtle Wyckoff Avs&lt;/b&gt;.&lt;br&gt;&lt;br&gt;&lt;table class=plannedworkTableStyle  width=70%&gt;&lt;tr&gt;&lt;td&gt;&lt;font size=3&gt;&lt;b&gt;Travel Alternatives&lt;/b&gt;&lt;/font&gt;&lt;td align=right&gt;[TP]&lt;/table&gt;&lt;br&gt;[R]* trains make [M] stops between 71 Av and Queens Plaza.&lt;br&gt;[E] trains make all [M] stops between Queens Plaza and 5 Av/53 St.&lt;br&gt;[F] trains make all [M] stops between 47-50 Sts and Delancey St/Essex St. &lt;br&gt;&lt;br&gt;&amp;bull; Transfer between &lt;b&gt;[F]&lt;/b&gt; and &lt;b&gt;[R]&lt;/b&gt; trains at Roosevelt Av or 34 St-Herald Sq.&lt;br&gt;&amp;bull; Transfer between &lt;b&gt;[E]&lt;/b&gt; and &lt;b&gt;[F]&lt;/b&gt; trains at W 4 St.&lt;br&gt;&amp;bull; Transfer between &lt;b&gt;[F]&lt;/b&gt; and &lt;b&gt;[M]&lt;/b&gt; trains at Delancey St/Essex St.&lt;br&gt;&lt;br&gt;&lt;b&gt;Reminder:&lt;/b&gt; No &lt;b&gt;[M]&lt;/b&gt; service between Myrtle-Wyckoff Avs and Myrtle Av.&lt;/font&gt;        &lt;br&gt;&lt;br&gt;&lt;i&gt;*Please review [R] advisories for additional information that may affect your trip.&lt;/i&gt;&lt;/font&gt;  &lt;br&gt;&lt;br&gt;&lt;/font&gt;&lt;table class=plannedworkTableStyle  border=1 cellspacing=1 cellpadding=5 rules=none frame=box&gt;&lt;td&gt;  [ad]  &lt;td&gt;&lt;font size=1&gt;This service change affects one or more ADA accessible stations. Please call 511 for help with planning&lt;br&gt;your trip. If you are deaf or hard of hearing, use your preferred relay service provider or the free 711 relay.  &lt;/font&gt;&lt;/table&gt;&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>01/26/2018</Date>
+    <Time> 8:32PM</Time>
   </line>
   <line>
     <name>G</name>
@@ -196,7 +201,7 @@
               &lt;br/&gt;
             </text>
     <Date>01/26/2018</Date>
-    <Time> 8:27PM</Time>
+    <Time> 8:32PM</Time>
   </line>
   <line>
     <name>BXM1 - BXM18</name>
@@ -222,7 +227,7 @@
               &lt;br/&gt;
             </text>
     <Date>01/26/2018</Date>
-    <Time> 8:27PM</Time>
+    <Time> 8:32PM</Time>
   </line>
   <line>
     <name>Q1 - Q113</name>
@@ -292,7 +297,7 @@
               &lt;br/&gt;
             </text>
     <Date>01/26/2018</Date>
-    <Time> 8:27PM</Time>
+    <Time> 8:32PM</Time>
   </line>
   <line>
     <name>S40 - S98</name>
@@ -431,17 +436,10 @@
   </line>
   <line>
     <name>Port Washington</name>
-    <status>DELAYS</status>
-    <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;01/26/2018&amp;nbsp; 8:09PM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  The 7:39PM train from Port Washington due Penn at 8:22PM is operating 10 minutes late due to congestion caused by a delayed eastbound train in single-track territory.
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>01/26/2018</Date>
-    <Time> 8:09PM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>Ronkonkoma</name>
