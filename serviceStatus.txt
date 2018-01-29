@@ -33,8 +33,15 @@
   </line>
   <line>
     <name>456</name>
-    <status>PLANNED WORK</status>
+    <status>SERVICE CHANGE</status>
     <text>
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;01/28/2018&amp;nbsp;11:06PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  Southbound [4] and [6] trains are running express from &lt;STRONG&gt;14 St-Union Square&lt;/STRONG&gt; to &lt;STRONG&gt;Brooklyn Bridge-City&lt;/STRONG&gt; &lt;STRONG&gt;Hall&lt;/STRONG&gt; because of a train with mechanical problems at &lt;STRONG&gt;Spring St.&lt;/STRONG&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              
                     &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
                     &lt;br/&gt;
                   &lt;a class="plannedWorkDetailLink" onclick=ShowHide(175068);&gt;&lt;b&gt;&lt;i&gt;TRACK MAINTENANCE&lt;/i&gt;&lt;br clear=left&gt;[4] Trains run local in both directions between 125 St and Brooklyn Bridge&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 175068 class="plannedWorkDetail" &gt;&lt;/b&gt;Weekend, 12:01 AM Sat to 5 AM Mon, Jan 27 - 29&lt;br&gt;&lt;br&gt;&amp;bull; Please allow additional travel time.&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
@@ -61,7 +68,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>01/28/2018</Date>
-    <Time>11:03PM</Time>
+    <Time>11:06PM</Time>
   </line>
   <line>
     <name>7</name>
@@ -265,18 +272,15 @@
   </line>
   <line>
     <name>BX1 - BX55</name>
-    <status>SERVICE CHANGE</status>
+    <status>DELAYS</status>
     <text>
-                  &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                  &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                   &lt;span class="DateStyle"&gt;
-                  &amp;nbsp;Posted:&amp;nbsp;01/28/2018&amp;nbsp;10:04PM
+                  &amp;nbsp;Posted:&amp;nbsp;01/28/2018&amp;nbsp;11:06PM
                   &lt;/span&gt;
                   &lt;br/&gt;
                   &lt;br/&gt;
-                &lt;P&gt;&lt;STRONG&gt;Bx21&lt;/STRONG&gt; buses are detoured in both directions because of NYPD activity at Bristow Av and Boston Rd. &lt;/P&gt;
-&lt;P&gt;Detour is as follows:&lt;/P&gt;
-&lt;P&gt;&lt;STRONG&gt;Bx21 Southbound:&lt;/STRONG&gt; Via Boston Rd, right on Louis Nine Blvd, left on Prospect Av, right on Boston Rd and regular route.&lt;/P&gt;
-&lt;P&gt;&lt;STRONG&gt;Bx21 Northbound:&lt;/STRONG&gt; Via Boston Rd, left on Prospect Av, right on Crotona Av, left on Boston Rd and regular route.&lt;/P&gt;
+                &lt;STRONG&gt;Bx21 &lt;/STRONG&gt;bus service has resumed following earlier NYPD activity at Bristow Av and Boston Rd.
               &lt;br/&gt;
               &lt;br/&gt;
             
@@ -307,7 +311,7 @@
               &lt;br/&gt;
             </text>
     <Date>01/28/2018</Date>
-    <Time>10:04PM</Time>
+    <Time>11:06PM</Time>
   </line>
   <line>
     <name>BXM1 - BXM18</name>
