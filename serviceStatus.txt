@@ -1,19 +1,17 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>SERVICE CHANGE</status>
+    <status>DELAYS</status>
     <text>
-                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;01/30/2018&amp;nbsp; 8:00AM
+                    &amp;nbsp;Posted:&amp;nbsp;01/30/2018&amp;nbsp; 8:17AM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  &lt;P&gt;Northbound [2] trains are stopping along the [5] line from &lt;STRONG&gt;Nevins St&lt;/STRONG&gt; to &lt;STRONG&gt;149 St-Grand Concourse&lt;/STRONG&gt;.&lt;/P&gt;
-&lt;P&gt;Northbound [2] and [3] trains are running with delays.&lt;/P&gt;
-&lt;P&gt;These service changes are because of an unauthorized person on the tracks at &lt;STRONG&gt;Hoyt St.&lt;/STRONG&gt;&lt;/P&gt;
+                  [2] and [3] trains service has resumed following an earlier incident involving an unauthorized person on the tracks at &lt;STRONG&gt;Hoyt St.&lt;/STRONG&gt;
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>01/30/2018</Date>
-    <Time> 8:00AM</Time>
+    <Time> 8:17AM</Time>
   </line>
   <line>
     <name>456</name>
@@ -35,20 +33,34 @@
     <text>
                     &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;01/30/2018&amp;nbsp; 8:15AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  Southbound [A] and [D] trains are running with delays because of a sick passenger at &lt;STRONG&gt;59 St-Columbus Circle.&lt;/STRONG&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
                     &amp;nbsp;Posted:&amp;nbsp;01/30/2018&amp;nbsp; 8:01AM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
                   Due an earlier incident involving a train with mechanical problems at &lt;STRONG&gt;Broad Channel&lt;/STRONG&gt; [A] train service has resumed.
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>01/30/2018</Date>
-    <Time> 8:01AM</Time>
+    <Time> 8:15AM</Time>
   </line>
   <line>
     <name>BDFM</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>DELAYS</status>
+    <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;01/30/2018&amp;nbsp; 8:15AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  Southbound [A] and [D] trains are running with delays because of a sick passenger at &lt;STRONG&gt;59 St-Columbus Circle.&lt;/STRONG&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>01/30/2018</Date>
+    <Time> 8:15AM</Time>
   </line>
   <line>
     <name>G</name>
@@ -477,13 +489,13 @@
     <text>
                     &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;01/30/2018&amp;nbsp; 8:08AM
+                    &amp;nbsp;Posted:&amp;nbsp;01/30/2018&amp;nbsp; 8:15AM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  The 8:55AM train from Huntington due Penn at 10:05AM is canceled due to an equipment problem. Customers will be accommodated by the 9:25AM train from Huntington due Hicksville at 9:46AM. Transfer at Hicksville for service to points west.
+                  &lt;p&gt;&lt;strong&gt;&lt;u&gt;Westbound:&lt;/u&gt;&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The 8:55AM train from Huntington due Penn at 10:05AM is canceled due to an equipment problem. Customers will be accommodated by the 9:25AM train from Huntington due Hicksville at 9:46AM. Transfer at Hicksville for service to points west.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;&lt;u&gt;Eastbound:&lt;/u&gt;&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The 8:00AM train from Penn due Huntington at 9:10AM is operating 10 minutes late after receiving substitute equipment at Penn Station.&lt;/p&gt;
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>01/30/2018</Date>
-    <Time> 8:08AM</Time>
+    <Time> 8:15AM</Time>
   </line>
   <line>
     <name>Port Washington</name>
