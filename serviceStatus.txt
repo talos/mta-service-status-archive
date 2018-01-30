@@ -22,17 +22,33 @@
   </line>
   <line>
     <name>ACE</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>SERVICE CHANGE</status>
+    <text>
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;01/30/2018&amp;nbsp; 6:24PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;P&gt;Northbound [B] and [D] trains are stopping along the [A] line from &lt;STRONG&gt;145 St&lt;/STRONG&gt; to &lt;STRONG&gt;168 St&lt;/STRONG&gt; or &lt;STRONG&gt;Inwood-207 St&lt;/STRONG&gt; then end because of an investigation between&lt;STRONG&gt; 145 St&lt;/STRONG&gt; and &lt;STRONG&gt;161 St-Yankee Stadium&lt;/STRONG&gt;.&lt;/P&gt;
+&lt;P&gt;Expect delays to [A], [B], [C] and [D] train service.  &lt;/P&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>01/30/2018</Date>
+    <Time> 6:24PM</Time>
   </line>
   <line>
     <name>BDFM</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>SERVICE CHANGE</status>
+    <text>
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;01/30/2018&amp;nbsp; 6:24PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;P&gt;Northbound [B] and [D] trains are stopping along the [A] line from &lt;STRONG&gt;145 St&lt;/STRONG&gt; to &lt;STRONG&gt;168 St&lt;/STRONG&gt; or &lt;STRONG&gt;Inwood-207 St&lt;/STRONG&gt; then end because of an investigation between&lt;STRONG&gt; 145 St&lt;/STRONG&gt; and &lt;STRONG&gt;161 St-Yankee Stadium&lt;/STRONG&gt;.&lt;/P&gt;
+&lt;P&gt;Expect delays to [A], [B], [C] and [D] train service.  &lt;/P&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>01/30/2018</Date>
+    <Time> 6:24PM</Time>
   </line>
   <line>
     <name>G</name>
@@ -496,15 +512,15 @@
     <text>
                     &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;01/30/2018&amp;nbsp; 6:07PM
+                    &amp;nbsp;Posted:&amp;nbsp;01/30/2018&amp;nbsp; 6:26PM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  The 5:24PM train from Penn due Wantagh at 6:19PM is operating 10 minutes
+                  &lt;p&gt;The 5:40PM train from Penn due Seaford at 6:30PM is operating 11 minutes late due to a late train ahead.&lt;/p&gt;&lt;p&gt;The 5:24PM train from Penn due Wantagh at 6:19PM is operating 10 minutes
  late due to earlier Amtrak switch trouble at Penn Station.  
-        &lt;br&gt;&lt;br&gt;The 5:19PM train from Penn due Wantagh at 6:06PM is canceled due to Amtrak switch trouble in Penn Station. Customers will be accommodated by the 5:24PM train from Penn due Freeport at 6:10PM. This train will be extended to Wantagh and make added stops at Merrick and Bellmore.
+        &lt;br&gt;&lt;/p&gt;&lt;p&gt;The 5:19PM train from Penn due Wantagh at 6:06PM is canceled due to Amtrak switch trouble in Penn Station. Customers will be accommodated by the 5:24PM train from Penn due Freeport at 6:10PM. This train will be extended to Wantagh and make added stops at Merrick and Bellmore.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>01/30/2018</Date>
-    <Time> 6:07PM</Time>
+    <Time> 6:26PM</Time>
   </line>
   <line>
     <name>City Terminal Zone</name>
@@ -557,10 +573,17 @@
   </line>
   <line>
     <name>Port Jefferson</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>DELAYS</status>
+    <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;01/30/2018&amp;nbsp; 6:24PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  The 5:29PM train from Atlantic Terminal due Huntington at 6:28PM is operating 10 minutes late due to a late train ahead.
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>01/30/2018</Date>
+    <Time> 6:24PM</Time>
   </line>
   <line>
     <name>Port Washington</name>
