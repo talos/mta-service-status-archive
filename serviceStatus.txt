@@ -40,14 +40,14 @@
     <text>
                     &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;01/30/2018&amp;nbsp; 6:39PM
+                    &amp;nbsp;Posted:&amp;nbsp;01/30/2018&amp;nbsp; 6:41PM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
                   &lt;P&gt;[B] and [D] train service has resumed following an investigation between &lt;STRONG&gt;145 St&lt;/STRONG&gt; and &lt;STRONG&gt;161 St-Yankee Stadium&lt;/STRONG&gt;.&lt;/P&gt;
-&lt;P&gt;Northbound [B] trains are running local from &lt;STRONG&gt;145 St &lt;/STRONG&gt;to &lt;STRONG&gt;Bedford Pk Blvd&lt;/STRONG&gt;.&lt;/P&gt;
+&lt;P&gt;Northbound [D] trains are running local from &lt;STRONG&gt;145 St &lt;/STRONG&gt;to &lt;STRONG&gt;Bedford Pk Blvd&lt;/STRONG&gt;.&lt;/P&gt;
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>01/30/2018</Date>
-    <Time> 6:39PM</Time>
+    <Time> 6:41PM</Time>
   </line>
   <line>
     <name>G</name>
@@ -533,10 +533,17 @@
   </line>
   <line>
     <name>Far Rockaway</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>DELAYS</status>
+    <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;01/30/2018&amp;nbsp; 6:41PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  The 5:49PM train from Atlantic Terminal due Far Rockaway at 6:46PM is operating 10 minutes late due to congestion caused by earlier Amtrak switch trouble at Penn Station.
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>01/30/2018</Date>
+    <Time> 6:41PM</Time>
   </line>
   <line>
     <name>Hempstead</name>
@@ -547,10 +554,18 @@
   </line>
   <line>
     <name>Long Beach</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>DELAYS</status>
+    <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;01/30/2018&amp;nbsp; 6:41PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  The 5:55PM train from Penn due Long Beach at 6:49PM is operating 11 
+minutes late due to earlier Amtrak switch trouble at Penn Station.
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>01/30/2018</Date>
+    <Time> 6:41PM</Time>
   </line>
   <line>
     <name>Montauk</name>
@@ -568,17 +583,10 @@
   </line>
   <line>
     <name>Port Jefferson</name>
-    <status>DELAYS</status>
-    <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;01/30/2018&amp;nbsp; 6:24PM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  The 5:29PM train from Atlantic Terminal due Huntington at 6:28PM is operating 10 minutes late due to a late train ahead.
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>01/30/2018</Date>
-    <Time> 6:24PM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>Port Washington</name>
@@ -586,14 +594,14 @@
     <text>
                     &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;01/30/2018&amp;nbsp; 6:38PM
+                    &amp;nbsp;Posted:&amp;nbsp;01/30/2018&amp;nbsp; 6:42PM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  The 5:56PM train from Penn due Great Neck at 6:30PM is being delayed at Bayside due to switch trouble near the station.
-        &lt;br&gt;&lt;br&gt;The 6:24PM train from Penn due Port Washington at 7:06PM is canceled due to switch trouble near Bayside. Customers will be accommodated by the 6:42PM train from Penn due Great Neck at 7:17PM. This train will be extended to Port Washington and make all combined stops of the canceled train.
+                  &lt;p&gt;&lt;strong&gt;&lt;u&gt;Eastbound:&lt;/u&gt;&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The 5:56PM train from Penn due Great Neck at 6:30PM is being delayed at Bayside due to switch trouble near the station.
+        &lt;br&gt;&lt;br&gt;The 6:24PM train from Penn due Port Washington at 7:06PM is canceled due to switch trouble near Bayside. Customers will be accommodated by the 6:42PM train from Penn due Great Neck at 7:17PM. This train will be extended to Port Washington and make all combined stops of the canceled train.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;&lt;u&gt;Westbound:&lt;/u&gt;&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The 6:23PM train from Great Neck due Penn at 6:58PM is being delayed at Douglaston Station due to switch trouble near Bayside.&lt;/p&gt;
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>01/30/2018</Date>
-    <Time> 6:38PM</Time>
+    <Time> 6:42PM</Time>
   </line>
   <line>
     <name>Ronkonkoma</name>
