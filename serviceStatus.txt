@@ -73,10 +73,17 @@
   </line>
   <line>
     <name>S</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>DELAYS</status>
+    <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;01/30/2018&amp;nbsp; 7:59AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  42 St [S] shuttle trains are running with delays in both directions because of NYPD activity at &lt;STRONG&gt;Grand Central-42 St&lt;/STRONG&gt;.
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>01/30/2018</Date>
+    <Time> 7:59AM</Time>
   </line>
   <line>
     <name>SIR</name>
@@ -480,17 +487,10 @@
   </line>
   <line>
     <name>Ronkonkoma</name>
-    <status>DELAYS</status>
-    <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;01/30/2018&amp;nbsp; 7:30AM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  &lt;p&gt;The 6:57AM train from Farmingdale due Penn at 7:48AM is operating 10 minutes late due to congestion caused by a delayed train ahead.&lt;/p&gt;&lt;p&gt;The 6:24AM train from Ronkonkoma due Penn at 7:30AM is operating 11 minutes late after accommodating customers from a canceled train.&lt;br&gt;&lt;br&gt;The 6:08AM train from Ronkonkoma due Penn at 7:27AM is operating 14 minutes late after accommodating customers from a canceled train.&lt;/p&gt;
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>01/30/2018</Date>
-    <Time> 7:30AM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>West Hempstead</name>
