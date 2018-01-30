@@ -1,17 +1,10 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>DELAYS</status>
-    <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;01/30/2018&amp;nbsp; 8:17AM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  [2] and [3] trains service has resumed following an earlier incident involving an unauthorized person on the tracks at &lt;STRONG&gt;Hoyt St.&lt;/STRONG&gt;
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>01/30/2018</Date>
-    <Time> 8:17AM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>456</name>
@@ -29,10 +22,18 @@
   </line>
   <line>
     <name>ACE</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>DELAYS</status>
+    <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;01/30/2018&amp;nbsp; 8:26AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;P&gt;[A] and [S]-Rockaway Park shuttle trains are running with delays in both directions because of signal problems at&lt;STRONG&gt; Broad Channel.&lt;/STRONG&gt;&lt;/P&gt;
+&lt;P&gt;Our crews are on scene working to fix it as quickly as possible. We will keep you updated. &lt;/P&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>01/30/2018</Date>
+    <Time> 8:26AM</Time>
   </line>
   <line>
     <name>BDFM</name>
@@ -71,10 +72,18 @@
   </line>
   <line>
     <name>S</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>DELAYS</status>
+    <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;01/30/2018&amp;nbsp; 8:26AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;P&gt;[A] and [S]-Rockaway Park shuttle trains are running with delays in both directions because of signal problems at&lt;STRONG&gt; Broad Channel.&lt;/STRONG&gt;&lt;/P&gt;
+&lt;P&gt;Our crews are on scene working to fix it as quickly as possible. We will keep you updated. &lt;/P&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>01/30/2018</Date>
+    <Time> 8:26AM</Time>
   </line>
   <line>
     <name>SIR</name>
@@ -405,10 +414,9 @@
     <text>
                     &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;01/30/2018&amp;nbsp; 8:19AM
+                    &amp;nbsp;Posted:&amp;nbsp;01/30/2018&amp;nbsp; 8:26AM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  &lt;p&gt;The 7:29AM train from Freeport due Penn at 8:13AM is operating 10 minutes late due to a late train ahead.
-       &lt;/p&gt;&lt;p&gt;The 7:26AM train from Wantagh due Penn at 8:16AM is operating 11 minutes late due to a late train ahead. &lt;/p&gt;
+                  The 8:03AM train from Babylon due Penn at 9:11AM is operating 10 minutes late at this time.&lt;br&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;
                 &lt;br/&gt;&lt;br/&gt;
               
                     &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
@@ -419,7 +427,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>01/30/2018</Date>
-    <Time> 8:19AM</Time>
+    <Time> 8:26AM</Time>
   </line>
   <line>
     <name>City Terminal Zone</name>
@@ -455,13 +463,13 @@
     <text>
                     &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;01/30/2018&amp;nbsp; 7:08AM
+                    &amp;nbsp;Posted:&amp;nbsp;01/30/2018&amp;nbsp; 8:27AM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  The 5:39AM train from Montauk due Long Island City at 8:44AM is operating 17 minutes late after being delayed at Speonk Station due to an equipment problem.
+                  &lt;p&gt;The 5:39AM train from Montauk due Long Island City at 8:44AM is operating 17 minutes late after being delayed at Speonk Station due to an equipment problem.&lt;/p&gt;&lt;p&gt;The 7:12AM train from Speonk due Hunterspoint Ave. at 9:11AM is operating 14 minutes late at this time.&lt;/p&gt;
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>01/30/2018</Date>
-    <Time> 7:08AM</Time>
+    <Time> 8:27AM</Time>
   </line>
   <line>
     <name>Oyster Bay</name>
