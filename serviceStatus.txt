@@ -57,10 +57,17 @@
   </line>
   <line>
     <name>NQR</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>SERVICE CHANGE</status>
+    <text>
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;01/29/2018&amp;nbsp; 7:38PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  Northbound [R] trains are running express from &lt;STRONG&gt;59 St (Bklyn)&lt;/STRONG&gt; to &lt;STRONG&gt;Atlantic Av-Barclays Ctr&lt;/STRONG&gt; because of NYPD activity at &lt;STRONG&gt;45 St&lt;/STRONG&gt;.
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>01/29/2018</Date>
+    <Time> 7:38PM</Time>
   </line>
   <line>
     <name>S</name>
@@ -497,14 +504,15 @@
     <text>
                     &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;01/29/2018&amp;nbsp; 7:26PM
+                    &amp;nbsp;Posted:&amp;nbsp;01/29/2018&amp;nbsp; 7:36PM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
                   &lt;b&gt;WESTBOUND&lt;/b&gt;&lt;br&gt;The 7:05PM train from Huntington due Penn at 8:09PM is operating 10 minutes late due to earlier equipment trouble.
-        &lt;br&gt;&lt;br&gt;&lt;b&gt;EASTBOUND&lt;/b&gt; &lt;br&gt;The 5:30PM train from Long Island City due Port Jefferson at 7:30PM is operating 10 minutes late at this time.
+        &lt;br&gt;&lt;br&gt;&lt;b&gt;EASTBOUND&lt;/b&gt; &lt;br&gt;The 6:30PM train from Penn due Huntington at 7:32PM is operating 10 minutes late due to a late train ahead.
+        &lt;br&gt;&lt;br&gt;The 5:30PM train from Long Island City due Port Jefferson at 7:30PM is operating 10 minutes late at this time.
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>01/29/2018</Date>
-    <Time> 7:26PM</Time>
+    <Time> 7:36PM</Time>
   </line>
   <line>
     <name>Port Washington</name>
