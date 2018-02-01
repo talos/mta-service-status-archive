@@ -1,15 +1,13 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>SERVICE CHANGE</status>
+    <status>DELAYS</status>
     <text>
-                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;02/01/2018&amp;nbsp; 3:22PM
+                    &amp;nbsp;Posted:&amp;nbsp;02/01/2018&amp;nbsp; 3:31PM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  &lt;P&gt;[1] trains are running with delays in both directions. &lt;/P&gt;
-&lt;P&gt;Some northbound [2] trains are stopping along the [5] line from &lt;STRONG&gt;Nevins St&lt;/STRONG&gt; to &lt;STRONG&gt;149 St-Grand Concourse. &lt;/STRONG&gt;&lt;/P&gt;
-&lt;P&gt;This service change is because of an unauthorized person on the tracks at &lt;STRONG&gt;66 St&lt;/STRONG&gt;.&lt;/P&gt;
+                  [1] and [2] train service has resumed following an earlier incident involving an unauthorized person on the tracks at &lt;STRONG&gt;66 St&lt;/STRONG&gt;.
                 &lt;br/&gt;&lt;br/&gt;
               
                     &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
@@ -20,7 +18,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>02/01/2018</Date>
-    <Time> 3:22PM</Time>
+    <Time> 3:31PM</Time>
   </line>
   <line>
     <name>456</name>
