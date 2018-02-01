@@ -71,17 +71,10 @@
   </line>
   <line>
     <name>SIR</name>
-    <status>DELAYS</status>
-    <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;02/01/2018&amp;nbsp; 4:56PM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  St George bound [SIR] train service has resumed following earlier NYPD activity at &lt;STRONG&gt;Grasmere&lt;/STRONG&gt;.
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>02/01/2018</Date>
-    <Time> 4:56PM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
 </subway><bus>
   <line>
@@ -709,10 +702,17 @@
   </line>
   <line>
     <name>Danbury</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>DELAYS</status>
+    <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;02/01/2018&amp;nbsp; 5:12PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  Danbury Branch Line Service currently experiencing delays of 10 to 15 minutes due to signal issues in the vicinity of Bethel. Please listen for announcements at your station.
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>02/01/2018</Date>
+    <Time> 5:12PM</Time>
   </line>
   <line>
     <name>Waterbury</name>
