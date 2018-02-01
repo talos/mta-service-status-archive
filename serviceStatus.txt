@@ -45,7 +45,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>02/01/2018</Date>
-    <Time>12:23PM</Time>
+    <Time>12:32PM</Time>
   </line>
   <line>
     <name>7</name>
@@ -57,7 +57,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>02/01/2018</Date>
-    <Time>12:23PM</Time>
+    <Time>12:32PM</Time>
   </line>
   <line>
     <name>ACE</name>
@@ -86,7 +86,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>02/01/2018</Date>
-    <Time>12:23PM</Time>
+    <Time>12:32PM</Time>
   </line>
   <line>
     <name>G</name>
@@ -98,7 +98,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>02/01/2018</Date>
-    <Time>12:23PM</Time>
+    <Time>12:32PM</Time>
   </line>
   <line>
     <name>JZ</name>
@@ -110,7 +110,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>02/01/2018</Date>
-    <Time>12:23PM</Time>
+    <Time>12:32PM</Time>
   </line>
   <line>
     <name>L</name>
@@ -150,7 +150,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>02/01/2018</Date>
-    <Time>12:23PM</Time>
+    <Time>12:32PM</Time>
   </line>
 </subway><bus>
   <line>
@@ -248,6 +248,12 @@
 &lt;P&gt;&lt;STRONG&gt;BM2 and B103-LTD Eastbound:&lt;/STRONG&gt; Via E 105 St, left Avenue J, right on E 103 St, right on Flatland Av and regular route.&lt;/P&gt;
               &lt;br/&gt;
               &lt;br/&gt;
+            
+                  &lt;span class="TitlePlannedWork" &gt;Planned Detour&lt;/span&gt;
+                  &lt;br/&gt;
+                &lt;a class="plannedWorkDetailLink" onclick=ShowHide(180219);&gt;&lt;b&gt;BM2 and B103 &lt;/b&gt;LTD - &lt;b&gt;Westbound&lt;/b&gt; &lt;b&gt;buses rerouted from E 105 St at Flatlands Av&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 180219 class="plannedWorkDetail" &gt;&lt;/b&gt;Until further notice&lt;br&gt;&lt;br&gt;Due to construction, please use the nearby stop&lt;b&gt; on E 105 St &lt;/b&gt;at Avenue J.&lt;br&gt;&lt;br&gt;&lt;b&gt;&lt;i&gt;&lt;a style="cursor:pointer; text-decoration:underline;" onclick=ShowHide(1493250);&gt;Show Reroute Details&lt;/a&gt;&lt;/i&gt;&lt;/b&gt;&lt;br&gt;&lt;div id="1493250"; style="display:none;"&gt;Via Flatlands Av&lt;br&gt;Left on E 103 St&lt;br&gt;Left on Avenue J&lt;br&gt;Right on E 105 St then regular route&lt;/div&gt;&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
             </text>
     <Date>02/01/2018</Date>
     <Time>12:10PM</Time>
@@ -282,6 +288,12 @@
 &lt;P&gt;&lt;STRONG&gt;BM2 and B103-LTD Eastbound:&lt;/STRONG&gt; Via E 105 St, left Avenue J, right on E 103 St, right on Flatland Av and regular route.&lt;/P&gt;
               &lt;br/&gt;
               &lt;br/&gt;
+            
+                  &lt;span class="TitlePlannedWork" &gt;Planned Detour&lt;/span&gt;
+                  &lt;br/&gt;
+                &lt;a class="plannedWorkDetailLink" onclick=ShowHide(180219);&gt;&lt;b&gt;BM2 and B103 &lt;/b&gt;LTD - &lt;b&gt;Westbound&lt;/b&gt; &lt;b&gt;buses rerouted from E 105 St at Flatlands Av&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 180219 class="plannedWorkDetail" &gt;&lt;/b&gt;Until further notice&lt;br&gt;&lt;br&gt;Due to construction, please use the nearby stop&lt;b&gt; on E 105 St &lt;/b&gt;at Avenue J.&lt;br&gt;&lt;br&gt;&lt;b&gt;&lt;i&gt;&lt;a style="cursor:pointer; text-decoration:underline;" onclick=ShowHide(1493250);&gt;Show Reroute Details&lt;/a&gt;&lt;/i&gt;&lt;/b&gt;&lt;br&gt;&lt;div id="1493250"; style="display:none;"&gt;Via Flatlands Av&lt;br&gt;Left on E 103 St&lt;br&gt;Left on Avenue J&lt;br&gt;Right on E 105 St then regular route&lt;/div&gt;&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
             </text>
     <Date>02/01/2018</Date>
     <Time>12:10PM</Time>
@@ -303,7 +315,7 @@
               &lt;br/&gt;
             </text>
     <Date>02/01/2018</Date>
-    <Time>12:23PM</Time>
+    <Time>12:32PM</Time>
   </line>
   <line>
     <name>BXM1 - BXM18</name>
@@ -314,8 +326,15 @@
   </line>
   <line>
     <name>M1 - M116</name>
-    <status>MINOR DELAYS</status>
-    <text>&lt;STRONG&gt;M22 &lt;/STRONG&gt;buses are running with delays in both directions because of NYPD activity on Worth St between Chatham Square and Centre St.
+    <status>DELAYS</status>
+    <text>
+                  &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                  &lt;span class="DateStyle"&gt;
+                  &amp;nbsp;Posted:&amp;nbsp;02/01/2018&amp;nbsp;12:32PM
+                  &lt;/span&gt;
+                  &lt;br/&gt;
+                  &lt;br/&gt;
+                &lt;STRONG&gt;M22 &lt;/STRONG&gt;buses are running with delays in both directions because of NYPD activity on Worth St between Chatham Square and Centre St.
               &lt;br/&gt;
               &lt;br/&gt;
             
@@ -348,7 +367,7 @@
               &lt;br/&gt;
             </text>
     <Date>02/01/2018</Date>
-    <Time>12:23PM</Time>
+    <Time>12:32PM</Time>
   </line>
   <line>
     <name>Q1 - Q113</name>
@@ -441,7 +460,7 @@
               &lt;br/&gt;
             </text>
     <Date>02/01/2018</Date>
-    <Time>12:23PM</Time>
+    <Time>12:32PM</Time>
   </line>
   <line>
     <name>S40 - S98</name>
