@@ -1,31 +1,17 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>DELAYS</status>
-    <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;02/01/2018&amp;nbsp; 7:01PM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  [4] and [5] train service has resumed following an earlier incident involving a sick passenger at &lt;STRONG&gt;Franklin Av&lt;/STRONG&gt;.
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>02/01/2018</Date>
-    <Time> 7:01PM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>456</name>
-    <status>DELAYS</status>
-    <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;02/01/2018&amp;nbsp; 7:01PM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  [4] and [5] train service has resumed following an earlier incident involving a sick passenger at &lt;STRONG&gt;Franklin Av&lt;/STRONG&gt;.
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>02/01/2018</Date>
-    <Time> 7:01PM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>7</name>
@@ -102,16 +88,6 @@
                   &lt;br/&gt;
                   &lt;br/&gt;
                 &lt;STRONG&gt;B16 &lt;/STRONG&gt;bus service has resumed following earlier traffic conditions on Caton Av.
-              &lt;br/&gt;
-              &lt;br/&gt;
-            
-                  &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                  &lt;span class="DateStyle"&gt;
-                  &amp;nbsp;Posted:&amp;nbsp;02/01/2018&amp;nbsp; 7:02PM
-                  &lt;/span&gt;
-                  &lt;br/&gt;
-                  &lt;br/&gt;
-                &lt;STRONG&gt;B11&lt;/STRONG&gt; and &lt;STRONG&gt;B16&lt;/STRONG&gt; bus service has resumed following earlier traffic conditions on 13 Av and 14 Av.
               &lt;br/&gt;
               &lt;br/&gt;
             
@@ -670,10 +646,17 @@
   </line>
   <line>
     <name>Port Jefferson</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>DELAYS</status>
+    <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;02/01/2018&amp;nbsp; 7:13PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  The 5:30PM train from Long Island City due Port Jefferson at 7:30PM is operating 10 minutes late due to earlier signal trouble.         
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>02/01/2018</Date>
+    <Time> 7:13PM</Time>
   </line>
   <line>
     <name>Port Washington</name>
