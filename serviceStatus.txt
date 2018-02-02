@@ -1,17 +1,33 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>SERVICE CHANGE</status>
+    <text>
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;02/02/2018&amp;nbsp; 5:56PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;P&gt;Northbound [2] trains are running express from &lt;STRONG&gt;3 Av-149 St&lt;/STRONG&gt; to &lt;STRONG&gt;East 180 St&lt;/STRONG&gt; because of a sick passenger at &lt;STRONG&gt;Jackson Av.&lt;/STRONG&gt; &lt;/P&gt;
+&lt;P&gt;Expect delays in [2][5] train service. &lt;/P&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>02/02/2018</Date>
+    <Time> 5:56PM</Time>
   </line>
   <line>
     <name>456</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>SERVICE CHANGE</status>
+    <text>
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;02/02/2018&amp;nbsp; 5:56PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;P&gt;Northbound [2] trains are running express from &lt;STRONG&gt;3 Av-149 St&lt;/STRONG&gt; to &lt;STRONG&gt;East 180 St&lt;/STRONG&gt; because of a sick passenger at &lt;STRONG&gt;Jackson Av.&lt;/STRONG&gt; &lt;/P&gt;
+&lt;P&gt;Expect delays in [2][5] train service. &lt;/P&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>02/02/2018</Date>
+    <Time> 5:56PM</Time>
   </line>
   <line>
     <name>7</name>
@@ -469,20 +485,20 @@
     <text>
                     &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;02/02/2018&amp;nbsp; 5:38PM
+                    &amp;nbsp;Posted:&amp;nbsp;02/02/2018&amp;nbsp; 5:56PM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  &lt;DIV class=mainmsg&gt;&lt;STRONG&gt;The Babylon Branch continues to experience residual delays averaging 20-30 minutes &amp; some cancellations in both directions after an unauthorized person on the tracks was struck by a train at Seaford Station. Service is restored to both tracks at this time following the completion of the police department's investigation.&lt;/STRONG&gt; &lt;/DIV&gt;
-&lt;P&gt;&lt;STRONG&gt;&lt;U&gt;Eastbound&lt;/U&gt;&lt;BR&gt;&lt;/STRONG&gt;&lt;/P&gt;
-&lt;P&gt;The 4:30PM train from Hunterspoint Ave. due Montauk at 7:34PM will be adding stops today at Babylon, Islip, Great River and Oakdale to accommodate customers delayed from an unauthorized person on the tracks struck by a train at Seaford. &lt;BR&gt;&lt;/P&gt;
-&lt;P&gt;The 5:23PM train from Atlantic Terminal due Babylon at 6:36PM will be cancelled today due to an unauthorized person on the tracks being struck by a train at Seaford Station. Customers will be accommodated by The 5:43PM train from Atlantic Terminal due Babylon at 6:56PM, making all combined stops. &lt;/P&gt;
-&lt;P&gt;&lt;BR&gt;The 6:05PM train from Penn due Wantagh at 6:51PM has been cancelled due to an earlier unauthorized person on the tracks struck by a train at Seaford. Customers will be accommodated by the 6:10PM train from Penn due Freeport at 6:54PM with a stop at Rockville Centre, and all further stops to Wantagh. &lt;/P&gt;
-&lt;P&gt;&lt;BR&gt;&lt;/P&gt;
-&lt;P&gt;&lt;U&gt;&lt;B&gt;Westbound&lt;/B&gt;&lt;/U&gt;&lt;/P&gt;
-&lt;P&gt;&lt;BR&gt;The 4:39PM train from Babylon due Penn at 5:53PM is operating 10 minutes late due to congestion caused by an unauthorized person on the tracks being struck by a train at Seaford. &lt;BR&gt;&lt;/P&gt;
+                  &lt;div class="mainmsg"&gt;&lt;strong&gt;The LIRR is experiencing scattered, system-wide residual delays east of Jamaica averaging 5-10 minutes due to congestion caused by an unauthorized person on the tracks who was struck by a train at Seaford Station.&lt;/strong&gt;&lt;/div&gt;
+&lt;p&gt;&lt;strong&gt;&lt;u&gt;Eastbound&lt;/u&gt;&lt;br&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The 4:30PM train from Hunterspoint Ave. due Montauk at 7:34PM will be adding stops today at Babylon, Islip, Great River and Oakdale to accommodate customers delayed from an unauthorized person on the tracks struck by a train at Seaford. &lt;br&gt;&lt;/p&gt;
+&lt;p&gt;The 5:23PM train from Atlantic Terminal due Babylon at 6:36PM will be cancelled today due to an unauthorized person on the tracks being struck by a train at Seaford Station. Customers will be accommodated by The 5:43PM train from Atlantic Terminal due Babylon at 6:56PM, making all combined stops. &lt;/p&gt;
+&lt;p&gt;&lt;br&gt;The 6:05PM train from Penn due Wantagh at 6:51PM has been cancelled due to an earlier unauthorized person on the tracks struck by a train at Seaford. Customers will be accommodated by the 6:10PM train from Penn due Freeport at 6:54PM with a stop at Rockville Centre, and all further stops to Wantagh. &lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;u&gt;&lt;b&gt;Westbound&lt;/b&gt;&lt;/u&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;The 4:39PM train from Babylon due Penn at 5:53PM is operating 10 minutes late due to congestion caused by an unauthorized person on the tracks being struck by a train at Seaford. &lt;br&gt;&lt;/p&gt;
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>02/02/2018</Date>
-    <Time> 5:38PM</Time>
+    <Time> 5:56PM</Time>
   </line>
   <line>
     <name>City Terminal Zone</name>
@@ -490,20 +506,20 @@
     <text>
                     &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;02/02/2018&amp;nbsp; 5:38PM
+                    &amp;nbsp;Posted:&amp;nbsp;02/02/2018&amp;nbsp; 5:56PM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  &lt;DIV class=mainmsg&gt;&lt;STRONG&gt;The Babylon Branch continues to experience residual delays averaging 20-30 minutes &amp; some cancellations in both directions after an unauthorized person on the tracks was struck by a train at Seaford Station. Service is restored to both tracks at this time following the completion of the police department's investigation.&lt;/STRONG&gt; &lt;/DIV&gt;
-&lt;P&gt;&lt;STRONG&gt;&lt;U&gt;Eastbound&lt;/U&gt;&lt;BR&gt;&lt;/STRONG&gt;&lt;/P&gt;
-&lt;P&gt;The 4:30PM train from Hunterspoint Ave. due Montauk at 7:34PM will be adding stops today at Babylon, Islip, Great River and Oakdale to accommodate customers delayed from an unauthorized person on the tracks struck by a train at Seaford. &lt;BR&gt;&lt;/P&gt;
-&lt;P&gt;The 5:23PM train from Atlantic Terminal due Babylon at 6:36PM will be cancelled today due to an unauthorized person on the tracks being struck by a train at Seaford Station. Customers will be accommodated by The 5:43PM train from Atlantic Terminal due Babylon at 6:56PM, making all combined stops. &lt;/P&gt;
-&lt;P&gt;&lt;BR&gt;The 6:05PM train from Penn due Wantagh at 6:51PM has been cancelled due to an earlier unauthorized person on the tracks struck by a train at Seaford. Customers will be accommodated by the 6:10PM train from Penn due Freeport at 6:54PM with a stop at Rockville Centre, and all further stops to Wantagh. &lt;/P&gt;
-&lt;P&gt;&lt;BR&gt;&lt;/P&gt;
-&lt;P&gt;&lt;U&gt;&lt;B&gt;Westbound&lt;/B&gt;&lt;/U&gt;&lt;/P&gt;
-&lt;P&gt;&lt;BR&gt;The 4:39PM train from Babylon due Penn at 5:53PM is operating 10 minutes late due to congestion caused by an unauthorized person on the tracks being struck by a train at Seaford. &lt;BR&gt;&lt;/P&gt;
+                  &lt;div class="mainmsg"&gt;&lt;strong&gt;The LIRR is experiencing scattered, system-wide residual delays east of Jamaica averaging 5-10 minutes due to congestion caused by an unauthorized person on the tracks who was struck by a train at Seaford Station.&lt;/strong&gt;&lt;/div&gt;
+&lt;p&gt;&lt;strong&gt;&lt;u&gt;Eastbound&lt;/u&gt;&lt;br&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The 4:30PM train from Hunterspoint Ave. due Montauk at 7:34PM will be adding stops today at Babylon, Islip, Great River and Oakdale to accommodate customers delayed from an unauthorized person on the tracks struck by a train at Seaford. &lt;br&gt;&lt;/p&gt;
+&lt;p&gt;The 5:23PM train from Atlantic Terminal due Babylon at 6:36PM will be cancelled today due to an unauthorized person on the tracks being struck by a train at Seaford Station. Customers will be accommodated by The 5:43PM train from Atlantic Terminal due Babylon at 6:56PM, making all combined stops. &lt;/p&gt;
+&lt;p&gt;&lt;br&gt;The 6:05PM train from Penn due Wantagh at 6:51PM has been cancelled due to an earlier unauthorized person on the tracks struck by a train at Seaford. Customers will be accommodated by the 6:10PM train from Penn due Freeport at 6:54PM with a stop at Rockville Centre, and all further stops to Wantagh. &lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;u&gt;&lt;b&gt;Westbound&lt;/b&gt;&lt;/u&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;The 4:39PM train from Babylon due Penn at 5:53PM is operating 10 minutes late due to congestion caused by an unauthorized person on the tracks being struck by a train at Seaford. &lt;br&gt;&lt;/p&gt;
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>02/02/2018</Date>
-    <Time> 5:38PM</Time>
+    <Time> 5:56PM</Time>
   </line>
   <line>
     <name>Far Rockaway</name>
