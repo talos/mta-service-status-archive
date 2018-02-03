@@ -1,10 +1,17 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>DELAYS</status>
+    <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;02/02/2018&amp;nbsp; 8:08PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  [1] train service has resumed following an earlier incident involving signal problems at &lt;STRONG&gt;215 St.&lt;/STRONG&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>02/02/2018</Date>
+    <Time> 8:08PM</Time>
   </line>
   <line>
     <name>456</name>
@@ -19,14 +26,14 @@
     <text>
                     &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;02/02/2018&amp;nbsp; 7:12PM
+                    &amp;nbsp;Posted:&amp;nbsp;02/02/2018&amp;nbsp; 8:09PM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
                   &lt;P&gt;Main St-bound [7] trains are running with delays because of signal problems at &lt;STRONG&gt;52 St.&lt;/STRONG&gt;&lt;/P&gt;
 &lt;P&gt;Our crews are on site working to make repairs, stay tuned for updates. &lt;/P&gt;
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>02/02/2018</Date>
-    <Time> 7:12PM</Time>
+    <Time> 8:09PM</Time>
   </line>
   <line>
     <name>ACE</name>
