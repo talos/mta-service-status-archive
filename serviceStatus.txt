@@ -1,8 +1,15 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>DELAYS</status>
+    <status>SERVICE CHANGE</status>
     <text>
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;02/05/2018&amp;nbsp;12:31PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  Northbound [1] trains are running express from &lt;STRONG&gt;215 St&lt;/STRONG&gt; to &lt;STRONG&gt;Van Cortlandt Park-242 St&lt;/STRONG&gt;, because of a train with mechanical problems between &lt;STRONG&gt;215 St&lt;/STRONG&gt; and&lt;STRONG&gt; 225 St&lt;/STRONG&gt;.
+                &lt;br/&gt;&lt;br/&gt;
+              
                     &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
                     &amp;nbsp;Posted:&amp;nbsp;02/05/2018&amp;nbsp;12:06PM
@@ -11,7 +18,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>02/05/2018</Date>
-    <Time>12:06PM</Time>
+    <Time>12:31PM</Time>
   </line>
   <line>
     <name>456</name>
@@ -95,7 +102,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>02/05/2018</Date>
-    <Time>12:23PM</Time>
+    <Time>12:30PM</Time>
   </line>
   <line>
     <name>L</name>
@@ -128,7 +135,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>02/05/2018</Date>
-    <Time>12:23PM</Time>
+    <Time>12:30PM</Time>
   </line>
 </subway><bus>
   <line>
@@ -198,7 +205,7 @@
               &lt;br/&gt;
             </text>
     <Date>02/05/2018</Date>
-    <Time>12:23PM</Time>
+    <Time>12:30PM</Time>
   </line>
   <line>
     <name>BX1 - BX55</name>
@@ -217,7 +224,7 @@
               &lt;br/&gt;
             </text>
     <Date>02/05/2018</Date>
-    <Time>12:23PM</Time>
+    <Time>12:30PM</Time>
   </line>
   <line>
     <name>BXM1 - BXM18</name>
@@ -255,7 +262,7 @@
               &lt;br/&gt;
             </text>
     <Date>02/05/2018</Date>
-    <Time>12:23PM</Time>
+    <Time>12:30PM</Time>
   </line>
   <line>
     <name>Q1 - Q113</name>
@@ -280,7 +287,7 @@
               &lt;br/&gt;
             </text>
     <Date>02/05/2018</Date>
-    <Time>12:23PM</Time>
+    <Time>12:30PM</Time>
   </line>
   <line>
     <name>QM1 - QM44</name>
@@ -305,7 +312,7 @@
               &lt;br/&gt;
             </text>
     <Date>02/05/2018</Date>
-    <Time>12:23PM</Time>
+    <Time>12:30PM</Time>
   </line>
   <line>
     <name>S40 - S98</name>
