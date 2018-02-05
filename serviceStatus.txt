@@ -73,10 +73,17 @@
   </line>
   <line>
     <name>L</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>DELAYS</status>
+    <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;02/05/2018&amp;nbsp; 9:21AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  8 Av bound [L] trains are running with delays because of a train with mechanical problems at &lt;STRONG&gt;Myrtle-Wyckoff Avs.&lt;/STRONG&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>02/05/2018</Date>
+    <Time> 9:21AM</Time>
   </line>
   <line>
     <name>NQR</name>
@@ -177,18 +184,8 @@
   </line>
   <line>
     <name>M1 - M116</name>
-    <status>DELAYS</status>
+    <status>PLANNED WORK</status>
     <text>
-                  &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                  &lt;span class="DateStyle"&gt;
-                  &amp;nbsp;Posted:&amp;nbsp;02/05/2018&amp;nbsp; 9:03AM
-                  &lt;/span&gt;
-                  &lt;br/&gt;
-                  &lt;br/&gt;
-                &lt;STRONG&gt;M9, M22&lt;/STRONG&gt; and &lt;STRONG&gt;M103&lt;/STRONG&gt; bus service has resumed following earlier NYPD activity on Park Row and Centre St.
-              &lt;br/&gt;
-              &lt;br/&gt;
-            
                   &lt;span class="TitlePlannedWork" &gt;Planned Detour&lt;/span&gt;
                   &lt;br/&gt;
                 &lt;a class="plannedWorkDetailLink" onclick=ShowHide(180221);&gt;&lt;b&gt;M31 and M57 &lt;/b&gt;-&lt;b&gt; Westbound buses bypass stops on 57 St at Broadway and 10 Av &lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 180221 class="plannedWorkDetail" &gt;&lt;/b&gt;Until further notice&lt;br&gt;&lt;br&gt;Due to construction, please use nearby stops &lt;b&gt;on 57 St &lt;/b&gt;at 7 Av or 9 Av.&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
@@ -214,7 +211,7 @@
               &lt;br/&gt;
             </text>
     <Date>02/05/2018</Date>
-    <Time> 9:03AM</Time>
+    <Time> 9:14AM</Time>
   </line>
   <line>
     <name>Q1 - Q113</name>
