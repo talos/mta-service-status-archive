@@ -1,24 +1,39 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>DELAYS</status>
+    <status>SERVICE CHANGE</status>
     <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;02/06/2018&amp;nbsp;12:01PM
+                    &amp;nbsp;Posted:&amp;nbsp;02/06/2018&amp;nbsp;12:12PM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  Southbound [2] and [3] trains are running with delays because of NYPD activity at &lt;STRONG&gt;Fulton St&lt;/STRONG&gt;.
+                  &lt;P&gt;There is no [2] and [3] train service between &lt;STRONG&gt;Chambers St&lt;/STRONG&gt; and &lt;STRONG&gt;Nevins St&lt;/STRONG&gt; in both directions.&lt;/P&gt;
+&lt;P&gt;Some southbound [2] trains are running along the [5] line from &lt;STRONG&gt;149 St-Grand Concourse&lt;/STRONG&gt; to &lt;STRONG&gt;Atlantic Av-Barclays Ctr&lt;/STRONG&gt;.&lt;/P&gt;
+&lt;P&gt;Some southbound [2] and [3] trains are running on the [1] line from &lt;STRONG&gt;Chambers St&lt;/STRONG&gt; to &lt;STRONG&gt;South Ferry&lt;/STRONG&gt;.&lt;/P&gt;
+&lt;P&gt;Some southbound [3] trains are terminating at&lt;STRONG&gt; 34 St-Penn Station.&lt;/STRONG&gt;&lt;/P&gt;
+&lt;P&gt;These service changes are because of NYPD investigation at &lt;STRONG&gt;Fulton St&lt;/STRONG&gt;.  &lt;/P&gt;
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>02/06/2018</Date>
-    <Time>12:01PM</Time>
+    <Time>12:12PM</Time>
   </line>
   <line>
     <name>456</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>SERVICE CHANGE</status>
+    <text>
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;02/06/2018&amp;nbsp;12:12PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;P&gt;There is no [2] and [3] train service between &lt;STRONG&gt;Chambers St&lt;/STRONG&gt; and &lt;STRONG&gt;Nevins St&lt;/STRONG&gt; in both directions.&lt;/P&gt;
+&lt;P&gt;Some southbound [2] trains are running along the [5] line from &lt;STRONG&gt;149 St-Grand Concourse&lt;/STRONG&gt; to &lt;STRONG&gt;Atlantic Av-Barclays Ctr&lt;/STRONG&gt;.&lt;/P&gt;
+&lt;P&gt;Some southbound [2] and [3] trains are running on the [1] line from &lt;STRONG&gt;Chambers St&lt;/STRONG&gt; to &lt;STRONG&gt;South Ferry&lt;/STRONG&gt;.&lt;/P&gt;
+&lt;P&gt;Some southbound [3] trains are terminating at&lt;STRONG&gt; 34 St-Penn Station.&lt;/STRONG&gt;&lt;/P&gt;
+&lt;P&gt;These service changes are because of NYPD investigation at &lt;STRONG&gt;Fulton St&lt;/STRONG&gt;.  &lt;/P&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>02/06/2018</Date>
+    <Time>12:12PM</Time>
   </line>
   <line>
     <name>7</name>
@@ -101,7 +116,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>02/06/2018</Date>
-    <Time>12:02PM</Time>
+    <Time>12:13PM</Time>
   </line>
   <line>
     <name>L</name>
@@ -141,7 +156,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>02/06/2018</Date>
-    <Time>12:02PM</Time>
+    <Time>12:13PM</Time>
   </line>
 </subway><bus>
   <line>
@@ -202,7 +217,7 @@
               &lt;br/&gt;
             </text>
     <Date>02/06/2018</Date>
-    <Time>12:02PM</Time>
+    <Time>12:13PM</Time>
   </line>
   <line>
     <name>BM1 - BM5</name>
@@ -215,7 +230,7 @@
               &lt;br/&gt;
             </text>
     <Date>02/06/2018</Date>
-    <Time>12:02PM</Time>
+    <Time>12:13PM</Time>
   </line>
   <line>
     <name>BX1 - BX55</name>
@@ -234,7 +249,7 @@
               &lt;br/&gt;
             </text>
     <Date>02/06/2018</Date>
-    <Time>12:02PM</Time>
+    <Time>12:13PM</Time>
   </line>
   <line>
     <name>BXM1 - BXM18</name>
@@ -358,7 +373,7 @@
               &lt;br/&gt;
             </text>
     <Date>02/06/2018</Date>
-    <Time>12:02PM</Time>
+    <Time>12:13PM</Time>
   </line>
   <line>
     <name>S40 - S98</name>
