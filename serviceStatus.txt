@@ -1,93 +1,38 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>PLANNED WORK</status>
-    <text>
-                    &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
-                    &lt;br/&gt;
-                  &lt;a class="plannedWorkDetailLink" onclick=ShowHide(178184);&gt;&lt;b&gt;&lt;i&gt;TRACK MAINTENANCE&lt;/i&gt;&lt;br clear=left&gt;[3] No trains running&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 178184 class="plannedWorkDetail" &gt;[2] trains and [SB] free shuttle buses provide alternate service&lt;br&gt;&lt;/b&gt;Late Night, 11:45 PM Mon to 5 AM Tue, Feb 5 - 6&lt;br&gt;&lt;i&gt;                     &lt;/i&gt;                        &lt;br&gt;&lt;/font&gt;&lt;b&gt;[2]&lt;/b&gt; trains make all &lt;b&gt;[3]&lt;/b&gt; stops between &lt;b&gt;Times Sq-42 St &lt;/b&gt;and &lt;b&gt;135 St&lt;/b&gt;.&lt;br&gt;&lt;br&gt;[SB] Buses operate between &lt;b&gt;135 St &lt;/b&gt;and &lt;b&gt;148 St&lt;/b&gt;, stopping at 145 St.&lt;br&gt;&lt;/font&gt;&amp;bull; Transfer between trains and [SB] buses at &lt;b&gt;135 St&lt;/b&gt;.&lt;br&gt;&lt;br&gt;&lt;table class=plannedworkTableStyle  border=1 cellspacing=1 cellpadding=3 rules=rows frame=hsides&gt;&lt;tr bgcolor=#FAF8CC&gt;&lt;td&gt;&lt;b&gt;Station      &lt;/b&gt;&lt;/td&gt;&lt;td&gt;&lt;b&gt;Bus Stop&lt;/b&gt;&lt;td&gt;&lt;b&gt;Bus&lt;/b&gt;&lt;tr&gt;&lt;td&gt;135 St  [ad]  [2]  &lt;td&gt;Lenox Av at 135 St&lt;td&gt;[SB], &lt;b&gt;M7&lt;/b&gt;, &lt;b&gt;M102&lt;/b&gt;&lt;tr&gt;&lt;td&gt;145 St&lt;td&gt;Lenox Av at 145 St&lt;td&gt;[SB], &lt;b&gt;M7&lt;/b&gt;, &lt;b&gt;M102&lt;/b&gt;&lt;tr&gt;&lt;td&gt;148 St&lt;td&gt;Adam Clayton Powell Jr Blvd at 149 St&lt;td&gt;[SB]&lt;/table&gt;&lt;br&gt;&lt;b&gt;Reminder: &lt;/b&gt;&lt;a href=http://advisory.mtanyct.info/pdf_files/NightMap.pdf target=_blank&gt;&lt;font color=#0000FF&gt;Late Night&lt;/font&gt;&lt;/a&gt;&lt;b&gt; &lt;/b&gt;service for lower Manhattan and Brooklyn is provided by the [2] and [4]. &lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
-                &lt;br/&gt;&lt;br/&gt;
-              
-                    &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
-                    &lt;br/&gt;
-                  &lt;a class="plannedWorkDetailLink" onclick=ShowHide(178188);&gt;&lt;b&gt;&lt;i&gt;SIGNAL MAINTENANCE&lt;/i&gt;&lt;br clear=left&gt;[2] Flatbush Av-bound trains skip Jackson Av&lt;br clear=left&gt;&lt;font color=#000000&gt;     &lt;/font&gt;All trains board at the Wakefield-bound platform at 3 Av-149 St&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 178188 class="plannedWorkDetail" &gt;&lt;/b&gt;Late Nights, 11:45 PM to 5 AM, Mon to Wed, Feb 5 - 7&lt;br&gt;&lt;br&gt;For service&lt;i&gt; to&lt;/i&gt; this station, take the [2] to 3 Av-149 St and transfer to a Wakefield-bound [2].&lt;br&gt;&lt;br&gt;For service &lt;i&gt;from&lt;/i&gt; this station, take the [2] to Intervale Av and transfer to a Flatbush Av-bound [2].&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
-                &lt;br/&gt;&lt;br/&gt;
-              
-                    &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
-                    &lt;br/&gt;
-                  &lt;a class="plannedWorkDetailLink" onclick=ShowHide(178179);&gt;&lt;b&gt;&lt;i&gt;TRACK MAINTENANCE&lt;/i&gt;&lt;br clear=left&gt;[2] Wakefield-bound trains run express from Chambers St to 96 St&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 178179 class="plannedWorkDetail" &gt;&lt;/b&gt;Late Nights&lt;/font&gt;, 12:01 AM to 5 AM, Tue to Fri, Feb 6 - 9  &amp;bull;  Feb 13 - 16&lt;br&gt;&lt;br&gt;Trains stop at 14 St, 34 St-Penn Station, Times Sq-42 St and 72 St.&lt;br&gt;&lt;br&gt;For service &lt;i&gt;to&lt;/i&gt; &lt;b&gt;Franklin&lt;/b&gt;,&lt;b&gt; Canal&lt;/b&gt;,&lt;b&gt; Houston &lt;/b&gt;and&lt;b&gt; Christopher Sts&lt;/b&gt;, take the [2] to 14 St and &lt;br&gt;transfer to downtown [1] or [2] &lt;i&gt;local&lt;/i&gt;.&lt;br&gt;&lt;br&gt;For service &lt;i&gt;to&lt;/i&gt; &lt;b&gt;18&lt;/b&gt;, &lt;b&gt;23&lt;/b&gt; and &lt;b&gt;28 Sts&lt;/b&gt;, take the [2] to 34 St-Penn Station and transfer to &lt;br&gt;downtown &lt;b&gt;[1]&lt;/b&gt; or &lt;b&gt;[2]&lt;/b&gt; &lt;i&gt;local&lt;/i&gt;.&lt;br&gt;&lt;br&gt;&lt;/font&gt;For service &lt;i&gt;to&lt;/i&gt; &lt;b&gt;50&lt;/b&gt;, &lt;b&gt;59&lt;/b&gt; and &lt;b&gt;66 Sts&lt;/b&gt;, take the &lt;b&gt;[2]&lt;/b&gt; to 72 St and transfer to downtown &lt;b&gt;[1]&lt;/b&gt; or &lt;b&gt;[2]&lt;/b&gt; &lt;i&gt;local&lt;/i&gt;.&lt;br&gt;&lt;br&gt;&lt;/font&gt;For service &lt;i&gt;to&lt;/i&gt; &lt;b&gt;79 &lt;/b&gt;and &lt;b&gt;86 Sts&lt;/b&gt;, take the &lt;b&gt;[2]&lt;/b&gt; to 96 St and transfer to downtown &lt;b&gt;[1]&lt;/b&gt; or &lt;b&gt;[2]&lt;/b&gt; &lt;i&gt;local&lt;/i&gt;.&lt;br&gt;&lt;br&gt;For service &lt;i&gt;from&lt;/i&gt; these stations, take the [1] or [2] to 72 St, Times Sq-42 St, 14 St or Chambers St and&lt;br&gt;transfer to a Wakefield-bound [2].&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
-                &lt;br/&gt;&lt;br/&gt;
-              
-                    &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
-                    &lt;br/&gt;
-                  &lt;a class="plannedWorkDetailLink" onclick=ShowHide(178169);&gt;&lt;b&gt;&lt;i&gt;TRACK MAINTENANCE&lt;/i&gt;&lt;br clear=left&gt;[1] Uptown trains run express from Chambers St to 96 St&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 178169 class="plannedWorkDetail" &gt;&lt;/b&gt;Late Nights, 9:45 PM to 5 AM, Mon to Fri, Feb 5 - 9  &amp;bull;  Feb 12 - 16&lt;br&gt;&lt;br&gt;&lt;/font&gt;Trains stop at 14 St, 34 St-Penn Station, Times Sq-42 St and 72 St.&lt;br&gt;&lt;br&gt;For service &lt;i&gt;to&lt;/i&gt; &lt;b&gt;Franklin&lt;/b&gt;, &lt;b&gt;Canal&lt;/b&gt;,&lt;b&gt; Houston &lt;/b&gt;and&lt;b&gt; Christopher&lt;/b&gt; &lt;b&gt;Sts&lt;/b&gt;, take the [1] to 14 St and &lt;br&gt;transfer to a downtown &lt;b&gt;[1] &lt;/b&gt;or &lt;b&gt;[2] &lt;/b&gt;&lt;i&gt;local&lt;/i&gt;.&lt;br&gt;&lt;br&gt;For service &lt;i&gt;to&lt;/i&gt; &lt;b&gt;18&lt;/b&gt;, &lt;b&gt;23&lt;/b&gt; and &lt;b&gt;28 Sts&lt;/b&gt;, take the [1] to 34 St-Penn Station and transfer to a &lt;br&gt;downtown &lt;b&gt;[1]&lt;/b&gt; or &lt;b&gt;[2]&lt;/b&gt; &lt;i&gt;local&lt;/i&gt;.&lt;br&gt;&lt;br&gt;&lt;/font&gt;For service &lt;i&gt;to&lt;/i&gt; &lt;b&gt;50&lt;/b&gt;, &lt;b&gt;59&lt;/b&gt; and &lt;b&gt;66&lt;/b&gt; &lt;b&gt;Sts&lt;/b&gt;, take the &lt;b&gt;[1]&lt;/b&gt; to 72 St and transfer to a downtown &lt;b&gt;[1]&lt;/b&gt; or &lt;b&gt;[2]&lt;/b&gt; &lt;i&gt;local&lt;/i&gt;.&lt;br&gt;&lt;br&gt;For service &lt;i&gt;to &lt;/i&gt;&lt;b&gt;79 &lt;/b&gt;and &lt;b&gt;86 Sts&lt;/b&gt;, take the &lt;b&gt;[1] &lt;/b&gt;to 96 St and transfer to a downtown &lt;b&gt;[1] &lt;/b&gt;or &lt;b&gt;[2] &lt;/b&gt;&lt;i&gt;local&lt;/i&gt;.&lt;br&gt;&lt;br&gt;For service &lt;i&gt;from&lt;/i&gt; these stations, take the [1] or [2] to 72 St, Times Sq-42 St, 14 St or Chambers St and&lt;br&gt;transfer to a Van Cortlandt Park-bound [1].&lt;br&gt;&lt;br&gt;&lt;b&gt;Note:&lt;/b&gt; Downtown [3] trains run &lt;i&gt;local&lt;/i&gt; from 96 St to Times Sq-42 St, 10 PM to 11:45 PM, Feb 12 - 15.&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>02/06/2018</Date>
-    <Time> 4:57AM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>456</name>
-    <status>PLANNED WORK</status>
-    <text>
-                    &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
-                    &lt;br/&gt;
-                  &lt;a class="plannedWorkDetailLink" onclick=ShowHide(178215);&gt;&lt;b&gt;&lt;i&gt;SIGNAL MAINTENANCE&lt;/i&gt;&lt;br clear=left&gt;[6]&lt;/b&gt; &lt;b&gt;Manhattan-bound trains skip Longwood Av, E 149 St, E 143 St, Cypress Av and Brook Av&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 178215 class="plannedWorkDetail" &gt;&lt;/b&gt;&lt;/font&gt;Late Nights, 11:45 &lt;/font&gt;PM Mon to 5 AM Tue, Feb 5 - 6&lt;br&gt;                    11:45 PM Wed to 5 AM Thu, Feb 7 - 8&lt;br&gt;&lt;br&gt;For service &lt;i&gt;to&lt;/i&gt; these stations, take the [6] to 3 Av-138 St and transfer to a Pelham Bay Park-bound [6].&lt;br&gt;&lt;br&gt;For service &lt;i&gt;from&lt;/i&gt; these stations, take the [6] to Hunts Point Av and transfer to a Manhattan-bound [6].&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
-                &lt;br/&gt;&lt;br/&gt;
-              
-                    &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
-                    &lt;br/&gt;
-                  &lt;a class="plannedWorkDetailLink" onclick=ShowHide(178214);&gt;&lt;b&gt;&lt;i&gt;SIGNAL MAINTENANCE&lt;/i&gt;&lt;br clear=left&gt;[6] Service operates in two sections:&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 178214 class="plannedWorkDetail" &gt;  1. Between Brooklyn Bridge and 125 St, and via the [4] &lt;i&gt;to/from&lt;/i&gt; 149 St-Grand Concourse&lt;br&gt;  2. Between 125 St and Pelham Bay Park&lt;br&gt;&lt;/b&gt;Late Nights, 12:01 AM to 5 AM, Tue to Fri, Feb 6 - 9&lt;br&gt;&lt;br&gt;&amp;bull; Transfer at 125 St to continue your trip.&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
-                &lt;br/&gt;&lt;br/&gt;
-              
-                    &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
-                    &lt;br/&gt;
-                  &lt;a class="plannedWorkDetailLink" onclick=ShowHide(178229);&gt;&lt;b&gt;&lt;i&gt;SIGNAL MAINTENANCE&lt;/i&gt;&lt;br clear=left&gt;[4] All trains from Bowling Green board at the uptown platform&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 178229 class="plannedWorkDetail" &gt;&lt;/b&gt;Late Nights, 12:01 AM to 5 AM, Tue &lt;i&gt;and&lt;/i&gt; Thu, Feb 6 &lt;i&gt;and&lt;/i&gt; 8&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>02/06/2018</Date>
-    <Time> 4:57AM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>7</name>
-    <status>PLANNED WORK</status>
-    <text>
-                    &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
-                    &lt;br/&gt;
-                  &lt;a class="plannedWorkDetailLink" onclick=ShowHide(178282);&gt;&lt;b&gt;&lt;i&gt;SIGNAL MAINTENANCE&lt;/i&gt;&lt;br clear=left&gt;[7] No trains between Queensboro Plaza and 34 St-Hudson Yards&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 178282 class="plannedWorkDetail" &gt;[E] [F] [N] [S] trains and [SB] free shuttle buses provide alternate service&lt;br&gt;&lt;/b&gt;Late Night, 11:45 PM Mon to 5 AM Tue, Feb 5 - 6&lt;br&gt;&lt;br&gt;&lt;b&gt;[7]&lt;/b&gt; service operates between &lt;b&gt;Main St&lt;/b&gt; and &lt;b&gt;Queensboro Plaza&lt;/b&gt;.&lt;br&gt;&lt;br&gt;[SB] Buses operate in two sections:&lt;br&gt;  1. &lt;b&gt;Queens&lt;/b&gt; between &lt;b&gt;Queensboro Plaza&lt;/b&gt; and &lt;b&gt;Vernon Blvd-Jackson Av&lt;/b&gt;.&lt;br&gt;  2. &lt;b&gt;Manhattan&lt;/b&gt; between &lt;b&gt;Times Sq-42 St&lt;/b&gt; and &lt;b&gt;34 St-Hudson Yards&lt;/b&gt;.&lt;br&gt;&lt;br&gt;&lt;b&gt;[S]&lt;/b&gt; 42 Street Shuttle service operates overnight.&lt;br&gt;&lt;br&gt;&lt;table class=plannedworkTableStyle  width=80%&gt;&lt;tr&gt;&lt;td&gt;&lt;font size=3&gt;&lt;b&gt;Travel Alternatives&lt;/b&gt;&lt;/font&gt;&lt;td align=right&gt;[TP]&lt;/table&gt;&lt;br&gt;&lt;/font&gt;For service between Queens and Manhattan, take the [E] [F] or [N].&lt;br&gt;&lt;br&gt;&amp;bull; Transfer between [7] and [E] [F] trains at 74 St-Roosevelt Av.&lt;br&gt;&amp;bull; Transfer between [7] and [N] trains at Queensboro Plaza.&lt;br&gt;&lt;br&gt;&lt;table class=plannedworkTableStyle  border=1 cellspacing=1 cellpadding=3 rules=rows frame=hsides&gt;&lt;tr bgcolor=#FAF8CC&gt;&lt;td&gt;&lt;b&gt;Queens Station&lt;/b&gt;&lt;td&gt;[SB] &lt;b&gt;Shuttle Bus Stop&lt;/b&gt;&lt;tr&gt;&lt;td rowspan=2&gt;Queensboro Plaza [7] [N]&lt;td&gt;Queens Plaza South at 27 St&lt;/font&gt; (to Vernon Blvd-Jackson Av)&lt;tr&gt;&lt;td&gt;&lt;/font&gt;Queens Plaza South at Crescent St (to Queensboro Plaza)&lt;tr&gt;&lt;td&gt;Queens Plaza [ad] [E]&lt;td&gt;42 Rd at Jackson Av&lt;tr&gt;&lt;td rowspan=2&gt;Court Sq-23 St [E]&lt;td&gt;Jackson Av at 45 Av (to Vernon Blvd-Jackson Av)&lt;tr&gt;&lt;td&gt;Jackson Av at Thomson Av (to Queensboro Plaza)&lt;tr&gt;&lt;td rowspan=3&gt;Hunters Point Av&lt;td&gt;Jackson Av at 47 Av (to Vernon Blvd-Jackson Av)&lt;tr&gt;&lt;td&gt;Jackson Av at 21 St (to Queensboro Plaza)&lt;tr&gt;&lt;td&gt;Jackson Av at 11 St (to Queensboro Plaza)&lt;tr&gt;&lt;td&gt;Vernon Blvd-Jackson Av&lt;td&gt;Vernon Blvd at 50 Av&lt;tr bgcolor=#FAF8CC&gt;&lt;td&gt;&lt;b&gt;Manhattan Station&lt;/b&gt;&lt;td&gt;&lt;b&gt;Alternate Service&lt;/b&gt;&lt;tr&gt;&lt;td rowspan=2&gt;Grand Central-42 St&lt;br&gt;[ad] &lt;font size=1&gt; &lt;i&gt;except &lt;/i&gt;&lt;b&gt;S&lt;/b&gt;&lt;/font&gt;&lt;td&gt;[4] [6] via [N] at Lexington Av/59 St &lt;i&gt;or&lt;/i&gt; [E] at Lexington Av/53 St&lt;tr&gt;&lt;td&gt;[S] via Times Sq-42 St&lt;tr&gt;&lt;td&gt;5 Av&lt;td&gt;[F] (42 St-Bryant Pk)&lt;tr&gt;&lt;td rowspan=2&gt;Times Sq-42 St&lt;br&gt;[ad] &lt;font size=1&gt; &lt;i&gt;except &lt;/i&gt;&lt;b&gt;S&lt;/b&gt;&lt;/font&gt;&lt;td&gt;[N] and [SB] 42 St at 7 Av&lt;tr&gt;&lt;td&gt; [E] and [SB] 44 St at 8 Av (42 St-Port Authority)&lt;tr&gt;&lt;td&gt;34 St-Hudson Yards&lt;td&gt;[SB] 34 St at Hudson Blvd East &lt;i&gt;or&lt;/i&gt; [E] at nearby &lt;a href=http://web.mta.info/weekender/tileMap.html?staID=18239 target=_blank&gt;&lt;font color=#0000FF&gt;34 St-Penn Station&lt;/font&gt;&lt;/a&gt;&lt;/table&gt;&lt;br&gt;&lt;/font&gt;&lt;table class=plannedworkTableStyle  border=1 cellspacing=1 cellpadding=5 rules=none frame=box&gt;&lt;td&gt;  [ad]  &lt;td&gt;&lt;font size=1&gt;This service change affects one or more ADA accessible stations. Please call 511 for help with planning&lt;br&gt;your trip. If you are deaf or hard of hearing, use your preferred relay service provider or the free 711 relay.  &lt;/font&gt;&lt;/table&gt;&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>02/06/2018</Date>
-    <Time> 4:57AM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>ACE</name>
-    <status>PLANNED WORK</status>
-    <text>
-                    &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
-                    &lt;br/&gt;
-                  &lt;a class="plannedWorkDetailLink" onclick=ShowHide(178148);&gt;&lt;b&gt;&lt;i&gt;SIGNAL MAINTENANCE&lt;/i&gt;&lt;br clear=left&gt;[E] Jamaica Center-bound trains run express from Queens Plaza to 71 Av&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 178148 class="plannedWorkDetail" &gt;&lt;/b&gt;&lt;/font&gt;Late Nights, 12:01 AM to 5 AM, Tue to Fri, Feb 6 - 9&lt;br&gt;&lt;br&gt;Trains stop at Roosevelt Av.&lt;br&gt;&lt;br&gt;For service &lt;i&gt;to&lt;/i&gt; 36, Steinway, 46 Sts, Northern Blvd and 65 St, take the [E] to Roosevelt Av&lt;br&gt;and transfer to a World Trade Center-bound [E].&lt;br&gt;&lt;br&gt;For service &lt;i&gt;to&lt;/i&gt; Elmhurst, Grand Avs, Woodhaven Blvd, 63 Dr and 67 Av, take the [E] to 71 Av&lt;br&gt;and transfer to a World Trade Center-bound [E].&lt;br&gt;&lt;br&gt;For service &lt;i&gt;from&lt;/i&gt; these stations, take the [E] to Roosevelt Av or Queens Plaza&lt;br&gt;and transfer to a Jamaica Center-bound [E].&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>02/06/2018</Date>
-    <Time> 4:57AM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>BDFM</name>
-    <status>PLANNED WORK</status>
-    <text>
-                    &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
-                    &lt;br/&gt;
-                  &lt;a class="plannedWorkDetailLink" onclick=ShowHide(178163);&gt;&lt;b&gt;&lt;i&gt;TRACK MAINTENANCE&lt;/i&gt;&lt;br clear=left&gt;[D] No trains between 59 St-Columbus Circle and Stillwell Av&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 178163 class="plannedWorkDetail" &gt;[F] [N] [Q] trains and [SB] free shuttle buses provide alternate service&lt;br&gt;&lt;/b&gt;Late Nights, 9:30 PM to 5 AM, Mon to Fri, Feb 5 - 9&lt;br&gt;&lt;br&gt;No [D] service at &lt;b&gt;7 Av, 47-50 Sts, 42 St-Bryant Pk, 34 St-Herald Sq &lt;/b&gt;and &lt;b&gt;Grand St.&lt;br&gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;[D] service operates between &lt;b&gt;205 St&lt;/b&gt; and &lt;b&gt;59 St-Columbus Circle&lt;/b&gt; and via the [C] local &lt;i&gt;to/from&lt;/i&gt; &lt;b&gt;W 4 St&lt;br&gt;&lt;/b&gt;and via the [F] &lt;i&gt;to/from&lt;/i&gt; &lt;b&gt;2 Av&lt;/b&gt;, &lt;i&gt;the last stop&lt;/i&gt;.&lt;br&gt;&lt;br&gt;[Q]* trains replace the [D] in Brooklyn between &lt;b&gt;Atlantic Av-Barclays Ctr &lt;/b&gt;and &lt;b&gt;Stillwell Av&lt;/b&gt;.&lt;br&gt;&lt;br&gt;For &lt;i&gt;late night&lt;/i&gt; service at DeKalb Av, Union St, 4 Av-9 St, Prospect Av and 25 St, take the [N] instead.&lt;br&gt;&lt;br&gt;[F] trains provide alternate service at &lt;b&gt;47-50 Sts, 42 St-Bryant Park &lt;/b&gt;and&lt;b&gt; 34 St-Herald Sq&lt;/b&gt;.&lt;br&gt;&lt;br&gt;[SB] Buses operate between &lt;b&gt;W 4 St&lt;/b&gt; and &lt;b&gt;Grand St&lt;/b&gt;, stopping at &lt;b&gt;B'way-Lafayette St&lt;/b&gt;.&lt;br&gt;&lt;br&gt;&lt;font size=3&gt;&lt;b&gt;&lt;a style="cursor:pointer; text-decoration:underline;" onclick=ShowHide(1781630);&gt;Show Shuttle Bus Stops&lt;/a&gt;&lt;/b&gt;&lt;/font&gt;&lt;div id="1781630"; style="display:none;"&gt;&lt;table class=plannedworkTableStyle  border=1 cellspacing=1 cellpadding=3 rules=rows frame=hsides&gt;&lt;tr bgcolor=#FAF8CC&gt;&lt;td&gt;&lt;b&gt;Station      &lt;/b&gt;&lt;/td&gt;&lt;td&gt;&lt;b&gt;Bus Stop&lt;/b&gt;&lt;td&gt;&lt;b&gt;Bus&lt;/b&gt;&lt;tr&gt;&lt;td&gt;W 4 St [ad] [A] [C] [D] [E] [F]      &lt;td&gt;6 Av at W 3 St&lt;td&gt;&lt;b&gt;M55&lt;/b&gt;&lt;tr&gt;&lt;td&gt;B'way-Lafayette St [ad] [D] [F]  &lt;td&gt;Houston St at Broadway&lt;td&gt;&lt;b&gt;M21&lt;/b&gt;&lt;tr&gt;&lt;td&gt;Grand St&lt;td&gt;Grand St at Chrystie St  &lt;td align=center&gt;&amp;mdash;&lt;/table&gt;&lt;/div&gt;&lt;br&gt;&lt;br&gt;&lt;table class=plannedworkTableStyle  width=80%&gt;&lt;tr&gt;&lt;td&gt;&lt;font size=3&gt;&lt;b&gt;Travel Alternatives&lt;/b&gt;&lt;/font&gt;&lt;td align=right&gt;[TP]&lt;/table&gt;&lt;br&gt;For &lt;b&gt;Brooklyn&lt;/b&gt;, take the [N] or [Q] instead.&lt;br&gt;  &amp;bull; &lt;/font&gt;Transfer between [D] and [N] [Q] trains via the passageway at Times Sq-42 St/Port Authority.&lt;br&gt;&lt;br&gt;For &lt;b&gt;7 Av&lt;/b&gt;, take the [E]. &lt;br&gt;  &amp;bull; &lt;/font&gt;Transfer between [D] and [E] trains at 42 St/Port Authority. &lt;br&gt;&lt;br&gt;&lt;/font&gt;For &lt;b&gt;47-50 Sts&lt;/b&gt;, &lt;b&gt;42 St-Bryant Pk&lt;/b&gt; and &lt;b&gt;34 St-Herald Sq&lt;/b&gt; take the [F]. &lt;br&gt;  &amp;bull; &lt;/font&gt;Transfer between [D] and [F] trains at W 4 St.&lt;br&gt;  &amp;bull; Transfer between [N] [Q] and [F] trains at 34 St-Herald Sq.&lt;br&gt;&lt;br&gt;&lt;/font&gt;For &lt;b&gt;Grand St&lt;/b&gt;, take a [SB] bus.&lt;br&gt;  &amp;bull; &lt;/font&gt;Transfer between [D] [F] trains and [SB] buses at W 4 St &lt;i&gt;or&lt;/i&gt; B'way-Lafayette St.&lt;br&gt;&lt;br&gt;&lt;i&gt;*This detour has taken into account additional planned service changes.&lt;br&gt;&lt;br&gt;&lt;/i&gt;&lt;/font&gt;&lt;table class=plannedworkTableStyle  border=1 cellspacing=1 cellpadding=5 rules=none frame=box&gt;&lt;td&gt;  [ad]  &lt;td&gt;&lt;font size=1&gt;This service change affects one or more ADA accessible stations. Please call 511 for help with planning&lt;br&gt;your trip. If you are deaf or hard of hearing, use your preferred relay service provider or the free 711 relay.  &lt;/font&gt;&lt;/table&gt;&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
-                &lt;br/&gt;&lt;br/&gt;
-              
-                    &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
-                    &lt;br/&gt;
-                  &lt;a class="plannedWorkDetailLink" onclick=ShowHide(175976);&gt;&lt;b&gt;&lt;i&gt;TRACK MAINTENANCE&lt;/i&gt;&lt;br clear=left&gt;[D] Uptown trains skip 170 St and 174-175 Sts&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 175976 class="plannedWorkDetail" &gt;&lt;/b&gt;Late Nights, 9:45 PM to 5 AM, Mon to Fri, until Mar 2 &lt;br&gt;                 (&lt;i&gt;except 9:45 PM Mon to 5 AM Tue, Feb 19 - 20&lt;/i&gt;)&lt;br&gt;&lt;br&gt;For service &lt;i&gt;to &lt;/i&gt;these stations, take the [D] to Tremont Av and transfer to a Manhattan-bound [D].&lt;br&gt;&lt;br&gt;For service &lt;i&gt;from &lt;/i&gt;these stations, take the [D] to 167 St and transfer to an uptown [D].&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>02/06/2018</Date>
-    <Time> 4:57AM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>G</name>
@@ -112,20 +57,10 @@
   </line>
   <line>
     <name>NQR</name>
-    <status>PLANNED WORK</status>
-    <text>
-                    &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
-                    &lt;br/&gt;
-                  &lt;a class="plannedWorkDetailLink" onclick=ShowHide(177560);&gt;&lt;b&gt;&lt;i&gt;TRACK MAINTENANCE&lt;/i&gt;&lt;br clear=left&gt;[R] No trains between 36 St, Brooklyn and 95 St&lt;font color=#000000&gt;&lt;br clear=left&gt;     &lt;/font&gt;No late night service&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 177560 class="plannedWorkDetail" &gt;&lt;/font&gt;[N] trains and [SB] free shuttle buses provide alternate service&lt;br&gt;&lt;/b&gt;Late Nights, 9:45 PM to 5 AM, Mon to Fri, Feb 5 - 9&lt;br&gt;&lt;br&gt;&lt;/font&gt;[R] service operates between &lt;b&gt;71 Av&lt;/b&gt; and &lt;b&gt;36 St&lt;/b&gt;, Brooklyn and via the [D] &lt;i&gt;to/from&lt;/i&gt; 9 Av,&lt;i&gt; evenings&lt;/i&gt;.&lt;br&gt;&lt;br&gt;For late night service between &lt;b&gt;Whitehall St&lt;/b&gt; and &lt;b&gt;59 St&lt;/b&gt;, Brooklyn, take the [N] instead.&lt;br&gt;&lt;br&gt;[SB] Buses make all stops between &lt;b&gt;59 St&lt;/b&gt; and &lt;b&gt;95 St.&lt;br&gt;&lt;br&gt;&lt;/b&gt;&lt;table class=plannedworkTableStyle  width=70%&gt;&lt;tr&gt;&lt;td&gt;&lt;font size=3&gt;&lt;b&gt;Travel Alternatives&lt;/b&gt;&lt;/font&gt;&lt;td align=center&gt;[TP]&lt;/table&gt;&lt;br&gt;&lt;/font&gt;[N]* trains stop at 45 St, 53 St and 59 St.&lt;br&gt;&lt;br&gt;&amp;bull; &lt;/font&gt;Transfer between [N] and [R] trains at 36 St.&lt;br&gt;&amp;bull; &lt;/font&gt;Transfer between [N] trains and [SB] buses at 59 St.&lt;br&gt;&lt;br&gt;&lt;font size=3&gt;&lt;b&gt;&lt;a style="cursor:pointer; text-decoration:underline;" onclick=ShowHide(1775600);&gt;Show Shuttle Bus Stops&lt;/a&gt;&lt;/b&gt;&lt;/font&gt;&lt;div id="1775600"; style="display:none;"&gt;&lt;table class=plannedworkTableStyle  border=1 cellspacing=1 cellpadding=3 rules=rows frame=hsides&gt;&lt;tr&gt;&lt;td bgcolor=#FAF8CC&gt;&lt;b&gt;Station&lt;/b&gt;&lt;td bgcolor=#FAF8CC&gt;&lt;b&gt;Shuttle Bus Stop&lt;/b&gt;&lt;tr&gt;&lt;td&gt;59 St [N]    &lt;td&gt;4 Av at 59 St&lt;tr&gt;&lt;td&gt;Bay Ridge Av&lt;td&gt;4 Av at 68 St&lt;tr&gt;&lt;td&gt;77 St&lt;td&gt;4 Av at 77 St&lt;tr&gt;&lt;td rowspan=2&gt;86 St&lt;td&gt;4 Av at 87 St (to 95 St)&lt;tr&gt;&lt;td&gt;4 Av at 86 St (to 59 St)&lt;tr&gt;&lt;td&gt;95 St&lt;td&gt;5 Av at 95 St&lt;/table&gt;&lt;/div&gt;&lt;br&gt;&lt;br&gt;&lt;i&gt;*This detour has taken into account additional planned service changes.&lt;br&gt;&lt;/i&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
-                &lt;br/&gt;&lt;br/&gt;
-              
-                    &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
-                    &lt;br/&gt;
-                  &lt;a class="plannedWorkDetailLink" onclick=ShowHide(178322);&gt;&lt;b&gt;&lt;i&gt;TRACK MAINTENANCE&lt;/i&gt;&lt;br clear=left&gt;[Q] No trains between Atlantic Av-Barclays Ctr and Prospect Park&lt;br clear=left&gt;[Q] skips DeKalb Av in both directions &lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 178322 class="plannedWorkDetail" &gt;[SB] Free shuttle buses provide alternate service&lt;br&gt;&lt;/b&gt;Late Nights, 9:30 PM to 5 AM, Mon to Fri, &lt;font color=#272627&gt;Feb 5 - 9&lt;br&gt;&lt;br&gt;&lt;/font&gt;&lt;b&gt;[Q] service operates in two sections:&lt;br&gt;&lt;/b&gt;  1. Between &lt;b&gt;96 St&lt;/b&gt; and &lt;b&gt;Atlantic Av-Barclays Ctr &lt;/b&gt;and via the [D] &lt;i&gt;to/from&lt;/i&gt;&lt;b&gt; Stillwell Av&lt;br&gt;&lt;/b&gt;  2. Between &lt;b&gt;Prospect Park&lt;/b&gt; and &lt;b&gt;Stillwell Av&lt;br&gt;&lt;br&gt;[SB]&lt;/b&gt; Buses operate between &lt;b&gt;Atlantic Av-Barclays Ctr&lt;/b&gt; and &lt;b&gt;Prospect Park&lt;/b&gt;, stopping at &lt;b&gt;7 Av&lt;/b&gt;. &lt;br&gt;&lt;font color=#272627&gt;  &amp;bull; Transfer between trains and [SB] buses at Atlantic Av-Barclays Ctr &lt;i&gt;and/or&lt;/i&gt; Prospect Park.&lt;br&gt;&lt;br&gt;For service between Manhattan and Stillwell Av, consider the [F] and [N] trains.&lt;br&gt;&lt;br&gt;&lt;/font&gt;For &lt;b&gt;DeKalb Av&lt;/b&gt;, take the [N]* instead. Transfer between trains at Canal St or between shuttle buses and trains at Atlantic Av-Barclays Ctr.&lt;br&gt;      &lt;br&gt;&lt;font color=#272627&gt;&lt;table class=plannedworkTableStyle  width=60% border=1 cellspacing=1 cellpadding=3 rules=rows frame=hsides&gt;&lt;tr bgcolor=#FAF8CC&gt;&lt;td&gt;&lt;b&gt;Station&lt;/b&gt;&lt;td&gt;&lt;b&gt;Shuttle Bus Stop&lt;/b&gt;&lt;tr&gt;&lt;td&gt;Atlantic Av-Barclays Ctr&lt;br&gt;[ad]  [2] [4] [N] [Q] [R] &lt;td&gt;4 Av at Pacific St&lt;tr&gt;&lt;td&gt;7 Av&lt;td&gt;Flatbush Av at Park Pl&lt;tr&gt;&lt;td&gt;Prospect Park  [ad] [Q] [S]&lt;td&gt;Lincoln Rd at station entrance&lt;/table&gt;&lt;br&gt;&lt;i&gt;*[N] trains run local via the [R] between Canal St and 59 St, Brooklyn during this time.&lt;br&gt;&lt;/i&gt;&lt;/font&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>02/06/2018</Date>
-    <Time> 4:57AM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>S</name>
@@ -137,7 +72,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>02/06/2018</Date>
-    <Time> 4:57AM</Time>
+    <Time> 5:02AM</Time>
   </line>
   <line>
     <name>SIR</name>
@@ -158,14 +93,20 @@
               &lt;br/&gt;
             </text>
     <Date>02/06/2018</Date>
-    <Time> 4:57AM</Time>
+    <Time> 5:02AM</Time>
   </line>
   <line>
     <name>B100 - B103</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>PLANNED WORK</status>
+    <text>
+                  &lt;span class="TitlePlannedWork" &gt;Planned Detour&lt;/span&gt;
+                  &lt;br/&gt;
+                &lt;a class="plannedWorkDetailLink" onclick=ShowHide(180331);&gt;&lt;b&gt;B103 &lt;/b&gt;LTD &lt;b&gt;buses rerouted between Flatlands Av at E 108 St and E 105 St at Avenue J&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 180331 class="plannedWorkDetail" &gt;&lt;/b&gt;Until further notice&lt;br&gt;&lt;br&gt;Due to construction, buses run via &lt;b&gt;Avenue J &lt;/b&gt;and&lt;b&gt; E 108 St &lt;/b&gt;making corresponding stops in both directions.&lt;br&gt;&lt;br&gt;&lt;b&gt;&lt;i&gt;&lt;a style="cursor:pointer; text-decoration:underline;" onclick=ShowHide(1803310);&gt;Show Reroute Details&lt;/a&gt;&lt;/i&gt;&lt;/b&gt;&lt;br&gt;&lt;div id="1803310"; style="display:none;"&gt;&lt;b&gt;Eastbound&lt;br&gt;&lt;/b&gt;Via E 105 St&lt;br&gt;Right on Avenue J&lt;br&gt;Left on E 108 St&lt;br&gt;Right on Flatlands Av then regular route&lt;br&gt;&lt;br&gt;&lt;b&gt;Westbound&lt;br&gt;&lt;/b&gt;Via Flatlands Av&lt;br&gt;Left on E 108 St&lt;br&gt;Right on Avenue J&lt;br&gt;Left on E 105 St then regular route&lt;/div&gt;&lt;br&gt;&lt;b&gt;                              [TP]&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            </text>
+    <Date>02/06/2018</Date>
+    <Time> 5:02AM</Time>
   </line>
   <line>
     <name>BM1 - BM5</name>
@@ -191,7 +132,7 @@
               &lt;br/&gt;
             </text>
     <Date>02/06/2018</Date>
-    <Time> 4:57AM</Time>
+    <Time> 5:02AM</Time>
   </line>
   <line>
     <name>BXM1 - BXM18</name>
@@ -221,9 +162,15 @@
                 &lt;a class="plannedWorkDetailLink" onclick=ShowHide(178665);&gt;&lt;b&gt;M102 &lt;/b&gt;- &lt;b&gt;Northbound terminal on 146 St at Malcolm X Blvd temporarily relocated&lt;br clear=left&gt;Southbound buses bypass the stop on 146 St at Malcolm X Blvd&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 178665 class="plannedWorkDetail" &gt;&lt;/b&gt;Until further notice&lt;br&gt;&lt;br&gt;Due to construction:&lt;br&gt;&lt;br&gt;Northbound terminal &lt;b&gt;on 146 St &lt;/b&gt;at Malcolm X Blvd relocated to &lt;b&gt;147 St &lt;/b&gt;at Adam Clayton Powell, Jr. Blvd.&lt;br&gt;&lt;br&gt;Southbound stop &lt;b&gt;on 146 St &lt;/b&gt;at Malcolm X Blvd will be made &lt;b&gt;on 145 St &lt;/b&gt;at Malcolm X Blvd.&lt;br&gt;&lt;br&gt;Customers traveling southbound may board northbound buses &lt;b&gt;on 147 St &lt;/b&gt;at Adam Clayton Powell, Jr. Blvd&lt;br&gt;and remain onboard through the terminal.&lt;br&gt;&lt;b&gt;                              [TP]&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
               &lt;br/&gt;
               &lt;br/&gt;
+            
+                  &lt;span class="TitlePlannedWork" &gt;Planned Detour&lt;/span&gt;
+                  &lt;br/&gt;
+                &lt;a class="plannedWorkDetailLink" onclick=ShowHide(180056);&gt;&lt;b&gt;M100 and M101/M101 &lt;/b&gt;LTD - &lt;b&gt;Southbound buses bypass the stop on Amsterdam Av at 148 St&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 180056 class="plannedWorkDetail" &gt;&lt;/b&gt;5 AM to 7 PM, Mon&lt;i&gt; and &lt;/i&gt;Tue, Feb 5 - 6&lt;br&gt;&lt;br&gt;Due to a local event, please use nearby stops &lt;b&gt;on Amsterdam Av &lt;/b&gt;at 150 St or 145 St.&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
             </text>
     <Date>02/06/2018</Date>
-    <Time> 4:57AM</Time>
+    <Time> 5:02AM</Time>
   </line>
   <line>
     <name>Q1 - Q113</name>
@@ -248,7 +195,7 @@
               &lt;br/&gt;
             </text>
     <Date>02/06/2018</Date>
-    <Time> 4:57AM</Time>
+    <Time> 5:02AM</Time>
   </line>
   <line>
     <name>QM1 - QM44</name>
@@ -267,7 +214,7 @@
               &lt;br/&gt;
             </text>
     <Date>02/06/2018</Date>
-    <Time> 4:57AM</Time>
+    <Time> 5:02AM</Time>
   </line>
   <line>
     <name>S40 - S98</name>
