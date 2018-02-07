@@ -1,17 +1,10 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>DELAYS</status>
-    <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;02/07/2018&amp;nbsp; 6:02PM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  [1], [2] and [3] train service has resumed following earlier signal problems at &lt;STRONG&gt;34 St-Penn Station&lt;/STRONG&gt; and&lt;STRONG&gt; Times Sq-42 St&lt;/STRONG&gt;.
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>02/07/2018</Date>
-    <Time> 6:02PM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>456</name>
@@ -43,10 +36,17 @@
   </line>
   <line>
     <name>BDFM</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>DELAYS</status>
+    <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;02/07/2018&amp;nbsp; 6:10PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  Southbound [B], [D], [F] and Broadway Junction bound [M] trains are running with delays because of signal problems between &lt;STRONG&gt;57 St&lt;/STRONG&gt; and &lt;STRONG&gt;47-50 Sts-Rockefeller Ctr&lt;/STRONG&gt;.
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>02/07/2018</Date>
+    <Time> 6:10PM</Time>
   </line>
   <line>
     <name>G</name>
@@ -104,16 +104,6 @@
     <text>
                   &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                   &lt;span class="DateStyle"&gt;
-                  &amp;nbsp;Posted:&amp;nbsp;02/07/2018&amp;nbsp; 6:05PM
-                  &lt;/span&gt;
-                  &lt;br/&gt;
-                  &lt;br/&gt;
-                &lt;STRONG&gt;B41&lt;/STRONG&gt; and &lt;STRONG&gt;B103&lt;/STRONG&gt;-LTD bus service has resumed following an earlier non TA accident on Flatbush Av.
-              &lt;br/&gt;
-              &lt;br/&gt;
-            
-                  &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                  &lt;span class="DateStyle"&gt;
                   &amp;nbsp;Posted:&amp;nbsp;02/07/2018&amp;nbsp; 6:01PM
                   &lt;/span&gt;
                   &lt;br/&gt;
@@ -129,22 +119,12 @@
               &lt;br/&gt;
             </text>
     <Date>02/07/2018</Date>
-    <Time> 6:05PM</Time>
+    <Time> 6:01PM</Time>
   </line>
   <line>
     <name>B100 - B103</name>
-    <status>DELAYS</status>
+    <status>SERVICE CHANGE</status>
     <text>
-                  &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                  &lt;span class="DateStyle"&gt;
-                  &amp;nbsp;Posted:&amp;nbsp;02/07/2018&amp;nbsp; 6:05PM
-                  &lt;/span&gt;
-                  &lt;br/&gt;
-                  &lt;br/&gt;
-                &lt;STRONG&gt;B41&lt;/STRONG&gt; and &lt;STRONG&gt;B103&lt;/STRONG&gt;-LTD bus service has resumed following an earlier non TA accident on Flatbush Av.
-              &lt;br/&gt;
-              &lt;br/&gt;
-            
                   &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
                   &lt;span class="DateStyle"&gt;
                   &amp;nbsp;Posted:&amp;nbsp;02/07/2018&amp;nbsp; 6:02PM
@@ -174,7 +154,7 @@
               &lt;br/&gt;
             </text>
     <Date>02/07/2018</Date>
-    <Time> 6:05PM</Time>
+    <Time> 6:02PM</Time>
   </line>
   <line>
     <name>BM1 - BM5</name>
