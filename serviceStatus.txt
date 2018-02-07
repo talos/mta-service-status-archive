@@ -1,10 +1,15 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>PLANNED WORK</status>
+    <text>
+                    &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
+                    &lt;br/&gt;
+                  &lt;a class="plannedWorkDetailLink" onclick=ShowHide(178169);&gt;&lt;b&gt;&lt;i&gt;TRACK MAINTENANCE&lt;/i&gt;&lt;br clear=left&gt;[1] Uptown trains run express from Chambers St to 96 St&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 178169 class="plannedWorkDetail" &gt;&lt;/b&gt;Late Nights, 9:45 PM to 5 AM, Mon to Fri, Feb 5 - 9  &amp;bull;  Feb 12 - 16&lt;br&gt;&lt;br&gt;&lt;/font&gt;Trains stop at 14 St, 34 St-Penn Station, Times Sq-42 St and 72 St.&lt;br&gt;&lt;br&gt;For service &lt;i&gt;to&lt;/i&gt; &lt;b&gt;Franklin&lt;/b&gt;, &lt;b&gt;Canal&lt;/b&gt;,&lt;b&gt; Houston &lt;/b&gt;and&lt;b&gt; Christopher&lt;/b&gt; &lt;b&gt;Sts&lt;/b&gt;, take the [1] to 14 St and &lt;br&gt;transfer to a downtown &lt;b&gt;[1] &lt;/b&gt;or &lt;b&gt;[2] &lt;/b&gt;&lt;i&gt;local&lt;/i&gt;.&lt;br&gt;&lt;br&gt;For service &lt;i&gt;to&lt;/i&gt; &lt;b&gt;18&lt;/b&gt;, &lt;b&gt;23&lt;/b&gt; and &lt;b&gt;28 Sts&lt;/b&gt;, take the [1] to 34 St-Penn Station and transfer to a &lt;br&gt;downtown &lt;b&gt;[1]&lt;/b&gt; or &lt;b&gt;[2]&lt;/b&gt; &lt;i&gt;local&lt;/i&gt;.&lt;br&gt;&lt;br&gt;&lt;/font&gt;For service &lt;i&gt;to&lt;/i&gt; &lt;b&gt;50&lt;/b&gt;, &lt;b&gt;59&lt;/b&gt; and &lt;b&gt;66&lt;/b&gt; &lt;b&gt;Sts&lt;/b&gt;, take the &lt;b&gt;[1]&lt;/b&gt; to 72 St and transfer to a downtown &lt;b&gt;[1]&lt;/b&gt; or &lt;b&gt;[2]&lt;/b&gt; &lt;i&gt;local&lt;/i&gt;.&lt;br&gt;&lt;br&gt;For service &lt;i&gt;to &lt;/i&gt;&lt;b&gt;79 &lt;/b&gt;and &lt;b&gt;86 Sts&lt;/b&gt;, take the &lt;b&gt;[1] &lt;/b&gt;to 96 St and transfer to a downtown &lt;b&gt;[1] &lt;/b&gt;or &lt;b&gt;[2] &lt;/b&gt;&lt;i&gt;local&lt;/i&gt;.&lt;br&gt;&lt;br&gt;For service &lt;i&gt;from&lt;/i&gt; these stations, take the [1] or [2] to 72 St, Times Sq-42 St, 14 St or Chambers St and&lt;br&gt;transfer to a Van Cortlandt Park-bound [1].&lt;br&gt;&lt;br&gt;&lt;b&gt;Note:&lt;/b&gt; Downtown [3] trains run &lt;i&gt;local&lt;/i&gt; from 96 St to Times Sq-42 St, 10 PM to 11:45 PM, Feb 12 - 15.&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>02/06/2018</Date>
+    <Time>10:03PM</Time>
   </line>
   <line>
     <name>456</name>
@@ -21,7 +26,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>02/06/2018</Date>
-    <Time> 9:53PM</Time>
+    <Time>10:03PM</Time>
   </line>
   <line>
     <name>7</name>
@@ -70,7 +75,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>02/06/2018</Date>
-    <Time> 9:53PM</Time>
+    <Time>10:03PM</Time>
   </line>
   <line>
     <name>G</name>
@@ -118,7 +123,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>02/06/2018</Date>
-    <Time> 9:53PM</Time>
+    <Time>10:03PM</Time>
   </line>
   <line>
     <name>S</name>
@@ -232,7 +237,7 @@
               &lt;br/&gt;
             </text>
     <Date>02/06/2018</Date>
-    <Time> 9:53PM</Time>
+    <Time>10:03PM</Time>
   </line>
   <line>
     <name>BXM1 - BXM18</name>
@@ -264,7 +269,7 @@
               &lt;br/&gt;
             </text>
     <Date>02/06/2018</Date>
-    <Time> 9:53PM</Time>
+    <Time>10:03PM</Time>
   </line>
   <line>
     <name>Q1 - Q113</name>
@@ -316,12 +321,6 @@
                   &lt;br/&gt;
                   &lt;br/&gt;
                 &lt;STRONG&gt;QM6&lt;/STRONG&gt; bus customers must board on the Grand Central Pkwy Svc Rd because of FDNY activity at the North shore Towers.
-              &lt;br/&gt;
-              &lt;br/&gt;
-            
-                  &lt;span class="TitlePlannedWork" &gt;Planned Detour&lt;/span&gt;
-                  &lt;br/&gt;
-                &lt;a class="plannedWorkDetailLink" onclick=ShowHide(169871);&gt;&lt;b&gt;QM24, QM25 and QM34 buses may experience delays&lt;br clear=left&gt;due to construction on Metropolitan Av at Fresh Pond Rd &lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 169871 class="plannedWorkDetail" &gt;&lt;/b&gt;6 AM to 10 PM, Mon to Fri, until further notice&lt;br&gt;&lt;br&gt;&amp;bull; Please allow additional travel time.&lt;br&gt;&lt;/font&gt;&lt;b&gt;          &lt;/b&gt;&lt;/font&gt;&lt;a href=http://bustime.mta.info/ target=_blank&gt;&lt;img height=30px src=http://web.mta.info/nyct/images/Bus_Time_logo.png&gt;&lt;/a&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
               &lt;br/&gt;
               &lt;br/&gt;
             
