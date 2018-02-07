@@ -43,20 +43,10 @@
   </line>
   <line>
     <name>BDFM</name>
-    <status>SERVICE CHANGE</status>
-    <text>
-                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;02/07/2018&amp;nbsp; 5:40PM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  &lt;P&gt;[R] trains are stopping along the [Q] line between &lt;STRONG&gt;DeKalb Av&lt;/STRONG&gt; and &lt;STRONG&gt;Canal St&lt;/STRONG&gt; in both directions.&lt;/P&gt;
-&lt;P&gt;Southbound [W] trains will end at &lt;STRONG&gt;Prince St&lt;/STRONG&gt;. &lt;/P&gt;
-&lt;P&gt;These service changes are because of a temporary loss of Con Ed power at &lt;STRONG&gt;Whitehall St-South Ferry&lt;/STRONG&gt;. &lt;/P&gt;
-&lt;P&gt;Expect delays to [B], [D], [N], [Q], [R] and [W] train service. &lt;/P&gt;
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>02/07/2018</Date>
-    <Time> 5:40PM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>G</name>
@@ -81,20 +71,17 @@
   </line>
   <line>
     <name>NQR</name>
-    <status>SERVICE CHANGE</status>
+    <status>DELAYS</status>
     <text>
-                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;02/07/2018&amp;nbsp; 5:40PM
+                    &amp;nbsp;Posted:&amp;nbsp;02/07/2018&amp;nbsp; 5:55PM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  &lt;P&gt;[R] trains are stopping along the [Q] line between &lt;STRONG&gt;DeKalb Av&lt;/STRONG&gt; and &lt;STRONG&gt;Canal St&lt;/STRONG&gt; in both directions.&lt;/P&gt;
-&lt;P&gt;Southbound [W] trains will end at &lt;STRONG&gt;Prince St&lt;/STRONG&gt;. &lt;/P&gt;
-&lt;P&gt;These service changes are because of a temporary loss of Con Ed power at &lt;STRONG&gt;Whitehall St-South Ferry&lt;/STRONG&gt;. &lt;/P&gt;
-&lt;P&gt;Expect delays to [B], [D], [N], [Q], [R] and [W] train service. &lt;/P&gt;
+                  [R] and [W] train service has resumed following a temporary loss of Con Ed power at &lt;STRONG&gt;Whitehall St-South Ferry&lt;/STRONG&gt;.
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>02/07/2018</Date>
-    <Time> 5:40PM</Time>
+    <Time> 5:55PM</Time>
   </line>
   <line>
     <name>S</name>
@@ -541,10 +528,17 @@
 </BT><LIRR>
   <line>
     <name>Babylon</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>DELAYS</status>
+    <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;02/07/2018&amp;nbsp; 5:53PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  The 4:39PM train from Atlantic Terminal due Babylon at 5:52PM is operating 10 minutes late due to an equipment problem.
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>02/07/2018</Date>
+    <Time> 5:53PM</Time>
   </line>
   <line>
     <name>City Terminal Zone</name>
