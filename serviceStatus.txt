@@ -1,17 +1,10 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>DELAYS</status>
-    <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;02/08/2018&amp;nbsp; 8:18AM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  [2] and [3] train service has resumed following an earlier incident involving a sick passenger at &lt;STRONG&gt;96 St.&lt;/STRONG&gt;
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>02/08/2018</Date>
-    <Time> 8:18AM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>456</name>
@@ -95,7 +88,7 @@
               &lt;br/&gt;
             </text>
     <Date>02/08/2018</Date>
-    <Time> 8:14AM</Time>
+    <Time> 8:29AM</Time>
   </line>
   <line>
     <name>B100 - B103</name>
@@ -164,7 +157,7 @@
               &lt;br/&gt;
             </text>
     <Date>02/08/2018</Date>
-    <Time> 8:14AM</Time>
+    <Time> 8:29AM</Time>
   </line>
   <line>
     <name>BXM1 - BXM18</name>
@@ -177,12 +170,6 @@
     <name>M1 - M116</name>
     <status>PLANNED WORK</status>
     <text>
-                  &lt;span class="TitlePlannedWork" &gt;Planned Detour&lt;/span&gt;
-                  &lt;br/&gt;
-                &lt;a class="plannedWorkDetailLink" onclick=ShowHide(180649);&gt;&lt;b&gt;M42 and M50 stop at Terminal Pier 83 temporarily closed&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 180649 class="plannedWorkDetail" &gt;&lt;/b&gt;9 AM to 3 PM, Thursday, Feb 8&lt;br&gt;&lt;br&gt;Due to construction, please use nearby stops&lt;b&gt; &lt;/b&gt;on &lt;b&gt;12 Av &lt;/b&gt;and &lt;b&gt;42 St&lt;/b&gt;.&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
-              &lt;br/&gt;
-              &lt;br/&gt;
-            
                   &lt;span class="TitlePlannedWork" &gt;Planned Detour&lt;/span&gt;
                   &lt;br/&gt;
                 &lt;a class="plannedWorkDetailLink" onclick=ShowHide(180221);&gt;&lt;b&gt;M31 and M57 &lt;/b&gt;-&lt;b&gt; Westbound buses bypass stops on 57 St at Broadway and 10 Av &lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 180221 class="plannedWorkDetail" &gt;&lt;/b&gt;Until further notice&lt;br&gt;&lt;br&gt;Due to construction, please use nearby stops &lt;b&gt;on 57 St &lt;/b&gt;at 7 Av or 9 Av.&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
@@ -202,7 +189,7 @@
               &lt;br/&gt;
             </text>
     <Date>02/08/2018</Date>
-    <Time> 8:14AM</Time>
+    <Time> 8:29AM</Time>
   </line>
   <line>
     <name>Q1 - Q113</name>
@@ -273,7 +260,7 @@
               &lt;br/&gt;
             </text>
     <Date>02/08/2018</Date>
-    <Time> 8:14AM</Time>
+    <Time> 8:29AM</Time>
   </line>
   <line>
     <name>S40 - S98</name>
