@@ -36,17 +36,10 @@
   </line>
   <line>
     <name>ACE</name>
-    <status>DELAYS</status>
-    <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;02/08/2018&amp;nbsp; 4:38PM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  [A] train service has resumed following earlier NYPD activity at &lt;STRONG&gt;Beach 44 St&lt;/STRONG&gt;.
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>02/08/2018</Date>
-    <Time> 4:38PM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>BDFM</name>
@@ -265,8 +258,23 @@
   </line>
   <line>
     <name>M1 - M116</name>
-    <status>DELAYS</status>
+    <status>SERVICE CHANGE</status>
     <text>
+                  &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                  &lt;span class="DateStyle"&gt;
+                  &amp;nbsp;Posted:&amp;nbsp;02/08/2018&amp;nbsp; 4:47PM
+                  &lt;/span&gt;
+                  &lt;br/&gt;
+                  &lt;br/&gt;
+                &lt;P&gt;&lt;STRONG&gt;M31 &lt;/STRONG&gt;buses are detoured because of DEP work on 11 Av at 54 St. &lt;/P&gt;
+&lt;P&gt;Detour is as follows: &lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;Westbound&lt;/STRONG&gt;: Via 11 Av and terminate on 11 Av and 54 St at M12 bus stop. &lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;Eastbound&lt;/STRONG&gt;: Via 11 Av, from temporary bus stop, left on 52 St, left on 10 Av, right on 57 St and regular route. &lt;/P&gt;
+&lt;P&gt;All corresponding stops will be made along the detoured route. &lt;/P&gt;
+&lt;P&gt; &lt;/P&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
                   &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                   &lt;span class="DateStyle"&gt;
                   &amp;nbsp;Posted:&amp;nbsp;02/08/2018&amp;nbsp; 4:26PM
@@ -317,7 +325,7 @@
               &lt;br/&gt;
             </text>
     <Date>02/08/2018</Date>
-    <Time> 4:26PM</Time>
+    <Time> 4:47PM</Time>
   </line>
   <line>
     <name>Q1 - Q113</name>
