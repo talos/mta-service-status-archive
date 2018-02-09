@@ -133,10 +133,24 @@
   </line>
   <line>
     <name>BM1 - BM5</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>SERVICE CHANGE</status>
+    <text>
+                  &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                  &lt;span class="DateStyle"&gt;
+                  &amp;nbsp;Posted:&amp;nbsp;02/09/2018&amp;nbsp; 9:25AM
+                  &lt;/span&gt;
+                  &lt;br/&gt;
+                  &lt;br/&gt;
+                &lt;P&gt;B103 LTD, BM3, BM4 buses are detoured in both directions because of a non MTA accident at Church Av and Ocean Parkway. &lt;/P&gt;
+&lt;P&gt;Detour is as follows:&lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;Westbound:&lt;/STRONG&gt; Via Coney Island Av, left on Ocean Pkwy and regular route.&lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;Eastbound&lt;/STRONG&gt;: Via McDonald Av, left on Cato Av, right on Coney Island Av and regular route.&lt;/P&gt;
+&lt;P&gt;All corresponding stops will be made along the route.&lt;/P&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            </text>
+    <Date>02/09/2018</Date>
+    <Time> 9:25AM</Time>
   </line>
   <line>
     <name>BX1 - BX55</name>
@@ -166,8 +180,21 @@
   </line>
   <line>
     <name>M1 - M116</name>
-    <status>PLANNED WORK</status>
+    <status>SERVICE CHANGE</status>
     <text>
+                  &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                  &lt;span class="DateStyle"&gt;
+                  &amp;nbsp;Posted:&amp;nbsp;02/09/2018&amp;nbsp; 9:24AM
+                  &lt;/span&gt;
+                  &lt;br/&gt;
+                  &lt;br/&gt;
+                &lt;P&gt;&lt;STRONG&gt;M96&lt;/STRONG&gt; and &lt;STRONG&gt;M106&lt;/STRONG&gt; buses are detoured because of construction in the intersection of 97 St and Broadway. &lt;/P&gt;
+&lt;P&gt;Detour is as follows:&lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;Westbound: &lt;/STRONG&gt;Via Broadway to 97 St, continue on Broadway to 99 St,  left on 99 St to West End Av, left on West End Av to 97 St and regular route.&lt;/P&gt;
+&lt;P&gt;97 St and West End Av bus stop will be made on West End Av and 97 St.&lt;/P&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
                   &lt;span class="TitlePlannedWork" &gt;Planned Detour&lt;/span&gt;
                   &lt;br/&gt;
                 &lt;a class="plannedWorkDetailLink" onclick=ShowHide(180221);&gt;&lt;b&gt;M31 and M57 &lt;/b&gt;-&lt;b&gt; Westbound buses bypass stops on 57 St at Broadway and 10 Av &lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 180221 class="plannedWorkDetail" &gt;&lt;/b&gt;Until further notice&lt;br&gt;&lt;br&gt;Due to construction, please use nearby stops &lt;b&gt;on 57 St &lt;/b&gt;at 7 Av or 9 Av.&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
@@ -187,7 +214,7 @@
               &lt;br/&gt;
             </text>
     <Date>02/09/2018</Date>
-    <Time> 9:23AM</Time>
+    <Time> 9:24AM</Time>
   </line>
   <line>
     <name>Q1 - Q113</name>
@@ -355,17 +382,10 @@
   </line>
   <line>
     <name>Montauk</name>
-    <status>DELAYS</status>
-    <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;02/09/2018&amp;nbsp; 8:51AM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  &lt;div&gt;&lt;span style="font-size: 13.3333px;"&gt;The 7:12AM train from Speonk due Hunterspoint Ave. at 9:11AM is operating 13 minutes late due to a late train ahead.    &lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;font face="sans-serif" size="2"&gt;The 5:39AM train from Montauk due Long Island City at 8:44AM is operating 20 minutes late due to equipment trouble.&lt;/font&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>02/09/2018</Date>
-    <Time> 8:51AM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>Oyster Bay</name>
