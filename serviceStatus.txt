@@ -1,20 +1,20 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>DELAYS</status>
+    <status>SERVICE CHANGE</status>
     <text>
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;02/10/2018&amp;nbsp; 6:03AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  Southbound [1][2] trains are running express from &lt;STRONG&gt;96 St&lt;/STRONG&gt; to &lt;STRONG&gt;72 St&lt;/STRONG&gt; because of track maintenance at &lt;STRONG&gt;79 St.&lt;/STRONG&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              
                     &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
                     &amp;nbsp;Posted:&amp;nbsp;02/10/2018&amp;nbsp; 5:55AM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
                   [2] and [3] train service has resumed following earlier signal problems at &lt;STRONG&gt;135 St.&lt;/STRONG&gt;
-                &lt;br/&gt;&lt;br/&gt;
-              
-                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;02/10/2018&amp;nbsp; 5:09AM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  Southbound [1][2] trains are running express from &lt;STRONG&gt;96 St&lt;/STRONG&gt; to &lt;STRONG&gt;72 St&lt;/STRONG&gt; because of track maintenance at &lt;STRONG&gt;79 St.&lt;/STRONG&gt;
                 &lt;br/&gt;&lt;br/&gt;
               
                     &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
@@ -28,7 +28,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>02/10/2018</Date>
-    <Time> 5:55AM</Time>
+    <Time> 6:03AM</Time>
   </line>
   <line>
     <name>456</name>
@@ -42,6 +42,11 @@
                     &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
                     &lt;br/&gt;
                   &lt;a class="plannedWorkDetailLink" onclick=ShowHide(177562);&gt;&lt;b&gt;&lt;i&gt;TRACK REPLACEMENT&lt;/i&gt;&lt;br clear=left&gt;[5] Trains run local in both directions between 125 St and Grand Central-42 St&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 177562 class="plannedWorkDetail" &gt;&lt;/b&gt;Weekend, 10 PM Fri to 5 AM Mon, Feb 9 - 12&lt;br&gt;&lt;br&gt;&amp;bull; Please allow additional travel time.&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              
+                    &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
+                    &lt;br/&gt;
+                  &lt;a class="plannedWorkDetailLink" onclick=ShowHide(179290);&gt;&lt;b&gt;&lt;i&gt;TRACK REPLACEMENT&lt;/i&gt;&lt;br clear=left&gt;[4] Downtown trains run local from 125 St to Brooklyn Bridge&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 179290 class="plannedWorkDetail" &gt;&lt;/b&gt;Weekend, 10 PM Fri to 5 AM Mon, &lt;/font&gt;Feb 9 - 12&lt;br&gt;&lt;br&gt;&amp;bull; Please allow additional travel time.&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
                 &lt;br/&gt;&lt;br/&gt;
               
                     &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
@@ -60,7 +65,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>02/10/2018</Date>
-    <Time> 5:52AM</Time>
+    <Time> 6:03AM</Time>
   </line>
   <line>
     <name>7</name>
@@ -90,6 +95,11 @@
               
                     &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
                     &lt;br/&gt;
+                  &lt;a class="plannedWorkDetailLink" onclick=ShowHide(178304);&gt;&lt;b&gt;&lt;i&gt;TRACK MAINTENANCE&lt;/i&gt;&lt;br clear=left&gt;&lt;/font&gt;[C] Euclid Av-bound trains skip 50 St, 23 St and Spring St&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 178304 class="plannedWorkDetail" &gt;&lt;/b&gt;&lt;a href=http://advisory.mtanyct.info/pdf_files/ServiceGuide.pdf target=_blank&gt;&lt;font color=#0000FF&gt;Weekend&lt;/font&gt;&lt;/a&gt;, Saturday &lt;i&gt;and&lt;/i&gt; Sunday, Feb 10 - 11&lt;br&gt;&lt;br&gt;For service &lt;i&gt;to&lt;/i&gt; these stations&lt;/font&gt;, take the [C] to 42 St/Port Authority, 14 St or Canal St and transfer to an&lt;br&gt;uptown [C] or [D]*.&lt;br&gt;&lt;br&gt;For service &lt;i&gt;from&lt;/i&gt; these stations, take the [C] or [D] to W 4 St, 34 St-Penn Station or &lt;br&gt;59 St-Columbus Circle and transfer to a Euclid Av-bound [C].&lt;br&gt;&lt;br&gt;&lt;i&gt;*This detour has taken into account additional planned service changes.&lt;br&gt;&lt;br&gt;&lt;/i&gt;&lt;table class=plannedworkTableStyle  border=1 cellspacing=1 cellpadding=5 rules=none frame=box&gt;&lt;td&gt;  [ad]  &lt;td&gt;&lt;font size=1&gt;This service change affects one or more ADA accessible stations. Please call 511 for help with planning&lt;br&gt;your trip. If you are deaf or hard of hearing, use your preferred relay service provider or the free 711 relay.  &lt;/font&gt;&lt;/table&gt;&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              
+                    &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
+                    &lt;br/&gt;
                   &lt;a class="plannedWorkDetailLink" onclick=ShowHide(180726);&gt;&lt;b&gt;&lt;i&gt;TRACK MAINTENANCE&lt;/i&gt;&lt;br clear=left&gt;[A] Ozone Park/Far Rockaway-bound trains run local from 145 St to 59 St-Columbus Circle&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 180726 class="plannedWorkDetail" &gt;&lt;/b&gt;Weekend, 10 PM Fri to 5 AM Mon, Feb 9 - 12 &lt;br&gt;&lt;br&gt;&amp;bull; Please allow additional travel time.&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
                 &lt;br/&gt;&lt;br/&gt;
               
@@ -102,14 +112,9 @@
                     &lt;br/&gt;
                   &lt;a class="plannedWorkDetailLink" onclick=ShowHide(178167);&gt;&lt;b&gt;&lt;i&gt;TRACK MAINTENANCE&lt;/i&gt;&lt;br clear=left&gt;[A] No trains between 168 St and 207 St&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 178167 class="plannedWorkDetail" &gt;[1] trains and [SB] free shuttle buses provide alternate service&lt;br&gt;&lt;/b&gt;Weekend, 9:45 PM Fri to 5 AM Mon, Feb 9 - 12&lt;br&gt;&lt;br&gt;&lt;b&gt;[A]&lt;/b&gt; Service operates between &lt;b&gt;Far Rockaway/LeffertsBlvd&lt;/b&gt; and &lt;b&gt;168 St&lt;/b&gt;.&lt;br&gt;&lt;br&gt;[1] trains make nearby stops between &lt;b&gt;168 St&lt;/b&gt; and &lt;b&gt;207 St&lt;/b&gt;.&lt;br&gt;&lt;br&gt;&lt;b&gt;Broadway [SB] &lt;/b&gt;buses make all stops between &lt;b&gt;168 St&lt;/b&gt; and &lt;b&gt;207 St&lt;/b&gt;.&lt;br&gt;&lt;b&gt;Fort Washington Av [SB] &lt;/b&gt;buses make all stops between &lt;b&gt;168 St&lt;/b&gt; and &lt;b&gt;190 St&lt;/b&gt;.&lt;br&gt;&lt;br&gt;&lt;/font&gt;&amp;bull; Transfer between trains and [SB] buses at 168 St.&lt;br&gt;&lt;br&gt;&lt;/font&gt;&lt;font size=3&gt;&lt;b&gt;&lt;a style="cursor:pointer; text-decoration:underline;" onclick=ShowHide(1781670);&gt;Show Shuttle Bus Stops&lt;/a&gt;&lt;/b&gt;&lt;/font&gt;                           [TP]&lt;div id="1781670"; style="display:none;"&gt;&lt;table class=plannedworkTableStyle  border=1 cellspacing=1 cellpadding=3 rules=rows frame=hsides&gt;&lt;tr bgcolor=FAF8CC&gt;&lt;td&gt;&lt;b&gt;Station&lt;/b&gt;&lt;td&gt;&lt;b&gt;Broadway Shuttle Bus Stop&lt;/b&gt;&lt;td&gt;&lt;b&gt;Fort Washington Av Shuttle Bus Stop&lt;/b&gt;&lt;tr&gt;&lt;td&gt;168 St [1] | [AS] [ad]&lt;td&gt;St Nicholas Av at W 168 St&lt;td&gt;St Nicholas Av at W 168 St&lt;tr&gt;&lt;td rowspan=3&gt;175 St&lt;td&gt;Broadway at W 175 St (to 207 St)&lt;td rowspan=3&gt;Fort Washington Av at W 177 St&lt;tr&gt;&lt;td&gt;Broadway at W 176 St (to 168 St)&lt;tr&gt;&lt;td&gt;Broadway at W 178 St&lt;tr&gt;&lt;td rowspan=3&gt;181 St&lt;td&gt;Broadway at W 181 St&lt;td&gt;Fort Washington Av at W 179 St&lt;tr&gt;&lt;td&gt;Broadway at W 184 St (to 207 St)&lt;td&gt;Fort Washington Av at W 181 St&lt;tr&gt;&lt;td&gt;Broadway at W 185 St (to 168 St)&lt;td&gt;Fort Washington Av at W 185 St&lt;tr&gt;&lt;td rowspan=2&gt;190 St&lt;td&gt;Broadway at W 193 St (to 207 St)&lt;td&gt;Fort Washington Av at W 190 St&lt;tr&gt;&lt;td&gt;Broadway at Bennett Av (to 168 St) &lt;td&gt;Fort Washington Av at Cabrini Blvd&lt;tr&gt;&lt;td&gt;Dyckman St&lt;td&gt;Broadway at Dyckman St&lt;td&gt; &amp;mdash;&lt;tr&gt;&lt;td&gt;207 St&lt;td&gt;Broadway at W 207 St&lt;td&gt; &amp;mdash;&lt;/table&gt; &lt;/div&gt;&lt;br&gt;&lt;br&gt;&lt;/font&gt;&lt;table class=plannedworkTableStyle  border=1 cellspacing=1 cellpadding=5 rules=none frame=box&gt;&lt;td&gt;  [ad]  &lt;td&gt;&lt;font size=1&gt;This service change affects one or more ADA accessible stations. Please call 511 for help with planning&lt;br&gt;your trip. If you are deaf or hard of hearing, use your preferred relay service provider or the free 711 relay.  &lt;/font&gt;&lt;/table&gt;&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
                 &lt;br/&gt;&lt;br/&gt;
-              
-                    &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
-                    &lt;br/&gt;
-                  &lt;a class="plannedWorkDetailLink" onclick=ShowHide(178301);&gt;&lt;b&gt;&lt;i&gt;TRACK MAINTENANCE&lt;/i&gt;&lt;br clear=left&gt;[A] Ozone Park/Far Rockaway-bound trains skip 50 St, 23 St and Spring St&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 178301 class="plannedWorkDetail" &gt;&lt;/b&gt;&lt;/font&gt;&lt;a href=http://advisory.mtanyct.info/pdf_files/NightMap.pdf target=_blank&gt;&lt;font color=#0000FF&gt;Late Nights&lt;/font&gt;&lt;/a&gt;, 10 PM Fri to 5 AM Mon, Feb 9 - 12&lt;br&gt;&lt;br&gt;For service to these stations&lt;/font&gt;, take the [A] to 42 St/Port Authority, 14 St or Canal St and transfer to an &lt;br&gt;uptown [A] &lt;i&gt;local&lt;/i&gt; or [D]*.&lt;br&gt;&lt;br&gt;For service &lt;i&gt;from&lt;/i&gt; these stations, take the [A] or [D] to W 4 St, 34 St-Penn Station or &lt;br&gt;59 St-Columbus Circle and transfer to an Ozone Park/Far Rockaway-bound [A].&lt;br&gt;&lt;br&gt;&lt;i&gt;*This detour has taken into account additional planned service changes.&lt;br&gt;&lt;br&gt;&lt;/i&gt;&lt;table class=plannedworkTableStyle  border=1 cellspacing=1 cellpadding=5 rules=none frame=box&gt;&lt;td&gt;  [ad]  &lt;td&gt;&lt;font size=1&gt;This service change affects one or more ADA accessible stations. Please call 511 for help with planning&lt;br&gt;your trip. If you are deaf or hard of hearing, use your preferred relay service provider or the free 711 relay.  &lt;/font&gt;&lt;/table&gt;&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
-                &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>02/10/2018</Date>
-    <Time> 5:52AM</Time>
+    <Time> 6:03AM</Time>
   </line>
   <line>
     <name>BDFM</name>
@@ -141,7 +146,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>02/10/2018</Date>
-    <Time> 5:52AM</Time>
+    <Time> 6:03AM</Time>
   </line>
   <line>
     <name>G</name>
@@ -153,7 +158,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>02/10/2018</Date>
-    <Time> 5:52AM</Time>
+    <Time> 6:03AM</Time>
   </line>
   <line>
     <name>JZ</name>
@@ -165,7 +170,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>02/10/2018</Date>
-    <Time> 5:52AM</Time>
+    <Time> 6:03AM</Time>
   </line>
   <line>
     <name>L</name>
@@ -194,7 +199,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>02/10/2018</Date>
-    <Time> 5:52AM</Time>
+    <Time> 6:03AM</Time>
   </line>
   <line>
     <name>S</name>
@@ -228,7 +233,7 @@
               &lt;br/&gt;
             </text>
     <Date>02/10/2018</Date>
-    <Time> 5:52AM</Time>
+    <Time> 6:03AM</Time>
   </line>
   <line>
     <name>B100 - B103</name>
@@ -241,14 +246,20 @@
               &lt;br/&gt;
             </text>
     <Date>02/10/2018</Date>
-    <Time> 5:52AM</Time>
+    <Time> 6:03AM</Time>
   </line>
   <line>
     <name>BM1 - BM5</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>PLANNED WORK</status>
+    <text>
+                  &lt;span class="TitlePlannedWork" &gt;Planned Detour&lt;/span&gt;
+                  &lt;br/&gt;
+                &lt;a class="plannedWorkDetailLink" onclick=ShowHide(180219);&gt;&lt;b&gt;BM2 buses rerouted between Flatlands Av at E 108 St and E 105 St at Avenue J&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 180219 class="plannedWorkDetail" &gt;&lt;/b&gt;Until further notice&lt;br&gt;&lt;br&gt;Due to construction, buses run via &lt;b&gt;Avenue J &lt;/b&gt;and&lt;b&gt; E 108 St &lt;/b&gt;making corresponding stops in both directions.&lt;br&gt;&lt;br&gt;&lt;b&gt;&lt;i&gt;&lt;a style="cursor:pointer; text-decoration:underline;" onclick=ShowHide(1802190);&gt;Show Reroute Details&lt;/a&gt;&lt;/i&gt;&lt;/b&gt;&lt;br&gt;&lt;div id="1802190"; style="display:none;"&gt;&lt;b&gt;Eastbound&lt;br&gt;&lt;/b&gt;Via E 105 St&lt;br&gt;Right on Avenue J&lt;br&gt;Left on E 108 St&lt;br&gt;Right on Flatlands Av then regular route&lt;br&gt;&lt;br&gt;&lt;b&gt;Westbound&lt;br&gt;&lt;/b&gt;Via Flatlands Av&lt;br&gt;Left on E 108 St&lt;br&gt;Right on Avenue J&lt;br&gt;Left on E 105 St then regular route&lt;/div&gt;&lt;br&gt;&lt;b&gt;                              [TP]&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            </text>
+    <Date>02/10/2018</Date>
+    <Time> 6:03AM</Time>
   </line>
   <line>
     <name>BX1 - BX55</name>
@@ -267,7 +278,7 @@
               &lt;br/&gt;
             </text>
     <Date>02/10/2018</Date>
-    <Time> 5:52AM</Time>
+    <Time> 6:03AM</Time>
   </line>
   <line>
     <name>BXM1 - BXM18</name>
@@ -305,7 +316,7 @@
               &lt;br/&gt;
             </text>
     <Date>02/10/2018</Date>
-    <Time> 5:52AM</Time>
+    <Time> 6:03AM</Time>
   </line>
   <line>
     <name>Q1 - Q113</name>
@@ -330,7 +341,7 @@
               &lt;br/&gt;
             </text>
     <Date>02/10/2018</Date>
-    <Time> 5:52AM</Time>
+    <Time> 6:03AM</Time>
   </line>
   <line>
     <name>QM1 - QM44</name>
@@ -349,7 +360,7 @@
               &lt;br/&gt;
             </text>
     <Date>02/10/2018</Date>
-    <Time> 5:52AM</Time>
+    <Time> 6:03AM</Time>
   </line>
   <line>
     <name>S40 - S98</name>
