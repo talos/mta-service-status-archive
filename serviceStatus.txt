@@ -1,13 +1,14 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>DELAYS</status>
+    <status>SERVICE CHANGE</status>
     <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;02/10/2018&amp;nbsp; 9:16AM
+                    &amp;nbsp;Posted:&amp;nbsp;02/10/2018&amp;nbsp; 9:39AM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  Northbound [2] trains are running with delays because of an unauthorized person on the tracks at &lt;STRONG&gt;Morris Park.&lt;/STRONG&gt;
+                  &lt;P&gt;Some northbound [2] trains will end at &lt;STRONG&gt;E 180 St&lt;/STRONG&gt; or &lt;STRONG&gt;Wakefield-241 St&lt;/STRONG&gt; because of an unauthorized person on the tracks at &lt;STRONG&gt;Morris Park&lt;/STRONG&gt;.&lt;/P&gt;
+&lt;P&gt;Expect delays on [2] and [5] trains.&lt;/P&gt;
                 &lt;br/&gt;&lt;br/&gt;
               
                     &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
@@ -21,7 +22,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>02/10/2018</Date>
-    <Time> 9:16AM</Time>
+    <Time> 9:39AM</Time>
   </line>
   <line>
     <name>456</name>
