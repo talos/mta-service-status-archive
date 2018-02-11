@@ -1,13 +1,18 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>DELAYS</status>
+    <status>SERVICE CHANGE</status>
     <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;02/11/2018&amp;nbsp; 8:05AM
+                    &amp;nbsp;Posted:&amp;nbsp;02/11/2018&amp;nbsp; 8:32AM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  [1] [2] and [3] trains are running with delays in both directions because of an unauthorized person on the tracks at &lt;STRONG&gt;96 St.&lt;/STRONG&gt;
+                  &lt;P&gt;There is no [1] train service between&lt;STRONG&gt; 137 St-City College&lt;/STRONG&gt; and &lt;STRONG&gt;Times Sq-42 St&lt;/STRONG&gt; in both directions.&lt;/P&gt;
+&lt;P&gt;There is no [2] train service between&lt;STRONG&gt; 149 St-Grand Concourse&lt;/STRONG&gt; and&lt;STRONG&gt; Times Sq-42 St&lt;/STRONG&gt; in both directions.&lt;/P&gt;
+&lt;P&gt;Some southbound [2] trains end at &lt;STRONG&gt;E 180 St.&lt;/STRONG&gt;&lt;/P&gt;
+&lt;P&gt;There is no [3] train service between &lt;STRONG&gt;Harlem-148 St&lt;/STRONG&gt; and &lt;STRONG&gt;Times Sq-42 St&lt;/STRONG&gt; in both directions.&lt;/P&gt;
+&lt;P&gt;These service changes are because of an of an unauthorized person on the tracks at &lt;STRONG&gt;96 St&lt;/STRONG&gt;.&lt;/P&gt;
+&lt;P&gt;As an alternative, customer can use the [A] or [D] train at &lt;STRONG&gt;59 St-Columbus Circle&lt;/STRONG&gt; for service uptown or the&lt;STRONG&gt; M4, M5, M7, M11, M102 &lt;/STRONG&gt;or &lt;STRONG&gt;M104.&lt;/STRONG&gt; &lt;/P&gt;
                 &lt;br/&gt;&lt;br/&gt;
               
                     &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
@@ -21,7 +26,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>02/11/2018</Date>
-    <Time> 8:05AM</Time>
+    <Time> 8:32AM</Time>
   </line>
   <line>
     <name>456</name>
