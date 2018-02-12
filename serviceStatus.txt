@@ -1,29 +1,20 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>SERVICE CHANGE</status>
-    <text>
-                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;02/12/2018&amp;nbsp;10:14AM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  &lt;P&gt;Southbound [4] and [5] trains are running local from &lt;STRONG&gt;Atlantic Av-Barclays Ctr&lt;/STRONG&gt; to &lt;STRONG&gt;Franklin Av&lt;/STRONG&gt; because of FDNY activity at&lt;STRONG&gt; Atlantic Av-Barclays Ctr&lt;/STRONG&gt;.&lt;/P&gt;
-&lt;P&gt;Expect delays on [2] [3] [4] and [5] train service.&lt;/P&gt;
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>02/12/2018</Date>
-    <Time>10:14AM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>456</name>
-    <status>SERVICE CHANGE</status>
+    <status>DELAYS</status>
     <text>
-                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;02/12/2018&amp;nbsp;10:14AM
+                    &amp;nbsp;Posted:&amp;nbsp;02/12/2018&amp;nbsp;10:29AM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  &lt;P&gt;Southbound [4] and [5] trains are running local from &lt;STRONG&gt;Atlantic Av-Barclays Ctr&lt;/STRONG&gt; to &lt;STRONG&gt;Franklin Av&lt;/STRONG&gt; because of FDNY activity at&lt;STRONG&gt; Atlantic Av-Barclays Ctr&lt;/STRONG&gt;.&lt;/P&gt;
-&lt;P&gt;Expect delays on [2] [3] [4] and [5] train service.&lt;/P&gt;
+                  [4] and [5] train service has resumed following earlier FDNY activity at &lt;STRONG&gt;Atlantic Av-Barclays Ctr.&lt;/STRONG&gt;
                 &lt;br/&gt;&lt;br/&gt;
               
                     &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
@@ -32,7 +23,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>02/12/2018</Date>
-    <Time>10:14AM</Time>
+    <Time>10:29AM</Time>
   </line>
   <line>
     <name>7</name>
@@ -54,13 +45,6 @@
     <text>
                     &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;02/12/2018&amp;nbsp;10:16AM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  [F] train service has resumed following an earlier incident involving a sick passenger at &lt;STRONG&gt;Delancey St-Essex St.&lt;/STRONG&gt;
-                &lt;br/&gt;&lt;br/&gt;
-              
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
                     &amp;nbsp;Posted:&amp;nbsp;02/12/2018&amp;nbsp;10:06AM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
                   Jamaica Center bound [J] and Broadway Junction bound [M] trains are running with delays because of signal problems on the &lt;STRONG&gt;Williamsburg Bridge.&lt;/STRONG&gt;
@@ -77,7 +61,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>02/12/2018</Date>
-    <Time>10:16AM</Time>
+    <Time>10:06AM</Time>
   </line>
   <line>
     <name>G</name>
