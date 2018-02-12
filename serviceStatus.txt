@@ -8,18 +8,17 @@
   </line>
   <line>
     <name>456</name>
-    <status>SERVICE CHANGE</status>
+    <status>DELAYS</status>
     <text>
-                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;02/12/2018&amp;nbsp; 6:57AM
+                    &amp;nbsp;Posted:&amp;nbsp;02/12/2018&amp;nbsp; 7:02AM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  &lt;P&gt;There is no [5] train service between &lt;STRONG&gt;Eastchester-Dyre Av&lt;/STRONG&gt; and&lt;STRONG&gt; E 180 St&lt;/STRONG&gt; in both directions because of an animal on track &lt;STRONG&gt;Baychester Av&lt;/STRONG&gt;.&lt;/P&gt;
-&lt;P&gt;As an alternate customer are advised to use the &lt;STRONG&gt;Bx12, Bx16, Bx28, Bx30&lt;/STRONG&gt; or &lt;STRONG&gt;Bx38&lt;/STRONG&gt; bus service making nearby station stops.&lt;/P&gt;
+                  [5] train service has resumed following an earlier incident involving an animal on the track at &lt;STRONG&gt;Baychester Av&lt;/STRONG&gt;.
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>02/12/2018</Date>
-    <Time> 6:57AM</Time>
+    <Time> 7:02AM</Time>
   </line>
   <line>
     <name>7</name>
@@ -98,6 +97,12 @@
     <text>
                   &lt;span class="TitlePlannedWork" &gt;Planned Detour&lt;/span&gt;
                   &lt;br/&gt;
+                &lt;a class="plannedWorkDetailLink" onclick=ShowHide(180755);&gt;&lt;b&gt;B63 &lt;/b&gt;- &lt;b&gt;Southbound buses bypass the stop on 5 Av at Garfield Pl&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 180755 class="plannedWorkDetail" &gt;&lt;/b&gt;7 AM to 9 PM, Monday, Feb 12&lt;br&gt;&lt;br&gt;Due to a local event, please use nearby stops &lt;b&gt;on 5 Av &lt;/b&gt;at Union St or 3 St.&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
+                  &lt;span class="TitlePlannedWork" &gt;Planned Detour&lt;/span&gt;
+                  &lt;br/&gt;
                 &lt;a class="plannedWorkDetailLink" onclick=ShowHide(180758);&gt;&lt;b&gt;B44/B44 &lt;/b&gt;SBS -&lt;b&gt; Northbound buses bypass the stop on Bedford Av at Park Av&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 180758 class="plannedWorkDetail" &gt;&lt;/b&gt;5 AM to 5 PM, daily, Feb 9 - Mar 8&lt;br&gt;&lt;br&gt;Due to a crane operation, please use the nearby stop &lt;b&gt;on Bedford Av &lt;/b&gt;at Flushing Av.&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
               &lt;br/&gt;
               &lt;br/&gt;
@@ -109,7 +114,7 @@
               &lt;br/&gt;
             </text>
     <Date>02/12/2018</Date>
-    <Time> 6:52AM</Time>
+    <Time> 7:03AM</Time>
   </line>
   <line>
     <name>B100 - B103</name>
@@ -122,7 +127,7 @@
               &lt;br/&gt;
             </text>
     <Date>02/12/2018</Date>
-    <Time> 6:52AM</Time>
+    <Time> 7:03AM</Time>
   </line>
   <line>
     <name>BM1 - BM5</name>
@@ -135,7 +140,7 @@
               &lt;br/&gt;
             </text>
     <Date>02/12/2018</Date>
-    <Time> 6:52AM</Time>
+    <Time> 7:03AM</Time>
   </line>
   <line>
     <name>BX1 - BX55</name>
@@ -154,7 +159,7 @@
               &lt;br/&gt;
             </text>
     <Date>02/12/2018</Date>
-    <Time> 6:52AM</Time>
+    <Time> 7:03AM</Time>
   </line>
   <line>
     <name>BXM1 - BXM18</name>
@@ -186,7 +191,7 @@
               &lt;br/&gt;
             </text>
     <Date>02/12/2018</Date>
-    <Time> 6:52AM</Time>
+    <Time> 7:03AM</Time>
   </line>
   <line>
     <name>Q1 - Q113</name>
@@ -211,7 +216,7 @@
               &lt;br/&gt;
             </text>
     <Date>02/12/2018</Date>
-    <Time> 6:52AM</Time>
+    <Time> 7:03AM</Time>
   </line>
   <line>
     <name>QM1 - QM44</name>
@@ -236,7 +241,7 @@
               &lt;br/&gt;
             </text>
     <Date>02/12/2018</Date>
-    <Time> 6:52AM</Time>
+    <Time> 7:03AM</Time>
   </line>
   <line>
     <name>S40 - S98</name>
