@@ -1,26 +1,26 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>DELAYS</status>
+    <status>SERVICE CHANGE</status>
     <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;02/12/2018&amp;nbsp;10:12AM
+                    &amp;nbsp;Posted:&amp;nbsp;02/12/2018&amp;nbsp;10:14AM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
                   &lt;P&gt;Southbound [4] and [5] trains are running local from &lt;STRONG&gt;Atlantic Av-Barclays Ctr&lt;/STRONG&gt; to &lt;STRONG&gt;Franklin Av&lt;/STRONG&gt; because of FDNY activity at&lt;STRONG&gt; Atlantic Av-Barclays Ctr&lt;/STRONG&gt;.&lt;/P&gt;
 &lt;P&gt;Expect delays on [2] [3] [4] and [5] train service.&lt;/P&gt;
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>02/12/2018</Date>
-    <Time>10:12AM</Time>
+    <Time>10:14AM</Time>
   </line>
   <line>
     <name>456</name>
-    <status>DELAYS</status>
+    <status>SERVICE CHANGE</status>
     <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;02/12/2018&amp;nbsp;10:12AM
+                    &amp;nbsp;Posted:&amp;nbsp;02/12/2018&amp;nbsp;10:14AM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
                   &lt;P&gt;Southbound [4] and [5] trains are running local from &lt;STRONG&gt;Atlantic Av-Barclays Ctr&lt;/STRONG&gt; to &lt;STRONG&gt;Franklin Av&lt;/STRONG&gt; because of FDNY activity at&lt;STRONG&gt; Atlantic Av-Barclays Ctr&lt;/STRONG&gt;.&lt;/P&gt;
 &lt;P&gt;Expect delays on [2] [3] [4] and [5] train service.&lt;/P&gt;
@@ -32,7 +32,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>02/12/2018</Date>
-    <Time>10:12AM</Time>
+    <Time>10:14AM</Time>
   </line>
   <line>
     <name>7</name>
@@ -43,15 +43,31 @@
   </line>
   <line>
     <name>ACE</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>SERVICE CHANGE</status>
+    <text>
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;02/12/2018&amp;nbsp;10:14AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;P&gt;Southbound [F] trains are stopping along the [A] line from &lt;STRONG&gt;W 4 St-Washington Sq&lt;/STRONG&gt; to &lt;STRONG&gt;Jay St-Metro Tech&lt;/STRONG&gt; because of sick passenger at &lt;STRONG&gt;Delancey St-Essex St.&lt;/STRONG&gt;&lt;/P&gt;
+&lt;P&gt;Expect delays on [A] [C] and [F] train service.&lt;/P&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>02/12/2018</Date>
+    <Time>10:14AM</Time>
   </line>
   <line>
     <name>BDFM</name>
-    <status>DELAYS</status>
+    <status>SERVICE CHANGE</status>
     <text>
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;02/12/2018&amp;nbsp;10:14AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;P&gt;Southbound [F] trains are stopping along the [A] line from &lt;STRONG&gt;W 4 St-Washington Sq&lt;/STRONG&gt; to &lt;STRONG&gt;Jay St-Metro Tech&lt;/STRONG&gt; because of sick passenger at &lt;STRONG&gt;Delancey St-Essex St.&lt;/STRONG&gt;&lt;/P&gt;
+&lt;P&gt;Expect delays on [A] [C] and [F] train service.&lt;/P&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              
                     &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
                     &amp;nbsp;Posted:&amp;nbsp;02/12/2018&amp;nbsp;10:06AM
@@ -70,7 +86,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>02/12/2018</Date>
-    <Time>10:06AM</Time>
+    <Time>10:14AM</Time>
   </line>
   <line>
     <name>G</name>
