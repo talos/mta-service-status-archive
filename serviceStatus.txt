@@ -1,17 +1,10 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>DELAYS</status>
-    <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;02/12/2018&amp;nbsp; 6:22AM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  [2] train service has resumed following an earlier incident involving a train with mechanical problems at 135 St.
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>02/12/2018</Date>
-    <Time> 6:22AM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>456</name>
@@ -22,13 +15,6 @@
                     &amp;nbsp;Posted:&amp;nbsp;02/12/2018&amp;nbsp; 6:33AM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
                   Southbound [4] and [5] trains are running with delays because of a sick passenger at &lt;STRONG&gt;Brooklyn Bridge City Hall&lt;/STRONG&gt;.
-                &lt;br/&gt;&lt;br/&gt;
-              
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;02/12/2018&amp;nbsp; 6:22AM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  [2] train service has resumed following an earlier incident involving a train with mechanical problems at 135 St.
                 &lt;br/&gt;&lt;br/&gt;
               
                     &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
@@ -66,15 +52,8 @@
   </line>
   <line>
     <name>BDFM</name>
-    <status>DELAYS</status>
+    <status>SERVICE CHANGE</status>
     <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;02/12/2018&amp;nbsp; 6:25AM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  [F] train service has resumed following an earlier FDNY activity at &lt;STRONG&gt;Jay St-MetroTech&lt;/STRONG&gt;.
-                &lt;br/&gt;&lt;br/&gt;
-              
                     &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
                     &amp;nbsp;Posted:&amp;nbsp;02/12/2018&amp;nbsp; 6:02AM
@@ -85,7 +64,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>02/12/2018</Date>
-    <Time> 6:25AM</Time>
+    <Time> 6:02AM</Time>
   </line>
   <line>
     <name>G</name>
@@ -463,10 +442,17 @@
   </line>
   <line>
     <name>Montauk</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>DELAYS</status>
+    <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;02/12/2018&amp;nbsp; 6:35AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  The 6:21AM train from Speonk due Penn at 8:23AM is operating 12 minutes late due to earlier equipment trouble.          
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>02/12/2018</Date>
+    <Time> 6:35AM</Time>
   </line>
   <line>
     <name>Oyster Bay</name>
