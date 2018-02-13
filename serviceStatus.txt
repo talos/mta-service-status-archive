@@ -1,10 +1,18 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>SERVICE CHANGE</status>
+    <text>
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;02/13/2018&amp;nbsp; 7:59AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;P&gt;Some southbound [2] and [3] trains are running local from &lt;STRONG&gt;72 St&lt;/STRONG&gt; to 1&lt;STRONG&gt;4 St&lt;/STRONG&gt; because of signal problems at &lt;STRONG&gt;34 St-Penn Station&lt;/STRONG&gt;.&lt;/P&gt;
+&lt;P&gt;Expect delays in [1], [2] and [3] train service.&lt;/P&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>02/13/2018</Date>
+    <Time> 7:59AM</Time>
   </line>
   <line>
     <name>456</name>
