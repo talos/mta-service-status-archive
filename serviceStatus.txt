@@ -431,17 +431,10 @@
   </line>
   <line>
     <name>City Terminal Zone</name>
-    <status>DELAYS</status>
-    <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;02/12/2018&amp;nbsp; 9:29PM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  The 9:13PM train from Atlantic Terminal due Far Rockaway at 10:10PM is operating 13 minutes later after being held at Atlantic Terminal due to earlier equipment trouble.
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>02/12/2018</Date>
-    <Time> 9:29PM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>Far Rockaway</name>
@@ -501,10 +494,19 @@
   </line>
   <line>
     <name>Ronkonkoma</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>DELAYS</status>
+    <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;02/12/2018&amp;nbsp; 9:50PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  The 9:15PM train from Penn due Ronkonkoma at 10:37PM is operating 11 
+minutes late after being delayed at Jamaica Station to accommodate 
+customers from a late-arriving connection.
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>02/12/2018</Date>
+    <Time> 9:50PM</Time>
   </line>
   <line>
     <name>West Hempstead</name>
