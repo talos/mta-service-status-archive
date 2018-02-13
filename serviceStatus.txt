@@ -5,6 +5,13 @@
     <text>
                     &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;02/13/2018&amp;nbsp; 9:06AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  Southbound [1] trains are running express from &lt;STRONG&gt;14 St&lt;/STRONG&gt; to &lt;STRONG&gt;Chambers St&lt;/STRONG&gt; because of a sick passenger at &lt;STRONG&gt;14 St&lt;/STRONG&gt;.
+                &lt;br/&gt;&lt;br/&gt;
+              
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
                     &amp;nbsp;Posted:&amp;nbsp;02/13/2018&amp;nbsp; 8:47AM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
                   &lt;P&gt;Some southbound [2] and [3] trains are running local from &lt;STRONG&gt;72 St&lt;/STRONG&gt; to 1&lt;STRONG&gt;4 St&lt;/STRONG&gt; .&lt;/P&gt;
@@ -15,7 +22,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>02/13/2018</Date>
-    <Time> 8:47AM</Time>
+    <Time> 9:06AM</Time>
   </line>
   <line>
     <name>456</name>
@@ -107,10 +114,15 @@
   </line>
   <line>
     <name>SIR</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>PLANNED WORK</status>
+    <text>
+                    &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
+                    &lt;br/&gt;
+                  &lt;a class="plannedWorkDetailLink" onclick=ShowHide(181013);&gt;&lt;b&gt;&lt;i&gt;SCHEDULED MAINTENANCE&lt;/i&gt;&lt;br clear=left&gt;[SIR] Service runs on an adjusted schedule in both directions&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 181013 class="plannedWorkDetail" &gt;&lt;/b&gt;Days, 9 AM to 3 PM, Mon to Fri, Feb 12 - 16&lt;br&gt;&lt;br&gt;&amp;bull; Tottenville-bound trains depart 2 minutes &lt;i&gt;later&lt;/i&gt; than regularly scheduled.&lt;br&gt;&lt;br&gt;&amp;bull; St George-bound trains depart 5 minutes &lt;i&gt;earlier&lt;/i&gt; than regularly scheduled.&lt;br&gt;&lt;b&gt;&lt;/b&gt;          &lt;/font&gt;&lt;a href=http://apps.mta.info/traintime/ target=_blank&gt;&lt;img height=32px src=http://apps.mta.info/traintime/desktop2Images/logoSm.png&gt;&lt;/a&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>02/13/2018</Date>
+    <Time> 9:03AM</Time>
   </line>
 </subway><bus>
   <line>
@@ -153,7 +165,7 @@
               &lt;br/&gt;
             </text>
     <Date>02/13/2018</Date>
-    <Time> 8:52AM</Time>
+    <Time> 9:03AM</Time>
   </line>
   <line>
     <name>BM1 - BM5</name>
@@ -166,7 +178,7 @@
               &lt;br/&gt;
             </text>
     <Date>02/13/2018</Date>
-    <Time> 8:52AM</Time>
+    <Time> 9:03AM</Time>
   </line>
   <line>
     <name>BX1 - BX55</name>
@@ -185,7 +197,7 @@
               &lt;br/&gt;
             </text>
     <Date>02/13/2018</Date>
-    <Time> 8:52AM</Time>
+    <Time> 9:03AM</Time>
   </line>
   <line>
     <name>BXM1 - BXM18</name>
@@ -291,7 +303,7 @@
               &lt;br/&gt;
             </text>
     <Date>02/13/2018</Date>
-    <Time> 8:52AM</Time>
+    <Time> 9:03AM</Time>
   </line>
   <line>
     <name>S40 - S98</name>
