@@ -1,17 +1,10 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>DELAYS</status>
-    <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;02/14/2018&amp;nbsp; 4:34PM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  [1] train service has resumed following earlier signal problems at &lt;STRONG&gt;125 St&lt;/STRONG&gt;.
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>02/14/2018</Date>
-    <Time> 4:34PM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>456</name>
@@ -184,7 +177,7 @@
               &lt;br/&gt;
             </text>
     <Date>02/14/2018</Date>
-    <Time> 4:33PM</Time>
+    <Time> 4:49PM</Time>
   </line>
   <line>
     <name>BX1 - BX55</name>
@@ -203,7 +196,7 @@
               &lt;br/&gt;
             </text>
     <Date>02/14/2018</Date>
-    <Time> 4:33PM</Time>
+    <Time> 4:49PM</Time>
   </line>
   <line>
     <name>BXM1 - BXM18</name>
@@ -388,7 +381,7 @@
               &lt;br/&gt;
             </text>
     <Date>02/14/2018</Date>
-    <Time> 4:33PM</Time>
+    <Time> 4:49PM</Time>
   </line>
   <line>
     <name>S40 - S98</name>
