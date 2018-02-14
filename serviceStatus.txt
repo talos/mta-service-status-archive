@@ -1,17 +1,10 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>DELAYS</status>
-    <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;02/14/2018&amp;nbsp;12:56PM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  [1] train service has resumed following earlier signal maintenance at &lt;STRONG&gt;238 St&lt;/STRONG&gt;.
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>02/14/2018</Date>
-    <Time>12:56PM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>456</name>
@@ -23,7 +16,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>02/14/2018</Date>
-    <Time>12:53PM</Time>
+    <Time> 1:04PM</Time>
   </line>
   <line>
     <name>7</name>
@@ -54,7 +47,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>02/14/2018</Date>
-    <Time>12:53PM</Time>
+    <Time> 1:04PM</Time>
   </line>
   <line>
     <name>G</name>
@@ -73,7 +66,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>02/14/2018</Date>
-    <Time>12:53PM</Time>
+    <Time> 1:04PM</Time>
   </line>
   <line>
     <name>L</name>
@@ -92,7 +85,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>02/14/2018</Date>
-    <Time>12:53PM</Time>
+    <Time> 1:04PM</Time>
   </line>
   <line>
     <name>S</name>
@@ -116,7 +109,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>02/14/2018</Date>
-    <Time>12:53PM</Time>
+    <Time> 1:04PM</Time>
   </line>
 </subway><bus>
   <line>
@@ -208,7 +201,7 @@
               &lt;br/&gt;
             </text>
     <Date>02/14/2018</Date>
-    <Time>12:53PM</Time>
+    <Time> 1:04PM</Time>
   </line>
   <line>
     <name>BX1 - BX55</name>
@@ -227,7 +220,7 @@
               &lt;br/&gt;
             </text>
     <Date>02/14/2018</Date>
-    <Time>12:53PM</Time>
+    <Time> 1:04PM</Time>
   </line>
   <line>
     <name>BXM1 - BXM18</name>
@@ -381,7 +374,7 @@
               &lt;br/&gt;
             </text>
     <Date>02/14/2018</Date>
-    <Time>12:53PM</Time>
+    <Time> 1:04PM</Time>
   </line>
   <line>
     <name>S40 - S98</name>
@@ -598,10 +591,17 @@
   </line>
   <line>
     <name>Danbury</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>DELAYS</status>
+    <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;02/14/2018&amp;nbsp; 1:05PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  Danbury Branch Line Service is currently experiencing delays of 10 to 15 minutes due to a late connecting train at South Norwalk Station as a result of the Cos Cob bridge opening in the vicinity of Cos Cob.  Please listen for announcements at your station.&lt;br&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>02/14/2018</Date>
+    <Time> 1:05PM</Time>
   </line>
   <line>
     <name>Waterbury</name>
