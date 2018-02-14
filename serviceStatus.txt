@@ -137,10 +137,15 @@
   </line>
   <line>
     <name>SIR</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>PLANNED WORK</status>
+    <text>
+                    &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
+                    &lt;br/&gt;
+                  &lt;a class="plannedWorkDetailLink" onclick=ShowHide(181013);&gt;&lt;b&gt;&lt;i&gt;SCHEDULED MAINTENANCE&lt;/i&gt;&lt;br clear=left&gt;[SIR] Service runs on an adjusted schedule in both directions&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 181013 class="plannedWorkDetail" &gt;&lt;/b&gt;Days, 9 AM to 3 PM, Mon to Fri, Feb 12 - 16&lt;br&gt;&lt;br&gt;&amp;bull; Tottenville-bound trains depart 2 minutes &lt;i&gt;later&lt;/i&gt; than regularly scheduled.&lt;br&gt;&lt;br&gt;&amp;bull; St George-bound trains depart 5 minutes &lt;i&gt;earlier&lt;/i&gt; than regularly scheduled.&lt;br&gt;&lt;b&gt;&lt;/b&gt;          &lt;/font&gt;&lt;a href=http://apps.mta.info/traintime/ target=_blank&gt;&lt;img height=32px src=http://apps.mta.info/traintime/desktop2Images/logoSm.png&gt;&lt;/a&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>02/14/2018</Date>
+    <Time> 9:05AM</Time>
   </line>
 </subway><bus>
   <line>
@@ -206,7 +211,7 @@
               &lt;br/&gt;
             </text>
     <Date>02/14/2018</Date>
-    <Time> 8:53AM</Time>
+    <Time> 9:05AM</Time>
   </line>
   <line>
     <name>BX1 - BX55</name>
@@ -225,7 +230,7 @@
               &lt;br/&gt;
             </text>
     <Date>02/14/2018</Date>
-    <Time> 8:53AM</Time>
+    <Time> 9:05AM</Time>
   </line>
   <line>
     <name>BXM1 - BXM18</name>
@@ -236,8 +241,21 @@
   </line>
   <line>
     <name>M1 - M116</name>
-    <status>PLANNED WORK</status>
+    <status>SERVICE CHANGE</status>
     <text>
+                  &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                  &lt;span class="DateStyle"&gt;
+                  &amp;nbsp;Posted:&amp;nbsp;02/14/2018&amp;nbsp; 9:05AM
+                  &lt;/span&gt;
+                  &lt;br/&gt;
+                  &lt;br/&gt;
+                &lt;P&gt;&lt;STRONG&gt;M42&lt;/STRONG&gt; buses are detoured in both directions because of construction at the Circle Line Terminal. &lt;/P&gt;
+&lt;P&gt;Detour is as follows:&lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;Westbound&lt;/STRONG&gt;: Via 42 St to 11 Av, left on 11 Av to 41 St, right on 41 St to 12 Av, right on 12 Av to 42 St, right on 42 St for temporary stand.&lt;/P&gt;
+&lt;P&gt;42 St and 12 Avenue bus stop, and Circle Line terminal bus stop will be made on 42 St and 12 Av at the eastbound bus stop.&lt;/P&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
                   &lt;span class="TitlePlannedWork" &gt;Planned Detour&lt;/span&gt;
                   &lt;br/&gt;
                 &lt;a class="plannedWorkDetailLink" onclick=ShowHide(180221);&gt;&lt;b&gt;M31 and M57 &lt;/b&gt;-&lt;b&gt; Westbound buses bypass stops on 57 St at Broadway and 10 Av &lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 180221 class="plannedWorkDetail" &gt;&lt;/b&gt;Until further notice&lt;br&gt;&lt;br&gt;Due to construction, please use nearby stops &lt;b&gt;on 57 St &lt;/b&gt;at 7 Av or 9 Av.&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
@@ -257,7 +275,7 @@
               &lt;br/&gt;
             </text>
     <Date>02/14/2018</Date>
-    <Time> 8:53AM</Time>
+    <Time> 9:05AM</Time>
   </line>
   <line>
     <name>Q1 - Q113</name>
@@ -320,7 +338,7 @@
               &lt;br/&gt;
             </text>
     <Date>02/14/2018</Date>
-    <Time> 8:53AM</Time>
+    <Time> 9:05AM</Time>
   </line>
   <line>
     <name>S40 - S98</name>
