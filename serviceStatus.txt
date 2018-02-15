@@ -8,10 +8,17 @@
   </line>
   <line>
     <name>456</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>SERVICE CHANGE</status>
+    <text>
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;02/15/2018&amp;nbsp; 4:23PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  Northbound [4] trains are running express from &lt;STRONG&gt;149 St-Grand Concourse&lt;/STRONG&gt; to &lt;STRONG&gt;Burnside Av&lt;/STRONG&gt; because of a train with mechanical problems at &lt;STRONG&gt;149 St-Grand Concourse&lt;/STRONG&gt;.
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>02/15/2018</Date>
+    <Time> 4:23PM</Time>
   </line>
   <line>
     <name>7</name>
@@ -217,7 +224,7 @@
               &lt;br/&gt;
             </text>
     <Date>02/15/2018</Date>
-    <Time> 4:13PM</Time>
+    <Time> 4:23PM</Time>
   </line>
   <line>
     <name>BXM1 - BXM18</name>
@@ -402,7 +409,7 @@
               &lt;br/&gt;
             </text>
     <Date>02/15/2018</Date>
-    <Time> 4:13PM</Time>
+    <Time> 4:23PM</Time>
   </line>
   <line>
     <name>S40 - S98</name>
@@ -509,17 +516,10 @@
 </BT><LIRR>
   <line>
     <name>Babylon</name>
-    <status>DELAYS</status>
-    <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;02/15/2018&amp;nbsp; 3:21PM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  &lt;span style="font-family: Arial, Helvetica; font-size: medium;"&gt;The 3:06PM train from Babylon due Penn at 4:22PM is operating 12 minutes late at this time. &lt;/span&gt;
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>02/15/2018</Date>
-    <Time> 3:21PM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>City Terminal Zone</name>
@@ -565,10 +565,19 @@
   </line>
   <line>
     <name>Port Jefferson</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>DELAYS</status>
+    <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;02/15/2018&amp;nbsp; 4:22PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;p&gt;&lt;strong&gt;&lt;u&gt;Eastbound:&lt;/u&gt;&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The 4:06PM train from Huntington due Port Jefferson at 4:53PM is operating 11 minutes late due to signal trouble west of Port Jefferson Station.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;&lt;u&gt;Westbound:&lt;/u&gt;&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The 4:06PM train from Port Jefferson due Jamaica at 5:39PM is operating 
+11 minutes late due to signal trouble west of Port Jefferson Station. 
+        &lt;/p&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>02/15/2018</Date>
+    <Time> 4:22PM</Time>
   </line>
   <line>
     <name>Port Washington</name>
