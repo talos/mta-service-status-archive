@@ -1,17 +1,22 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>DELAYS</status>
+    <status>SERVICE CHANGE</status>
     <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;02/16/2018&amp;nbsp; 5:55AM
+                    &amp;nbsp;Posted:&amp;nbsp;02/16/2018&amp;nbsp; 6:20AM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  Northbound [1], [2] and [3] trains are running with delays because of signal problems at &lt;STRONG&gt;96 St.&lt;/STRONG&gt;
+                  &lt;P&gt;Northbound [2] trains are stopping along the [1] line from &lt;STRONG&gt;96 St &lt;/STRONG&gt;to&lt;STRONG&gt; 137 St-City College.&lt;/STRONG&gt;&lt;/P&gt;
+&lt;P&gt;Some northbound [2] trains will end at &lt;STRONG&gt;Chambers St&lt;/STRONG&gt;.&lt;/P&gt;
+&lt;P&gt;Some southbound [2] trains will end at &lt;STRONG&gt;149 St-Grand Concourse&lt;/STRONG&gt;.&lt;/P&gt;
+&lt;P&gt;There is no [3] train service in both directions between &lt;STRONG&gt;96 St &lt;/STRONG&gt;and&lt;STRONG&gt; 148 St-Harlem&lt;/STRONG&gt;.&lt;/P&gt;
+&lt;P&gt;These service changes are because of signal problems at &lt;STRONG&gt;96 St&lt;/STRONG&gt;.&lt;/P&gt;
+&lt;P&gt;Expect delays in both direction on the [1], [2] and [3] trains.&lt;/P&gt;
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>02/16/2018</Date>
-    <Time> 5:55AM</Time>
+    <Time> 6:20AM</Time>
   </line>
   <line>
     <name>456</name>
