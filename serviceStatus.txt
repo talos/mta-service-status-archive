@@ -48,6 +48,15 @@
     <text>
                     &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;02/16/2018&amp;nbsp; 3:15PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;P&gt;Some northbound [F] trains are stopping along the [G] line from &lt;STRONG&gt;Bergen St&lt;/STRONG&gt; to &lt;STRONG&gt;Court Sq&lt;/STRONG&gt; then via the [E] line to &lt;STRONG&gt;Jackson Hts-Roosevelt Av&lt;/STRONG&gt;. &lt;/P&gt;
+&lt;P&gt;Some southbound [F] trains will end at &lt;STRONG&gt;2 Av&lt;/STRONG&gt;. &lt;/P&gt;
+&lt;P&gt;These service changes are because of a dog on the tracks at &lt;STRONG&gt;York St&lt;/STRONG&gt;. &lt;/P&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
                     &amp;nbsp;Posted:&amp;nbsp;02/16/2018&amp;nbsp; 2:02PM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
                   &lt;P&gt;There is no [B] train service between &lt;STRONG&gt;DeKalb Av&lt;/STRONG&gt; and &lt;STRONG&gt;145 St&lt;/STRONG&gt; in both directions.&lt;/P&gt;
@@ -57,7 +66,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>02/16/2018</Date>
-    <Time> 2:02PM</Time>
+    <Time> 3:15PM</Time>
   </line>
   <line>
     <name>G</name>
@@ -110,10 +119,18 @@
   </line>
   <line>
     <name>SIR</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>SERVICE CHANGE</status>
+    <text>
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;02/16/2018&amp;nbsp; 3:16PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;P&gt;There is no [SIR] train service in both directions between &lt;STRONG&gt;St. George Ferry&lt;/STRONG&gt; and &lt;STRONG&gt;Tottenville &lt;/STRONG&gt;because of a loss of power at &lt;STRONG&gt;Clifton.&lt;/STRONG&gt; &lt;/P&gt;
+&lt;P&gt;Travel alternative: Passengers can take &lt;STRONG&gt;S74&lt;/STRONG&gt; and &lt;STRONG&gt;S78 &lt;/STRONG&gt;bus service to nearby [SIR] stations. &lt;/P&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>02/16/2018</Date>
+    <Time> 3:16PM</Time>
   </line>
 </subway><bus>
   <line>
@@ -265,8 +282,18 @@
   </line>
   <line>
     <name>Q1 - Q113</name>
-    <status>PLANNED WORK</status>
+    <status>DELAYS</status>
     <text>
+                  &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                  &lt;span class="DateStyle"&gt;
+                  &amp;nbsp;Posted:&amp;nbsp;02/16/2018&amp;nbsp; 3:16PM
+                  &lt;/span&gt;
+                  &lt;br/&gt;
+                  &lt;br/&gt;
+                &lt;P&gt;&lt;STRONG&gt;Q1, Q2, Q3, Q4, Q5, Q6, Q8, Q9, Q17, Q20A, Q20B, Q24, Q25, Q30, Q31, Q34, Q36, Q40, Q41, Q42, Q43, Q44-SBS, Q54, Q56, Q60, Q65 Q83, Q84, Q85, Q110, Q111, Q112, Q113-LTD,&lt;/STRONG&gt; &lt;STRONG&gt;Q114-LTD &lt;/STRONG&gt;and &lt;STRONG&gt;X68&lt;/STRONG&gt; buses are running with delays in both directions, because of traffic conditions on Archer Av, Jamaica Av, Hillside Av and 168 St. &lt;/P&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
                   &lt;span class="TitlePlannedWork" &gt;Planned Detour&lt;/span&gt;
                   &lt;br/&gt;
                 &lt;a class="plannedWorkDetailLink" onclick=ShowHide(181044);&gt;&lt;b&gt;LaGuardia Link Q70 &lt;/b&gt;SBS&lt;b&gt; buses are fare free during the Presidents' Day weekend&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 181044 class="plannedWorkDetail" &gt;&lt;/b&gt;Until 11:59 PM Tuesday, Feb 20, 2018&lt;br&gt;&lt;br&gt;Ride free on the &lt;a href=http://web.mta.info/busco/schedules/q070scur.pdf target=_blank&gt;&lt;font color=#0000FF&gt;LaGuardia Link Q70 SBS&lt;/font&gt;&lt;/a&gt;. Customers do not have to &lt;br&gt;obtain a Select Bus Service ticket and may board at any door.&lt;br&gt;&lt;br&gt;&lt;a href=http://laguardiaairport.com/traveladvisories/ target=_blank&gt;&lt;font color=#0000FF&gt;Click here&lt;/font&gt;&lt;/a&gt; for LaGuardia Airport travel advisories. &lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
@@ -292,7 +319,7 @@
               &lt;br/&gt;
             </text>
     <Date>02/16/2018</Date>
-    <Time> 3:14PM</Time>
+    <Time> 3:16PM</Time>
   </line>
   <line>
     <name>QM1 - QM44</name>
