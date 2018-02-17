@@ -531,17 +531,10 @@
   </line>
   <line>
     <name>Port Jefferson</name>
-    <status>DELAYS</status>
-    <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;02/16/2018&amp;nbsp;10:28PM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  The 9:41PM train from Port Jefferson due Hicksville at 10:46PM is operating 22 minutes late due to a late-arriving eastbound train in single-track territory.
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>02/16/2018</Date>
-    <Time>10:28PM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>Port Washington</name>
@@ -563,14 +556,15 @@
     <text>
                     &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;02/16/2018&amp;nbsp;10:51PM
+                    &amp;nbsp;Posted:&amp;nbsp;02/16/2018&amp;nbsp;11:09PM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  &lt;P&gt;The 10:37PM train from West Hempstead due Valley Stream at 10:52PM is being held prior to departure due to a train with equipment trouble at Lakeview Station. &lt;/P&gt;
-&lt;P&gt;The 9:55PM train from Valley Stream due West Hempstead at 10:10PM is being delayed at Lakeview due to equipment trouble.&lt;/P&gt;
+                  &lt;P&gt;The 9:55PM train from Valley Stream due West Hempstead at 10:10PM is operating 60 minutes late due to earlier equipment trouble at Lakeview Station. &lt;/P&gt;
+&lt;P&gt;The 10:37PM train from West Hempstead due Valley Stream at 10:52PM is being held prior to departure due to a train with equipment trouble at Lakeview Station. &lt;/P&gt;
+&lt;P&gt; &lt;/P&gt;
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>02/16/2018</Date>
-    <Time>10:51PM</Time>
+    <Time>11:09PM</Time>
   </line>
 </LIRR><MetroNorth>
   <line>
@@ -610,10 +604,17 @@
   </line>
   <line>
     <name>Danbury</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>DELAYS</status>
+    <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;02/16/2018&amp;nbsp;11:10PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  Danbury Branch Line Southbound Service is currently experiencing delays of 15 to 20 minutes due to mechanical difficulties. Please listen for announcements at your station.
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>02/16/2018</Date>
+    <Time>11:10PM</Time>
   </line>
   <line>
     <name>Waterbury</name>
