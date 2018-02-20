@@ -447,10 +447,17 @@
   </line>
   <line>
     <name>Far Rockaway</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>DELAYS</status>
+    <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;02/20/2018&amp;nbsp; 8:27AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  The LIRR is experiencing delays averaging 10-15 minutes in both directions on the Far Rockaway and Long Beach branches due to a train with equipment trouble at Valley Stream.
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>02/20/2018</Date>
+    <Time> 8:27AM</Time>
   </line>
   <line>
     <name>Hempstead</name>
@@ -468,8 +475,15 @@
   </line>
   <line>
     <name>Long Beach</name>
-    <status>SERVICE CHANGE</status>
+    <status>DELAYS</status>
     <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;02/20/2018&amp;nbsp; 8:27AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  The LIRR is experiencing delays averaging 10-15 minutes in both directions on the Far Rockaway and Long Beach branches due to a train with equipment trouble at Valley Stream.
+                &lt;br/&gt;&lt;br/&gt;
+              
                     &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
                     &amp;nbsp;Posted:&amp;nbsp;02/20/2018&amp;nbsp; 8:24AM
@@ -487,7 +501,7 @@ Valley Stream.          
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>02/20/2018</Date>
-    <Time> 8:24AM</Time>
+    <Time> 8:27AM</Time>
   </line>
   <line>
     <name>Montauk</name>
