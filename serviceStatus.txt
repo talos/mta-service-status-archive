@@ -1,10 +1,22 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>SERVICE CHANGE</status>
+    <text>
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;02/20/2018&amp;nbsp; 6:13PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;P&gt;Northbound [2] trains are stopping along the [5] line from &lt;STRONG&gt;Nevins St&lt;/STRONG&gt; to &lt;STRONG&gt;149 St-Grand Concourse&lt;/STRONG&gt;. &lt;/P&gt;
+&lt;P&gt;Some southbound [2] trains are stopping along the [5] line from &lt;STRONG&gt;149 St-Grand Concourse&lt;/STRONG&gt; to &lt;STRONG&gt;Nevins St&lt;/STRONG&gt;. &lt;/P&gt;
+&lt;P&gt;Northbound [3] train are stopping along the [1] line from&lt;STRONG&gt; 96 St&lt;/STRONG&gt; to &lt;STRONG&gt;137 St-City College&lt;/STRONG&gt; then end. &lt;/P&gt;
+&lt;P&gt;There is no [2] and [3] train service between&lt;STRONG&gt; 96 St&lt;/STRONG&gt; and &lt;STRONG&gt;Harlem-148 St&lt;/STRONG&gt; in both directions. &lt;/P&gt;
+&lt;P&gt;Expect delays in [1], [2] and [3] train service in both directions. &lt;/P&gt;
+&lt;P&gt;These service changes are because of FDNY activity at&lt;STRONG&gt; Central Park North-110 St&lt;/STRONG&gt;. &lt;/P&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>02/20/2018</Date>
+    <Time> 6:13PM</Time>
   </line>
   <line>
     <name>456</name>
@@ -400,10 +412,17 @@
 </BT><LIRR>
   <line>
     <name>Babylon</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>DELAYS</status>
+    <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;02/20/2018&amp;nbsp; 6:14PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  The 5:36PM train from Penn due Babylon at 6:40PM is operating 10 minutes late due to congestion through Jamaica Station.
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>02/20/2018</Date>
+    <Time> 6:14PM</Time>
   </line>
   <line>
     <name>City Terminal Zone</name>
@@ -502,20 +521,20 @@
     <text>
                     &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;02/20/2018&amp;nbsp; 6:09PM
+                    &amp;nbsp;Posted:&amp;nbsp;02/20/2018&amp;nbsp; 6:13PM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  &lt;strong&gt;Service is temporarily suspended on the Oyster Bay, Port Jefferson, and Ronkonkoma branches due to an unauthorized person on the tracks east of Carle Place Station. Customers are advised to use alternate branches, such as the Babylon or Montauk branches.&lt;/strong&gt;
+                  The 5:22PM train from Penn due Ronkonkoma at 6:38PM is being delayed at Carle Place due to an unauthorized person on the tracks east of Carle Place Station.&lt;br&gt;&lt;br&gt;The 6:04PM train from Atlantic Terminal due Ronkonkoma at 7:27PM is canceled due to a police investigation east of Carle Place.
                 &lt;br/&gt;&lt;br/&gt;
               
                     &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;02/20/2018&amp;nbsp; 6:05PM
+                    &amp;nbsp;Posted:&amp;nbsp;02/20/2018&amp;nbsp; 6:09PM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  The 6:04PM train from Atlantic Terminal due Ronkonkoma at 7:27PM is canceled due to a police investigation east of Carle Place.
+                  &lt;strong&gt;Service is temporarily suspended on the Oyster Bay, Port Jefferson, and Ronkonkoma branches due to an unauthorized person on the tracks east of Carle Place Station. Customers are advised to use alternate branches, such as the Babylon or Montauk branches.&lt;/strong&gt;
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>02/20/2018</Date>
-    <Time> 6:09PM</Time>
+    <Time> 6:13PM</Time>
   </line>
   <line>
     <name>West Hempstead</name>
