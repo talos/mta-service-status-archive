@@ -1,17 +1,20 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>DELAYS</status>
+    <status>SERVICE CHANGE</status>
     <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;02/21/2018&amp;nbsp; 8:46AM
+                    &amp;nbsp;Posted:&amp;nbsp;02/21/2018&amp;nbsp; 8:59AM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  Southbound [2] and [3] trains are running with delays because of a sick passenger at &lt;STRONG&gt;Clark St&lt;/STRONG&gt;.
+                  &lt;P&gt;Southbound [2] trains will end at &lt;STRONG&gt;Chambers St&lt;/STRONG&gt;.&lt;/P&gt;
+&lt;P&gt;Southbound [3] trains are running along the [1] line from &lt;STRONG&gt;Chambers St&lt;/STRONG&gt; to &lt;STRONG&gt;South Ferry&lt;/STRONG&gt;.&lt;/P&gt;
+&lt;P&gt;These service changes are because of a sick passenger at &lt;STRONG&gt;Clark St&lt;/STRONG&gt;.&lt;/P&gt;
+&lt;P&gt;Expect delays in [1], [2] and [3] train service.&lt;/P&gt;
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>02/21/2018</Date>
-    <Time> 8:46AM</Time>
+    <Time> 8:59AM</Time>
   </line>
   <line>
     <name>456</name>
@@ -453,13 +456,13 @@
     <text>
                     &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;02/21/2018&amp;nbsp; 8:20AM
+                    &amp;nbsp;Posted:&amp;nbsp;02/21/2018&amp;nbsp; 9:00AM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  New Haven Line Service continues to experience delays of 10 to 15 minutes due to an earlier incident in the vicinity of Fairfield Metro Station.  Please listen for announcements at your station.
+                  New Haven Line Service continues to experience delays of up to 10 minutes due to an earlier incident in the vicinity of Fairfield Metro Station.  Please listen for announcements at your station.
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>02/21/2018</Date>
-    <Time> 8:20AM</Time>
+    <Time> 9:00AM</Time>
   </line>
   <line>
     <name>New Canaan</name>
