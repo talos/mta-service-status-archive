@@ -1,14 +1,13 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>SERVICE CHANGE</status>
+    <status>DELAYS</status>
     <text>
-                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;02/21/2018&amp;nbsp;11:12AM
+                    &amp;nbsp;Posted:&amp;nbsp;02/21/2018&amp;nbsp;11:14AM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  &lt;P&gt;No [1] trains between &lt;STRONG&gt;215 St &lt;/STRONG&gt;and&lt;STRONG&gt; Van Cortlandt Park-242 St&lt;/STRONG&gt; in both directions because of Broadway Bridge opening.&lt;/P&gt;
-&lt;P&gt; &lt;/P&gt;
+                  [1] train service has resumed following the earlier opening of the &lt;STRONG&gt;Broadway Bridge.&lt;/STRONG&gt;
                 &lt;br/&gt;&lt;br/&gt;
               
                     &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
@@ -17,7 +16,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>02/21/2018</Date>
-    <Time>11:12AM</Time>
+    <Time>11:14AM</Time>
   </line>
   <line>
     <name>456</name>
