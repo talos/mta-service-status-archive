@@ -1,10 +1,17 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>DELAYS</status>
+    <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;02/20/2018&amp;nbsp; 9:44PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  [2] and [5] trains are running with delays in both directions because of NYPD activity at &lt;STRONG&gt;E 180 St&lt;/STRONG&gt;.
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>02/20/2018</Date>
+    <Time> 9:44PM</Time>
   </line>
   <line>
     <name>456</name>
@@ -12,9 +19,9 @@
     <text>
                     &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;02/20/2018&amp;nbsp; 9:31PM
+                    &amp;nbsp;Posted:&amp;nbsp;02/20/2018&amp;nbsp; 9:44PM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  [4] and [5] train service has resumed following earlier signal problems at&lt;STRONG&gt; 59 St&lt;/STRONG&gt;.
+                  [2] and [5] trains are running with delays in both directions because of NYPD activity at &lt;STRONG&gt;E 180 St&lt;/STRONG&gt;.
                 &lt;br/&gt;&lt;br/&gt;
               
                     &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
@@ -23,7 +30,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>02/20/2018</Date>
-    <Time> 9:31PM</Time>
+    <Time> 9:44PM</Time>
   </line>
   <line>
     <name>7</name>
@@ -246,18 +253,8 @@
   </line>
   <line>
     <name>Q1 - Q113</name>
-    <status>DELAYS</status>
+    <status>SERVICE CHANGE</status>
     <text>
-                  &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                  &lt;span class="DateStyle"&gt;
-                  &amp;nbsp;Posted:&amp;nbsp;02/20/2018&amp;nbsp; 9:38PM
-                  &lt;/span&gt;
-                  &lt;br/&gt;
-                  &lt;br/&gt;
-                &lt;strong&gt;Q12, Q13, Q15, Q15A, Q16, Q17, Q19, Q20A, Q20B, Q25, Q26, Q27, Q28, Q34, Q44-SBS, Q48, Q50, Q65&lt;/strong&gt; and&lt;strong&gt; Q66 &lt;/strong&gt;bus service has resumed following earlier traffic conditions in the downtown Flushing area.
-              &lt;br/&gt;
-              &lt;br/&gt;
-            
                   &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
                   &lt;span class="DateStyle"&gt;
                   &amp;nbsp;Posted:&amp;nbsp;02/20/2018&amp;nbsp; 8:02PM
@@ -295,7 +292,7 @@
               &lt;br/&gt;
             </text>
     <Date>02/20/2018</Date>
-    <Time> 9:38PM</Time>
+    <Time> 8:02PM</Time>
   </line>
   <line>
     <name>QM1 - QM44</name>
@@ -438,10 +435,17 @@
   </line>
   <line>
     <name>Montauk</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>DELAYS</status>
+    <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;02/20/2018&amp;nbsp; 9:44PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  The 8:53PM train from Jamaica due Montauk at 11:46PM is operating 11 minutes late at this time.
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>02/20/2018</Date>
+    <Time> 9:44PM</Time>
   </line>
   <line>
     <name>Oyster Bay</name>
