@@ -1,10 +1,17 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>SERVICE CHANGE</status>
+    <text>
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;02/20/2018&amp;nbsp; 7:58PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  Northbound [1] trains are running express from &lt;STRONG&gt;207 St&lt;/STRONG&gt; to &lt;STRONG&gt;Van Cortlandt Park-242 St&lt;/STRONG&gt; because of an employee requiring medical assistance at &lt;STRONG&gt;215 St&lt;/STRONG&gt;.
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>02/20/2018</Date>
+    <Time> 7:58PM</Time>
   </line>
   <line>
     <name>456</name>
@@ -463,11 +470,9 @@ unauthorized person on the tracks east of Carle Place Station.&lt;/strong&gt;
               
                     &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;02/20/2018&amp;nbsp; 7:19PM
+                    &amp;nbsp;Posted:&amp;nbsp;02/20/2018&amp;nbsp; 7:59PM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  &lt;p&gt;&lt;strong&gt;&lt;u&gt;Eastbound:&lt;/u&gt;&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The 6:16PM train from Penn due Oyster Bay at 7:30PM is operating 19 
-minutes late due to an earlier unauthorized person on the tracks east of
- Carle Place Station. &lt;br&gt;&lt;/p&gt;&lt;p&gt;The 6:00PM train from Jamaica due Oyster Bay at 6:58PM is operating 27 minutes late after being delayed at New Hyde Park due to an earlier service suspension on the Ronkonkoma Branch.        &lt;br&gt;&lt;/p&gt;&lt;p&gt;The 6:41PM train from Hunterspoint Ave. due Oyster Bay at 7:56PM is operating 14 minutes late due to congestion through Jamaica Station caused by an earlier service suspension.&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;&lt;u&gt;Westbound:&lt;/u&gt;&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The 5:52PM train from Oyster Bay due Jamaica at 6:53PM is operating 20 minutes late after being delayed at East Williston due to congestion caused by an earlier suspension.&lt;br&gt;&lt;/p&gt;
+                  &lt;p&gt;The 6:41PM train from Hunterspoint Ave. due Oyster Bay at 7:56PM is operating 14 minutes late due to congestion through Jamaica Station caused by an earlier service suspension.&lt;br&gt;&lt;/p&gt;&lt;br&gt;
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>02/20/2018</Date>
