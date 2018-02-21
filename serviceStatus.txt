@@ -1,8 +1,18 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>DELAYS</status>
+    <status>SERVICE CHANGE</status>
     <text>
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;02/21/2018&amp;nbsp; 7:41AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;P&gt;Northbound [4] trains are running local from &lt;STRONG&gt;Crown Hts-Utica Av&lt;/STRONG&gt; to &lt;STRONG&gt;Atlantic Av-Barclays Ctr&lt;/STRONG&gt;.&lt;/P&gt;
+&lt;P&gt;Northbound [5] trains are running local from &lt;STRONG&gt;Franklin Av &lt;/STRONG&gt;to &lt;STRONG&gt;Atlantic Av-Barclays Ctr&lt;/STRONG&gt;.&lt;/P&gt;
+&lt;P&gt;These service changes are because of an injured customer at &lt;STRONG&gt;Franklin Av&lt;/STRONG&gt;.&lt;/P&gt;
+&lt;P&gt;Expect delays in [2] and [3] train service.&lt;/P&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              
                     &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
                     &amp;nbsp;Posted:&amp;nbsp;02/21/2018&amp;nbsp; 7:36AM
@@ -11,14 +21,24 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>02/21/2018</Date>
-    <Time> 7:36AM</Time>
+    <Time> 7:41AM</Time>
   </line>
   <line>
     <name>456</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>SERVICE CHANGE</status>
+    <text>
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;02/21/2018&amp;nbsp; 7:41AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;P&gt;Northbound [4] trains are running local from &lt;STRONG&gt;Crown Hts-Utica Av&lt;/STRONG&gt; to &lt;STRONG&gt;Atlantic Av-Barclays Ctr&lt;/STRONG&gt;.&lt;/P&gt;
+&lt;P&gt;Northbound [5] trains are running local from &lt;STRONG&gt;Franklin Av &lt;/STRONG&gt;to &lt;STRONG&gt;Atlantic Av-Barclays Ctr&lt;/STRONG&gt;.&lt;/P&gt;
+&lt;P&gt;These service changes are because of an injured customer at &lt;STRONG&gt;Franklin Av&lt;/STRONG&gt;.&lt;/P&gt;
+&lt;P&gt;Expect delays in [2] and [3] train service.&lt;/P&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>02/21/2018</Date>
+    <Time> 7:41AM</Time>
   </line>
   <line>
     <name>7</name>
