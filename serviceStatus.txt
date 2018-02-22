@@ -1,17 +1,18 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>DELAYS</status>
+    <status>SERVICE CHANGE</status>
     <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;02/22/2018&amp;nbsp;11:31AM
+                    &amp;nbsp;Posted:&amp;nbsp;02/22/2018&amp;nbsp;11:37AM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  Some southbound [2] and [3] trains are running local from &lt;STRONG&gt;96 St&lt;/STRONG&gt; to &lt;STRONG&gt;72 St&lt;/STRONG&gt; because of signal problems at &lt;STRONG&gt;96 St&lt;/STRONG&gt;.
+                  &lt;P&gt;Some southbound [2] and [3] trains are running local from &lt;STRONG&gt;96 St&lt;/STRONG&gt; to &lt;STRONG&gt;72 St&lt;/STRONG&gt; because of signal problems at &lt;STRONG&gt;96 St&lt;/STRONG&gt;.&lt;/P&gt;
+&lt;P&gt;Expect delays in [1], [2] and [3] train service.&lt;/P&gt;
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>02/22/2018</Date>
-    <Time>11:31AM</Time>
+    <Time>11:37AM</Time>
   </line>
   <line>
     <name>456</name>
@@ -203,18 +204,15 @@
   </line>
   <line>
     <name>M1 - M116</name>
-    <status>SERVICE CHANGE</status>
+    <status>DELAYS</status>
     <text>
-                  &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                  &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                   &lt;span class="DateStyle"&gt;
-                  &amp;nbsp;Posted:&amp;nbsp;02/22/2018&amp;nbsp;11:28AM
+                  &amp;nbsp;Posted:&amp;nbsp;02/22/2018&amp;nbsp;11:38AM
                   &lt;/span&gt;
                   &lt;br/&gt;
                   &lt;br/&gt;
-                &lt;P&gt;&lt;STRONG&gt;M101 &lt;/STRONG&gt;buses are detoured because of FDNY activity at Lexington Av and 29 St. &lt;/P&gt;
-&lt;P&gt;Detour is as follows:&lt;/P&gt;
-&lt;P&gt;&lt;STRONG&gt;M101 Southbound&lt;/STRONG&gt;: Via Lexington Av, left on 34 St, right on 2 Av, right on 23 St, left on 3 Av and regular route.&lt;/P&gt;
-&lt;P&gt;All corresponding stops will be made along the detoured route.&lt;/P&gt;
+                &lt;STRONG&gt;M101 &lt;/STRONG&gt;bus service has resumed following earlier FDNY activity at Lexington Av and 29 St.
               &lt;br/&gt;
               &lt;br/&gt;
             
@@ -250,7 +248,7 @@
               &lt;br/&gt;
             </text>
     <Date>02/22/2018</Date>
-    <Time>11:28AM</Time>
+    <Time>11:38AM</Time>
   </line>
   <line>
     <name>Q1 - Q113</name>
