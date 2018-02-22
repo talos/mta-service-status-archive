@@ -1,8 +1,15 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>SERVICE CHANGE</status>
+    <status>DELAYS</status>
     <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;02/22/2018&amp;nbsp;11:48AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  Southbound [1] trains are running with delays because of signal problems at &lt;STRONG&gt;137 St-City College&lt;/STRONG&gt;.
+                &lt;br/&gt;&lt;br/&gt;
+              
                     &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
                     &amp;nbsp;Posted:&amp;nbsp;02/22/2018&amp;nbsp;11:37AM
@@ -12,7 +19,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>02/22/2018</Date>
-    <Time>11:37AM</Time>
+    <Time>11:48AM</Time>
   </line>
   <line>
     <name>456</name>
@@ -431,10 +438,17 @@
 </BT><LIRR>
   <line>
     <name>Babylon</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>DELAYS</status>
+    <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;02/22/2018&amp;nbsp;11:48AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  The 10:48AM train from Babylon due Penn at 12:02PM is operating 11 minutes late due a customer in need of medical assistance.
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>02/22/2018</Date>
+    <Time>11:48AM</Time>
   </line>
   <line>
     <name>City Terminal Zone</name>
