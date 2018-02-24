@@ -1,18 +1,25 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>DELAYS</status>
+    <status>SERVICE CHANGE</status>
     <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;02/24/2018&amp;nbsp; 6:16AM
+                    &amp;nbsp;Posted:&amp;nbsp;02/24/2018&amp;nbsp; 6:24AM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  [2] and [5] trains are running with delays in both directions because of NYPD activity at &lt;STRONG&gt;E 180 St&lt;/STRONG&gt;.
+                  &lt;P&gt;[2] Southbound trains are holding in stations between &lt;STRONG&gt;E 180 St&lt;/STRONG&gt; and &lt;STRONG&gt;Eastchester-Dyre Av&lt;/STRONG&gt;.&lt;/P&gt;
+&lt;P&gt;[5] Southbound trains are holding in stations between &lt;STRONG&gt;E 180 St &lt;/STRONG&gt;an&lt;STRONG&gt;d Wakefield-241 St.&lt;/STRONG&gt;&lt;/P&gt;
+&lt;P&gt;These service are because of NYPD activity at &lt;STRONG&gt;E 180 St. &lt;/STRONG&gt;&lt;/P&gt;
                 &lt;br/&gt;&lt;br/&gt;
               
                     &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
                     &lt;br/&gt;
                   &lt;a class="plannedWorkDetailLink" onclick=ShowHide(179434);&gt;&lt;b&gt;&lt;i&gt;TRACK REPLACEMENT&lt;/i&gt;&lt;br clear=left&gt;[3] No trains running&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 179434 class="plannedWorkDetail" &gt;[1] [2] trains and [SB] free shuttle buses provide alternate service&lt;br&gt;&lt;/b&gt;Weekend, 11:45 PM Fri to 5 AM Mon, Feb 23 - 26&lt;br&gt;                                       &lt;br&gt;&lt;/font&gt;&lt;b&gt;[1] [2]&lt;/b&gt; trains make all &lt;b&gt;[3]&lt;/b&gt; stops between &lt;b&gt;14 St &lt;/b&gt;and &lt;b&gt;135 St&lt;/b&gt;.&lt;br&gt;&amp;bull; [1] trains operate &lt;i&gt;to/from &lt;/i&gt;148 St, skipping 145 St in both directions.&lt;br&gt;&lt;br&gt;[SB] Buses operate between &lt;b&gt;135 St &lt;/b&gt;and &lt;b&gt;148 St&lt;/b&gt;, stopping at 145 St.&lt;br&gt;&lt;/font&gt;&amp;bull; Transfer between trains and [SB] buses at &lt;b&gt;135 St&lt;/b&gt;.&lt;br&gt;&lt;br&gt;&lt;table class=plannedworkTableStyle  border=1 cellspacing=1 cellpadding=3 rules=rows frame=hsides&gt;&lt;tr bgcolor=#FAF8CC&gt;&lt;td&gt;&lt;b&gt;Station      &lt;/b&gt;&lt;/td&gt;&lt;td&gt;&lt;b&gt;Bus Stop&lt;/b&gt;&lt;td&gt;&lt;b&gt;Bus&lt;/b&gt;&lt;tr&gt;&lt;td&gt;135 St  [ad]  [1] [2]  &lt;td&gt;Lenox Av at 135 St&lt;td&gt;[SB], &lt;b&gt;M7&lt;/b&gt;, &lt;b&gt;M102&lt;/b&gt;&lt;tr&gt;&lt;td&gt;145 St&lt;td&gt;Lenox Av at 145 St&lt;td&gt;[SB], &lt;b&gt;M7&lt;/b&gt;, &lt;b&gt;M102&lt;/b&gt;&lt;tr&gt;&lt;td&gt;148 St&lt;td&gt;Adam Clayton Powell Jr Blvd at 149 St&lt;td&gt;[SB]&lt;/table&gt;&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              
+                    &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
+                    &lt;br/&gt;
+                  &lt;a class="plannedWorkDetailLink" onclick=ShowHide(179439);&gt;&lt;b&gt;&lt;i&gt;TRACK MAINTENANCE&lt;/i&gt;&lt;/font&gt;&lt;br clear=left&gt;[2] Downtown trains run local from 96 St to Times Sq-42 St&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 179439 class="plannedWorkDetail" &gt;&lt;/b&gt;Weekends, 10 PM Fri to 5 AM Mon, Feb 23 - 26  &amp;bull;  Mar 2 - 5  &amp;bull;  Mar 9 - 12&lt;br&gt;&lt;br&gt;&amp;bull; Please allow additional travel time.&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
                 &lt;br/&gt;&lt;br/&gt;
               
                     &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
@@ -31,17 +38,19 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>02/24/2018</Date>
-    <Time> 6:16AM</Time>
+    <Time> 6:24AM</Time>
   </line>
   <line>
     <name>456</name>
-    <status>DELAYS</status>
+    <status>SERVICE CHANGE</status>
     <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;02/24/2018&amp;nbsp; 6:16AM
+                    &amp;nbsp;Posted:&amp;nbsp;02/24/2018&amp;nbsp; 6:24AM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  [2] and [5] trains are running with delays in both directions because of NYPD activity at &lt;STRONG&gt;E 180 St&lt;/STRONG&gt;.
+                  &lt;P&gt;[2] Southbound trains are holding in stations between &lt;STRONG&gt;E 180 St&lt;/STRONG&gt; and &lt;STRONG&gt;Eastchester-Dyre Av&lt;/STRONG&gt;.&lt;/P&gt;
+&lt;P&gt;[5] Southbound trains are holding in stations between &lt;STRONG&gt;E 180 St &lt;/STRONG&gt;an&lt;STRONG&gt;d Wakefield-241 St.&lt;/STRONG&gt;&lt;/P&gt;
+&lt;P&gt;These service are because of NYPD activity at &lt;STRONG&gt;E 180 St. &lt;/STRONG&gt;&lt;/P&gt;
                 &lt;br/&gt;&lt;br/&gt;
               
                     &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
@@ -55,7 +64,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>02/24/2018</Date>
-    <Time> 6:16AM</Time>
+    <Time> 6:24AM</Time>
   </line>
   <line>
     <name>7</name>
@@ -72,7 +81,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>02/24/2018</Date>
-    <Time> 6:13AM</Time>
+    <Time> 6:23AM</Time>
   </line>
   <line>
     <name>ACE</name>
@@ -84,12 +93,17 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>02/24/2018</Date>
-    <Time> 6:13AM</Time>
+    <Time> 6:23AM</Time>
   </line>
   <line>
     <name>BDFM</name>
     <status>PLANNED WORK</status>
     <text>
+                    &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
+                    &lt;br/&gt;
+                  &lt;a class="plannedWorkDetailLink" onclick=ShowHide(179446);&gt;&lt;b&gt;&lt;i&gt;TRACK REPLACEMENT&lt;/i&gt;&lt;br clear=left&gt;[M] No trains between Essex St and Broadway Junction&lt;br clear=left&gt;[J] Trains provide alternate service&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 179446 class="plannedWorkDetail" &gt;&lt;/b&gt;Weekend, 6:15 AM to 11:45 PM, Saturdays, until Mar 17&lt;br&gt;                  8 AM to 10 PM, Sundays, until Mar 18&lt;br&gt;&lt;br&gt;No [M] service at &lt;b&gt;Broadway Junction&lt;/b&gt;, &lt;b&gt;Chauncey St&lt;/b&gt;, &lt;b&gt;Halsey St&lt;/b&gt;, &lt;b&gt;Gates Av&lt;/b&gt;, &lt;b&gt;Kosciuszko St&lt;/b&gt;, &lt;b&gt;Myrtle Av&lt;/b&gt;, &lt;b&gt;Flushing Av&lt;/b&gt;, &lt;b&gt;Lorimer St&lt;/b&gt;, &lt;b&gt;Hewes St&lt;/b&gt;, &lt;b&gt;Marcy Av&lt;/b&gt; and &lt;b&gt;Essex St&lt;/b&gt;.&lt;br&gt;&lt;br&gt;For service &lt;i&gt;to/from&lt;/i&gt; these stations take the [J] instead.&lt;br&gt;&lt;br&gt;&lt;b&gt;Reminder:&lt;/b&gt; [M] Shuttle train operates &lt;i&gt;all times&lt;/i&gt; between &lt;b&gt;Metropolitan Av&lt;/b&gt; and &lt;b&gt;Myrtle-Wyckoff Avs&lt;br&gt;&lt;/b&gt;and [SB] free shuttle buses operate between &lt;b&gt;Myrtle-Wyckoff Av&lt;/b&gt; and &lt;b&gt;Myrtle Av&lt;/b&gt;.&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              
                     &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
                     &lt;br/&gt;
                   &lt;a class="plannedWorkDetailLink" onclick=ShowHide(181039);&gt;&lt;b&gt;&lt;i&gt;TRACK MAINTENANCE&lt;/i&gt;&lt;br clear=left&gt;[F] Manhattan-bound trains run local from 71 Av to 21 St-Queensbridge&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 181039 class="plannedWorkDetail" &gt;&lt;/b&gt;&lt;/font&gt;Weekend, 10 PM Fri to 5 AM Mon, Feb 23 - 26&lt;br&gt;&lt;br&gt;Trains stop at 67 Av, 63 Dr, Woodhaven Blvd, Grand, Elmhurst, Roosevelt Avs,&lt;br&gt;65 St, Northern Blvd, 46, Steinway and 36 Sts.&lt;br&gt;&lt;br&gt;&lt;/font&gt;&amp;bull; Please allow additional travel time.&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
@@ -116,7 +130,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>02/24/2018</Date>
-    <Time> 6:13AM</Time>
+    <Time> 6:23AM</Time>
   </line>
   <line>
     <name>G</name>
@@ -135,7 +149,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>02/24/2018</Date>
-    <Time> 6:13AM</Time>
+    <Time> 6:23AM</Time>
   </line>
   <line>
     <name>L</name>
@@ -159,7 +173,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>02/24/2018</Date>
-    <Time> 6:13AM</Time>
+    <Time> 6:23AM</Time>
   </line>
   <line>
     <name>S</name>
@@ -178,7 +192,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>02/24/2018</Date>
-    <Time> 6:13AM</Time>
+    <Time> 6:23AM</Time>
   </line>
 </subway><bus>
   <line>
@@ -210,7 +224,7 @@
               &lt;br/&gt;
             </text>
     <Date>02/24/2018</Date>
-    <Time> 6:13AM</Time>
+    <Time> 6:23AM</Time>
   </line>
   <line>
     <name>B100 - B103</name>
@@ -223,7 +237,7 @@
               &lt;br/&gt;
             </text>
     <Date>02/24/2018</Date>
-    <Time> 6:13AM</Time>
+    <Time> 6:23AM</Time>
   </line>
   <line>
     <name>BM1 - BM5</name>
@@ -236,7 +250,7 @@
               &lt;br/&gt;
             </text>
     <Date>02/24/2018</Date>
-    <Time> 6:13AM</Time>
+    <Time> 6:23AM</Time>
   </line>
   <line>
     <name>BX1 - BX55</name>
@@ -249,7 +263,7 @@
               &lt;br/&gt;
             </text>
     <Date>02/24/2018</Date>
-    <Time> 6:13AM</Time>
+    <Time> 6:23AM</Time>
   </line>
   <line>
     <name>BXM1 - BXM18</name>
@@ -368,7 +382,7 @@
               &lt;br/&gt;
             </text>
     <Date>02/24/2018</Date>
-    <Time> 6:13AM</Time>
+    <Time> 6:23AM</Time>
   </line>
   <line>
     <name>S40 - S98</name>
