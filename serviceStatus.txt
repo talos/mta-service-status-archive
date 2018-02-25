@@ -1,13 +1,13 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>SERVICE CHANGE</status>
+    <status>DELAYS</status>
     <text>
-                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;02/24/2018&amp;nbsp; 8:07PM
+                    &amp;nbsp;Posted:&amp;nbsp;02/24/2018&amp;nbsp; 8:08PM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  Northbound [2] trains are running local from&lt;b&gt; Times Sq-42 St &lt;/b&gt;to &lt;b&gt;72 St&lt;/b&gt; because of a sick passenger at &lt;b&gt;Times Sq-42 St&lt;/b&gt;
+                  [2] train service has resumed following an earlier sick passenger at &lt;b&gt;Times Sq-42 St.&lt;/b&gt;
                 &lt;br/&gt;&lt;br/&gt;
               
                     &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
@@ -31,7 +31,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>02/24/2018</Date>
-    <Time> 8:07PM</Time>
+    <Time> 8:08PM</Time>
   </line>
   <line>
     <name>456</name>
@@ -48,7 +48,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>02/24/2018</Date>
-    <Time> 8:02PM</Time>
+    <Time> 8:10PM</Time>
   </line>
   <line>
     <name>7</name>
@@ -65,7 +65,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>02/24/2018</Date>
-    <Time> 8:02PM</Time>
+    <Time> 8:10PM</Time>
   </line>
   <line>
     <name>ACE</name>
@@ -94,9 +94,9 @@
     <text>
                     &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;02/24/2018&amp;nbsp; 8:03PM
+                    &amp;nbsp;Posted:&amp;nbsp;02/24/2018&amp;nbsp; 8:10PM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  [F] trains are running with delays in both directions because of NYPD activity at &lt;STRONG&gt;East Broadway&lt;/STRONG&gt;.
+                  [F] train service has resumed following earlier NYPD activity at &lt;STRONG&gt;East Broadway.&lt;/STRONG&gt;
                 &lt;br/&gt;&lt;br/&gt;
               
                     &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
@@ -125,7 +125,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>02/24/2018</Date>
-    <Time> 8:03PM</Time>
+    <Time> 8:10PM</Time>
   </line>
   <line>
     <name>G</name>
@@ -232,7 +232,7 @@
               &lt;br/&gt;
             </text>
     <Date>02/24/2018</Date>
-    <Time> 8:02PM</Time>
+    <Time> 8:10PM</Time>
   </line>
   <line>
     <name>B100 - B103</name>
@@ -245,7 +245,7 @@
               &lt;br/&gt;
             </text>
     <Date>02/24/2018</Date>
-    <Time> 8:02PM</Time>
+    <Time> 8:10PM</Time>
   </line>
   <line>
     <name>BM1 - BM5</name>
@@ -258,7 +258,7 @@
               &lt;br/&gt;
             </text>
     <Date>02/24/2018</Date>
-    <Time> 8:02PM</Time>
+    <Time> 8:10PM</Time>
   </line>
   <line>
     <name>BX1 - BX55</name>
@@ -413,7 +413,7 @@
               &lt;br/&gt;
             </text>
     <Date>02/24/2018</Date>
-    <Time> 8:02PM</Time>
+    <Time> 8:10PM</Time>
   </line>
   <line>
     <name>S40 - S98</name>
