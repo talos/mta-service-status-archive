@@ -34,10 +34,18 @@
   </line>
   <line>
     <name>BDFM</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>SERVICE CHANGE</status>
+    <text>
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;02/26/2018&amp;nbsp; 2:32PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;P&gt;Northbound [B] and [D] trains are running local from&lt;STRONG&gt; W 4 St-Washington Sq&lt;/STRONG&gt; to &lt;STRONG&gt;34 St-Herald Sq&lt;/STRONG&gt; because of NYPD activity at &lt;STRONG&gt;34 St-Herald Sq&lt;/STRONG&gt;.&lt;/P&gt;
+&lt;P&gt;Expect delays in [B], [D], [F] and [M] train service.  &lt;/P&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>02/26/2018</Date>
+    <Time> 2:32PM</Time>
   </line>
   <line>
     <name>G</name>
@@ -253,18 +261,15 @@
   </line>
   <line>
     <name>Q1 - Q113</name>
-    <status>SERVICE CHANGE</status>
+    <status>DELAYS</status>
     <text>
-                  &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                  &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                   &lt;span class="DateStyle"&gt;
-                  &amp;nbsp;Posted:&amp;nbsp;02/26/2018&amp;nbsp; 2:04PM
+                  &amp;nbsp;Posted:&amp;nbsp;02/26/2018&amp;nbsp; 2:32PM
                   &lt;/span&gt;
                   &lt;br/&gt;
                   &lt;br/&gt;
-                &lt;P&gt;&lt;STRONG&gt;Q17 &lt;/STRONG&gt;northbound buses are detoured because of NYPD activity on 168 St and 91 Av.&lt;/P&gt;
-&lt;P&gt;Detour is as follows: &lt;/P&gt;
-&lt;P&gt;&lt;STRONG&gt;Q17 Northbound&lt;/STRONG&gt;: Via 168 St, right on Jamaica Av, left on 170 St, right on Hillside Av and regular route.&lt;/P&gt;
-&lt;P&gt;All corresponding stops will be made along the detoured route.&lt;/P&gt;
+                &lt;b&gt;Q17&lt;/b&gt; bus service has resumed following earlier NYPD activity on 168 St and 91 Av.
               &lt;br/&gt;
               &lt;br/&gt;
             
@@ -301,7 +306,7 @@
               &lt;br/&gt;
             </text>
     <Date>02/26/2018</Date>
-    <Time> 2:04PM</Time>
+    <Time> 2:32PM</Time>
   </line>
   <line>
     <name>QM1 - QM44</name>
