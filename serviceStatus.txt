@@ -1,10 +1,18 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>DELAYS</status>
+    <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;02/26/2018&amp;nbsp; 8:30AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;P&gt;Northbound [2] and [3] train service are running with delays because of a customer in need of medical assistance at Grand Army Plaza.&lt;/P&gt;
+&lt;P&gt;Medical personnel are on scene assisting.&lt;/P&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>02/26/2018</Date>
+    <Time> 8:30AM</Time>
   </line>
   <line>
     <name>456</name>
@@ -23,7 +31,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>02/26/2018</Date>
-    <Time> 8:23AM</Time>
+    <Time> 8:29AM</Time>
   </line>
   <line>
     <name>ACE</name>
@@ -133,7 +141,7 @@
               &lt;br/&gt;
             </text>
     <Date>02/26/2018</Date>
-    <Time> 8:23AM</Time>
+    <Time> 8:29AM</Time>
   </line>
   <line>
     <name>B100 - B103</name>
@@ -146,7 +154,7 @@
               &lt;br/&gt;
             </text>
     <Date>02/26/2018</Date>
-    <Time> 8:23AM</Time>
+    <Time> 8:29AM</Time>
   </line>
   <line>
     <name>BM1 - BM5</name>
@@ -159,7 +167,7 @@
               &lt;br/&gt;
             </text>
     <Date>02/26/2018</Date>
-    <Time> 8:23AM</Time>
+    <Time> 8:29AM</Time>
   </line>
   <line>
     <name>BX1 - BX55</name>
@@ -172,7 +180,7 @@
               &lt;br/&gt;
             </text>
     <Date>02/26/2018</Date>
-    <Time> 8:23AM</Time>
+    <Time> 8:29AM</Time>
   </line>
   <line>
     <name>BXM1 - BXM18</name>
@@ -185,6 +193,16 @@
     <name>M1 - M116</name>
     <status>DELAYS</status>
     <text>
+                  &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                  &lt;span class="DateStyle"&gt;
+                  &amp;nbsp;Posted:&amp;nbsp;02/26/2018&amp;nbsp; 8:30AM
+                  &lt;/span&gt;
+                  &lt;br/&gt;
+                  &lt;br/&gt;
+                &lt;STRONG&gt;M2, M3&lt;/STRONG&gt; and &lt;STRONG&gt;M4&lt;/STRONG&gt; southbound buses are running with delays because of traffic condition on Central Park North from Frederick Douglas Blvd and 5 Av.
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
                   &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                   &lt;span class="DateStyle"&gt;
                   &amp;nbsp;Posted:&amp;nbsp;02/26/2018&amp;nbsp; 8:28AM
@@ -241,7 +259,7 @@
               &lt;br/&gt;
             </text>
     <Date>02/26/2018</Date>
-    <Time> 8:28AM</Time>
+    <Time> 8:30AM</Time>
   </line>
   <line>
     <name>Q1 - Q113</name>
@@ -305,7 +323,7 @@
               &lt;br/&gt;
             </text>
     <Date>02/26/2018</Date>
-    <Time> 8:23AM</Time>
+    <Time> 8:29AM</Time>
   </line>
   <line>
     <name>S40 - S98</name>
