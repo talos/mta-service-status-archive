@@ -1,10 +1,17 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>DELAYS</status>
+    <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;02/26/2018&amp;nbsp; 8:09PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  Northbound [2] and [3] trains are running with delays because of a sick at &lt;STRONG&gt;116 St&lt;/STRONG&gt;.
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>02/26/2018</Date>
+    <Time> 8:09PM</Time>
   </line>
   <line>
     <name>456</name>
@@ -172,8 +179,28 @@
   </line>
   <line>
     <name>BX1 - BX55</name>
-    <status>SERVICE CHANGE</status>
+    <status>DELAYS</status>
     <text>
+                  &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                  &lt;span class="DateStyle"&gt;
+                  &amp;nbsp;Posted:&amp;nbsp;02/26/2018&amp;nbsp; 8:09PM
+                  &lt;/span&gt;
+                  &lt;br/&gt;
+                  &lt;br/&gt;
+                &lt;STRONG&gt;Bx12 &lt;/STRONG&gt;and &lt;STRONG&gt;Bx12-SBS&lt;/STRONG&gt; buses are running with delays in both directions because of FDNY activity under the 207 St Bridge.
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
+                  &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                  &lt;span class="DateStyle"&gt;
+                  &amp;nbsp;Posted:&amp;nbsp;02/26/2018&amp;nbsp; 8:08PM
+                  &lt;/span&gt;
+                  &lt;br/&gt;
+                  &lt;br/&gt;
+                &lt;STRONG&gt;Bx10, Bx16, Bx28, Bx30, Bx34, Bx38&lt;/STRONG&gt; and &lt;STRONG&gt;Bx41 &lt;/STRONG&gt;buses are running with delays in both directions because of a non MTA accident on Gun Hill Rd and Webster Av.
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
                   &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
                   &lt;span class="DateStyle"&gt;
                   &amp;nbsp;Posted:&amp;nbsp;02/26/2018&amp;nbsp; 8:08PM
@@ -189,26 +216,6 @@
               &lt;br/&gt;
               &lt;br/&gt;
             
-                  &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                  &lt;span class="DateStyle"&gt;
-                  &amp;nbsp;Posted:&amp;nbsp;02/26/2018&amp;nbsp; 6:41PM
-                  &lt;/span&gt;
-                  &lt;br/&gt;
-                  &lt;br/&gt;
-                &lt;b&gt;Bx12&lt;/b&gt; and&lt;b&gt; Bx12-SBS&lt;/b&gt; buses are running with delays in both directions because of FDNY activity under the 207 St bridge.
-              &lt;br/&gt;
-              &lt;br/&gt;
-            
-                  &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                  &lt;span class="DateStyle"&gt;
-                  &amp;nbsp;Posted:&amp;nbsp;02/26/2018&amp;nbsp; 6:24PM
-                  &lt;/span&gt;
-                  &lt;br/&gt;
-                  &lt;br/&gt;
-                &lt;STRONG&gt;Bx10, Bx16, Bx28, Bx30, Bx34, Bx38&lt;/STRONG&gt; and &lt;STRONG&gt;Bx41 &lt;/STRONG&gt;buses are running with delays in both directions because of a non MTA accident on Gun Hill Rd and Webster Av.
-              &lt;br/&gt;
-              &lt;br/&gt;
-            
                   &lt;span class="TitlePlannedWork" &gt;Planned Detour&lt;/span&gt;
                   &lt;br/&gt;
                 &lt;a class="plannedWorkDetailLink" onclick=ShowHide(164794);&gt;&lt;b&gt;Bx4/Bx4A, Bx5, Bx11 and Bx35 buses may experience delays&lt;br clear=left&gt;due to construction on Westchester Av between Southern Blvd and Hoe Av&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 164794 class="plannedWorkDetail" &gt;&lt;/b&gt;Until further notice&lt;br&gt;&lt;br&gt;&amp;bull; Please allow additional travel time.&lt;br&gt;&lt;b&gt;          &lt;/b&gt;&lt;a href=http://bustime.mta.info/ target=_blank&gt;&lt;img height=30px src=http://web.mta.info/nyct/images/Bus_Time_logo.png&gt;&lt;/a&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
@@ -216,7 +223,7 @@
               &lt;br/&gt;
             </text>
     <Date>02/26/2018</Date>
-    <Time> 8:08PM</Time>
+    <Time> 8:09PM</Time>
   </line>
   <line>
     <name>BXM1 - BXM18</name>
@@ -231,6 +238,17 @@
     <text>
                   &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
                   &lt;span class="DateStyle"&gt;
+                  &amp;nbsp;Posted:&amp;nbsp;02/26/2018&amp;nbsp; 8:09PM
+                  &lt;/span&gt;
+                  &lt;br/&gt;
+                  &lt;br/&gt;
+                &lt;P&gt;&lt;STRONG&gt;M101&lt;/STRONG&gt; southbound buses are bypassing the bus stop on Lexington Av between 54 St and 53 St because of construction.&lt;/P&gt;
+&lt;P&gt;Customer's could use the previous or the proceeding bus stops until further notice.&lt;/P&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
+                  &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                  &lt;span class="DateStyle"&gt;
                   &amp;nbsp;Posted:&amp;nbsp;02/26/2018&amp;nbsp; 8:05PM
                   &lt;/span&gt;
                   &lt;br/&gt;
@@ -242,17 +260,6 @@
 &lt;P&gt;*96 St and 5 Av bus stop will NOT be made. Customers may use the 96 St and Central Park West bus stop or use the &lt;STRONG&gt;M96&lt;/STRONG&gt; to Madison Av and 106 St and transfer to &lt;STRONG&gt;M106&lt;/STRONG&gt;. &lt;/P&gt;
 &lt;P&gt;*Madison Av between 98 St and 106 St bus stops will be made on 106 St between Madison Av and Park Av. &lt;/P&gt;
 &lt;P&gt;All corresponding stops will be made along the detoured route.&lt;/P&gt;
-              &lt;br/&gt;
-              &lt;br/&gt;
-            
-                  &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
-                  &lt;span class="DateStyle"&gt;
-                  &amp;nbsp;Posted:&amp;nbsp;02/26/2018&amp;nbsp; 7:40PM
-                  &lt;/span&gt;
-                  &lt;br/&gt;
-                  &lt;br/&gt;
-                &lt;P&gt;&lt;STRONG&gt;M101&lt;/STRONG&gt; southbound buses are bypassing the bus stop on Lexington Av between 54 St and 53 St because of construction.&lt;/P&gt;
-&lt;P&gt;Customer's could use the previous or the proceeding bus stops until further notice.&lt;/P&gt;
               &lt;br/&gt;
               &lt;br/&gt;
             
@@ -275,7 +282,7 @@
               &lt;br/&gt;
             </text>
     <Date>02/26/2018</Date>
-    <Time> 8:05PM</Time>
+    <Time> 8:09PM</Time>
   </line>
   <line>
     <name>Q1 - Q113</name>
@@ -506,17 +513,10 @@
 </LIRR><MetroNorth>
   <line>
     <name>Hudson</name>
-    <status>DELAYS</status>
-    <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;02/26/2018&amp;nbsp; 7:26PM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  Hudson Line customers traveling through the vicinity of University Heights may experience delays of 5 to 10 minutes due to speed restrictions resulting from fire department activity in the neighboring area. Please listen for announcements at your station.
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>02/26/2018</Date>
-    <Time> 7:26PM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>Harlem</name>
