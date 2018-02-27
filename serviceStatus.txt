@@ -1,31 +1,17 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>DELAYS</status>
-    <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;02/27/2018&amp;nbsp; 6:15AM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  [2] and [5] train service has resumed following an earlier incident involving a sick passenger at &lt;STRONG&gt;Gun Hill Rd.&lt;/STRONG&gt;
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>02/27/2018</Date>
-    <Time> 6:15AM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>456</name>
-    <status>DELAYS</status>
-    <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;02/27/2018&amp;nbsp; 6:15AM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  [2] and [5] train service has resumed following an earlier incident involving a sick passenger at &lt;STRONG&gt;Gun Hill Rd.&lt;/STRONG&gt;
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>02/27/2018</Date>
-    <Time> 6:15AM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>7</name>
@@ -37,7 +23,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>02/27/2018</Date>
-    <Time> 6:22AM</Time>
+    <Time> 6:30AM</Time>
   </line>
   <line>
     <name>ACE</name>
@@ -48,17 +34,10 @@
   </line>
   <line>
     <name>BDFM</name>
-    <status>DELAYS</status>
-    <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;02/27/2018&amp;nbsp; 6:01AM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  [M] train service has resumed following earlier signal problems at &lt;STRONG&gt;Fresh Pond Road.&lt;/STRONG&gt;
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>02/27/2018</Date>
-    <Time> 6:01AM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>G</name>
@@ -167,7 +146,7 @@
               &lt;br/&gt;
             </text>
     <Date>02/27/2018</Date>
-    <Time> 6:22AM</Time>
+    <Time> 6:30AM</Time>
   </line>
   <line>
     <name>BM1 - BM5</name>
@@ -180,7 +159,7 @@
               &lt;br/&gt;
             </text>
     <Date>02/27/2018</Date>
-    <Time> 6:22AM</Time>
+    <Time> 6:30AM</Time>
   </line>
   <line>
     <name>BX1 - BX55</name>
@@ -221,6 +200,18 @@
     <name>M1 - M116</name>
     <status>SERVICE CHANGE</status>
     <text>
+                  &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                  &lt;span class="DateStyle"&gt;
+                  &amp;nbsp;Posted:&amp;nbsp;02/27/2018&amp;nbsp; 6:30AM
+                  &lt;/span&gt;
+                  &lt;br/&gt;
+                  &lt;br/&gt;
+                &lt;P&gt;&lt;STRONG&gt;M15&lt;/STRONG&gt; and &lt;STRONG&gt;M15-SBS&lt;/STRONG&gt; buses are detoured because of NYPD activity at 2 Av and 2 St. &lt;/P&gt;
+&lt;P&gt;Detour is as follows: &lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;Southbound: &lt;/STRONG&gt;Via 2 Av, right on 14 St, left on 3 Av, left on Houston St and regular route.&lt;/P&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
                   &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
                   &lt;span class="DateStyle"&gt;
                   &amp;nbsp;Posted:&amp;nbsp;02/27/2018&amp;nbsp; 4:11AM
@@ -277,7 +268,7 @@
               &lt;br/&gt;
             </text>
     <Date>02/27/2018</Date>
-    <Time> 4:11AM</Time>
+    <Time> 6:30AM</Time>
   </line>
   <line>
     <name>Q1 - Q113</name>
@@ -302,7 +293,7 @@
               &lt;br/&gt;
             </text>
     <Date>02/27/2018</Date>
-    <Time> 6:22AM</Time>
+    <Time> 6:30AM</Time>
   </line>
   <line>
     <name>QM1 - QM44</name>
@@ -327,7 +318,7 @@
               &lt;br/&gt;
             </text>
     <Date>02/27/2018</Date>
-    <Time> 6:22AM</Time>
+    <Time> 6:30AM</Time>
   </line>
   <line>
     <name>S40 - S98</name>
