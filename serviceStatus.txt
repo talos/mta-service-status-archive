@@ -8,10 +8,17 @@
   </line>
   <line>
     <name>456</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>SERVICE CHANGE</status>
+    <text>
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;02/27/2018&amp;nbsp; 7:00PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  Southbound [6] trains are running express from &lt;STRONG&gt;Parkchester&lt;/STRONG&gt; to &lt;STRONG&gt;Hunts Point Av&lt;/STRONG&gt; because of an injured passenger at &lt;STRONG&gt;St Lawrence Av&lt;/STRONG&gt;.
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>02/27/2018</Date>
+    <Time> 7:00PM</Time>
   </line>
   <line>
     <name>7</name>
@@ -253,8 +260,18 @@
   </line>
   <line>
     <name>M1 - M116</name>
-    <status>SERVICE CHANGE</status>
+    <status>DELAYS</status>
     <text>
+                  &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                  &lt;span class="DateStyle"&gt;
+                  &amp;nbsp;Posted:&amp;nbsp;02/27/2018&amp;nbsp; 7:01PM
+                  &lt;/span&gt;
+                  &lt;br/&gt;
+                  &lt;br/&gt;
+                &lt;STRONG&gt;M50&lt;/STRONG&gt; bus service has resumed following the earlier FDNY activity on 50 St.
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
                   &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
                   &lt;span class="DateStyle"&gt;
                   &amp;nbsp;Posted:&amp;nbsp;02/27/2018&amp;nbsp; 6:57PM
@@ -319,18 +336,6 @@
               &lt;br/&gt;
               &lt;br/&gt;
             
-                  &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
-                  &lt;span class="DateStyle"&gt;
-                  &amp;nbsp;Posted:&amp;nbsp;02/27/2018&amp;nbsp; 6:02PM
-                  &lt;/span&gt;
-                  &lt;br/&gt;
-                  &lt;br/&gt;
-                &lt;P&gt;&lt;STRONG&gt;M50&lt;/STRONG&gt; buses are detoured because of FDNY activity on 50 St from 6 Av and 7 Av. &lt;/P&gt;
-&lt;P&gt;Detour is as follows:&lt;/P&gt;
-&lt;P&gt;&lt;STRONG&gt;Eastbound:&lt;/STRONG&gt; Via 50 St, right on 7 Av, left on 48 St, left on 6 Av, right on 50 St and regular route.&lt;/P&gt;
-              &lt;br/&gt;
-              &lt;br/&gt;
-            
                   &lt;span class="TitlePlannedWork" &gt;Planned Detour&lt;/span&gt;
                   &lt;br/&gt;
                 &lt;a class="plannedWorkDetailLink" onclick=ShowHide(181574);&gt;&lt;b&gt;M42 stop at Terminal Pier 83 temporarily closed&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 181574 class="plannedWorkDetail" &gt;&lt;/b&gt;Until further notice&lt;br&gt;&lt;br&gt;Due to construction, please use nearby stops&lt;b&gt; &lt;/b&gt;on &lt;b&gt;12 Av &lt;/b&gt;and &lt;b&gt;42 St&lt;/b&gt;.&lt;br&gt;&lt;b&gt;                              [TP]&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
@@ -350,7 +355,7 @@
               &lt;br/&gt;
             </text>
     <Date>02/27/2018</Date>
-    <Time> 6:57PM</Time>
+    <Time> 7:01PM</Time>
   </line>
   <line>
     <name>Q1 - Q113</name>
