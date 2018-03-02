@@ -1,10 +1,17 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>SERVICE CHANGE</status>
+    <text>
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;03/02/2018&amp;nbsp; 9:08AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  There is no [3] train service between &lt;STRONG&gt;135 St&lt;/STRONG&gt; and &lt;STRONG&gt;148 St-Harlem&lt;/STRONG&gt; in both directions because of switch problems at 145 St.
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>03/02/2018</Date>
+    <Time> 9:08AM</Time>
   </line>
   <line>
     <name>456</name>
@@ -697,24 +704,10 @@
 </LIRR><MetroNorth>
   <line>
     <name>Hudson</name>
-    <status>DELAYS</status>
-    <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;03/02/2018&amp;nbsp; 8:35AM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  Hudson Line service is currently experiencing delays of up to 10 minutes due to an earlier train with mechanical issues in Grand Central Terminal.  Please listen for announcements at your station.
-                &lt;br/&gt;&lt;br/&gt;
-              
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;03/02/2018&amp;nbsp; 8:11AM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  Hudson Line Customers: The 7:23 AM train departing from Grand Central Terminal is operating 12 minutes late due to earlier mechanical issues.  Please listen for announcements at your station.
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>03/02/2018</Date>
-    <Time> 8:35AM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>Harlem</name>
