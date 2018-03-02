@@ -1,17 +1,10 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>DELAYS</status>
-    <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;03/02/2018&amp;nbsp; 5:36PM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  [2] and [5] train service has resumed following an earlier investigation at &lt;STRONG&gt;West Frams Sq-E Tremont Av&lt;/STRONG&gt;.
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>03/02/2018</Date>
-    <Time> 5:36PM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>456</name>
@@ -23,34 +16,19 @@
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
                   Southbound [6] trains are running express from &lt;STRONG&gt;Pelham Bay Park&lt;/STRONG&gt; to &lt;STRONG&gt;Parkchester&lt;/STRONG&gt; because of a fallen tree on the platform at &lt;STRONG&gt;Middletown Rd&lt;/STRONG&gt;.
                 &lt;br/&gt;&lt;br/&gt;
-              
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;03/02/2018&amp;nbsp; 5:36PM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  [2] and [5] train service has resumed following an earlier investigation at &lt;STRONG&gt;West Frams Sq-E Tremont Av&lt;/STRONG&gt;.
-                &lt;br/&gt;&lt;br/&gt;
-              
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;03/02/2018&amp;nbsp; 5:30PM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  [5] train service has resumed following earlier severe weather conditions causing tree branches on the tracks.
-                &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>03/02/2018</Date>
     <Time> 5:47PM</Time>
   </line>
   <line>
     <name>7</name>
-    <status>SERVICE CHANGE</status>
+    <status>DELAYS</status>
     <text>
-                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;03/02/2018&amp;nbsp; 4:55PM
+                    &amp;nbsp;Posted:&amp;nbsp;03/02/2018&amp;nbsp; 5:52PM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  &lt;P&gt;Some Main St bound [7D] express trains are running local from &lt;STRONG&gt;74 St-Broadway&lt;/STRONG&gt; to &lt;STRONG&gt;Mets-Willets Point&lt;/STRONG&gt; because of signal problems at &lt;STRONG&gt;111 St&lt;/STRONG&gt;. &lt;/P&gt;
-&lt;P&gt;Expect delays in [7] and [7D] express train service. &lt;/P&gt;
+                  [7] and [7D] express train service has resumed following earlier signal problems at &lt;STRONG&gt;111 St&lt;/STRONG&gt;.
                 &lt;br/&gt;&lt;br/&gt;
               
                     &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
@@ -59,12 +37,19 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>03/02/2018</Date>
-    <Time> 4:55PM</Time>
+    <Time> 5:52PM</Time>
   </line>
   <line>
     <name>ACE</name>
-    <status>SERVICE CHANGE</status>
+    <status>DELAYS</status>
     <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;03/02/2018&amp;nbsp; 5:50PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  [A] and [C] train service has resumed following an earlier incident involving a train with mechanical problems at &lt;STRONG&gt;Jay St-MetroTech&lt;/STRONG&gt;.
+                &lt;br/&gt;&lt;br/&gt;
+              
                     &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
                     &amp;nbsp;Posted:&amp;nbsp;03/02/2018&amp;nbsp; 5:44PM
@@ -72,16 +57,9 @@
                   &lt;P&gt;Northbound [A] trains are running local from &lt;STRONG&gt;Euclid Av&lt;/STRONG&gt; to &lt;STRONG&gt;Broadway Junction&lt;/STRONG&gt; because of a sick passenger at &lt;STRONG&gt;Euclid Av&lt;/STRONG&gt;. &lt;/P&gt;
 &lt;P&gt;Expect delays in [A] and [C] train service. &lt;/P&gt;
                 &lt;br/&gt;&lt;br/&gt;
-              
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;03/02/2018&amp;nbsp; 5:41PM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  Southbound [A] and [C] trains are running with delays because of a train with mechanical problems at &lt;STRONG&gt;Jay St-MetroTech&lt;/STRONG&gt;.
-                &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>03/02/2018</Date>
-    <Time> 5:44PM</Time>
+    <Time> 5:50PM</Time>
   </line>
   <line>
     <name>BDFM</name>
@@ -389,16 +367,6 @@
     <text>
                   &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
                   &lt;span class="DateStyle"&gt;
-                  &amp;nbsp;Posted:&amp;nbsp;03/02/2018&amp;nbsp; 5:40PM
-                  &lt;/span&gt;
-                  &lt;br/&gt;
-                  &lt;br/&gt;
-                &lt;STRONG&gt;Q4&lt;/STRONG&gt; bus service has resumed following earlier NYPD activity at Linden Blvd.
-              &lt;br/&gt;
-              &lt;br/&gt;
-            
-                  &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
-                  &lt;span class="DateStyle"&gt;
                   &amp;nbsp;Posted:&amp;nbsp;03/02/2018&amp;nbsp; 4:43PM
                   &lt;/span&gt;
                   &lt;br/&gt;
@@ -615,7 +583,7 @@
               &lt;br/&gt;
             </text>
     <Date>03/02/2018</Date>
-    <Time> 5:40PM</Time>
+    <Time> 4:43PM</Time>
   </line>
   <line>
     <name>QM1 - QM44</name>
@@ -671,16 +639,6 @@
     <text>
                   &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
                   &lt;span class="DateStyle"&gt;
-                  &amp;nbsp;Posted:&amp;nbsp;03/02/2018&amp;nbsp; 5:41PM
-                  &lt;/span&gt;
-                  &lt;br/&gt;
-                  &lt;br/&gt;
-                &lt;STRONG&gt;S62&lt;/STRONG&gt; bus service has resumed following earlier FDNY activity at Victory Blvd and Morani St.
-              &lt;br/&gt;
-              &lt;br/&gt;
-            
-                  &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
-                  &lt;span class="DateStyle"&gt;
                   &amp;nbsp;Posted:&amp;nbsp;03/02/2018&amp;nbsp; 4:43PM
                   &lt;/span&gt;
                   &lt;br/&gt;
@@ -718,7 +676,7 @@
               &lt;br/&gt;
             </text>
     <Date>03/02/2018</Date>
-    <Time> 5:41PM</Time>
+    <Time> 4:43PM</Time>
   </line>
   <line>
     <name>x1 - x68</name>
@@ -981,23 +939,6 @@ We anticipate delays &amp; potential service disruptions due to high
 winds and downed trees. Please use caution &amp; make every effort to 
 leave extra time for travel. Please check mta.info for service related 
 changes.&lt;/strong&gt; &lt;/p&gt;&lt;/body&gt;&lt;/body&gt;
-                &lt;br/&gt;&lt;br/&gt;
-              
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;03/02/2018&amp;nbsp; 4:48PM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  &lt;b&gt;Eastbound:&lt;/b&gt;&lt;br&gt;&lt;br&gt;The 4:03PM train from Penn due Babylon at 5:05PM is cancelled due to a 
-fallen utility pole near Lynbrook Station. Customers will be 
-accommodated by the 4:12PM train from Penn due Massapequa Park at 
-5:10PM, which will be extended to Babylon.  Thank you for your patience. &lt;br&gt;&lt;br&gt;The 3:34PM train from Penn due Wantagh at 4:27PM is operating 16 minutes late due to a fallen utility pole near Lynbrook Station.&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;The 4:34PM train from Penn due Babylon at 5:39PM is cancelled due to a 
-fallen utility pole near Lynbrook Station. Customers will be 
-accommodated by the 4:37PM train from Penn due Wantagh at 5:27PM, which 
-will be extended to Babylon.  Thank you for your patience. &lt;br&gt;&lt;br&gt;The 4:57PM train from Penn due Wantagh at 5:42PM is cancelled due to a 
-fallen utility pole near Lynbrook Station as a result of today's 
-Nor'easter. Customers will be accommodated by the 5:03PM train from Penn
- due Freeport at 5:46PM, which will be extended to Wantagh.  Thank you 
-for your patience.         &lt;br&gt;&lt;br&gt;The 3:46PM train from Penn due Babylon at 4:53PM is operating 19 minutes late due to a fallen utility pole near Lynbrook Station&lt;br&gt;&lt;br&gt;&lt;b&gt;Westbound:&lt;/b&gt;&lt;br&gt;&lt;br&gt;The 3:42PM train from Babylon due Penn at 4:55PM is operating 20 minutes late due to a fallen utility pole near Lynbrook Station.&lt;br&gt;&lt;br&gt;The 4:06PM train from Babylon due Penn at 5:05PM is operating 13 minutes late due to a fallen utility pole near Lynbrook Station&lt;br&gt;&lt;br&gt;&lt;/div&gt;
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>03/02/2018</Date>
