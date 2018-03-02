@@ -505,13 +505,14 @@
     <text>
                     &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;03/02/2018&amp;nbsp; 6:19AM
+                    &amp;nbsp;Posted:&amp;nbsp;03/02/2018&amp;nbsp; 6:26AM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  The 5:43AM train from Freeport due Penn at 6:24AM is operating 10 minutes late due to signal trouble near Valley Stream.&lt;br&gt;
+                  &lt;div&gt;The 5:17AM train from Babylon due Atlantic Terminal at 6:32AM is 
+operating 10 minutes late due to signal trouble near Valley Stream.          &lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;The 5:43AM train from Freeport due Penn at 6:24AM is operating 10 minutes late due to signal trouble near Valley Stream.&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>03/02/2018</Date>
-    <Time> 6:19AM</Time>
+    <Time> 6:26AM</Time>
   </line>
   <line>
     <name>City Terminal Zone</name>
@@ -557,10 +558,17 @@
   </line>
   <line>
     <name>Port Jefferson</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>DELAYS</status>
+    <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;03/02/2018&amp;nbsp; 6:27AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;font face="sans-serif" size="2"&gt;The 5:27AM train from Huntington due Penn at 6:35AM is operating 11 minutes late due to a train ahead with equipment trouble.&lt;/font&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>03/02/2018</Date>
+    <Time> 6:27AM</Time>
   </line>
   <line>
     <name>Port Washington</name>
