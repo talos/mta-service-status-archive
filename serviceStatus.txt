@@ -1,17 +1,10 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>DELAYS</status>
-    <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;03/02/2018&amp;nbsp; 3:35PM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  [2] and [3] train service has resumed following an earlier incident involving an unruly passenger at &lt;STRONG&gt;14 St&lt;/STRONG&gt;.
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>03/02/2018</Date>
-    <Time> 3:35PM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>456</name>
@@ -234,6 +227,18 @@
     <text>
                   &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
                   &lt;span class="DateStyle"&gt;
+                  &amp;nbsp;Posted:&amp;nbsp;03/02/2018&amp;nbsp; 3:50PM
+                  &lt;/span&gt;
+                  &lt;br/&gt;
+                  &lt;br/&gt;
+                &lt;P&gt;&lt;STRONG&gt;Northbound BX31&lt;/STRONG&gt; buses are detoured because of downed power lines on Eastchester Av between Gun Hill Rd and Boston Rd. &lt;/P&gt;
+&lt;P&gt;Detour is as follows: &lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;Northbound:&lt;/STRONG&gt; Via Eastchester Rd, left on Gun Hill Rd, right on Boston Rd, left on Eastchester Rd and Regular route. &lt;/P&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
+                  &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                  &lt;span class="DateStyle"&gt;
                   &amp;nbsp;Posted:&amp;nbsp;03/02/2018&amp;nbsp; 3:02PM
                   &lt;/span&gt;
                   &lt;br/&gt;
@@ -271,7 +276,7 @@
               &lt;br/&gt;
             </text>
     <Date>03/02/2018</Date>
-    <Time> 3:02PM</Time>
+    <Time> 3:50PM</Time>
   </line>
   <line>
     <name>BXM1 - BXM18</name>
@@ -327,6 +332,21 @@
     <name>Q1 - Q113</name>
     <status>SERVICE CHANGE</status>
     <text>
+                  &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                  &lt;span class="DateStyle"&gt;
+                  &amp;nbsp;Posted:&amp;nbsp;03/02/2018&amp;nbsp; 3:52PM
+                  &lt;/span&gt;
+                  &lt;br/&gt;
+                  &lt;br/&gt;
+                &lt;P&gt;&lt;STRONG&gt;Q28&lt;/STRONG&gt; and &lt;STRONG&gt;Q31&lt;/STRONG&gt; buses are detoured in both directions because of a downed tree at 32 Av and Francis Lewis Blvd. &lt;/P&gt;
+&lt;P&gt;Detour is as follows: &lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;Q28 Flushing Bound&lt;/STRONG&gt;: Via Corporal Kennedy St, right on 26 Av, left on Utopia Pkwy, left on Francis Lewis Blvd and regular route.&lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;Q28 Bay Terrace Bound&lt;/STRONG&gt;: Via Francis Lewis Blvd, right on Utopia Pkwy, right on 26 Av, left on Corporal Kennedy St and regular route. &lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;Q31 Bayside Bound&lt;/STRONG&gt;: Via 35 Av, right on Francis Lewis Blvd and regular route. &lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;Q31 Jamaica Bound&lt;/STRONG&gt;: Via Utopia Pkwy, left on Francis Lewis Blvd, left on 35 Av and regular route. &lt;/P&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
                   &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
                   &lt;span class="DateStyle"&gt;
                   &amp;nbsp;Posted:&amp;nbsp;03/02/2018&amp;nbsp; 3:44PM
@@ -535,7 +555,7 @@
               &lt;br/&gt;
             </text>
     <Date>03/02/2018</Date>
-    <Time> 3:44PM</Time>
+    <Time> 3:52PM</Time>
   </line>
   <line>
     <name>QM1 - QM44</name>
@@ -951,6 +971,15 @@
                     &amp;nbsp;Posted:&amp;nbsp;03/02/2018&amp;nbsp; 3:45PM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
                   &lt;strong&gt;The LIRR is experiencing system-wide delays averaging 15-20 minutes due to weather-related problems caused by today's Nor'easter.&lt;/strong&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;03/02/2018&amp;nbsp; 3:50PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  The 3:11PM train from Hempstead due Atlantic Terminal at 4:03PM is 
+operating 34 minutes late due to weather-related problems.  We apologize
+ for the inconvenience.  
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>03/02/2018</Date>
