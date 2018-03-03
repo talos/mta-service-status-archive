@@ -1,13 +1,14 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>DELAYS</status>
+    <status>SERVICE CHANGE</status>
     <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;03/03/2018&amp;nbsp;10:18AM
+                    &amp;nbsp;Posted:&amp;nbsp;03/03/2018&amp;nbsp;10:27AM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  Southbound [2] trains are running with delays because of a tree on the tracks at &lt;STRONG&gt;Baychester Av.&lt;/STRONG&gt;
+                  &lt;P&gt;There is no [2] train service in both directions between Eastchester-Dyre Av and E 180 St because of a tree on the tracks at Baychester Av.&lt;/P&gt;
+&lt;P&gt;As an alternative, customers can take &lt;STRONG&gt;Bx12, Bx12-SBS, Bx16, Bx28 &lt;/STRONG&gt;or&lt;STRONG&gt; BX30&lt;/STRONG&gt; buses making nearby station stops.&lt;/P&gt;
                 &lt;br/&gt;&lt;br/&gt;
               
                     &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
@@ -31,7 +32,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>03/03/2018</Date>
-    <Time>10:18AM</Time>
+    <Time>10:27AM</Time>
   </line>
   <line>
     <name>456</name>
