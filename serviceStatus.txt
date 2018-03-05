@@ -8,20 +8,17 @@
   </line>
   <line>
     <name>456</name>
-    <status>SERVICE CHANGE</status>
+    <status>DELAYS</status>
     <text>
-                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;03/05/2018&amp;nbsp; 7:53AM
+                    &amp;nbsp;Posted:&amp;nbsp;03/05/2018&amp;nbsp; 8:02AM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  &lt;P&gt;Northbound [4] trains are running with delays.&lt;/P&gt;
-&lt;P&gt;Some northbound [5] trains are stopping along the [2] line from &lt;STRONG&gt;Nevins St&lt;/STRONG&gt; to &lt;STRONG&gt;149 St-Grand Concourse&lt;/STRONG&gt;.&lt;/P&gt;
-&lt;P&gt;These service changes are because of signal problems at &lt;STRONG&gt;59 St&lt;/STRONG&gt;.&lt;/P&gt;
-&lt;P&gt;Expect delays in [2], [3], [4] and [5] train service in both directions.&lt;/P&gt;
+                  [4] and [5] train service has resumed following earlier signal problems at &lt;STRONG&gt;59 St&lt;/STRONG&gt;.
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>03/05/2018</Date>
-    <Time> 7:53AM</Time>
+    <Time> 8:02AM</Time>
   </line>
   <line>
     <name>7</name>
@@ -73,17 +70,10 @@
   </line>
   <line>
     <name>JZ</name>
-    <status>DELAYS</status>
-    <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;03/05/2018&amp;nbsp; 7:40AM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  [J] train service has resumed following earlier incident involving a train with mechanical problems at &lt;STRONG&gt;Crescent St&lt;/STRONG&gt;.
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>03/05/2018</Date>
-    <Time> 7:40AM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>L</name>
@@ -116,8 +106,20 @@
 </subway><bus>
   <line>
     <name>B1 - B84</name>
-    <status>PLANNED WORK</status>
+    <status>SERVICE CHANGE</status>
     <text>
+                  &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                  &lt;span class="DateStyle"&gt;
+                  &amp;nbsp;Posted:&amp;nbsp;03/05/2018&amp;nbsp; 8:00AM
+                  &lt;/span&gt;
+                  &lt;br/&gt;
+                  &lt;br/&gt;
+                &lt;P&gt;&lt;STRONG&gt;B82&lt;/STRONG&gt; buses are detoured because of construction on W 17 between Neptune Av and Mermaid Av.&lt;/P&gt;
+&lt;P&gt;Detour is as follows:&lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;B82 Stillwell Terminal bound:&lt;/STRONG&gt; Via Cropsey Av, left on Neptune Av, right on W 16 St, left on Mermaid Av and end.&lt;/P&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
                   &lt;span class="TitlePlannedWork" &gt;Planned Detour&lt;/span&gt;
                   &lt;br/&gt;
                 &lt;a class="plannedWorkDetailLink" onclick=ShowHide(182042);&gt;&lt;b&gt;B82 &lt;/b&gt;- &lt;b&gt;Westbound stop on Flatlands Av at Ralph Av temporarily closed&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 182042 class="plannedWorkDetail" &gt;&lt;/b&gt;Until 4 PM, Friday, Mar 9&lt;br&gt;&lt;br&gt;Due to construction, please use the nearby temporary stop&lt;b&gt; on Flatlands Av &lt;/b&gt;between Paerdegat Av S and E 59 St.&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
@@ -161,7 +163,7 @@
               &lt;br/&gt;
             </text>
     <Date>03/05/2018</Date>
-    <Time> 7:52AM</Time>
+    <Time> 8:00AM</Time>
   </line>
   <line>
     <name>B100 - B103</name>
