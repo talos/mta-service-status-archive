@@ -1,10 +1,17 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>DELAYS</status>
+    <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;03/05/2018&amp;nbsp; 9:34AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  Northbound [1] trains are running with delays because of signal problems at &lt;STRONG&gt;18 St.&lt;/STRONG&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>03/05/2018</Date>
+    <Time> 9:34AM</Time>
   </line>
   <line>
     <name>456</name>
@@ -12,13 +19,13 @@
     <text>
                     &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;03/05/2018&amp;nbsp; 9:26AM
+                    &amp;nbsp;Posted:&amp;nbsp;03/05/2018&amp;nbsp; 9:33AM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  Northbound [4] and [5] trains are running with delays because of a customer in need of medical assistance at &lt;STRONG&gt;Bowling Green.&lt;/STRONG&gt;
+                  [4] and [5] train service has resumed following an earlier incident involving a customer in need of medical assistance at &lt;STRONG&gt;Bowling Green.&lt;/STRONG&gt;
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>03/05/2018</Date>
-    <Time> 9:26AM</Time>
+    <Time> 9:33AM</Time>
   </line>
   <line>
     <name>7</name>
@@ -30,7 +37,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>03/05/2018</Date>
-    <Time> 9:30AM</Time>
+    <Time> 9:33AM</Time>
   </line>
   <line>
     <name>ACE</name>
@@ -117,7 +124,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>03/05/2018</Date>
-    <Time> 9:30AM</Time>
+    <Time> 9:33AM</Time>
   </line>
 </subway><bus>
   <line>
@@ -222,7 +229,7 @@
               &lt;br/&gt;
             </text>
     <Date>03/05/2018</Date>
-    <Time> 9:30AM</Time>
+    <Time> 9:33AM</Time>
   </line>
   <line>
     <name>BXM1 - BXM18</name>
@@ -248,7 +255,7 @@
               &lt;br/&gt;
             </text>
     <Date>03/05/2018</Date>
-    <Time> 9:30AM</Time>
+    <Time> 9:33AM</Time>
   </line>
   <line>
     <name>Q1 - Q113</name>
@@ -322,7 +329,7 @@
               &lt;br/&gt;
             </text>
     <Date>03/05/2018</Date>
-    <Time> 9:30AM</Time>
+    <Time> 9:33AM</Time>
   </line>
   <line>
     <name>S40 - S98</name>
@@ -342,7 +349,7 @@
               &lt;br/&gt;
             </text>
     <Date>03/05/2018</Date>
-    <Time> 9:30AM</Time>
+    <Time> 9:33AM</Time>
   </line>
 </bus><BT>
   <line>
