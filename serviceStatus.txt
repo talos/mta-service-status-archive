@@ -1,17 +1,10 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>DELAYS</status>
-    <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;03/07/2018&amp;nbsp; 3:17PM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  [2] and [3] train service has resumed following earlier FDNY activity at &lt;STRONG&gt;Clark St&lt;/STRONG&gt;.
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>03/07/2018</Date>
-    <Time> 3:17PM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>456</name>
@@ -94,20 +87,13 @@
     <text>
                     &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;03/07/2018&amp;nbsp; 3:19PM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  [N] train service has resumed following an earlier incident involving a sick passenger at &lt;STRONG&gt;Coney Island-Stillwell Av&lt;/STRONG&gt;.
-                &lt;br/&gt;&lt;br/&gt;
-              
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
                     &amp;nbsp;Posted:&amp;nbsp;03/07/2018&amp;nbsp; 2:37PM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
                   Southbound [N], [R] and [W] trains are running with delays because of signal problems at &lt;STRONG&gt;34 St-Herald Sq&lt;/STRONG&gt;.
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>03/07/2018</Date>
-    <Time> 3:19PM</Time>
+    <Time> 2:37PM</Time>
   </line>
   <line>
     <name>S</name>
