@@ -548,17 +548,10 @@
   </line>
   <line>
     <name>Port Washington</name>
-    <status>DELAYS</status>
-    <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;03/06/2018&amp;nbsp; 8:14PM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  The 7:39PM train from Port Washington due Penn at 8:22PM is operating 13 minutes late due to congestion due to a late-arriving eastbound train in single-track train.
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>03/06/2018</Date>
-    <Time> 8:14PM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>Ronkonkoma</name>
@@ -640,8 +633,15 @@
   </line>
   <line>
     <name>Port Jervis</name>
-    <status>SERVICE CHANGE</status>
+    <status>DELAYS</status>
     <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;03/06/2018&amp;nbsp; 8:35PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  MBPJ train #0065, the 8:37pm from Suffern is up to 12 min. late due to earlier mechanical problems. &lt;br&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              
                     &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
                     &amp;nbsp;Posted:&amp;nbsp;03/06/2018&amp;nbsp; 5:09PM
@@ -650,7 +650,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>03/06/2018</Date>
-    <Time> 5:09PM</Time>
+    <Time> 8:35PM</Time>
   </line>
 </MetroNorth></service>
 
