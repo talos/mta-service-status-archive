@@ -1,10 +1,20 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>SERVICE CHANGE</status>
+    <text>
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;03/07/2018&amp;nbsp; 2:51PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;P&gt;[2] trains are stopping along the [5] line between &lt;STRONG&gt;Nevins St&lt;/STRONG&gt; and &lt;STRONG&gt;149 St-Grand Concourse&lt;/STRONG&gt; in both directions. &lt;/P&gt;
+&lt;P&gt;Some northbound [3] trains will end at &lt;STRONG&gt;Crown Hts-Utica Av&lt;/STRONG&gt;. &lt;/P&gt;
+&lt;P&gt;Some southbound [3] trains are stopping along the [1] line from &lt;STRONG&gt;Chambers St &lt;/STRONG&gt;and end at &lt;STRONG&gt;South Ferry&lt;/STRONG&gt;.&lt;/P&gt;
+&lt;P&gt;These service changes are because of FDNY activity at&lt;STRONG&gt; Clark St&lt;/STRONG&gt;. &lt;/P&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>03/07/2018</Date>
+    <Time> 2:51PM</Time>
   </line>
   <line>
     <name>456</name>
@@ -729,8 +739,15 @@
   </line>
   <line>
     <name>Montauk</name>
-    <status>SERVICE CHANGE</status>
+    <status>DELAYS</status>
     <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;03/07/2018&amp;nbsp; 2:51PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  The 2:30PM train from Patchogue due Jamaica at 3:36PM is operating 15 minutes late after being held prior to departure due to equipment trouble.
+                &lt;br/&gt;&lt;br/&gt;
+              
                     &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
                     &amp;nbsp;Posted:&amp;nbsp;03/07/2018&amp;nbsp; 7:00AM
@@ -763,7 +780,7 @@ to 1 hour and 5 minutes later than usual train times. &lt;br&gt;&lt;/span&gt;&lt
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>03/07/2018</Date>
-    <Time> 7:00AM</Time>
+    <Time> 2:51PM</Time>
   </line>
   <line>
     <name>Oyster Bay</name>
