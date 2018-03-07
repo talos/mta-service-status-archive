@@ -814,10 +814,17 @@ to 1 hour and 5 minutes later than usual train times. &lt;br&gt;&lt;/span&gt;&lt
   </line>
   <line>
     <name>Oyster Bay</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>DELAYS</status>
+    <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;03/07/2018&amp;nbsp; 4:19PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;p&gt;&lt;strong&gt;The LIRR is experiencing scattered system-wide delays averaging 10-15 minutes due to the winter storm.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The 3:50PM train from Jamaica due Oyster Bay at 4:47PM is operating 15 minutes late due to winter storm conditions.           &lt;/p&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>03/07/2018</Date>
+    <Time> 4:19PM</Time>
   </line>
   <line>
     <name>Port Jefferson</name>
@@ -965,8 +972,15 @@ territory.         
   </line>
   <line>
     <name>Waterbury</name>
-    <status>SERVICE CHANGE</status>
+    <status>DELAYS</status>
     <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;03/07/2018&amp;nbsp; 4:18PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  Waterbury Branch Line Service is currently experiencing delays of 5 to 10 minutes due to a downed tree in the vicinity of Seymour.  Please listen for announcements at your station.
+                &lt;br/&gt;&lt;br/&gt;
+              
                     &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
                     &amp;nbsp;Posted:&amp;nbsp;03/07/2018&amp;nbsp; 3:59PM
@@ -982,7 +996,7 @@ territory.         
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>03/07/2018</Date>
-    <Time> 3:59PM</Time>
+    <Time> 4:18PM</Time>
   </line>
   <line>
     <name>Pascack Valley</name>
