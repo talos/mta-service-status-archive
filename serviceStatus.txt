@@ -1,8 +1,15 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>SERVICE CHANGE</status>
+    <status>DELAYS</status>
     <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;03/07/2018&amp;nbsp; 4:51PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  [2] and [3] train service has resumed following an earlier NYPD investigation at &lt;STRONG&gt;135 St&lt;/STRONG&gt;.
+                &lt;br/&gt;&lt;br/&gt;
+              
                     &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
                     &amp;nbsp;Posted:&amp;nbsp;03/07/2018&amp;nbsp; 4:49PM
@@ -10,16 +17,9 @@
                   &lt;P&gt;Southbound [2] and [3] trains are running local from &lt;STRONG&gt;96 St&lt;/STRONG&gt; to&lt;STRONG&gt; 72 St&lt;/STRONG&gt; because of FDNY activity at &lt;STRONG&gt;96 St&lt;/STRONG&gt;.&lt;/P&gt;
 &lt;P&gt;Expect delays in [1], [2] and [3] train service. &lt;/P&gt;
                 &lt;br/&gt;&lt;br/&gt;
-              
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;03/07/2018&amp;nbsp; 4:34PM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  Northbound [2] and [3] trains are running with delays because of an NYPD investigation at &lt;STRONG&gt;135 St&lt;/STRONG&gt;.
-                &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>03/07/2018</Date>
-    <Time> 4:49PM</Time>
+    <Time> 4:51PM</Time>
   </line>
   <line>
     <name>456</name>
@@ -837,23 +837,27 @@ to 1 hour and 5 minutes later than usual train times. &lt;br&gt;&lt;/span&gt;&lt
     <text>
                     &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;03/07/2018&amp;nbsp; 4:45PM
+                    &amp;nbsp;Posted:&amp;nbsp;03/07/2018&amp;nbsp; 4:50PM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  &lt;div&gt;&lt;b&gt;The LIRR is experiencing scattered system-wide delays averaging 10-15 minutes due to the winter storm.&lt;/b&gt;&lt;/div&gt;
-&lt;div&gt;&lt;b&gt;&lt;u&gt;&lt;br&gt;&lt;/u&gt;&lt;/b&gt;&lt;/div&gt;
-&lt;div&gt;&lt;b&gt;&lt;u&gt;Eastbound:&lt;/u&gt;&lt;/b&gt;&lt;/div&gt;
-&lt;div&gt;&lt;br&gt;&lt;/div&gt;
-&lt;p&gt;&lt;span style="color: rgb(0, 0, 0); text-transform: none; text-indent: 0px; letter-spacing: normal; font-family: Arial, Helvetica; font-size: medium; font-style: normal; font-weight: 400; word-spacing: 0px; float: none; display: inline !important; white-space: normal; orphans: 2; widows: 2; background-color: rgb(255, 255, 255); font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial;"&gt;&lt;font size="2"&gt;The 3:24PM train from Long Island City due Port Jefferson at 5:26PM is operating 11 minutes late due to winter storm conditions.&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;The 3:24PM train from Penn due Hicksville at 4:05PM is operating 11 minutes late due to an earlier equipment problem in Jamaica.        &lt;/p&gt;&lt;p&gt;The 3:43PM train from Penn due Huntington at 4:49PM is operating 15 minutes late due to weather-related signal trouble.
-        &lt;/p&gt;&lt;p&gt;The 4:06PM train from Huntington due Port Jefferson at 4:53PM is operating 26 minutes late due to weather-related signal trouble.&lt;/p&gt;
-&lt;div&gt;&lt;br&gt;&lt;/div&gt;
-&lt;div&gt;&lt;b&gt;&lt;u&gt;Westbound:&lt;/u&gt;&lt;/b&gt;&lt;/div&gt;
-&lt;div&gt;&lt;br&gt;
-&lt;div&gt;The 3:34PM train from Huntington due Penn at 4:41PM is operating 15 minutes late due to winter storm conditions.  &lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;The 4:05PM train from Huntington due Penn at 5:14PM is operating 12 minutes late due to weather-related signal trouble.&lt;/div&gt;&lt;/div&gt;
+                  &lt;DIV&gt;&lt;B&gt;The LIRR is experiencing scattered system-wide delays averaging 10-15 minutes due to the winter storm.&lt;/B&gt;&lt;/DIV&gt;
+&lt;DIV&gt;&lt;B&gt;&lt;U&gt;&lt;BR&gt;&lt;/U&gt;&lt;/B&gt;&lt;/DIV&gt;
+&lt;DIV&gt;&lt;B&gt;&lt;U&gt;Eastbound:&lt;/U&gt;&lt;/B&gt;&lt;/DIV&gt;
+&lt;DIV&gt;&lt;BR&gt;&lt;/DIV&gt;
+&lt;P&gt;&lt;SPAN style="FONT-SIZE: medium; FONT-FAMILY: Arial, Helvetica; WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; FLOAT: none; FONT-WEIGHT: 400; COLOR: rgb(0,0,0); FONT-STYLE: normal; ORPHANS: 2; WIDOWS: 2; DISPLAY: inline !important; LETTER-SPACING: normal; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial"&gt;&lt;BR class=Apple-interchange-newline&gt;&lt;SPAN style="FONT-SIZE: medium; FONT-FAMILY: Arial, Helvetica; WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; FLOAT: none; FONT-WEIGHT: 400; COLOR: rgb(0,0,0); FONT-STYLE: normal; ORPHANS: 2; WIDOWS: 2; DISPLAY: inline !important; LETTER-SPACING: normal; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial"&gt;&lt;FONT size=2&gt;The 4:06PM train from Huntington due Port Jefferson at 4:53PM is operating 26 minutes late due to weather-related signal trouble.&lt;/FONT&gt;&lt;/SPAN&gt;&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P&gt;&lt;SPAN style="FONT-SIZE: medium; FONT-FAMILY: Arial, Helvetica; WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; FLOAT: none; FONT-WEIGHT: 400; COLOR: rgb(0,0,0); FONT-STYLE: normal; ORPHANS: 2; WIDOWS: 2; DISPLAY: inline !important; LETTER-SPACING: normal; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial"&gt;&lt;FONT size=2&gt;The 3:24PM train from Long Island City due Port Jefferson at 5:26PM is operating 11 minutes late due to winter storm conditions.&lt;/FONT&gt;&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P&gt;The 3:24PM train from Penn due Hicksville at 4:05PM is operating 11 minutes late due to an earlier equipment problem in Jamaica.        &lt;/P&gt;
+&lt;P&gt;The 3:43PM train from Penn due Huntington at 4:49PM is operating 15 minutes late due to weather-related signal trouble.         &lt;/P&gt;
+&lt;P&gt;The 4:06PM train from Huntington due Port Jefferson at 4:53PM is operating 26 minutes late due to weather-related signal trouble.&lt;/P&gt;
+&lt;DIV&gt;&lt;BR&gt;&lt;/DIV&gt;
+&lt;DIV&gt;&lt;B&gt;&lt;U&gt;Westbound:&lt;/U&gt;&lt;/B&gt;&lt;/DIV&gt;
+&lt;DIV&gt;&lt;BR&gt;
+&lt;DIV&gt;The 3:34PM train from Huntington due Penn at 4:41PM is operating 15 minutes late due to winter storm conditions.  &lt;/DIV&gt;
+&lt;DIV&gt;&lt;BR&gt;&lt;/DIV&gt;
+&lt;DIV&gt;The 4:05PM train from Huntington due Penn at 5:14PM is operating 12 minutes late due to weather-related signal trouble.&lt;/DIV&gt;&lt;/DIV&gt;
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>03/07/2018</Date>
-    <Time> 4:45PM</Time>
+    <Time> 4:50PM</Time>
   </line>
   <line>
     <name>Port Washington</name>
@@ -876,10 +880,17 @@ to 1 hour and 5 minutes later than usual train times. &lt;br&gt;&lt;/span&gt;&lt
   </line>
   <line>
     <name>Ronkonkoma</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>DELAYS</status>
+    <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;03/07/2018&amp;nbsp; 4:51PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;SPAN style="FONT-SIZE: medium; FONT-FAMILY: Arial, Helvetica; WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; FLOAT: none; FONT-WEIGHT: 400; COLOR: rgb(0,0,0); FONT-STYLE: normal; ORPHANS: 2; WIDOWS: 2; DISPLAY: inline !important; LETTER-SPACING: normal; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial"&gt;&lt;FONT size=2&gt;The 4:11PM train from Ronkonkoma due Penn at 5:38PM is delayed at Deer Park due to weather-related signal trouble.&lt;/FONT&gt;&lt;/SPAN&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>03/07/2018</Date>
+    <Time> 4:51PM</Time>
   </line>
   <line>
     <name>West Hempstead</name>
