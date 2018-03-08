@@ -112,13 +112,6 @@
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
                   Southbound [E] and [F] trains are running with delays because of signal problems at &lt;STRONG&gt;65 St&lt;/STRONG&gt;.
                 &lt;br/&gt;&lt;br/&gt;
-              
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;03/07/2018&amp;nbsp; 8:09PM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  [J] and [M] trains are running at slower speeds in both directions because of poor visibility caused by current weather conditions.
-                &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>03/07/2018</Date>
     <Time> 9:12PM</Time>
@@ -132,17 +125,10 @@
   </line>
   <line>
     <name>JZ</name>
-    <status>DELAYS</status>
-    <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;03/07/2018&amp;nbsp; 8:09PM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  [J] and [M] trains are running at slower speeds in both directions because of poor visibility caused by current weather conditions.
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>03/07/2018</Date>
-    <Time> 8:09PM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>L</name>
@@ -959,10 +945,17 @@
   </line>
   <line>
     <name>Port Washington</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>DELAYS</status>
+    <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;03/07/2018&amp;nbsp; 9:48PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  The 9:18PM train from Penn due Port Washington at 10:04PM is operating 14 minutes late due to a train ahead with equipment trouble.
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>03/07/2018</Date>
+    <Time> 9:48PM</Time>
   </line>
   <line>
     <name>Ronkonkoma</name>
