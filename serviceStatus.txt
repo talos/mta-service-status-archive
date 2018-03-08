@@ -1,10 +1,17 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>SERVICE CHANGE</status>
+    <text>
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;03/08/2018&amp;nbsp; 6:26PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  Southbound [1] trains are running express from &lt;STRONG&gt;145 St &lt;/STRONG&gt;to 96 St because of a sick passenger at &lt;STRONG&gt;137 St-City College&lt;/STRONG&gt;.
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>03/08/2018</Date>
+    <Time> 6:26PM</Time>
   </line>
   <line>
     <name>456</name>
@@ -420,8 +427,21 @@
   </line>
   <line>
     <name>S40 - S98</name>
-    <status>DELAYS</status>
+    <status>SERVICE CHANGE</status>
     <text>
+                  &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                  &lt;span class="DateStyle"&gt;
+                  &amp;nbsp;Posted:&amp;nbsp;03/08/2018&amp;nbsp; 6:24PM
+                  &lt;/span&gt;
+                  &lt;br/&gt;
+                  &lt;br/&gt;
+                &lt;P&gt;&lt;STRONG&gt;S44&lt;/STRONG&gt; buses are detoured in both directions because of a downed tree on Henderson Av at Bard Av. &lt;/P&gt;
+&lt;P&gt;Detour is as follows: &lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;S44 Ferry Bound&lt;/STRONG&gt;: via Bement Av, left on Henderson Av, right on Broadway, right on Richmond Terr and regular route. &lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;S44 Kmart Bound:&lt;/STRONG&gt; Via Richmond Terr, left on Broadway, left on Henderson Av, right on Bement Av and regular route. &lt;/P&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
                   &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                   &lt;span class="DateStyle"&gt;
                   &amp;nbsp;Posted:&amp;nbsp;03/08/2018&amp;nbsp; 6:16PM
@@ -429,16 +449,6 @@
                   &lt;br/&gt;
                   &lt;br/&gt;
                 &lt;STRONG&gt;S61&lt;/STRONG&gt; and&lt;STRONG&gt; S62&lt;/STRONG&gt; bus service has resumed following earlier hazardous road conditions on Victory Blvd.
-              &lt;br/&gt;
-              &lt;br/&gt;
-            
-                  &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                  &lt;span class="DateStyle"&gt;
-                  &amp;nbsp;Posted:&amp;nbsp;03/08/2018&amp;nbsp; 6:11PM
-                  &lt;/span&gt;
-                  &lt;br/&gt;
-                  &lt;br/&gt;
-                &lt;STRONG&gt;S66 &lt;/STRONG&gt;bus service has resumed following earlier hazardous road conditions on Howard Av.
               &lt;br/&gt;
               &lt;br/&gt;
             
@@ -484,7 +494,7 @@
               &lt;br/&gt;
             </text>
     <Date>03/08/2018</Date>
-    <Time> 6:16PM</Time>
+    <Time> 6:24PM</Time>
   </line>
   <line>
     <name>x1 - x68</name>
