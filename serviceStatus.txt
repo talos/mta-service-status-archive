@@ -1,15 +1,29 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>DELAYS</status>
+    <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;03/07/2018&amp;nbsp;10:40PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  Southbound [2] and [5] trains are running with delays because of NYPD activity at &lt;STRONG&gt;149 St-Grand Concourse&lt;/STRONG&gt;.
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>03/07/2018</Date>
+    <Time>10:40PM</Time>
   </line>
   <line>
     <name>456</name>
-    <status>SERVICE CHANGE</status>
+    <status>DELAYS</status>
     <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;03/07/2018&amp;nbsp;10:40PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  Southbound [2] and [5] trains are running with delays because of NYPD activity at &lt;STRONG&gt;149 St-Grand Concourse&lt;/STRONG&gt;.
+                &lt;br/&gt;&lt;br/&gt;
+              
                     &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
                     &amp;nbsp;Posted:&amp;nbsp;03/07/2018&amp;nbsp;10:36PM
@@ -18,7 +32,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>03/07/2018</Date>
-    <Time>10:36PM</Time>
+    <Time>10:40PM</Time>
   </line>
   <line>
     <name>7</name>
