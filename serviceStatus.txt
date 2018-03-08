@@ -1,10 +1,17 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>DELAYS</status>
+    <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;03/07/2018&amp;nbsp; 9:44PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  [2] and [3] train service has resumed following earlier track maintenance at &lt;STRONG&gt;96 St&lt;/STRONG&gt;.
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>03/07/2018</Date>
+    <Time> 9:44PM</Time>
   </line>
   <line>
     <name>456</name>
@@ -34,13 +41,6 @@
     <text>
                     &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;03/07/2018&amp;nbsp; 8:08PM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  [7] trains are running at slower speeds in both directions because of poor visibility caused by current weather conditions.
-                &lt;br/&gt;&lt;br/&gt;
-              
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
                     &amp;nbsp;Posted:&amp;nbsp;03/07/2018&amp;nbsp; 8:06PM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
                   Main St bound [7] trains are running with delays because of signal problems at &lt;STRONG&gt;Queensboro Plaza&lt;/STRONG&gt;.
@@ -52,7 +52,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>03/07/2018</Date>
-    <Time> 8:08PM</Time>
+    <Time> 8:06PM</Time>
   </line>
   <line>
     <name>ACE</name>
