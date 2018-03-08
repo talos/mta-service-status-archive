@@ -1,29 +1,15 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>DELAYS</status>
-    <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;03/07/2018&amp;nbsp; 9:44PM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  [2] and [3] train service has resumed following earlier track maintenance at &lt;STRONG&gt;96 St&lt;/STRONG&gt;.
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>03/07/2018</Date>
-    <Time> 9:44PM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>456</name>
-    <status>DELAYS</status>
+    <status>SERVICE CHANGE</status>
     <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;03/07/2018&amp;nbsp; 9:45PM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  [4] and [5] train service has resumed following earlier FDNY activity at&lt;STRONG&gt; Grand Central-42 St&lt;/STRONG&gt;.
-                &lt;br/&gt;&lt;br/&gt;
-              
                     &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
                     &amp;nbsp;Posted:&amp;nbsp;03/07/2018&amp;nbsp; 8:54PM
@@ -32,7 +18,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>03/07/2018</Date>
-    <Time> 9:45PM</Time>
+    <Time> 8:54PM</Time>
   </line>
   <line>
     <name>7</name>
@@ -252,16 +238,6 @@
     <text>
                   &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                   &lt;span class="DateStyle"&gt;
-                  &amp;nbsp;Posted:&amp;nbsp;03/07/2018&amp;nbsp; 9:47PM
-                  &lt;/span&gt;
-                  &lt;br/&gt;
-                  &lt;br/&gt;
-                &lt;STRONG&gt;B103-Ltd&lt;/STRONG&gt; and &lt;STRONG&gt;BM2&lt;/STRONG&gt; bus service has resumed following earlier construction on E 105 St between Flatlands Av and Avenue J.
-              &lt;br/&gt;
-              &lt;br/&gt;
-            
-                  &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                  &lt;span class="DateStyle"&gt;
                   &amp;nbsp;Posted:&amp;nbsp;03/07/2018&amp;nbsp; 8:22PM
                   &lt;/span&gt;
                   &lt;br/&gt;
@@ -271,7 +247,7 @@
               &lt;br/&gt;
             </text>
     <Date>03/07/2018</Date>
-    <Time> 9:47PM</Time>
+    <Time> 8:22PM</Time>
   </line>
   <line>
     <name>BM1 - BM5</name>
@@ -279,16 +255,6 @@
     <text>
                   &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                   &lt;span class="DateStyle"&gt;
-                  &amp;nbsp;Posted:&amp;nbsp;03/07/2018&amp;nbsp; 9:47PM
-                  &lt;/span&gt;
-                  &lt;br/&gt;
-                  &lt;br/&gt;
-                &lt;STRONG&gt;B103-Ltd&lt;/STRONG&gt; and &lt;STRONG&gt;BM2&lt;/STRONG&gt; bus service has resumed following earlier construction on E 105 St between Flatlands Av and Avenue J.
-              &lt;br/&gt;
-              &lt;br/&gt;
-            
-                  &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                  &lt;span class="DateStyle"&gt;
                   &amp;nbsp;Posted:&amp;nbsp;03/07/2018&amp;nbsp; 8:22PM
                   &lt;/span&gt;
                   &lt;br/&gt;
@@ -298,7 +264,7 @@
               &lt;br/&gt;
             </text>
     <Date>03/07/2018</Date>
-    <Time> 9:47PM</Time>
+    <Time> 8:22PM</Time>
   </line>
   <line>
     <name>BX1 - BX55</name>
@@ -867,15 +833,6 @@
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
                   &lt;P&gt;Due to high winds and road conditions motorists are asked to drive at reduced speeds of 20 MPH" &lt;/P&gt;
 &lt;P&gt;Winter Driving Conditions. Avoid unnecessary travel. Motorists are asked to drive at reduced speeds&lt;/P&gt;
-                &lt;br/&gt;&lt;br/&gt;
-              
-                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;03/07/2018&amp;nbsp; 6:18PM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  &lt;P&gt;Due to high winds and road conditions motorists are asked to drive at reduced speeds of 20 MPH"&lt;BR&gt;&lt;/P&gt;
-&lt;P&gt;VNB upper level closed in both directions due to operational activity.&lt;/P&gt;
-&lt;P&gt;&lt;SPAN style="COLOR: #1f3864"&gt;&lt;FONT color=#000000 size=3 face=Calibri&gt;Trucks NOT carrying hazardous cargo are currently permitted over the Lower Level of the bridge.&lt;/FONT&gt;&lt;/SPAN&gt;&lt;/P&gt;
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>03/07/2018</Date>
