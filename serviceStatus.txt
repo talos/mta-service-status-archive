@@ -1,8 +1,15 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>PLANNED WORK</status>
+    <status>DELAYS</status>
     <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;03/10/2018&amp;nbsp; 3:05PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  Southbound [2] and [3] trains are running with delays because of a sick passenger at &lt;STRONG&gt;Times Sq-42 St&lt;/STRONG&gt;.
+                &lt;br/&gt;&lt;br/&gt;
+              
                     &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
                     &lt;br/&gt;
                   &lt;a class="plannedWorkDetailLink" onclick=ShowHide(179959);&gt;&lt;b&gt;&lt;i&gt;TRACK MAINTENANCE&lt;/i&gt;&lt;br clear=left&gt;[3] Downtown trains run local from 96 St to Times Sq-42 St&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 179959 class="plannedWorkDetail" &gt;&lt;/b&gt;Weekend, 10 PM Fri to 5 AM Mon, Mar 9 - 12&lt;br&gt;&lt;br&gt;&amp;bull; Please allow additional travel time.&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
@@ -19,7 +26,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>03/10/2018</Date>
-    <Time> 2:53PM</Time>
+    <Time> 3:05PM</Time>
   </line>
   <line>
     <name>456</name>
@@ -109,7 +116,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>03/10/2018</Date>
-    <Time> 2:53PM</Time>
+    <Time> 3:04PM</Time>
   </line>
   <line>
     <name>BDFM</name>
@@ -293,7 +300,7 @@
               &lt;br/&gt;
             </text>
     <Date>03/10/2018</Date>
-    <Time> 2:53PM</Time>
+    <Time> 3:04PM</Time>
   </line>
   <line>
     <name>BXM1 - BXM18</name>
@@ -343,12 +350,22 @@
               &lt;br/&gt;
             </text>
     <Date>03/10/2018</Date>
-    <Time> 2:53PM</Time>
+    <Time> 3:04PM</Time>
   </line>
   <line>
     <name>Q1 - Q113</name>
     <status>DELAYS</status>
     <text>
+                  &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                  &lt;span class="DateStyle"&gt;
+                  &amp;nbsp;Posted:&amp;nbsp;03/10/2018&amp;nbsp; 3:05PM
+                  &lt;/span&gt;
+                  &lt;br/&gt;
+                  &lt;br/&gt;
+                &lt;body bgcolor='White' style='font-family:sans-serif;font-size:10pt;'&gt;&lt;STRONG&gt;Q53-SBS&lt;/STRONG&gt; buses are running with delays in both directions because of traffic conditions on Broadway between Roosevelt Av and Queens Blvd.&lt;/body&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
                   &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                   &lt;span class="DateStyle"&gt;
                   &amp;nbsp;Posted:&amp;nbsp;03/10/2018&amp;nbsp; 3:00PM
@@ -412,7 +429,7 @@
               &lt;br/&gt;
             </text>
     <Date>03/10/2018</Date>
-    <Time> 3:00PM</Time>
+    <Time> 3:05PM</Time>
   </line>
   <line>
     <name>QM1 - QM44</name>
@@ -519,7 +536,7 @@
               &lt;br/&gt;
             </text>
     <Date>03/10/2018</Date>
-    <Time> 2:53PM</Time>
+    <Time> 3:04PM</Time>
   </line>
 </bus><BT>
   <line>
@@ -637,10 +654,17 @@
   </line>
   <line>
     <name>Oyster Bay</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>DELAYS</status>
+    <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;03/10/2018&amp;nbsp; 3:04PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  The 2:52PM train from Jamaica due Oyster Bay at 3:46PM is being held in Jamaica due to equipment trouble.
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>03/10/2018</Date>
+    <Time> 3:04PM</Time>
   </line>
   <line>
     <name>Port Jefferson</name>
