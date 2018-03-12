@@ -1,10 +1,19 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>SERVICE CHANGE</status>
+    <text>
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;03/12/2018&amp;nbsp; 3:31PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;P&gt;Southbound [1] trains are running are running express from &lt;STRONG&gt;137 St-City College&lt;/STRONG&gt; to &lt;STRONG&gt;96 St&lt;/STRONG&gt; because of a sick passenger at &lt;STRONG&gt;103 St&lt;/STRONG&gt;.&lt;/P&gt;
+&lt;P&gt;Expect delays on [1], [2] and [3] trains.&lt;/P&gt;
+&lt;P&gt; &lt;/P&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>03/12/2018</Date>
+    <Time> 3:31PM</Time>
   </line>
   <line>
     <name>456</name>
@@ -16,7 +25,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>03/12/2018</Date>
-    <Time> 3:26PM</Time>
+    <Time> 3:30PM</Time>
   </line>
   <line>
     <name>7</name>
@@ -28,7 +37,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>03/12/2018</Date>
-    <Time> 3:26PM</Time>
+    <Time> 3:30PM</Time>
   </line>
   <line>
     <name>ACE</name>
@@ -47,7 +56,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>03/12/2018</Date>
-    <Time> 3:26PM</Time>
+    <Time> 3:30PM</Time>
   </line>
   <line>
     <name>G</name>
@@ -336,7 +345,7 @@
               &lt;br/&gt;
             </text>
     <Date>03/12/2018</Date>
-    <Time> 3:26PM</Time>
+    <Time> 3:30PM</Time>
   </line>
   <line>
     <name>S40 - S98</name>
@@ -370,7 +379,7 @@
               &lt;br/&gt;
             </text>
     <Date>03/12/2018</Date>
-    <Time> 3:26PM</Time>
+    <Time> 3:30PM</Time>
   </line>
 </bus><BT>
   <line>
