@@ -5,13 +5,13 @@
     <text>
                     &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;03/12/2018&amp;nbsp; 8:14AM
+                    &amp;nbsp;Posted:&amp;nbsp;03/12/2018&amp;nbsp;10:04AM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
                   Northbound [2] and [3] trains are running with delays because of signal problems at &lt;STRONG&gt;42 St-Times Sq&lt;/STRONG&gt;.
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>03/12/2018</Date>
-    <Time> 8:14AM</Time>
+    <Time>10:04AM</Time>
   </line>
   <line>
     <name>456</name>
@@ -23,14 +23,19 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>03/12/2018</Date>
-    <Time> 9:53AM</Time>
+    <Time>10:03AM</Time>
   </line>
   <line>
     <name>7</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>PLANNED WORK</status>
+    <text>
+                    &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
+                    &lt;br/&gt;
+                  &lt;a class="plannedWorkDetailLink" onclick=ShowHide(181052);&gt;&lt;b&gt;&lt;i&gt;TRACK REPLACEMENT&lt;/i&gt;&lt;br clear=left&gt;[7D] Hudson Yards-bound trains make local stops at&lt;/b&gt; &lt;b&gt;74, 69, 52, 46, 40 and 33 Sts&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 181052 class="plannedWorkDetail" &gt;&lt;/b&gt;Mornings, 10 AM to 10:15 AM, &lt;font color=#272627&gt;Mon to Fri, until Apr 6 (&lt;i&gt;except Mar 29 &amp; Apr 4&lt;/i&gt;)&lt;br&gt;&lt;br&gt;&amp;bull; Please allow additional travel time.&lt;br&gt;&lt;/font&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>03/12/2018</Date>
+    <Time>10:03AM</Time>
   </line>
   <line>
     <name>ACE</name>
@@ -48,6 +53,11 @@
                     &amp;nbsp;Posted:&amp;nbsp;03/12/2018&amp;nbsp; 9:52AM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
                   Northbound [F] and 71 Av bound [M] trains are running with delays because of signal problems at &lt;STRONG&gt;B'Way-Lafayette St.&lt;/STRONG&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              
+                    &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
+                    &lt;br/&gt;
+                  &lt;a class="plannedWorkDetailLink" onclick=ShowHide(178929);&gt;&lt;b&gt;&lt;i&gt;EQUIPMENT TESTING&lt;/i&gt;&lt;br clear=left&gt;[B] Brighton Beach-bound trains run local from Prospect Park to Kings Hwy&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 178929 class="plannedWorkDetail" &gt;&lt;/b&gt;Days, 10 AM to 3:30 PM, Mon to Thu, until Mar 29 &lt;br&gt;&lt;br&gt;&amp;bull; Please allow additional travel time.&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>03/12/2018</Date>
@@ -98,13 +108,26 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>03/12/2018</Date>
-    <Time> 9:53AM</Time>
+    <Time>10:03AM</Time>
   </line>
 </subway><bus>
   <line>
     <name>B1 - B84</name>
     <status>SERVICE CHANGE</status>
     <text>
+                  &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                  &lt;span class="DateStyle"&gt;
+                  &amp;nbsp;Posted:&amp;nbsp;03/12/2018&amp;nbsp;10:03AM
+                  &lt;/span&gt;
+                  &lt;br/&gt;
+                  &lt;br/&gt;
+                &lt;P&gt;&lt;STRONG&gt;B61 &lt;/STRONG&gt;buses are detoured because of DEP work at 15 St between Prospect Park West and 8 Av.&lt;/P&gt;
+&lt;P&gt;Detour is as follows:&lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;B61 Fulton St Bound&lt;/STRONG&gt;: Via Prospect Park West, go around Bartel Pritchard Sqaure Cir onto Prospect Park West, right on Prospect Av, right on 8 Av and regular route.&lt;/P&gt;
+&lt;P&gt;All corresponding stops will be made along the detoured route.&lt;/P&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
                   &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
                   &lt;span class="DateStyle"&gt;
                   &amp;nbsp;Posted:&amp;nbsp;03/12/2018&amp;nbsp; 9:37AM
@@ -168,7 +191,7 @@
               &lt;br/&gt;
             </text>
     <Date>03/12/2018</Date>
-    <Time> 9:37AM</Time>
+    <Time>10:03AM</Time>
   </line>
   <line>
     <name>B100 - B103</name>
@@ -201,7 +224,7 @@
               &lt;br/&gt;
             </text>
     <Date>03/12/2018</Date>
-    <Time> 9:53AM</Time>
+    <Time>10:03AM</Time>
   </line>
   <line>
     <name>BXM1 - BXM18</name>
@@ -342,7 +365,7 @@
               &lt;br/&gt;
             </text>
     <Date>03/12/2018</Date>
-    <Time> 9:53AM</Time>
+    <Time>10:03AM</Time>
   </line>
   <line>
     <name>S40 - S98</name>
@@ -376,7 +399,7 @@
               &lt;br/&gt;
             </text>
     <Date>03/12/2018</Date>
-    <Time> 9:53AM</Time>
+    <Time>10:03AM</Time>
   </line>
 </bus><BT>
   <line>
