@@ -1,10 +1,18 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>SERVICE CHANGE</status>
+    <text>
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;03/12/2018&amp;nbsp; 9:24PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;P&gt;Southbound [2] and [3] trains are running local from&lt;STRONG&gt; 72 St&lt;/STRONG&gt; to &lt;STRONG&gt;34 St-Penn Station&lt;/STRONG&gt; because of a sick passenger at &lt;STRONG&gt;72 St.&lt;/STRONG&gt;&lt;/P&gt;
+&lt;P&gt;Expect delays on [1], [2] and [3] trains.&lt;/P&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>03/12/2018</Date>
+    <Time> 9:24PM</Time>
   </line>
   <line>
     <name>456</name>
@@ -22,33 +30,27 @@
   </line>
   <line>
     <name>ACE</name>
-    <status>SERVICE CHANGE</status>
+    <status>DELAYS</status>
     <text>
-                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;03/12/2018&amp;nbsp; 9:06PM
+                    &amp;nbsp;Posted:&amp;nbsp;03/12/2018&amp;nbsp; 9:24PM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  &lt;P&gt;Some northbound [E] trains are running express from &lt;STRONG&gt;Forest Hills-71 Av&lt;/STRONG&gt; to &lt;STRONG&gt;Jamaica-Van Wyck.&lt;/STRONG&gt;&lt;/P&gt;
-&lt;P&gt;Some northbound [F] trains are running express from&lt;STRONG&gt; Forest Hills-71 Av &lt;/STRONG&gt;to &lt;STRONG&gt;Parsons Blvd.&lt;/STRONG&gt;&lt;/P&gt;
-&lt;P&gt;Expect delays in [E] and [F] train service.&lt;/P&gt;
-&lt;P&gt;This service change is because of track maintenance at &lt;STRONG&gt;Kew Gardens-Union Tpke.&lt;/STRONG&gt;&lt;/P&gt;
+                  [E] and [F] train service has resumed following earlier track maintenance at Kew Gardens-Union Tpke.
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>03/12/2018</Date>
-    <Time> 9:06PM</Time>
+    <Time> 9:24PM</Time>
   </line>
   <line>
     <name>BDFM</name>
-    <status>SERVICE CHANGE</status>
+    <status>DELAYS</status>
     <text>
-                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;03/12/2018&amp;nbsp; 9:06PM
+                    &amp;nbsp;Posted:&amp;nbsp;03/12/2018&amp;nbsp; 9:24PM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  &lt;P&gt;Some northbound [E] trains are running express from &lt;STRONG&gt;Forest Hills-71 Av&lt;/STRONG&gt; to &lt;STRONG&gt;Jamaica-Van Wyck.&lt;/STRONG&gt;&lt;/P&gt;
-&lt;P&gt;Some northbound [F] trains are running express from&lt;STRONG&gt; Forest Hills-71 Av &lt;/STRONG&gt;to &lt;STRONG&gt;Parsons Blvd.&lt;/STRONG&gt;&lt;/P&gt;
-&lt;P&gt;Expect delays in [E] and [F] train service.&lt;/P&gt;
-&lt;P&gt;This service change is because of track maintenance at &lt;STRONG&gt;Kew Gardens-Union Tpke.&lt;/STRONG&gt;&lt;/P&gt;
+                  [E] and [F] train service has resumed following earlier track maintenance at Kew Gardens-Union Tpke.
                 &lt;br/&gt;&lt;br/&gt;
               
                     &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
@@ -57,7 +59,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>03/12/2018</Date>
-    <Time> 9:06PM</Time>
+    <Time> 9:24PM</Time>
   </line>
   <line>
     <name>G</name>
