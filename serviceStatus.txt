@@ -1,15 +1,33 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>SERVICE CHANGE</status>
+    <text>
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;03/14/2018&amp;nbsp; 9:22AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;P&gt;Some northbound [5] trains are stopping along the [2] line from &lt;STRONG&gt;Nevins St &lt;/STRONG&gt;to&lt;STRONG&gt; 149 St-Grand Concourse&lt;/STRONG&gt; because of signal problems at &lt;STRONG&gt;Brooklyn Bridge-City Hall&lt;/STRONG&gt;.&lt;/P&gt;
+&lt;P&gt;Expect delays on the [2], [3], [4] and [5] trains.&lt;/P&gt;
+&lt;P&gt; &lt;/P&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>03/14/2018</Date>
+    <Time> 9:22AM</Time>
   </line>
   <line>
     <name>456</name>
-    <status>DELAYS</status>
+    <status>SERVICE CHANGE</status>
     <text>
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;03/14/2018&amp;nbsp; 9:22AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;P&gt;Some northbound [5] trains are stopping along the [2] line from &lt;STRONG&gt;Nevins St &lt;/STRONG&gt;to&lt;STRONG&gt; 149 St-Grand Concourse&lt;/STRONG&gt; because of signal problems at &lt;STRONG&gt;Brooklyn Bridge-City Hall&lt;/STRONG&gt;.&lt;/P&gt;
+&lt;P&gt;Expect delays on the [2], [3], [4] and [5] trains.&lt;/P&gt;
+&lt;P&gt; &lt;/P&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              
                     &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
                     &amp;nbsp;Posted:&amp;nbsp;03/14/2018&amp;nbsp; 9:17AM
@@ -18,7 +36,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>03/14/2018</Date>
-    <Time> 9:17AM</Time>
+    <Time> 9:22AM</Time>
   </line>
   <line>
     <name>7</name>
