@@ -1,17 +1,19 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>DELAYS</status>
+    <status>SERVICE CHANGE</status>
     <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;03/14/2018&amp;nbsp;10:45AM
+                    &amp;nbsp;Posted:&amp;nbsp;03/14/2018&amp;nbsp;10:53AM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  Northbound [2] and [3] trains are running with delays because of signal problems at &lt;STRONG&gt;Central Park North (110 St)&lt;/STRONG&gt;.
+                  &lt;P&gt;Some northbound [2] trains are stopping along the [5] line from &lt;STRONG&gt;Nevins St&lt;/STRONG&gt; to &lt;STRONG&gt;149 St-Grand Concourse&lt;/STRONG&gt;.&lt;/P&gt;
+&lt;P&gt;Northbound [3] trains are running with delays.&lt;/P&gt;
+&lt;P&gt;These service changes are because of signal problems at &lt;STRONG&gt;Central Park North (110 St)&lt;/STRONG&gt;.&lt;/P&gt;
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>03/14/2018</Date>
-    <Time>10:45AM</Time>
+    <Time>10:53AM</Time>
   </line>
   <line>
     <name>456</name>
@@ -38,7 +40,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>03/14/2018</Date>
-    <Time>10:43AM</Time>
+    <Time>10:52AM</Time>
   </line>
   <line>
     <name>7</name>
@@ -72,7 +74,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>03/14/2018</Date>
-    <Time>10:43AM</Time>
+    <Time>10:52AM</Time>
   </line>
   <line>
     <name>G</name>
@@ -119,7 +121,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>03/14/2018</Date>
-    <Time>10:43AM</Time>
+    <Time>10:52AM</Time>
   </line>
 </subway><bus>
   <line>
@@ -225,7 +227,7 @@
               &lt;br/&gt;
             </text>
     <Date>03/14/2018</Date>
-    <Time>10:43AM</Time>
+    <Time>10:52AM</Time>
   </line>
   <line>
     <name>BXM1 - BXM18</name>
@@ -368,7 +370,7 @@
               &lt;br/&gt;
             </text>
     <Date>03/14/2018</Date>
-    <Time>10:43AM</Time>
+    <Time>10:52AM</Time>
   </line>
   <line>
     <name>S40 - S98</name>
@@ -381,7 +383,7 @@
               &lt;br/&gt;
             </text>
     <Date>03/14/2018</Date>
-    <Time>10:43AM</Time>
+    <Time>10:52AM</Time>
   </line>
   <line>
     <name>x1 - x68</name>
