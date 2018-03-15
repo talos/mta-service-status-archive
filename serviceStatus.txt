@@ -107,13 +107,13 @@
     <text>
                     &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;03/15/2018&amp;nbsp;10:12AM
+                    &amp;nbsp;Posted:&amp;nbsp;03/15/2018&amp;nbsp;10:46AM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  Southbound [N] trains are running with delays because of signal problems at&lt;STRONG&gt; Bay Pkwy&lt;/STRONG&gt;.
+                  [N] train service has resumed following earlier signal problems at &lt;STRONG&gt;Bay Pkwy.&lt;/STRONG&gt;
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>03/15/2018</Date>
-    <Time>10:12AM</Time>
+    <Time>10:46AM</Time>
   </line>
   <line>
     <name>S</name>
@@ -344,10 +344,17 @@
 </bus><BT>
   <line>
     <name>Bronx-Whitestone</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>DELAYS</status>
+    <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;03/15/2018&amp;nbsp;10:45AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  BWB: PLANNED WORK; BRONX BOUND ONE LANE BLOCKED
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>03/15/2018</Date>
+    <Time>10:45AM</Time>
   </line>
   <line>
     <name>Cross Bay</name>
