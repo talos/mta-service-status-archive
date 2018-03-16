@@ -1,13 +1,13 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>SERVICE CHANGE</status>
+    <status>DELAYS</status>
     <text>
-                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;03/16/2018&amp;nbsp; 2:11AM
+                    &amp;nbsp;Posted:&amp;nbsp;03/16/2018&amp;nbsp; 4:12AM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  Southbound [1] and [2] trains are running express from &lt;STRONG&gt;96 St &lt;/STRONG&gt;to &lt;STRONG&gt;72 St&lt;/STRONG&gt; because of track maintenance at &lt;STRONG&gt;96 St&lt;/STRONG&gt;.
+                  [1] and [2] service has resumed following earlier track maintenance at &lt;STRONG&gt;96 St&lt;/STRONG&gt;.
                 &lt;br/&gt;&lt;br/&gt;
               
                     &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
@@ -21,7 +21,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>03/16/2018</Date>
-    <Time> 2:11AM</Time>
+    <Time> 4:12AM</Time>
   </line>
   <line>
     <name>456</name>
@@ -70,9 +70,9 @@
     <text>
                     &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;03/16/2018&amp;nbsp; 3:31AM
+                    &amp;nbsp;Posted:&amp;nbsp;03/16/2018&amp;nbsp; 4:10AM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  Southbound [F] trains are running with delays because of track maintenance at &lt;STRONG&gt;W 4 St-Washington Sq&lt;/STRONG&gt;.
+                  [F] service has resumed following earlier track maintenance at &lt;STRONG&gt;W 4 St-Washington Sq&lt;/STRONG&gt;.
                 &lt;br/&gt;&lt;br/&gt;
               
                     &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
@@ -86,7 +86,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>03/16/2018</Date>
-    <Time> 3:31AM</Time>
+    <Time> 4:10AM</Time>
   </line>
   <line>
     <name>G</name>
