@@ -337,13 +337,13 @@
   </line>
   <line>
     <name>Far Rockaway</name>
-    <status>SUSPENDED</status>
+    <status>SERVICE CHANGE</status>
     <text>
-                    &lt;span class="TitleSuspended"&gt;Suspended&lt;/span&gt;
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;03/16/2018&amp;nbsp; 6:41AM
+                    &amp;nbsp;Posted:&amp;nbsp;03/16/2018&amp;nbsp; 7:08AM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  &lt;b&gt;LIRR train service is temporarily suspended on the Far Rockaway Branch in both directions between Valley Stream and Far Rockaway due to an unauthorized vehicle on the tracks at Gibson. Customers are advised to seek alternate branches, including Long Beach and Babylon. We are attempting to secure buses.&lt;/b&gt;
+                  &lt;b&gt;Train service on the Far Rockaway Branch has been restored following a temporary suspension caused by an unauthorized vehcile on the tracks at Gibson. The 7:08AM train from Far Rockaway due Penn at 8:05AM will be the first westbound to operate.&lt;/b&gt;
                 &lt;br/&gt;&lt;br/&gt;
               
                     &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
@@ -354,14 +354,21 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>03/16/2018</Date>
-    <Time> 6:41AM</Time>
+    <Time> 7:08AM</Time>
   </line>
   <line>
     <name>Hempstead</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>DELAYS</status>
+    <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;03/16/2018&amp;nbsp; 7:07AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;font face="sans-serif" size="2"&gt;The 6:21AM train from Hempstead due Atlantic Terminal at 7:08AM is operating 10 minutes late due to congestion at Jamaica caused by a train with equipment trouble.&lt;/font&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>03/16/2018</Date>
+    <Time> 7:07AM</Time>
   </line>
   <line>
     <name>Long Beach</name>
@@ -391,10 +398,19 @@
   </line>
   <line>
     <name>Port Jefferson</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>DELAYS</status>
+    <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;03/16/2018&amp;nbsp; 7:08AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  The 6:25AM train from Hicksville due Penn at 7:11AM is operating 10 
+minutes late due to congestion at Jamaica caused by a train with 
+equipment trouble.          
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>03/16/2018</Date>
+    <Time> 7:08AM</Time>
   </line>
   <line>
     <name>Port Washington</name>
