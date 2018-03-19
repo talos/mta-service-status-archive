@@ -22,17 +22,10 @@
   </line>
   <line>
     <name>ACE</name>
-    <status>DELAYS</status>
-    <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;03/19/2018&amp;nbsp; 6:44PM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  [C] and [E] train service has resumed following an earlier incident involving an unruly passenger at &lt;STRONG&gt;42 St-Port Authority Bus Terminal&lt;/STRONG&gt;.
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>03/19/2018</Date>
-    <Time> 6:44PM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>BDFM</name>
@@ -343,8 +336,21 @@
   </line>
   <line>
     <name>Q1 - Q113</name>
-    <status>DELAYS</status>
+    <status>SERVICE CHANGE</status>
     <text>
+                  &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                  &lt;span class="DateStyle"&gt;
+                  &amp;nbsp;Posted:&amp;nbsp;03/19/2018&amp;nbsp; 6:57PM
+                  &lt;/span&gt;
+                  &lt;br/&gt;
+                  &lt;br/&gt;
+                &lt;P&gt;&lt;STRONG&gt;Q85&lt;/STRONG&gt; buses are detoured in both directions because of a non TA accident on 243 St at Memphis Av. &lt;/P&gt;
+&lt;P&gt;Detour is as follows:&lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;Q85 Rosedale Bound:&lt;/STRONG&gt; Via south Conduit Av, right on Francis Lewis Blvd, right on 147 Av, terminate at 243 St.&lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;Q85 Jamaica Bound:&lt;/STRONG&gt; Via 147 Av, right on Brookville Blvd, left on North Conduit Av and regular route.&lt;/P&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
                   &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                   &lt;span class="DateStyle"&gt;
                   &amp;nbsp;Posted:&amp;nbsp;03/19/2018&amp;nbsp; 6:06PM
@@ -384,7 +390,7 @@
               &lt;br/&gt;
             </text>
     <Date>03/19/2018</Date>
-    <Time> 6:06PM</Time>
+    <Time> 6:57PM</Time>
   </line>
   <line>
     <name>QM1 - QM44</name>
