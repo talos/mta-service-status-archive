@@ -1,17 +1,33 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>SERVICE CHANGE</status>
+    <text>
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;03/19/2018&amp;nbsp; 7:56AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;P&gt;Some northbound [2] trains are stopping along the [5] line from &lt;STRONG&gt;Nevins St&lt;/STRONG&gt; to&lt;STRONG&gt; 149 St-Grand Concourse&lt;/STRONG&gt; because of signal problems at&lt;STRONG&gt; Clark St.&lt;/STRONG&gt;&lt;/P&gt;
+&lt;P&gt;Expect delays on [2] [3] [4] and [5] train service.&lt;/P&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>03/19/2018</Date>
+    <Time> 7:56AM</Time>
   </line>
   <line>
     <name>456</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>SERVICE CHANGE</status>
+    <text>
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;03/19/2018&amp;nbsp; 7:56AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;P&gt;Some northbound [2] trains are stopping along the [5] line from &lt;STRONG&gt;Nevins St&lt;/STRONG&gt; to&lt;STRONG&gt; 149 St-Grand Concourse&lt;/STRONG&gt; because of signal problems at&lt;STRONG&gt; Clark St.&lt;/STRONG&gt;&lt;/P&gt;
+&lt;P&gt;Expect delays on [2] [3] [4] and [5] train service.&lt;/P&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>03/19/2018</Date>
+    <Time> 7:56AM</Time>
   </line>
   <line>
     <name>7</name>
