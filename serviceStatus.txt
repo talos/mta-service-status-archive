@@ -772,10 +772,19 @@ from 6 AM until 10 PM. To speak with an LIRR employee, say the word
   </line>
   <line>
     <name>New Haven</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>DELAYS</status>
+    <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;03/18/2018&amp;nbsp; 8:27PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  New Haven Line Customers should anticipate delays due to Police activity
+ in the vicinity of Green's Farms.  Please listen for announcements at 
+your station.
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>03/18/2018</Date>
+    <Time> 8:27PM</Time>
   </line>
   <line>
     <name>New Canaan</name>
