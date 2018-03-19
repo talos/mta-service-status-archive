@@ -1,17 +1,10 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>DELAYS</status>
-    <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;03/19/2018&amp;nbsp; 4:34PM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  [1], [2] and [3] train service has resumed following an earlier NYPD investigation at &lt;STRONG&gt;96 St&lt;/STRONG&gt;.
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>03/19/2018</Date>
-    <Time> 4:34PM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>456</name>
@@ -92,15 +85,8 @@
   </line>
   <line>
     <name>NQR</name>
-    <status>DELAYS</status>
+    <status>PLANNED WORK</status>
     <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;03/19/2018&amp;nbsp; 4:31PM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  [N] and [W] train service has resumed following earlier switch problems at &lt;STRONG&gt;39 Av&lt;/STRONG&gt;.
-                &lt;br/&gt;&lt;br/&gt;
-              
                     &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
                     &lt;br/&gt;
                   &lt;a class="plannedWorkDetailLink" onclick=ShowHide(184071);&gt;&lt;b&gt;&lt;i&gt;TRACK MAINTENANCE&lt;/i&gt;&lt;br clear=left&gt;[R] Trains may experience delays due to slow speed order between Queens Plaza and Lexington Av/59 St&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 184071 class="plannedWorkDetail" &gt;&lt;/b&gt;Rush Hours, 6 AM to 10 AM &amp; 3:30 PM to 8 PM, Mon to Fri, Mar 19 - 23  &amp;bull;  Mar 26 - 30&lt;br&gt;&lt;br&gt;&lt;/font&gt;&lt;font color=#272627&gt;&amp;bull; Please allow additional travel time.&lt;br&gt;&lt;/font&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
@@ -112,7 +98,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>03/19/2018</Date>
-    <Time> 4:31PM</Time>
+    <Time> 4:53PM</Time>
   </line>
   <line>
     <name>S</name>
@@ -602,52 +588,10 @@
   </line>
   <line>
     <name>Montauk</name>
-    <status>PLANNED WORK</status>
-    <text>
-                    &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
-                    &lt;br/&gt;
-                  &lt;p class="MsoNormal"&gt;&lt;font size="2" face="Arial"&gt;&lt;b&gt;&lt;u&gt;&lt;span style=""&gt;Buses
-Replace Midday Weekday Trains between Patchogue &amp; Montauk thru May 18&lt;/span&gt;&lt;/u&gt;&lt;/b&gt;&lt;span style=""&gt;&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;&lt;font size="2" face="Arial"&gt;
-
-&lt;/font&gt;&lt;p class="MsoNormal"&gt;&lt;font size="2" face="Arial"&gt;&lt;span style=""&gt;Starting Monday,
-February 26 through Friday, May 18, buses will replace midday &lt;span style="color:#1F497D"&gt;off-peak&lt;/span&gt; trains between Montauk and Patchogue to
-accommodate&lt;span style="color:#1F497D"&gt; state-of-good-repair tie replacement
-work&lt;/span&gt;. Service is affected as follows:&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;&lt;font size="2" face="Arial"&gt;
-
-&lt;/font&gt;&lt;p class="MsoNormal"&gt;&lt;font size="2" face="Arial"&gt;&lt;b&gt;&lt;span style=""&gt;EASTBOUND&lt;/span&gt;&lt;/b&gt;&lt;span style=""&gt;&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;&lt;font size="2" face="Arial"&gt;
-
-&lt;/font&gt;&lt;ul style="margin-top:0in" type="disc"&gt;&lt;li class="MsoNormal" style=""&gt;&lt;font size="2" face="Arial"&gt;&lt;span style="Times New Roman";"&gt;The 8:57 AM train from
-     Babylon, scheduled to arrive Montauk at 10:57 AM, will terminate at
-     Patchogue. Customers traveling to stations Bellport through Montauk will
-     be accommodated by bus service.&lt;/span&gt;&lt;/font&gt;&lt;/li&gt;&lt;li class="MsoNormal" style=""&gt;&lt;font size="2" face="Arial"&gt;&lt;span style="Times New Roman";"&gt;The 11:25 AM train from
-     Jamaica, scheduled to arrive Montauk at 2:15 PM, will terminate at
-     Patchogue. Customers traveling to stations Bellport through Montauk will
-     be accommodated by bus service. &lt;/span&gt;&lt;/font&gt;&lt;/li&gt;&lt;li class="MsoNormal" style=""&gt;&lt;font size="2" face="Arial"&gt;&lt;span style="Times New Roman";"&gt;The 11:27 AM train from
-     Babylon scheduled to arrive at Speonk at 12:27 PM, will terminate at
-     Patchogue. Customers traveling to stations Bellport through Speonk will be
-     accommodated by bus service.&lt;/span&gt;&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;&lt;font size="2" face="Arial"&gt;
-
-&lt;/font&gt;&lt;p class="MsoNormal"&gt;&lt;font size="2" face="Arial"&gt;&lt;span style=""&gt; &lt;/span&gt;&lt;b&gt;&lt;span style=""&gt;WESTBOUND&lt;/span&gt;&lt;/b&gt;&lt;span style=""&gt;&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;&lt;font size="2" face="Arial"&gt;
-
-&lt;/font&gt;&lt;ul style="margin-top:0in" type="disc"&gt;&lt;li class="MsoNormal" style=""&gt;&lt;font size="2" face="Arial"&gt;&lt;span style="Times New Roman";"&gt;The 11:18 AM train from
-     Montauk, scheduled to arrive at Jamaica at 2:15 PM, will originate at
-     Patchogue at 1:07 PM. Customers at stations Montauk through Patchogue will
-     be accommodated by buses departing up to 1 hour and 5 minutes later than
-     usual train times.&lt;/span&gt;&lt;/font&gt;&lt;/li&gt;&lt;li class="MsoNormal" style=""&gt;&lt;font size="2" face="Arial"&gt;&lt;span style="Times New Roman";"&gt;The 2:00 PM train from
-     Speonk, scheduled to arrive at Jamaica 3:36 PM, will originate at
-     Patchogue at 2:30 PM. Customers at stations Montauk through Speonk will be
-     accommodated by buses departing up to 1 hour and 5 minutes later than
-     usual train times.&lt;/span&gt;&lt;/font&gt;&lt;/li&gt;&lt;li class="MsoNormal" style=""&gt;&lt;font size="2" face="Arial"&gt;&lt;span style="Times New Roman";"&gt;The 2:51 PM train from
-     Montauk, scheduled to arrive at Jamaica at 5:50 PM, will originate at
-     Patchogue at 4:43 PM. Customers at stations Montauk through Patchogue will
-     be accommodated by buses departing up to 1 hour and 5 minutes later than
-     usual train times.&lt;/span&gt;&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;&lt;font size="2" face="Arial"&gt;
-
-&lt;/font&gt;&lt;p class="MsoNormalCxSpMiddle" style="margin-left:.5in;"&gt;&lt;font size="2" face="Arial"&gt;&lt;span style=""&gt; &lt;/span&gt;&lt;/font&gt;&lt;/p&gt;
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>03/19/2018</Date>
-    <Time> 7:00AM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>Oyster Bay</name>
