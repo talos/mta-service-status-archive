@@ -696,8 +696,15 @@ from 6 AM until 10 PM. To speak with an LIRR employee, say the word
   </line>
   <line>
     <name>Ronkonkoma</name>
-    <status>DELAYS</status>
+    <status>SUSPENDED</status>
     <text>
+                    &lt;span class="TitleSuspended"&gt;Suspended&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;03/18/2018&amp;nbsp;10:26PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;b&gt;Westbound LIRR service on the Ronkonkoma branch is temporarily suspended due to a broken rail near Wyandanch. Eastbound customers should expect delays as trains operate at restricted speed through the area. LIRR customers should utilize the Port Jefferson or Babylon branches if possible.  We apologize for the inconvenience.  &lt;/b&gt;&lt;br&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              
                     &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
                     &amp;nbsp;Posted:&amp;nbsp;03/18/2018&amp;nbsp;10:25PM
@@ -706,21 +713,14 @@ from 6 AM until 10 PM. To speak with an LIRR employee, say the word
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>03/18/2018</Date>
-    <Time>10:25PM</Time>
+    <Time>10:26PM</Time>
   </line>
   <line>
     <name>West Hempstead</name>
-    <status>SUSPENDED</status>
-    <text>
-                    &lt;span class="TitleSuspended"&gt;Suspended&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;03/18/2018&amp;nbsp;10:24PM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  &lt;b&gt;Westbound LIRR service on the Ronkonkoma branch is temporarily suspended due to a broken rail near Wyandanch. Eastbound customers should expect delays as trains operate at restricted speed through the area. LIRR customers should utilize the Port Jefferson or Babylon branches if possible.  We apologize for the inconvenience.  &lt;/b&gt;&lt;br&gt;
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>03/18/2018</Date>
-    <Time>10:24PM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
 </LIRR><MetroNorth>
   <line>
