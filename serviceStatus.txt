@@ -37,10 +37,17 @@
   </line>
   <line>
     <name>ACE</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>DELAYS</status>
+    <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;03/20/2018&amp;nbsp; 3:22PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  Northbound [E] trains are running with delays because of signal problems at &lt;STRONG&gt;Queens Plaza.&lt;/STRONG&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>03/20/2018</Date>
+    <Time> 3:22PM</Time>
   </line>
   <line>
     <name>BDFM</name>
@@ -101,6 +108,16 @@
     <name>B1 - B84</name>
     <status>DELAYS</status>
     <text>
+                  &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                  &lt;span class="DateStyle"&gt;
+                  &amp;nbsp;Posted:&amp;nbsp;03/20/2018&amp;nbsp; 3:22PM
+                  &lt;/span&gt;
+                  &lt;br/&gt;
+                  &lt;br/&gt;
+                &lt;STRONG&gt;B11&lt;/STRONG&gt; and &lt;STRONG&gt;B16&lt;/STRONG&gt; buses are running with delays in both directions because of traffic conditions on 13 Av and 14 Av between 39 St and 57 St.
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
                   &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                   &lt;span class="DateStyle"&gt;
                   &amp;nbsp;Posted:&amp;nbsp;03/20/2018&amp;nbsp; 3:19PM
@@ -196,7 +213,7 @@
               &lt;br/&gt;
             </text>
     <Date>03/20/2018</Date>
-    <Time> 3:19PM</Time>
+    <Time> 3:22PM</Time>
   </line>
   <line>
     <name>B100 - B103</name>
@@ -594,17 +611,10 @@
   </line>
   <line>
     <name>Port Jefferson</name>
-    <status>DELAYS</status>
-    <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;03/20/2018&amp;nbsp; 2:24PM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  The 2:03PM train from Huntington due Penn at 3:12PM is operating 19 minutes late after being held at Huntington due to a train ahead with a customer in need of medical assistance. &lt;br&gt;
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>03/20/2018</Date>
-    <Time> 2:24PM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>Port Washington</name>
