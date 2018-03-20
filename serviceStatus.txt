@@ -1,10 +1,17 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>SERVICE CHANGE</status>
+    <text>
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;03/19/2018&amp;nbsp; 8:24PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  Southbound [2] trains are running express from &lt;STRONG&gt;Gun Hill Road&lt;/STRONG&gt; to &lt;STRONG&gt;East 180 St&lt;/STRONG&gt; because of a train with mechanical problems at &lt;STRONG&gt;Bronx Park East.&lt;/STRONG&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>03/19/2018</Date>
+    <Time> 8:24PM</Time>
   </line>
   <line>
     <name>456</name>
@@ -190,21 +197,21 @@
     <text>
                   &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                   &lt;span class="DateStyle"&gt;
-                  &amp;nbsp;Posted:&amp;nbsp;03/19/2018&amp;nbsp; 8:07PM
+                  &amp;nbsp;Posted:&amp;nbsp;03/19/2018&amp;nbsp; 8:24PM
                   &lt;/span&gt;
                   &lt;br/&gt;
                   &lt;br/&gt;
-                &lt;STRONG&gt;M9&lt;/STRONG&gt; and &lt;STRONG&gt;M22 &lt;/STRONG&gt;buses are running with delays in both directions because of traffic conditions near the Brooklyn Bridge.
+                &lt;STRONG&gt;M9 &lt;/STRONG&gt;and &lt;STRONG&gt;M22&lt;/STRONG&gt; bus service has resumed following earlier traffic conditions near the Brooklyn Bridge.
               &lt;br/&gt;
               &lt;br/&gt;
             
                   &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                   &lt;span class="DateStyle"&gt;
-                  &amp;nbsp;Posted:&amp;nbsp;03/19/2018&amp;nbsp; 8:07PM
+                  &amp;nbsp;Posted:&amp;nbsp;03/19/2018&amp;nbsp; 8:24PM
                   &lt;/span&gt;
                   &lt;br/&gt;
                   &lt;br/&gt;
-                &lt;STRONG&gt;M103 &lt;/STRONG&gt;buses are running with delays in both directions because of traffic conditions near the Manhattan and Williamsburg Bridges.
+                &lt;STRONG&gt;M103 &lt;/STRONG&gt;bus service has resumed following earlier traffic conditions near the Manhattan and Williamsburg Bridge.
               &lt;br/&gt;
               &lt;br/&gt;
             
@@ -221,7 +228,7 @@
               &lt;br/&gt;
             </text>
     <Date>03/19/2018</Date>
-    <Time> 8:07PM</Time>
+    <Time> 8:24PM</Time>
   </line>
   <line>
     <name>Q1 - Q113</name>
@@ -291,7 +298,7 @@
               &lt;br/&gt;
             </text>
     <Date>03/19/2018</Date>
-    <Time> 8:13PM</Time>
+    <Time> 8:23PM</Time>
   </line>
   <line>
     <name>S40 - S98</name>
@@ -304,7 +311,7 @@
               &lt;br/&gt;
             </text>
     <Date>03/19/2018</Date>
-    <Time> 8:13PM</Time>
+    <Time> 8:23PM</Time>
   </line>
   <line>
     <name>x1 - x68</name>
@@ -317,7 +324,7 @@
               &lt;br/&gt;
             </text>
     <Date>03/19/2018</Date>
-    <Time> 8:13PM</Time>
+    <Time> 8:23PM</Time>
   </line>
 </bus><BT>
   <line>
@@ -506,13 +513,6 @@
                     &amp;nbsp;Posted:&amp;nbsp;03/19/2018&amp;nbsp; 8:23PM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
                   New Canaan Branch service is currently not making station stops between New Canaan and Talmadge Hill due to switch issues. Personnel are on the scene addressing the issues. As more information becomes available we will notify you as soon as possible. Please listen for announcements at your station.
-                &lt;br/&gt;&lt;br/&gt;
-              
-                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;03/19/2018&amp;nbsp; 7:30PM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  New Canaan Branch service is currently not making station stops between New Canaan and Talmadge Hill due to switch issues. As more information becomes available we will notify you as soon as possible.  Please listen for announcements at your station.
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>03/19/2018</Date>
