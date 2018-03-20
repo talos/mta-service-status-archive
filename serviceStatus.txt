@@ -1,13 +1,13 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>SERVICE CHANGE</status>
+    <status>DELAYS</status>
     <text>
-                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;03/20/2018&amp;nbsp;10:40AM
+                    &amp;nbsp;Posted:&amp;nbsp;03/20/2018&amp;nbsp;10:56AM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  &lt;P&gt;Some southbound [3] trains end at &lt;STRONG&gt;Crown Hts-Utica Av&lt;/STRONG&gt; because of an injured passenger at Pennsylvania Av.&lt;/P&gt;
+                  [3] train service has resumed following an earlier incident involving an injured passenger at &lt;STRONG&gt;Pennsylvania Av.&lt;/STRONG&gt;
                 &lt;br/&gt;&lt;br/&gt;
               
                     &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
@@ -18,7 +18,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>03/20/2018</Date>
-    <Time>10:40AM</Time>
+    <Time>10:56AM</Time>
   </line>
   <line>
     <name>456</name>
