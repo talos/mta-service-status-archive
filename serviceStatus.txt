@@ -1,10 +1,17 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>DELAYS</status>
+    <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;03/20/2018&amp;nbsp;10:03PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  Northbound [2] and [3] trains are running with delays because of a train with mechanical problems at &lt;STRONG&gt;125 St.&lt;/STRONG&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>03/20/2018</Date>
+    <Time>10:03PM</Time>
   </line>
   <line>
     <name>456</name>
@@ -21,7 +28,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>03/20/2018</Date>
-    <Time> 9:58PM</Time>
+    <Time>10:03PM</Time>
   </line>
   <line>
     <name>7</name>
@@ -110,6 +117,12 @@
             
                   &lt;span class="TitlePlannedWork" &gt;Planned Detour&lt;/span&gt;
                   &lt;br/&gt;
+                &lt;a class="plannedWorkDetailLink" onclick=ShowHide(180753);&gt;&lt;b&gt;B61 buses rerouted from 9 St between Smith St and 3 Av&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 180753 class="plannedWorkDetail" &gt;&lt;/b&gt;10 PM to 5 AM, Mon to Fri, until Mar 23&lt;br&gt;&lt;br&gt;Due to bridge maintenance:&lt;br&gt;&lt;br&gt;&lt;b&gt;Northbound&lt;br&gt;&lt;/b&gt;&amp;bull;  The &lt;/font&gt;9 St at 2 Av bus stop will be made on &lt;/font&gt;2 Av at 9 St.&lt;br&gt;&amp;bull;&lt;/font&gt;  The 9 St at Smith St bus stop will be made on W 9 St at Smith St.&lt;br&gt;&lt;br&gt;&lt;b&gt;Southbound&lt;br&gt;&lt;/b&gt;&amp;bull;  &lt;/font&gt;The 9 St at Smith St and 9 St at 2 Av bus stops will be made on Smith St at 9 St.&lt;br&gt;&lt;br&gt;Buses make corresponding stops along the detoured route.&lt;br&gt;&lt;br&gt;&lt;b&gt;&lt;i&gt;&lt;a style="cursor:pointer; text-decoration:underline;" onclick=ShowHide(1807530);&gt;Show Reroute Details&lt;/a&gt;&lt;/i&gt;&lt;/b&gt;&lt;br&gt;&lt;div id="1807530"; style="display:none;"&gt;&lt;b&gt;Northbound&lt;br&gt;&lt;/b&gt;Via 9 St &lt;br&gt;Left on 2 Av&lt;br&gt;Right on 15 St&lt;br&gt;Right on Hamilton Av&lt;br&gt;Right on Smith St&lt;br&gt;Left on W 9 St then regular route&lt;br&gt;&lt;br&gt;&lt;b&gt;Southbound&lt;br&gt;&lt;/b&gt;Via Smith St&lt;br&gt;Right on 3 St&lt;br&gt;Right on 3 Av&lt;br&gt;Left on 9 St then regular route&lt;/div&gt;&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
+                  &lt;span class="TitlePlannedWork" &gt;Planned Detour&lt;/span&gt;
+                  &lt;br/&gt;
                 &lt;a class="plannedWorkDetailLink" onclick=ShowHide(182045);&gt;&lt;b&gt;B57 and B69 &lt;/b&gt;- &lt;b&gt;East/Northbound stop on Flushing Av at N Portland Av temporarily closed&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 182045 class="plannedWorkDetail" &gt;&lt;/b&gt;Until further notice&lt;br&gt;&lt;br&gt;Due to construction, please follow directional signage to the nearby temporary stop&lt;b&gt; on Flushing Av&lt;/b&gt;.&lt;br&gt;&lt;b&gt;                              [TP]&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
               &lt;br/&gt;
               &lt;br/&gt;
@@ -127,7 +140,7 @@
               &lt;br/&gt;
             </text>
     <Date>03/20/2018</Date>
-    <Time> 9:58PM</Time>
+    <Time>10:03PM</Time>
   </line>
   <line>
     <name>B100 - B103</name>
@@ -160,7 +173,7 @@
               &lt;br/&gt;
             </text>
     <Date>03/20/2018</Date>
-    <Time> 9:58PM</Time>
+    <Time>10:03PM</Time>
   </line>
   <line>
     <name>BXM1 - BXM18</name>
@@ -210,11 +223,11 @@
     <text>
                   &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                   &lt;span class="DateStyle"&gt;
-                  &amp;nbsp;Posted:&amp;nbsp;03/20/2018&amp;nbsp;10:01PM
+                  &amp;nbsp;Posted:&amp;nbsp;03/20/2018&amp;nbsp;10:03PM
                   &lt;/span&gt;
                   &lt;br/&gt;
                   &lt;br/&gt;
-                &lt;P&gt;&lt;STRONG&gt;Q12, Q13, Q15, Q15A, Q16, Q17, Q19, Q20A, Q20B, Q25, Q26, Q27, Q28, Q34, Q44-SBS, Q48, Q50, Q65&lt;/STRONG&gt; and&lt;STRONG&gt; Q66 &lt;/STRONG&gt;buses are running with delays in both directions because of traffic conditions in the downtown Flushing area. &lt;/P&gt;
+                &lt;STRONG&gt;Q12, Q13, Q15, Q15A, Q16, Q17, Q19, Q20A, Q20B, Q25, Q26, Q27, Q28, Q34, Q44-SBS, Q48, Q50, Q65&lt;/STRONG&gt; and&lt;STRONG&gt; Q66&lt;/STRONG&gt; bus service has resumed following earlier traffic conditions in Flushing.
               &lt;br/&gt;
               &lt;br/&gt;
             
@@ -247,7 +260,7 @@
               &lt;br/&gt;
             </text>
     <Date>03/20/2018</Date>
-    <Time>10:01PM</Time>
+    <Time>10:03PM</Time>
   </line>
   <line>
     <name>QM1 - QM44</name>
@@ -260,12 +273,6 @@
                   &lt;br/&gt;
                   &lt;br/&gt;
                 &lt;STRONG&gt;Q11, Q21, Q52-&lt;/STRONG&gt;SBS,&lt;STRONG&gt; Q53&lt;/STRONG&gt;-SBS,&lt;STRONG&gt;QM15,QM16,&lt;/STRONG&gt; and&lt;STRONG&gt; QM17&lt;/STRONG&gt; buses are running with delays in both directions because of a non MTA accident at Woodhaven Blvd and Hoffman Dr.
-              &lt;br/&gt;
-              &lt;br/&gt;
-            
-                  &lt;span class="TitlePlannedWork" &gt;Planned Detour&lt;/span&gt;
-                  &lt;br/&gt;
-                &lt;a class="plannedWorkDetailLink" onclick=ShowHide(169871);&gt;&lt;b&gt;QM24, QM25 and QM34 buses may experience delays&lt;br clear=left&gt;due to construction on Metropolitan Av at Fresh Pond Rd &lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 169871 class="plannedWorkDetail" &gt;&lt;/b&gt;6 AM to 10 PM, Mon to Fri, until further notice&lt;br&gt;&lt;br&gt;&amp;bull; Please allow additional travel time.&lt;br&gt;&lt;/font&gt;&lt;b&gt;          &lt;/b&gt;&lt;/font&gt;&lt;a href=http://bustime.mta.info/ target=_blank&gt;&lt;img height=30px src=http://web.mta.info/nyct/images/Bus_Time_logo.png&gt;&lt;/a&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
               &lt;br/&gt;
               &lt;br/&gt;
             
@@ -576,10 +583,17 @@
   </line>
   <line>
     <name>Danbury</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>DELAYS</status>
+    <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;03/20/2018&amp;nbsp;10:02PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  Danbury Branch Service is currently experiencing delays of 10 to 15 minutes due to a congestion. Please listen for announcements at your station.
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>03/20/2018</Date>
+    <Time>10:02PM</Time>
   </line>
   <line>
     <name>Waterbury</name>
