@@ -1,60 +1,975 @@
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
-   "http://www.w3.org/TR/html4/strict.dtd">
-   
-<html>
-<head>
-<title>mta.info | Error 503 Service Unavailable</title>
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7" />
+<service><responsecode>0</responsecode><subway>
+  <line>
+    <name>123</name>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
+  </line>
+  <line>
+    <name>456</name>
+    <status>SERVICE CHANGE</status>
+    <text>
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;03/21/2018&amp;nbsp;11:57AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  Northbound [4] trains are running local from &lt;STRONG&gt;Crown Hts-Utica Av&lt;/STRONG&gt; to &lt;STRONG&gt;Franklin Av&lt;/STRONG&gt; because of NYCT Winter Weather Plan.
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>03/21/2018</Date>
+    <Time>11:57AM</Time>
+  </line>
+  <line>
+    <name>7</name>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
+  </line>
+  <line>
+    <name>ACE</name>
+    <status>SERVICE CHANGE</status>
+    <text>
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;03/21/2018&amp;nbsp;10:57AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;P&gt;71 Av-bound [M] trains are running express from &lt;STRONG&gt;Queens Plaza &lt;/STRONG&gt;to&lt;STRONG&gt; Jackson Hts-Roosevelt Av&lt;/STRONG&gt; because of an investigation at &lt;STRONG&gt;Queens Plaza&lt;/STRONG&gt;.&lt;/P&gt;
+&lt;P&gt;Expect delays on the [E], [F], [M] and [R] trains.&lt;/P&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>03/21/2018</Date>
+    <Time>10:57AM</Time>
+  </line>
+  <line>
+    <name>BDFM</name>
+    <status>SERVICE CHANGE</status>
+    <text>
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;03/21/2018&amp;nbsp;10:57AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;P&gt;71 Av-bound [M] trains are running express from &lt;STRONG&gt;Queens Plaza &lt;/STRONG&gt;to&lt;STRONG&gt; Jackson Hts-Roosevelt Av&lt;/STRONG&gt; because of an investigation at &lt;STRONG&gt;Queens Plaza&lt;/STRONG&gt;.&lt;/P&gt;
+&lt;P&gt;Expect delays on the [E], [F], [M] and [R] trains.&lt;/P&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>03/21/2018</Date>
+    <Time>10:57AM</Time>
+  </line>
+  <line>
+    <name>G</name>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
+  </line>
+  <line>
+    <name>JZ</name>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
+  </line>
+  <line>
+    <name>L</name>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
+  </line>
+  <line>
+    <name>NQR</name>
+    <status>SERVICE CHANGE</status>
+    <text>
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;03/21/2018&amp;nbsp;10:57AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;P&gt;71 Av-bound [M] trains are running express from &lt;STRONG&gt;Queens Plaza &lt;/STRONG&gt;to&lt;STRONG&gt; Jackson Hts-Roosevelt Av&lt;/STRONG&gt; because of an investigation at &lt;STRONG&gt;Queens Plaza&lt;/STRONG&gt;.&lt;/P&gt;
+&lt;P&gt;Expect delays on the [E], [F], [M] and [R] trains.&lt;/P&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;03/21/2018&amp;nbsp; 9:51AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  Northbound [N] trains are running local from &lt;STRONG&gt;59 St&lt;/STRONG&gt; (Bklyn) to &lt;STRONG&gt;36 St&lt;/STRONG&gt; (Bklyn) because of NYCT Winter Weather Plan.
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>03/21/2018</Date>
+    <Time>10:57AM</Time>
+  </line>
+  <line>
+    <name>S</name>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
+  </line>
+  <line>
+    <name>SIR</name>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
+  </line>
+</subway><bus>
+  <line>
+    <name>B1 - B84</name>
+    <status>SERVICE CHANGE</status>
+    <text>
+                  &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                  &lt;span class="DateStyle"&gt;
+                  &amp;nbsp;Posted:&amp;nbsp;03/21/2018&amp;nbsp; 8:20AM
+                  &lt;/span&gt;
+                  &lt;br/&gt;
+                  &lt;br/&gt;
+                Due to the inclement weather, all limited bus routes will be running local for the duration of the snow event.
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
+                  &lt;span class="TitlePlannedWork" &gt;Planned Detour&lt;/span&gt;
+                  &lt;br/&gt;
+                &lt;a class="plannedWorkDetailLink" onclick=ShowHide(181582);&gt;&lt;b&gt;B82/B82 &lt;/b&gt;LTD - &lt;b&gt;Eastbound buses rerouted from Flatlands Av at E 103 St to E 105 St&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 181582 class="plannedWorkDetail" &gt;&lt;/b&gt;Until further notice&lt;br&gt;&lt;br&gt;Due to construction, please use nearby stops &lt;b&gt;on Flatlands Av&lt;/b&gt;.&lt;br&gt;&lt;br&gt;&lt;i&gt;Reroute Details&lt;br&gt;&lt;/i&gt;Via Glenwood Rd&lt;br&gt;Right on E 105 St&lt;br&gt;Left on Flatlands Av then regular route&lt;br&gt;&lt;br&gt;&lt;b&gt;Reminder&lt;/b&gt;: &lt;a href=http://web.mta.info/nyct/bus/schedule/bkln/b082cur.pdf target=_blank&gt;&lt;font color=#0000FF&gt;B82 LTD&lt;/font&gt;&lt;/a&gt; buses do not operate weekends or overnight.&lt;br&gt;&lt;b&gt;                              [TP]&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
+                  &lt;span class="TitlePlannedWork" &gt;Planned Detour&lt;/span&gt;
+                  &lt;br/&gt;
+                &lt;a class="plannedWorkDetailLink" onclick=ShowHide(182045);&gt;&lt;b&gt;B57 and B69 &lt;/b&gt;- &lt;b&gt;East/Northbound stop on Flushing Av at N Portland Av temporarily closed&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 182045 class="plannedWorkDetail" &gt;&lt;/b&gt;Until further notice&lt;br&gt;&lt;br&gt;Due to construction, please follow directional signage to the nearby temporary stop&lt;b&gt; on Flushing Av&lt;/b&gt;.&lt;br&gt;&lt;b&gt;                              [TP]&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
+                  &lt;span class="TitlePlannedWork" &gt;Planned Detour&lt;/span&gt;
+                  &lt;br/&gt;
+                &lt;a class="plannedWorkDetailLink" onclick=ShowHide(181743);&gt;&lt;b&gt;B25, B26, B38/B38 &lt;/b&gt;LTD &lt;b&gt;and B52 &lt;/b&gt;- &lt;b&gt;Eastbound stop on Fulton St at Flatbush Av Ext temporarily closed&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 181743 class="plannedWorkDetail" &gt;&lt;/b&gt;Until further notice&lt;br&gt;&lt;br&gt;Due to construction, please use the nearby stop &lt;b&gt;on Fulton St &lt;/b&gt;at &lt;a href=http://bustime.mta.info/#302947 target=_blank&gt;&lt;font color=#0000FF&gt;Bond St&lt;/font&gt;&lt;/a&gt;.&lt;br&gt;&lt;br&gt;&lt;b&gt;Reminder&lt;/b&gt;: &lt;a href=http://web.mta.info/nyct/bus/schedule/bkln/b038cur.pdf target=_blank&gt;&lt;font color=#0000FF&gt;B38/B38 LTD&lt;/font&gt;&lt;/a&gt; buses do not operate all times.&lt;br&gt;&lt;b&gt;                              [TP]&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
+                  &lt;span class="TitlePlannedWork" &gt;Planned Detour&lt;/span&gt;
+                  &lt;br/&gt;
+                &lt;a class="plannedWorkDetailLink" onclick=ShowHide(140601);&gt;&lt;b&gt;B24&lt;/b&gt; - &lt;b&gt;Northbound buses may experience delays due to construction on Greenpoint Av at West St  &lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 140601 class="plannedWorkDetail" &gt;&lt;/b&gt;Until further notice&lt;br&gt;&lt;br&gt;&amp;bull; &lt;/font&gt;Please allow additional travel time.&lt;br&gt;&lt;b&gt;          &lt;/b&gt;&lt;a href=http://bustime.mta.info/#b24 target=_blank&gt;&lt;img height=30px src=http://web.mta.info/nyct/images/Bus_Time_logo.png&gt;&lt;/a&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            </text>
+    <Date>03/21/2018</Date>
+    <Time> 8:20AM</Time>
+  </line>
+  <line>
+    <name>B100 - B103</name>
+    <status>SERVICE CHANGE</status>
+    <text>
+                  &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                  &lt;span class="DateStyle"&gt;
+                  &amp;nbsp;Posted:&amp;nbsp;03/21/2018&amp;nbsp; 8:20AM
+                  &lt;/span&gt;
+                  &lt;br/&gt;
+                  &lt;br/&gt;
+                Due to the inclement weather, all limited bus routes will be running local for the duration of the snow event.
+              &lt;br/&gt;
+              &lt;br/&gt;
+            </text>
+    <Date>03/21/2018</Date>
+    <Time> 8:20AM</Time>
+  </line>
+  <line>
+    <name>BM1 - BM5</name>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
+  </line>
+  <line>
+    <name>BX1 - BX55</name>
+    <status>SERVICE CHANGE</status>
+    <text>
+                  &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                  &lt;span class="DateStyle"&gt;
+                  &amp;nbsp;Posted:&amp;nbsp;03/21/2018&amp;nbsp;10:40AM
+                  &lt;/span&gt;
+                  &lt;br/&gt;
+                  &lt;br/&gt;
+                &lt;P&gt;&lt;STRONG&gt;Bx19&lt;/STRONG&gt; buses are detoured in both directions because of hazardous road conditions. &lt;/P&gt;
+&lt;P&gt;Detour is as follows:&lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;Bx19 Southbound&lt;/STRONG&gt;: Via 145 St to Broadway for temporary stand on 145 St and Broadway bus stop.&lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;Bx19 Northbound&lt;/STRONG&gt;: From temporary stand on 14 St and Broadway, right on to 147 St to southbound Broadway continue on Broadway to 145 St, left on 145 St and regular route.&lt;/P&gt;
+&lt;P&gt;145 St and Riverside Dr bus stop, and Riverbank Park bus stop will not be made. Customers may use 145 St and Broadway bus stop instead.&lt;/P&gt;
+&lt;P&gt; &lt;/P&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
+                  &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                  &lt;span class="DateStyle"&gt;
+                  &amp;nbsp;Posted:&amp;nbsp;03/21/2018&amp;nbsp; 8:20AM
+                  &lt;/span&gt;
+                  &lt;br/&gt;
+                  &lt;br/&gt;
+                Due to the inclement weather, all limited bus routes will be running local for the duration of the snow event.
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
+                  &lt;span class="TitlePlannedWork" &gt;Planned Detour&lt;/span&gt;
+                  &lt;br/&gt;
+                &lt;a class="plannedWorkDetailLink" onclick=ShowHide(182072);&gt;&lt;b&gt;Bx4/Bx4A stops on Bergen Av between E 149 St and Westchester Av temporarily relocated&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 182072 class="plannedWorkDetail" &gt;&lt;/b&gt;Until further notice&lt;br&gt;&lt;br&gt;Due to construction:&lt;br&gt;&lt;br&gt;&lt;b&gt;Northbound&lt;br&gt;&lt;/b&gt;&amp;bull;  The &lt;/font&gt;Bergen Av at Westchester Av bus stop will be made on &lt;/font&gt;Bergen Av near E 149 St.&lt;br&gt;&lt;br&gt;&lt;b&gt;Southbound&lt;br&gt;&lt;/b&gt;&amp;bull;&lt;/font&gt;  The Bergen Av at Westchester Av bus stop will be made on E 149 St at Bergen Av.&lt;br&gt;&lt;b&gt;                              [TP]&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
+                  &lt;span class="TitlePlannedWork" &gt;Planned Detour&lt;/span&gt;
+                  &lt;br/&gt;
+                &lt;a class="plannedWorkDetailLink" onclick=ShowHide(164794);&gt;&lt;b&gt;Bx4/Bx4A, Bx5, Bx11 and Bx35 buses may experience delays&lt;br clear=left&gt;due to construction on Westchester Av between Southern Blvd and Hoe Av&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 164794 class="plannedWorkDetail" &gt;&lt;/b&gt;Until further notice&lt;br&gt;&lt;br&gt;&amp;bull; Please allow additional travel time.&lt;br&gt;&lt;b&gt;          &lt;/b&gt;&lt;a href=http://bustime.mta.info/ target=_blank&gt;&lt;img height=30px src=http://web.mta.info/nyct/images/Bus_Time_logo.png&gt;&lt;/a&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            </text>
+    <Date>03/21/2018</Date>
+    <Time>10:40AM</Time>
+  </line>
+  <line>
+    <name>BXM1 - BXM18</name>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
+  </line>
+  <line>
+    <name>M1 - M116</name>
+    <status>DELAYS</status>
+    <text>
+                  &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                  &lt;span class="DateStyle"&gt;
+                  &amp;nbsp;Posted:&amp;nbsp;03/21/2018&amp;nbsp;11:57AM
+                  &lt;/span&gt;
+                  &lt;br/&gt;
+                  &lt;br/&gt;
+                &lt;STRONG&gt;M34-SBS&lt;/STRONG&gt; bus service has resumed following earlier weather related road conditions on 33 St between 11 Av and 12 Av.
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
+                  &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                  &lt;span class="DateStyle"&gt;
+                  &amp;nbsp;Posted:&amp;nbsp;03/21/2018&amp;nbsp;10:41AM
+                  &lt;/span&gt;
+                  &lt;br/&gt;
+                  &lt;br/&gt;
+                &lt;P&gt;&lt;STRONG&gt;M11 &lt;/STRONG&gt;buses are detoured in both directions because of hazardous road conditions. &lt;/P&gt;
+&lt;P&gt;Detour is as follows:&lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;Northbound:&lt;/STRONG&gt; Via 135 St, right on Broadway, left U-turn on 147 St to southbound Broadway for temporary stand.&lt;/P&gt;
+&lt;P&gt;Bus stops on 135 St between Broadway and Riverside Drive will be made on Broadway and 135 St at the &lt;STRONG&gt;M5&lt;/STRONG&gt; bus stop.&lt;/P&gt;
+&lt;P&gt;Bus stops on Riverside Drive between 135 St and Riverbank Park will be made on Broadway at corresponding &lt;STRONG&gt;M5&lt;/STRONG&gt; bus stops.&lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;Southbound:&lt;/STRONG&gt; From temporary stand on Broadway and 145 St, left on 135 St and regular route.&lt;/P&gt;
+&lt;P&gt;Bus stops on Riverside Drive between Riverbank Park and 135 St will be made on Broadway at corresponding &lt;STRONG&gt;M5&lt;/STRONG&gt; bus stops.&lt;/P&gt;
+&lt;P&gt;Bus stops on 135 St between Riverside Drive and Broadway will be made on 135 St and Broadway.&lt;/P&gt;
+&lt;P&gt; &lt;/P&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
+                  &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                  &lt;span class="DateStyle"&gt;
+                  &amp;nbsp;Posted:&amp;nbsp;03/21/2018&amp;nbsp; 8:20AM
+                  &lt;/span&gt;
+                  &lt;br/&gt;
+                  &lt;br/&gt;
+                Due to the inclement weather, all limited bus routes will be running local for the duration of the snow event.
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
+                  &lt;span class="TitlePlannedWork" &gt;Planned Detour&lt;/span&gt;
+                  &lt;br/&gt;
+                &lt;a class="plannedWorkDetailLink" onclick=ShowHide(184069);&gt;&lt;b&gt;M9 &lt;/b&gt;- &lt;b&gt;Northbound buses rerouted from Warren St at West St to Broadway&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 184069 class="plannedWorkDetail" &gt;&lt;/b&gt;All times until Thursday, Mar 22&lt;br&gt;&lt;br&gt;Due to construction, buses run via &lt;b&gt;Chambers St &lt;/b&gt;making corresponding stops.&lt;br&gt;&lt;br&gt;Reroute Details&lt;br&gt;Via West St&lt;br&gt;Right on Chambers St&lt;br&gt;Right on Broadway then regular route&lt;br&gt;&lt;br&gt;&lt;b&gt;Reminder&lt;/b&gt;: &lt;a href=http://web.mta.info/nyct/bus/schedule/manh/m009cur.pdf target=_blank&gt;&lt;font color=#0000FF&gt;M9&lt;/font&gt;&lt;/a&gt; buses do not operate overnight.&lt;br&gt;&lt;b&gt;                              [TP]&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
+                  &lt;span class="TitlePlannedWork" &gt;Planned Detour&lt;/span&gt;
+                  &lt;br/&gt;
+                &lt;a class="plannedWorkDetailLink" onclick=ShowHide(184068);&gt;&lt;b&gt;M8&lt;/b&gt; - &lt;b&gt;Eastbound buses rerouted from W 10 St at Hudson St to Bleecker St &lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 184068 class="plannedWorkDetail" &gt;&lt;/b&gt;7 AM to 3 PM, until Saturday, May 12&lt;br&gt;&lt;br&gt;Due to construction, buses run via &lt;b&gt;Perry St &lt;/b&gt;making corresponding stops.&lt;br&gt;&lt;br&gt;&lt;b&gt;&lt;i&gt;&lt;a style="cursor:pointer; text-decoration:underline;" onclick=ShowHide(1840680);&gt;Show Reroute Details&lt;/a&gt;&lt;/i&gt;&lt;/b&gt;&lt;br&gt;&lt;div id="1840680"; style="display:none;"&gt;Via W 10 St&lt;br&gt;Left on Hudson St&lt;br&gt;Right on Perry St&lt;br&gt;Right on Bleecker St&lt;br&gt;Left on W 10 St then regular route&lt;/div&gt;&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
+                  &lt;span class="TitlePlannedWork" &gt;Planned Detour&lt;/span&gt;
+                  &lt;br/&gt;
+                &lt;a class="plannedWorkDetailLink" onclick=ShowHide(77041);&gt;&lt;b&gt;M2/M2&lt;/b&gt; LTD&lt;b&gt; and M3 - Southbound stop on Broadway at 168 St temporarily relocated&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 77041 class="plannedWorkDetail" &gt;&lt;/b&gt;Until further notice&lt;br&gt;&lt;br&gt;Due to construction, please follow directional signage to nearby temporary stops &lt;b&gt;on 168 St&lt;/b&gt; at Audubon Av&lt;br clear =left&gt;(M2/M2 LTD) and &lt;b&gt;on 168 St &lt;/b&gt;at Broadway (M3).&lt;br&gt;&lt;br&gt;&lt;b&gt;Reminder&lt;/b&gt;: &lt;a href=http://web.mta.info/nyct/bus/schedule/manh/m002cur.pdf target=_blank&gt;&lt;font color=#0000FF&gt;M2 LTD&lt;/font&gt;&lt;a/&gt; and &lt;a href=http://web.mta.info/nyct/bus/schedule/manh/m003cur.pdf target=_blank&gt;&lt;font color=#0000FF&gt;M3&lt;/font&gt;&lt;a/&gt; buses do not operate overnight.&lt;br&gt;&lt;b&gt;                              [TP]&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            </text>
+    <Date>03/21/2018</Date>
+    <Time>11:57AM</Time>
+  </line>
+  <line>
+    <name>Q1 - Q113</name>
+    <status>SERVICE CHANGE</status>
+    <text>
+                  &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                  &lt;span class="DateStyle"&gt;
+                  &amp;nbsp;Posted:&amp;nbsp;03/21/2018&amp;nbsp;10:11AM
+                  &lt;/span&gt;
+                  &lt;br/&gt;
+                  &lt;br/&gt;
+                &lt;P&gt;&lt;STRONG&gt;Q114-Ltd &lt;/STRONG&gt;buses are detoured because of icing conditions on Brookville Blvd. &lt;/P&gt;
+&lt;P&gt;Detour is as follows:&lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;Northbound to Parsons Blvd&lt;/STRONG&gt;: Via Rockaway Blvd, right on Guy R Brewer Blvd and regular route.&lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;Southbound to Seagirt Blvd&lt;/STRONG&gt;: Via Guy R Brewer Blvd, left on Rockaway Blvd and regular route.&lt;/P&gt;
+&lt;P&gt;Corresponding stops will be made along detour route.&lt;/P&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
+                  &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                  &lt;span class="DateStyle"&gt;
+                  &amp;nbsp;Posted:&amp;nbsp;03/21/2018&amp;nbsp;10:03AM
+                  &lt;/span&gt;
+                  &lt;br/&gt;
+                  &lt;br/&gt;
+                &lt;P&gt;All Queens &lt;STRONG&gt;local, select&lt;/STRONG&gt; and &lt;STRONG&gt;express&lt;/STRONG&gt; buses are running with delays in both directions because of inclement weather conditions.&lt;/P&gt;
+&lt;P&gt; &lt;/P&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
+                  &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                  &lt;span class="DateStyle"&gt;
+                  &amp;nbsp;Posted:&amp;nbsp;03/21/2018&amp;nbsp; 8:20AM
+                  &lt;/span&gt;
+                  &lt;br/&gt;
+                  &lt;br/&gt;
+                Due to the inclement weather, all limited bus routes will be running local for the duration of the snow event.
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
+                  &lt;span class="TitlePlannedWork" &gt;Planned Detour&lt;/span&gt;
+                  &lt;br/&gt;
+                &lt;a class="plannedWorkDetailLink" onclick=ShowHide(168561);&gt;&lt;b&gt;Q64, QM4 and QM44 buses may experience delays&lt;br clear=left&gt;due to construction on the Jewel Av exit of the Van Wyck Expy&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 168561 class="plannedWorkDetail" &gt;&lt;/b&gt;Until further notice&lt;br&gt;&lt;br&gt;&amp;bull; Please allow additional travel time.&lt;br&gt;&lt;b&gt;          &lt;/b&gt;&lt;a href=http://bustime.mta.info/ target=_blank&gt;&lt;img height=30px src=http://web.mta.info/nyct/images/Bus_Time_logo.png&gt;&lt;/a&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
+                  &lt;span class="TitlePlannedWork" &gt;Planned Detour&lt;/span&gt;
+                  &lt;br/&gt;
+                &lt;a class="plannedWorkDetailLink" onclick=ShowHide(147045);&gt;&lt;b&gt;Q38, Q39, Q54, Q58/Q58 &lt;/b&gt;LTD&lt;b&gt; and Q67 buses may experience delays&lt;br clear=left&gt;due to construction on Metropolitan Av at Fresh Pond Rd&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 147045 class="plannedWorkDetail" &gt;&lt;/b&gt;6 AM to 10 PM, until further notice&lt;br&gt;&lt;br&gt;&amp;bull; Please allow additional travel time.&lt;br&gt;&lt;/font&gt;&lt;b&gt;          &lt;/b&gt;&lt;/font&gt;&lt;a href=http://bustime.mta.info/ target=_blank&gt;&lt;img height=30px src=http://web.mta.info/nyct/images/Bus_Time_logo.png&gt;&lt;/a&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
+                  &lt;span class="TitlePlannedWork" &gt;Planned Detour&lt;/span&gt;
+                  &lt;br/&gt;
+                &lt;a class="plannedWorkDetailLink" onclick=ShowHide(152128);&gt;&lt;b&gt;Q27/Q27 &lt;/b&gt;LTD&lt;b&gt;, Q30, QM5 and QM35 buses may experience delays&lt;br clear=left&gt;due to construction on Springfield Blvd between Horace Harding Expy and 56 Av&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 152128 class="plannedWorkDetail" &gt;&lt;/b&gt;Until further notice&lt;br&gt;&lt;br&gt;&amp;bull; Please allow additional travel time.&lt;br&gt;&lt;/font&gt;&lt;b&gt;          &lt;/b&gt;&lt;/font&gt;&lt;a href=http://bustime.mta.info/ target=_blank&gt;&lt;img height=30px src=http://web.mta.info/nyct/images/Bus_Time_logo.png&gt;&lt;/a&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            </text>
+    <Date>03/21/2018</Date>
+    <Time>10:11AM</Time>
+  </line>
+  <line>
+    <name>QM1 - QM44</name>
+    <status>DELAYS</status>
+    <text>
+                  &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                  &lt;span class="DateStyle"&gt;
+                  &amp;nbsp;Posted:&amp;nbsp;03/21/2018&amp;nbsp;10:03AM
+                  &lt;/span&gt;
+                  &lt;br/&gt;
+                  &lt;br/&gt;
+                &lt;P&gt;All Queens &lt;STRONG&gt;local, select&lt;/STRONG&gt; and &lt;STRONG&gt;express&lt;/STRONG&gt; buses are running with delays in both directions because of inclement weather conditions.&lt;/P&gt;
+&lt;P&gt; &lt;/P&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
+                  &lt;span class="TitlePlannedWork" &gt;Planned Detour&lt;/span&gt;
+                  &lt;br/&gt;
+                &lt;a class="plannedWorkDetailLink" onclick=ShowHide(169871);&gt;&lt;b&gt;QM24, QM25 and QM34 buses may experience delays&lt;br clear=left&gt;due to construction on Metropolitan Av at Fresh Pond Rd &lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 169871 class="plannedWorkDetail" &gt;&lt;/b&gt;6 AM to 10 PM, Mon to Fri, until further notice&lt;br&gt;&lt;br&gt;&amp;bull; Please allow additional travel time.&lt;br&gt;&lt;/font&gt;&lt;b&gt;          &lt;/b&gt;&lt;/font&gt;&lt;a href=http://bustime.mta.info/ target=_blank&gt;&lt;img height=30px src=http://web.mta.info/nyct/images/Bus_Time_logo.png&gt;&lt;/a&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
+                  &lt;span class="TitlePlannedWork" &gt;Planned Detour&lt;/span&gt;
+                  &lt;br/&gt;
+                &lt;a class="plannedWorkDetailLink" onclick=ShowHide(168561);&gt;&lt;b&gt;Q64, QM4 and QM44 buses may experience delays&lt;br clear=left&gt;due to construction on the Jewel Av exit of the Van Wyck Expy&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 168561 class="plannedWorkDetail" &gt;&lt;/b&gt;Until further notice&lt;br&gt;&lt;br&gt;&amp;bull; Please allow additional travel time.&lt;br&gt;&lt;b&gt;          &lt;/b&gt;&lt;a href=http://bustime.mta.info/ target=_blank&gt;&lt;img height=30px src=http://web.mta.info/nyct/images/Bus_Time_logo.png&gt;&lt;/a&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
+                  &lt;span class="TitlePlannedWork" &gt;Planned Detour&lt;/span&gt;
+                  &lt;br/&gt;
+                &lt;a class="plannedWorkDetailLink" onclick=ShowHide(152128);&gt;&lt;b&gt;Q27/Q27 &lt;/b&gt;LTD&lt;b&gt;, Q30, QM5 and QM35 buses may experience delays&lt;br clear=left&gt;due to construction on Springfield Blvd between Horace Harding Expy and 56 Av&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 152128 class="plannedWorkDetail" &gt;&lt;/b&gt;Until further notice&lt;br&gt;&lt;br&gt;&amp;bull; Please allow additional travel time.&lt;br&gt;&lt;/font&gt;&lt;b&gt;          &lt;/b&gt;&lt;/font&gt;&lt;a href=http://bustime.mta.info/ target=_blank&gt;&lt;img height=30px src=http://web.mta.info/nyct/images/Bus_Time_logo.png&gt;&lt;/a&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            </text>
+    <Date>03/21/2018</Date>
+    <Time>10:03AM</Time>
+  </line>
+  <line>
+    <name>S40 - S98</name>
+    <status>SERVICE CHANGE</status>
+    <text>
+                  &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                  &lt;span class="DateStyle"&gt;
+                  &amp;nbsp;Posted:&amp;nbsp;03/21/2018&amp;nbsp; 8:20AM
+                  &lt;/span&gt;
+                  &lt;br/&gt;
+                  &lt;br/&gt;
+                Due to the inclement weather, all limited bus routes will be running local for the duration of the snow event.
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
+                  &lt;span class="TitlePlannedWork" &gt;Planned Detour&lt;/span&gt;
+                  &lt;br/&gt;
+                &lt;a class="plannedWorkDetailLink" onclick=ShowHide(183540);&gt;&lt;b&gt;S61 and S91 &lt;/b&gt;LTD &lt;b&gt;buses rerouted from Harold St between Forest Hill Rd and Bradley Av&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 183540 class="plannedWorkDetail" &gt;&lt;/b&gt;Until further notice&lt;br&gt;&lt;br&gt;Due to utility work, buses make corresponding stops along the detoured route in both directions.&lt;br&gt;&lt;br&gt;&lt;b&gt;&lt;i&gt;&lt;a style="cursor:pointer; text-decoration:underline;" onclick=ShowHide(1835400);&gt;Show Reroute Details&lt;/a&gt;&lt;/i&gt;&lt;/b&gt;&lt;br&gt;&lt;div id="1835400"; style="display:none;"&gt;&lt;b&gt;Eastbound&lt;br&gt;&lt;/b&gt;Via Forest Hill Rd&lt;br&gt;Right on Willowbrook Rd&lt;br&gt;Left on Bradley Av then regular route&lt;br&gt;&lt;br&gt;&lt;b&gt;Westbound&lt;br&gt;&lt;/b&gt;Via Bradley Av&lt;br&gt;Right on Willowbrook Rd&lt;br&gt;Left on Forest Hill Rd then regular route&lt;/div&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Reminder&lt;/b&gt;: &lt;a href=http://web.mta.info/nyct/bus/schedule/staten/s061cur.pdf target=_blank&gt;&lt;font color=#0000FF&gt;S61, S91 LTD&lt;/font&gt;&lt;/a&gt; buses do not operate all times.&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            </text>
+    <Date>03/21/2018</Date>
+    <Time> 8:20AM</Time>
+  </line>
+  <line>
+    <name>x1 - x68</name>
+    <status>DELAYS</status>
+    <text>
+                  &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                  &lt;span class="DateStyle"&gt;
+                  &amp;nbsp;Posted:&amp;nbsp;03/21/2018&amp;nbsp;10:03AM
+                  &lt;/span&gt;
+                  &lt;br/&gt;
+                  &lt;br/&gt;
+                &lt;P&gt;All Queens &lt;STRONG&gt;local, select&lt;/STRONG&gt; and &lt;STRONG&gt;express&lt;/STRONG&gt; buses are running with delays in both directions because of inclement weather conditions.&lt;/P&gt;
+&lt;P&gt; &lt;/P&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
+                  &lt;span class="TitlePlannedWork" &gt;Planned Detour&lt;/span&gt;
+                  &lt;br/&gt;
+                &lt;a class="plannedWorkDetailLink" onclick=ShowHide(182349);&gt;&lt;b&gt;X17C and X22/X22A buses rerouted from Amboy Rd between Page Av and Richmond Valley Rd&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 182349 class="plannedWorkDetail" &gt;&lt;/b&gt;Until further notice&lt;br&gt;&lt;br&gt;Due to construction:&lt;br&gt;&lt;br&gt;&lt;b&gt;Northbound&lt;br&gt;&lt;/b&gt;&amp;bull;  The &lt;/font&gt;Page Av at Amboy Rd bus stop will be made on Page Av near Amboy Rd.&lt;br&gt;&amp;bull;&lt;/font&gt;  The Amboy Rd at Richmond Valley Rd bus stop will be made on Richmond Valley Rd at Amboy Rd.&lt;br&gt;&lt;br&gt;&lt;b&gt;Southbound&lt;br&gt;&lt;/b&gt;&amp;bull;  &lt;/font&gt;The Amboy Rd at Murray St bus stop will be made on Page Av near Amboy Rd.&lt;br&gt;&amp;bull;  &lt;/font&gt;The Amboy Rd at Richmond Valley Rd bus stop will be made on Richmond Valley Rd at Amboy Rd.&lt;br&gt;&lt;br&gt;&lt;b&gt;&lt;i&gt;&lt;a style="cursor:pointer; text-decoration:underline;" onclick=ShowHide(1823490);&gt;Show Reroute Details&lt;/a&gt;&lt;/i&gt;&lt;/b&gt;&lt;br&gt;&lt;div id="1823490"; style="display:none;"&gt;&lt;b&gt;Northbound&lt;br&gt;&lt;/b&gt;Via Amboy Rd&lt;br&gt;Continue on Amboy Rd&lt;br&gt;Left on Page Av&lt;br&gt;Right on Richmond Valley Rd&lt;br&gt;Into Amboy Rd then regular route&lt;br&gt;&lt;br&gt;&lt;b&gt;Southbound&lt;br&gt;&lt;/b&gt;Via Amboy Rd&lt;br&gt;Continue on Amboy Rd&lt;br&gt;Right on Richmond Valley Rd&lt;br&gt;Left on Page Av&lt;br&gt;Right on Amboy Rd then regular route&lt;/div&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Reminder&lt;/b&gt;: &lt;a href=http://web.mta.info/nyct/bus/schedule/xpress/x017cur.pdf target=_blank&gt;&lt;font color=#0000FF&gt;X17C&lt;/font&gt;&lt;/a&gt; and &lt;a href=http://web.mta.info/nyct/bus/schedule/xpress/x022cur.pdf target=_blank&gt;&lt;font color=#0000FF&gt;X22/X22A&lt;/font&gt;&lt;/a&gt; buses do not operate all times.&lt;br&gt;&lt;b&gt;                              [TP]&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            </text>
+    <Date>03/21/2018</Date>
+    <Time>10:03AM</Time>
+  </line>
+</bus><BT>
+  <line>
+    <name>Bronx-Whitestone</name>
+    <status>SERVICE CHANGE</status>
+    <text>
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;03/21/2018&amp;nbsp;10:00AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  WINTER DRIVING CONDITIONS. MOTORISTS ARE URGED TO AVOID UNNECESSARY TRAVEL.
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>03/21/2018</Date>
+    <Time>10:00AM</Time>
+  </line>
+  <line>
+    <name>Cross Bay</name>
+    <status>SERVICE CHANGE</status>
+    <text>
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;03/21/2018&amp;nbsp;10:00AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  WINTER DRIVING CONDITIONS. MOTORISTS ARE URGED TO AVOID UNNECESSARY TRAVEL.
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>03/21/2018</Date>
+    <Time>10:00AM</Time>
+  </line>
+  <line>
+    <name>Henry Hudson</name>
+    <status>SERVICE CHANGE</status>
+    <text>
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;03/21/2018&amp;nbsp;10:00AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  WINTER DRIVING CONDITIONS. MOTORISTS ARE URGED TO AVOID UNNECESSARY TRAVEL.
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>03/21/2018</Date>
+    <Time>10:00AM</Time>
+  </line>
+  <line>
+    <name>Hugh L. Carey</name>
+    <status>SERVICE CHANGE</status>
+    <text>
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;03/21/2018&amp;nbsp;10:00AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  WINTER DRIVING CONDITIONS. MOTORISTS ARE URGED TO AVOID UNNECESSARY TRAVEL.
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>03/21/2018</Date>
+    <Time>10:00AM</Time>
+  </line>
+  <line>
+    <name>Marine Parkway</name>
+    <status>SERVICE CHANGE</status>
+    <text>
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;03/21/2018&amp;nbsp;10:00AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  WINTER DRIVING CONDITIONS. MOTORISTS ARE URGED TO AVOID UNNECESSARY TRAVEL.
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>03/21/2018</Date>
+    <Time>10:00AM</Time>
+  </line>
+  <line>
+    <name>Queens Midtown</name>
+    <status>SERVICE CHANGE</status>
+    <text>
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;03/21/2018&amp;nbsp;10:00AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  WINTER DRIVING CONDITIONS. MOTORISTS ARE URGED TO AVOID UNNECESSARY TRAVEL.
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>03/21/2018</Date>
+    <Time>10:00AM</Time>
+  </line>
+  <line>
+    <name>Robert F. Kennedy</name>
+    <status>SERVICE CHANGE</status>
+    <text>
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;03/21/2018&amp;nbsp;10:00AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  WINTER DRIVING CONDITIONS. MOTORISTS ARE URGED TO AVOID UNNECESSARY TRAVEL.
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>03/21/2018</Date>
+    <Time>10:00AM</Time>
+  </line>
+  <line>
+    <name>Throgs Neck</name>
+    <status>SERVICE CHANGE</status>
+    <text>
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;03/21/2018&amp;nbsp;10:00AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  WINTER DRIVING CONDITIONS. MOTORISTS ARE URGED TO AVOID UNNECESSARY TRAVEL.
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>03/21/2018</Date>
+    <Time>10:00AM</Time>
+  </line>
+  <line>
+    <name>Verrazano-Narrows</name>
+    <status>SERVICE CHANGE</status>
+    <text>
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;03/21/2018&amp;nbsp;10:00AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  WINTER DRIVING CONDITIONS. MOTORISTS ARE URGED TO AVOID UNNECESSARY TRAVEL.
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>03/21/2018</Date>
+    <Time>10:00AM</Time>
+  </line>
+</BT><LIRR>
+  <line>
+    <name>Babylon</name>
+    <status>SERVICE CHANGE</status>
+    <text>
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;03/21/2018&amp;nbsp;11:35AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  The LIRR will run an additional train from Penn Station to Babylon for those leaving early due to the winter storm. The extra train departs Penn at 2:22PM running express to Rockville Centre and then making all stops to Babylon.
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>03/21/2018</Date>
+    <Time>11:35AM</Time>
+  </line>
+  <line>
+    <name>City Terminal Zone</name>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
+  </line>
+  <line>
+    <name>Far Rockaway</name>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
+  </line>
+  <line>
+    <name>Hempstead</name>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
+  </line>
+  <line>
+    <name>Long Beach</name>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
+  </line>
+  <line>
+    <name>Montauk</name>
+    <status>PLANNED WORK</status>
+    <text>
+                    &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
+                    &lt;br/&gt;
+                  &lt;span&gt;&lt;b&gt;&lt;font size="3"&gt;Buses Replace Midday Weekday Trains between Patchogue &amp; Montauk thru May 18&lt;/font&gt;&lt;/b&gt;&lt;br&gt;&lt;br&gt;Starting
+ Monday,February 26 through Friday, May 18, buses will replace midday 
+off-peak trains between Montauk and Patchogue to accommodate 
+state-of-good-repair tie replacement work. Service is affected as 
+follows:&lt;br&gt;&lt;br&gt;&lt;b&gt;EASTBOUND&lt;/b&gt;&lt;br&gt;&lt;/span&gt;&lt;ul&gt;&lt;li&gt;&lt;span&gt;The 8:57 AM 
+train from     Babylon, scheduled to arrive Montauk at 10:57 AM, will 
+terminate at     Patchogue. Customers traveling to stations Bellport 
+through Montauk will     be accommodated by bus service.&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;The
+ 11:25 AM train from     Jamaica, scheduled to arrive Montauk at 2:15 
+PM, will terminate at     Patchogue. Customers traveling to stations 
+Bellport through Montauk will     be accommodated by bus service.&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;The
+ 11:27 AM train from     Babylon scheduled to arrive at Speonk at 12:27 
+PM, will terminate at     Patchogue. Customers traveling to stations 
+Bellport through Speonk will be     accommodated by bus service. &lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;span&gt;&lt;b&gt;WESTBOUND&lt;/b&gt;&lt;br&gt;&lt;/span&gt;&lt;ul&gt;&lt;li&gt;&lt;span&gt;The
+ 11:18 AM train from     Montauk, scheduled to arrive at Jamaica at 2:15
+ PM, will originate at     Patchogue at 1:07 PM. Customers at stations 
+Montauk through Patchogue will     be accommodated by buses departing up
+ to 1 hour and 5 minutes later than     usual train times.&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;The
+ 2:00 PM train from     Speonk, scheduled to arrive at Jamaica 3:36 PM, 
+will originate at     Patchogue at 2:30 PM. Customers at stations 
+Montauk through Speonk will be     accommodated by buses departing up to
+ 1 hour and 5 minutes later than     usual train times.&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;The
+ 2:51 PM train from     Montauk, scheduled to arrive at Jamaica at 5:50 
+PM, will originate at     Patchogue at 4:43 PM. Customers at stations 
+Montauk through Patchogue will     be accommodated by buses departing up
+ to 1 hour and 5 minutes later than     usual train times. &lt;br&gt;&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;font size="2" face="Arial"&gt;&lt;/font&gt;&lt;p class="MsoNormalCxSpMiddle" style="margin-left:.5in;"&gt;&lt;font size="2" face="Arial"&gt;&lt;span style=""&gt; &lt;/span&gt;&lt;/font&gt;&lt;/p&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>03/21/2018</Date>
+    <Time> 7:00AM</Time>
+  </line>
+  <line>
+    <name>Oyster Bay</name>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
+  </line>
+  <line>
+    <name>Port Jefferson</name>
+    <status>SERVICE CHANGE</status>
+    <text>
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;03/21/2018&amp;nbsp;11:38AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  The LIRR will run two extra trains from Penn Station to Huntington and Hicksville for those leaving early due to the winter storm. &lt;br&gt;&lt;ul&gt;&lt;li&gt;The first extra train departs Penn at 2:08 PM stopping at Jamaica, Mineola and then making all stops to Huntington.&lt;/li&gt;&lt;li&gt;The second extra train departs Penn at 3:24PM stopping at Jamaica, Mineola, Westbury and arriving Hicksville 4:05PM.&lt;/li&gt;&lt;/ul&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>03/21/2018</Date>
+    <Time>11:38AM</Time>
+  </line>
+  <line>
+    <name>Port Washington</name>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
+  </line>
+  <line>
+    <name>Ronkonkoma</name>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
+  </line>
+  <line>
+    <name>West Hempstead</name>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
+  </line>
+</LIRR><MetroNorth>
+  <line>
+    <name>Hudson</name>
+    <status>SERVICE CHANGE</status>
+    <text>
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;03/21/2018&amp;nbsp; 7:11AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;span style="font-family: "Calibri",sans-serif; font-size: 11pt;"Times New Roman";"&gt;Today, Wednesday March 21, Metro-North is operating a reduced weekday schedule with
+some combined/cancelled trains during the peak periods.  &lt;br&gt;
+&lt;br&gt;
+Conditions are expected to deteriorate rapidly during the day, making travel
+extremely difficult or even impossible.  Please travel only if necessary.
+In the evening, Metro-North plans to further reduce its service to hourly to
+ensure customer safety during the storm. For those customers who are unable to
+postpone their travel until after the storm, please leave as early as possible
+in the afternoon and leave extra time to reach your destination.
+ Customers should anticipate delays due to the effects of the winter storm
+throughout our service territory. &lt;br&gt;
+&lt;br&gt;
+Should storm conditions worsen during the day and impact our ability to safely
+operate trains, Metro-North may be forced to suspend service with little
+advance notice. &lt;br&gt;
+&lt;br&gt;
+Hudson Rail Link may also be suspended as conditions worsen.&lt;/span&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>03/21/2018</Date>
+    <Time> 7:11AM</Time>
+  </line>
+  <line>
+    <name>Harlem</name>
+    <status>SERVICE CHANGE</status>
+    <text>
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;03/21/2018&amp;nbsp; 7:11AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;span style="font-family: "Calibri",sans-serif; font-size: 11pt;"Times New Roman";"&gt;Today, Wednesday March 21, Metro-North is operating a reduced weekday schedule with
+some combined/cancelled trains during the peak periods.  &lt;br&gt;
+&lt;br&gt;
+Conditions are expected to deteriorate rapidly during the day, making travel
+extremely difficult or even impossible.  Please travel only if necessary.
+In the evening, Metro-North plans to further reduce its service to hourly to
+ensure customer safety during the storm. For those customers who are unable to
+postpone their travel until after the storm, please leave as early as possible
+in the afternoon and leave extra time to reach your destination.
+ Customers should anticipate delays due to the effects of the winter storm
+throughout our service territory. &lt;br&gt;
+&lt;br&gt;
+Should storm conditions worsen during the day and impact our ability to safely
+operate trains, Metro-North may be forced to suspend service with little
+advance notice. &lt;br&gt;
+&lt;br&gt;
+Hudson Rail Link may also be suspended as conditions worsen.&lt;/span&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>03/21/2018</Date>
+    <Time> 7:11AM</Time>
+  </line>
+  <line>
+    <name>Wassaic</name>
+    <status>SERVICE CHANGE</status>
+    <text>
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;03/21/2018&amp;nbsp; 7:11AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;span style="font-family: "Calibri",sans-serif; font-size: 11pt;"Times New Roman";"&gt;Today, Wednesday March 21, Metro-North is operating a reduced weekday schedule with
+some combined/cancelled trains during the peak periods.  &lt;br&gt;
+&lt;br&gt;
+Conditions are expected to deteriorate rapidly during the day, making travel
+extremely difficult or even impossible.  Please travel only if necessary.
+In the evening, Metro-North plans to further reduce its service to hourly to
+ensure customer safety during the storm. For those customers who are unable to
+postpone their travel until after the storm, please leave as early as possible
+in the afternoon and leave extra time to reach your destination.
+ Customers should anticipate delays due to the effects of the winter storm
+throughout our service territory. &lt;br&gt;
+&lt;br&gt;
+Should storm conditions worsen during the day and impact our ability to safely
+operate trains, Metro-North may be forced to suspend service with little
+advance notice. &lt;br&gt;
+&lt;br&gt;
+Hudson Rail Link may also be suspended as conditions worsen.&lt;/span&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>03/21/2018</Date>
+    <Time> 7:11AM</Time>
+  </line>
+  <line>
+    <name>New Haven</name>
+    <status>SERVICE CHANGE</status>
+    <text>
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;03/21/2018&amp;nbsp; 7:11AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;span style="font-family: "Calibri",sans-serif; font-size: 11pt;"Times New Roman";"&gt;Today, Wednesday March 21, Metro-North is operating a reduced weekday schedule with
+some combined/cancelled trains during the peak periods.  &lt;br&gt;
+&lt;br&gt;
+Conditions are expected to deteriorate rapidly during the day, making travel
+extremely difficult or even impossible.  Please travel only if necessary.
+In the evening, Metro-North plans to further reduce its service to hourly to
+ensure customer safety during the storm. For those customers who are unable to
+postpone their travel until after the storm, please leave as early as possible
+in the afternoon and leave extra time to reach your destination.
+ Customers should anticipate delays due to the effects of the winter storm
+throughout our service territory. &lt;br&gt;
+&lt;br&gt;
+Should storm conditions worsen during the day and impact our ability to safely
+operate trains, Metro-North may be forced to suspend service with little
+advance notice. &lt;br&gt;
+&lt;br&gt;
+Hudson Rail Link may also be suspended as conditions worsen.&lt;/span&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>03/21/2018</Date>
+    <Time> 7:11AM</Time>
+  </line>
+  <line>
+    <name>New Canaan</name>
+    <status>SERVICE CHANGE</status>
+    <text>
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;03/21/2018&amp;nbsp; 7:11AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;span style="font-family: "Calibri",sans-serif; font-size: 11pt;"Times New Roman";"&gt;Today, Wednesday March 21, Metro-North is operating a reduced weekday schedule with
+some combined/cancelled trains during the peak periods.  &lt;br&gt;
+&lt;br&gt;
+Conditions are expected to deteriorate rapidly during the day, making travel
+extremely difficult or even impossible.  Please travel only if necessary.
+In the evening, Metro-North plans to further reduce its service to hourly to
+ensure customer safety during the storm. For those customers who are unable to
+postpone their travel until after the storm, please leave as early as possible
+in the afternoon and leave extra time to reach your destination.
+ Customers should anticipate delays due to the effects of the winter storm
+throughout our service territory. &lt;br&gt;
+&lt;br&gt;
+Should storm conditions worsen during the day and impact our ability to safely
+operate trains, Metro-North may be forced to suspend service with little
+advance notice. &lt;br&gt;
+&lt;br&gt;
+Hudson Rail Link may also be suspended as conditions worsen.&lt;/span&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>03/21/2018</Date>
+    <Time> 7:11AM</Time>
+  </line>
+  <line>
+    <name>Danbury</name>
+    <status>SERVICE CHANGE</status>
+    <text>
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;03/21/2018&amp;nbsp; 7:11AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;span style="font-family: "Calibri",sans-serif; font-size: 11pt;"Times New Roman";"&gt;Today, Wednesday March 21, Metro-North is operating a reduced weekday schedule with
+some combined/cancelled trains during the peak periods.  &lt;br&gt;
+&lt;br&gt;
+Conditions are expected to deteriorate rapidly during the day, making travel
+extremely difficult or even impossible.  Please travel only if necessary.
+In the evening, Metro-North plans to further reduce its service to hourly to
+ensure customer safety during the storm. For those customers who are unable to
+postpone their travel until after the storm, please leave as early as possible
+in the afternoon and leave extra time to reach your destination.
+ Customers should anticipate delays due to the effects of the winter storm
+throughout our service territory. &lt;br&gt;
+&lt;br&gt;
+Should storm conditions worsen during the day and impact our ability to safely
+operate trains, Metro-North may be forced to suspend service with little
+advance notice. &lt;br&gt;
+&lt;br&gt;
+Hudson Rail Link may also be suspended as conditions worsen.&lt;/span&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>03/21/2018</Date>
+    <Time> 7:11AM</Time>
+  </line>
+  <line>
+    <name>Waterbury</name>
+    <status>SERVICE CHANGE</status>
+    <text>
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;03/21/2018&amp;nbsp; 7:11AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;span style="font-family: "Calibri",sans-serif; font-size: 11pt;"Times New Roman";"&gt;Today, Wednesday March 21, Metro-North is operating a reduced weekday schedule with
+some combined/cancelled trains during the peak periods.  &lt;br&gt;
+&lt;br&gt;
+Conditions are expected to deteriorate rapidly during the day, making travel
+extremely difficult or even impossible.  Please travel only if necessary.
+In the evening, Metro-North plans to further reduce its service to hourly to
+ensure customer safety during the storm. For those customers who are unable to
+postpone their travel until after the storm, please leave as early as possible
+in the afternoon and leave extra time to reach your destination.
+ Customers should anticipate delays due to the effects of the winter storm
+throughout our service territory. &lt;br&gt;
+&lt;br&gt;
+Should storm conditions worsen during the day and impact our ability to safely
+operate trains, Metro-North may be forced to suspend service with little
+advance notice. &lt;br&gt;
+&lt;br&gt;
+Hudson Rail Link may also be suspended as conditions worsen.&lt;/span&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>03/21/2018</Date>
+    <Time> 7:11AM</Time>
+  </line>
+  <line>
+    <name>Pascack Valley</name>
+    <status>SERVICE CHANGE</status>
+    <text>
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;03/21/2018&amp;nbsp; 7:11AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;span style="font-family: "Calibri",sans-serif; font-size: 11pt;"Times New Roman";"&gt;Today, Wednesday March 21, Metro-North is operating a reduced weekday schedule with
+some combined/cancelled trains during the peak periods.  &lt;br&gt;
+&lt;br&gt;
+Conditions are expected to deteriorate rapidly during the day, making travel
+extremely difficult or even impossible.  Please travel only if necessary.
+In the evening, Metro-North plans to further reduce its service to hourly to
+ensure customer safety during the storm. For those customers who are unable to
+postpone their travel until after the storm, please leave as early as possible
+in the afternoon and leave extra time to reach your destination.
+ Customers should anticipate delays due to the effects of the winter storm
+throughout our service territory. &lt;br&gt;
+&lt;br&gt;
+Should storm conditions worsen during the day and impact our ability to safely
+operate trains, Metro-North may be forced to suspend service with little
+advance notice. &lt;br&gt;
+&lt;br&gt;
+Hudson Rail Link may also be suspended as conditions worsen.&lt;/span&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;03/20/2018&amp;nbsp; 9:42PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  Mar 20, 2018  08:27:43 PM&lt;br&gt;On Wednesday, March 21, NJ TRANSIT is implementing its Severe Weather Schedule Level 1 on its rail system as significant heavy, wet snow accumulation is expected throughout the state.&lt;br&gt;Cross-honoring will be in effect on NJ TRANSIT bus, private bus carriers, rail, light rail and PATH at Newark, Hoboken and 33rd St. in New York. &lt;br&gt;&lt;br&gt; Bus and light rail services are anticipated to operate regular weekday schedules as long as weather conditions permit. &lt;br&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>03/21/2018</Date>
+    <Time> 7:11AM</Time>
+  </line>
+  <line>
+    <name>Port Jervis</name>
+    <status>SERVICE CHANGE</status>
+    <text>
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;03/21/2018&amp;nbsp; 7:11AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;span style="font-family: "Calibri",sans-serif; font-size: 11pt;"Times New Roman";"&gt;Today, Wednesday March 21, Metro-North is operating a reduced weekday schedule with
+some combined/cancelled trains during the peak periods.  &lt;br&gt;
+&lt;br&gt;
+Conditions are expected to deteriorate rapidly during the day, making travel
+extremely difficult or even impossible.  Please travel only if necessary.
+In the evening, Metro-North plans to further reduce its service to hourly to
+ensure customer safety during the storm. For those customers who are unable to
+postpone their travel until after the storm, please leave as early as possible
+in the afternoon and leave extra time to reach your destination.
+ Customers should anticipate delays due to the effects of the winter storm
+throughout our service territory. &lt;br&gt;
+&lt;br&gt;
+Should storm conditions worsen during the day and impact our ability to safely
+operate trains, Metro-North may be forced to suspend service with little
+advance notice. &lt;br&gt;
+&lt;br&gt;
+Hudson Rail Link may also be suspended as conditions worsen.&lt;/span&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;03/20/2018&amp;nbsp; 9:42PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  Mar 20, 2018  08:27:43 PM&lt;br&gt;On Wednesday, March 21, NJ TRANSIT is implementing its Severe Weather Schedule Level 1 on its rail system as significant heavy, wet snow accumulation is expected throughout the state.&lt;br&gt;Cross-honoring will be in effect on NJ TRANSIT bus, private bus carriers, rail, light rail and PATH at Newark, Hoboken and 33rd St. in New York. &lt;br&gt;&lt;br&gt; Bus and light rail services are anticipated to operate regular weekday schedules as long as weather conditions permit. &lt;br&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>03/21/2018</Date>
+    <Time> 7:11AM</Time>
+  </line>
+</MetroNorth></service>
 
-<link rel="shortcut icon" href="http://webserver.mta.info/siteimages/favicon.ico" />
-
-<style type="text/css">
-html { margin:0; padding:0; border:0; overflow-y:scroll; }
-
-body, div, h1, a, ol, ul, li, img { margin: 0; padding: 0; border: 0; font-size: 100%; vertical-align: baseline; }
-
-h1 { font-size:136%; color: #0055aa; font-size: 153.9%; display: block; padding-bottom: 4px; border-bottom: 1px solid #b4b4b4; }
-
-p { margin-bottom:1em; }
-
-body { font:13px/1.231 helvetica,arial,clean,sans-serif; }
-
-#mainbox { width: 960px; margin:0 auto; background-color: #fff; padding: 0 0 20px 0; }
-
-#contentbox { margin: 20px 10px; padding: 0 20px 20px 20px; }
-
-#contentbox a:link {text-decoration: none; color:#0055aa;}
-#contentbox a:visited {text-decoration: none; color:#0055aa;}
-#contentbox a:hover {text-decoration: underline}
-#contentbox a:active {text-decoration: underline}
-
-</style>
-
-</head>
-
-<body>
-
-<div id="mainbox">	
-			<div id="topbar">
-	
-		<div id="branding">
-		<img src="/apology_objects/mta_info.gif" alt="Metropolitan Transportation Authority web logo">
-		</div>
-				<div style="float:right;"><a href="http://mta-nyc.custhelp.com/app/ask">Contact Us</a></div>
-
-<div id="contentbox" class="roundCorners clearfix" >
-		
-<!-- Start Page Content -->
-			 				 		
-<h1>503 Service Unavailable</h1>																		  
-<p>Our site is temporarily unavailable. Please try visiting us again later.</p>
-<p>We apologize for the inconvenience.</p>						
-
-								<!-- End Page Content -->
-
-</div> <!-- close contentbox -->
-</div> <!-- close mainbox -->
-
-  </body>
-</html>
