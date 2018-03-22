@@ -1,10 +1,18 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>SERVICE CHANGE</status>
+    <text>
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;03/22/2018&amp;nbsp; 3:03AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;P&gt;Southbound [2] trains are running express from &lt;STRONG&gt;Wakefield-241 St&lt;/STRONG&gt; to &lt;STRONG&gt;Gun Hill Rd&lt;/STRONG&gt; because of an injured passenger at &lt;STRONG&gt;Nereid Av.&lt;/STRONG&gt;&lt;/P&gt;
+&lt;P&gt;Expect delays on southbound [2] train service.&lt;/P&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>03/22/2018</Date>
+    <Time> 3:03AM</Time>
   </line>
   <line>
     <name>456</name>
