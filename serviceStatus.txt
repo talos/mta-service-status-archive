@@ -40,6 +40,13 @@
     <text>
                     &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;03/22/2018&amp;nbsp; 1:43AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  Northbound [D][N][R] trains are running express from &lt;STRONG&gt;36 St(Bklyn)&lt;/STRONG&gt; to &lt;STRONG&gt;Atlantic Av-Barclays Center&lt;/STRONG&gt; because of FDNY activity at &lt;STRONG&gt;Prospect Av.&lt;/STRONG&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
                     &amp;nbsp;Posted:&amp;nbsp;03/22/2018&amp;nbsp;12:13AM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
                   &lt;P&gt;Northbound [F] trains are running local from &lt;STRONG&gt;Jackson Heights-Roosevelt A&lt;/STRONG&gt;v to &lt;STRONG&gt;Jamaica-179 St &lt;/STRONG&gt; because we are storing trains underground on the express tracks to keep them protected for the morning commute.&lt;/P&gt;
@@ -53,7 +60,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>03/22/2018</Date>
-    <Time>12:13AM</Time>
+    <Time> 1:43AM</Time>
   </line>
   <line>
     <name>G</name>
@@ -78,10 +85,17 @@
   </line>
   <line>
     <name>NQR</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>SERVICE CHANGE</status>
+    <text>
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;03/22/2018&amp;nbsp; 1:43AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  Northbound [D][N][R] trains are running express from &lt;STRONG&gt;36 St(Bklyn)&lt;/STRONG&gt; to &lt;STRONG&gt;Atlantic Av-Barclays Center&lt;/STRONG&gt; because of FDNY activity at &lt;STRONG&gt;Prospect Av.&lt;/STRONG&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>03/22/2018</Date>
+    <Time> 1:43AM</Time>
   </line>
   <line>
     <name>S</name>
@@ -651,20 +665,10 @@ operating 12 minutes late due to earlier switch trouble west of Jamaica.
   </line>
   <line>
     <name>Montauk</name>
-    <status>DELAYS</status>
-    <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;03/22/2018&amp;nbsp;12:57AM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  &lt;div class="logbody"&gt;
-        &lt;div class="mainmsg"&gt;
-          The 10:05PM train from Montauk due Jamaica at 1:06AM is operating 35 minutes due to winter weather conditions.
-        &lt;/div&gt;&lt;br&gt;&lt;br&gt;&lt;/div&gt;
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>03/22/2018</Date>
-    <Time>12:57AM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>Oyster Bay</name>
