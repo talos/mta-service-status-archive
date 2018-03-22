@@ -1,10 +1,18 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>SERVICE CHANGE</status>
+    <text>
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;03/22/2018&amp;nbsp;12:27PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;P&gt;Some northbound [2] and [3] trains are stopping along the [1] line from &lt;STRONG&gt;96 St&lt;/STRONG&gt; to &lt;STRONG&gt;137 St-City College&lt;/STRONG&gt; because of track maintenance at &lt;STRONG&gt;135 St&lt;/STRONG&gt;.&lt;/P&gt;
+&lt;P&gt;Expect delays in [1], [2] and [3] train service.&lt;/P&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>03/22/2018</Date>
+    <Time>12:27PM</Time>
   </line>
   <line>
     <name>456</name>
