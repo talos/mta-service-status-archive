@@ -515,10 +515,17 @@
   </line>
   <line>
     <name>Long Beach</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>DELAYS</status>
+    <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;03/22/2018&amp;nbsp; 9:00PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  The 8:12PM train from Atlantic Terminal due Long Beach at 9:05PM is operating 11 minutes late due to a late connection at Jamaica.
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>03/22/2018</Date>
+    <Time> 9:00PM</Time>
   </line>
   <line>
     <name>Montauk</name>
@@ -540,26 +547,17 @@
     <text>
                     &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;03/22/2018&amp;nbsp; 8:32PM
+                    &amp;nbsp;Posted:&amp;nbsp;03/22/2018&amp;nbsp; 9:00PM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  LIRR service is experiencing delays through Hicksville due to earlier 
-police activity adjacent to our tracks. This is affecting the Ronkonkoma
- and Huntington/Port Jefferson branches.
-                &lt;br/&gt;&lt;br/&gt;
-              
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;03/22/2018&amp;nbsp; 8:51PM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  &lt;P&gt;&lt;U&gt;&lt;B&gt;Eastbound&lt;/B&gt;&lt;/U&gt;&lt;BR&gt;&lt;/P&gt;
-&lt;P&gt;The 8:34PM train from Huntington due Port Jefferson at 9:20PM is operating 15 minutes late due to a late-arriving connection at Huntington. &lt;/P&gt;
-&lt;P&gt;The 7:54PM train from Penn due Huntington at 9:02PM is operating 14 minutes late due to an earlier signal problem outside the East River Tunnels.&lt;BR&gt;&lt;BR&gt;The 8:22PM train from Penn due Hicksville at 9:11PM is cancelled due to police activity at Hicksville.&lt;/P&gt;
-&lt;P&gt;&lt;U&gt;&lt;B&gt;Westbound&lt;/B&gt;&lt;/U&gt;&lt;/P&gt;
-&lt;P&gt;The 8:05PM train from Huntington due Penn at 9:09PM is operating 16 minutes late due to earlier police activity adjacent to our tracks at Hicksville. &lt;/P&gt;
+                  &lt;p&gt;&lt;strong&gt;&lt;u&gt;Eastbound:&lt;/u&gt;&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The 7:54PM train from Penn due Huntington at 9:02PM is operating 14 minutes late due to an earlier signal problem outside the East River Tunnels.&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;The 8:34PM train from Huntington due Port Jefferson at 9:20PM is operating 15 minutes late due to a late-arriving connection at Huntington. &lt;/p&gt;
+&lt;p&gt;The 8:22PM train from Penn due Hicksville at 9:11PM is cancelled due to police activity at Hicksville.&lt;/p&gt;
+&lt;p&gt;&lt;u&gt;&lt;b&gt;Westbound:&lt;/b&gt;&lt;/u&gt;&lt;/p&gt;
+&lt;p&gt;The 8:05PM train from Huntington due Penn at 9:09PM is operating 16 minutes late due to earlier police activity adjacent to our tracks at Hicksville. &lt;/p&gt;
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>03/22/2018</Date>
-    <Time> 8:32PM</Time>
+    <Time> 9:00PM</Time>
   </line>
   <line>
     <name>Port Washington</name>
@@ -574,15 +572,6 @@ police activity adjacent to our tracks. This is affecting the Ronkonkoma
     <text>
                     &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;03/22/2018&amp;nbsp; 8:32PM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  LIRR service is experiencing delays through Hicksville due to earlier 
-police activity adjacent to our tracks. This is affecting the Ronkonkoma
- and Huntington/Port Jefferson branches.
-                &lt;br/&gt;&lt;br/&gt;
-              
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
                     &amp;nbsp;Posted:&amp;nbsp;03/22/2018&amp;nbsp; 8:46PM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
                   &lt;p&gt;&lt;u&gt;&lt;b&gt;Eastbound&lt;/b&gt;&lt;/u&gt;&lt;/p&gt;&lt;p&gt;The 7:44PM train from Penn due Ronkonkoma at 9:02PM is operating 22 minutes late due to an earlier signal problem outside the East River Tunnels. &lt;/p&gt;
@@ -593,7 +582,7 @@ Hicksville.
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>03/22/2018</Date>
-    <Time> 8:32PM</Time>
+    <Time> 8:46PM</Time>
   </line>
   <line>
     <name>West Hempstead</name>
