@@ -1,10 +1,15 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>PLANNED WORK</status>
+    <text>
+                    &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
+                    &lt;br/&gt;
+                  &lt;a class="plannedWorkDetailLink" onclick=ShowHide(181602);&gt;&lt;b&gt;&lt;i&gt;TRACK MAINTENANCE&lt;/i&gt;&lt;br clear=left&gt;[2] Trains run local in both directions between 96 St to Chambers St&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 181602 class="plannedWorkDetail" &gt;&lt;/b&gt;Night, beginning 10 PM, Thursday, Mar 22&lt;br&gt;&lt;br&gt;&amp;bull; Please allow additional travel time.&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>03/22/2018</Date>
+    <Time>10:06PM</Time>
   </line>
   <line>
     <name>456</name>
@@ -26,7 +31,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>03/22/2018</Date>
-    <Time> 9:55PM</Time>
+    <Time>10:06PM</Time>
   </line>
   <line>
     <name>7</name>
@@ -48,9 +53,14 @@
                     &lt;br/&gt;
                   &lt;a class="plannedWorkDetailLink" onclick=ShowHide(181689);&gt;&lt;b&gt;&lt;i&gt;TRACK MAINTENANCE&lt;/i&gt;&lt;br clear=left&gt;[C] 168 St-bound trains skip Spring St, 23 St and 50 St&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 181689 class="plannedWorkDetail" &gt;&lt;/b&gt;Evening, 9:45 PM to 11 PM, Thursday, Mar 22&lt;br&gt;&lt;br&gt;For service &lt;i&gt;to&lt;/i&gt; &lt;b&gt;Spring&lt;/b&gt; St, take the [C] to W 4 St and transfer to a downtown [C] or [E].&lt;br&gt;&lt;br&gt;For service &lt;i&gt;to&lt;/i&gt; &lt;b&gt;23 St&lt;/b&gt;, take the [C] to 34 St-Penn Station and transfer to a downtown [C] [D]* or [E].&lt;br&gt;&lt;br&gt;For service &lt;i&gt;to&lt;/i&gt; &lt;b&gt;50 St&lt;/b&gt;, transfer to the [E] at 42 St-Port Authority.&lt;br&gt;&lt;br&gt;For service &lt;i&gt;from&lt;/i&gt; &lt;b&gt;Spring St&lt;/b&gt;, take the [C] or [E] to Canal St and transfer to a 168 St-bound [C].&lt;br&gt;&lt;br&gt;For service &lt;i&gt;from&lt;/i&gt; &lt;b&gt;50 St&lt;/b&gt; and &lt;b&gt;23 St&lt;/b&gt;, take the [C] [D] or [E] to 42 St-Port Authority or 14 St and &lt;br&gt;transfer to a 168 St-bound [C].&lt;br&gt;&lt;br&gt;&lt;i&gt;*This detour has taken into account additional planned service changes.&lt;br&gt;&lt;/i&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
                 &lt;br/&gt;&lt;br/&gt;
+              
+                    &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
+                    &lt;br/&gt;
+                  &lt;a class="plannedWorkDetailLink" onclick=ShowHide(181926);&gt;&lt;b&gt;&lt;i&gt;TRACK MAINTENANCE&lt;/i&gt;&lt;br clear=left&gt;[A] Inwood-bound trains run local from Euclid Av to Hoyt-Schermerhorn&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 181926 class="plannedWorkDetail" &gt;&lt;/b&gt;Night, beginning 10 PM, Thursday, Mar 22&lt;br&gt;&lt;br&gt;&amp;bull; Please allow additional travel time.&lt;br&gt;&lt;/font&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+                &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>03/22/2018</Date>
-    <Time> 9:55PM</Time>
+    <Time>10:06PM</Time>
   </line>
   <line>
     <name>BDFM</name>
@@ -97,7 +107,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>03/22/2018</Date>
-    <Time> 9:55PM</Time>
+    <Time>10:06PM</Time>
   </line>
   <line>
     <name>JZ</name>
@@ -130,7 +140,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>03/22/2018</Date>
-    <Time> 9:55PM</Time>
+    <Time>10:06PM</Time>
   </line>
   <line>
     <name>S</name>
@@ -153,6 +163,12 @@
     <text>
                   &lt;span class="TitlePlannedWork" &gt;Planned Detour&lt;/span&gt;
                   &lt;br/&gt;
+                &lt;a class="plannedWorkDetailLink" onclick=ShowHide(180753);&gt;&lt;b&gt;B61 buses rerouted from 9 St between Smith St and 3 Av&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 180753 class="plannedWorkDetail" &gt;&lt;/b&gt;10 PM to 5 AM, Mon to Fri, until Mar 23&lt;br&gt;&lt;br&gt;Due to bridge maintenance:&lt;br&gt;&lt;br&gt;&lt;b&gt;Northbound&lt;br&gt;&lt;/b&gt;&amp;bull;  The &lt;/font&gt;9 St at 2 Av bus stop will be made on &lt;/font&gt;2 Av at 9 St.&lt;br&gt;&amp;bull;&lt;/font&gt;  The 9 St at Smith St bus stop will be made on W 9 St at Smith St.&lt;br&gt;&lt;br&gt;&lt;b&gt;Southbound&lt;br&gt;&lt;/b&gt;&amp;bull;  &lt;/font&gt;The 9 St at Smith St and 9 St at 2 Av bus stops will be made on Smith St at 9 St.&lt;br&gt;&lt;br&gt;Buses make corresponding stops along the detoured route.&lt;br&gt;&lt;br&gt;&lt;b&gt;&lt;i&gt;&lt;a style="cursor:pointer; text-decoration:underline;" onclick=ShowHide(1807530);&gt;Show Reroute Details&lt;/a&gt;&lt;/i&gt;&lt;/b&gt;&lt;br&gt;&lt;div id="1807530"; style="display:none;"&gt;&lt;b&gt;Northbound&lt;br&gt;&lt;/b&gt;Via 9 St &lt;br&gt;Left on 2 Av&lt;br&gt;Right on 15 St&lt;br&gt;Right on Hamilton Av&lt;br&gt;Right on Smith St&lt;br&gt;Left on W 9 St then regular route&lt;br&gt;&lt;br&gt;&lt;b&gt;Southbound&lt;br&gt;&lt;/b&gt;Via Smith St&lt;br&gt;Right on 3 St&lt;br&gt;Right on 3 Av&lt;br&gt;Left on 9 St then regular route&lt;/div&gt;&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
+                  &lt;span class="TitlePlannedWork" &gt;Planned Detour&lt;/span&gt;
+                  &lt;br/&gt;
                 &lt;a class="plannedWorkDetailLink" onclick=ShowHide(182045);&gt;&lt;b&gt;B57 and B69 &lt;/b&gt;- &lt;b&gt;East/Northbound stop on Flushing Av at N Portland Av temporarily closed&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 182045 class="plannedWorkDetail" &gt;&lt;/b&gt;Until further notice&lt;br&gt;&lt;br&gt;Due to construction, please follow directional signage to the nearby temporary stop&lt;b&gt; on Flushing Av&lt;/b&gt;.&lt;br&gt;&lt;b&gt;                              [TP]&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
               &lt;br/&gt;
               &lt;br/&gt;
@@ -170,7 +186,7 @@
               &lt;br/&gt;
             </text>
     <Date>03/22/2018</Date>
-    <Time> 9:55PM</Time>
+    <Time>10:06PM</Time>
   </line>
   <line>
     <name>B100 - B103</name>
@@ -366,12 +382,6 @@
                   &lt;br/&gt;
                   &lt;br/&gt;
                 &lt;STRONG&gt;Queens Local, Limited, Express&lt;/STRONG&gt; and &lt;STRONG&gt;Select &lt;/STRONG&gt;buses are running with delays in both directions because of inclement weather conditions.
-              &lt;br/&gt;
-              &lt;br/&gt;
-            
-                  &lt;span class="TitlePlannedWork" &gt;Planned Detour&lt;/span&gt;
-                  &lt;br/&gt;
-                &lt;a class="plannedWorkDetailLink" onclick=ShowHide(169871);&gt;&lt;b&gt;QM24, QM25 and QM34 buses may experience delays&lt;br clear=left&gt;due to construction on Metropolitan Av at Fresh Pond Rd &lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 169871 class="plannedWorkDetail" &gt;&lt;/b&gt;6 AM to 10 PM, Mon to Fri, until further notice&lt;br&gt;&lt;br&gt;&amp;bull; Please allow additional travel time.&lt;br&gt;&lt;/font&gt;&lt;b&gt;          &lt;/b&gt;&lt;/font&gt;&lt;a href=http://bustime.mta.info/ target=_blank&gt;&lt;img height=30px src=http://web.mta.info/nyct/images/Bus_Time_logo.png&gt;&lt;/a&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
               &lt;br/&gt;
               &lt;br/&gt;
             
