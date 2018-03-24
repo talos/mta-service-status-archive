@@ -210,8 +210,21 @@
 </subway><bus>
   <line>
     <name>B1 - B84</name>
-    <status>DELAYS</status>
+    <status>SERVICE CHANGE</status>
     <text>
+                  &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                  &lt;span class="DateStyle"&gt;
+                  &amp;nbsp;Posted:&amp;nbsp;03/24/2018&amp;nbsp; 2:13PM
+                  &lt;/span&gt;
+                  &lt;br/&gt;
+                  &lt;br/&gt;
+                &lt;P&gt;&lt;STRONG&gt;B43 &lt;/STRONG&gt;buses are detoured because of DEP construction on Brooklyn Av between Atlantic Av and Pacific St. &lt;/P&gt;
+&lt;P&gt;Detour is as follows: &lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;B43 Southbound&lt;/STRONG&gt;: Via Tompkins Av, left on Fulton St, right on Albany Av, right on Bergen St, left on Brooklyn Av and regular route.&lt;/P&gt;
+&lt;P&gt;All corresponding stops will be made along the detoured route.&lt;/P&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
                   &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                   &lt;span class="DateStyle"&gt;
                   &amp;nbsp;Posted:&amp;nbsp;03/24/2018&amp;nbsp; 2:10PM
@@ -235,19 +248,6 @@
               &lt;br/&gt;
               &lt;br/&gt;
             
-                  &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
-                  &lt;span class="DateStyle"&gt;
-                  &amp;nbsp;Posted:&amp;nbsp;03/24/2018&amp;nbsp;12:47PM
-                  &lt;/span&gt;
-                  &lt;br/&gt;
-                  &lt;br/&gt;
-                &lt;P&gt;&lt;STRONG&gt;B43 &lt;/STRONG&gt;buses are detoured because of DEP construction on Brooklyn Av between Atlantic Av and Pacific St. &lt;/P&gt;
-&lt;P&gt;Detour is as follows: &lt;/P&gt;
-&lt;P&gt;&lt;STRONG&gt;B43 Southbound&lt;/STRONG&gt;: Via Tompkins Av, left on Fulton St, right on Albany Av, right on Bergen St, left on Brooklyn Av and regular route.&lt;/P&gt;
-&lt;P&gt;All corresponding stops will be made along the detoured route.&lt;/P&gt;
-              &lt;br/&gt;
-              &lt;br/&gt;
-            
                   &lt;span class="TitlePlannedWork" &gt;Planned Detour&lt;/span&gt;
                   &lt;br/&gt;
                 &lt;a class="plannedWorkDetailLink" onclick=ShowHide(182045);&gt;&lt;b&gt;B57 and B69 &lt;/b&gt;- &lt;b&gt;East/Northbound stop on Flushing Av at N Portland Av temporarily closed&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 182045 class="plannedWorkDetail" &gt;&lt;/b&gt;Until further notice&lt;br&gt;&lt;br&gt;Due to construction, please follow directional signage to the nearby temporary stop&lt;b&gt; on Flushing Av&lt;/b&gt;.&lt;br&gt;&lt;b&gt;                              [TP]&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
@@ -267,7 +267,7 @@
               &lt;br/&gt;
             </text>
     <Date>03/24/2018</Date>
-    <Time> 2:10PM</Time>
+    <Time> 2:13PM</Time>
   </line>
   <line>
     <name>B100 - B103</name>
