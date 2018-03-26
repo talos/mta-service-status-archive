@@ -1,15 +1,29 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>DELAYS</status>
+    <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;03/26/2018&amp;nbsp;11:57AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  [2] and [5] trains are running with delays in both directions because of signal problems at &lt;STRONG&gt;Flatbush Av-Brooklyn College&lt;/STRONG&gt;.
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>03/26/2018</Date>
+    <Time>11:57AM</Time>
   </line>
   <line>
     <name>456</name>
-    <status>PLANNED WORK</status>
+    <status>DELAYS</status>
     <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;03/26/2018&amp;nbsp;11:57AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  [2] and [5] trains are running with delays in both directions because of signal problems at &lt;STRONG&gt;Flatbush Av-Brooklyn College&lt;/STRONG&gt;.
+                &lt;br/&gt;&lt;br/&gt;
+              
                     &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
                     &lt;br/&gt;
                   &lt;a class="plannedWorkDetailLink" onclick=ShowHide(184293);&gt;&lt;b&gt;&lt;i&gt;PRIORITY REPAIRS&lt;/i&gt;&lt;br clear=left&gt;[4] Crown Heights-bound trains skip Mosholu Pkwy&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 184293 class="plannedWorkDetail" &gt;&lt;/b&gt;Day, 9:45 AM to 3:30 PM, Monday, Mar 26&lt;br&gt;&lt;br&gt;&lt;/font&gt;For service &lt;i&gt;to &lt;/i&gt;this station, take the [4] to Bedford Park Blvd and transfer to a Woodlawn-bound [4].&lt;br&gt;&lt;br&gt;For service&lt;i&gt; from &lt;/i&gt;this station, take the [4] to Woodlawn and transfer to a Crown Heights-bound [4].&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
@@ -21,7 +35,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>03/26/2018</Date>
-    <Time>11:52AM</Time>
+    <Time>11:57AM</Time>
   </line>
   <line>
     <name>7</name>
@@ -583,13 +597,13 @@ Montauk through Patchogue will     be accommodated by buses departing up
     <text>
                     &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;03/26/2018&amp;nbsp;10:44AM
+                    &amp;nbsp;Posted:&amp;nbsp;03/26/2018&amp;nbsp;11:57AM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  New Haven Line Service continues to experience delays of 10 to 15 minutes due to an earlier incident in the vicinity of South Norwalk.  Please listen for announcements at your station.
+                  New Haven Line Service is currently experiencing scattered delays of 10 to 15 minutes due to planned track work in the vicinity of Cos Cob to Old Greenwich.  Please listen for announcements at your station.
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>03/26/2018</Date>
-    <Time>10:44AM</Time>
+    <Time>11:57AM</Time>
   </line>
   <line>
     <name>New Canaan</name>
