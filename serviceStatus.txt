@@ -1,17 +1,20 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>DELAYS</status>
+    <status>SERVICE CHANGE</status>
     <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;03/26/2018&amp;nbsp; 8:14PM
+                    &amp;nbsp;Posted:&amp;nbsp;03/26/2018&amp;nbsp; 8:27PM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  Southbound [2] and [3] trains are running with delays because of a sick passenger at &lt;STRONG&gt;Clark St.&lt;/STRONG&gt;
+                  &lt;P&gt;Some southbound [2] trains are stopping along the [5] line from &lt;STRONG&gt;149 St-Grand Concourse&lt;/STRONG&gt; to&lt;STRONG&gt; Nevins St.&lt;/STRONG&gt;&lt;/P&gt;
+&lt;P&gt;Some southbound [2] and [3] train are stopping along the [1] line from &lt;STRONG&gt;Chambers St&lt;/STRONG&gt; and end at &lt;STRONG&gt;South Ferry.&lt;/STRONG&gt;&lt;/P&gt;
+&lt;P&gt;These service changes are because of a sick passenger at&lt;STRONG&gt; Clark St.&lt;/STRONG&gt;&lt;/P&gt;
+&lt;P&gt;Expect delays on [1], [2], [3], [4] and [5] trains.&lt;/P&gt;
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>03/26/2018</Date>
-    <Time> 8:14PM</Time>
+    <Time> 8:27PM</Time>
   </line>
   <line>
     <name>456</name>
@@ -518,17 +521,10 @@
   </line>
   <line>
     <name>Port Jefferson</name>
-    <status>DELAYS</status>
-    <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;03/26/2018&amp;nbsp; 7:53PM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  &lt;b&gt;Eastbound&lt;/b&gt;&lt;br&gt;The 6:30PM train from Hunterspoint Ave. due Port Jefferson at 8:15PM is operating 11 minutes late after accommodating customers from a late-arriving connection.&lt;br&gt;&lt;br&gt;&lt;b&gt;Westbound&lt;/b&gt;&lt;br&gt;The 6:49PM train from Stony Brook due Huntington at 7:56PM is operating 13 minutes late due to congestion caused by a late-arriving eastbound train in single-track territory.&lt;br&gt;
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>03/26/2018</Date>
-    <Time> 7:53PM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>Port Washington</name>
