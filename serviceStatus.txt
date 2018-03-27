@@ -10,6 +10,11 @@
               
                     &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
                     &lt;br/&gt;
+                  &lt;a class="plannedWorkDetailLink" onclick=ShowHide(184603);&gt;&lt;b&gt;&lt;i&gt;TRACK MAINTENANCE&lt;/i&gt;&lt;br clear=left&gt;[2] All trains from 135, 125, 116 and 110 Sts board at the uptown platform&lt;br clear=left&gt;&lt;font color=#000000&gt;     &lt;/font&gt;Trains run every 24 minutes&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 184603 class="plannedWorkDetail" &gt;&lt;/b&gt;Nights, 12:30 AM to 5 AM, Tue to Fri, Mar 27 - 30&lt;br&gt;&lt;br&gt;&amp;bull; Please allow additional travel time.&lt;br&gt;&lt;/font&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              
+                    &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
+                    &lt;br/&gt;
                   &lt;a class="plannedWorkDetailLink" onclick=ShowHide(182151);&gt;&lt;b&gt;&lt;i&gt;TRACK MAINTENANCE&lt;/i&gt;&lt;br clear=left&gt;[2] Flatbush Av-bound trains run express from 96 St to Chambers St&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 182151 class="plannedWorkDetail" &gt;&lt;/b&gt;Nights, 12:01 AM to 5 AM, Tue to Fri, Mar 27 - 30&lt;br&gt;&lt;br&gt;Trains stop at 72 St, Times Sq-42 St, 34 St-Penn Station and 14 St.&lt;br&gt;&lt;br&gt;For service &lt;i&gt;to&lt;/i&gt; &lt;b&gt;86 St &lt;/b&gt;and &lt;b&gt;79 St&lt;/b&gt;, take the &lt;b&gt;[2]&lt;/b&gt; to 72 St and transfer to an uptown &lt;b&gt;[1]&lt;/b&gt; or &lt;b&gt;[2]&lt;/b&gt; &lt;i&gt;local&lt;/i&gt;.&lt;br&gt;&lt;br&gt;&lt;/font&gt;For service &lt;i&gt;to&lt;/i&gt; &lt;b&gt;66&lt;/b&gt;, &lt;b&gt;59&lt;/b&gt; and &lt;b&gt;50 Sts&lt;/b&gt;, take the &lt;b&gt;[2]&lt;/b&gt; to Times Sq-42 St and transfer to an uptown &lt;b&gt;[1]&lt;/b&gt; or &lt;b&gt;[2]&lt;/b&gt; &lt;i&gt;local&lt;/i&gt;.&lt;br&gt;&lt;br&gt;For service &lt;i&gt;to&lt;/i&gt; &lt;b&gt;28&lt;/b&gt;, &lt;b&gt;23&lt;/b&gt; and &lt;b&gt;18 Sts&lt;/b&gt;, take the [2] to 14 St and transfer to an uptown &lt;b&gt;[1]&lt;/b&gt; or &lt;b&gt;[2]&lt;/b&gt; &lt;i&gt;local&lt;/i&gt;.&lt;br&gt;&lt;br&gt;For service &lt;i&gt;to&lt;/i&gt; &lt;b&gt;Christopher&lt;/b&gt;, &lt;b&gt;Houston&lt;/b&gt;, &lt;b&gt;Canal&lt;/b&gt; and &lt;b&gt;Franklin Sts&lt;/b&gt;, take the [2] to Chambers St and &lt;br&gt;transfer to an uptown [1] or [2] &lt;i&gt;local&lt;/i&gt;.&lt;br&gt;&lt;br&gt;For service &lt;i&gt;from&lt;/i&gt; these stations, take the [1] or [2] to 14 St, 34 St-Penn Station, 72 St or 96 St and&lt;br&gt;transfer to a Flatbush Av-bound [2].&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
                 &lt;br/&gt;&lt;br/&gt;
               
@@ -19,7 +24,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>03/27/2018</Date>
-    <Time>12:23AM</Time>
+    <Time>12:32AM</Time>
   </line>
   <line>
     <name>456</name>
@@ -41,7 +46,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>03/27/2018</Date>
-    <Time>12:23AM</Time>
+    <Time>12:32AM</Time>
   </line>
   <line>
     <name>7</name>
@@ -52,8 +57,15 @@
   </line>
   <line>
     <name>ACE</name>
-    <status>SERVICE CHANGE</status>
+    <status>DELAYS</status>
     <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;03/27/2018&amp;nbsp;12:33AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  Northbound [A] trains are running with delays because of an NYPD investigation at &lt;STRONG&gt;125 St&lt;/STRONG&gt;.
+                &lt;br/&gt;&lt;br/&gt;
+              
                     &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
                     &amp;nbsp;Posted:&amp;nbsp;03/27/2018&amp;nbsp;12:15AM
@@ -82,7 +94,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>03/27/2018</Date>
-    <Time>12:15AM</Time>
+    <Time>12:33AM</Time>
   </line>
   <line>
     <name>BDFM</name>
@@ -104,7 +116,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>03/27/2018</Date>
-    <Time>12:23AM</Time>
+    <Time>12:32AM</Time>
   </line>
   <line>
     <name>G</name>
@@ -116,7 +128,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>03/27/2018</Date>
-    <Time>12:23AM</Time>
+    <Time>12:32AM</Time>
   </line>
   <line>
     <name>JZ</name>
@@ -159,7 +171,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>03/27/2018</Date>
-    <Time>12:23AM</Time>
+    <Time>12:32AM</Time>
   </line>
   <line>
     <name>S</name>
@@ -275,7 +287,7 @@
               &lt;br/&gt;
             </text>
     <Date>03/27/2018</Date>
-    <Time>12:23AM</Time>
+    <Time>12:32AM</Time>
   </line>
   <line>
     <name>BXM1 - BXM18</name>
@@ -295,7 +307,7 @@
               &lt;br/&gt;
             </text>
     <Date>03/27/2018</Date>
-    <Time>12:23AM</Time>
+    <Time>12:32AM</Time>
   </line>
   <line>
     <name>Q1 - Q113</name>
@@ -320,7 +332,7 @@
               &lt;br/&gt;
             </text>
     <Date>03/27/2018</Date>
-    <Time>12:23AM</Time>
+    <Time>12:32AM</Time>
   </line>
   <line>
     <name>QM1 - QM44</name>
@@ -339,7 +351,7 @@
               &lt;br/&gt;
             </text>
     <Date>03/27/2018</Date>
-    <Time>12:23AM</Time>
+    <Time>12:32AM</Time>
   </line>
   <line>
     <name>S40 - S98</name>
