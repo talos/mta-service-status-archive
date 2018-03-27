@@ -546,17 +546,10 @@ unauthorized person on the tracks being struck by a train at Baldwin.       
   </line>
   <line>
     <name>Oyster Bay</name>
-    <status>DELAYS</status>
-    <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;03/27/2018&amp;nbsp; 8:23AM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  The 7:13AM train from Oyster Bay due Long Island City at 8:37AM is operating 10 minutes late at this time.
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>03/27/2018</Date>
-    <Time> 8:23AM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>Port Jefferson</name>
@@ -588,10 +581,17 @@ unauthorized person on the tracks being struck by a train at Baldwin.       
   </line>
   <line>
     <name>West Hempstead</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>DELAYS</status>
+    <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;03/27/2018&amp;nbsp; 8:48AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  The 8:28AM train from West Hempstead due Atlantic Terminal at 9:16AM is operating 16 minutes late due to a late eastbound train in single-track territory.
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>03/27/2018</Date>
+    <Time> 8:48AM</Time>
   </line>
 </LIRR><MetroNorth>
   <line>
