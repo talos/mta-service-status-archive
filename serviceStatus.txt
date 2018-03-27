@@ -459,17 +459,10 @@
 </BT><LIRR>
   <line>
     <name>Babylon</name>
-    <status>SERVICE CHANGE</status>
-    <text>
-                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;03/27/2018&amp;nbsp; 8:55AM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  &lt;b&gt;The LIRR has restored train service on both tracks through Baldwin following an earlier unauthorized person on the tracks being struck by a train. The 9:06AM train from Babylon due Penn at 10:19AM will be the first to resume regularly scheduled stopping patterns. Customers can anticipate scattered delays and possible cancellations as we work to resume full service.&lt;br&gt;&lt;/b&gt;&lt;br&gt;
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>03/27/2018</Date>
-    <Time> 8:55AM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>City Terminal Zone</name>
@@ -541,10 +534,17 @@
   </line>
   <line>
     <name>Ronkonkoma</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>DELAYS</status>
+    <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;03/27/2018&amp;nbsp;10:47AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  The 10:00AM train from Farmingdale due Penn at 10:59AM is operating 16 minutes late due to a late train ahead. &lt;br&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>03/27/2018</Date>
+    <Time>10:47AM</Time>
   </line>
   <line>
     <name>West Hempstead</name>
