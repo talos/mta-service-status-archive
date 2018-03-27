@@ -1,8 +1,15 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>SERVICE CHANGE</status>
+    <status>DELAYS</status>
     <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;03/27/2018&amp;nbsp; 7:47AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  Northbound [1] and [3] trains are running with delays because of NYPD activity at &lt;STRONG&gt;137 St-City College&lt;/STRONG&gt;.
+                &lt;br/&gt;&lt;br/&gt;
+              
                     &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
                     &amp;nbsp;Posted:&amp;nbsp;03/27/2018&amp;nbsp; 7:18AM
@@ -12,7 +19,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>03/27/2018</Date>
-    <Time> 7:18AM</Time>
+    <Time> 7:47AM</Time>
   </line>
   <line>
     <name>456</name>
@@ -361,14 +368,14 @@
     <text>
                     &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;03/27/2018&amp;nbsp; 7:14AM
+                    &amp;nbsp;Posted:&amp;nbsp;03/27/2018&amp;nbsp; 7:46AM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  &lt;b&gt;Due to an unauthorized person on the tracks being struck by a train at Baldwin, all Babylon Branch trains are making local stops from Massapequa Park through Jamaica, and are operating with delays averaging 15-20 minutes.&lt;/b&gt;&lt;br&gt;
+                  &lt;b&gt;Due to an unauthorized person on the tracks being struck by a train at Baldwin, all Babylon Branch trains are making local stops from Massapequa Park through Jamaica. We are operating with westbound delays averaging 15-20 minutes and limited eastbound service.&lt;br&gt;&lt;/b&gt;&lt;br&gt;
                 &lt;br/&gt;&lt;br/&gt;
               
                     &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;03/27/2018&amp;nbsp; 7:44AM
+                    &amp;nbsp;Posted:&amp;nbsp;03/27/2018&amp;nbsp; 7:48AM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
                   &lt;p&gt;&lt;span style="font-size: 13.3333px;"&gt;&lt;u style=""&gt;WESTBOUND&lt;/u&gt;&lt;/span&gt;&lt;/p&gt;&lt;p style="font-size: 13.3333px;"&gt;&lt;br&gt;&lt;/p&gt;&lt;p style="font-size: 13.3333px;"&gt;The 6:32AM train from Babylon due Penn at 7:37AM is operating 11 minutes late due to an unauthorized person on the tracks being struck by a train at Baldwin.          &lt;/p&gt;&lt;p style="font-size: 13.3333px;"&gt;The 6:42AM train from Babylon due Penn at 7:49AM is operating 14 minutes late due to an unauthorized person on the tracks being struck by a train at Baldwin. &lt;/p&gt;&lt;p style="font-size: 13.3333px;"&gt;The 6:52AM train from Babylon due Atlantic Terminal at 7:59AM is operating 15 minutes late due to an unauthorized person on the tracks being struck by a train at Baldwin.  &lt;/p&gt;&lt;p style="font-size: 13.3333px;"&gt;The 6:56AM train from Wantagh due Atlantic Terminal at 7:45AM is operating 14 minutes late due to an unauthorized person on the tracks being struck by a train at Baldwin.  &lt;/p&gt;&lt;p style="font-size: 13.3333px;"&gt; The 6:57AM train from Freeport due Penn at 7:40AM is operating 14 
 minutes late due to an unauthorized person on the tracks being struck by
@@ -386,12 +393,16 @@ Customers will be accommodated by the 7:45AM train from Babylon due Penn
 unauthorized person on the tracks being struck by a train at Baldwin. 
 Customers will be accommodated by the 8:16AM train from Babylon due Penn
  at 9:31AM. 
-                    &lt;/p&gt;&lt;p style="font-size: 13.3333px;"&gt;&lt;u&gt;EASTBOUND&lt;/u&gt;&lt;/p&gt;&lt;p style="font-size: 13.3333px;"&gt;&lt;span style="font-size: 13.3333px;"&gt;The 6:36AM train from Penn due Babylon at 7:51AM is operating 13 minutes late due to an unauthorized person on the tracks being struck by a train at Baldwin.&lt;/span&gt;&lt;/p&gt;&lt;p style="font-size: 13.3333px;"&gt;&lt;span style="font-size: 10pt;"&gt;The 7:10AM train from Penn due Babylon at 8:08AM is canceled due to an unauthorized person on the tracks being struck by a train at Baldwin. &lt;/span&gt;&lt;/p&gt;&lt;p style="font-size: 13.3333px;"&gt;The 7:31AM train from Penn due Babylon at 8:44AM is canceled due to an unauthorized person on the tracks being struck by a train at Baldwin.           &lt;/p&gt;&lt;div&gt;The 7:49AM train from Penn due Babylon at 8:52AM is canceled due to an 
+             &lt;/p&gt;&lt;p style="font-size: 13.3333px;"&gt;The 8:35AM train from Babylon due Penn at 9:37AM is canceled due to an 
+unauthorized person on the tracks being struck by a train at Baldwin. 
+Customers will be accommodated by the 8:37AM train from Babylon due Penn
+ at 9:50AM.   
+               &lt;/p&gt;&lt;p style="font-size: 13.3333px;"&gt;&lt;u&gt;EASTBOUND&lt;/u&gt;&lt;/p&gt;&lt;p style="font-size: 13.3333px;"&gt;&lt;span style="font-size: 13.3333px;"&gt;The 6:36AM train from Penn due Babylon at 7:51AM is operating 13 minutes late due to an unauthorized person on the tracks being struck by a train at Baldwin.&lt;/span&gt;&lt;/p&gt;&lt;p style="font-size: 13.3333px;"&gt;&lt;span style="font-size: 10pt;"&gt;The 7:10AM train from Penn due Babylon at 8:08AM is canceled due to an unauthorized person on the tracks being struck by a train at Baldwin. &lt;/span&gt;&lt;/p&gt;&lt;p style="font-size: 13.3333px;"&gt;The 7:31AM train from Penn due Babylon at 8:44AM is canceled due to an unauthorized person on the tracks being struck by a train at Baldwin.           &lt;/p&gt;&lt;div&gt;The 7:49AM train from Penn due Babylon at 8:52AM is canceled due to an 
 unauthorized person on the tracks being struck by a train at Baldwin.          &lt;/div&gt;&lt;p&gt;   &lt;/p&gt;
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>03/27/2018</Date>
-    <Time> 7:14AM</Time>
+    <Time> 7:46AM</Time>
   </line>
   <line>
     <name>City Terminal Zone</name>
