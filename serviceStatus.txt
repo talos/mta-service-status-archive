@@ -1,10 +1,17 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>DELAYS</status>
+    <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;03/28/2018&amp;nbsp; 3:59PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  [1] train service has resumed following an earlier NYPD investigation at &lt;STRONG&gt;59 St-Columbus Circle&lt;/STRONG&gt;.
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>03/28/2018</Date>
+    <Time> 3:59PM</Time>
   </line>
   <line>
     <name>456</name>
@@ -519,17 +526,10 @@
   </line>
   <line>
     <name>Robert F. Kennedy</name>
-    <status>DELAYS</status>
-    <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;03/28/2018&amp;nbsp; 4:09PM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  RFK IS EXPERIENCING HEAVY DELAYS DUE TO OFF PROPERTY VOLUME MANHATTAN BOUND 125TH ST RAMP.
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>03/28/2018</Date>
-    <Time> 4:09PM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>Throgs Neck</name>
