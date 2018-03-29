@@ -1,13 +1,16 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>DELAYS</status>
+    <status>SERVICE CHANGE</status>
     <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;03/28/2018&amp;nbsp;11:33PM
+                    &amp;nbsp;Posted:&amp;nbsp;03/28/2018&amp;nbsp;11:56PM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  [1] trains are running with delays in both directions because of FDNY activity at &lt;STRONG&gt;137 St-City College.&lt;/STRONG&gt;
+                  &lt;P&gt;There is no [1] train service between &lt;STRONG&gt;96 St&lt;/STRONG&gt; and &lt;STRONG&gt;168 St&lt;/STRONG&gt; in both directions.&lt;/P&gt;
+&lt;P&gt;This service change is because of FDNY activity at &lt;STRONG&gt;137 St-City College. &lt;/STRONG&gt;&lt;/P&gt;
+&lt;P&gt;As an alternative, customers can take the &lt;STRONG&gt;M104 &lt;/STRONG&gt;and &lt;STRONG&gt;M100&lt;/STRONG&gt; bus service for nearby station stops.&lt;/P&gt;
+&lt;P&gt; &lt;/P&gt;
                 &lt;br/&gt;&lt;br/&gt;
               
                     &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
@@ -26,7 +29,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>03/28/2018</Date>
-    <Time>11:33PM</Time>
+    <Time>11:56PM</Time>
   </line>
   <line>
     <name>456</name>
