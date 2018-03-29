@@ -1,17 +1,19 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>DELAYS</status>
+    <status>SERVICE CHANGE</status>
     <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;03/29/2018&amp;nbsp; 5:24PM
+                    &amp;nbsp;Posted:&amp;nbsp;03/29/2018&amp;nbsp; 5:28PM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  [2] trains are running with delays in both directions because of an injured passenger at &lt;STRONG&gt;225 St&lt;/STRONG&gt;.
+                  &lt;P&gt;Northbound [2] trains will end at &lt;STRONG&gt;E 180 St&lt;/STRONG&gt;. &lt;/P&gt;
+&lt;P&gt;[2] trains are running with delays in both directions. &lt;/P&gt;
+&lt;P&gt;These service changes are because of an injured passenger at &lt;STRONG&gt;225 St&lt;/STRONG&gt;.&lt;/P&gt;
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>03/29/2018</Date>
-    <Time> 5:24PM</Time>
+    <Time> 5:28PM</Time>
   </line>
   <line>
     <name>456</name>
@@ -834,17 +836,10 @@
   </line>
   <line>
     <name>Port Washington</name>
-    <status>DELAYS</status>
-    <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;03/29/2018&amp;nbsp; 5:25PM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  The 4:36PM train from Port Washington due Penn at 5:20PM is operating 10 minutes late at this time.
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>03/29/2018</Date>
-    <Time> 5:25PM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>Ronkonkoma</name>
