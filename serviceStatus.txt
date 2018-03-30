@@ -22,10 +22,17 @@
   </line>
   <line>
     <name>ACE</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>DELAYS</status>
+    <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;03/29/2018&amp;nbsp; 8:08PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  Northbound [A] trains are running with delays because of signal problems at &lt;STRONG&gt;190 St.&lt;/STRONG&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>03/29/2018</Date>
+    <Time> 8:08PM</Time>
   </line>
   <line>
     <name>BDFM</name>
@@ -304,16 +311,6 @@
                   &lt;br/&gt;
                   &lt;br/&gt;
                 &lt;STRONG&gt;Q33, Q47, Q48, Q72, M60-SBS&lt;/STRONG&gt; and &lt;STRONG&gt;Q70-SBS&lt;/STRONG&gt; bus service has resumed following an earlier incident involving traffic conditions at Citifield.
-              &lt;br/&gt;
-              &lt;br/&gt;
-            
-                  &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                  &lt;span class="DateStyle"&gt;
-                  &amp;nbsp;Posted:&amp;nbsp;03/29/2018&amp;nbsp; 7:56PM
-                  &lt;/span&gt;
-                  &lt;br/&gt;
-                  &lt;br/&gt;
-                &lt;STRONG&gt;Q58 &lt;/STRONG&gt;and &lt;STRONG&gt;Q88 &lt;/STRONG&gt;bus service has resumed following an earlier incident involving traffic conditions on the LIE between 108 St and College Point Blvd.
               &lt;br/&gt;
               &lt;br/&gt;
             
@@ -626,19 +623,10 @@
   </line>
   <line>
     <name>Oyster Bay</name>
-    <status>DELAYS</status>
-    <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;03/29/2018&amp;nbsp; 8:05PM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  &lt;p&gt;The 6:41PM train from Hunterspoint Ave. due Oyster Bay at 7:56PM is 
-operating 13 minutes late due to an earlier power problem in Amtrak's East River Tunnels.
-&lt;/p&gt;
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>03/29/2018</Date>
-    <Time> 8:05PM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>Port Jefferson</name>
@@ -646,18 +634,16 @@ operating 13 minutes late due to an earlier power problem in Amtrak's East River
     <text>
                     &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;03/29/2018&amp;nbsp; 7:59PM
+                    &amp;nbsp;Posted:&amp;nbsp;03/29/2018&amp;nbsp; 8:07PM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  &lt;p&gt;&lt;strong&gt;Due to a power problem in Amtrak's East River Tunnels, eastbound LIRR 
-customers are advised to expect some delays and cancellations. We will 
-update you as more information becomes available.&lt;/strong&gt; &lt;/p&gt;&lt;p&gt;The 6:30PM train from Hunterspoint Ave. due Port Jefferson at 8:15PM is operating 16 minutes late.&lt;/p&gt;&lt;p&gt;The 6:49PM train from Stony Brook due Huntington at 7:56PM is operating 
+                  &lt;p&gt;The 6:30PM train from Hunterspoint Ave. due Port Jefferson at 8:15PM is operating 16 minutes late due to an earlier power problem in Amtrak's East River Tunnels.&lt;/p&gt;&lt;p&gt;The 6:49PM train from Stony Brook due Huntington at 7:56PM is operating 
 18 minutes late due to a late-arriving eastbound train in single-track 
 territory.
         &lt;/p&gt;
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>03/29/2018</Date>
-    <Time> 7:59PM</Time>
+    <Time> 8:07PM</Time>
   </line>
   <line>
     <name>Port Washington</name>
