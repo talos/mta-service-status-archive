@@ -1,8 +1,15 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>SERVICE CHANGE</status>
+    <status>DELAYS</status>
     <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;03/30/2018&amp;nbsp; 8:01AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  Southbound [1] trains are running with delays because of signal problems at&lt;STRONG&gt; Houston St&lt;/STRONG&gt;.
+                &lt;br/&gt;&lt;br/&gt;
+              
                     &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
                     &amp;nbsp;Posted:&amp;nbsp;03/30/2018&amp;nbsp; 7:44AM
@@ -11,16 +18,9 @@
 &lt;P&gt;As an alternative, you can take the southbound [2] train to &lt;STRONG&gt;E 180 St&lt;/STRONG&gt; and transfer to a southbound [5] train.&lt;/P&gt;
 &lt;P&gt;Expect delays on the [2] and [5] trains.&lt;/P&gt;
                 &lt;br/&gt;&lt;br/&gt;
-              
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;03/30/2018&amp;nbsp; 6:22AM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  Southbound [1] trains are running with delays because of signal problems at&lt;STRONG&gt; Houston St&lt;/STRONG&gt;.
-                &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>03/30/2018</Date>
-    <Time> 7:44AM</Time>
+    <Time> 8:01AM</Time>
   </line>
   <line>
     <name>456</name>
