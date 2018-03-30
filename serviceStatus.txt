@@ -1,14 +1,13 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>SERVICE CHANGE</status>
+    <status>DELAYS</status>
     <text>
-                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;03/30/2018&amp;nbsp;10:19AM
+                    &amp;nbsp;Posted:&amp;nbsp;03/30/2018&amp;nbsp;10:24AM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  &lt;P&gt;Northbound [2] and [3] trains are running local from &lt;STRONG&gt;72 St &lt;/STRONG&gt;to &lt;STRONG&gt;96 St&lt;/STRONG&gt; because of NYPD activity at &lt;STRONG&gt;96 St&lt;/STRONG&gt;.&lt;/P&gt;
-&lt;P&gt;Expect delays on the [1], [2] and [3] trains.&lt;/P&gt;
+                  [1], [2] and [3] trains service has resumed following earlier NYPD activity at &lt;STRONG&gt;96 St.&lt;/STRONG&gt;
                 &lt;br/&gt;&lt;br/&gt;
               
                     &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
@@ -19,7 +18,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>03/30/2018</Date>
-    <Time>10:19AM</Time>
+    <Time>10:24AM</Time>
   </line>
   <line>
     <name>456</name>
