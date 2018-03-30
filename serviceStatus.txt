@@ -500,10 +500,17 @@
   </line>
   <line>
     <name>Port Jefferson</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>DELAYS</status>
+    <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;03/30/2018&amp;nbsp; 9:13AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;span style="font-family: Arial, Helvetica;"&gt;&lt;font size="2"&gt;The 8:48AM train from Penn due Huntington at 9:54AM is operating 11 minutes late due to a late train ahead.&lt;/font&gt;&lt;/span&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>03/30/2018</Date>
+    <Time> 9:13AM</Time>
   </line>
   <line>
     <name>Port Washington</name>
@@ -514,17 +521,10 @@
   </line>
   <line>
     <name>Ronkonkoma</name>
-    <status>DELAYS</status>
-    <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;03/30/2018&amp;nbsp; 8:13AM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  The 7:40AM train from Ronkonkoma due Atlantic Terminal at 9:01AM is operating 10 minutes late due to signal trouble near Deer Park.
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>03/30/2018</Date>
-    <Time> 8:13AM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>West Hempstead</name>
