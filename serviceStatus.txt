@@ -1,14 +1,13 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>SERVICE CHANGE</status>
+    <status>DELAYS</status>
     <text>
-                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;03/30/2018&amp;nbsp;11:03AM
+                    &amp;nbsp;Posted:&amp;nbsp;03/30/2018&amp;nbsp;11:06AM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  &lt;P&gt;Northbound [2] and [3] trains are running express from &lt;STRONG&gt;Franklin Av &lt;/STRONG&gt;to&lt;STRONG&gt; Atlantic Av-Barclays Ctr&lt;/STRONG&gt; because of a customer in need of medical assistance at &lt;STRONG&gt;Atlantic Av-Barclays Ctr&lt;/STRONG&gt;.&lt;/P&gt;
-&lt;P&gt;You may experience delays on the [2], [3], [4] and [5] trains.&lt;/P&gt;
+                  [2], [3], [4] and [5] train service has resumed following an earlier incident of a customer in need of medical assistance at &lt;STRONG&gt;Atlantic Av-Barclays Ctr.&lt;/STRONG&gt;
                 &lt;br/&gt;&lt;br/&gt;
               
                     &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
@@ -19,18 +18,17 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>03/30/2018</Date>
-    <Time>11:03AM</Time>
+    <Time>11:06AM</Time>
   </line>
   <line>
     <name>456</name>
-    <status>SERVICE CHANGE</status>
+    <status>DELAYS</status>
     <text>
-                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;03/30/2018&amp;nbsp;11:03AM
+                    &amp;nbsp;Posted:&amp;nbsp;03/30/2018&amp;nbsp;11:06AM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  &lt;P&gt;Northbound [2] and [3] trains are running express from &lt;STRONG&gt;Franklin Av &lt;/STRONG&gt;to&lt;STRONG&gt; Atlantic Av-Barclays Ctr&lt;/STRONG&gt; because of a customer in need of medical assistance at &lt;STRONG&gt;Atlantic Av-Barclays Ctr&lt;/STRONG&gt;.&lt;/P&gt;
-&lt;P&gt;You may experience delays on the [2], [3], [4] and [5] trains.&lt;/P&gt;
+                  [2], [3], [4] and [5] train service has resumed following an earlier incident of a customer in need of medical assistance at &lt;STRONG&gt;Atlantic Av-Barclays Ctr.&lt;/STRONG&gt;
                 &lt;br/&gt;&lt;br/&gt;
               
                     &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
@@ -39,12 +37,22 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>03/30/2018</Date>
-    <Time>11:03AM</Time>
+    <Time>11:06AM</Time>
   </line>
   <line>
     <name>7</name>
     <status>SERVICE CHANGE</status>
     <text>
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;03/30/2018&amp;nbsp;11:06AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;P&gt;There is no [7] train service in both directions between &lt;STRONG&gt;Hunters Point Av&lt;/STRONG&gt; and &lt;STRONG&gt;34 St-Hudson Yards&lt;/STRONG&gt;.&lt;/P&gt;
+&lt;P&gt;Hudson Yards bound [7] trains end at &lt;STRONG&gt;Queensboro Plaza&lt;/STRONG&gt; or &lt;STRONG&gt;Hunters Point Av&lt;/STRONG&gt;.&lt;/P&gt;
+&lt;P&gt;These service changes are because of FDNY activity at &lt;STRONG&gt;Grand Central-42 St&lt;/STRONG&gt;.&lt;/P&gt;
+&lt;P&gt;For service between Manhattan and Queens take [E], [F], [M], [N], [R] or [W] train service.&lt;/P&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              
                     &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
                     &amp;nbsp;Posted:&amp;nbsp;03/30/2018&amp;nbsp;10:57AM
@@ -55,7 +63,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>03/30/2018</Date>
-    <Time>10:57AM</Time>
+    <Time>11:06AM</Time>
   </line>
   <line>
     <name>ACE</name>
@@ -130,7 +138,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>03/30/2018</Date>
-    <Time>10:55AM</Time>
+    <Time>11:05AM</Time>
   </line>
   <line>
     <name>SIR</name>
@@ -152,23 +160,13 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>03/30/2018</Date>
-    <Time>10:55AM</Time>
+    <Time>11:05AM</Time>
   </line>
 </subway><bus>
   <line>
     <name>B1 - B84</name>
-    <status>DELAYS</status>
+    <status>SERVICE CHANGE</status>
     <text>
-                  &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                  &lt;span class="DateStyle"&gt;
-                  &amp;nbsp;Posted:&amp;nbsp;03/30/2018&amp;nbsp;10:56AM
-                  &lt;/span&gt;
-                  &lt;br/&gt;
-                  &lt;br/&gt;
-                &lt;STRONG&gt;B13 &lt;/STRONG&gt;bus service has resumed following an earlier incident involving a disabled vehicle on Cypress Hill St.
-              &lt;br/&gt;
-              &lt;br/&gt;
-            
                   &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
                   &lt;span class="DateStyle"&gt;
                   &amp;nbsp;Posted:&amp;nbsp;03/30/2018&amp;nbsp;10:03AM
@@ -213,7 +211,7 @@
               &lt;br/&gt;
             </text>
     <Date>03/30/2018</Date>
-    <Time>10:56AM</Time>
+    <Time>10:03AM</Time>
   </line>
   <line>
     <name>B100 - B103</name>
@@ -240,7 +238,7 @@
               &lt;br/&gt;
             </text>
     <Date>03/30/2018</Date>
-    <Time>10:55AM</Time>
+    <Time>11:05AM</Time>
   </line>
   <line>
     <name>BXM1 - BXM18</name>
@@ -272,7 +270,7 @@
               &lt;br/&gt;
             </text>
     <Date>03/30/2018</Date>
-    <Time>10:55AM</Time>
+    <Time>11:05AM</Time>
   </line>
   <line>
     <name>Q1 - Q113</name>
@@ -303,7 +301,7 @@
               &lt;br/&gt;
             </text>
     <Date>03/30/2018</Date>
-    <Time>10:55AM</Time>
+    <Time>11:05AM</Time>
   </line>
   <line>
     <name>QM1 - QM44</name>
@@ -328,7 +326,7 @@
               &lt;br/&gt;
             </text>
     <Date>03/30/2018</Date>
-    <Time>10:55AM</Time>
+    <Time>11:05AM</Time>
   </line>
   <line>
     <name>S40 - S98</name>
@@ -347,7 +345,7 @@
               &lt;br/&gt;
             </text>
     <Date>03/30/2018</Date>
-    <Time>10:55AM</Time>
+    <Time>11:05AM</Time>
   </line>
   <line>
     <name>x1 - x68</name>
@@ -366,7 +364,7 @@
               &lt;br/&gt;
             </text>
     <Date>03/30/2018</Date>
-    <Time>10:55AM</Time>
+    <Time>11:05AM</Time>
   </line>
 </bus><BT>
   <line>
