@@ -1,16 +1,13 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>SERVICE CHANGE</status>
+    <status>DELAYS</status>
     <text>
-                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;04/02/2018&amp;nbsp; 6:51AM
+                    &amp;nbsp;Posted:&amp;nbsp;04/02/2018&amp;nbsp; 7:03AM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  &lt;P&gt;Southbound [1] trains are being held in stations between &lt;STRONG&gt;Van Cortlandt-242 St&lt;/STRONG&gt; and &lt;STRONG&gt;191 St.&lt;/STRONG&gt;&lt;/P&gt;
-&lt;P&gt;Some southbound [2] and [3] trains are running local from &lt;STRONG&gt;96 St&lt;/STRONG&gt; to &lt;STRONG&gt;Chambers St&lt;/STRONG&gt;.&lt;/P&gt;
-&lt;P&gt;Expect delays on [1] [2] and [3] train service.&lt;/P&gt;
-&lt;P&gt;This service change is because of an NYPD investigation at &lt;STRONG&gt;181 St.&lt;/STRONG&gt;&lt;/P&gt;
+                  [1] [2] and [3] train service has resumed following an earlier NYPD investigation at &lt;STRONG&gt;181 St.&lt;/STRONG&gt;
                 &lt;br/&gt;&lt;br/&gt;
               
                     &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
@@ -21,7 +18,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>04/02/2018</Date>
-    <Time> 6:51AM</Time>
+    <Time> 7:03AM</Time>
   </line>
   <line>
     <name>456</name>
