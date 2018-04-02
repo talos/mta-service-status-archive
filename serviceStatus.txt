@@ -1,13 +1,15 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>DELAYS</status>
+    <status>SERVICE CHANGE</status>
     <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;04/02/2018&amp;nbsp; 7:44AM
+                    &amp;nbsp;Posted:&amp;nbsp;04/02/2018&amp;nbsp; 7:47AM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  Southbound [2] and [3] trains are running with delays because of signal problems at &lt;STRONG&gt;96 St&lt;/STRONG&gt;.
+                  &lt;P&gt;Some southbound [2] trains are stopping along the [5] line from &lt;STRONG&gt;149 St-Grand Concourse&lt;/STRONG&gt; to &lt;STRONG&gt;Nevins&lt;/STRONG&gt; &lt;STRONG&gt;St.&lt;/STRONG&gt;&lt;/P&gt;
+&lt;P&gt;Southbound [3] trains are delayed.&lt;/P&gt;
+&lt;P&gt;These service changes are because of signal problems at &lt;STRONG&gt;96 St&lt;/STRONG&gt;.&lt;/P&gt;
                 &lt;br/&gt;&lt;br/&gt;
               
                     &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
@@ -18,12 +20,21 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>04/02/2018</Date>
-    <Time> 7:44AM</Time>
+    <Time> 7:47AM</Time>
   </line>
   <line>
     <name>456</name>
-    <status>DELAYS</status>
+    <status>SERVICE CHANGE</status>
     <text>
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;04/02/2018&amp;nbsp; 7:47AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;P&gt;Some southbound [2] trains are stopping along the [5] line from &lt;STRONG&gt;149 St-Grand Concourse&lt;/STRONG&gt; to &lt;STRONG&gt;Nevins&lt;/STRONG&gt; &lt;STRONG&gt;St.&lt;/STRONG&gt;&lt;/P&gt;
+&lt;P&gt;Southbound [3] trains are delayed.&lt;/P&gt;
+&lt;P&gt;These service changes are because of signal problems at &lt;STRONG&gt;96 St&lt;/STRONG&gt;.&lt;/P&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              
                     &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
                     &amp;nbsp;Posted:&amp;nbsp;04/02/2018&amp;nbsp; 7:32AM
@@ -39,7 +50,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>04/02/2018</Date>
-    <Time> 7:32AM</Time>
+    <Time> 7:47AM</Time>
   </line>
   <line>
     <name>7</name>
