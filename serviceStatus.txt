@@ -1,17 +1,10 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>DELAYS</status>
-    <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;04/02/2018&amp;nbsp;10:57AM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  [1] train service has resumed following an earlier incident involving a customer in need of medical assistance at &lt;STRONG&gt;242 St-Van Cortlandt Park.&lt;/STRONG&gt;
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>04/02/2018</Date>
-    <Time>10:57AM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>456</name>
@@ -275,6 +268,20 @@
     <text>
                   &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
                   &lt;span class="DateStyle"&gt;
+                  &amp;nbsp;Posted:&amp;nbsp;04/02/2018&amp;nbsp;11:11AM
+                  &lt;/span&gt;
+                  &lt;br/&gt;
+                  &lt;br/&gt;
+                &lt;P&gt;&lt;STRONG&gt;Q13 &lt;/STRONG&gt;and &lt;STRONG&gt;Q16 &lt;/STRONG&gt;buses are detoured because of Verizon work on Totten Rd at 212 St. &lt;/P&gt;
+&lt;P&gt;Detour is as follows:&lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;Q13 Ft. Totten Bound:&lt;/STRONG&gt; Via Bell Blvd, left on 23 Av, right on 212 St, right on Bell Blvd into the stand.&lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;Q16 Ft. Totten Bound&lt;/STRONG&gt;: Via Willets Point Blvd, right on 212 St, left on 23 Av, left on Bell Blvd to the stand.&lt;/P&gt;
+&lt;P&gt;Corresponding stops will be made along the detoured route.&lt;/P&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
+                  &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                  &lt;span class="DateStyle"&gt;
                   &amp;nbsp;Posted:&amp;nbsp;04/02/2018&amp;nbsp;10:11AM
                   &lt;/span&gt;
                   &lt;br/&gt;
@@ -348,7 +355,7 @@
               &lt;br/&gt;
             </text>
     <Date>04/02/2018</Date>
-    <Time>10:11AM</Time>
+    <Time>11:11AM</Time>
   </line>
   <line>
     <name>QM1 - QM44</name>
