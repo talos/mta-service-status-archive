@@ -1,8 +1,19 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>DELAYS</status>
+    <status>SERVICE CHANGE</status>
     <text>
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;04/02/2018&amp;nbsp;10:12AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;P&gt;Some southbound [2] trains are stopping along the [5] line from &lt;STRONG&gt;149 St-Grand Concourse&lt;/STRONG&gt; to &lt;STRONG&gt;Nevins&lt;/STRONG&gt; &lt;STRONG&gt;St.&lt;/STRONG&gt;&lt;/P&gt;
+&lt;P&gt;[2] and&lt;STRONG&gt; &lt;/STRONG&gt;[3] trains are running with delays in both directions.&lt;/P&gt;
+&lt;P&gt;These service changes are because of signal problems at &lt;STRONG&gt;96 St&lt;/STRONG&gt;.&lt;/P&gt;
+&lt;P&gt;Our crews are on scene making repairs and we hope to resume regular service soon. We will keep you updated.&lt;/P&gt;
+&lt;P&gt; &lt;/P&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              
                     &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
                     &amp;nbsp;Posted:&amp;nbsp;04/02/2018&amp;nbsp;10:10AM
@@ -10,20 +21,9 @@
                   &lt;P&gt;[1] trains are running with delays in both directions because of a customer in need of medical assistance at &lt;STRONG&gt;242 St-Van Cortlandt Park&lt;/STRONG&gt;.&lt;/P&gt;
 &lt;P&gt;Emergency personnel are on the scene assisting the passenger. We hope to resume regular service shortly.&lt;/P&gt;
                 &lt;br/&gt;&lt;br/&gt;
-              
-                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;04/02/2018&amp;nbsp; 8:44AM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  &lt;P&gt;Some southbound [2] trains are stopping along the [5] line from &lt;STRONG&gt;149 St-Grand Concourse&lt;/STRONG&gt; to &lt;STRONG&gt;Nevins&lt;/STRONG&gt; &lt;STRONG&gt;St.&lt;/STRONG&gt;&lt;/P&gt;
-&lt;P&gt;[2] and&lt;STRONG&gt; &lt;/STRONG&gt;[3] trains are running with delays in both directions.&lt;/P&gt;
-&lt;P&gt;These service changes are because of signal problems at &lt;STRONG&gt;96 St&lt;/STRONG&gt;.&lt;/P&gt;
-&lt;P&gt;Our crews are on scene making repairs and we hope to resume regular service soon. We will keep you updated.&lt;/P&gt;
-&lt;P&gt; &lt;/P&gt;
-                &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>04/02/2018</Date>
-    <Time>10:10AM</Time>
+    <Time>10:12AM</Time>
   </line>
   <line>
     <name>456</name>
@@ -31,7 +31,7 @@
     <text>
                     &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;04/02/2018&amp;nbsp; 8:44AM
+                    &amp;nbsp;Posted:&amp;nbsp;04/02/2018&amp;nbsp;10:12AM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
                   &lt;P&gt;Some southbound [2] trains are stopping along the [5] line from &lt;STRONG&gt;149 St-Grand Concourse&lt;/STRONG&gt; to &lt;STRONG&gt;Nevins&lt;/STRONG&gt; &lt;STRONG&gt;St.&lt;/STRONG&gt;&lt;/P&gt;
 &lt;P&gt;[2] and&lt;STRONG&gt; &lt;/STRONG&gt;[3] trains are running with delays in both directions.&lt;/P&gt;
@@ -41,7 +41,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>04/02/2018</Date>
-    <Time> 8:44AM</Time>
+    <Time>10:12AM</Time>
   </line>
   <line>
     <name>7</name>
@@ -70,7 +70,7 @@
     <text>
                     &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;04/02/2018&amp;nbsp; 9:49AM
+                    &amp;nbsp;Posted:&amp;nbsp;04/02/2018&amp;nbsp;10:11AM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
                   &lt;P&gt;Some northbound [B] and [D] trains are running local from &lt;STRONG&gt;W 4 St-Washington Sq&lt;/STRONG&gt; to &lt;STRONG&gt;34 St-Herald Sq&lt;/STRONG&gt;.&lt;/P&gt;
 &lt;P&gt;Some Forest Hills bound [M] trains are stopping along the [E] line from &lt;STRONG&gt;W 4 St-Washington Sq&lt;/STRONG&gt; to &lt;STRONG&gt;Queens Plaza&lt;/STRONG&gt;.&lt;/P&gt;
@@ -79,7 +79,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>04/02/2018</Date>
-    <Time> 9:49AM</Time>
+    <Time>10:11AM</Time>
   </line>
   <line>
     <name>G</name>
@@ -194,21 +194,11 @@
   </line>
   <line>
     <name>BX1 - BX55</name>
-    <status>DELAYS</status>
+    <status>SERVICE CHANGE</status>
     <text>
-                  &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                  &lt;span class="DateStyle"&gt;
-                  &amp;nbsp;Posted:&amp;nbsp;04/02/2018&amp;nbsp;10:10AM
-                  &lt;/span&gt;
-                  &lt;br/&gt;
-                  &lt;br/&gt;
-                All &lt;STRONG&gt;Bronx local, select, limited &lt;/STRONG&gt;and&lt;STRONG&gt; express&lt;/STRONG&gt; bus service is running with delays because of inclement weather conditions.
-              &lt;br/&gt;
-              &lt;br/&gt;
-            
                   &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
                   &lt;span class="DateStyle"&gt;
-                  &amp;nbsp;Posted:&amp;nbsp;04/02/2018&amp;nbsp; 8:04AM
+                  &amp;nbsp;Posted:&amp;nbsp;04/02/2018&amp;nbsp;10:11AM
                   &lt;/span&gt;
                   &lt;br/&gt;
                   &lt;br/&gt;
@@ -227,6 +217,16 @@
               &lt;br/&gt;
               &lt;br/&gt;
             
+                  &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                  &lt;span class="DateStyle"&gt;
+                  &amp;nbsp;Posted:&amp;nbsp;04/02/2018&amp;nbsp;10:10AM
+                  &lt;/span&gt;
+                  &lt;br/&gt;
+                  &lt;br/&gt;
+                All &lt;STRONG&gt;Bronx local, select, limited &lt;/STRONG&gt;and&lt;STRONG&gt; express&lt;/STRONG&gt; bus service is running with delays because of inclement weather conditions.
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
                   &lt;span class="TitlePlannedWork" &gt;Planned Detour&lt;/span&gt;
                   &lt;br/&gt;
                 &lt;a class="plannedWorkDetailLink" onclick=ShowHide(164794);&gt;&lt;b&gt;Bx4/Bx4A, Bx5, Bx11 and Bx35 buses may experience delays&lt;br clear=left&gt;due to construction on Westchester Av between Southern Blvd and Hoe Av&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 164794 class="plannedWorkDetail" &gt;&lt;/b&gt;Until further notice&lt;br&gt;&lt;br&gt;&amp;bull; Please allow additional travel time.&lt;br&gt;&lt;b&gt;          &lt;/b&gt;&lt;a href=http://bustime.mta.info/ target=_blank&gt;&lt;img height=30px src=http://web.mta.info/nyct/images/Bus_Time_logo.png&gt;&lt;/a&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
@@ -234,7 +234,7 @@
               &lt;br/&gt;
             </text>
     <Date>04/02/2018</Date>
-    <Time>10:10AM</Time>
+    <Time>10:11AM</Time>
   </line>
   <line>
     <name>BXM1 - BXM18</name>
@@ -259,7 +259,7 @@
     <text>
                   &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
                   &lt;span class="DateStyle"&gt;
-                  &amp;nbsp;Posted:&amp;nbsp;04/02/2018&amp;nbsp; 8:04AM
+                  &amp;nbsp;Posted:&amp;nbsp;04/02/2018&amp;nbsp;10:11AM
                   &lt;/span&gt;
                   &lt;br/&gt;
                   &lt;br/&gt;
@@ -297,7 +297,7 @@
               &lt;br/&gt;
             </text>
     <Date>04/02/2018</Date>
-    <Time> 8:04AM</Time>
+    <Time>10:11AM</Time>
   </line>
   <line>
     <name>Q1 - Q113</name>
@@ -674,10 +674,17 @@
   </line>
   <line>
     <name>Port Jefferson</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>DELAYS</status>
+    <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;04/02/2018&amp;nbsp;10:12AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  The 8:55AM train from Huntington due Penn at 10:05AM is operating 10 minutes late due to a late train ahead.
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>04/02/2018</Date>
+    <Time>10:12AM</Time>
   </line>
   <line>
     <name>Port Washington</name>
