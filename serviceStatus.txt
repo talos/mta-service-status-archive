@@ -1,19 +1,8 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>SERVICE CHANGE</status>
+    <status>DELAYS</status>
     <text>
-                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;04/02/2018&amp;nbsp;10:12AM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  &lt;P&gt;Some southbound [2] trains are stopping along the [5] line from &lt;STRONG&gt;149 St-Grand Concourse&lt;/STRONG&gt; to &lt;STRONG&gt;Nevins&lt;/STRONG&gt; &lt;STRONG&gt;St.&lt;/STRONG&gt;&lt;/P&gt;
-&lt;P&gt;[2] and&lt;STRONG&gt; &lt;/STRONG&gt;[3] trains are running with delays in both directions.&lt;/P&gt;
-&lt;P&gt;These service changes are because of signal problems at &lt;STRONG&gt;96 St&lt;/STRONG&gt;.&lt;/P&gt;
-&lt;P&gt;Our crews are on scene making repairs and we hope to resume regular service soon. We will keep you updated.&lt;/P&gt;
-&lt;P&gt; &lt;/P&gt;
-                &lt;br/&gt;&lt;br/&gt;
-              
                     &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
                     &amp;nbsp;Posted:&amp;nbsp;04/02/2018&amp;nbsp;10:10AM
@@ -21,17 +10,10 @@
                   &lt;P&gt;[1] trains are running with delays in both directions because of a customer in need of medical assistance at &lt;STRONG&gt;242 St-Van Cortlandt Park&lt;/STRONG&gt;.&lt;/P&gt;
 &lt;P&gt;Emergency personnel are on the scene assisting the passenger. We hope to resume regular service shortly.&lt;/P&gt;
                 &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>04/02/2018</Date>
-    <Time>10:12AM</Time>
-  </line>
-  <line>
-    <name>456</name>
-    <status>SERVICE CHANGE</status>
-    <text>
+              
                     &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;04/02/2018&amp;nbsp;10:12AM
+                    &amp;nbsp;Posted:&amp;nbsp;04/02/2018&amp;nbsp; 8:44AM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
                   &lt;P&gt;Some southbound [2] trains are stopping along the [5] line from &lt;STRONG&gt;149 St-Grand Concourse&lt;/STRONG&gt; to &lt;STRONG&gt;Nevins&lt;/STRONG&gt; &lt;STRONG&gt;St.&lt;/STRONG&gt;&lt;/P&gt;
 &lt;P&gt;[2] and&lt;STRONG&gt; &lt;/STRONG&gt;[3] trains are running with delays in both directions.&lt;/P&gt;
@@ -41,7 +23,25 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>04/02/2018</Date>
-    <Time>10:12AM</Time>
+    <Time>10:10AM</Time>
+  </line>
+  <line>
+    <name>456</name>
+    <status>SERVICE CHANGE</status>
+    <text>
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;04/02/2018&amp;nbsp; 8:44AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;P&gt;Some southbound [2] trains are stopping along the [5] line from &lt;STRONG&gt;149 St-Grand Concourse&lt;/STRONG&gt; to &lt;STRONG&gt;Nevins&lt;/STRONG&gt; &lt;STRONG&gt;St.&lt;/STRONG&gt;&lt;/P&gt;
+&lt;P&gt;[2] and&lt;STRONG&gt; &lt;/STRONG&gt;[3] trains are running with delays in both directions.&lt;/P&gt;
+&lt;P&gt;These service changes are because of signal problems at &lt;STRONG&gt;96 St&lt;/STRONG&gt;.&lt;/P&gt;
+&lt;P&gt;Our crews are on scene making repairs and we hope to resume regular service soon. We will keep you updated.&lt;/P&gt;
+&lt;P&gt; &lt;/P&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>04/02/2018</Date>
+    <Time> 8:44AM</Time>
   </line>
   <line>
     <name>7</name>
