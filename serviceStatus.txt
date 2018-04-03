@@ -100,7 +100,7 @@
               &lt;br/&gt;
             </text>
     <Date>04/03/2018</Date>
-    <Time> 6:53AM</Time>
+    <Time> 7:01AM</Time>
   </line>
   <line>
     <name>B100 - B103</name>
@@ -127,7 +127,7 @@
               &lt;br/&gt;
             </text>
     <Date>04/03/2018</Date>
-    <Time> 6:53AM</Time>
+    <Time> 7:01AM</Time>
   </line>
   <line>
     <name>BXM1 - BXM18</name>
@@ -142,6 +142,12 @@
     <text>
                   &lt;span class="TitlePlannedWork" &gt;Planned Detour&lt;/span&gt;
                   &lt;br/&gt;
+                &lt;a class="plannedWorkDetailLink" onclick=ShowHide(184068);&gt;&lt;b&gt;M8&lt;/b&gt; - &lt;b&gt;Eastbound buses rerouted from W 10 St at Hudson St to Bleecker St &lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 184068 class="plannedWorkDetail" &gt;&lt;/b&gt;7 AM to 3 PM, daily, until May 12&lt;br&gt;&lt;br&gt;Due to construction, buses run via &lt;b&gt;Perry St &lt;/b&gt;making corresponding stops.&lt;br&gt;&lt;br&gt;&lt;b&gt;&lt;i&gt;&lt;a style="cursor:pointer; text-decoration:underline;" onclick=ShowHide(1840680);&gt;Show Reroute Details&lt;/a&gt;&lt;/i&gt;&lt;/b&gt;&lt;br&gt;&lt;div id="1840680"; style="display:none;"&gt;Via W 10 St&lt;br&gt;Left on Hudson St&lt;br&gt;Right on Perry St&lt;br&gt;Right on Bleecker St&lt;br&gt;Left on W 10 St then regular route&lt;/div&gt;&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
+                  &lt;span class="TitlePlannedWork" &gt;Planned Detour&lt;/span&gt;
+                  &lt;br/&gt;
                 &lt;a class="plannedWorkDetailLink" onclick=ShowHide(184776);&gt;&lt;b&gt;M3 buses rerouted from St Nicholas Av between 145 St and 155 St&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 184776 class="plannedWorkDetail" &gt;&lt;/b&gt;Until further notice&lt;br&gt;&lt;br&gt;Due to debris removal, buses run via &lt;b&gt;Amsterdam Av &lt;/b&gt;making corresponding stops in both directions.&lt;br&gt;&lt;br&gt;&lt;b&gt;&lt;i&gt;&lt;a style="cursor:pointer; text-decoration:underline;" onclick=ShowHide(1847760);&gt;Show Reroute Details&lt;/a&gt;&lt;/i&gt;&lt;/b&gt;&lt;br&gt;&lt;div id="1847760"; style="display:none;"&gt;&lt;b&gt;Northbound&lt;br&gt;&lt;/b&gt;Via St Nicholas Av&lt;br&gt;Left on 145 St&lt;br&gt;Right on Amsterdam Av then regular route&lt;br&gt;&lt;br&gt;&lt;b&gt;Southbound&lt;br&gt;&lt;/b&gt;Via Amsterdam Av&lt;br&gt;Left on 145 St&lt;br&gt;Right on St Nicholas Av then regular route&lt;/div&gt;&lt;br&gt;&lt;b&gt;                              [TP]&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
               &lt;br/&gt;
               &lt;br/&gt;
@@ -153,7 +159,7 @@
               &lt;br/&gt;
             </text>
     <Date>04/03/2018</Date>
-    <Time> 6:53AM</Time>
+    <Time> 7:01AM</Time>
   </line>
   <line>
     <name>Q1 - Q113</name>
@@ -224,7 +230,7 @@
               &lt;br/&gt;
             </text>
     <Date>04/03/2018</Date>
-    <Time> 6:53AM</Time>
+    <Time> 7:01AM</Time>
   </line>
   <line>
     <name>S40 - S98</name>
@@ -243,7 +249,7 @@
               &lt;br/&gt;
             </text>
     <Date>04/03/2018</Date>
-    <Time> 6:53AM</Time>
+    <Time> 7:01AM</Time>
   </line>
   <line>
     <name>x1 - x68</name>
@@ -262,7 +268,7 @@
               &lt;br/&gt;
             </text>
     <Date>04/03/2018</Date>
-    <Time> 6:53AM</Time>
+    <Time> 7:01AM</Time>
   </line>
 </bus><BT>
   <line>
@@ -366,10 +372,40 @@
   </line>
   <line>
     <name>Montauk</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>PLANNED WORK</status>
+    <text>
+                    &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
+                    &lt;br/&gt;
+                  &lt;font size="3"&gt;&lt;b style=""&gt;Buses Replace Midday Weekday Trains between Patchogue &amp; Montauk thru May 18&lt;/b&gt;&lt;/font&gt;&lt;div style="font-size: 10pt;"&gt;&lt;span&gt;Starting
+ Monday,February 26 through Friday, May 18, buses will replace midday 
+off-peak trains between Montauk and Patchogue to accommodate 
+state-of-good-repair tie replacement work. Service is affected as 
+follows:&lt;/span&gt;&lt;/div&gt;&lt;div style="font-size: 10pt;"&gt;&lt;span&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style="font-size: 10pt;"&gt;&lt;span&gt;&lt;b&gt;EASTBOUND &lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style="font-size: 10pt;"&gt;&lt;ul&gt;&lt;li&gt;The
+ 8:57 AM train from     Babylon, scheduled to arrive Montauk at 10:57 
+AM, will terminate at     Patchogue. Customers traveling to stations 
+Bellport through Montauk will     be accommodated by bus service. &lt;/li&gt;&lt;li&gt;The
+ 11:25 AM train from     Jamaica, scheduled to arrive Montauk at 2:15 
+PM, will terminate at     Patchogue. Customers traveling to stations 
+Bellport through Montauk will     be accommodated by bus service.&lt;/li&gt;&lt;li&gt; The
+ 11:27 AM train from     Babylon scheduled to arrive at Speonk at 12:27 
+PM, will terminate at     Patchogue. Customers traveling to stations 
+Bellport through Speonk will be     accommodated by bus service. &lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div style="font-size: 10pt;"&gt;&lt;span&gt;&lt;b&gt;WESTBOUND &lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style="font-size: 10pt;"&gt;&lt;ul&gt;&lt;li&gt;The
+ 11:18 AM train from     Montauk, scheduled to arrive at Jamaica at 2:15
+ PM, will originate at     Patchogue at 1:07 PM. Customers at stations 
+Montauk through Patchogue will     be accommodated by buses departing up
+ to 1 hour and 5 minutes later than     usual train times. &lt;/li&gt;&lt;li&gt;The 
+2:00 PM train from     Speonk, scheduled to arrive at Jamaica 3:36 PM, 
+will originate at     Patchogue at 2:30 PM. Customers at stations 
+Montauk through Speonk will be     accommodated by buses departing up to
+ 1 hour and 5 minutes later than     usual train times. &lt;/li&gt;&lt;li&gt;The 
+2:51 PM train from     Montauk, scheduled to arrive at Jamaica at 5:50 
+PM, will originate at     Patchogue at 4:43 PM. Customers at stations 
+Montauk through Patchogue will     be accommodated by buses departing up
+ to 1 hour and 5 minutes later than     usual train times.&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>04/03/2018</Date>
+    <Time> 7:00AM</Time>
   </line>
   <line>
     <name>Oyster Bay</name>
