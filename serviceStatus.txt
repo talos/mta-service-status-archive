@@ -1,17 +1,31 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>DELAYS</status>
+    <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;04/03/2018&amp;nbsp; 3:45PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  Southbound [2] and [5] trains are running with delays because of a passenger in need of medical assistance at &lt;STRONG&gt;Simpson St&lt;/STRONG&gt;.
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>04/03/2018</Date>
+    <Time> 3:45PM</Time>
   </line>
   <line>
     <name>456</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>DELAYS</status>
+    <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;04/03/2018&amp;nbsp; 3:45PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  Southbound [2] and [5] trains are running with delays because of a passenger in need of medical assistance at &lt;STRONG&gt;Simpson St&lt;/STRONG&gt;.
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>04/03/2018</Date>
+    <Time> 3:45PM</Time>
   </line>
   <line>
     <name>7</name>
@@ -623,15 +637,8 @@
   </line>
   <line>
     <name>Montauk</name>
-    <status>DELAYS</status>
+    <status>PLANNED WORK</status>
     <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;04/03/2018&amp;nbsp; 2:44PM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  The 2:30PM train from Patchogue due Jamaica at 3:36PM is operating 10 minutes late due to trackwork. &lt;br&gt;
-                &lt;br/&gt;&lt;br/&gt;
-              
                     &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
                     &lt;br/&gt;
                   &lt;font size="3"&gt;&lt;b style=""&gt;Buses Replace Midday Weekday Trains between Patchogue &amp; Montauk thru May 18&lt;/b&gt;&lt;/font&gt;&lt;div style="font-size: 10pt;"&gt;&lt;span&gt;Starting
@@ -663,7 +670,7 @@ Montauk through Patchogue will     be accommodated by buses departing up
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>04/03/2018</Date>
-    <Time> 2:44PM</Time>
+    <Time> 7:00AM</Time>
   </line>
   <line>
     <name>Oyster Bay</name>
