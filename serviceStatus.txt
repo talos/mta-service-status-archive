@@ -1,31 +1,17 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>DELAYS</status>
-    <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;04/03/2018&amp;nbsp; 3:57PM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  [2] and [5] train service has resumed following an earlier incident involving a passenger in need of medical assistance at &lt;STRONG&gt;Simpson St&lt;/STRONG&gt;.
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>04/03/2018</Date>
-    <Time> 3:57PM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>456</name>
-    <status>DELAYS</status>
-    <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;04/03/2018&amp;nbsp; 3:57PM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  [2] and [5] train service has resumed following an earlier incident involving a passenger in need of medical assistance at &lt;STRONG&gt;Simpson St&lt;/STRONG&gt;.
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>04/03/2018</Date>
-    <Time> 3:57PM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>7</name>
@@ -93,8 +79,18 @@
 </subway><bus>
   <line>
     <name>B1 - B84</name>
-    <status>SERVICE CHANGE</status>
+    <status>DELAYS</status>
     <text>
+                  &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                  &lt;span class="DateStyle"&gt;
+                  &amp;nbsp;Posted:&amp;nbsp;04/03/2018&amp;nbsp; 4:09PM
+                  &lt;/span&gt;
+                  &lt;br/&gt;
+                  &lt;br/&gt;
+                &lt;P&gt;&lt;STRONG&gt;B25, B26, B37, B38, B41, B45, B52, B54, B61, B62, B63, B65, B67&lt;/STRONG&gt; and &lt;STRONG&gt;B103&lt;/STRONG&gt; buses are running with delays in both directions because of traffic conditions in the downtown Brooklyn area. &lt;/P&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
                   &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
                   &lt;span class="DateStyle"&gt;
                   &amp;nbsp;Posted:&amp;nbsp;04/03/2018&amp;nbsp; 4:08PM
@@ -128,16 +124,6 @@
               &lt;br/&gt;
               &lt;br/&gt;
             
-                  &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                  &lt;span class="DateStyle"&gt;
-                  &amp;nbsp;Posted:&amp;nbsp;04/03/2018&amp;nbsp; 2:42PM
-                  &lt;/span&gt;
-                  &lt;br/&gt;
-                  &lt;br/&gt;
-                &lt;P&gt;&lt;STRONG&gt;B25, B26, B37, B38, B41, B45, B52, B54, B61, B62, B63, B65, B67&lt;/STRONG&gt; and &lt;STRONG&gt;B103&lt;/STRONG&gt; buses are running with delays in both directions because of traffic conditions in the downtown Brooklyn area. &lt;/P&gt;
-              &lt;br/&gt;
-              &lt;br/&gt;
-            
                   &lt;span class="TitlePlannedWork" &gt;Planned Detour&lt;/span&gt;
                   &lt;br/&gt;
                 &lt;a class="plannedWorkDetailLink" onclick=ShowHide(185108);&gt;&lt;b&gt;B45 &lt;/b&gt;- &lt;b&gt;Eastbound stop on St John's Pl at Kingston Av temporarily relocated&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 185108 class="plannedWorkDetail" &gt;&lt;/b&gt;All times, beginning Friday, Mar 30, until Friday, Apr 6&lt;br&gt;&lt;br&gt;Due to construction, please follow directional signage to the nearby temporary stop &lt;b&gt;on St John's Pl &lt;/b&gt;near Kingston Av.&lt;br&gt;&lt;br&gt;&lt;b&gt;Reminder&lt;/b&gt;: &lt;a href=http://web.mta.info/nyct/bus/schedule/bkln/b045cur.pdf target=_blank&gt;&lt;font color=#0000FF&gt;B45&lt;/font&gt;&lt;/a&gt; buses do not operate overnight.&lt;br&gt;&lt;b&gt;                              [TP]&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
@@ -157,7 +143,7 @@
               &lt;br/&gt;
             </text>
     <Date>04/03/2018</Date>
-    <Time> 4:08PM</Time>
+    <Time> 4:09PM</Time>
   </line>
   <line>
     <name>B100 - B103</name>
@@ -165,7 +151,7 @@
     <text>
                   &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                   &lt;span class="DateStyle"&gt;
-                  &amp;nbsp;Posted:&amp;nbsp;04/03/2018&amp;nbsp; 2:42PM
+                  &amp;nbsp;Posted:&amp;nbsp;04/03/2018&amp;nbsp; 4:09PM
                   &lt;/span&gt;
                   &lt;br/&gt;
                   &lt;br/&gt;
@@ -174,7 +160,7 @@
               &lt;br/&gt;
             </text>
     <Date>04/03/2018</Date>
-    <Time> 2:42PM</Time>
+    <Time> 4:09PM</Time>
   </line>
   <line>
     <name>BM1 - BM5</name>
@@ -262,6 +248,38 @@
     <text>
                   &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
                   &lt;span class="DateStyle"&gt;
+                  &amp;nbsp;Posted:&amp;nbsp;04/03/2018&amp;nbsp; 4:11PM
+                  &lt;/span&gt;
+                  &lt;br/&gt;
+                  &lt;br/&gt;
+                &lt;P&gt;&lt;STRONG&gt;Q65 &lt;/STRONG&gt;buses are detoured because of a non MTA crash on College Point Blvd and Northern Blvd. &lt;/P&gt;
+&lt;P&gt;Detour is as follows: &lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;Jamaica Bound&lt;/STRONG&gt;: Via College Point Blvd, left on 35 Av, right on Prince St, left on Northern Blvd and regular route. &lt;/P&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
+                  &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                  &lt;span class="DateStyle"&gt;
+                  &amp;nbsp;Posted:&amp;nbsp;04/03/2018&amp;nbsp; 4:10PM
+                  &lt;/span&gt;
+                  &lt;br/&gt;
+                  &lt;br/&gt;
+                &lt;P&gt;&lt;STRONG&gt;Q1, Q2, Q3, Q4, Q5, Q6, Q8, Q9, Q17, Q20A, Q20B, Q24, Q25, Q30, Q31, Q34, Q40, Q41, Q42, Q43, Q44-SBS, Q54, Q56, Q60, Q65 Q83, Q84, Q85, Q110, Q111, Q112, Q113-LTD,&lt;/STRONG&gt; &lt;STRONG&gt;Q114-LTD &lt;/STRONG&gt;and &lt;STRONG&gt;X68&lt;/STRONG&gt; buses are running with delays in both directions because of traffic conditions on Archer Av between Sutphin Blvd and 168 St and Jamaica Av between Sutphin Blvd and 168 St and Hillside Av. &lt;/P&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
+                  &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                  &lt;span class="DateStyle"&gt;
+                  &amp;nbsp;Posted:&amp;nbsp;04/03/2018&amp;nbsp; 4:10PM
+                  &lt;/span&gt;
+                  &lt;br/&gt;
+                  &lt;br/&gt;
+                &lt;STRONG&gt;Q58&lt;/STRONG&gt; and &lt;STRONG&gt;Q88 &lt;/STRONG&gt;buses are running with delays in both directions because of traffic conditions on the LIE between 108 St and College Point Blvd.
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
+                  &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                  &lt;span class="DateStyle"&gt;
                   &amp;nbsp;Posted:&amp;nbsp;04/03/2018&amp;nbsp; 4:08PM
                   &lt;/span&gt;
                   &lt;br/&gt;
@@ -295,26 +313,6 @@
               &lt;br/&gt;
               &lt;br/&gt;
             
-                  &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                  &lt;span class="DateStyle"&gt;
-                  &amp;nbsp;Posted:&amp;nbsp;04/03/2018&amp;nbsp; 2:43PM
-                  &lt;/span&gt;
-                  &lt;br/&gt;
-                  &lt;br/&gt;
-                &lt;P&gt;&lt;STRONG&gt;Q1, Q2, Q3, Q4, Q5, Q6, Q8, Q9, Q17, Q20A, Q20B, Q24, Q25, Q30, Q31, Q34, Q40, Q41, Q42, Q43, Q44-SBS, Q54, Q56, Q60, Q65 Q83, Q84, Q85, Q110, Q111, Q112, Q113-LTD,&lt;/STRONG&gt; &lt;STRONG&gt;Q114-LTD &lt;/STRONG&gt;and &lt;STRONG&gt;X68&lt;/STRONG&gt; buses are running with delays in both directions because of traffic conditions on Archer Av between Sutphin Blvd and 168 St and Jamaica Av between Sutphin Blvd and 168 St and Hillside Av. &lt;/P&gt;
-              &lt;br/&gt;
-              &lt;br/&gt;
-            
-                  &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                  &lt;span class="DateStyle"&gt;
-                  &amp;nbsp;Posted:&amp;nbsp;04/03/2018&amp;nbsp; 2:42PM
-                  &lt;/span&gt;
-                  &lt;br/&gt;
-                  &lt;br/&gt;
-                &lt;STRONG&gt;Q58&lt;/STRONG&gt; and &lt;STRONG&gt;Q88 &lt;/STRONG&gt;buses are running with delays in both directions because of traffic conditions on the LIE between 108 St and College Point Blvd.
-              &lt;br/&gt;
-              &lt;br/&gt;
-            
                   &lt;span class="TitlePlannedWork" &gt;Planned Detour&lt;/span&gt;
                   &lt;br/&gt;
                 &lt;a class="plannedWorkDetailLink" onclick=ShowHide(184918);&gt;&lt;b&gt;Q70 &lt;/b&gt;SBS&lt;b&gt; buses are fare free during Spring Break&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 184918 class="plannedWorkDetail" &gt;&lt;/b&gt;12:01 AM Thu to 11:59 PM Sun, Mar 29 - Apr 8&lt;br&gt;&lt;br&gt;Ride free on the &lt;a href=http://web.mta.info/busco/schedules/q070scur.pdf target=_blank&gt;&lt;font color=#0000FF&gt;LaGuardia Link Q70 SBS&lt;/font&gt;&lt;/a&gt;. Customers do not have to &lt;br&gt;obtain a Select Bus Service ticket and may board at any door.&lt;br&gt;&lt;br&gt;&lt;a href=https://www.laguardiaairport.com/#/ target=_blank&gt;&lt;font color=#0000FF&gt;Click here&lt;/font&gt;&lt;/a&gt; for LaGuardia Airport travel advisories.&lt;br&gt;&lt;br&gt;&lt;b&gt;Note:&lt;/b&gt; Customers transferring to the subway will still have to pay the subway fare.&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
@@ -340,7 +338,7 @@
               &lt;br/&gt;
             </text>
     <Date>04/03/2018</Date>
-    <Time> 4:08PM</Time>
+    <Time> 4:11PM</Time>
   </line>
   <line>
     <name>QM1 - QM44</name>
