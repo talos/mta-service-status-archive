@@ -15,10 +15,15 @@
   </line>
   <line>
     <name>7</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>PLANNED WORK</status>
+    <text>
+                    &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
+                    &lt;br/&gt;
+                  &lt;a class="plannedWorkDetailLink" onclick=ShowHide(181053);&gt;&lt;b&gt;&lt;i&gt;TRACK REPLACEMENT&lt;/i&gt;&lt;br clear=left&gt;[7D] Flushing-bound trains make local stops at 33, 40, 46, 52, 69 and 74 Sts&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 181053 class="plannedWorkDetail" &gt;&lt;/b&gt;Days, 3 PM to 3:30 PM, &lt;font color=#272627&gt;Mon to Fri, until Apr 20 (&lt;i&gt;except Apr 4&lt;/i&gt;)&lt;br&gt;&lt;br&gt;&amp;bull; Please allow additional travel time.&lt;br&gt;&lt;/font&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>04/03/2018</Date>
+    <Time> 3:07PM</Time>
   </line>
   <line>
     <name>ACE</name>
@@ -65,7 +70,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>04/03/2018</Date>
-    <Time> 2:57PM</Time>
+    <Time> 3:07PM</Time>
   </line>
   <line>
     <name>S</name>
@@ -76,15 +81,10 @@
   </line>
   <line>
     <name>SIR</name>
-    <status>PLANNED WORK</status>
-    <text>
-                    &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
-                    &lt;br/&gt;
-                  &lt;a class="plannedWorkDetailLink" onclick=ShowHide(185004);&gt;&lt;b&gt;&lt;i&gt;SCHEDULED MAINTENANCE&lt;/i&gt;&lt;br clear=left&gt;[SIR] Trains board at the Tottenville-bound platform from Huguenot to Eltingville Stations&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 185004 class="plannedWorkDetail" &gt;&lt;/b&gt;Day, 9 AM to 3 PM, Tuesday, Apr 3&lt;br&gt;&lt;br&gt;&amp;bull; Boarding change includes &lt;b&gt;Huguenot&lt;/b&gt;, &lt;b&gt;Annadale&lt;/b&gt; and &lt;b&gt;Eltingville Stations&lt;/b&gt;.&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>04/03/2018</Date>
-    <Time> 2:57PM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
 </subway><bus>
   <line>
@@ -242,12 +242,6 @@
             
                   &lt;span class="TitlePlannedWork" &gt;Planned Detour&lt;/span&gt;
                   &lt;br/&gt;
-                &lt;a class="plannedWorkDetailLink" onclick=ShowHide(184068);&gt;&lt;b&gt;M8&lt;/b&gt; - &lt;b&gt;Eastbound buses rerouted from W 10 St at Hudson St to Bleecker St &lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 184068 class="plannedWorkDetail" &gt;&lt;/b&gt;7 AM to 3 PM, daily, until May 12&lt;br&gt;&lt;br&gt;Due to construction, buses run via &lt;b&gt;Perry St &lt;/b&gt;making corresponding stops.&lt;br&gt;&lt;br&gt;&lt;b&gt;&lt;i&gt;&lt;a style="cursor:pointer; text-decoration:underline;" onclick=ShowHide(1840680);&gt;Show Reroute Details&lt;/a&gt;&lt;/i&gt;&lt;/b&gt;&lt;br&gt;&lt;div id="1840680"; style="display:none;"&gt;Via W 10 St&lt;br&gt;Left on Hudson St&lt;br&gt;Right on Perry St&lt;br&gt;Right on Bleecker St&lt;br&gt;Left on W 10 St then regular route&lt;/div&gt;&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
-              &lt;br/&gt;
-              &lt;br/&gt;
-            
-                  &lt;span class="TitlePlannedWork" &gt;Planned Detour&lt;/span&gt;
-                  &lt;br/&gt;
                 &lt;a class="plannedWorkDetailLink" onclick=ShowHide(184776);&gt;&lt;b&gt;M3 buses rerouted from St Nicholas Av between 145 St and 155 St&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 184776 class="plannedWorkDetail" &gt;&lt;/b&gt;Until further notice&lt;br&gt;&lt;br&gt;Due to debris removal, buses run via &lt;b&gt;Amsterdam Av &lt;/b&gt;making corresponding stops in both directions.&lt;br&gt;&lt;br&gt;&lt;b&gt;&lt;i&gt;&lt;a style="cursor:pointer; text-decoration:underline;" onclick=ShowHide(1847760);&gt;Show Reroute Details&lt;/a&gt;&lt;/i&gt;&lt;/b&gt;&lt;br&gt;&lt;div id="1847760"; style="display:none;"&gt;&lt;b&gt;Northbound&lt;br&gt;&lt;/b&gt;Via St Nicholas Av&lt;br&gt;Left on 145 St&lt;br&gt;Right on Amsterdam Av then regular route&lt;br&gt;&lt;br&gt;&lt;b&gt;Southbound&lt;br&gt;&lt;/b&gt;Via Amsterdam Av&lt;br&gt;Left on 145 St&lt;br&gt;Right on St Nicholas Av then regular route&lt;/div&gt;&lt;br&gt;&lt;b&gt;                              [TP]&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
               &lt;br/&gt;
               &lt;br/&gt;
@@ -263,8 +257,21 @@
   </line>
   <line>
     <name>Q1 - Q113</name>
-    <status>DELAYS</status>
+    <status>SERVICE CHANGE</status>
     <text>
+                  &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                  &lt;span class="DateStyle"&gt;
+                  &amp;nbsp;Posted:&amp;nbsp;04/03/2018&amp;nbsp; 3:07PM
+                  &lt;/span&gt;
+                  &lt;br/&gt;
+                  &lt;br/&gt;
+                &lt;P&gt;Q7 buses are detoured eastbound because of paving at Euclid and Belmont Avenues. &lt;/P&gt;
+&lt;P&gt;Detour is as follows:&lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;Eastbound:&lt;/STRONG&gt; via Euclid, right on Sutter Av, right on Logan Av, right on Pitkin Av and regular route.&lt;/P&gt;
+&lt;P&gt;All corresponding stops will be made along detoured route.&lt;/P&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
                   &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                   &lt;span class="DateStyle"&gt;
                   &amp;nbsp;Posted:&amp;nbsp;04/03/2018&amp;nbsp; 2:48PM
@@ -345,7 +352,7 @@
               &lt;br/&gt;
             </text>
     <Date>04/03/2018</Date>
-    <Time> 2:48PM</Time>
+    <Time> 3:07PM</Time>
   </line>
   <line>
     <name>QM1 - QM44</name>
