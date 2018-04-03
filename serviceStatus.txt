@@ -57,10 +57,17 @@
   </line>
   <line>
     <name>L</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>SERVICE CHANGE</status>
+    <text>
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;04/03/2018&amp;nbsp; 9:05AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  There is no [L] train service between &lt;STRONG&gt;Lorimer St&lt;/STRONG&gt; and &lt;STRONG&gt;Myrtle-Wyckoff Av&lt;/STRONG&gt; in both directions because of sick passenger at &lt;STRONG&gt;Grand St&lt;/STRONG&gt;.
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>04/03/2018</Date>
+    <Time> 9:05AM</Time>
   </line>
   <line>
     <name>NQR</name>
@@ -486,10 +493,17 @@ Montauk through Patchogue will     be accommodated by buses departing up
   </line>
   <line>
     <name>Port Jefferson</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>DELAYS</status>
+    <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;04/03/2018&amp;nbsp; 9:05AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  The 8:00AM train from Penn due Huntington at 9:10AM is operating 10 minutes late due to earlier equipment trouble.
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>04/03/2018</Date>
+    <Time> 9:05AM</Time>
   </line>
   <line>
     <name>Port Washington</name>
