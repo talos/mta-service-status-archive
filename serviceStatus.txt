@@ -1,17 +1,33 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>SERVICE CHANGE</status>
+    <text>
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;04/04/2018&amp;nbsp; 2:15PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;P&gt;Northbound [2] and [3] trains are running express from &lt;STRONG&gt;Franklin Av&lt;/STRONG&gt; to &lt;STRONG&gt;Atlantic Av-Barclays Ctr&lt;/STRONG&gt; because of a passenger in need of medical assistance at &lt;STRONG&gt;Grand Army Plaza&lt;/STRONG&gt;. &lt;/P&gt;
+&lt;P&gt;Expect delays in [2], [3], [4] and [5] train service. &lt;/P&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>04/04/2018</Date>
+    <Time> 2:15PM</Time>
   </line>
   <line>
     <name>456</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>SERVICE CHANGE</status>
+    <text>
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;04/04/2018&amp;nbsp; 2:15PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;P&gt;Northbound [2] and [3] trains are running express from &lt;STRONG&gt;Franklin Av&lt;/STRONG&gt; to &lt;STRONG&gt;Atlantic Av-Barclays Ctr&lt;/STRONG&gt; because of a passenger in need of medical assistance at &lt;STRONG&gt;Grand Army Plaza&lt;/STRONG&gt;. &lt;/P&gt;
+&lt;P&gt;Expect delays in [2], [3], [4] and [5] train service. &lt;/P&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>04/04/2018</Date>
+    <Time> 2:15PM</Time>
   </line>
   <line>
     <name>7</name>
@@ -37,7 +53,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>04/04/2018</Date>
-    <Time> 2:04PM</Time>
+    <Time> 2:14PM</Time>
   </line>
   <line>
     <name>G</name>
@@ -56,7 +72,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>04/04/2018</Date>
-    <Time> 2:04PM</Time>
+    <Time> 2:14PM</Time>
   </line>
   <line>
     <name>L</name>
@@ -89,7 +105,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>04/04/2018</Date>
-    <Time> 2:04PM</Time>
+    <Time> 2:14PM</Time>
   </line>
 </subway><bus>
   <line>
@@ -181,7 +197,7 @@
               &lt;br/&gt;
             </text>
     <Date>04/04/2018</Date>
-    <Time> 2:04PM</Time>
+    <Time> 2:14PM</Time>
   </line>
   <line>
     <name>BXM1 - BXM18</name>
@@ -328,7 +344,7 @@
               &lt;br/&gt;
             </text>
     <Date>04/04/2018</Date>
-    <Time> 2:04PM</Time>
+    <Time> 2:14PM</Time>
   </line>
   <line>
     <name>S40 - S98</name>
@@ -393,7 +409,7 @@
               &lt;br/&gt;
             </text>
     <Date>04/04/2018</Date>
-    <Time> 2:04PM</Time>
+    <Time> 2:14PM</Time>
   </line>
 </bus><BT>
   <line>
@@ -553,18 +569,10 @@
   </line>
   <line>
     <name>Long Beach</name>
-    <status>DELAYS</status>
-    <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;04/04/2018&amp;nbsp; 1:45PM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  The 1:11PM train from Penn due Long Beach at 2:04PM is operating 10 minutes late due to an earlier downed tree near Kew gardens.
-       
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>04/04/2018</Date>
-    <Time> 1:45PM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>Montauk</name>
