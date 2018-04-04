@@ -1,15 +1,29 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>DELAYS</status>
+    <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;04/04/2018&amp;nbsp; 7:55AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  Southbound [2] and [5] trains are running with delays because of signal problems at&lt;STRONG&gt; Allerton Av&lt;/STRONG&gt;.
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>04/04/2018</Date>
+    <Time> 7:55AM</Time>
   </line>
   <line>
     <name>456</name>
     <status>DELAYS</status>
     <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;04/04/2018&amp;nbsp; 7:55AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  Southbound [2] and [5] trains are running with delays because of signal problems at&lt;STRONG&gt; Allerton Av&lt;/STRONG&gt;.
+                &lt;br/&gt;&lt;br/&gt;
+              
                     &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
                     &amp;nbsp;Posted:&amp;nbsp;04/04/2018&amp;nbsp; 7:52AM
@@ -18,7 +32,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>04/04/2018</Date>
-    <Time> 7:52AM</Time>
+    <Time> 7:55AM</Time>
   </line>
   <line>
     <name>7</name>
@@ -272,7 +286,7 @@
               &lt;br/&gt;
             </text>
     <Date>04/04/2018</Date>
-    <Time> 7:44AM</Time>
+    <Time> 7:55AM</Time>
   </line>
   <line>
     <name>S40 - S98</name>
@@ -323,7 +337,7 @@
               &lt;br/&gt;
             </text>
     <Date>04/04/2018</Date>
-    <Time> 7:44AM</Time>
+    <Time> 7:55AM</Time>
   </line>
 </bus><BT>
   <line>
