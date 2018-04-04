@@ -1,8 +1,16 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>DELAYS</status>
+    <status>SERVICE CHANGE</status>
     <text>
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;04/04/2018&amp;nbsp; 7:07PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;P&gt;Northbound [2] and [3] trains are running local from &lt;STRONG&gt;Times Sq-42 St&lt;/STRONG&gt; to &lt;STRONG&gt;72 St&lt;/STRONG&gt; because of an unruly passenger at &lt;STRONG&gt;Times Sq-42 St&lt;/STRONG&gt;. &lt;/P&gt;
+&lt;P&gt;Expect delays in [1], [2] and [3] train service. &lt;/P&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              
                     &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
                     &amp;nbsp;Posted:&amp;nbsp;04/04/2018&amp;nbsp; 6:54PM
@@ -11,7 +19,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>04/04/2018</Date>
-    <Time> 6:54PM</Time>
+    <Time> 7:07PM</Time>
   </line>
   <line>
     <name>456</name>
