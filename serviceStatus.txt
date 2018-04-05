@@ -1,10 +1,17 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>DELAYS</status>
+    <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;04/05/2018&amp;nbsp; 4:01PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  [1] trains are running with delays in both directions because of an injured passenger at&lt;STRONG&gt; South Ferry&lt;/STRONG&gt;.
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>04/05/2018</Date>
+    <Time> 4:01PM</Time>
   </line>
   <line>
     <name>456</name>
@@ -208,18 +215,15 @@
   </line>
   <line>
     <name>Q1 - Q113</name>
-    <status>SERVICE CHANGE</status>
+    <status>DELAYS</status>
     <text>
-                  &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                  &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                   &lt;span class="DateStyle"&gt;
-                  &amp;nbsp;Posted:&amp;nbsp;04/05/2018&amp;nbsp; 3:54PM
+                  &amp;nbsp;Posted:&amp;nbsp;04/05/2018&amp;nbsp; 4:00PM
                   &lt;/span&gt;
                   &lt;br/&gt;
                   &lt;br/&gt;
-                &lt;P&gt;&lt;STRONG&gt;Q60&lt;/STRONG&gt; and &lt;STRONG&gt;Q101 &lt;/STRONG&gt;buses are detoured because of road obstruction on the exit ramp of 59 St Bridge. &lt;/P&gt;
-&lt;P&gt;Detour is as follows:&lt;/P&gt;
-&lt;P&gt;&lt;STRONG&gt;Q60 and Q101 Westbound:&lt;/STRONG&gt; Via 59 St Bridge Main Rd continue on 60 St, right on 3 Av, right on 62 St, right on 2 Av and regular route.&lt;/P&gt;
-&lt;P&gt;Corresponding stops will be made along detour route.&lt;/P&gt;
+                &lt;STRONG&gt;Q60&lt;/STRONG&gt; and &lt;STRONG&gt;Q101&lt;/STRONG&gt; bus service has resumed following an earlier incident involving road obstruction on the exit ramp of 59 St Bridge.
               &lt;br/&gt;
               &lt;br/&gt;
             
@@ -302,7 +306,7 @@
               &lt;br/&gt;
             </text>
     <Date>04/05/2018</Date>
-    <Time> 3:54PM</Time>
+    <Time> 4:00PM</Time>
   </line>
   <line>
     <name>QM1 - QM44</name>
