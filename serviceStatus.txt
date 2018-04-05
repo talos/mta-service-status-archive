@@ -1,17 +1,10 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>DELAYS</status>
-    <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;04/05/2018&amp;nbsp; 4:17PM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  [1] train service has resumed following an earlier incident involving an injured passenger at &lt;STRONG&gt;South Ferry&lt;/STRONG&gt;.
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>04/05/2018</Date>
-    <Time> 4:17PM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>456</name>
@@ -29,10 +22,18 @@
   </line>
   <line>
     <name>ACE</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>SERVICE CHANGE</status>
+    <text>
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;04/05/2018&amp;nbsp; 4:32PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;P&gt;Southbound [A] trains are running local from &lt;STRONG&gt;59 St-Columbus Circle&lt;/STRONG&gt; to &lt;STRONG&gt;Canal St&lt;/STRONG&gt; because of a train with mechanical problems at &lt;STRONG&gt;42 St-Port Authority Bus Terminal&lt;/STRONG&gt;.&lt;/P&gt;
+&lt;P&gt;Expect delays in [A], [C] and [E] train service. &lt;/P&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>04/05/2018</Date>
+    <Time> 4:32PM</Time>
   </line>
   <line>
     <name>BDFM</name>
@@ -502,29 +503,15 @@
   </line>
   <line>
     <name>City Terminal Zone</name>
-    <status>SERVICE CHANGE</status>
-    <text>
-                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;04/05/2018&amp;nbsp; 1:45PM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  Service is restored between Jamaica and Atlantic Terminal, operating using only one track, as crews continue to repair a broken rail west of Jamaica. Customers can anticipate delays while track repairs continue. Based on current estimates, we anticipate that full service will be restored before tonight's PM rush. NYC transit continues to cross-honor LIRR tickets on the 2/3 train at Atlantic Terminal and 34th Street.&lt;br&gt;
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>04/05/2018</Date>
-    <Time> 1:45PM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>Far Rockaway</name>
-    <status>SERVICE CHANGE</status>
+    <status>DELAYS</status>
     <text>
-                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;04/05/2018&amp;nbsp; 1:45PM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  Service is restored between Jamaica and Atlantic Terminal, operating using only one track, as crews continue to repair a broken rail west of Jamaica. Customers can anticipate delays while track repairs continue. Based on current estimates, we anticipate that full service will be restored before tonight's PM rush. NYC transit continues to cross-honor LIRR tickets on the 2/3 train at Atlantic Terminal and 34th Street.&lt;br&gt;
-                &lt;br/&gt;&lt;br/&gt;
-              
                     &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
                     &amp;nbsp;Posted:&amp;nbsp;04/05/2018&amp;nbsp; 4:28PM
@@ -533,21 +520,14 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>04/05/2018</Date>
-    <Time> 1:45PM</Time>
+    <Time> 4:28PM</Time>
   </line>
   <line>
     <name>Hempstead</name>
-    <status>SERVICE CHANGE</status>
-    <text>
-                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;04/05/2018&amp;nbsp; 1:45PM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  Service is restored between Jamaica and Atlantic Terminal, operating using only one track, as crews continue to repair a broken rail west of Jamaica. Customers can anticipate delays while track repairs continue. Based on current estimates, we anticipate that full service will be restored before tonight's PM rush. NYC transit continues to cross-honor LIRR tickets on the 2/3 train at Atlantic Terminal and 34th Street.&lt;br&gt;
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>04/05/2018</Date>
-    <Time> 1:45PM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>Long Beach</name>
