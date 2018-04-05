@@ -151,10 +151,17 @@
   </line>
   <line>
     <name>SIR</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>DELAYS</status>
+    <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;04/05/2018&amp;nbsp; 1:30AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  [SIR] train service has resumed following an earlier NYPD investigation of vandalism at &lt;STRONG&gt;Tottenville.&lt;/STRONG&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>04/05/2018</Date>
+    <Time> 1:30AM</Time>
   </line>
 </subway><bus>
   <line>
@@ -578,17 +585,10 @@
   </line>
   <line>
     <name>Port Jefferson</name>
-    <status>DELAYS</status>
-    <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;04/05/2018&amp;nbsp;12:29AM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  The 12:16AM train from Huntington due Penn at 1:20AM is operating 10 minutes late after accommodating customers from a late-arriving connection.
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>04/05/2018</Date>
-    <Time>12:29AM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>Port Washington</name>
