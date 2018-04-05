@@ -19,7 +19,7 @@
               
                     &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
                     &lt;br/&gt;
-                  &lt;a class="plannedWorkDetailLink" onclick=ShowHide(181048);&gt;&lt;b&gt;&lt;i&gt;TRACK MAINTENANCE&lt;/i&gt;&lt;br clear=left&gt;[6D] Brooklyn Bridge-bound trains run local from Parkchester to 3 Av-138 St&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 181048 class="plannedWorkDetail" &gt;&lt;/b&gt;Day, 9:45 AM to 1 PM, Thursday, Apr 5 &lt;br&gt;&lt;br&gt;&amp;bull; Please allow additional travel time.&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+                  &lt;a class="plannedWorkDetailLink" onclick=ShowHide(182334);&gt;&lt;b&gt;&lt;i&gt;TRACK MAINTENANCE&lt;/i&gt;&lt;br clear=left&gt;[6D] Pelham Bay Park-bound trains run local from 3 Av-138 St to Parkchester&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 182334 class="plannedWorkDetail" &gt;&lt;/b&gt;Day, 1 PM to 3 PM, Thursday, Apr 5&lt;br&gt;&lt;br&gt;&amp;bull; Please allow additional travel time.&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
                 &lt;br/&gt;&lt;br/&gt;
               
                     &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
@@ -42,10 +42,17 @@
   </line>
   <line>
     <name>7</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>DELAYS</status>
+    <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;04/05/2018&amp;nbsp; 1:06PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  [7] trains are running with delays in both directions because of NYPD activity at &lt;STRONG&gt;34 St-Hudson Yards&lt;/STRONG&gt;.
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>04/05/2018</Date>
+    <Time> 1:06PM</Time>
   </line>
   <line>
     <name>ACE</name>
@@ -64,7 +71,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>04/05/2018</Date>
-    <Time>12:59PM</Time>
+    <Time> 1:06PM</Time>
   </line>
   <line>
     <name>G</name>
@@ -83,7 +90,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>04/05/2018</Date>
-    <Time>12:59PM</Time>
+    <Time> 1:06PM</Time>
   </line>
   <line>
     <name>L</name>
@@ -102,7 +109,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>04/05/2018</Date>
-    <Time>12:59PM</Time>
+    <Time> 1:06PM</Time>
   </line>
   <line>
     <name>S</name>
@@ -121,7 +128,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>04/05/2018</Date>
-    <Time>12:59PM</Time>
+    <Time> 1:06PM</Time>
   </line>
 </subway><bus>
   <line>
@@ -147,7 +154,7 @@
               &lt;br/&gt;
             </text>
     <Date>04/05/2018</Date>
-    <Time>12:59PM</Time>
+    <Time> 1:06PM</Time>
   </line>
   <line>
     <name>B100 - B103</name>
@@ -174,7 +181,7 @@
               &lt;br/&gt;
             </text>
     <Date>04/05/2018</Date>
-    <Time>12:59PM</Time>
+    <Time> 1:06PM</Time>
   </line>
   <line>
     <name>BXM1 - BXM18</name>
@@ -310,7 +317,7 @@
               &lt;br/&gt;
             </text>
     <Date>04/05/2018</Date>
-    <Time>12:59PM</Time>
+    <Time> 1:06PM</Time>
   </line>
   <line>
     <name>S40 - S98</name>
@@ -340,12 +347,6 @@
                 &lt;a class="plannedWorkDetailLink" onclick=ShowHide(184486);&gt;&lt;b&gt;S54, X7 and X8 buses rerouted between Hylan Blvd at Armstrong Av and Nelson Av at Amboy Rd&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 184486 class="plannedWorkDetail" &gt;&lt;/b&gt;Until further notice&lt;br&gt;&lt;br&gt;Due to construction:&lt;br&gt;&lt;br&gt;&lt;b&gt;Northbound&lt;br&gt;&lt;/b&gt;&amp;bull;  The Nelson Av at Amboy Rd bus stop will be made on Amboy Rd at Nelson Av.&lt;br&gt;&lt;br&gt;Buses make corresponding stops along the detoured route.&lt;br&gt;&lt;br&gt;&lt;b&gt;&lt;i&gt;&lt;a style="cursor:pointer; text-decoration:underline;" onclick=ShowHide(1844860);&gt;Show Reroute Details&lt;/a&gt;&lt;/i&gt;&lt;/b&gt;&lt;br&gt;&lt;div id="1844860"; style="display:none;"&gt;&lt;b&gt;S54 Northbound&lt;br&gt;&lt;/b&gt;Via Hylan Blvd&lt;br&gt;Left on Armstrong Av&lt;br&gt;Right on Amboy Rd&lt;br&gt;Left on Nelson Av then regular route&lt;br&gt;&lt;br&gt;&lt;b&gt;S54 Southbound&lt;br&gt;&lt;/b&gt;Via Nelson Av&lt;br&gt;Right on Amboy Rd&lt;br&gt;Left on Armstrong Av&lt;br&gt;Right on Hylan Blvd then regular route&lt;br&gt;&lt;br&gt;&lt;b&gt;X7 and X8 Northbound&lt;br&gt;&lt;/b&gt;Via Nelson Av&lt;br&gt;Right on Amboy Rd&lt;br&gt;Left on Armstrong Av&lt;br&gt;Left on Hylan Blvd then regular route&lt;br&gt;&lt;br&gt;&lt;b&gt;X7 and X8 Southbound&lt;br&gt;&lt;/b&gt;Via Hylan Blvd&lt;br&gt;Continue on Hylan Blvd&lt;br&gt;Right on Armstrong Av&lt;br&gt;Right on Amboy Rd&lt;br&gt;Left on Nelson Av then regular route&lt;/div&gt;&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
               &lt;br/&gt;
               &lt;br/&gt;
-            
-                  &lt;span class="TitlePlannedWork" &gt;Planned Detour&lt;/span&gt;
-                  &lt;br/&gt;
-                &lt;a class="plannedWorkDetailLink" onclick=ShowHide(185651);&gt;&lt;b&gt;S48 buses rerouted from Forest Av between Willowbrook Rd and Hart Blvd&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 185651 class="plannedWorkDetail" &gt;&lt;/b&gt;9:30 AM to 1 PM, Thursday, Apr 5&lt;br&gt;&lt;br&gt;Due to a FDNY Funeral, buses run via&lt;b&gt; Port Richmond Av &lt;/b&gt;and&lt;b&gt; Castleton Av &lt;/b&gt;making corresponding stops in both directions.&lt;br&gt;&lt;br&gt;&lt;b&gt;&lt;i&gt;&lt;a style="cursor:pointer; text-decoration:underline;" onclick=ShowHide(1856510);&gt;Show Reroute Details&lt;/a&gt;&lt;/i&gt;&lt;/b&gt;&lt;br&gt;&lt;div id="1856510"; style="display:none;"&gt;&lt;b&gt;Eastbound&lt;br&gt;&lt;/b&gt;Via Forest Av&lt;br&gt;Left on Willowbrook Rd&lt;br&gt;Right on Port Richmond Av&lt;br&gt;Right on Castleton Av&lt;br&gt;Right on Hart Blvd&lt;br&gt;Left on Forest Av then regular route&lt;br&gt;&lt;br&gt;&lt;b&gt;Westbound&lt;br&gt;&lt;/b&gt;Via Forest Av&lt;br&gt;Right on Hart Blvd&lt;br&gt;Left on Castleton Av&lt;br&gt;Left on Port Richmond Av&lt;br&gt;Left on Willowbrook Rd&lt;br&gt;Right on Forest Av then regular route&lt;/div&gt;&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
-              &lt;br/&gt;
-              &lt;br/&gt;
             </text>
     <Date>04/05/2018</Date>
     <Time>12:34PM</Time>
@@ -367,7 +368,7 @@
               &lt;br/&gt;
             </text>
     <Date>04/05/2018</Date>
-    <Time>12:59PM</Time>
+    <Time> 1:06PM</Time>
   </line>
 </bus><BT>
   <line>
