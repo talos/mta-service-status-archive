@@ -1,31 +1,17 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>DELAYS</status>
-    <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;04/06/2018&amp;nbsp; 8:10AM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  [2] and [5] train service has resumed following an earlier incident involving a passenger in need of medical assistance at &lt;STRONG&gt;E 180 St&lt;/STRONG&gt;.
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>04/06/2018</Date>
-    <Time> 8:10AM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>456</name>
-    <status>DELAYS</status>
-    <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;04/06/2018&amp;nbsp; 8:10AM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  [2] and [5] train service has resumed following an earlier incident involving a passenger in need of medical assistance at &lt;STRONG&gt;E 180 St&lt;/STRONG&gt;.
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>04/06/2018</Date>
-    <Time> 8:10AM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>7</name>
@@ -33,13 +19,14 @@
     <text>
                     &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;04/06/2018&amp;nbsp; 8:15AM
+                    &amp;nbsp;Posted:&amp;nbsp;04/06/2018&amp;nbsp; 8:26AM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  [7] trains are running with delays in both directions because of signal problems at &lt;STRONG&gt;74 St-Broadway&lt;/STRONG&gt;.
+                  &lt;P&gt;[7] and [7d] trains are running with delays in both directions because of signal problems at &lt;STRONG&gt;74 St-Broadway&lt;/STRONG&gt;.&lt;/P&gt;
+&lt;P&gt;As an alternative, customers may use [E], [F], [M] or [R] trains for service between Manhattan and Queens.&lt;/P&gt;
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>04/06/2018</Date>
-    <Time> 8:15AM</Time>
+    <Time> 8:26AM</Time>
   </line>
   <line>
     <name>ACE</name>
