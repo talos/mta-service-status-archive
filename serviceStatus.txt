@@ -24,7 +24,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>04/08/2018</Date>
-    <Time> 6:19AM</Time>
+    <Time> 6:31AM</Time>
   </line>
   <line>
     <name>456</name>
@@ -66,7 +66,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>04/08/2018</Date>
-    <Time> 6:19AM</Time>
+    <Time> 6:31AM</Time>
   </line>
   <line>
     <name>7</name>
@@ -78,7 +78,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>04/08/2018</Date>
-    <Time> 6:19AM</Time>
+    <Time> 6:31AM</Time>
   </line>
   <line>
     <name>ACE</name>
@@ -105,7 +105,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>04/08/2018</Date>
-    <Time> 6:19AM</Time>
+    <Time> 6:31AM</Time>
   </line>
   <line>
     <name>BDFM</name>
@@ -132,7 +132,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>04/08/2018</Date>
-    <Time> 6:19AM</Time>
+    <Time> 6:31AM</Time>
   </line>
   <line>
     <name>G</name>
@@ -151,7 +151,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>04/08/2018</Date>
-    <Time> 6:19AM</Time>
+    <Time> 6:31AM</Time>
   </line>
   <line>
     <name>L</name>
@@ -175,7 +175,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>04/08/2018</Date>
-    <Time> 6:19AM</Time>
+    <Time> 6:31AM</Time>
   </line>
   <line>
     <name>S</name>
@@ -186,10 +186,15 @@
   </line>
   <line>
     <name>SIR</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>PLANNED WORK</status>
+    <text>
+                    &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
+                    &lt;br/&gt;
+                  &lt;a class="plannedWorkDetailLink" onclick=ShowHide(185006);&gt;&lt;b&gt;&lt;i&gt;SCHEDULED MAINTENANCE&lt;/i&gt;&lt;br clear=left&gt;[SIR] Trains board at the Tottenville-bound platform from Jefferson Av to Old Town Stations&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 185006 class="plannedWorkDetail" &gt;&lt;/b&gt;Weekend, 6:30 AM to 4 PM, Sat &lt;i&gt;and &lt;/i&gt;Sun, Apr 7 - 8&lt;br&gt;&lt;br&gt;&amp;bull; Boarding change includes &lt;b&gt;Jefferson Av&lt;/b&gt;, &lt;b&gt;Dongan Hills&lt;/b&gt;, and &lt;b&gt;Old Town Stations&lt;/b&gt;. &lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>04/08/2018</Date>
+    <Time> 6:31AM</Time>
   </line>
 </subway><bus>
   <line>
@@ -203,7 +208,7 @@
               &lt;br/&gt;
             </text>
     <Date>04/08/2018</Date>
-    <Time> 6:19AM</Time>
+    <Time> 6:31AM</Time>
   </line>
   <line>
     <name>B100 - B103</name>
@@ -240,7 +245,7 @@
               &lt;br/&gt;
             </text>
     <Date>04/08/2018</Date>
-    <Time> 6:19AM</Time>
+    <Time> 6:31AM</Time>
   </line>
   <line>
     <name>BXM1 - BXM18</name>
@@ -261,12 +266,18 @@
             
                   &lt;span class="TitlePlannedWork" &gt;Planned Detour&lt;/span&gt;
                   &lt;br/&gt;
+                &lt;a class="plannedWorkDetailLink" onclick=ShowHide(184776);&gt;&lt;b&gt;M3 buses rerouted from St Nicholas Av between 145 St and 155 St&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 184776 class="plannedWorkDetail" &gt;&lt;/b&gt;Until further notice&lt;br&gt;&lt;br&gt;Due to debris removal, buses run via &lt;b&gt;Amsterdam Av &lt;/b&gt;making corresponding stops in both directions.&lt;br&gt;&lt;br&gt;&lt;b&gt;&lt;i&gt;&lt;a style="cursor:pointer; text-decoration:underline;" onclick=ShowHide(1847760);&gt;Show Reroute Details&lt;/a&gt;&lt;/i&gt;&lt;/b&gt;&lt;br&gt;&lt;div id="1847760"; style="display:none;"&gt;&lt;b&gt;Northbound&lt;br&gt;&lt;/b&gt;Via St Nicholas Av&lt;br&gt;Left on 145 St&lt;br&gt;Right on Amsterdam Av then regular route&lt;br&gt;&lt;br&gt;&lt;b&gt;Southbound&lt;br&gt;&lt;/b&gt;Via Amsterdam Av&lt;br&gt;Left on 145 St&lt;br&gt;Right on St Nicholas Av then regular route&lt;/div&gt;&lt;br&gt;&lt;b&gt;                              [TP]&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
+                  &lt;span class="TitlePlannedWork" &gt;Planned Detour&lt;/span&gt;
+                  &lt;br/&gt;
                 &lt;a class="plannedWorkDetailLink" onclick=ShowHide(77041);&gt;&lt;b&gt;M2/M2&lt;/b&gt; LTD&lt;b&gt; and M3 - Southbound stop on Broadway at 168 St temporarily relocated&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 77041 class="plannedWorkDetail" &gt;&lt;/b&gt;Until further notice&lt;br&gt;&lt;br&gt;Due to construction, please follow directional signage to nearby temporary stops &lt;b&gt;on 168 St&lt;/b&gt; at Audubon Av&lt;br clear =left&gt;(M2/M2 LTD) and &lt;b&gt;on 168 St &lt;/b&gt;at Broadway (M3).&lt;br&gt;&lt;br&gt;&lt;b&gt;Reminder&lt;/b&gt;: &lt;a href=http://web.mta.info/nyct/bus/schedule/manh/m002cur.pdf target=_blank&gt;&lt;font color=#0000FF&gt;M2 LTD&lt;/font&gt;&lt;a/&gt; and &lt;a href=http://web.mta.info/nyct/bus/schedule/manh/m003cur.pdf target=_blank&gt;&lt;font color=#0000FF&gt;M3&lt;/font&gt;&lt;a/&gt; buses do not operate overnight.&lt;br&gt;&lt;b&gt;                              [TP]&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
               &lt;br/&gt;
               &lt;br/&gt;
             </text>
     <Date>04/08/2018</Date>
-    <Time> 6:19AM</Time>
+    <Time> 6:31AM</Time>
   </line>
   <line>
     <name>Q1 - Q113</name>
@@ -303,7 +314,7 @@
               &lt;br/&gt;
             </text>
     <Date>04/08/2018</Date>
-    <Time> 6:19AM</Time>
+    <Time> 6:31AM</Time>
   </line>
   <line>
     <name>QM1 - QM44</name>
@@ -322,7 +333,7 @@
               &lt;br/&gt;
             </text>
     <Date>04/08/2018</Date>
-    <Time> 6:19AM</Time>
+    <Time> 6:31AM</Time>
   </line>
   <line>
     <name>S40 - S98</name>
