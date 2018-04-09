@@ -16,14 +16,19 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>04/09/2018</Date>
-    <Time> 2:53PM</Time>
+    <Time> 3:04PM</Time>
   </line>
   <line>
     <name>7</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>PLANNED WORK</status>
+    <text>
+                    &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
+                    &lt;br/&gt;
+                  &lt;a class="plannedWorkDetailLink" onclick=ShowHide(181053);&gt;&lt;b&gt;&lt;i&gt;TRACK REPLACEMENT&lt;/i&gt;&lt;br clear=left&gt;[7D] Flushing-bound trains make local stops at 33, 40, 46, 52, 69 and 74 Sts&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 181053 class="plannedWorkDetail" &gt;&lt;/b&gt;Days, 3 PM to 3:30 PM, &lt;font color=#272627&gt;Mon to Fri, until Apr 20 &lt;br&gt;&lt;br&gt;&amp;bull; Please allow additional travel time.&lt;br&gt;&lt;/font&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>04/09/2018</Date>
+    <Time> 3:04PM</Time>
   </line>
   <line>
     <name>ACE</name>
@@ -47,7 +52,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>04/09/2018</Date>
-    <Time> 2:53PM</Time>
+    <Time> 3:04PM</Time>
   </line>
   <line>
     <name>G</name>
@@ -66,7 +71,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>04/09/2018</Date>
-    <Time> 2:53PM</Time>
+    <Time> 3:04PM</Time>
   </line>
   <line>
     <name>L</name>
@@ -92,19 +97,14 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>04/09/2018</Date>
-    <Time> 2:53PM</Time>
+    <Time> 3:04PM</Time>
   </line>
   <line>
     <name>SIR</name>
-    <status>PLANNED WORK</status>
-    <text>
-                    &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
-                    &lt;br/&gt;
-                  &lt;a class="plannedWorkDetailLink" onclick=ShowHide(185005);&gt;&lt;b&gt;&lt;i&gt;SCHEDULED MAINTENANCE&lt;/i&gt;&lt;br clear=left&gt;[SIR] Trains board at the Tottenville-bound platform from Jefferson Av to Old Town Stations&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 185005 class="plannedWorkDetail" &gt;&lt;/b&gt;Days, 9 AM to 3 PM, Mon to Fri, Apr 9 - 13&lt;br&gt;&lt;br&gt;&amp;bull; Boarding change includes &lt;b&gt;Jefferson Av&lt;/b&gt;, &lt;b&gt;Dongan Hills&lt;/b&gt;, and &lt;b&gt;Old Town Stations&lt;/b&gt;. &lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>04/09/2018</Date>
-    <Time> 2:53PM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
 </subway><bus>
   <line>
@@ -185,7 +185,7 @@
               &lt;br/&gt;
             </text>
     <Date>04/09/2018</Date>
-    <Time> 2:53PM</Time>
+    <Time> 3:04PM</Time>
   </line>
   <line>
     <name>BXM1 - BXM18</name>
@@ -205,12 +205,6 @@
                   &lt;br/&gt;
                   &lt;br/&gt;
                 &lt;B&gt;M15&lt;/B&gt; and &lt;B&gt;M15-SBS&lt;/B&gt; buses are running with delays northbound because of construction on 1 Av between 65 St and 66 St.
-              &lt;br/&gt;
-              &lt;br/&gt;
-            
-                  &lt;span class="TitlePlannedWork" &gt;Planned Detour&lt;/span&gt;
-                  &lt;br/&gt;
-                &lt;a class="plannedWorkDetailLink" onclick=ShowHide(184068);&gt;&lt;b&gt;M8&lt;/b&gt; - &lt;b&gt;Eastbound buses rerouted from W 10 St at Hudson St to Bleecker St &lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 184068 class="plannedWorkDetail" &gt;&lt;/b&gt;7 AM to 3 PM, daily, until May 12&lt;br&gt;&lt;br&gt;Due to construction, buses run via &lt;b&gt;Perry St &lt;/b&gt;making corresponding stops.&lt;br&gt;&lt;br&gt;&lt;b&gt;&lt;i&gt;&lt;a style="cursor:pointer; text-decoration:underline;" onclick=ShowHide(1840680);&gt;Show Reroute Details&lt;/a&gt;&lt;/i&gt;&lt;/b&gt;&lt;br&gt;&lt;div id="1840680"; style="display:none;"&gt;Via W 10 St&lt;br&gt;Left on Hudson St&lt;br&gt;Right on Perry St&lt;br&gt;Right on Bleecker St&lt;br&gt;Left on W 10 St then regular route&lt;/div&gt;&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
               &lt;br/&gt;
               &lt;br/&gt;
             
@@ -339,7 +333,7 @@
               &lt;br/&gt;
             </text>
     <Date>04/09/2018</Date>
-    <Time> 2:53PM</Time>
+    <Time> 3:04PM</Time>
   </line>
   <line>
     <name>S40 - S98</name>
@@ -352,7 +346,7 @@
               &lt;br/&gt;
             </text>
     <Date>04/09/2018</Date>
-    <Time> 2:53PM</Time>
+    <Time> 3:04PM</Time>
   </line>
   <line>
     <name>x1 - x68</name>
@@ -365,7 +359,7 @@
               &lt;br/&gt;
             </text>
     <Date>04/09/2018</Date>
-    <Time> 2:53PM</Time>
+    <Time> 3:04PM</Time>
   </line>
 </bus><BT>
   <line>
