@@ -1,22 +1,38 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>SERVICE CHANGE</status>
+    <text>
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;04/09/2018&amp;nbsp; 1:17PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;P&gt;Some northbound [2] trains are stopping along the [5] line from &lt;STRONG&gt;Nevins St&lt;/STRONG&gt; to &lt;STRONG&gt;149 St-Grand Concourse &lt;/STRONG&gt;because of signal maintenance at &lt;STRONG&gt;Wall St.&lt;/STRONG&gt;&lt;/P&gt;
+&lt;P&gt;You may experience delays on [2] [3] [4] and [5] train service.&lt;/P&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>04/09/2018</Date>
+    <Time> 1:17PM</Time>
   </line>
   <line>
     <name>456</name>
-    <status>PLANNED WORK</status>
+    <status>SERVICE CHANGE</status>
     <text>
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;04/09/2018&amp;nbsp; 1:17PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;P&gt;Some northbound [2] trains are stopping along the [5] line from &lt;STRONG&gt;Nevins St&lt;/STRONG&gt; to &lt;STRONG&gt;149 St-Grand Concourse &lt;/STRONG&gt;because of signal maintenance at &lt;STRONG&gt;Wall St.&lt;/STRONG&gt;&lt;/P&gt;
+&lt;P&gt;You may experience delays on [2] [3] [4] and [5] train service.&lt;/P&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              
                     &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
                     &lt;br/&gt;
                   &lt;a class="plannedWorkDetailLink" onclick=ShowHide(185759);&gt;&lt;b&gt;&lt;i&gt;PRIORITY REPAIRS&lt;/b&gt;&lt;/i&gt;&lt;br clear=left&gt;&lt;b&gt;[4] Crown Hts-bound trains run express from Bedford Park Blvd to 149 St-Grand Concourse&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 185759 class="plannedWorkDetail" &gt;&lt;/b&gt;Day, 9:45 AM to 3:30 PM, Monday, Apr 9 &lt;br&gt;&lt;br&gt;No Crown Hts-bound service at &lt;b&gt;Kingsbridge Rd&lt;/b&gt;, &lt;b&gt;Fordham Rd&lt;/b&gt;, &lt;b&gt;183 St&lt;/b&gt;, &lt;b&gt;176 St&lt;/b&gt;, &lt;b&gt;Mt Eden Av&lt;/b&gt;, &lt;br&gt;&lt;b&gt;170&lt;/b&gt;, &lt;b&gt;167&lt;/b&gt; and &lt;b&gt;161 Sts&lt;/b&gt;.&lt;br&gt;&lt;br&gt;&lt;table class=plannedworkTableStyle  width=80%&gt;&lt;tr&gt;&lt;td&gt;&lt;/font&gt;&lt;font size=3&gt;&lt;b&gt;Travel Alternatives&lt;/b&gt;&lt;/font&gt;&lt;td align=right&gt;[TP]&lt;/table&gt; &lt;br&gt;&lt;/font&gt;For service &lt;i&gt;to&lt;/i&gt; Kingsbridge Rd, Fordham Rd and 183 St, take the [4] to Burnside Av&lt;br&gt;and transfer to a Woodlawn-bound [4].&lt;br&gt;&lt;br&gt;For service &lt;i&gt;to&lt;/i&gt; 176 St, Mt Eden Av, 170, 167 and 161 Sts, take the [4] to 149 St-Grand Concourse&lt;br&gt;and transfer to a Woodlawn-bound [4].&lt;br&gt;&lt;br&gt;For service &lt;i&gt;from&lt;/i&gt; these stations, take the [4] to Burnside Av or Bedford Park Blvd and transfer to a&lt;br&gt;Crown Hts-bound [4].&lt;br&gt;&lt;br&gt;&lt;table class=plannedworkTableStyle  border=1 cellspacing=1 cellpadding=5 rules=none frame=box&gt;&lt;td&gt;  [ad]  &lt;td&gt;&lt;font size=1&gt;This service change affects one or more ADA accessible stations. Please call 511 for help with planning&lt;br&gt;your trip. If you are deaf or hard of hearing, use your preferred relay service provider or the free 711 relay.  &lt;/font&gt;&lt;/table&gt;&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>04/09/2018</Date>
-    <Time> 1:12PM</Time>
+    <Time> 1:17PM</Time>
   </line>
   <line>
     <name>7</name>
@@ -54,7 +70,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>04/09/2018</Date>
-    <Time> 1:12PM</Time>
+    <Time> 1:17PM</Time>
   </line>
   <line>
     <name>G</name>
@@ -73,7 +89,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>04/09/2018</Date>
-    <Time> 1:12PM</Time>
+    <Time> 1:17PM</Time>
   </line>
   <line>
     <name>L</name>
@@ -99,7 +115,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>04/09/2018</Date>
-    <Time> 1:12PM</Time>
+    <Time> 1:17PM</Time>
   </line>
   <line>
     <name>SIR</name>
@@ -111,7 +127,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>04/09/2018</Date>
-    <Time> 1:12PM</Time>
+    <Time> 1:17PM</Time>
   </line>
 </subway><bus>
   <line>
@@ -192,7 +208,7 @@
               &lt;br/&gt;
             </text>
     <Date>04/09/2018</Date>
-    <Time> 1:12PM</Time>
+    <Time> 1:17PM</Time>
   </line>
   <line>
     <name>BXM1 - BXM18</name>
@@ -336,7 +352,7 @@
               &lt;br/&gt;
             </text>
     <Date>04/09/2018</Date>
-    <Time> 1:12PM</Time>
+    <Time> 1:17PM</Time>
   </line>
   <line>
     <name>S40 - S98</name>
@@ -349,7 +365,7 @@
               &lt;br/&gt;
             </text>
     <Date>04/09/2018</Date>
-    <Time> 1:12PM</Time>
+    <Time> 1:17PM</Time>
   </line>
   <line>
     <name>x1 - x68</name>
@@ -362,7 +378,7 @@
               &lt;br/&gt;
             </text>
     <Date>04/09/2018</Date>
-    <Time> 1:12PM</Time>
+    <Time> 1:17PM</Time>
   </line>
 </bus><BT>
   <line>
