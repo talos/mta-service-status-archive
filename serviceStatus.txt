@@ -114,8 +114,22 @@
 </subway><bus>
   <line>
     <name>B1 - B84</name>
-    <status>DELAYS</status>
+    <status>SERVICE CHANGE</status>
     <text>
+                  &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                  &lt;span class="DateStyle"&gt;
+                  &amp;nbsp;Posted:&amp;nbsp;04/09/2018&amp;nbsp;12:09PM
+                  &lt;/span&gt;
+                  &lt;br/&gt;
+                  &lt;br/&gt;
+                &lt;P&gt;&lt;STRONG&gt;B13&lt;/STRONG&gt; buses are detoured because of paving at Atlantic Av and Liberty Av. &lt;/P&gt;
+&lt;P&gt;Detour is as follows:&lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;B13 Northbound&lt;/STRONG&gt;: Via Crescent St, right on Liberty Av, left on Autumn Av, left on Atlantic Av, right on Crescent St and regular route.&lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;B13 Southbound&lt;/STRONG&gt;: Via Crescent St, left on Atlantic Av, right on 75 St, right on 101 Av into Liberty Av and regular route.&lt;/P&gt;
+&lt;P&gt;All corresponding stops will be made along the detoured route.&lt;/P&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
                   &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                   &lt;span class="DateStyle"&gt;
                   &amp;nbsp;Posted:&amp;nbsp;04/09/2018&amp;nbsp;12:06PM
@@ -125,20 +139,6 @@
                 &lt;P&gt;&lt;STRONG&gt;B20&lt;/STRONG&gt; and &lt;STRONG&gt;B60&lt;/STRONG&gt; buses are detoured because of paving on Decatur Av between Central Av and Wilson Av. &lt;/P&gt;
 &lt;P&gt;Detour is as follows:&lt;/P&gt;
 &lt;P&gt;&lt;STRONG&gt;B20 and B60 Northbound:&lt;/STRONG&gt; Via Decatur Av, right on Central Av, left on Cooper Av, left on Wilson Av and regular route.&lt;/P&gt;
-&lt;P&gt;All corresponding stops will be made along the detoured route.&lt;/P&gt;
-              &lt;br/&gt;
-              &lt;br/&gt;
-            
-                  &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
-                  &lt;span class="DateStyle"&gt;
-                  &amp;nbsp;Posted:&amp;nbsp;04/09/2018&amp;nbsp;10:57AM
-                  &lt;/span&gt;
-                  &lt;br/&gt;
-                  &lt;br/&gt;
-                &lt;P&gt;&lt;STRONG&gt;B13&lt;/STRONG&gt; buses are detoured because of paving at Atlantic Av and Liberty Av. &lt;/P&gt;
-&lt;P&gt;Detour is as follows:&lt;/P&gt;
-&lt;P&gt;&lt;STRONG&gt;B13 Northbound&lt;/STRONG&gt;: Via Crescent St, right on Liberty Av, left on Autumn Av, left on Atlantic Av, right on Crescent St and regular route.&lt;/P&gt;
-&lt;P&gt;&lt;STRONG&gt;B13 Southbound&lt;/STRONG&gt;: Via Crescent St, left on Atlantic Av, right on 75 St, right on 101 Av into Liberty Av and regular route.&lt;/P&gt;
 &lt;P&gt;All corresponding stops will be made along the detoured route.&lt;/P&gt;
               &lt;br/&gt;
               &lt;br/&gt;
@@ -156,7 +156,7 @@
               &lt;br/&gt;
             </text>
     <Date>04/09/2018</Date>
-    <Time>12:06PM</Time>
+    <Time>12:09PM</Time>
   </line>
   <line>
     <name>B100 - B103</name>
