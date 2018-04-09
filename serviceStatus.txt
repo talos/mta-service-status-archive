@@ -1,57 +1,29 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>DELAYS</status>
-    <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;04/09/2018&amp;nbsp; 2:33PM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  [2] and [3] train service has resumed following earlier signal maintenance at &lt;STRONG&gt;Wall St&lt;/STRONG&gt;.
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>04/09/2018</Date>
-    <Time> 2:33PM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>456</name>
-    <status>DELAYS</status>
+    <status>PLANNED WORK</status>
     <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;04/09/2018&amp;nbsp; 2:39PM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  [6] and [6D] express train service has resumed following earlier FDNY activity at &lt;STRONG&gt;Hunts Point Av&lt;/STRONG&gt;.
-                &lt;br/&gt;&lt;br/&gt;
-              
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;04/09/2018&amp;nbsp; 2:33PM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  [2] and [3] train service has resumed following earlier signal maintenance at &lt;STRONG&gt;Wall St&lt;/STRONG&gt;.
-                &lt;br/&gt;&lt;br/&gt;
-              
                     &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
                     &lt;br/&gt;
                   &lt;a class="plannedWorkDetailLink" onclick=ShowHide(185759);&gt;&lt;b&gt;&lt;i&gt;PRIORITY REPAIRS&lt;/b&gt;&lt;/i&gt;&lt;br clear=left&gt;&lt;b&gt;[4] Crown Hts-bound trains run express from Bedford Park Blvd to 149 St-Grand Concourse&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 185759 class="plannedWorkDetail" &gt;&lt;/b&gt;Day, 9:45 AM to 3:30 PM, Monday, Apr 9 &lt;br&gt;&lt;br&gt;No Crown Hts-bound service at &lt;b&gt;Kingsbridge Rd&lt;/b&gt;, &lt;b&gt;Fordham Rd&lt;/b&gt;, &lt;b&gt;183 St&lt;/b&gt;, &lt;b&gt;176 St&lt;/b&gt;, &lt;b&gt;Mt Eden Av&lt;/b&gt;, &lt;br&gt;&lt;b&gt;170&lt;/b&gt;, &lt;b&gt;167&lt;/b&gt; and &lt;b&gt;161 Sts&lt;/b&gt;.&lt;br&gt;&lt;br&gt;&lt;table class=plannedworkTableStyle  width=80%&gt;&lt;tr&gt;&lt;td&gt;&lt;/font&gt;&lt;font size=3&gt;&lt;b&gt;Travel Alternatives&lt;/b&gt;&lt;/font&gt;&lt;td align=right&gt;[TP]&lt;/table&gt; &lt;br&gt;&lt;/font&gt;For service &lt;i&gt;to&lt;/i&gt; Kingsbridge Rd, Fordham Rd and 183 St, take the [4] to Burnside Av&lt;br&gt;and transfer to a Woodlawn-bound [4].&lt;br&gt;&lt;br&gt;For service &lt;i&gt;to&lt;/i&gt; 176 St, Mt Eden Av, 170, 167 and 161 Sts, take the [4] to 149 St-Grand Concourse&lt;br&gt;and transfer to a Woodlawn-bound [4].&lt;br&gt;&lt;br&gt;For service &lt;i&gt;from&lt;/i&gt; these stations, take the [4] to Burnside Av or Bedford Park Blvd and transfer to a&lt;br&gt;Crown Hts-bound [4].&lt;br&gt;&lt;br&gt;&lt;table class=plannedworkTableStyle  border=1 cellspacing=1 cellpadding=5 rules=none frame=box&gt;&lt;td&gt;  [ad]  &lt;td&gt;&lt;font size=1&gt;This service change affects one or more ADA accessible stations. Please call 511 for help with planning&lt;br&gt;your trip. If you are deaf or hard of hearing, use your preferred relay service provider or the free 711 relay.  &lt;/font&gt;&lt;/table&gt;&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>04/09/2018</Date>
-    <Time> 2:39PM</Time>
+    <Time> 2:53PM</Time>
   </line>
   <line>
     <name>7</name>
-    <status>DELAYS</status>
-    <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;04/09/2018&amp;nbsp; 2:42PM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  [7] train service has resumed following earlier track maintenance between &lt;STRONG&gt;52 St&lt;/STRONG&gt; and&lt;STRONG&gt; Flushing-Main St&lt;/STRONG&gt;.
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>04/09/2018</Date>
-    <Time> 2:42PM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>ACE</name>
@@ -263,6 +235,16 @@
     <text>
                   &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                   &lt;span class="DateStyle"&gt;
+                  &amp;nbsp;Posted:&amp;nbsp;04/09/2018&amp;nbsp; 3:00PM
+                  &lt;/span&gt;
+                  &lt;br/&gt;
+                  &lt;br/&gt;
+                &lt;STRONG&gt;Q54 &lt;/STRONG&gt;and &lt;STRONG&gt;Q59 &lt;/STRONG&gt;buses are running with delays in both directions because of traffic conditions on Grand St and Grand Av between Union Av and Fresh Pond Rd.
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
+                  &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                  &lt;span class="DateStyle"&gt;
                   &amp;nbsp;Posted:&amp;nbsp;04/09/2018&amp;nbsp; 2:40PM
                   &lt;/span&gt;
                   &lt;br/&gt;
@@ -332,7 +314,7 @@
               &lt;br/&gt;
             </text>
     <Date>04/09/2018</Date>
-    <Time> 2:40PM</Time>
+    <Time> 3:00PM</Time>
   </line>
   <line>
     <name>QM1 - QM44</name>
