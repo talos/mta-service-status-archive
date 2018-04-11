@@ -1,10 +1,19 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>DELAYS</status>
+    <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;04/11/2018&amp;nbsp; 5:26AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;P&gt;Northbound [2] and [3] trains are running with delays because of a rail condition at &lt;STRONG&gt;Central Park North (110 St).&lt;/STRONG&gt;&lt;/P&gt;
+&lt;P&gt;Our crews are on scene working to fix it ASAP, we will follow up soon. Stay tuned for updates. &lt;/P&gt;
+&lt;P&gt;&lt;BR&gt; &lt;/P&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>04/11/2018</Date>
+    <Time> 5:26AM</Time>
   </line>
   <line>
     <name>456</name>
