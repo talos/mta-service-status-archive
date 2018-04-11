@@ -39,14 +39,14 @@
     <text>
                     &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;04/11/2018&amp;nbsp;12:51PM
+                    &amp;nbsp;Posted:&amp;nbsp;04/11/2018&amp;nbsp; 2:06PM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
                   &lt;P&gt;[7] trains are running with delays in both directions because of track maintenance between &lt;STRONG&gt;52 St&lt;/STRONG&gt; and &lt;STRONG&gt;61 St.&lt;/STRONG&gt;&lt;/P&gt;
 &lt;P&gt;Some Flushing-bound [7] trains are running express from &lt;STRONG&gt;74 St-Broadway&lt;/STRONG&gt; to &lt;STRONG&gt;Mets-Willets Point.&lt;/STRONG&gt;&lt;/P&gt;
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>04/11/2018</Date>
-    <Time>12:51PM</Time>
+    <Time> 2:06PM</Time>
   </line>
   <line>
     <name>ACE</name>
@@ -68,8 +68,15 @@
   </line>
   <line>
     <name>BDFM</name>
-    <status>SERVICE CHANGE</status>
+    <status>DELAYS</status>
     <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;04/11/2018&amp;nbsp; 2:05PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  Southbound [D] trains are running with delays because of signal problems at &lt;STRONG&gt;Bay 50 St.&lt;/STRONG&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              
                     &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
                     &amp;nbsp;Posted:&amp;nbsp;04/11/2018&amp;nbsp; 1:40PM
@@ -79,13 +86,6 @@
 &lt;P&gt;Some Forest Hills-bound [M] trains will end at&lt;STRONG&gt; Essex St.&lt;/STRONG&gt;&lt;/P&gt;
 &lt;P&gt;These service changes are because of a rail condition at &lt;STRONG&gt;Lexington Av-53 St. &lt;/STRONG&gt;&lt;/P&gt;
 &lt;P&gt;You may experience delays on the [E], [F], [M] and [R] trains.&lt;/P&gt;
-                &lt;br/&gt;&lt;br/&gt;
-              
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;04/11/2018&amp;nbsp;12:20PM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  Southbound [D] trains are running with delays because of signal problems at &lt;STRONG&gt;Bay 50 St.&lt;/STRONG&gt;
                 &lt;br/&gt;&lt;br/&gt;
               
                     &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
@@ -99,7 +99,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>04/11/2018</Date>
-    <Time> 1:40PM</Time>
+    <Time> 2:05PM</Time>
   </line>
   <line>
     <name>G</name>
@@ -141,6 +141,11 @@
 &lt;P&gt;These service changes are because of a rail condition at &lt;STRONG&gt;Lexington Av-53 St. &lt;/STRONG&gt;&lt;/P&gt;
 &lt;P&gt;You may experience delays on the [E], [F], [M] and [R] trains.&lt;/P&gt;
                 &lt;br/&gt;&lt;br/&gt;
+              
+                    &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
+                    &lt;br/&gt;
+                  &lt;a class="plannedWorkDetailLink" onclick=ShowHide(185501);&gt;&lt;b&gt;&lt;i&gt;STATION ENHANCEMENTS&lt;/i&gt;&lt;br clear=left&gt;[N] [W] Astoria-bound trains skip 39 Av and Broadway&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 185501 class="plannedWorkDetail" &gt;&lt;/b&gt;Days, 10:15 AM to 3:30 PM, Tue to Thu, Apr 10 - 12&lt;br&gt;&lt;br&gt;For service&lt;i&gt; to&lt;/i&gt; these stations, take the [N] or [W] to Astoria Blvd and transfer to a &lt;br&gt;Manhattan-bound [N] or [W].&lt;br&gt;&lt;br&gt;For service&lt;i&gt; from &lt;/i&gt;these stations, take the [N] or [W] to Queensboro Plaza and transfer to an&lt;br&gt;Astoria-bound [N] or [W].&lt;br&gt;&lt;br&gt;&lt;b&gt;Note:&lt;/b&gt; 36 Av and 30 Av are closed for renovation.&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+                &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>04/11/2018</Date>
     <Time> 1:40PM</Time>
@@ -159,10 +164,20 @@
   </line>
   <line>
     <name>SIR</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>PLANNED WORK</status>
+    <text>
+                    &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
+                    &lt;br/&gt;
+                  &lt;a class="plannedWorkDetailLink" onclick=ShowHide(185612);&gt;&lt;b&gt;&lt;i&gt;SCHEDULED MAINTENANCE&lt;/i&gt;&lt;br clear=left&gt;[SIR] Trains board at the St. George-bound platform at Richmond Valley and Arthur Kill Stations&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 185612 class="plannedWorkDetail" &gt;&lt;/b&gt;Day, 9 AM to 3 PM, Wednesday, Apr 11&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              
+                    &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
+                    &lt;br/&gt;
+                  &lt;a class="plannedWorkDetailLink" onclick=ShowHide(185005);&gt;&lt;b&gt;&lt;i&gt;SCHEDULED MAINTENANCE&lt;/i&gt;&lt;br clear=left&gt;[SIR] Trains board at the Tottenville-bound platform from Jefferson Av to Old Town Stations&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 185005 class="plannedWorkDetail" &gt;&lt;/b&gt;Days, 9 AM to 3 PM, Mon to Fri, Apr 9 - 13&lt;br&gt;&lt;br&gt;&amp;bull; Boarding change includes &lt;b&gt;Jefferson Av&lt;/b&gt;, &lt;b&gt;Dongan Hills&lt;/b&gt;, and &lt;b&gt;Old Town Stations&lt;/b&gt;. &lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>04/11/2018</Date>
+    <Time> 2:03PM</Time>
   </line>
 </subway><bus>
   <line>
