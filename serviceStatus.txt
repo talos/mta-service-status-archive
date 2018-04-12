@@ -1,10 +1,18 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>SERVICE CHANGE</status>
+    <text>
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;04/12/2018&amp;nbsp; 6:47PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;P&gt;Northbound [1] trains are running express from&lt;STRONG&gt; 72 St &lt;/STRONG&gt;to &lt;STRONG&gt;96 St&lt;/STRONG&gt; because of a injured passenger at &lt;STRONG&gt;96 St.&lt;/STRONG&gt;&lt;/P&gt;
+&lt;P&gt;Expect delays on [1], [2] and [3] trains.&lt;/P&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>04/12/2018</Date>
+    <Time> 6:47PM</Time>
   </line>
   <line>
     <name>456</name>
@@ -713,10 +721,17 @@
   </line>
   <line>
     <name>Oyster Bay</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>DELAYS</status>
+    <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;04/12/2018&amp;nbsp; 6:45PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  The 5:52PM train from Oyster Bay due Jamaica at 6:53PM is operating 10 minutes late due to earlier switch trouble near New Hyde Park.
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>04/12/2018</Date>
+    <Time> 6:45PM</Time>
   </line>
   <line>
     <name>Port Jefferson</name>
