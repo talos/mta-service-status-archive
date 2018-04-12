@@ -54,9 +54,12 @@
     <text>
                     &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;04/11/2018&amp;nbsp;10:27PM
+                    &amp;nbsp;Posted:&amp;nbsp;04/11/2018&amp;nbsp;10:40PM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  Southbound [A][C][E] trains are running with delays because of NYPD activity at &lt;STRONG&gt;42 St-Port Authority Bus Terminal.&lt;/STRONG&gt;
+                  &lt;P&gt;Southbound [A][C] trains are stopping along the [D] line from &lt;B&gt;59 St-Columbus Circle&lt;/B&gt; to &lt;B&gt;West 4 St-Washington Square.&lt;/B&gt; &lt;/P&gt;
+&lt;P&gt;Southbound [E] trains are stopping along the [M] line from &lt;B&gt;5 Av-53 St&lt;/B&gt; to &lt;B&gt;West 4 St-Washington Square. &lt;/P&gt;&lt;/B&gt;
+&lt;P&gt;These service changes are because of NYPD Activity from an injured passenger at &lt;B&gt;42 St-Port Authority Bus Terminal. &lt;/P&gt;&lt;/B&gt;
+&lt;P&gt;Expect delays in [A][C][E][D][F] train service&lt;/P&gt;
                 &lt;br/&gt;&lt;br/&gt;
               
                     &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
@@ -83,12 +86,22 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>04/11/2018</Date>
-    <Time>10:27PM</Time>
+    <Time>10:40PM</Time>
   </line>
   <line>
     <name>BDFM</name>
     <status>DELAYS</status>
     <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;04/11/2018&amp;nbsp;10:40PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;P&gt;Southbound [A][C] trains are stopping along the [D] line from &lt;B&gt;59 St-Columbus Circle&lt;/B&gt; to &lt;B&gt;West 4 St-Washington Square.&lt;/B&gt; &lt;/P&gt;
+&lt;P&gt;Southbound [E] trains are stopping along the [M] line from &lt;B&gt;5 Av-53 St&lt;/B&gt; to &lt;B&gt;West 4 St-Washington Square. &lt;/P&gt;&lt;/B&gt;
+&lt;P&gt;These service changes are because of NYPD Activity from an injured passenger at &lt;B&gt;42 St-Port Authority Bus Terminal. &lt;/P&gt;&lt;/B&gt;
+&lt;P&gt;Expect delays in [A][C][E][D][F] train service&lt;/P&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              
                     &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
                     &amp;nbsp;Posted:&amp;nbsp;04/11/2018&amp;nbsp;10:21PM
@@ -108,7 +121,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>04/11/2018</Date>
-    <Time>10:21PM</Time>
+    <Time>10:40PM</Time>
   </line>
   <line>
     <name>G</name>
@@ -532,10 +545,23 @@
   </line>
   <line>
     <name>x1 - x68</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>SERVICE CHANGE</status>
+    <text>
+                  &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                  &lt;span class="DateStyle"&gt;
+                  &amp;nbsp;Posted:&amp;nbsp;04/11/2018&amp;nbsp;10:41PM
+                  &lt;/span&gt;
+                  &lt;br/&gt;
+                  &lt;br/&gt;
+                &lt;P&gt;Southbound &lt;STRONG&gt;X1, X10, X17, X27&lt;/STRONG&gt; and &lt;STRONG&gt;X28&lt;/STRONG&gt; buses are detoured because of milling on Battery Pl between Greenwich St and West St.&lt;/P&gt;
+&lt;P&gt;Detour is as follows:&lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;X1, X10, X17, X27 and X28 Southbound:&lt;/STRONG&gt; Via Broadway, right on Liberty St, right on Church St, left on West St and regular route in to Battery Tunnel.&lt;/P&gt;
+&lt;P&gt;Corresponding stops will be made along detour route.&lt;/P&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            </text>
+    <Date>04/11/2018</Date>
+    <Time>10:41PM</Time>
   </line>
 </bus><BT>
   <line>
