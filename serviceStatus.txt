@@ -38,20 +38,34 @@
     <text>
                     &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;04/12/2018&amp;nbsp; 8:11AM
+                    &amp;nbsp;Posted:&amp;nbsp;04/12/2018&amp;nbsp; 8:18AM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  Southbound [D] trains are running with delays because of a train with mechanical problems at &lt;STRONG&gt;Bay 50 St.&lt;/STRONG&gt;
+                  [D] train service has resumed following an earlier train with mechanical problems at &lt;STRONG&gt;Bay 50 St&lt;/STRONG&gt;.
+                &lt;br/&gt;&lt;br/&gt;
+              
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;04/12/2018&amp;nbsp; 8:16AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  Southbound [F] and Church Av bound [G] trains are running with delays because of a train with mechanical problems at &lt;STRONG&gt;Bergen St&lt;/STRONG&gt;.
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>04/12/2018</Date>
-    <Time> 8:11AM</Time>
+    <Time> 8:18AM</Time>
   </line>
   <line>
     <name>G</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>DELAYS</status>
+    <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;04/12/2018&amp;nbsp; 8:16AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  Southbound [F] and Church Av bound [G] trains are running with delays because of a train with mechanical problems at &lt;STRONG&gt;Bergen St&lt;/STRONG&gt;.
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>04/12/2018</Date>
+    <Time> 8:16AM</Time>
   </line>
   <line>
     <name>JZ</name>
@@ -210,8 +224,22 @@
   </line>
   <line>
     <name>Q1 - Q113</name>
-    <status>PLANNED WORK</status>
+    <status>SERVICE CHANGE</status>
     <text>
+                  &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                  &lt;span class="DateStyle"&gt;
+                  &amp;nbsp;Posted:&amp;nbsp;04/12/2018&amp;nbsp; 8:17AM
+                  &lt;/span&gt;
+                  &lt;br/&gt;
+                  &lt;br/&gt;
+                &lt;P&gt;&lt;STRONG&gt;Q22&lt;/STRONG&gt; buses are detoured in both directions because of road work on Rockaway Beach Blvd between Beach 124 St and Beach 128 St. &lt;/P&gt;
+&lt;P&gt;Detour is as follows:&lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;Westbound:&lt;/STRONG&gt; Via Rockaway Beach Blvd, right on Beach 122 St, left on Newport Av, left on Beach 129 St, right on Rockaway Beach Blvd and regular route.&lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;Eastbound:&lt;/STRONG&gt; Via Rockaway Beach Blvd, left on Beach 128 St, right on Newport Av, right on Beach 123 St, left on Rockaway Beach Blvd and regular route.&lt;/P&gt;
+&lt;P&gt; &lt;/P&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
                   &lt;span class="TitlePlannedWork" &gt;Planned Detour&lt;/span&gt;
                   &lt;br/&gt;
                 &lt;a class="plannedWorkDetailLink" onclick=ShowHide(168561);&gt;&lt;b&gt;Q64, QM4 and QM44 buses may experience delays&lt;br clear=left&gt;due to construction on the Jewel Av exit of the Van Wyck Expy&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 168561 class="plannedWorkDetail" &gt;&lt;/b&gt;Until further notice&lt;br&gt;&lt;br&gt;&amp;bull; Please allow additional travel time.&lt;br&gt;&lt;b&gt;          &lt;/b&gt;&lt;a href=http://bustime.mta.info/ target=_blank&gt;&lt;img height=30px src=http://web.mta.info/nyct/images/Bus_Time_logo.png&gt;&lt;/a&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
@@ -237,7 +265,7 @@
               &lt;br/&gt;
             </text>
     <Date>04/12/2018</Date>
-    <Time> 8:14AM</Time>
+    <Time> 8:17AM</Time>
   </line>
   <line>
     <name>QM1 - QM44</name>
