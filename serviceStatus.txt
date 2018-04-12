@@ -1,15 +1,33 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>SERVICE CHANGE</status>
+    <text>
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;04/12/2018&amp;nbsp; 9:18AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;P&gt;Southbound [4] and [5] trains are running local from &lt;STRONG&gt;125 St&lt;/STRONG&gt; to &lt;STRONG&gt;Grand Central-42 St&lt;/STRONG&gt; because of a passenger in need of medical assistance at &lt;STRONG&gt;86 St&lt;/STRONG&gt;.&lt;/P&gt;
+&lt;P&gt;Some southbound [5] trains are stopping along the [2] line from &lt;STRONG&gt;149 St-Grand Concourse&lt;/STRONG&gt; to &lt;STRONG&gt;Nevins St&lt;/STRONG&gt;.&lt;/P&gt;
+&lt;P&gt;You may experience delays on [2], [4], [5] and [6] trains.&lt;/P&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>04/12/2018</Date>
+    <Time> 9:18AM</Time>
   </line>
   <line>
     <name>456</name>
-    <status>DELAYS</status>
+    <status>SERVICE CHANGE</status>
     <text>
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;04/12/2018&amp;nbsp; 9:18AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;P&gt;Southbound [4] and [5] trains are running local from &lt;STRONG&gt;125 St&lt;/STRONG&gt; to &lt;STRONG&gt;Grand Central-42 St&lt;/STRONG&gt; because of a passenger in need of medical assistance at &lt;STRONG&gt;86 St&lt;/STRONG&gt;.&lt;/P&gt;
+&lt;P&gt;Some southbound [5] trains are stopping along the [2] line from &lt;STRONG&gt;149 St-Grand Concourse&lt;/STRONG&gt; to &lt;STRONG&gt;Nevins St&lt;/STRONG&gt;.&lt;/P&gt;
+&lt;P&gt;You may experience delays on [2], [4], [5] and [6] trains.&lt;/P&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              
                     &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
                     &amp;nbsp;Posted:&amp;nbsp;04/12/2018&amp;nbsp; 8:22AM
@@ -18,7 +36,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>04/12/2018</Date>
-    <Time> 8:22AM</Time>
+    <Time> 9:18AM</Time>
   </line>
   <line>
     <name>7</name>
@@ -135,6 +153,16 @@
     <text>
                   &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                   &lt;span class="DateStyle"&gt;
+                  &amp;nbsp;Posted:&amp;nbsp;04/12/2018&amp;nbsp; 9:18AM
+                  &lt;/span&gt;
+                  &lt;br/&gt;
+                  &lt;br/&gt;
+                &lt;STRONG&gt;B12 &lt;/STRONG&gt;buses are running with delays in both directions because of building and road construction along the route.
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
+                  &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                  &lt;span class="DateStyle"&gt;
                   &amp;nbsp;Posted:&amp;nbsp;04/12/2018&amp;nbsp; 9:02AM
                   &lt;/span&gt;
                   &lt;br/&gt;
@@ -205,7 +233,7 @@
               &lt;br/&gt;
             </text>
     <Date>04/12/2018</Date>
-    <Time> 9:02AM</Time>
+    <Time> 9:18AM</Time>
   </line>
   <line>
     <name>B100 - B103</name>
