@@ -1,29 +1,15 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>DELAYS</status>
-    <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;04/12/2018&amp;nbsp; 2:12PM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  [2] and [5] train service has resumed following earlier preventive track maintenance at &lt;STRONG&gt;Jackson Av&lt;/STRONG&gt;.
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>04/12/2018</Date>
-    <Time> 2:12PM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>456</name>
-    <status>DELAYS</status>
+    <status>SERVICE CHANGE</status>
     <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;04/12/2018&amp;nbsp; 2:12PM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  [2] and [5] train service has resumed following earlier preventive track maintenance at &lt;STRONG&gt;Jackson Av&lt;/STRONG&gt;.
-                &lt;br/&gt;&lt;br/&gt;
-              
                     &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
                     &amp;nbsp;Posted:&amp;nbsp;04/12/2018&amp;nbsp; 2:05PM
@@ -60,7 +46,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>04/12/2018</Date>
-    <Time> 2:12PM</Time>
+    <Time> 2:05PM</Time>
   </line>
   <line>
     <name>7</name>
@@ -473,22 +459,10 @@
 </bus><BT>
   <line>
     <name>Bronx-Whitestone</name>
-    <status>SERVICE CHANGE</status>
-    <text>
-                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;04/12/2018&amp;nbsp; 2:28PM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  FINAL/ CLEARED BWB: PLANNED WORK: QUEENS BOUND
-                &lt;br/&gt;&lt;br/&gt;
-              
-                    &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
-                    &lt;br/&gt;
-                  &lt;P class=MsoPlainText style="MARGIN: 0in 0in 0pt"&gt;&lt;FONT size=3 face=Calibri&gt;BWB: PLANNED WORK: Queens bound lane closure. Consider alternate routes and allow for extra travel times.&lt;/FONT&gt;&lt;/P&gt;
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>04/12/2018</Date>
-    <Time> 2:28PM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>Cross Bay</name>
