@@ -1,29 +1,15 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>DELAYS</status>
-    <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;04/12/2018&amp;nbsp; 9:21AM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  [4] and [5] train service has resumed following an earlier incident involving a passenger in need of medical assistance at &lt;STRONG&gt;86 St&lt;/STRONG&gt;.
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>04/12/2018</Date>
-    <Time> 9:21AM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>456</name>
     <status>DELAYS</status>
     <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;04/12/2018&amp;nbsp; 9:21AM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  [4] and [5] train service has resumed following an earlier incident involving a passenger in need of medical assistance at &lt;STRONG&gt;86 St&lt;/STRONG&gt;.
-                &lt;br/&gt;&lt;br/&gt;
-              
                     &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
                     &amp;nbsp;Posted:&amp;nbsp;04/12/2018&amp;nbsp; 8:22AM
@@ -32,7 +18,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>04/12/2018</Date>
-    <Time> 9:21AM</Time>
+    <Time> 8:22AM</Time>
   </line>
   <line>
     <name>7</name>
@@ -131,7 +117,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>04/12/2018</Date>
-    <Time> 9:35AM</Time>
+    <Time> 9:43AM</Time>
   </line>
   <line>
     <name>SIR</name>
@@ -148,7 +134,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>04/12/2018</Date>
-    <Time> 9:35AM</Time>
+    <Time> 9:43AM</Time>
   </line>
 </subway><bus>
   <line>
@@ -274,7 +260,7 @@
               &lt;br/&gt;
             </text>
     <Date>04/12/2018</Date>
-    <Time> 9:35AM</Time>
+    <Time> 9:43AM</Time>
   </line>
   <line>
     <name>BXM1 - BXM18</name>
@@ -409,7 +395,7 @@
               &lt;br/&gt;
             </text>
     <Date>04/12/2018</Date>
-    <Time> 9:35AM</Time>
+    <Time> 9:43AM</Time>
   </line>
   <line>
     <name>S40 - S98</name>
@@ -422,7 +408,7 @@
               &lt;br/&gt;
             </text>
     <Date>04/12/2018</Date>
-    <Time> 9:35AM</Time>
+    <Time> 9:43AM</Time>
   </line>
   <line>
     <name>x1 - x68</name>
@@ -435,7 +421,7 @@
               &lt;br/&gt;
             </text>
     <Date>04/12/2018</Date>
-    <Time> 9:35AM</Time>
+    <Time> 9:43AM</Time>
   </line>
 </bus><BT>
   <line>
@@ -572,10 +558,17 @@
   </line>
   <line>
     <name>Port Washington</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>DELAYS</status>
+    <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;04/12/2018&amp;nbsp; 9:43AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  The 9:19AM train from Penn due Port Washington at 10:05AM is operating 10 minutes late at this time.
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>04/12/2018</Date>
+    <Time> 9:43AM</Time>
   </line>
   <line>
     <name>Ronkonkoma</name>
