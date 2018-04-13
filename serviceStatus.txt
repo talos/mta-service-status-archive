@@ -1,17 +1,37 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>SERVICE CHANGE</status>
+    <text>
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;04/13/2018&amp;nbsp; 4:06PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;P&gt;Some southbound [4] trains will end at &lt;STRONG&gt;Bowling Green&lt;/STRONG&gt;. &lt;/P&gt;
+&lt;P&gt;Some southbound [4] trains are stopping along the [3] line from &lt;STRONG&gt;Crown Hts-Utica Av&lt;/STRONG&gt; and end at &lt;STRONG&gt;New Lots Av&lt;/STRONG&gt;. &lt;/P&gt;
+&lt;P&gt;Expect delays in [3] and [4] train service in both directions.  &lt;/P&gt;
+&lt;P&gt;These service changes are because of switch problems at &lt;STRONG&gt;Crown Hts-Utica Av&lt;/STRONG&gt;.&lt;/P&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>04/13/2018</Date>
+    <Time> 4:06PM</Time>
   </line>
   <line>
     <name>456</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>SERVICE CHANGE</status>
+    <text>
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;04/13/2018&amp;nbsp; 4:06PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;P&gt;Some southbound [4] trains will end at &lt;STRONG&gt;Bowling Green&lt;/STRONG&gt;. &lt;/P&gt;
+&lt;P&gt;Some southbound [4] trains are stopping along the [3] line from &lt;STRONG&gt;Crown Hts-Utica Av&lt;/STRONG&gt; and end at &lt;STRONG&gt;New Lots Av&lt;/STRONG&gt;. &lt;/P&gt;
+&lt;P&gt;Expect delays in [3] and [4] train service in both directions.  &lt;/P&gt;
+&lt;P&gt;These service changes are because of switch problems at &lt;STRONG&gt;Crown Hts-Utica Av&lt;/STRONG&gt;.&lt;/P&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>04/13/2018</Date>
+    <Time> 4:06PM</Time>
   </line>
   <line>
     <name>7</name>
@@ -305,8 +325,35 @@
   </line>
   <line>
     <name>Q1 - Q113</name>
-    <status>DELAYS</status>
+    <status>SERVICE CHANGE</status>
     <text>
+                  &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                  &lt;span class="DateStyle"&gt;
+                  &amp;nbsp;Posted:&amp;nbsp;04/13/2018&amp;nbsp; 4:06PM
+                  &lt;/span&gt;
+                  &lt;br/&gt;
+                  &lt;br/&gt;
+                &lt;P&gt;&lt;STRONG&gt;Q24&lt;/STRONG&gt; eastbound buses are detoured because of construction on Archer Av from Sutphin Blvd to 150 St. &lt;/P&gt;
+&lt;P&gt;Detour is as follows:&lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;Eastbound&lt;/STRONG&gt;: Via Archer Av, left on Sutphin Blvd, right on Jamaica Av, right on 150 St, left on Archer Av and regular route.&lt;/P&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
+                  &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                  &lt;span class="DateStyle"&gt;
+                  &amp;nbsp;Posted:&amp;nbsp;04/13/2018&amp;nbsp; 4:06PM
+                  &lt;/span&gt;
+                  &lt;br/&gt;
+                  &lt;br/&gt;
+                &lt;P&gt;&lt;STRONG&gt;Q46, QM5&lt;/STRONG&gt; an&lt;STRONG&gt;d QM8&lt;/STRONG&gt; buses are detoured in both directions because of paving on 260 St between 73 Av and Little Neck Pkwy. &lt;/P&gt;
+&lt;P&gt;Detour is as follows:&lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;QM5 and QM8 Buses Westbound&lt;/STRONG&gt;: Via 260 St (Park Circle), right on 74 Av, right on Little Neck Pkwy and regular route.&lt;/P&gt;
+&lt;P&gt;Bus stop at 260 St and Little Neck Pkwy will be made on Little Neck Pkwy nearside of 260 St at the &lt;STRONG&gt;Q36&lt;/STRONG&gt; and &lt;STRONG&gt;Q46&lt;/STRONG&gt; bus stop.&lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;Q46 Eastbound (Glen Oak-bound only):&lt;/STRONG&gt; Via 260 St (Park Circle), right on 74 Av, right on Little Neck Pkwy and regular route.&lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;&lt;/STRONG&gt; &lt;/P&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
                   &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                   &lt;span class="DateStyle"&gt;
                   &amp;nbsp;Posted:&amp;nbsp;04/13/2018&amp;nbsp; 4:05PM
@@ -393,33 +440,6 @@
               &lt;br/&gt;
               &lt;br/&gt;
             
-                  &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
-                  &lt;span class="DateStyle"&gt;
-                  &amp;nbsp;Posted:&amp;nbsp;04/13/2018&amp;nbsp; 2:04PM
-                  &lt;/span&gt;
-                  &lt;br/&gt;
-                  &lt;br/&gt;
-                &lt;P&gt;&lt;STRONG&gt;Q24&lt;/STRONG&gt; eastbound buses are detoured because of construction on Archer Av from Sutphin Blvd to 150 St. &lt;/P&gt;
-&lt;P&gt;Detour is as follows:&lt;/P&gt;
-&lt;P&gt;&lt;STRONG&gt;Eastbound&lt;/STRONG&gt;: Via Archer Av, left on Sutphin Blvd, right on Jamaica Av, right on 150 St, left on Archer Av and regular route.&lt;/P&gt;
-              &lt;br/&gt;
-              &lt;br/&gt;
-            
-                  &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
-                  &lt;span class="DateStyle"&gt;
-                  &amp;nbsp;Posted:&amp;nbsp;04/13/2018&amp;nbsp; 2:04PM
-                  &lt;/span&gt;
-                  &lt;br/&gt;
-                  &lt;br/&gt;
-                &lt;P&gt;&lt;STRONG&gt;Q46, QM5&lt;/STRONG&gt; an&lt;STRONG&gt;d QM8&lt;/STRONG&gt; buses are detoured in both directions because of paving on 260 St between 73 Av and Little Neck Pkwy. &lt;/P&gt;
-&lt;P&gt;Detour is as follows:&lt;/P&gt;
-&lt;P&gt;&lt;STRONG&gt;QM5 and QM8 Buses Westbound&lt;/STRONG&gt;: Via 260 St (Park Circle), right on 74 Av, right on Little Neck Pkwy and regular route.&lt;/P&gt;
-&lt;P&gt;Bus stop at 260 St and Little Neck Pkwy will be made on Little Neck Pkwy nearside of 260 St at the &lt;STRONG&gt;Q36&lt;/STRONG&gt; and &lt;STRONG&gt;Q46&lt;/STRONG&gt; bus stop.&lt;/P&gt;
-&lt;P&gt;&lt;STRONG&gt;Q46 Eastbound (Glen Oak-bound only):&lt;/STRONG&gt; Via 260 St (Park Circle), right on 74 Av, right on Little Neck Pkwy and regular route.&lt;/P&gt;
-&lt;P&gt;&lt;STRONG&gt;&lt;/STRONG&gt; &lt;/P&gt;
-              &lt;br/&gt;
-              &lt;br/&gt;
-            
                   &lt;span class="TitlePlannedWork" &gt;Planned Detour&lt;/span&gt;
                   &lt;br/&gt;
                 &lt;a class="plannedWorkDetailLink" onclick=ShowHide(168561);&gt;&lt;b&gt;Q64, QM4 and QM44 buses may experience delays&lt;br clear=left&gt;due to construction on the Jewel Av exit of the Van Wyck Expy&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 168561 class="plannedWorkDetail" &gt;&lt;/b&gt;Until further notice&lt;br&gt;&lt;br&gt;&amp;bull; Please allow additional travel time.&lt;br&gt;&lt;b&gt;          &lt;/b&gt;&lt;a href=http://bustime.mta.info/ target=_blank&gt;&lt;img height=30px src=http://web.mta.info/nyct/images/Bus_Time_logo.png&gt;&lt;/a&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
@@ -445,25 +465,15 @@
               &lt;br/&gt;
             </text>
     <Date>04/13/2018</Date>
-    <Time> 4:05PM</Time>
+    <Time> 4:06PM</Time>
   </line>
   <line>
     <name>QM1 - QM44</name>
-    <status>DELAYS</status>
+    <status>SERVICE CHANGE</status>
     <text>
-                  &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                  &lt;span class="DateStyle"&gt;
-                  &amp;nbsp;Posted:&amp;nbsp;04/13/2018&amp;nbsp; 3:27PM
-                  &lt;/span&gt;
-                  &lt;br/&gt;
-                  &lt;br/&gt;
-                &lt;STRONG&gt;B62,&lt;/STRONG&gt; &lt;STRONG&gt;Q32, Q39, Q60, Q66, Q67, Q100, Q101, Q102, QM2, QM3 &lt;/STRONG&gt;and &lt;STRONG&gt;QM20&lt;/STRONG&gt; buses are running with delays in both directions because of traffic conditions in the Queens Plaza area.
-              &lt;br/&gt;
-              &lt;br/&gt;
-            
                   &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
                   &lt;span class="DateStyle"&gt;
-                  &amp;nbsp;Posted:&amp;nbsp;04/13/2018&amp;nbsp; 2:04PM
+                  &amp;nbsp;Posted:&amp;nbsp;04/13/2018&amp;nbsp; 4:06PM
                   &lt;/span&gt;
                   &lt;br/&gt;
                   &lt;br/&gt;
@@ -473,6 +483,16 @@
 &lt;P&gt;Bus stop at 260 St and Little Neck Pkwy will be made on Little Neck Pkwy nearside of 260 St at the &lt;STRONG&gt;Q36&lt;/STRONG&gt; and &lt;STRONG&gt;Q46&lt;/STRONG&gt; bus stop.&lt;/P&gt;
 &lt;P&gt;&lt;STRONG&gt;Q46 Eastbound (Glen Oak-bound only):&lt;/STRONG&gt; Via 260 St (Park Circle), right on 74 Av, right on Little Neck Pkwy and regular route.&lt;/P&gt;
 &lt;P&gt;&lt;STRONG&gt;&lt;/STRONG&gt; &lt;/P&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
+                  &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                  &lt;span class="DateStyle"&gt;
+                  &amp;nbsp;Posted:&amp;nbsp;04/13/2018&amp;nbsp; 3:27PM
+                  &lt;/span&gt;
+                  &lt;br/&gt;
+                  &lt;br/&gt;
+                &lt;STRONG&gt;B62,&lt;/STRONG&gt; &lt;STRONG&gt;Q32, Q39, Q60, Q66, Q67, Q100, Q101, Q102, QM2, QM3 &lt;/STRONG&gt;and &lt;STRONG&gt;QM20&lt;/STRONG&gt; buses are running with delays in both directions because of traffic conditions in the Queens Plaza area.
               &lt;br/&gt;
               &lt;br/&gt;
             
@@ -495,7 +515,7 @@
               &lt;br/&gt;
             </text>
     <Date>04/13/2018</Date>
-    <Time> 3:27PM</Time>
+    <Time> 4:06PM</Time>
   </line>
   <line>
     <name>S40 - S98</name>
