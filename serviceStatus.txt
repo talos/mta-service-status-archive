@@ -532,13 +532,13 @@
     <text>
                     &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;04/13/2018&amp;nbsp; 7:21PM
+                    &amp;nbsp;Posted:&amp;nbsp;04/13/2018&amp;nbsp; 7:25PM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  The 6:07PM train from Babylon due Penn at 7:19PM is operating 16 minutes late due to a late train ahead.
+                  &lt;b&gt;Eastbound&lt;/b&gt;&lt;br&gt;The 6:36PM train from Penn due Wantagh at 7:29PM is operating 11 minutes late due to a signal problem west of Woodside. &lt;br&gt;&lt;b&gt;&lt;br&gt;Westbound&lt;/b&gt;&lt;br&gt;The 6:07PM train from Babylon due Penn at 7:19PM is operating 16 minutes late due to a late train ahead.&lt;br&gt;
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>04/13/2018</Date>
-    <Time> 7:21PM</Time>
+    <Time> 7:25PM</Time>
   </line>
   <line>
     <name>City Terminal Zone</name>
@@ -588,17 +588,10 @@
   </line>
   <line>
     <name>Montauk</name>
-    <status>DELAYS</status>
-    <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;04/13/2018&amp;nbsp; 7:00PM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  &lt;p&gt;&lt;font face="Arial" size="2"&gt;&lt;strong&gt;There are scattered delays averaging 5 to 10 minutes due to a signal problem west of Woodside and switch trouble near Jamaica. We will provide updates as information becomes available. Thank you for your patience.&lt;/strong&gt; &lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font face="Arial" size="2"&gt;&lt;font face="Arial" size="2"&gt;The 5:09PM train from Penn due Speonk at 7:13PM is operating 12 minutes late due to switch trouble near Jamaica. &lt;/font&gt;&lt;/font&gt;&lt;/p&gt;&lt;p&gt;The 5:36PM train from Penn due Babylon at 6:40PM which normally connects with the 6:44PM train from Babylon due Patchogue at 7:14PM, will instead connect with the 6:55PM train from Babylon due Patchogue at 7:26PM this evening. &lt;/p&gt;&lt;p&gt;&lt;font face="Arial" size="2"&gt;&lt;font face="Arial" size="2"&gt;&lt;br&gt;&lt;/font&gt;&lt;/font&gt;&lt;/p&gt;
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>04/13/2018</Date>
-    <Time> 7:00PM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>Oyster Bay</name>
@@ -712,10 +705,17 @@
   </line>
   <line>
     <name>New Canaan</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>DELAYS</status>
+    <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;04/13/2018&amp;nbsp; 7:25PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  New Canaan Branch service is currently experiencing delays of 15 to 20  minutes due to signal issues in the vicinity of Stamford.  Please listen for announcements at your station.
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>04/13/2018</Date>
+    <Time> 7:25PM</Time>
   </line>
   <line>
     <name>Danbury</name>
