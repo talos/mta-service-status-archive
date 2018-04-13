@@ -1,33 +1,44 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>SERVICE CHANGE</status>
+    <text>
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;04/13/2018&amp;nbsp; 6:08PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;P&gt;Some southbound [4] and [5] trains end at &lt;STRONG&gt;Bowling Green&lt;/STRONG&gt;. &lt;/P&gt;
+&lt;P&gt;Some southbound [4] trains are stopping along the [3] line from &lt;STRONG&gt;Crown Hts-Utica Av&lt;/STRONG&gt; and end at &lt;STRONG&gt;New Lots Av&lt;/STRONG&gt;. &lt;/P&gt;
+&lt;P&gt;Expect delays in [2], [3], [4] and [5] train service in both directions. &lt;/P&gt;
+&lt;P&gt;These service changes are because of signal problems at &lt;STRONG&gt;Crown Hts-Utica Av&lt;/STRONG&gt;.&lt;/P&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>04/13/2018</Date>
+    <Time> 6:08PM</Time>
   </line>
   <line>
     <name>456</name>
-    <status>DELAYS</status>
+    <status>SERVICE CHANGE</status>
     <text>
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;04/13/2018&amp;nbsp; 6:08PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;P&gt;Some southbound [4] and [5] trains end at &lt;STRONG&gt;Bowling Green&lt;/STRONG&gt;. &lt;/P&gt;
+&lt;P&gt;Some southbound [4] trains are stopping along the [3] line from &lt;STRONG&gt;Crown Hts-Utica Av&lt;/STRONG&gt; and end at &lt;STRONG&gt;New Lots Av&lt;/STRONG&gt;. &lt;/P&gt;
+&lt;P&gt;Expect delays in [2], [3], [4] and [5] train service in both directions. &lt;/P&gt;
+&lt;P&gt;These service changes are because of signal problems at &lt;STRONG&gt;Crown Hts-Utica Av&lt;/STRONG&gt;.&lt;/P&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              
                     &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
                     &amp;nbsp;Posted:&amp;nbsp;04/13/2018&amp;nbsp; 5:54PM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
                   [4], [5] and [6] train service has resumed following earlier NYPD activity at &lt;STRONG&gt;14 St-Union Sq&lt;/STRONG&gt;.
                 &lt;br/&gt;&lt;br/&gt;
-              
-                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;04/13/2018&amp;nbsp; 5:18PM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  &lt;P&gt;Some southbound [4] trains end at &lt;STRONG&gt;Bowling Green&lt;/STRONG&gt;. &lt;/P&gt;
-&lt;P&gt;Expect delays in [3] and [4] train service in both directions. &lt;/P&gt;
-&lt;P&gt;These service changes are because of signal problems at &lt;STRONG&gt;Crown Hts-Utica Av&lt;/STRONG&gt;.&lt;/P&gt;
-                &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>04/13/2018</Date>
-    <Time> 5:54PM</Time>
+    <Time> 6:08PM</Time>
   </line>
   <line>
     <name>7</name>
@@ -46,7 +57,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>04/13/2018</Date>
-    <Time> 5:58PM</Time>
+    <Time> 6:07PM</Time>
   </line>
   <line>
     <name>BDFM</name>
@@ -107,7 +118,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>04/13/2018</Date>
-    <Time> 5:58PM</Time>
+    <Time> 6:07PM</Time>
   </line>
   <line>
     <name>SIR</name>
@@ -225,7 +236,7 @@
               &lt;br/&gt;
             </text>
     <Date>04/13/2018</Date>
-    <Time> 5:58PM</Time>
+    <Time> 6:07PM</Time>
   </line>
   <line>
     <name>BXM1 - BXM18</name>
@@ -251,7 +262,7 @@
               &lt;br/&gt;
             </text>
     <Date>04/13/2018</Date>
-    <Time> 5:58PM</Time>
+    <Time> 6:07PM</Time>
   </line>
   <line>
     <name>Q1 - Q113</name>
@@ -446,7 +457,7 @@
               &lt;br/&gt;
             </text>
     <Date>04/13/2018</Date>
-    <Time> 5:58PM</Time>
+    <Time> 6:07PM</Time>
   </line>
   <line>
     <name>x1 - x68</name>
@@ -685,17 +696,10 @@
   </line>
   <line>
     <name>Ronkonkoma</name>
-    <status>DELAYS</status>
-    <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;04/13/2018&amp;nbsp; 6:05PM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  &lt;p&gt;&lt;strong&gt;LIRR is experiencing delays averaging 10 to 15 minutes due to a signal problem west of Woodside and switch trouble near Jamaica. We will provide updates as information becomes available.  Thank you for your patience.&lt;br&gt;&lt;br&gt;&lt;/strong&gt;The 4:54PM train from Penn due Farmingdale at 5:56PM is operating 12 minutes late due to switch trouble near Jamaica. &lt;br&gt;&lt;/p&gt;
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>04/13/2018</Date>
-    <Time> 6:05PM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>West Hempstead</name>
