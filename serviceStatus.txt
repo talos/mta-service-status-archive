@@ -1,10 +1,15 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>PLANNED WORK</status>
+    <text>
+                    &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
+                    &lt;br/&gt;
+                  &lt;a class="plannedWorkDetailLink" onclick=ShowHide(183788);&gt;&lt;b&gt;&lt;i&gt;STRUCTURAL IMPROVEMENTS&lt;/i&gt;&lt;br clear=left&gt;[3] No trains running&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 183788 class="plannedWorkDetail" &gt;[1] [2] [4] trains and [SB] free shuttle buses provide alternate service&lt;br&gt;&lt;/b&gt;Nights, 10:30 PM to 5 AM, Mon to Fri, Apr 9 - 13&lt;br&gt;                                       &lt;br&gt;&lt;/font&gt;&lt;b&gt;[1] [2]&lt;/b&gt; trains make all &lt;b&gt;[3]&lt;/b&gt; stops between &lt;b&gt;Times Sq-42 St &lt;/b&gt;and &lt;b&gt;96 St&lt;/b&gt;.&lt;br&gt;&lt;br&gt;For &lt;b&gt;Lower Manhattan&lt;/b&gt; and &lt;b&gt;Brooklyn&lt;/b&gt;, take the [2] &lt;i&gt;and/or&lt;/i&gt; [4].&lt;br&gt;&lt;br&gt;[SB] Buses operate between &lt;b&gt;96 St &lt;/b&gt;and &lt;b&gt;148 St&lt;/b&gt;, &lt;i&gt;making all stops&lt;/i&gt;.&lt;br&gt;&lt;/font&gt;&amp;bull; Transfer between trains and [SB] buses at &lt;b&gt;96 St&lt;/b&gt;.&lt;br&gt;&lt;br&gt;&lt;font size=3&gt;&lt;b&gt;&lt;a style="cursor:pointer; text-decoration:underline;" onclick=ShowHide(1837880);&gt;Show Shuttle Bus Stops&lt;/a&gt;&lt;/b&gt;&lt;/font&gt;&lt;div id="1837880"; style="display:none;"&gt;&lt;table class=plannedworkTableStyle  border=1 cellspacing=1 cellpadding=3 rules=rows frame=hsides&gt;&lt;tr bgcolor=#FAF8CC&gt;&lt;td&gt;&lt;b&gt;Station      &lt;/b&gt;&lt;/td&gt;&lt;td&gt;&lt;b&gt;Bus Stop&lt;/b&gt;&lt;tr&gt;&lt;td&gt;96 St [ad] [1] [2]&lt;td&gt;Broadway at 95 St&lt;tr&gt;&lt;td&gt;110 St&lt;td&gt;Lenox Av at 111 St&lt;tr&gt;&lt;td&gt;116 St&lt;td&gt;Lenox Av at 116 St&lt;tr&gt;&lt;td&gt;125 St&lt;td&gt;Lenox Av at 125 St&lt;tr&gt;&lt;td&gt;135 St &lt;td&gt;Lenox Av at 135 St&lt;tr&gt;&lt;td&gt;145 St&lt;td&gt;Lenox Av at 145 St&lt;tr&gt;&lt;td&gt;148 St&lt;td&gt;Adam Clayton Powell Jr Blvd at 149 St&lt;/table&gt;&lt;/div&gt;&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>04/12/2018</Date>
+    <Time>10:36PM</Time>
   </line>
   <line>
     <name>456</name>
@@ -19,9 +24,14 @@
                     &lt;br/&gt;
                   &lt;a class="plannedWorkDetailLink" onclick=ShowHide(183698);&gt;&lt;b&gt;&lt;i&gt;TRACK REPLACEMENT&lt;/i&gt;&lt;br clear=left&gt;[5] Service ends early between E 180 St and Bowling Green&lt;br clear=left&gt;[2] [4] trains provide alternate service&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 183698 class="plannedWorkDetail" &gt;&lt;/b&gt;Evenings, beginning 8:30 PM, Mon to Thu, Apr 9 - 12  &amp;bull;  Tue to Thu, Apr 17 - 19  &amp;bull;  Mon to Thu, Apr 23 - 26&lt;br&gt;&lt;br&gt;[5] service operates between &lt;b&gt;Dyre Av&lt;/b&gt; and &lt;b&gt;E 180 St&lt;/b&gt;.&lt;br&gt;&lt;br&gt;&lt;table class=plannedworkTableStyle  width=75%&gt;&lt;tr&gt;&lt;td&gt;&lt;font size=3&gt;&lt;b&gt;Travel Alternatives&lt;/b&gt;&lt;/font&gt;&lt;td align=right&gt;[TP]&lt;/table&gt;&lt;br&gt;&lt;/font&gt;&amp;bull; Transfer between [5] and [2] trains at E 180 St.&lt;br&gt;&amp;bull; Transfer between [2] and [4] trains at 149 St-Grand Concourse.&lt;br&gt;&lt;br&gt;&lt;b&gt;Reminder:&lt;/b&gt; &lt;a href=http://advisory.mtanyct.info/pdf_files/NightMap.pdf target=_blank&gt;&lt;font color=#0000FF&gt;Late Night&lt;/font&gt;&lt;/a&gt; [5] service operates as scheduled in the Bronx.&lt;br&gt;&lt;/font&gt;           &lt;br&gt;&lt;table class=plannedworkTableStyle  border=1 cellspacing=1 cellpadding=5 rules=none frame=box&gt;&lt;td&gt;  [ad]  &lt;td&gt;&lt;font size=1&gt;This service change affects one or more ADA accessible stations. Please call 511 for help with planning&lt;br&gt;your trip. If you are deaf or hard of hearing, use your preferred relay service provider or the free 711 relay.  &lt;/font&gt;&lt;/table&gt;&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
                 &lt;br/&gt;&lt;br/&gt;
+              
+                    &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
+                    &lt;br/&gt;
+                  &lt;a class="plannedWorkDetailLink" onclick=ShowHide(183697);&gt;&lt;b&gt;&lt;i&gt;ALTERNATIVE SERVICE&lt;/i&gt;&lt;br clear=left&gt;[4] Trains replace the [3] between Atlantic Av-Barclays Ctr and New Lots Av&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 183697 class="plannedWorkDetail" &gt;&lt;/b&gt;&lt;/font&gt;Evenings, 10:30 PM to 11:30 PM, Mon to Thu, Apr 9 - 12&lt;br&gt;&lt;br&gt;&lt;b&gt;[4]&lt;/b&gt; trains &lt;i&gt;make all stops&lt;/i&gt; between Atlantic Av-Barclays Ctr and New Lots Av.&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+                &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>04/12/2018</Date>
-    <Time>10:25PM</Time>
+    <Time>10:36PM</Time>
   </line>
   <line>
     <name>7</name>
@@ -50,7 +60,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>04/12/2018</Date>
-    <Time>10:25PM</Time>
+    <Time>10:36PM</Time>
   </line>
   <line>
     <name>BDFM</name>
@@ -67,7 +77,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>04/12/2018</Date>
-    <Time>10:25PM</Time>
+    <Time>10:36PM</Time>
   </line>
   <line>
     <name>G</name>
@@ -100,7 +110,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>04/12/2018</Date>
-    <Time>10:25PM</Time>
+    <Time>10:36PM</Time>
   </line>
   <line>
     <name>S</name>
@@ -112,7 +122,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>04/12/2018</Date>
-    <Time>10:25PM</Time>
+    <Time>10:36PM</Time>
   </line>
   <line>
     <name>SIR</name>
@@ -207,7 +217,7 @@
               &lt;br/&gt;
             </text>
     <Date>04/12/2018</Date>
-    <Time>10:25PM</Time>
+    <Time>10:36PM</Time>
   </line>
   <line>
     <name>BXM1 - BXM18</name>
@@ -476,65 +486,52 @@
     <text>
                     &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;04/12/2018&amp;nbsp; 9:00PM
+                    &amp;nbsp;Posted:&amp;nbsp;04/12/2018&amp;nbsp;10:36PM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  &lt;body bgcolor='White' style='font-family:sans-serif;font-size:10pt;'&gt;&lt;body bgcolor='White' style='font-family:sans-serif;font-size:10pt;'&gt;&lt;font face="Times New Roman" size="3"&gt;
+                  &lt;font face="Times New Roman" size="3"&gt;
 
-&lt;span style="color: black; font-size: 14pt;"&gt;&lt;font face="Calibri"&gt;&lt;strong&gt;Buses Replace Trains between Long Beach &amp; Valley Stream on the
-Weekends of April 14-15 and April 21-22 &lt;/strong&gt;&lt;font face="Times New Roman" size="3"&gt;
+&lt;span style="color: black; font-size: 14pt;"&gt;&lt;font face="Calibri"&gt;&lt;strong&gt;Buses Replace Trains between Long Beach &amp; Valley Stream on the  Weekends of April 14-15 and April 21-22 &lt;/strong&gt;&lt;font face="Times New Roman" size="3"&gt;
 
-&lt;/font&gt;&lt;p style="margin: 0in 0in 0pt;"&gt;&lt;b&gt;&lt;i&gt;&lt;span style="color: rgb(51, 51, 51);"&gt;&lt;font size="3"&gt;Lynbrook Customers Have
-the Option of Using Babylon Branch Trains, Which Stop at Lynbrook&lt;/font&gt;&lt;/span&gt;&lt;/i&gt;&lt;/b&gt;&lt;/p&gt;&lt;span style="color: rgb(51, 51, 51);"&gt;&lt;font size="3"&gt;&lt;p style="margin: 0in 0in 0pt;"&gt;&lt;font color="#000000" face="Times New Roman"&gt;&lt;br&gt;&lt;/font&gt;&lt;/p&gt;&lt;p style="margin: 0in 0in 0pt;"&gt;&lt;span style="color: black;"&gt;Installation of new rail ties on
-the Reynold's Channel Bridge, which connects Long Beach and Island Park, will
-require closure of the bridge for three consecutive weekends.  As a
-result, buses will replace Saturday/Sunday trains between Long Beach and Valley
-Stream on the weekends of April 14-15 and April 21-22.  &lt;/span&gt;&lt;/p&gt;&lt;p style="margin: 0in 0in 0pt;"&gt;&lt;span style="color: black;"&gt;&lt;br&gt;&lt;/span&gt;&lt;/p&gt;&lt;p style="margin: 0in 0in 0pt;"&gt;&lt;span style="color: black;"&gt;In addition, buses
-will replace several Friday night trains at the start of each weekend.  &lt;/span&gt;&lt;span style="color: rgb(51, 51, 51);"&gt;Lynbrook customers will have the option of using Babylon
-Branch trains for travel to/from Jamaica and Penn Station. Customers at other
-stations will be affected as follows:&lt;/span&gt;&lt;/p&gt;&lt;p style="margin: 0in 0in 0pt;"&gt;&lt;font color="#000000" face="Times New Roman"&gt;
+&lt;/font&gt;&lt;p style="margin: 0in 0in 0pt;"&gt;&lt;b&gt;&lt;i&gt;&lt;span style="color: rgb(51, 51, 51);"&gt;&lt;font size="3"&gt;Lynbrook Customers Have the Option of Using Babylon Branch Trains, Which Stop at Lynbrook&lt;/font&gt;&lt;/span&gt;&lt;/i&gt;&lt;/b&gt;&lt;/p&gt;&lt;span style="color: rgb(51, 51, 51);"&gt;&lt;font size="3"&gt;&lt;p style="margin: 0in 0in 0pt;"&gt;&lt;font color="#000000" face="Times New Roman"&gt;&lt;br&gt;&lt;/font&gt;&lt;/p&gt;&lt;p style="margin: 0in 0in 0pt;"&gt;&lt;span style="color: black;"&gt;Installation of new rail ties on the Reynold's Channel Bridge, which connects Long Beach and Island Park, will require closure of the bridge for three consecutive weekends.  As a result, buses will replace Saturday/Sunday trains between Long Beach and Valley Stream on the weekends of April 14-15 and April 21-22. &lt;/span&gt;&lt;/p&gt;&lt;p style="margin: 0in 0in 0pt;"&gt;&lt;span style="color: black;"&gt;&lt;br&gt;&lt;/span&gt;&lt;/p&gt;&lt;p style="margin: 0in 0in 0pt;"&gt;&lt;span style="color: black;"&gt;In addition, buses will replace several Friday night trains at the start of each weekend.  &lt;/span&gt;&lt;span style="color: rgb(51, 51, 51);"&gt;Lynbrook customers will have the option of using Babylon Branch trains for travel to/from Jamaica and Penn Station. Customers at other stations will be affected as follows:&lt;/span&gt;&lt;/p&gt;&lt;p style="margin: 0in 0in 0pt;"&gt;&lt;font color="#000000" face="Times New Roman"&gt;
 
 &lt;span style="color: rgb(51, 51, 51);"&gt; &lt;/span&gt;&lt;/font&gt;&lt;/p&gt;&lt;p style="background: white; margin: 0in 7.5pt 0pt 0in;"&gt;&lt;b&gt;&lt;i&gt;&lt;u&gt;&lt;span style="color: rgb(51, 51, 51);"&gt;Friday Night Service Changes&lt;/span&gt;&lt;/u&gt;&lt;/i&gt;&lt;/b&gt;&lt;/p&gt;&lt;p style="margin: 0in 0in 0pt;"&gt;&lt;font color="#000000" face="Times New Roman"&gt;
 
-&lt;br&gt;&lt;/font&gt;&lt;/p&gt;&lt;p style="background: white; margin: 0in 7.5pt 0pt 0in;"&gt;&lt;b&gt;&lt;span style="color: rgb(51, 51, 51);"&gt;Westbound&lt;/span&gt;&lt;/b&gt;&lt;/p&gt;&lt;p style="margin: 0in 0in 0pt;"&gt;&lt;font color="#000000" face="Times New Roman"&gt;
-
-&lt;br&gt;&lt;/font&gt;&lt;/p&gt;&lt;p style="margin: 0in 0in 0pt;"&gt;&lt;ul type="disc" style="margin-top: 0in;"&gt;&lt;font color="#000000" face="Times New Roman"&gt;
- &lt;/font&gt;&lt;li style="background: white; margin: auto 7.5pt auto auto; font-size: 12pt; font-style: normal; font-weight: normal;"&gt;&lt;span style='"Times New Roman";'&gt;The 10:57 PM train from Long Beach, due Penn Station at
+&lt;br&gt;&lt;/font&gt;&lt;/p&gt;&lt;p style="background: white; margin: 0in 7.5pt 0pt 0in;"&gt;&lt;b&gt;&lt;span style="color: rgb(51, 51, 51);"&gt;Westbound&lt;/span&gt;&lt;/b&gt;&lt;/p&gt;&lt;p style="background: white; margin: 0in 7.5pt 0pt 0in;"&gt;&lt;b&gt;&lt;span style="color: rgb(51, 51, 51);"&gt;&lt;font color="#000000" face="Times New Roman"&gt;&lt;br&gt;&lt;/font&gt;&lt;/span&gt;&lt;/b&gt;&lt;/p&gt;&lt;p style="margin: 0in 0in 0pt;"&gt;&lt;ul type="disc" style="margin-top: 0in;"&gt;&lt;font color="#000000" face="Times New Roman"&gt;
+ &lt;/font&gt;&lt;li style="background: white; margin: auto 7.5pt auto auto; font-size: 12pt; font-style: normal; font-weight: normal;"&gt;&lt;span&gt;The 10:57 PM train from Long Beach, due Penn Station at
      11:50 PM, will originate at Valley Stream at 11:17 PM and terminate at
      Jamaica at 11:29 PM where customers will transfer for service to Penn
      Station.  Customers at stations Long Beach through Lynbrook will be
      provided with bus service to Valley Stream.&lt;font color="#000000" face="Times New Roman"&gt;
 
-&lt;b&gt;&lt;span style="color: rgb(51, 51, 51);"&gt; &lt;/span&gt;&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;p style="margin: 0in 0in 0pt;"&gt;&lt;font color="#000000" face="Times New Roman"&gt;
+&lt;b&gt;&lt;span style="color: rgb(51, 51, 51);"&gt; &lt;/span&gt;&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;&lt;p style="margin: 0in 0in 0pt;"&gt;&lt;font color="#000000" face="Times New Roman"&gt;
 
-&lt;br&gt;&lt;/font&gt;&lt;/p&gt;&lt;p style="background: white; margin: 0in 7.5pt 0pt 0in;"&gt;&lt;b&gt;&lt;span style="color: rgb(51, 51, 51);"&gt;Eastbound&lt;/span&gt;&lt;/b&gt;&lt;/p&gt;&lt;p style="margin: 0in 0in 0pt;"&gt;&lt;font color="#000000" face="Times New Roman"&gt;
-
-&lt;br&gt;&lt;/font&gt;&lt;/p&gt;&lt;ul type="disc" style="margin-top: 0in;"&gt;&lt;font color="#000000" face="Times New Roman"&gt;
- &lt;/font&gt;&lt;li style="background: white; margin: auto 7.5pt auto auto; font-size: 12pt; font-style: normal; font-weight: normal;"&gt;&lt;span style='"Times New Roman";'&gt;The 9:53 PM train from
+&lt;b&gt;&lt;span style="color: rgb(51, 51, 51);"&gt;Eastbound&lt;/span&gt;&lt;/b&gt;&lt;/font&gt;&lt;/p&gt;&lt;p style="margin: 0in 0in 0pt;"&gt;&lt;font color="#000000" face="Times New Roman"&gt;&lt;b&gt;&lt;span style="color: rgb(51, 51, 51);"&gt;&lt;font color="#000000" face="Times New Roman"&gt;&lt;br&gt;&lt;/font&gt;&lt;/span&gt;&lt;/b&gt;&lt;/font&gt;&lt;/p&gt;&lt;ul type="disc" style="margin-top: 0in;"&gt;&lt;font color="#000000" face="Times New Roman"&gt;
+ &lt;/font&gt;&lt;li style="background: white; margin: auto 7.5pt auto auto; font-size: 12pt; font-style: normal; font-weight: normal;"&gt;&lt;span&gt;The 9:53 PM train from
      Penn Station, due Long Beach at 10:46 PM, will terminate at Valley Stream,
      where customers will board buses for service to stations Lynbrook through
-     Long Beach.&lt;/span&gt;&lt;/li&gt;&lt;font color="#000000" face="Times New Roman"&gt;
- &lt;/font&gt;&lt;li style="background: white; margin: auto 7.5pt auto auto; font-size: 12pt; font-style: normal; font-weight: normal;"&gt;&lt;span style='"Times New Roman";'&gt;The 10:51 PM train from
+     Long Beach.&lt;/span&gt;&lt;/li&gt;&lt;li style="background: white; margin: auto 7.5pt auto auto; font-size: 12pt; font-style: normal; font-weight: normal;"&gt;&lt;span&gt;&lt;font color="#000000" face="Times New Roman"&gt;
+ &lt;/font&gt;&lt;span&gt;The 10:51 PM train from
      Penn Station, due Long Beach at 11:42 PM, will terminate at Valley Stream,
      where customers will board buses for service to stations Lynbrook through
-     Long Beach.&lt;/span&gt;&lt;/li&gt;&lt;font color="#000000" face="Times New Roman"&gt;
- &lt;/font&gt;&lt;li style="background: white; margin: auto 7.5pt auto auto; font-size: 12pt; font-style: normal; font-weight: normal;"&gt;&lt;span style='"Times New Roman";'&gt;The 11:39 PM train from
+     Long Beach.&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;&lt;font color="#000000" face="Times New Roman"&gt;
+ &lt;/font&gt;&lt;li style="background: white; margin: auto 7.5pt auto auto; font-size: 12pt; font-style: normal; font-weight: normal;"&gt;&lt;span&gt;The 11:39 PM train from
      Penn Station, due Lynbrook at 12:16 AM, will depart two minutes earlier at
      11:37 PM&lt;/span&gt;&lt;/li&gt;&lt;font color="#000000" face="Times New Roman"&gt;
- &lt;/font&gt;&lt;li style="background: white; margin: auto 7.5pt auto auto; font-size: 12pt; font-style: normal; font-weight: normal;"&gt;&lt;span style='"Times New Roman";'&gt;The 11:51 PM train from
+ &lt;/font&gt;&lt;li style="background: white; margin: auto 7.5pt auto auto; font-size: 12pt; font-style: normal; font-weight: normal;"&gt;&lt;span&gt;The 11:51 PM train from
      Penn Station, due Long Beach at 12:52 AM, will terminate at Valley Stream,
      where customers will board buses for service to stations Lynbrook through
-     Long Beach.&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p style="background: white; margin: auto 7.5pt auto auto; font-size: 12pt; font-style: normal; font-weight: normal;"&gt;&lt;span style='"Times New Roman";'&gt;&lt;strong&gt;&lt;em&gt;&lt;u&gt;Saturday/Sunday/Service Changes:&lt;/u&gt;&lt;/em&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;&lt;p style="margin: 0in 0in 0pt;"&gt;&lt;p style="margin: 0in 0in 0pt;"&gt;&lt;p style="margin: 0in 0in 0pt;"&gt;&lt;font color="#000000" face="Times New Roman"&gt;&lt;br&gt;&lt;/font&gt;&lt;/p&gt;&lt;b&gt;&lt;span style="-ms-layout-grid-mode: line;"&gt;&lt;font color="#000000"&gt;Westbound&lt;/font&gt;&lt;/span&gt;&lt;/b&gt;&lt;/p&gt;&lt;/p&gt;&lt;p style="margin: 0in 0in 0pt;"&gt;&lt;p style="margin: 0in 0in 0pt; -ms-layout-grid-mode: char;"&gt;&lt;span style="color: black; -ms-layout-grid-mode: line;"&gt;Customers at stations Long Beach through Lynbrook will
+     Long Beach.&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p style="background: white; margin: auto 7.5pt auto auto; font-size: 12pt; font-style: normal; font-weight: normal;"&gt;&lt;span&gt;&lt;strong&gt;&lt;em&gt;&lt;u&gt;Saturday/Sunday/Service Changes:&lt;/u&gt;&lt;/em&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;&lt;p style="margin: 0in 0in 0pt;"&gt;&lt;p style="margin: 0in 0in 0pt;"&gt;&lt;p style="margin: 0in 0in 0pt;"&gt;&lt;font color="#000000" face="Times New Roman"&gt;&lt;br&gt;&lt;/font&gt;&lt;/p&gt;&lt;b&gt;&lt;span style="-ms-layout-grid-mode: line;"&gt;&lt;font color="#000000"&gt;Westbound&lt;/font&gt;&lt;/span&gt;&lt;/b&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p style="margin: 0in 0in 0pt;"&gt;&lt;p style="margin: 0in 0in 0pt; -ms-layout-grid-mode: char;"&gt;&lt;span style="color: black; -ms-layout-grid-mode: line;"&gt;Customers at stations Long Beach through Lynbrook will
 board buses departing up to one hour and six minutes later than normal weekend
 train times. At Valley Stream, customers will board westbound trains. Please
-plan for 28 minutes of additional travel time.&lt;p style="margin: 0in 0in 0pt;"&gt;&lt;span style="-ms-layout-grid-mode: line;"&gt;&lt;font color="#000000"&gt;&lt;p style="margin: 0in 0in 0pt;"&gt;&lt;br&gt;&lt;/p&gt;&lt;b&gt;&lt;span style="-ms-layout-grid-mode: line;"&gt;&lt;font color="#000000"&gt;Eastbound&lt;/font&gt;&lt;/span&gt;&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;&lt;/span&gt;&lt;/p&gt;&lt;p style="margin: 0in 0in 0pt; -ms-layout-grid-mode: char;"&gt;&lt;span style="-ms-layout-grid-mode: line;"&gt;&lt;font color="#000000"&gt;Customers will travel by train as far as Valley Stream, then board buses
+plan for 28 minutes of additional travel time.&lt;/span&gt;&lt;p style="margin: 0in 0in 0pt;"&gt;&lt;span style="-ms-layout-grid-mode: line;"&gt;&lt;font color="#000000"&gt;&lt;/font&gt;&lt;/span&gt;&lt;p style="margin: 0in 0in 0pt;"&gt;&lt;font color="#000000"&gt;&lt;br&gt;&lt;/font&gt;&lt;/p&gt;&lt;font color="#000000"&gt;&lt;b&gt;&lt;span style="-ms-layout-grid-mode: line;"&gt;&lt;font color="#000000"&gt;Eastbound&lt;/font&gt;&lt;/span&gt;&lt;/b&gt;&lt;/font&gt;&lt;/font&gt;&lt;/span&gt;&lt;p&gt;&lt;/p&gt;&lt;/font&gt;&lt;/span&gt;&lt;p&gt;&lt;/p&gt;&lt;p style="margin: 0in 0in 0pt; -ms-layout-grid-mode: char;"&gt;&lt;font face="Calibri"&gt;&lt;font size="3"&gt;&lt;span style="-ms-layout-grid-mode: line;"&gt;&lt;font color="#000000"&gt;Customers will travel by train as far as Valley Stream, then board buses
 for transportation to stations Lynbrook through Long Beach. Please plan for up
-to 28 minutes of additional travel time.&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;&lt;p style="margin: 0in 0in 0pt;"&gt;&lt;font color="#000000" face="Times New Roman"&gt;
+to 28 minutes of additional travel time.&lt;/font&gt;&lt;/span&gt;&lt;/font&gt;&lt;/font&gt;&lt;/p&gt;&lt;p style="margin: 0in 0in 0pt;"&gt;&lt;font face="Calibri"&gt;&lt;font size="3"&gt;&lt;font color="#000000" face="Times New Roman"&gt;
 
-&lt;br&gt;&lt;/font&gt;&lt;/p&gt;&lt;p style="background: white; margin: 0in 0.1in 0pt 0in; line-height: 115%;"&gt;&lt;b&gt;&lt;span lang="EN" style=""&gt;&lt;font color="#000000"&gt;Special weekend timetables are in effect
+&lt;br&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/p&gt;&lt;p style="background: white; margin: 0in 0.1in 0pt 0in; line-height: 115%;"&gt;&lt;font face="Calibri"&gt;&lt;font size="3"&gt;&lt;b&gt;&lt;span lang="EN"&gt;&lt;font color="#000000"&gt;Special weekend timetables are in effect
 for almost every LIRR branch.  For additional information, pick up a copy
-of the timetable for your branch, or click on the name of your branch below&lt;/font&gt;&lt;span style="color: rgb(31, 73, 125);"&gt;:  &lt;/span&gt;&lt;/span&gt;&lt;/b&gt;&lt;/p&gt;&lt;p style="margin: 0in 0in 0pt;"&gt;&lt;font color="#000000" face="Times New Roman"&gt;
+of the timetable for your branch, or click on the name of your branch below&lt;/font&gt;&lt;span style="color: rgb(31, 73, 125);"&gt;:  &lt;/span&gt;&lt;/span&gt;&lt;/b&gt;&lt;/font&gt;&lt;/font&gt;&lt;/p&gt;&lt;p style="margin: 0in 0in 0pt;"&gt;&lt;font face="Calibri"&gt;&lt;font size="3"&gt;&lt;font color="#000000" face="Times New Roman"&gt;
 
-&lt;b&gt;&lt;span lang="EN" style="color: rgb(31, 73, 125);"&gt; &lt;p style="margin: 0in 0in 0pt;"&gt;&lt;span style='color: rgb(51, 51, 51); line-height: 115%; font-family: "Helvetica",sans-serif; font-size: 10pt;'&gt;&lt;a href="http://web.mta.info/lirr/Timetable/04-7&amp;8%2014&amp;15-2018%20-%20BA%20-%20ESA%20&amp;%20Wreck%20-%20GO%20304.pdf"&gt;&lt;span style="color: rgb(0, 85, 170); text-decoration: none; text-underline: none;"&gt;Babylon Branch&lt;/span&gt;&lt;/a&gt;&lt;br&gt;
+&lt;b&gt;&lt;span lang="EN" style="color: rgb(31, 73, 125);"&gt; &lt;/span&gt;&lt;/b&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;p style="margin: 0in 0in 0pt;"&gt;&lt;font face="Calibri"&gt;&lt;font size="3"&gt;&lt;font color="#000000" face="Times New Roman"&gt;&lt;b&gt;&lt;span style='color: rgb(51, 51, 51); line-height: 115%; font-family: "Helvetica",sans-serif; font-size: 10pt;'&gt;&lt;a href="http://web.mta.info/lirr/Timetable/04-7&amp;8%2014&amp;15-2018%20-%20BA%20-%20ESA%20&amp;%20Wreck%20-%20GO%20304.pdf"&gt;&lt;span style="color: rgb(0, 85, 170); text-decoration: none; text-underline: none;"&gt;Babylon Branch&lt;/span&gt;&lt;/a&gt;&lt;br&gt;
 &lt;a href="http://web.mta.info/lirr/Timetable/04-7&amp;8%2014&amp;15-2018%20-%20FR%20-%20ESA%20&amp;%20Wreck%20-%20GO%20304.pdf"&gt;&lt;span style="color: rgb(0, 85, 170); text-decoration: none; text-underline: none;"&gt;Far Rockaway
 Branch&lt;/span&gt;&lt;/a&gt;&lt;br&gt;
 &lt;a href="http://web.mta.info/lirr/Timetable/04-7&amp;8%2014&amp;15-2018%20-%20HI%20-%20ESA%20&amp;%20Wreck%20-%20GO%20304.pdf"&gt;&lt;span style="color: rgb(0, 85, 170); text-decoration: none; text-underline: none;"&gt;Hillside
@@ -546,28 +543,28 @@ Branch&lt;/span&gt;&lt;/a&gt;&lt;br&gt;
 &lt;a href="http://web.mta.info/lirr/Timetable/04-7&amp;8%2014&amp;15-2018%20-%20OB%20-%20ESA%20&amp;%20Wreck%20-%20GO%20304.pdf"&gt;&lt;span style="color: rgb(0, 85, 170); text-decoration: none; text-underline: none;"&gt;Oyster Bay
 Branch&lt;/span&gt;&lt;/a&gt;&lt;br&gt;
 &lt;a href="http://web.mta.info/lirr/Timetable/04-7&amp;8%2014&amp;15-2018%20-%20PJ%20-%20ESA%20&amp;%20Wreck%20-%20GO%20304.pdf"&gt;&lt;span style="color: rgb(0, 85, 170); text-decoration: none; text-underline: none;"&gt;Port Jefferson
-Branch&lt;/span&gt;&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;&lt;/span&gt;&lt;/b&gt;&lt;/font&gt;&lt;p style="margin: 0in 0in 0pt;"&gt;&lt;p style="margin: 0in 0in 0pt;"&gt;&lt;span style='color: rgb(51, 51, 51); line-height: 115%; font-family: "Helvetica",sans-serif; font-size: 10pt;'&gt;&lt;a href="http://web.mta.info/lirr/Timetable/ESA%20&amp;%20Wreck%20-%20Apr%2014&amp;15-2018%20-%20PW%20-%20GO%20304.pdf"&gt;&lt;span style="color: rgb(0, 85, 170); text-decoration: none; text-underline: none;"&gt;Port Washington
+Branch&lt;/span&gt;&lt;/a&gt;&lt;/span&gt;&lt;/b&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/p&gt;&lt;p style="margin: 0in 0in 0pt;"&gt;&lt;font face="Calibri"&gt;&lt;font size="3"&gt;&lt;font color="#000000" face="Times New Roman"&gt;&lt;b&gt;&lt;span style='color: rgb(51, 51, 51); line-height: 115%; font-family: "Helvetica",sans-serif; font-size: 10pt;'&gt;&lt;span style="color: rgb(0, 85, 170); text-decoration: none; text-underline: none;"&gt;&lt;font face="Calibri"&gt;&lt;font size="3"&gt;&lt;span style='color: rgb(51, 51, 51); line-height: 115%; font-family: "Helvetica",sans-serif; font-size: 10pt;'&gt;&lt;a href="http://web.mta.info/lirr/Timetable/ESA%20&amp;%20Wreck%20-%20Apr%2014&amp;15-2018%20-%20PW%20-%20GO%20304.pdf"&gt;&lt;span style="color: rgb(0, 85, 170); text-decoration: none; text-underline: none;"&gt;Port Washington
 Branch (April 14-15)&lt;/span&gt;&lt;/a&gt;&lt;br&gt;
 &lt;a href="http://web.mta.info/lirr/Timetable/04-7&amp;8%2014&amp;15-2018%20-%20KO%20-%20ESA%20&amp;%20Wreck%20-%20GO%20304.pdf"&gt;&lt;span style="color: rgb(0, 85, 170); text-decoration: none; text-underline: none;"&gt;Ronkonkoma
 Branch&lt;/span&gt;&lt;/a&gt;&lt;br&gt;
 &lt;a href="http://web.mta.info/lirr/Timetable/04-7&amp;8%2014&amp;15-2018%20-%20WH%20-%20ESA%20&amp;%20Wreck%20-%20GO%20304.pdf"&gt;&lt;span style="color: rgb(0, 85, 170); text-decoration: none; text-underline: none;"&gt;West Hempstead
-Branch&lt;/span&gt;&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;p style="margin: 0in 0in 0pt;"&gt;&lt;p style="margin: 0in 0in 0pt;"&gt;&lt;font color="#000000" face="Times New Roman"&gt;
+Branch&lt;/span&gt;&lt;/a&gt;&lt;/span&gt;&lt;/font&gt;&lt;/font&gt;&lt;/span&gt;&lt;/span&gt;&lt;/b&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p style="margin: 0in 0in 0pt;"&gt;&lt;p style="margin: 0in 0in 0pt;"&gt;&lt;font face="Calibri"&gt;&lt;font size="3"&gt;&lt;font color="#000000" face="Times New Roman"&gt;
 
-&lt;br&gt;&lt;/font&gt;&lt;/p&gt;&lt;p style="background: white; margin: 0in 0.1in 0pt 0in; line-height: 115%;"&gt;&lt;font color="#000000"&gt;&lt;b&gt;&lt;span lang="EN" style=""&gt;For more information&lt;/span&gt;&lt;/b&gt;&lt;span lang="EN" style=""&gt;, contact the LIRR's Customer Service
+&lt;br&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/p&gt;&lt;p style="background: white; margin: 0in 0.1in 0pt 0in; line-height: 115%;"&gt;&lt;font face="Calibri"&gt;&lt;font size="3"&gt;&lt;font color="#000000"&gt;&lt;b&gt;&lt;span lang="EN"&gt;For more information&lt;/span&gt;&lt;/b&gt;&lt;span lang="EN"&gt;, contact the LIRR's Customer Service
 Center by calling 511 or 718-217-LIRR (718-217-5477). Automated schedule
 information is available 24/7. Agents are available to assist customers daily
 from 6 AM until 10 PM. To speak with an LIRR employee, say the word
-"Representative" when the prompts begin.&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;&lt;p style="margin: 0in 0in 0pt;"&gt;&lt;font color="#000000" face="Times New Roman"&gt;
+"Representative" when the prompts begin.&lt;/span&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/p&gt;&lt;p style="margin: 0in 0in 0pt;"&gt;&lt;font face="Calibri"&gt;&lt;font size="3"&gt;&lt;font color="#000000" face="Times New Roman"&gt;
 
-&lt;br&gt;&lt;/font&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/font&gt;&lt;p style="margin: 0in 0in 0pt;"&gt;&lt;p style="margin: 0in 0in 0pt;"&gt;&lt;p style="margin: 0in 0in 0pt;"&gt;&lt;br&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/span&gt;&lt;p style="margin: 0in 0in 0pt;"&gt;&lt;p style="margin: 0in 0in 0pt;"&gt;&lt;p style="margin: 0in 0in 0pt;"&gt;&lt;br&gt;&lt;/p&gt;&lt;p style="background: white; margin: 0in 0in 0pt;"&gt;&lt;font face="Times New Roman" size="3"&gt;
+&lt;br&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p style="margin: 0in 0in 0pt;"&gt;&lt;p style="margin: 0in 0in 0pt;"&gt;&lt;p style="margin: 0in 0in 0pt;"&gt;&lt;font face="Calibri"&gt;&lt;br&gt;&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p style="margin: 0in 0in 0pt;"&gt;&lt;p style="margin: 0in 0in 0pt;"&gt;&lt;p style="margin: 0in 0in 0pt;"&gt;&lt;font face="Calibri"&gt;&lt;br&gt;&lt;/font&gt;&lt;/p&gt;&lt;p style="background: white; margin: 0in 0in 0pt;"&gt;&lt;font face="Calibri"&gt;&lt;font face="Times New Roman" size="3"&gt;
 
-&lt;br&gt;&lt;/font&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/font&gt;&lt;p style="margin: 0in 0in 0pt;"&gt;&lt;p style="margin: 0in 0in 0pt;"&gt;&lt;p style="background: white; margin: 0in 0in 0pt;"&gt;&lt;br&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/span&gt;&lt;p style="margin: 0in 0in 0pt;"&gt;&lt;p style="margin: 0in 0in 0pt;"&gt;&lt;br&gt;&lt;/p&gt;&lt;/p&gt;&lt;/font&gt;&lt;p style="margin: 0in 0in 0pt;"&gt;&lt;br&gt;&lt;/p&gt;&lt;p style="margin: 0in 0in 0pt;"&gt;&lt;br&gt;&lt;/p&gt;&lt;p style="background: white; margin: 0in 0in 0pt;"&gt;&lt;br&gt;&lt;/p&gt;&lt;p style="background: white; margin: 0in 0in 0pt;"&gt;&lt;b&gt;&lt;span style="color: black; font-size: 14pt;"&gt;&lt;font face="Calibri"&gt;&lt;br&gt;&lt;/font&gt;&lt;/span&gt;&lt;/b&gt;&lt;/p&gt;&lt;font face="Times New Roman" size="3"&gt;
+&lt;br&gt;&lt;/font&gt;&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p style="margin: 0in 0in 0pt;"&gt;&lt;p style="margin: 0in 0in 0pt;"&gt;&lt;p style="background: white; margin: 0in 0in 0pt;"&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p style="margin: 0in 0in 0pt;"&gt;&lt;p style="margin: 0in 0in 0pt;"&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;/font&gt;&lt;p style="margin: 0in 0in 0pt;"&gt;&lt;br&gt;&lt;/p&gt;&lt;p style="margin: 0in 0in 0pt;"&gt;&lt;br&gt;&lt;/p&gt;&lt;p style="background: white; margin: 0in 0in 0pt;"&gt;&lt;br&gt;&lt;/p&gt;&lt;p style="background: white; margin: 0in 0in 0pt;"&gt;&lt;b&gt;&lt;span style="color: black; font-size: 14pt;"&gt;&lt;font face="Calibri"&gt;&lt;br&gt;&lt;/font&gt;&lt;/span&gt;&lt;/b&gt;&lt;/p&gt;&lt;font face="Times New Roman" size="3"&gt;
 
-&lt;/font&gt;&lt;/body&gt;&lt;/body&gt;
+&lt;/font&gt;
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>04/12/2018</Date>
-    <Time> 9:00PM</Time>
+    <Time>10:36PM</Time>
   </line>
   <line>
     <name>Montauk</name>
