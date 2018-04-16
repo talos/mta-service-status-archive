@@ -1,8 +1,15 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>DELAYS</status>
+    <status>SERVICE CHANGE</status>
     <text>
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;04/16/2018&amp;nbsp;10:24AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  Northbound [1] trains are bypassing &lt;STRONG&gt;145 St&lt;/STRONG&gt; because of excess water entering the station.
+                &lt;br/&gt;&lt;br/&gt;
+              
                     &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
                     &amp;nbsp;Posted:&amp;nbsp;04/16/2018&amp;nbsp; 8:45AM
@@ -11,7 +18,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>04/16/2018</Date>
-    <Time> 8:45AM</Time>
+    <Time>10:24AM</Time>
   </line>
   <line>
     <name>456</name>
@@ -60,11 +67,6 @@
                   &lt;P&gt;Some northbound [F] and Forest Hills-bound [M] trains are running express from &lt;STRONG&gt;W 4 St-Washington Sq&lt;/STRONG&gt; to &lt;STRONG&gt;47-50 Sts-Rockefeller Ctr&lt;/STRONG&gt; because of signal problems at &lt;STRONG&gt;34 St-Herald Sq&lt;/STRONG&gt;.&lt;/P&gt;
 &lt;P&gt;Expect delays on [B], [D], [F] and [M] trains.&lt;/P&gt;
                 &lt;br/&gt;&lt;br/&gt;
-              
-                    &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
-                    &lt;br/&gt;
-                  &lt;a class="plannedWorkDetailLink" onclick=ShowHide(185675);&gt;&lt;b&gt;&lt;i&gt;EQUIPMENT TESTING&lt;/i&gt;&lt;br clear=left&gt;[B] Brighton Beach-bound trains run local from Prospect Park to Kings Hwy&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 185675 class="plannedWorkDetail" &gt;&lt;/b&gt;Days, 10 AM to 3:30 PM, Mon to Thu, until May 10 &lt;br&gt;&lt;br&gt;&amp;bull; Please allow additional travel time.&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
-                &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>04/16/2018</Date>
     <Time>10:20AM</Time>
@@ -107,7 +109,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>04/16/2018</Date>
-    <Time>10:12AM</Time>
+    <Time>10:23AM</Time>
   </line>
   <line>
     <name>SIR</name>
@@ -238,7 +240,7 @@
               &lt;br/&gt;
             </text>
     <Date>04/16/2018</Date>
-    <Time>10:12AM</Time>
+    <Time>10:23AM</Time>
   </line>
   <line>
     <name>Q1 - Q113</name>
