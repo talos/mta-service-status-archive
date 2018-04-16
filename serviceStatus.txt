@@ -29,22 +29,43 @@
   </line>
   <line>
     <name>7</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>SERVICE CHANGE</status>
+    <text>
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;04/16/2018&amp;nbsp;10:56AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  Main St-bound [7] trains are running express from &lt;STRONG&gt;74 St-Broadway&lt;/STRONG&gt; to &lt;STRONG&gt;Mets-Willets Point&lt;/STRONG&gt; because of signal problems at &lt;STRONG&gt;Junction Blvd.&lt;/STRONG&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>04/16/2018</Date>
+    <Time>10:56AM</Time>
   </line>
   <line>
     <name>ACE</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>DELAYS</status>
+    <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;04/16/2018&amp;nbsp;10:57AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  Northbound [A] and [D] trains are running with delays because of signal problems at &lt;STRONG&gt;135 St&lt;/STRONG&gt;.
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>04/16/2018</Date>
+    <Time>10:57AM</Time>
   </line>
   <line>
     <name>BDFM</name>
     <status>DELAYS</status>
     <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;04/16/2018&amp;nbsp;10:57AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  Northbound [A] and [D] trains are running with delays because of signal problems at &lt;STRONG&gt;135 St&lt;/STRONG&gt;.
+                &lt;br/&gt;&lt;br/&gt;
+              
                     &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
                     &amp;nbsp;Posted:&amp;nbsp;04/16/2018&amp;nbsp;10:47AM
@@ -71,7 +92,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>04/16/2018</Date>
-    <Time>10:47AM</Time>
+    <Time>10:57AM</Time>
   </line>
   <line>
     <name>G</name>
@@ -675,17 +696,10 @@
   </line>
   <line>
     <name>Port Jefferson</name>
-    <status>DELAYS</status>
-    <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;04/16/2018&amp;nbsp;10:25AM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  The 9:35AM train from Penn due Huntington at 10:45AM is operating 11 minutes late at this time.
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>04/16/2018</Date>
-    <Time>10:25AM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>Port Washington</name>
