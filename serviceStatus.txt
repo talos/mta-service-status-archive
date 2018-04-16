@@ -1,24 +1,24 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>SERVICE CHANGE</status>
+    <status>DELAYS</status>
     <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;04/16/2018&amp;nbsp;10:48AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  Southbound [1] trains are running with delays because of signal problems at &lt;STRONG&gt;79 St&lt;/STRONG&gt;.
+                &lt;br/&gt;&lt;br/&gt;
+              
                     &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
                     &amp;nbsp;Posted:&amp;nbsp;04/16/2018&amp;nbsp;10:24AM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
                   Northbound [1] trains are bypassing &lt;STRONG&gt;145 St&lt;/STRONG&gt; because of excess water entering the station.
                 &lt;br/&gt;&lt;br/&gt;
-              
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;04/16/2018&amp;nbsp; 8:45AM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  Southbound [1] trains are running with delays because of signal problems at &lt;STRONG&gt;79 St&lt;/STRONG&gt;.
-                &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>04/16/2018</Date>
-    <Time>10:24AM</Time>
+    <Time>10:48AM</Time>
   </line>
   <line>
     <name>456</name>
@@ -43,8 +43,16 @@
   </line>
   <line>
     <name>BDFM</name>
-    <status>SERVICE CHANGE</status>
+    <status>DELAYS</status>
     <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;04/16/2018&amp;nbsp;10:47AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;P&gt;Northbound [F] trains are running with delays because of signal problems at &lt;STRONG&gt;Avenue X&lt;/STRONG&gt;.&lt;/P&gt;
+&lt;P&gt;Our crews are on the scene making repairs and we hope to resume regular service as soon as possible.&lt;/P&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              
                     &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
                     &amp;nbsp;Posted:&amp;nbsp;04/16/2018&amp;nbsp;10:33AM
@@ -52,14 +60,6 @@
                   &lt;P&gt;Some northbound [F] trains are running express from &lt;STRONG&gt;W 4 St-Washington Sq &lt;/STRONG&gt;to &lt;STRONG&gt;47-50 Sts-Rockefeller Ctr&lt;/STRONG&gt;.&lt;/P&gt;
 &lt;P&gt;Forest Hills-bound [M] trains are bypassing &lt;STRONG&gt;42 St-Bryant Park.&lt;/STRONG&gt;&lt;/P&gt;
 &lt;P&gt;These service changes are because of excess water entering the station.&lt;/P&gt;
-                &lt;br/&gt;&lt;br/&gt;
-              
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;04/16/2018&amp;nbsp; 9:58AM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  &lt;P&gt;Northbound [F] trains are running with delays because of signal problems at &lt;STRONG&gt;Avenue X&lt;/STRONG&gt;.&lt;/P&gt;
-&lt;P&gt;Our crews are on the scene making repairs and we hope to resume regular service as soon as possible.&lt;/P&gt;
                 &lt;br/&gt;&lt;br/&gt;
               
                     &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
@@ -71,7 +71,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>04/16/2018</Date>
-    <Time>10:33AM</Time>
+    <Time>10:47AM</Time>
   </line>
   <line>
     <name>G</name>
@@ -126,14 +126,14 @@
     <text>
                     &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;04/16/2018&amp;nbsp; 8:58AM
+                    &amp;nbsp;Posted:&amp;nbsp;04/16/2018&amp;nbsp;10:48AM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
                   &lt;P&gt;There is no [SIR] train service between &lt;STRONG&gt;Tottenville &lt;/STRONG&gt;and &lt;STRONG&gt;Huguenot&lt;/STRONG&gt; in both directions because of flooding at &lt;STRONG&gt;Richmond Valley.&lt;/STRONG&gt;&lt;/P&gt;
 &lt;P&gt;We're providing alternate [SB] shuttle bus service, and our crews are on-site to monitor conditions. We'll resume service as soon as it's safe to do so.&lt;/P&gt;
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>04/16/2018</Date>
-    <Time> 8:58AM</Time>
+    <Time>10:48AM</Time>
   </line>
 </subway><bus>
   <line>
