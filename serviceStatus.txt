@@ -1,24 +1,24 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
-  </line>
-  <line>
-    <name>456</name>
     <status>DELAYS</status>
     <text>
                     &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;04/16/2018&amp;nbsp; 8:33AM
+                    &amp;nbsp;Posted:&amp;nbsp;04/16/2018&amp;nbsp; 8:45AM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  [4] train service has resumed following earlier signal problems at &lt;STRONG&gt;Bedford Pk Blvd-Lehman College.&lt;/STRONG&gt;
+                  Southbound [1] trains are running with delays because of signal problems at &lt;STRONG&gt;79 St&lt;/STRONG&gt;.
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>04/16/2018</Date>
-    <Time> 8:33AM</Time>
+    <Time> 8:45AM</Time>
+  </line>
+  <line>
+    <name>456</name>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>7</name>
