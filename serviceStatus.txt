@@ -22,31 +22,17 @@
   </line>
   <line>
     <name>ACE</name>
-    <status>DELAYS</status>
-    <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;04/17/2018&amp;nbsp; 5:24AM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  [E][F][M][R] train service has resumed following earlier unplanned rail replacement at &lt;STRONG&gt;Grand Ave-Newtown.&lt;/STRONG&gt;
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>04/17/2018</Date>
-    <Time> 5:24AM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>BDFM</name>
-    <status>DELAYS</status>
-    <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;04/17/2018&amp;nbsp; 5:24AM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  [E][F][M][R] train service has resumed following earlier unplanned rail replacement at &lt;STRONG&gt;Grand Ave-Newtown.&lt;/STRONG&gt;
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>04/17/2018</Date>
-    <Time> 5:24AM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>G</name>
@@ -64,31 +50,17 @@
   </line>
   <line>
     <name>L</name>
-    <status>DELAYS</status>
-    <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;04/17/2018&amp;nbsp; 5:26AM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  [L] train service has resumed following earlier unplanned track maintenance at &lt;STRONG&gt;14 St-Union Square.&lt;/STRONG&gt;
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>04/17/2018</Date>
-    <Time> 5:26AM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>NQR</name>
-    <status>DELAYS</status>
-    <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;04/17/2018&amp;nbsp; 5:24AM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  [E][F][M][R] train service has resumed following earlier unplanned rail replacement at &lt;STRONG&gt;Grand Ave-Newtown.&lt;/STRONG&gt;
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>04/17/2018</Date>
-    <Time> 5:24AM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>S</name>
@@ -105,7 +77,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>04/17/2018</Date>
-    <Time> 5:32AM</Time>
+    <Time> 5:44AM</Time>
   </line>
   <line>
     <name>SIR</name>
@@ -126,7 +98,7 @@
               &lt;br/&gt;
             </text>
     <Date>04/17/2018</Date>
-    <Time> 5:32AM</Time>
+    <Time> 5:44AM</Time>
   </line>
   <line>
     <name>B100 - B103</name>
@@ -153,7 +125,7 @@
               &lt;br/&gt;
             </text>
     <Date>04/17/2018</Date>
-    <Time> 5:32AM</Time>
+    <Time> 5:44AM</Time>
   </line>
   <line>
     <name>BXM1 - BXM18</name>
@@ -168,12 +140,18 @@
     <text>
                   &lt;span class="TitlePlannedWork" &gt;Planned Detour&lt;/span&gt;
                   &lt;br/&gt;
+                &lt;a class="plannedWorkDetailLink" onclick=ShowHide(184776);&gt;&lt;b&gt;M3 buses rerouted from St Nicholas Av between 145 St and 155 St&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 184776 class="plannedWorkDetail" &gt;&lt;/b&gt;Until further notice&lt;br&gt;&lt;br&gt;Due to debris removal, buses run via &lt;b&gt;Amsterdam Av &lt;/b&gt;making corresponding stops in both directions.&lt;br&gt;&lt;br&gt;&lt;b&gt;&lt;i&gt;&lt;a style="cursor:pointer; text-decoration:underline;" onclick=ShowHide(1847760);&gt;Show Reroute Details&lt;/a&gt;&lt;/i&gt;&lt;/b&gt;&lt;br&gt;&lt;div id="1847760"; style="display:none;"&gt;&lt;b&gt;Northbound&lt;br&gt;&lt;/b&gt;Via St Nicholas Av&lt;br&gt;Left on 145 St&lt;br&gt;Right on Amsterdam Av then regular route&lt;br&gt;&lt;br&gt;&lt;b&gt;Southbound&lt;br&gt;&lt;/b&gt;Via Amsterdam Av&lt;br&gt;Left on 145 St&lt;br&gt;Right on St Nicholas Av then regular route&lt;/div&gt;&lt;br&gt;&lt;b&gt;                              [TP]&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
+                  &lt;span class="TitlePlannedWork" &gt;Planned Detour&lt;/span&gt;
+                  &lt;br/&gt;
                 &lt;a class="plannedWorkDetailLink" onclick=ShowHide(77041);&gt;&lt;b&gt;M2/M2&lt;/b&gt; LTD&lt;b&gt; and M3 - Southbound stop on Broadway at 168 St temporarily relocated&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 77041 class="plannedWorkDetail" &gt;&lt;/b&gt;Until further notice&lt;br&gt;&lt;br&gt;Due to construction, please follow directional signage to nearby temporary stops &lt;b&gt;on 168 St&lt;/b&gt; at Audubon Av&lt;br clear =left&gt;(M2/M2 LTD) and &lt;b&gt;on 168 St &lt;/b&gt;at Broadway (M3).&lt;br&gt;&lt;br&gt;&lt;b&gt;Reminder&lt;/b&gt;: &lt;a href=http://web.mta.info/nyct/bus/schedule/manh/m002cur.pdf target=_blank&gt;&lt;font color=#0000FF&gt;M2 LTD&lt;/font&gt;&lt;a/&gt; and &lt;a href=http://web.mta.info/nyct/bus/schedule/manh/m003cur.pdf target=_blank&gt;&lt;font color=#0000FF&gt;M3&lt;/font&gt;&lt;a/&gt; buses do not operate overnight.&lt;br&gt;&lt;b&gt;                              [TP]&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
               &lt;br/&gt;
               &lt;br/&gt;
             </text>
     <Date>04/17/2018</Date>
-    <Time> 5:32AM</Time>
+    <Time> 5:44AM</Time>
   </line>
   <line>
     <name>Q1 - Q113</name>
@@ -204,7 +182,7 @@
               &lt;br/&gt;
             </text>
     <Date>04/17/2018</Date>
-    <Time> 5:32AM</Time>
+    <Time> 5:44AM</Time>
   </line>
   <line>
     <name>QM1 - QM44</name>
@@ -223,7 +201,7 @@
               &lt;br/&gt;
             </text>
     <Date>04/17/2018</Date>
-    <Time> 5:32AM</Time>
+    <Time> 5:44AM</Time>
   </line>
   <line>
     <name>S40 - S98</name>
@@ -236,7 +214,7 @@
               &lt;br/&gt;
             </text>
     <Date>04/17/2018</Date>
-    <Time> 5:32AM</Time>
+    <Time> 5:44AM</Time>
   </line>
   <line>
     <name>x1 - x68</name>
@@ -249,7 +227,7 @@
               &lt;br/&gt;
             </text>
     <Date>04/17/2018</Date>
-    <Time> 5:32AM</Time>
+    <Time> 5:44AM</Time>
   </line>
 </bus><BT>
   <line>
@@ -369,6 +347,13 @@
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
                   LIRR customers can anticipate delays, cancellations and diversions this morning due to Amtrak switch trouble at Penn Station. NYC Transit is cross-honoring tickets for the E train at Jamaica (Sutphin/Archer), Kew Gardens (Union Turnpike) and Forest Hills (71st Avenue); at Atlantic Terminal and 34th Street for the 2/3 train; and on the 7 train at Woodside (61st).
                 &lt;br/&gt;&lt;br/&gt;
+              
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;04/17/2018&amp;nbsp; 5:46AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;ul&gt;&lt;li&gt;&lt;span&gt;The 8:21AM train from Far Rockaway due Penn at 9:17AM is canceled at Jamaica today.Customers headed to Penn Station can transfer at Jamaica for the next westbound train to Penn.&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;
+                &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>04/17/2018</Date>
     <Time> 5:41AM</Time>
@@ -382,6 +367,13 @@
                     &amp;nbsp;Posted:&amp;nbsp;04/17/2018&amp;nbsp; 5:41AM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
                   LIRR customers can anticipate delays, cancellations and diversions this morning due to Amtrak switch trouble at Penn Station. NYC Transit is cross-honoring tickets for the E train at Jamaica (Sutphin/Archer), Kew Gardens (Union Turnpike) and Forest Hills (71st Avenue); at Atlantic Terminal and 34th Street for the 2/3 train; and on the 7 train at Woodside (61st).
+                &lt;br/&gt;&lt;br/&gt;
+              
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;04/17/2018&amp;nbsp; 5:44AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;ul&gt;&lt;li&gt;&lt;span&gt;The 6:58AM train from Hempstead due Penn at 7:52AM is canceled in Jamaica today. Customers headed to Penn Station can transfer at Jamaica for the next westbound train to Penn.&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;The 7:12AM train from Hempstead due Penn at 8:03AM is canceled in Jamaica today. Customers headed to Penn Station can transfer at Jamaica for the next westbound train to Penn.&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>04/17/2018</Date>
@@ -473,6 +465,13 @@
                     &amp;nbsp;Posted:&amp;nbsp;04/17/2018&amp;nbsp; 5:41AM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
                   LIRR customers can anticipate delays, cancellations and diversions this morning due to Amtrak switch trouble at Penn Station. NYC Transit is cross-honoring tickets for the E train at Jamaica (Sutphin/Archer), Kew Gardens (Union Turnpike) and Forest Hills (71st Avenue); at Atlantic Terminal and 34th Street for the 2/3 train; and on the 7 train at Woodside (61st).
+                &lt;br/&gt;&lt;br/&gt;
+              
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;04/17/2018&amp;nbsp; 5:45AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;ul&gt;&lt;li&gt;&lt;span&gt;The 7:36AM train from West Hempstead due Penn at 8:29AM is diverted to Hunterspoint Ave. today. Customers headed to Penn Station can transfer at Jamaica for the next westbound train to Penn.&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>04/17/2018</Date>
