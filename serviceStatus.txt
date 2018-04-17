@@ -1,29 +1,15 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>DELAYS</status>
-    <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;04/17/2018&amp;nbsp; 1:25PM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  [2] and [5] train service has resumed following earlier track maintenance at &lt;STRONG&gt;Atlantic Av-Barclays Ctr &lt;/STRONG&gt;and &lt;STRONG&gt;E 180 St.&lt;/STRONG&gt;
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>04/17/2018</Date>
-    <Time> 1:25PM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>456</name>
-    <status>DELAYS</status>
+    <status>PLANNED WORK</status>
     <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;04/17/2018&amp;nbsp; 1:25PM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  [2] and [5] train service has resumed following earlier track maintenance at &lt;STRONG&gt;Atlantic Av-Barclays Ctr &lt;/STRONG&gt;and &lt;STRONG&gt;E 180 St.&lt;/STRONG&gt;
-                &lt;br/&gt;&lt;br/&gt;
-              
                     &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
                     &lt;br/&gt;
                   &lt;a class="plannedWorkDetailLink" onclick=ShowHide(183709);&gt;&lt;b&gt;&lt;i&gt;TRACK MAINTENANCE&lt;/i&gt;&lt;br clear=left&gt;[6D] Pelham Bay Park-bound trains run local from 3 Av-138 St to Parkchester&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 183709 class="plannedWorkDetail" &gt;&lt;/b&gt;Days, 1 PM to 3:30 PM, Tue to Fri, Apr 17 - 20&lt;br&gt;&lt;br&gt;&amp;bull; Please allow additional travel time.&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
@@ -40,7 +26,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>04/17/2018</Date>
-    <Time> 1:25PM</Time>
+    <Time> 1:33PM</Time>
   </line>
   <line>
     <name>7</name>
@@ -65,16 +51,13 @@
   </line>
   <line>
     <name>BDFM</name>
-    <status>SERVICE CHANGE</status>
+    <status>DELAYS</status>
     <text>
-                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;04/17/2018&amp;nbsp;12:38PM
+                    &amp;nbsp;Posted:&amp;nbsp;04/17/2018&amp;nbsp; 1:42PM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  &lt;P&gt;Northbound [F] trains are running express from &lt;STRONG&gt;W 4 St-Washington Sq&lt;/STRONG&gt; to &lt;STRONG&gt;34 St-Herald Sq&lt;/STRONG&gt;.&lt;/P&gt;
-&lt;P&gt;There is no [M] train service between &lt;STRONG&gt;Forest Hills-71 Av&lt;/STRONG&gt; and &lt;STRONG&gt;Essex St&lt;/STRONG&gt; in both directions.&lt;/P&gt;
-&lt;P&gt;These service changes are because of a broken rail at &lt;STRONG&gt;34 St-Herald Sq&lt;/STRONG&gt;.&lt;/P&gt;
-&lt;P&gt;Expect delays in [B], [D], [F] and [M] trains.&lt;/P&gt;
+                  [B], [D] and [F] train service has resumed following an earlier incident involving a broken rail at &lt;STRONG&gt;34 St-Herald Sq.&lt;/STRONG&gt;
                 &lt;br/&gt;&lt;br/&gt;
               
                     &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
@@ -93,7 +76,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>04/17/2018</Date>
-    <Time>12:38PM</Time>
+    <Time> 1:42PM</Time>
   </line>
   <line>
     <name>G</name>
