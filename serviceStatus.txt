@@ -1,18 +1,13 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>SERVICE CHANGE</status>
+    <status>DELAYS</status>
     <text>
-                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;04/16/2018&amp;nbsp;10:04PM
+                    &amp;nbsp;Posted:&amp;nbsp;04/16/2018&amp;nbsp;10:10PM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  &lt;P&gt;Some northbound [1] trains end at &lt;STRONG&gt;96 St&lt;/STRONG&gt;. &lt;/P&gt;
-&lt;P&gt;Some southbound [1] trains end at &lt;STRONG&gt;168 St&lt;/STRONG&gt;. &lt;/P&gt;
-&lt;P&gt;[2] and [3] trains are running local between &lt;STRONG&gt;96 St&lt;/STRONG&gt; and &lt;STRONG&gt;Chambers St&lt;/STRONG&gt; in both directions.&lt;/P&gt;
-&lt;P&gt;Expect delays in [1], [2] and [3] train service. &lt;/P&gt;
-&lt;P&gt;These service changes are because of switch problems at &lt;STRONG&gt;137 St-City College&lt;/STRONG&gt;. &lt;/P&gt;
-&lt;P&gt; &lt;/P&gt;
+                  [1][2][3] train service has resumed following earlier switch problems at &lt;STRONG&gt;137 St-City College.&lt;/STRONG&gt;
                 &lt;br/&gt;&lt;br/&gt;
               
                     &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
@@ -26,7 +21,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>04/16/2018</Date>
-    <Time>10:04PM</Time>
+    <Time>10:10PM</Time>
   </line>
   <line>
     <name>456</name>
