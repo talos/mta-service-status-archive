@@ -8,10 +8,17 @@
   </line>
   <line>
     <name>456</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>DELAYS</status>
+    <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;04/18/2018&amp;nbsp; 4:34PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  Southbound [4], [5] and [6] trains are running with delays because of track maintenance at &lt;STRONG&gt;14 St-Union Sq&lt;/STRONG&gt;.
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>04/18/2018</Date>
+    <Time> 4:34PM</Time>
   </line>
   <line>
     <name>7</name>
@@ -91,7 +98,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>04/18/2018</Date>
-    <Time> 4:24PM</Time>
+    <Time> 4:34PM</Time>
   </line>
   <line>
     <name>SIR</name>
@@ -231,18 +238,8 @@
   </line>
   <line>
     <name>M1 - M116</name>
-    <status>DELAYS</status>
+    <status>SERVICE CHANGE</status>
     <text>
-                  &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                  &lt;span class="DateStyle"&gt;
-                  &amp;nbsp;Posted:&amp;nbsp;04/18/2018&amp;nbsp; 4:22PM
-                  &lt;/span&gt;
-                  &lt;br/&gt;
-                  &lt;br/&gt;
-                &lt;STRONG&gt;M31&lt;/STRONG&gt; and &lt;STRONG&gt;M86-SBS&lt;/STRONG&gt; bus service has resumed following earlier Con Ed work on 91 St.
-              &lt;br/&gt;
-              &lt;br/&gt;
-            
                   &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
                   &lt;span class="DateStyle"&gt;
                   &amp;nbsp;Posted:&amp;nbsp;04/18/2018&amp;nbsp; 4:02PM
@@ -286,7 +283,7 @@
               &lt;br/&gt;
             </text>
     <Date>04/18/2018</Date>
-    <Time> 4:22PM</Time>
+    <Time> 4:02PM</Time>
   </line>
   <line>
     <name>Q1 - Q113</name>
@@ -372,7 +369,7 @@
               &lt;br/&gt;
             </text>
     <Date>04/18/2018</Date>
-    <Time> 4:24PM</Time>
+    <Time> 4:34PM</Time>
   </line>
   <line>
     <name>S40 - S98</name>
@@ -391,7 +388,7 @@
               &lt;br/&gt;
             </text>
     <Date>04/18/2018</Date>
-    <Time> 4:24PM</Time>
+    <Time> 4:34PM</Time>
   </line>
   <line>
     <name>x1 - x68</name>
