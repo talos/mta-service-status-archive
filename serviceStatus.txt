@@ -1,29 +1,15 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>DELAYS</status>
-    <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;04/18/2018&amp;nbsp;11:39AM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  [2] and [5] train service has resumed following an earlier incident involving NYPD activity at &lt;STRONG&gt;Sterling St&lt;/STRONG&gt;.
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>04/18/2018</Date>
-    <Time>11:39AM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>456</name>
-    <status>DELAYS</status>
+    <status>PLANNED WORK</status>
     <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;04/18/2018&amp;nbsp;11:39AM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  [2] and [5] train service has resumed following an earlier incident involving NYPD activity at &lt;STRONG&gt;Sterling St&lt;/STRONG&gt;.
-                &lt;br/&gt;&lt;br/&gt;
-              
                     &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
                     &lt;br/&gt;
                   &lt;a class="plannedWorkDetailLink" onclick=ShowHide(184074);&gt;&lt;b&gt;&lt;i&gt;TRACK MAINTENANCE&lt;/i&gt;&lt;br clear=left&gt;[6D] Brooklyn Bridge-bound trains run local from Parkchester to 3 Av-138 St&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 184074 class="plannedWorkDetail" &gt;&lt;/b&gt;Days, 9:45 AM to 1 PM, Tue to Fri, Apr 17 - 20  &amp;bull;  Apr 24 - 27  &amp;bull;  May 1 - 4&lt;br&gt;&lt;br&gt;&amp;bull; Please allow additional travel time.&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
@@ -40,7 +26,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>04/18/2018</Date>
-    <Time>11:39AM</Time>
+    <Time>11:46AM</Time>
   </line>
   <line>
     <name>7</name>
@@ -530,9 +516,9 @@
     <text>
                     &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;04/18/2018&amp;nbsp;11:03AM
+                    &amp;nbsp;Posted:&amp;nbsp;04/18/2018&amp;nbsp;11:51AM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  &lt;b&gt;The 11:36AM westbound train from Port Jefferson will originate in Smithtown at 11:57AM. Starting then, all westbound trains will originate at Smithtown and all eastbound trains will terminate at Smithtown. Bus service will be provided between Smithtown and Port Jefferson. Regular service is anticipated to be restored in time for the evening rush.&lt;/b&gt;
+                  &lt;b&gt;Due to a track condition east of Smithtown, all westbound Port Jefferson trains originate at Smithtown and all eastbound Port Jefferson trains will terminate at Smithtown. Bus service is being provided between Smithtown and Port Jefferson. Regular service is anticipated to be restored in time for the evening rush.&lt;/b&gt;
                 &lt;br/&gt;&lt;br/&gt;
               
                     &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
@@ -564,7 +550,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>04/18/2018</Date>
-    <Time>11:03AM</Time>
+    <Time>11:51AM</Time>
   </line>
   <line>
     <name>Port Washington</name>
