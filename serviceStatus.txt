@@ -1,17 +1,10 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>DELAYS</status>
-    <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;04/18/2018&amp;nbsp; 3:23PM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  [3] train service has resumed following an earlier incident involving an unruly passenger at &lt;STRONG&gt;Harlem-148 St&lt;/STRONG&gt;
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>04/18/2018</Date>
-    <Time> 3:23PM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>456</name>
@@ -223,10 +216,20 @@
   </line>
   <line>
     <name>BM1 - BM5</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>DELAYS</status>
+    <text>
+                  &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                  &lt;span class="DateStyle"&gt;
+                  &amp;nbsp;Posted:&amp;nbsp;04/18/2018&amp;nbsp; 3:36PM
+                  &lt;/span&gt;
+                  &lt;br/&gt;
+                  &lt;br/&gt;
+                &lt;P&gt;&lt;STRONG&gt;BM1, BM2, BM3, BM4, X1, X2, X3, X4, X5, X7, X8, X9, X10, X11, X12,X14, X15, X17, X19, X27, X28, X37, X38&lt;/STRONG&gt; and &lt;STRONG&gt;X42&lt;/STRONG&gt; buses are running with delays in both directions because of  traffic conditions on the Gowanus Expy between Prospect Expwy Interchange and BQE. &lt;/P&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            </text>
+    <Date>04/18/2018</Date>
+    <Time> 3:36PM</Time>
   </line>
   <line>
     <name>BX1 - BX55</name>
@@ -396,8 +399,18 @@
   </line>
   <line>
     <name>x1 - x68</name>
-    <status>PLANNED WORK</status>
+    <status>DELAYS</status>
     <text>
+                  &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                  &lt;span class="DateStyle"&gt;
+                  &amp;nbsp;Posted:&amp;nbsp;04/18/2018&amp;nbsp; 3:36PM
+                  &lt;/span&gt;
+                  &lt;br/&gt;
+                  &lt;br/&gt;
+                &lt;P&gt;&lt;STRONG&gt;BM1, BM2, BM3, BM4, X1, X2, X3, X4, X5, X7, X8, X9, X10, X11, X12,X14, X15, X17, X19, X27, X28, X37, X38&lt;/STRONG&gt; and &lt;STRONG&gt;X42&lt;/STRONG&gt; buses are running with delays in both directions because of  traffic conditions on the Gowanus Expy between Prospect Expwy Interchange and BQE. &lt;/P&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
                   &lt;span class="TitlePlannedWork" &gt;Planned Detour&lt;/span&gt;
                   &lt;br/&gt;
                 &lt;a class="plannedWorkDetailLink" onclick=ShowHide(184486);&gt;&lt;b&gt;S54, X7 and X8 buses rerouted between Hylan Blvd at Armstrong Av and Nelson Av at Amboy Rd&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 184486 class="plannedWorkDetail" &gt;&lt;/b&gt;Until further notice&lt;br&gt;&lt;br&gt;Due to construction:&lt;br&gt;&lt;br&gt;&lt;b&gt;Northbound&lt;br&gt;&lt;/b&gt;&amp;bull;  The Nelson Av at Amboy Rd bus stop will be made on Amboy Rd at Nelson Av.&lt;br&gt;&lt;br&gt;Buses make corresponding stops along the detoured route.&lt;br&gt;&lt;br&gt;&lt;b&gt;&lt;i&gt;&lt;a style="cursor:pointer; text-decoration:underline;" onclick=ShowHide(1844860);&gt;Show Reroute Details&lt;/a&gt;&lt;/i&gt;&lt;/b&gt;&lt;br&gt;&lt;div id="1844860"; style="display:none;"&gt;&lt;b&gt;S54 Northbound&lt;br&gt;&lt;/b&gt;Via Hylan Blvd&lt;br&gt;Left on Armstrong Av&lt;br&gt;Right on Amboy Rd&lt;br&gt;Left on Nelson Av then regular route&lt;br&gt;&lt;br&gt;&lt;b&gt;S54 Southbound&lt;br&gt;&lt;/b&gt;Via Nelson Av&lt;br&gt;Right on Amboy Rd&lt;br&gt;Left on Armstrong Av&lt;br&gt;Right on Hylan Blvd then regular route&lt;br&gt;&lt;br&gt;&lt;b&gt;X7 and X8 Northbound&lt;br&gt;&lt;/b&gt;Via Nelson Av&lt;br&gt;Right on Amboy Rd&lt;br&gt;Left on Armstrong Av&lt;br&gt;Left on Hylan Blvd then regular route&lt;br&gt;&lt;br&gt;&lt;b&gt;X7 and X8 Southbound&lt;br&gt;&lt;/b&gt;Via Hylan Blvd&lt;br&gt;Continue on Hylan Blvd&lt;br&gt;Right on Armstrong Av&lt;br&gt;Right on Amboy Rd&lt;br&gt;Left on Nelson Av then regular route&lt;/div&gt;&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
@@ -405,7 +418,7 @@
               &lt;br/&gt;
             </text>
     <Date>04/18/2018</Date>
-    <Time> 3:25PM</Time>
+    <Time> 3:36PM</Time>
   </line>
 </bus><BT>
   <line>
@@ -535,8 +548,15 @@
   </line>
   <line>
     <name>Port Jefferson</name>
-    <status>SERVICE CHANGE</status>
+    <status>DELAYS</status>
     <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;04/18/2018&amp;nbsp; 3:36PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  The 2:52PM train from Huntington due Port Jefferson at 3:38PM is operating 12 minutes late due to earlier trackwork.
+                &lt;br/&gt;&lt;br/&gt;
+              
                     &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
                     &amp;nbsp;Posted:&amp;nbsp;04/17/2018&amp;nbsp;10:09PM
@@ -565,8 +585,8 @@
 &lt;P&gt;&lt;/SPAN&gt; &lt;/P&gt;
                 &lt;br/&gt;&lt;br/&gt;
               </text>
-    <Date>04/17/2018</Date>
-    <Time>10:09PM</Time>
+    <Date>04/18/2018</Date>
+    <Time> 3:36PM</Time>
   </line>
   <line>
     <name>Port Washington</name>
