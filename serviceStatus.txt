@@ -1,10 +1,20 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>PLANNED WORK</status>
+    <text>
+                    &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
+                    &lt;br/&gt;
+                  &lt;a class="plannedWorkDetailLink" onclick=ShowHide(184100);&gt;&lt;b&gt;&lt;i&gt;TRACK MAINTENANCE&lt;/i&gt;&lt;br clear=left&gt;[1] Van Cortlandt Park-bound trains skip Franklin, Canal, Houston, Christopher, 18, 23 and 28 Sts&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 184100 class="plannedWorkDetail" &gt;&lt;/b&gt;Nights, 9:45 PM to 5 AM, Mon to Fri, Apr 16 - 20&lt;br&gt;&lt;br&gt;For service &lt;i&gt;to&lt;/i&gt; these stations, take the [1] to 14 St or 34 St-Penn Station and transfer to a &lt;br&gt;downtown [1] or [2] &lt;i&gt;local&lt;/i&gt;.&lt;br&gt;&lt;br&gt;For service &lt;i&gt;from &lt;/i&gt;these stations, take the [1] or [2] to 14 St or Chambers St and transfer to a&lt;br&gt;Van Cortlandt Park-bound [1].&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              
+                    &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
+                    &lt;br/&gt;
+                  &lt;a class="plannedWorkDetailLink" onclick=ShowHide(184097);&gt;&lt;b&gt;&lt;i&gt;TRACK MAINTENANCE&lt;/i&gt;&lt;br clear=left&gt;[1] South Ferry-bound trains skip 86, 79, 66, 59 and 50 Sts&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 184097 class="plannedWorkDetail" &gt;&lt;/b&gt;Nights, 9:45 PM to 5 AM, Mon to Fri, Apr 16 - 20&lt;br&gt;&lt;br&gt;For service &lt;i&gt;to &lt;/i&gt;these stations, take the [1] to 72 St or Times Sq-42 St and transfer&lt;br&gt;to an uptown [1] or [2] &lt;i&gt;local&lt;/i&gt;.&lt;br&gt;&lt;br&gt;For service &lt;i&gt;from &lt;/i&gt;these stations, take the [1] or [2] to 72 St or 96 St and transfer&lt;br&gt;to a South Ferry-bound [1].&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>04/18/2018</Date>
+    <Time> 9:45PM</Time>
   </line>
   <line>
     <name>456</name>
@@ -12,11 +22,16 @@
     <text>
                     &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
                     &lt;br/&gt;
+                  &lt;a class="plannedWorkDetailLink" onclick=ShowHide(183702);&gt;&lt;b&gt;&lt;i&gt;TRACK REPLACEMENT&lt;/i&gt;&lt;br clear=left&gt;[6] Brooklyn Bridge-bound trains skip 116, 110, 103, 96, 77, 68 and 51 Sts&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 183702 class="plannedWorkDetail" &gt;&lt;/b&gt;Nights, 9:45 PM to 5 AM, Tue to Fri, Apr 17 - 20  &amp;bull;  Mon to Fri, Apr 23 - 27&lt;br&gt;&lt;br&gt;For service &lt;i&gt;to&lt;/i&gt; these stations, take the [6] to 59 St or Grand Central-42 St &lt;br&gt;and transfer to an uptown [4] &lt;i&gt;local&lt;/i&gt; or [6].&lt;br&gt;&lt;br&gt;For service &lt;i&gt;from&lt;/i&gt; these stations, take the [4] or [6] to 59 St or 125 St and transfer to a &lt;br&gt;Brooklyn Bridge-bound [6].&lt;br&gt;&lt;br&gt;&lt;b&gt;&lt;i&gt;Alternate travel note:&lt;br&gt;&lt;/b&gt;&lt;/i&gt;Transfer between uptown and downtown trains with &lt;a href=http://web.mta.info/metrocard/mcgtreng.htm#unlimited target=blank&gt;&lt;font color=#0000FF&gt;Unlimited Ride MetroCard&lt;/font&gt;&lt;/a&gt; at 86 St.&lt;br&gt;&lt;br&gt;&lt;table class=plannedworkTableStyle  border=1 cellspacing=1 cellpadding=5 rules=none frame=box&gt;&lt;td&gt;  [ad]  &lt;td&gt;&lt;font size=1&gt;This service change affects one or more ADA accessible stations. Please call 511 for help with planning &lt;br clear=left&gt;your trip. If you are deaf or hard of hearing, use your preferred relay service provider or the free 711 relay.  &lt;/font&gt;&lt;/table&gt;&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              
+                    &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
+                    &lt;br/&gt;
                   &lt;a class="plannedWorkDetailLink" onclick=ShowHide(183698);&gt;&lt;b&gt;&lt;i&gt;TRACK REPLACEMENT&lt;/i&gt;&lt;br clear=left&gt;[5] Service ends early between E 180 St and Bowling Green&lt;br clear=left&gt;[2] [4] trains provide alternate service&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 183698 class="plannedWorkDetail" &gt;&lt;/b&gt;Evenings, beginning 8:30 PM, Tue to Thu, Apr 17 - 19  &amp;bull;  Mon to Thu, Apr 23 - 26&lt;br&gt;&lt;br&gt;[5] service operates between &lt;b&gt;Dyre Av&lt;/b&gt; and &lt;b&gt;E 180 St&lt;/b&gt;.&lt;br&gt;&lt;br&gt;&lt;table class=plannedworkTableStyle  width=75%&gt;&lt;tr&gt;&lt;td&gt;&lt;font size=3&gt;&lt;b&gt;Travel Alternatives&lt;/b&gt;&lt;/font&gt;&lt;td align=right&gt;[TP]&lt;/table&gt;&lt;br&gt;&lt;/font&gt;&amp;bull; Transfer between [5] and [2] trains at E 180 St.&lt;br&gt;&amp;bull; Transfer between [2] and [4] trains at 149 St-Grand Concourse.&lt;br&gt;&lt;br&gt;&lt;b&gt;Reminder:&lt;/b&gt; &lt;a href=http://advisory.mtanyct.info/pdf_files/NightMap.pdf target=_blank&gt;&lt;font color=#0000FF&gt;Late Night&lt;/font&gt;&lt;/a&gt; [5] service operates as scheduled in the Bronx.&lt;br&gt;&lt;/font&gt;           &lt;br&gt;&lt;table class=plannedworkTableStyle  border=1 cellspacing=1 cellpadding=5 rules=none frame=box&gt;&lt;td&gt;  [ad]  &lt;td&gt;&lt;font size=1&gt;This service change affects one or more ADA accessible stations. Please call 511 for help with planning&lt;br&gt;your trip. If you are deaf or hard of hearing, use your preferred relay service provider or the free 711 relay.  &lt;/font&gt;&lt;/table&gt;&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>04/18/2018</Date>
-    <Time> 9:37PM</Time>
+    <Time> 9:45PM</Time>
   </line>
   <line>
     <name>7</name>
@@ -27,10 +42,20 @@
   </line>
   <line>
     <name>ACE</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>PLANNED WORK</status>
+    <text>
+                    &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
+                    &lt;br/&gt;
+                  &lt;a class="plannedWorkDetailLink" onclick=ShowHide(184463);&gt;&lt;b&gt;&lt;i&gt;TRACK MAINTENANCE&lt;/i&gt;&lt;br clear=left&gt;[C] Euclid Av-bound trains run express from Hoyt-Schermerhorn to Utica Av&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 184463 class="plannedWorkDetail" &gt;&lt;/b&gt;Evenings, 9:45 PM to 11 PM, Mon to Thu, Apr 16 - 19&lt;br&gt;&lt;br&gt;Trains stop at Nostrand Av.&lt;br&gt;&lt;br&gt;For service &lt;i&gt;to &lt;/i&gt;Lafayette, Clinton-Washington, Franklin, and Kingston-Throop Avs&lt;/font&gt;, &lt;br&gt;take the [C] to Utica Av and transfer to a 168 St-bound [C].&lt;br&gt;&lt;br&gt;For service &lt;i&gt;from &lt;/i&gt;these stations, take the [C] to Hoyt-Schermerhorn and transfer &lt;br&gt;to a Euclid Av-bound [C].&lt;br&gt;&lt;br&gt;&lt;b&gt;&lt;i&gt;Alternate travel note:&lt;br&gt;&lt;/b&gt;&lt;/i&gt;Transfer between trains with &lt;a href=http://web.mta.info/metrocard/mcgtreng.htm#unlimited target=_blank&gt;&lt;font color=#0000FF&gt;Unlimited Ride MetroCard&lt;/font&gt;&lt;/a&gt; at Nostrand Av.&lt;br&gt;&lt;br&gt;&lt;b&gt;Reminder:&lt;/b&gt; [C] trains do not operate overnight.&lt;br&gt;&lt;br&gt;&lt;table class=plannedworkTableStyle  border=1 cellspacing=1 cellpadding=5 rules=none frame=box&gt;&lt;td&gt;  [ad]  &lt;td&gt;&lt;font size=1&gt;This service change affects one or more ADA accessible stations. Please call 511 for help with planning &lt;br clear=left&gt;your trip. If you are deaf or hard of hearing, use your preferred relay service provider or the free 711 relay.  &lt;/font&gt;&lt;/table&gt;&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              
+                    &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
+                    &lt;br/&gt;
+                  &lt;a class="plannedWorkDetailLink" onclick=ShowHide(184460);&gt;&lt;b&gt;&lt;i&gt;STATION ENHANCEMENTS&lt;/i&gt;&lt;br clear=left&gt;[C] Euclid Av-bound trains skip 116, 103, 96, 86, 81 and 72 Sts&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 184460 class="plannedWorkDetail" &gt;&lt;/b&gt;Evenings, 9:45 PM to 10:30 PM, Mon to Thu, Apr 16 - 19  &amp;bull;  Apr 23 - 26 &lt;br&gt;&lt;br&gt;For service&lt;i&gt; to&lt;/i&gt; these stations, take the [C] to 59 St-Columbus Circle and &lt;br&gt;transfer to a 168 St-bound [C].&lt;br&gt;&lt;br&gt;For service&lt;i&gt; from&lt;/i&gt; these stations, take the [C] to 125 St and transfer to a Euclid Av-bound [C].&lt;br&gt;&lt;br&gt;&lt;/font&gt;&lt;b&gt;Note:&lt;/b&gt; Cathedral Pkwy (110 St) is closed for renovation.&lt;br&gt;&lt;br&gt;&lt;b&gt;Reminder:&lt;/b&gt; [C] trains do not operate overnight.&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>04/18/2018</Date>
+    <Time> 9:45PM</Time>
   </line>
   <line>
     <name>BDFM</name>
@@ -57,14 +82,19 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>04/18/2018</Date>
-    <Time> 9:37PM</Time>
+    <Time> 9:45PM</Time>
   </line>
   <line>
     <name>G</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>PLANNED WORK</status>
+    <text>
+                    &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
+                    &lt;br/&gt;
+                  &lt;a class="plannedWorkDetailLink" onclick=ShowHide(184172);&gt;&lt;b&gt;&lt;i&gt;TRACK MAINTENANCE&lt;/i&gt;&lt;br clear=left&gt;[G] No trains between Bedford-Nostrand Avs and Court Sq&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 184172 class="plannedWorkDetail" &gt;[SB] Free shuttle buses provide alternate service&lt;br&gt;&lt;/b&gt;Nights, 9:45 PM to 5 AM, Mon to Fri, until May 11&lt;br&gt;&lt;br&gt;[G] service operates between &lt;b&gt;Church Av&lt;/b&gt; and &lt;b&gt;Bedford-Nostrand Avs&lt;/b&gt;.&lt;br&gt;&lt;br&gt;[SB] Buses make all [G] station stops between &lt;b&gt;Bedford-Nostrand Avs&lt;/b&gt; and &lt;b&gt;Court Sq&lt;/b&gt;.&lt;br&gt;  &amp;bull; Transfer between [G] trains and [SB] buses at Bedford-Nostrand Avs.&lt;br&gt;&lt;br&gt;&lt;font size=3&gt;&lt;b&gt;&lt;a style="cursor:pointer; text-decoration:underline;" onclick=ShowHide(1841720);&gt;Show Shuttle Bus Stops&lt;/a&gt;&lt;/b&gt;&lt;/font&gt;&lt;div id="1841720"; style="display:none;"&gt;&lt;table class=plannedworkTableStyle  border=1 cellspacing=1 cellpadding=3 rules=rows frame=hsides&gt;&lt;tr&gt;&lt;td bgcolor=#FAF8CC&gt;&lt;b&gt;Station&lt;/b&gt;&lt;td bgcolor=#FAF8CC&gt;&lt;b&gt;Shuttle Bus Stop&lt;/b&gt;&lt;td bgcolor=#FAF8CC&gt;&lt;b&gt;Bus &lt;/b&gt;&lt;tr&gt;&lt;td rowspan=2&gt;Court Sq [7] [E]&lt;br&gt; [ad] &lt;font size=1&gt;&lt;b&gt;7&lt;/b&gt; &lt;i&gt;only&lt;/i&gt;&lt;/font&gt;&lt;td&gt;Jackson Av at 45 Av&lt;td&gt;&lt;b&gt;B62&lt;/b&gt;&lt;tr&gt;&lt;td&gt;Jackson Av at 23 St&lt;td&gt;&lt;b&gt;B62&lt;/b&gt;&lt;tr&gt;&lt;td rowspan=2&gt;21 St&lt;td&gt;Jackson Av at 47 Av (to Bedford-Nostrand Avs)&lt;td&gt;&lt;b&gt;B62&lt;/b&gt;&lt;tr&gt;&lt;td&gt;Jackson Av at 21 St (to Court Sq)&lt;td&gt; &lt;b&gt;B62&lt;/b&gt;&lt;tr&gt;&lt;td rowspan=2&gt;Greenpoint Av&lt;td&gt;Manhattan Av at Greenpoint Av (to Bedford-Nostrand Avs)    &lt;td&gt;&lt;b&gt;B43&lt;/b&gt;&lt;tr&gt;&lt;td&gt;Greenpoint Av at Leonard St (to Court Sq)&lt;td&gt;&amp;mdash;&lt;tr&gt;&lt;td rowspan=2&gt;Nassau Av&lt;td&gt;Manhattan Av at Nassau Av (to Bedford-Nostrand Avs)&lt;td&gt;&lt;b&gt;B62&lt;/b&gt;&lt;tr&gt;&lt;td&gt;Bedford Av at Manhattan Av (to Court Sq)&lt;td&gt;&lt;b&gt;B62&lt;/b&gt;&lt;tr&gt;&lt;td&gt;Metropolitan Av&lt;br&gt;([L] at Lorimer St)&lt;td&gt;Union Av at Metropolitan Av&lt;td&gt;&lt;b&gt;Q59&lt;/b&gt;&lt;tr&gt;&lt;td&gt;Broadway&lt;td&gt;Union Av at Broadway&lt;td&gt; &amp;mdash;&lt;tr&gt;&lt;td rowspan=2&gt;Flushing Av&lt;td&gt;Lee Av at Flushing Av (to Bedford-Nostrand Avs)&lt;td&gt;&lt;b&gt;B44&lt;/b&gt;&lt;tr&gt;&lt;td&gt;Union Av at Gerry St (to Court Sq)&lt;td&gt;&amp;mdash;&lt;tr&gt;&lt;td rowspan=2&gt;Myrtle-Willoughby Avs&lt;td&gt;Nostrand Av at Myrtle Av (to Bedford-Nostrand Avs)&lt;td&gt;&lt;b&gt;B44&lt;/b&gt;&lt;tr&gt;&lt;td&gt;Marcy Av at Myrtle Av (to Court Sq)&lt;td&gt; &amp;mdash;&lt;tr&gt;&lt;td&gt;Bedford-Nostrand Avs [G]&lt;br&gt;&lt;font size =1&gt;(&lt;i&gt;to/from&lt;/i&gt; Church Av)&lt;/font&gt;&lt;td&gt;Lafayette Av at Nostrand Av&lt;td&gt;&lt;b&gt;B38&lt;/b&gt;&lt;/table&gt;&lt;/div&gt;&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>04/18/2018</Date>
+    <Time> 9:45PM</Time>
   </line>
   <line>
     <name>JZ</name>
@@ -88,9 +118,14 @@
                     &lt;br/&gt;
                   &lt;a class="plannedWorkDetailLink" onclick=ShowHide(184475);&gt;&lt;b&gt;&lt;i&gt;TRACK MAINTENANCE&lt;/i&gt;&lt;br clear=left&gt;[W] Service ends early - Take the [N] &lt;i&gt;and/or&lt;/i&gt; [R]* instead&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 184475 class="plannedWorkDetail" &gt;&lt;/b&gt;Evenings, 9:30 PM to 11:30 PM, Mon to Thu, Apr 16 - 19&lt;br&gt;&lt;br&gt;&lt;i&gt;*Please review [R] advisories for additional information that may affect your trip.&lt;br&gt;&lt;/i&gt;&lt;b&gt;&lt;br&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
                 &lt;br/&gt;&lt;br/&gt;
+              
+                    &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
+                    &lt;br/&gt;
+                  &lt;a class="plannedWorkDetailLink" onclick=ShowHide(184472);&gt;&lt;b&gt;&lt;i&gt;TRACK MAINTENANCE&lt;/i&gt;&lt;br clear=left&gt;[R] Bay Ridge-bound trains run via the [Q] from Canal St to &lt;/font&gt;DeKalb Av&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 184472 class="plannedWorkDetail" &gt;&lt;/b&gt;Evenings, 9:45 PM to 11:45 PM, Mon to Thu, Apr 16 - 19&lt;br&gt;&lt;br&gt;&lt;font color=#272627&gt;N&lt;/font&gt;o Bay Ridge-bound [R] service at &lt;b&gt;City Hall&lt;/b&gt;, &lt;b&gt;Cortlandt&lt;/b&gt;, &lt;b&gt;Rector&lt;/b&gt;, &lt;b&gt;Whitehall&lt;/b&gt;, &lt;b&gt;Court Sts &lt;/b&gt;and &lt;br&gt;&lt;b&gt;Jay St-MetroTech&lt;/b&gt;.&lt;br&gt;&lt;br&gt;Use nearby [4] stations instead:&lt;br&gt;&lt;br&gt;&amp;bull; Transfer between [4] and [R] trains at &lt;b&gt;14 St-Union Sq &lt;/b&gt;or &lt;b&gt;Atlantic Av-Barclays Ctr&lt;/b&gt;.&lt;br&gt;&lt;br&gt;&lt;/font&gt;&lt;table class=plannedworkTableStyle  border=1 cellspacing=1 cellpadding=3 rules=rows frame=hsides&gt;&lt;tr&gt;&lt;td bgcolor=#FAF8CC&gt;&lt;b&gt;[R] Station&lt;/b&gt;&lt;/font&gt;&lt;td bgcolor=#FAF8CC&gt;&lt;b&gt;Nearby&lt;/b&gt; &lt;b&gt;[4]&lt;/b&gt; &lt;b&gt;Station&lt;/b&gt;&lt;/font&gt;&lt;tr&gt;&lt;td&gt;City Hall&lt;/font&gt;&lt;td&gt;&lt;a href=http://web.mta.info/weekender/tileMap.html?staID=10055 target=_blank&gt;&lt;font color=#0000FF&gt;Brooklyn Bridge&lt;/font&gt;&lt;/a&gt; [6] | [ad]&lt;tr&gt;&lt;td&gt;Cortlandt St&lt;td&gt;&lt;a href=http://web.mta.info/weekender/tileMap.html?staID=10139 target=_blank&gt;&lt;font color=#0000FF&gt;Fulton St&lt;/font&gt;&lt;/a&gt;&lt;/font&gt; [2] [A] [C] [J] | [ad]&lt;tr&gt;&lt;td&gt;Rector St&lt;/font&gt;&lt;td&gt;&lt;a href=http://web.mta.info/weekender/tileMap.html?staID=10057 target=_blank&gt;&lt;font color=#0000FF&gt;Wall St&lt;/font&gt;&lt;/a&gt; (at Broadway)&lt;/font&gt;&lt;tr&gt;&lt;td&gt;Whitehall St-South Ferry [1]&lt;/font&gt;&lt;td&gt;&lt;a href=http://web.mta.info/weekender/tileMap.html?staID=10058 target=_blank&gt;&lt;font color=#0000FF&gt;Bowling Green&lt;/font&gt;&lt;/a&gt; [ad]&lt;/font&gt;&lt;tr&gt;&lt;td&gt;Court St &lt;/font&gt;&lt;td&gt;&lt;a href=http://web.mta.info/weekender/tileMap.html?staID=10010 target=_blank&gt;&lt;font color=#0000FF&gt;Borough Hall&lt;/font&gt;&lt;/a&gt;&lt;/font&gt; [2] | [ad] &lt;font size=1&gt;(&lt;i&gt;2 and northbound 4&lt;/i&gt;)&lt;/font&gt;&lt;tr&gt;&lt;td&gt;Jay St-MetroTech  [ad] [A] [C] [D]*&lt;/font&gt;&lt;td&gt;&lt;a href=http://web.mta.info/weekender/tileMap.html?staID=10010 target=_blank&gt;&lt;font color=#0000FF&gt;Borough Hall&lt;/font&gt;&lt;/a&gt; [2] |&lt;/font&gt; [ad] &lt;font size=1&gt;(&lt;i&gt;2 and northbound 4&lt;/i&gt;)&lt;/font&gt;&lt;/table&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;&lt;i&gt;Alternate travel notes:&lt;/b&gt;&lt;/i&gt; &lt;br&gt;For service &lt;i&gt;to &lt;/i&gt;Court St and Jay St-MetroTech, take the [R] to DeKalb Av and transfer to a&lt;br&gt;Forest Hills-bound [R].&lt;br&gt;&lt;/font&gt;For service&lt;i&gt; from &lt;/i&gt;Jay St-MetroTech, take the [D]* to 4 Av-9 St and transfer to the &lt;b&gt;[R]&lt;/b&gt;.&lt;br&gt;&lt;br&gt;&lt;i&gt;*This detour has taken into account additional planned service changes.&lt;br&gt;&lt;br&gt;&lt;/i&gt;&lt;table class=plannedworkTableStyle  border=1 cellspacing=1 cellpadding=5 rules=none frame=box&gt;&lt;td&gt;  [ad]  &lt;td&gt;&lt;font size=1&gt;This service change affects one or more ADA accessible stations. Please call 511 for help with planning&lt;br&gt;your trip. If you are deaf or hard of hearing, use your preferred relay service provider or the free 711 relay.  &lt;/font&gt;&lt;/table&gt;&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+                &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>04/18/2018</Date>
-    <Time> 9:37PM</Time>
+    <Time> 9:45PM</Time>
   </line>
   <line>
     <name>S</name>
@@ -102,7 +137,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>04/18/2018</Date>
-    <Time> 9:37PM</Time>
+    <Time> 9:45PM</Time>
   </line>
   <line>
     <name>SIR</name>
