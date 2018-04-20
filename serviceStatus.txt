@@ -26,7 +26,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>04/20/2018</Date>
-    <Time> 2:04PM</Time>
+    <Time> 2:14PM</Time>
   </line>
   <line>
     <name>7</name>
@@ -52,7 +52,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>04/20/2018</Date>
-    <Time> 2:04PM</Time>
+    <Time> 2:14PM</Time>
   </line>
   <line>
     <name>G</name>
@@ -71,7 +71,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>04/20/2018</Date>
-    <Time> 2:04PM</Time>
+    <Time> 2:14PM</Time>
   </line>
   <line>
     <name>L</name>
@@ -83,7 +83,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>04/20/2018</Date>
-    <Time> 2:04PM</Time>
+    <Time> 2:14PM</Time>
   </line>
   <line>
     <name>NQR</name>
@@ -102,7 +102,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>04/20/2018</Date>
-    <Time> 2:04PM</Time>
+    <Time> 2:14PM</Time>
   </line>
   <line>
     <name>SIR</name>
@@ -119,7 +119,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>04/20/2018</Date>
-    <Time> 2:04PM</Time>
+    <Time> 2:14PM</Time>
   </line>
 </subway><bus>
   <line>
@@ -191,12 +191,18 @@
     <text>
                   &lt;span class="TitlePlannedWork" &gt;Planned Detour&lt;/span&gt;
                   &lt;br/&gt;
+                &lt;a class="plannedWorkDetailLink" onclick=ShowHide(187078);&gt;&lt;b&gt;Bx19&lt;/b&gt; - &lt;b&gt;Southbound stop on 145 St at St Nicholas Av temporarily closed&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 187078 class="plannedWorkDetail" &gt;&lt;/b&gt;Until further notice&lt;br&gt;&lt;br&gt;Due to construction, please use nearby stops on 145 St at Frederick Douglass Blvd or Convent Av.&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
+                  &lt;span class="TitlePlannedWork" &gt;Planned Detour&lt;/span&gt;
+                  &lt;br/&gt;
                 &lt;a class="plannedWorkDetailLink" onclick=ShowHide(164794);&gt;&lt;b&gt;Bx4/Bx4A, Bx5, Bx11 and Bx35 buses may experience delays&lt;br clear=left&gt;due to construction on Westchester Av between Southern Blvd and Hoe Av&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 164794 class="plannedWorkDetail" &gt;&lt;/b&gt;Until further notice&lt;br&gt;&lt;br&gt;&amp;bull; Please allow additional travel time.&lt;br&gt;&lt;b&gt;          &lt;/b&gt;&lt;a href=http://bustime.mta.info/ target=_blank&gt;&lt;img height=30px src=http://web.mta.info/nyct/images/Bus_Time_logo.png&gt;&lt;/a&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
               &lt;br/&gt;
               &lt;br/&gt;
             </text>
     <Date>04/20/2018</Date>
-    <Time> 2:04PM</Time>
+    <Time> 2:14PM</Time>
   </line>
   <line>
     <name>BXM1 - BXM18</name>
@@ -365,7 +371,7 @@
               &lt;br/&gt;
             </text>
     <Date>04/20/2018</Date>
-    <Time> 2:04PM</Time>
+    <Time> 2:14PM</Time>
   </line>
   <line>
     <name>S40 - S98</name>
@@ -378,7 +384,7 @@
               &lt;br/&gt;
             </text>
     <Date>04/20/2018</Date>
-    <Time> 2:04PM</Time>
+    <Time> 2:14PM</Time>
   </line>
   <line>
     <name>x1 - x68</name>
@@ -390,15 +396,10 @@
 </bus><BT>
   <line>
     <name>Bronx-Whitestone</name>
-    <status>PLANNED WORK</status>
-    <text>
-                    &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
-                    &lt;br/&gt;
-                  BWB: Planned work Queens bound, right lane will be closed. Consider alternate routes and allow for additional travel time.
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>04/20/2018</Date>
-    <Time>10:59AM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>Cross Bay</name>
