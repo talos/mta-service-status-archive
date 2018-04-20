@@ -1,17 +1,10 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>DELAYS</status>
-    <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;04/19/2018&amp;nbsp; 9:06PM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  [1] train service has resumed following earlier switch problems at &lt;STRONG&gt;Times Sq-42 St.&lt;/STRONG&gt;
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>04/19/2018</Date>
-    <Time> 9:06PM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>456</name>
@@ -34,15 +27,8 @@
   </line>
   <line>
     <name>ACE</name>
-    <status>DELAYS</status>
+    <status>SERVICE CHANGE</status>
     <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;04/19/2018&amp;nbsp; 9:14PM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  &lt;P&gt;NYCT crews at &lt;STRONG&gt;Jay St-MetroTech&lt;/STRONG&gt; have made repairs to the train and [A] and [C] service has resumed through the area at this time. &lt;/P&gt;
-                &lt;br/&gt;&lt;br/&gt;
-              
                     &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
                     &amp;nbsp;Posted:&amp;nbsp;04/19/2018&amp;nbsp; 6:44PM
@@ -56,7 +42,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>04/19/2018</Date>
-    <Time> 9:14PM</Time>
+    <Time> 6:44PM</Time>
   </line>
   <line>
     <name>BDFM</name>
