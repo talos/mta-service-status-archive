@@ -1,17 +1,10 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>DELAYS</status>
-    <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;04/20/2018&amp;nbsp; 9:33PM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  [1] train service has resumed following earlier signal problems at &lt;b&gt;145 St.&lt;/b&gt;
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>04/20/2018</Date>
-    <Time> 9:33PM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>456</name>
@@ -132,6 +125,16 @@
     <text>
                   &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
                   &lt;span class="DateStyle"&gt;
+                  &amp;nbsp;Posted:&amp;nbsp;04/20/2018&amp;nbsp; 9:45PM
+                  &lt;/span&gt;
+                  &lt;br/&gt;
+                  &lt;br/&gt;
+                &lt;body bgcolor='White' style='font-family:sans-serif;font-size:10pt;'&gt;&lt;div style=""&gt;&lt;div&gt;&lt;font face="sans-serif"&gt;&lt;span style="font-size: 13.3333px;"&gt;&lt;b&gt;Bx41 &lt;/b&gt;buses are detoured in both directions because of milling on Melrose Av between E 150 St and E 156 St. &lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face="sans-serif"&gt;&lt;span style="font-size: 13.3333px;"&gt;&lt;br&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face="sans-serif"&gt;&lt;span style="font-size: 13.3333px;"&gt;Detour is as follows:&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face="sans-serif"&gt;&lt;span style="font-size: 13.3333px;"&gt;&lt;br&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face="sans-serif"&gt;&lt;span style="font-size: 13.3333px;"&gt;&lt;b&gt;Northbound:&lt;/b&gt; Via 3 Av, left on E 163 St, left on Washington Av, right on E 161 St, right on Melrose Av and regular route.&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face="sans-serif"&gt;&lt;span style="font-size: 13.3333px;"&gt;&lt;br&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face="sans-serif"&gt;&lt;span style="font-size: 13.3333px;"&gt;&lt;b&gt;Southbound: &lt;/b&gt;Via Melrose Av, left on E 161 St, bear left to stop sign, right on E 163 St, right on 3 Av, right on E 149 St and regular route.&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face="sans-serif"&gt;&lt;span style="font-size: 13.3333px;"&gt;&lt;br&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face="sans-serif"&gt;&lt;span style="font-size: 13.3333px;"&gt;All corresponding stops will be made along detour route. &lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;&lt;/body&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
+                  &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                  &lt;span class="DateStyle"&gt;
                   &amp;nbsp;Posted:&amp;nbsp;04/20/2018&amp;nbsp; 8:11PM
                   &lt;/span&gt;
                   &lt;br/&gt;
@@ -167,7 +170,7 @@
               &lt;br/&gt;
             </text>
     <Date>04/20/2018</Date>
-    <Time> 8:11PM</Time>
+    <Time> 9:45PM</Time>
   </line>
   <line>
     <name>BXM1 - BXM18</name>
