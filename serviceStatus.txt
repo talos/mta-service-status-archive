@@ -1,8 +1,16 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>DELAYS</status>
+    <status>SERVICE CHANGE</status>
     <text>
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;04/23/2018&amp;nbsp; 7:19AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;P&gt;Southbound [1] trains are running express from &lt;STRONG&gt;72 St&lt;/STRONG&gt; to &lt;STRONG&gt;34 St-Penn Station&lt;/STRONG&gt; because of NYPD activity at &lt;STRONG&gt;72 St.&lt;/STRONG&gt;&lt;/P&gt;
+&lt;P&gt;You may experience delays on [2] and [3] trains.&lt;/P&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              
                     &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
                     &amp;nbsp;Posted:&amp;nbsp;04/23/2018&amp;nbsp; 7:03AM
@@ -11,7 +19,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>04/23/2018</Date>
-    <Time> 7:03AM</Time>
+    <Time> 7:19AM</Time>
   </line>
   <line>
     <name>456</name>
