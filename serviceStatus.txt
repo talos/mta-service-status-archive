@@ -8,17 +8,17 @@
   </line>
   <line>
     <name>456</name>
-    <status>SERVICE CHANGE</status>
+    <status>DELAYS</status>
     <text>
-                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;04/23/2018&amp;nbsp;12:41PM
+                    &amp;nbsp;Posted:&amp;nbsp;04/23/2018&amp;nbsp; 1:11PM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  &lt;P&gt;Northbound [6] trains are running express from &lt;STRONG&gt;Hunts Point Av&lt;/STRONG&gt; to &lt;STRONG&gt;Parkchester&lt;/STRONG&gt; because of FDNY activity at &lt;STRONG&gt;Whitlock Av.&lt;/STRONG&gt;&lt;/P&gt;
+                  [6] train service has resumed following earlier FDNY activity at &lt;STRONG&gt;Whitlock Av&lt;/STRONG&gt;.
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>04/23/2018</Date>
-    <Time>12:41PM</Time>
+    <Time> 1:11PM</Time>
   </line>
   <line>
     <name>7</name>
@@ -625,6 +625,20 @@
     <text />
     <Date></Date>
     <Time></Time>
+  </line>
+  <line>
+    <name>Port Jervis</name>
+    <status>PLANNED WORK</status>
+    <text>
+                    &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;04/14/2018&amp;nbsp; 6:45PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;body bgcolor='White' style='font-family:sans-serif;font-size:10pt;'&gt;&lt;font class="subTitle"&gt;Substitute bus service is being provided at Port Jervis line stations due to track work and infrastructure maintenance - weekdays from 8:00am- 4:30pm, April 9-May 4. &lt;/font&gt;&lt;div&gt;&lt;font class="subTitle"&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;Substitute bus service is being provided at Port Jervis line stations due to track work and infrastructure maintenance - weekends of April 14-15 &amp; 28-29.&lt;/div&gt;&lt;/body&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>04/14/2018</Date>
+    <Time> 6:45PM</Time>
   </line>
 </MetroNorth></service>
 
