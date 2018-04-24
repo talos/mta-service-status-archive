@@ -1,33 +1,27 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>SERVICE CHANGE</status>
+    <status>DELAYS</status>
     <text>
-                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;04/24/2018&amp;nbsp; 2:08PM
+                    &amp;nbsp;Posted:&amp;nbsp;04/24/2018&amp;nbsp; 2:16PM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  &lt;P&gt;Southbound [2] and [3] trains are running local from &lt;STRONG&gt;96 St&lt;/STRONG&gt; to &lt;STRONG&gt;Times Sq-42 St.&lt;/STRONG&gt;&lt;/P&gt;
-&lt;P&gt;Some southbound [2] trains are stopping along the [5] line from &lt;STRONG&gt;149 St-Grand Concourse&lt;/STRONG&gt; to &lt;STRONG&gt;Nevins St.&lt;/STRONG&gt;&lt;/P&gt;
-&lt;P&gt;These service changes are because of a rail condition at &lt;STRONG&gt;72 St.&lt;/STRONG&gt;&lt;/P&gt;
-&lt;P&gt;You may experience delays on [1] [2] [3] [4] and [5] train service.&lt;/P&gt;
+                  [2] and [3] train service has resumed following an earlier rail condition at &lt;STRONG&gt;72 St&lt;/STRONG&gt;.
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>04/24/2018</Date>
-    <Time> 2:08PM</Time>
+    <Time> 2:16PM</Time>
   </line>
   <line>
     <name>456</name>
-    <status>SERVICE CHANGE</status>
+    <status>DELAYS</status>
     <text>
-                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;04/24/2018&amp;nbsp; 2:08PM
+                    &amp;nbsp;Posted:&amp;nbsp;04/24/2018&amp;nbsp; 2:16PM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  &lt;P&gt;Southbound [2] and [3] trains are running local from &lt;STRONG&gt;96 St&lt;/STRONG&gt; to &lt;STRONG&gt;Times Sq-42 St.&lt;/STRONG&gt;&lt;/P&gt;
-&lt;P&gt;Some southbound [2] trains are stopping along the [5] line from &lt;STRONG&gt;149 St-Grand Concourse&lt;/STRONG&gt; to &lt;STRONG&gt;Nevins St.&lt;/STRONG&gt;&lt;/P&gt;
-&lt;P&gt;These service changes are because of a rail condition at &lt;STRONG&gt;72 St.&lt;/STRONG&gt;&lt;/P&gt;
-&lt;P&gt;You may experience delays on [1] [2] [3] [4] and [5] train service.&lt;/P&gt;
+                  [2] and [3] train service has resumed following an earlier rail condition at &lt;STRONG&gt;72 St&lt;/STRONG&gt;.
                 &lt;br/&gt;&lt;br/&gt;
               
                     &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
@@ -38,7 +32,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>04/24/2018</Date>
-    <Time> 2:08PM</Time>
+    <Time> 2:16PM</Time>
   </line>
   <line>
     <name>7</name>
@@ -50,7 +44,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>04/24/2018</Date>
-    <Time> 2:13PM</Time>
+    <Time> 2:15PM</Time>
   </line>
   <line>
     <name>ACE</name>
@@ -77,7 +71,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>04/24/2018</Date>
-    <Time> 2:13PM</Time>
+    <Time> 2:15PM</Time>
   </line>
   <line>
     <name>G</name>
@@ -96,7 +90,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>04/24/2018</Date>
-    <Time> 2:13PM</Time>
+    <Time> 2:15PM</Time>
   </line>
   <line>
     <name>L</name>
@@ -108,7 +102,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>04/24/2018</Date>
-    <Time> 2:13PM</Time>
+    <Time> 2:15PM</Time>
   </line>
   <line>
     <name>NQR</name>
@@ -127,7 +121,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>04/24/2018</Date>
-    <Time> 2:13PM</Time>
+    <Time> 2:15PM</Time>
   </line>
   <line>
     <name>SIR</name>
@@ -144,7 +138,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>04/24/2018</Date>
-    <Time> 2:13PM</Time>
+    <Time> 2:15PM</Time>
   </line>
 </subway><bus>
   <line>
@@ -378,8 +372,18 @@
   </line>
   <line>
     <name>Q1 - Q113</name>
-    <status>SERVICE CHANGE</status>
+    <status>DELAYS</status>
     <text>
+                  &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                  &lt;span class="DateStyle"&gt;
+                  &amp;nbsp;Posted:&amp;nbsp;04/24/2018&amp;nbsp; 2:15PM
+                  &lt;/span&gt;
+                  &lt;br/&gt;
+                  &lt;br/&gt;
+                &lt;STRONG&gt;Q54 &lt;/STRONG&gt;and &lt;STRONG&gt;Q59 &lt;/STRONG&gt;buses are running with delays in both directions because of traffic conditions on Grand St and Grand Av between Union Av and Fresh Pond Rd.
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
                   &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
                   &lt;span class="DateStyle"&gt;
                   &amp;nbsp;Posted:&amp;nbsp;04/24/2018&amp;nbsp; 2:15PM
@@ -416,16 +420,6 @@
 &lt;P&gt;Detour is as follows:&lt;/P&gt;
 &lt;P&gt;&lt;STRONG&gt;Southbound to Sutphin Blvd&lt;/STRONG&gt;: Via College Point Blvd, right on 5 Av, right on 127 St and regular route.&lt;/P&gt;
 &lt;P&gt;&lt;STRONG&gt;Northbound to 119 St 5 Av&lt;/STRONG&gt;: Via 127 St, left on 5 Av, regular route at College Point Blvd. &lt;/P&gt;
-              &lt;br/&gt;
-              &lt;br/&gt;
-            
-                  &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                  &lt;span class="DateStyle"&gt;
-                  &amp;nbsp;Posted:&amp;nbsp;04/24/2018&amp;nbsp; 1:47PM
-                  &lt;/span&gt;
-                  &lt;br/&gt;
-                  &lt;br/&gt;
-                &lt;STRONG&gt;Q54 &lt;/STRONG&gt;and &lt;STRONG&gt;Q59 &lt;/STRONG&gt;buses are running with delays in both directions because of traffic conditions on Grand St and Grand Av between Union Av and Fresh Pond Rd.
               &lt;br/&gt;
               &lt;br/&gt;
             
@@ -489,7 +483,7 @@
               &lt;br/&gt;
             </text>
     <Date>04/24/2018</Date>
-    <Time> 2:13PM</Time>
+    <Time> 2:15PM</Time>
   </line>
   <line>
     <name>S40 - S98</name>
