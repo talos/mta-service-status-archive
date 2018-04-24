@@ -1,10 +1,18 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>SERVICE CHANGE</status>
+    <text>
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;04/23/2018&amp;nbsp; 8:08PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;P&gt;Southbound [1] trains are running express from 96 St to Times Sq-42 St because of a customer in need of medical assistance at 72 St.&lt;/P&gt;
+&lt;P&gt;Expect delays on [1], [2] and [3] trains.&lt;/P&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>04/23/2018</Date>
+    <Time> 8:08PM</Time>
   </line>
   <line>
     <name>456</name>
