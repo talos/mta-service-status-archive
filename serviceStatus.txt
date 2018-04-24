@@ -91,16 +91,16 @@
     <text>
                     &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;04/23/2018&amp;nbsp;10:01PM
+                    &amp;nbsp;Posted:&amp;nbsp;04/23/2018&amp;nbsp;10:05PM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  Southbound [F] trains are running with delays because of signal problems at &lt;STRONG&gt;18 Av&lt;/STRONG&gt;.
+                  [D] train service has resumed following an earlier sick passenger at &lt;STRONG&gt;145 St.&lt;/STRONG&gt;
                 &lt;br/&gt;&lt;br/&gt;
               
                     &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;04/23/2018&amp;nbsp; 9:51PM
+                    &amp;nbsp;Posted:&amp;nbsp;04/23/2018&amp;nbsp;10:01PM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  Northbound [D] trains are running with delays because of a sick passenger at &lt;STRONG&gt;145 St.&lt;/STRONG&gt;
+                  Southbound [F] trains are running with delays because of signal problems at &lt;STRONG&gt;18 Av&lt;/STRONG&gt;.
                 &lt;br/&gt;&lt;br/&gt;
               
                     &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
@@ -124,7 +124,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>04/23/2018</Date>
-    <Time>10:01PM</Time>
+    <Time>10:05PM</Time>
   </line>
   <line>
     <name>G</name>
@@ -213,8 +213,22 @@
   </line>
   <line>
     <name>BX1 - BX55</name>
-    <status>PLANNED WORK</status>
+    <status>SERVICE CHANGE</status>
     <text>
+                  &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                  &lt;span class="DateStyle"&gt;
+                  &amp;nbsp;Posted:&amp;nbsp;04/23/2018&amp;nbsp;10:04PM
+                  &lt;/span&gt;
+                  &lt;br/&gt;
+                  &lt;br/&gt;
+                &lt;P&gt;&lt;STRONG&gt;BXM4A &lt;/STRONG&gt;buses are detoured in both directions because of paving on Metropolitan Av. &lt;/P&gt;
+&lt;P&gt;Detour is as follows:&lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;BXM4A Northbound:&lt;/STRONG&gt; Via Westchester Av, left on White Plains Rd, right on Tremont Av, right on Unionport Rd, around the Oval, right on Metropolitan Av and regular route.&lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;BXM4A Southbound&lt;/STRONG&gt;: Via Metropolitan Oval, right on Unionport Rd, left on Tremont Av, left on White Plains Rd, right on Westchester Av and regular route.&lt;/P&gt;
+&lt;P&gt;Corresponding stops will be made along detour route.&lt;/P&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
                   &lt;span class="TitlePlannedWork" &gt;Planned Detour&lt;/span&gt;
                   &lt;br/&gt;
                 &lt;a class="plannedWorkDetailLink" onclick=ShowHide(187078);&gt;&lt;b&gt;Bx19&lt;/b&gt; - &lt;b&gt;Southbound stop on 145 St at St Nicholas Av temporarily closed&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 187078 class="plannedWorkDetail" &gt;&lt;/b&gt;Until further notice&lt;br&gt;&lt;br&gt;Due to construction, please use nearby stops on 145 St at Frederick Douglass Blvd or Convent Av.&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
@@ -228,7 +242,7 @@
               &lt;br/&gt;
             </text>
     <Date>04/23/2018</Date>
-    <Time>10:03PM</Time>
+    <Time>10:04PM</Time>
   </line>
   <line>
     <name>BXM1 - BXM18</name>
