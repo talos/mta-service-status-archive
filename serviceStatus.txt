@@ -1,18 +1,17 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>SERVICE CHANGE</status>
+    <status>DELAYS</status>
     <text>
-                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;04/23/2018&amp;nbsp; 8:12PM
+                    &amp;nbsp;Posted:&amp;nbsp;04/23/2018&amp;nbsp; 8:16PM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  &lt;P&gt;Southbound [1] trains are running express from &lt;STRONG&gt;96 St&lt;/STRONG&gt; to &lt;STRONG&gt;Times Sq-42 St&lt;/STRONG&gt; because of a customer in need of medical assistance at&lt;STRONG&gt; 72 St.&lt;/STRONG&gt;&lt;/P&gt;
-&lt;P&gt;Expect delays on [1], [2] and [3] trains.&lt;/P&gt;
+                  Southbound [1] service has resumed following an earlier incident involving a customer in need of medical assistance at &lt;STRONG&gt;72 St.&lt;/STRONG&gt;
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>04/23/2018</Date>
-    <Time> 8:12PM</Time>
+    <Time> 8:16PM</Time>
   </line>
   <line>
     <name>456</name>
@@ -80,7 +79,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>04/23/2018</Date>
-    <Time> 8:12PM</Time>
+    <Time> 8:15PM</Time>
   </line>
   <line>
     <name>SIR</name>
@@ -101,7 +100,7 @@
               &lt;br/&gt;
             </text>
     <Date>04/23/2018</Date>
-    <Time> 8:12PM</Time>
+    <Time> 8:15PM</Time>
   </line>
   <line>
     <name>B100 - B103</name>
@@ -134,7 +133,7 @@
               &lt;br/&gt;
             </text>
     <Date>04/23/2018</Date>
-    <Time> 8:12PM</Time>
+    <Time> 8:15PM</Time>
   </line>
   <line>
     <name>BXM1 - BXM18</name>
@@ -258,7 +257,7 @@
               &lt;br/&gt;
             </text>
     <Date>04/23/2018</Date>
-    <Time> 8:12PM</Time>
+    <Time> 8:15PM</Time>
   </line>
   <line>
     <name>S40 - S98</name>
