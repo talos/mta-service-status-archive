@@ -1,20 +1,29 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>SERVICE CHANGE</status>
+    <text>
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;04/25/2018&amp;nbsp; 6:26AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;P&gt;Southbound [5] trains are running local from &lt;STRONG&gt;E 180 St&lt;/STRONG&gt; to &lt;STRONG&gt;3 Av-149 St&lt;/STRONG&gt; because of a train with mechanical problems at &lt;STRONG&gt;West Farms Sq-East Tremont Av&lt;/STRONG&gt;.&lt;/P&gt;
+&lt;P&gt;Expect delays in [2] and [5] train service.&lt;/P&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>04/25/2018</Date>
+    <Time> 6:26AM</Time>
   </line>
   <line>
     <name>456</name>
-    <status>DELAYS</status>
+    <status>SERVICE CHANGE</status>
     <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;04/25/2018&amp;nbsp; 6:25AM
+                    &amp;nbsp;Posted:&amp;nbsp;04/25/2018&amp;nbsp; 6:26AM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  Southbound [5] trains are running with delays because of a train with mechanical problems at &lt;STRONG&gt;West Farms Sq-East Tremont Av&lt;/STRONG&gt;.
+                  &lt;P&gt;Southbound [5] trains are running local from &lt;STRONG&gt;E 180 St&lt;/STRONG&gt; to &lt;STRONG&gt;3 Av-149 St&lt;/STRONG&gt; because of a train with mechanical problems at &lt;STRONG&gt;West Farms Sq-East Tremont Av&lt;/STRONG&gt;.&lt;/P&gt;
+&lt;P&gt;Expect delays in [2] and [5] train service.&lt;/P&gt;
                 &lt;br/&gt;&lt;br/&gt;
               
                     &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
@@ -25,7 +34,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>04/25/2018</Date>
-    <Time> 6:25AM</Time>
+    <Time> 6:26AM</Time>
   </line>
   <line>
     <name>7</name>
@@ -144,7 +153,7 @@
     <text>
                   &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
                   &lt;span class="DateStyle"&gt;
-                  &amp;nbsp;Posted:&amp;nbsp;04/24/2018&amp;nbsp;10:03PM
+                  &amp;nbsp;Posted:&amp;nbsp;04/25/2018&amp;nbsp; 6:28AM
                   &lt;/span&gt;
                   &lt;br/&gt;
                   &lt;br/&gt;
@@ -191,8 +200,8 @@
               &lt;br/&gt;
               &lt;br/&gt;
             </text>
-    <Date>04/24/2018</Date>
-    <Time>10:03PM</Time>
+    <Date>04/25/2018</Date>
+    <Time> 6:28AM</Time>
   </line>
   <line>
     <name>BXM1 - BXM18</name>
@@ -200,7 +209,7 @@
     <text>
                   &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
                   &lt;span class="DateStyle"&gt;
-                  &amp;nbsp;Posted:&amp;nbsp;04/24/2018&amp;nbsp;10:03PM
+                  &amp;nbsp;Posted:&amp;nbsp;04/25/2018&amp;nbsp; 6:27AM
                   &lt;/span&gt;
                   &lt;br/&gt;
                   &lt;br/&gt;
@@ -210,8 +219,8 @@
               &lt;br/&gt;
               &lt;br/&gt;
             </text>
-    <Date>04/24/2018</Date>
-    <Time>10:03PM</Time>
+    <Date>04/25/2018</Date>
+    <Time> 6:27AM</Time>
   </line>
   <line>
     <name>M1 - M116</name>
@@ -312,7 +321,7 @@
     <text>
                   &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
                   &lt;span class="DateStyle"&gt;
-                  &amp;nbsp;Posted:&amp;nbsp;04/24/2018&amp;nbsp;10:02PM
+                  &amp;nbsp;Posted:&amp;nbsp;04/25/2018&amp;nbsp; 6:28AM
                   &lt;/span&gt;
                   &lt;br/&gt;
                   &lt;br/&gt;
@@ -323,8 +332,8 @@
               &lt;br/&gt;
               &lt;br/&gt;
             </text>
-    <Date>04/24/2018</Date>
-    <Time>10:02PM</Time>
+    <Date>04/25/2018</Date>
+    <Time> 6:28AM</Time>
   </line>
   <line>
     <name>x1 - x68</name>
