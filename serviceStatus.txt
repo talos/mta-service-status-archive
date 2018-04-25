@@ -1,13 +1,14 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>DELAYS</status>
+    <status>SERVICE CHANGE</status>
     <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;04/25/2018&amp;nbsp; 2:05PM
+                    &amp;nbsp;Posted:&amp;nbsp;04/25/2018&amp;nbsp; 2:36PM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  &lt;P&gt;Northbound [1] trains are running with delays because of a rail condition at &lt;STRONG&gt;Times Sq-42 St &lt;/STRONG&gt;and &lt;STRONG&gt;96 St.&lt;/STRONG&gt;&lt;/P&gt;
+                  &lt;P&gt;Northbound [1] trains are running express from &lt;STRONG&gt;Times Sq-42 St&lt;/STRONG&gt; to &lt;STRONG&gt;72 St&lt;/STRONG&gt; because of rail conditions at &lt;STRONG&gt;Times Sq-42 St &lt;/STRONG&gt;and &lt;STRONG&gt;96 St.&lt;/STRONG&gt;&lt;/P&gt;
+&lt;P&gt;Expect delays in [1], [2] and [3] train service. &lt;/P&gt;
 &lt;P&gt;Our crews are on the scene making repairs and we hope to resume regular service as soon as possible.&lt;/P&gt;
                 &lt;br/&gt;&lt;br/&gt;
               
@@ -17,7 +18,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>04/25/2018</Date>
-    <Time> 2:05PM</Time>
+    <Time> 2:36PM</Time>
   </line>
   <line>
     <name>456</name>
