@@ -1,17 +1,18 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>DELAYS</status>
+    <status>SERVICE CHANGE</status>
     <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;04/26/2018&amp;nbsp; 6:43PM
+                    &amp;nbsp;Posted:&amp;nbsp;04/26/2018&amp;nbsp; 6:46PM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  Southbound [2] and [3] trains are running with delays because of a sick passenger at &lt;STRONG&gt;14 St&lt;/STRONG&gt;.
+                  &lt;P&gt;Southbound [2] and [3] trains are running local from &lt;STRONG&gt;14 St&lt;/STRONG&gt; to &lt;STRONG&gt;Chambers St&lt;/STRONG&gt; because of a sick passenger at &lt;STRONG&gt;14 St&lt;/STRONG&gt;.&lt;/P&gt;
+&lt;P&gt;Expect delays in [1], [2] and [3] train service. &lt;/P&gt;
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>04/26/2018</Date>
-    <Time> 6:43PM</Time>
+    <Time> 6:46PM</Time>
   </line>
   <line>
     <name>456</name>
@@ -44,7 +45,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>04/26/2018</Date>
-    <Time> 6:43PM</Time>
+    <Time> 6:46PM</Time>
   </line>
   <line>
     <name>BDFM</name>
@@ -98,7 +99,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>04/26/2018</Date>
-    <Time> 6:43PM</Time>
+    <Time> 6:46PM</Time>
   </line>
   <line>
     <name>SIR</name>
@@ -223,7 +224,7 @@
               &lt;br/&gt;
             </text>
     <Date>04/26/2018</Date>
-    <Time> 6:43PM</Time>
+    <Time> 6:46PM</Time>
   </line>
   <line>
     <name>BXM1 - BXM18</name>
@@ -432,7 +433,7 @@
               &lt;br/&gt;
             </text>
     <Date>04/26/2018</Date>
-    <Time> 6:43PM</Time>
+    <Time> 6:46PM</Time>
   </line>
   <line>
     <name>x1 - x68</name>
