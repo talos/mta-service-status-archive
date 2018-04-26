@@ -458,10 +458,17 @@
   </line>
   <line>
     <name>City Terminal Zone</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>SERVICE CHANGE</status>
+    <text>
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;04/26/2018&amp;nbsp; 8:29AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  The LIRR is experiencing delays west of Jamaica due to a train with equipment trouble near Forest Hills. LIRR trains are bypassing Kew Gardens, Forest Hills and Woodside (except on the Port Washington Branch). NYC Transit is cross-honoring tickets for the E train at Jamaica (Sutphin/Archer), Kew Gardens (Union Turnpike) and Forest Hills (71st Avenue); and on the 7 train at Woodside (61st).&lt;br&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>04/26/2018</Date>
+    <Time> 8:29AM</Time>
   </line>
   <line>
     <name>Far Rockaway</name>
@@ -479,10 +486,17 @@
   </line>
   <line>
     <name>Long Beach</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>DELAYS</status>
+    <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;04/26/2018&amp;nbsp; 8:30AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  The 7:39AM train from Long Beach due Penn at 8:32AM is operating 11 minutes late as a result of a train ahead with equipment trouble.
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>04/26/2018</Date>
+    <Time> 8:30AM</Time>
   </line>
   <line>
     <name>Montauk</name>
