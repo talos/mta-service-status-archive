@@ -1,17 +1,10 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>DELAYS</status>
-    <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;04/25/2018&amp;nbsp; 8:01PM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  [1], [2] and [3] train service has resumed following earlier switch problems at &lt;STRONG&gt;96 St&lt;/STRONG&gt;.
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>04/25/2018</Date>
-    <Time> 8:01PM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>456</name>
@@ -577,10 +570,35 @@
   </line>
   <line>
     <name>Ronkonkoma</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>PLANNED WORK</status>
+    <text>
+                    &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
+                    &lt;br/&gt;
+                  &lt;P  style="MARGIN: 0in 0in 8pt"&gt;&lt;FONT size=3&gt;&lt;FONT face=Calibri&gt;&lt;STRONG&gt;April 28-29: Buses Replace Weekend Trains between Ronkonkoma &amp; Hicksville&lt;/STRONG&gt;&lt;/FONT&gt;&lt;/FONT&gt;&lt;/P&gt;
+&lt;P  style="MARGIN: 0in 0in 8pt"&gt;&lt;FONT size=3 face=Calibri&gt; &lt;/FONT&gt;&lt;/P&gt;
+&lt;P  style="MARGIN: 0in 0in 8pt"&gt;&lt;FONT face=Calibri&gt;&lt;FONT size=3&gt;Buses will replace weekend trains between Ronkonkoma and Hicksville on Saturday, April 28 and Sunday, April 29,&lt;SPAN style=""&gt;  &lt;/SPAN&gt;&lt;/FONT&gt;&lt;FONT size=3&gt;due to construction related to the Double Track project. The first westbound bus departs Ronkonkoma Saturday morning at 12:02 AM and the first eastbound bus departs Hicksville at 12:59 AM on Saturday. In addition, one Friday night train departs earlier.&lt;/FONT&gt;&lt;SPAN style=""&gt;&lt;FONT size=3&gt;  &lt;/FONT&gt;&lt;/SPAN&gt;&lt;FONT size=3&gt;Ronkonkoma Branch service will be affected as follows:&lt;/FONT&gt;&lt;/FONT&gt;&lt;/P&gt;
+&lt;P  style="MARGIN: 0in 0in 8pt"&gt;&lt;FONT size=3 face=Calibri&gt; &lt;/FONT&gt;&lt;/P&gt;
+&lt;P  style="MARGIN: 0in 0in 8pt"&gt;&lt;FONT size=3&gt;&lt;FONT face=Calibri&gt;&lt;STRONG&gt;&lt;EM&gt;Friday Night:&lt;/EM&gt;&lt;/STRONG&gt; &lt;/FONT&gt;&lt;/FONT&gt;&lt;/P&gt;
+&lt;P  style="MARGIN: 0in 0in 8pt"&gt;&lt;FONT size=3&gt;&lt;FONT face=Calibri&gt;The 10:42 PM train from Penn Station to Ronkonkoma will depart one minute earlier at 10:41 PM&lt;/FONT&gt;&lt;/FONT&gt;&lt;/P&gt;
+&lt;P  style="MARGIN: 0in 0in 8pt"&gt;&lt;FONT size=3 face=Calibri&gt; &lt;/FONT&gt;&lt;/P&gt;
+&lt;P  style="MARGIN: 0in 0in 8pt"&gt;&lt;FONT size=3&gt;&lt;FONT face=Calibri&gt;&lt;STRONG&gt;&lt;EM&gt;Weekend&lt;/EM&gt;&lt;/STRONG&gt;&lt;/FONT&gt;&lt;/FONT&gt;&lt;/P&gt;
+&lt;P  style="MARGIN: 0in 0in 8pt"&gt;&lt;FONT size=3&gt;&lt;FONT face=Calibri&gt;&lt;STRONG&gt;Westbound&lt;/STRONG&gt;&lt;/FONT&gt;&lt;/FONT&gt;&lt;/P&gt;
+&lt;P  style="MARGIN: 0in 0in 8pt"&gt;&lt;FONT size=3&gt;&lt;FONT face=Calibri&gt;. Customers at stations Ronkonkoma through Bethpage will board buses to Hicksville up to 45 minutes earlier than normal train times, then transfer to westbound trains.&lt;/FONT&gt;&lt;/FONT&gt;&lt;/P&gt;
+&lt;P  style="MARGIN: 0in 0in 8pt"&gt;&lt;FONT size=3&gt;&lt;FONT face=Calibri&gt;. Customers at stations Greenport through Medford will board buses at Ronkonkoma and ride to Hicksville, where train service will resume. Customers will arrive at western terminals 1 hour later than normal.&lt;/FONT&gt;&lt;/FONT&gt;&lt;/P&gt;
+&lt;P  style="MARGIN: 0in 0in 8pt"&gt;&lt;FONT size=3 face=Calibri&gt; &lt;/FONT&gt;&lt;/P&gt;
+&lt;P  style="MARGIN: 0in 0in 8pt"&gt;&lt;FONT size=3&gt;&lt;FONT face=Calibri&gt;&lt;STRONG&gt;Eastbound&lt;/STRONG&gt;&lt;/FONT&gt;&lt;/FONT&gt;&lt;/P&gt;
+&lt;P  style="MARGIN: 0in 0in 8pt"&gt;&lt;FONT size=3&gt;&lt;FONT face=Calibri&gt;. Customers traveling to stations Bethpage through Ronkonkoma will transfer to buses at Hicksville. Plan for 46 minutes of added travel time.&lt;/FONT&gt;&lt;/FONT&gt;&lt;/P&gt;
+&lt;P  style="MARGIN: 0in 0in 8pt"&gt;&lt;FONT size=3&gt;&lt;FONT face=Calibri&gt;. Departure times for trains that provide connecting service to Greenport have been adjusted. These trains will depart from Penn Station 1 hour earlier than normal, at 7:07 AM and 12:07 AM. Customers will travel by train to Hicksville, transfer to Ronkonkoma-bound buses, then board trains to stations Medford through Greenport.&lt;/FONT&gt;&lt;/FONT&gt;&lt;/P&gt;
+&lt;P  style="MARGIN: 0in 0in 8pt"&gt;&lt;FONT size=3 face=Calibri&gt; &lt;/FONT&gt;&lt;/P&gt;
+&lt;P  style="MARGIN: 0in 0in 8pt"&gt;&lt;FONT face=Calibri&gt;&lt;FONT size=3&gt;Allow extra travel time &amp; pick up a copy of the special Ronkonkoma Branch Trackwork Timetable, dated April 27-30, 2018 or click here:&lt;SPAN style=""&gt;  &lt;/SPAN&gt;&lt;/FONT&gt;&lt;FONT size=3&gt;&lt;A href="http://http://web.mta.info/lirr/Timetable/04-27-30%202018%20-%20%20KO%20-%202nd%20Trk,%20PTC,%20RRep%20-%20GO%20304.pdf"&gt;Ronkonkoma Branch Special Weekend Timetable&lt;/A&gt;&lt;/FONT&gt;&lt;/FONT&gt;&lt;/P&gt;
+&lt;P  style="MARGIN: 0in 0in 8pt"&gt;&lt;FONT size=3 face=Calibri&gt; &lt;/FONT&gt;&lt;/P&gt;
+&lt;P  style="MARGIN: 0in 0in 8pt"&gt;&lt;FONT size=3&gt;&lt;FONT face=Calibri&gt;Please plan ahead: Similar busing programs will be in effect on the weekends of May 12-13 and May 19-20. &lt;/FONT&gt;&lt;/FONT&gt;&lt;/P&gt;
+&lt;P  style="MARGIN: 0in 0in 8pt"&gt;&lt;FONT size=3 face=Calibri&gt; &lt;/FONT&gt;&lt;/P&gt;
+&lt;P  style="MARGIN: 0in 0in 8pt"&gt;&lt;FONT size=3 face=Calibri&gt;For more information, contact the LIRR's Customer Service Center by calling 511 or 718-217-LIRR (718-217-5477). Automated schedule information is available 24/7. Agents are available to assist customers daily from 6 AM until 10 PM. To speak with an LIRR employee, say the word "Representative" when the prompts begin&lt;/FONT&gt;&lt;/P&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>04/25/2018</Date>
+    <Time> 8:26PM</Time>
   </line>
   <line>
     <name>West Hempstead</name>
