@@ -94,24 +94,10 @@
   </line>
   <line>
     <name>NQR</name>
-    <status>DELAYS</status>
-    <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;05/01/2018&amp;nbsp; 9:46AM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  [N] train service has resumed following an earlier incident involving a train with mechanical problems at &lt;STRONG&gt;New Utrecht Av&lt;/STRONG&gt;.
-                &lt;br/&gt;&lt;br/&gt;
-              
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;05/01/2018&amp;nbsp; 9:16AM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  [N] and [W] train service has resumed following an earlier incident involving an FDNY investigation at &lt;STRONG&gt;39 Av&lt;/STRONG&gt;.
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>05/01/2018</Date>
-    <Time> 9:46AM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>S</name>
@@ -264,8 +250,23 @@
   </line>
   <line>
     <name>Q1 - Q113</name>
-    <status>DELAYS</status>
+    <status>SERVICE CHANGE</status>
     <text>
+                  &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                  &lt;span class="DateStyle"&gt;
+                  &amp;nbsp;Posted:&amp;nbsp;05/01/2018&amp;nbsp;10:00AM
+                  &lt;/span&gt;
+                  &lt;br/&gt;
+                  &lt;br/&gt;
+                &lt;P&gt;&lt;STRONG&gt;Q2&lt;/STRONG&gt; buses are detoured because of milling on Hollis Av between 208 St and 212 St. &lt;/P&gt;
+&lt;P&gt;Detour is as follows:&lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;Eastbound&lt;/STRONG&gt;: Via Hollis Av, right on 208 St into Colfax St, left on 110 Av, left on 212 St, right on Hollis Av and regular route.&lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;Westbound&lt;/STRONG&gt;: Via Hollis Av, left on 212 St, left on 110 Av, right on Colfax St, left on Hollis Av and regular route.&lt;/P&gt;
+&lt;P&gt;All corresponding bus stops will be made along the detour route.&lt;/P&gt;
+&lt;P&gt; &lt;/P&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
                   &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                   &lt;span class="DateStyle"&gt;
                   &amp;nbsp;Posted:&amp;nbsp;05/01/2018&amp;nbsp; 8:28AM
@@ -346,7 +347,7 @@
               &lt;br/&gt;
             </text>
     <Date>05/01/2018</Date>
-    <Time> 8:28AM</Time>
+    <Time>10:00AM</Time>
   </line>
   <line>
     <name>QM1 - QM44</name>
@@ -438,10 +439,17 @@
   </line>
   <line>
     <name>Robert F. Kennedy</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>DELAYS</status>
+    <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;05/01/2018&amp;nbsp; 9:59AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  RFK- OFF PROPERTY DELAYS MANHATTAN BOUND MANHATTAN SPAN DUE TO VOLUME ON THE FDR AND 125TH STREET RAMP. CONSIDE ALTERNATE ROUTES AND ALLOW FOR EXTRA TRAVEL TIME
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>05/01/2018</Date>
+    <Time> 9:59AM</Time>
   </line>
   <line>
     <name>Throgs Neck</name>
@@ -464,15 +472,15 @@
     <text>
                     &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;05/01/2018&amp;nbsp; 9:59AM
+                    &amp;nbsp;Posted:&amp;nbsp;05/01/2018&amp;nbsp;10:01AM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  &lt;p&gt;The 8:09AM train from Penn due Babylon at 9:20AM is operating 39 minutes late due to congestion caused by a disabled non-passenger train at Jamaica. &lt;br&gt;&lt;/p&gt;&lt;p&gt;The 8:33AM train from Penn due Babylon at 9:50AM is operating 10 minutes
+                  &lt;p&gt;The 8:33AM train from Penn due Babylon at 9:50AM is operating 10 minutes
  late and will be bypassing Forest Hills and Kew Gardens due to 
 congestion caused by a disabled non-passenger train at Jamaica.&lt;/p&gt;&lt;p&gt;The 9:05AM train from Penn due Babylon at 10:21AM is operating 14 minutes late due to congestion caused by a disabled non-passenger train at Jamaica.&lt;/p&gt;&lt;p&gt;The 9:22AM train from Penn due Babylon at 10:24AM is operating 11 minutes late due to congestion caused by a earlier disabled non-passenger train at Jamaica. &lt;br&gt;&lt;/p&gt;
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>05/01/2018</Date>
-    <Time> 9:59AM</Time>
+    <Time>10:01AM</Time>
   </line>
   <line>
     <name>City Terminal Zone</name>
