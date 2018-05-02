@@ -1,10 +1,15 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>PLANNED WORK</status>
+    <text>
+                    &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
+                    &lt;br/&gt;
+                  &lt;a class="plannedWorkDetailLink" onclick=ShowHide(186906);&gt;&lt;b&gt;&lt;i&gt;TRACK REPLACEMENT&lt;/i&gt;&lt;br clear=left&gt;[1] Van Cortlandt Park-bound trains skip 225 St, 231 St and 238 St&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 186906 class="plannedWorkDetail" &gt;&lt;/b&gt;May 2 - 4  &amp;bull;  9 - 11, Wed to Fri, 10:45 AM to 3 PM&lt;br&gt;&lt;br&gt;For service &lt;i&gt;to &lt;/i&gt;these stations, take the [1] to 242 St and transfer to a South Ferry-bound [1].&lt;br&gt;&lt;br&gt;For service &lt;i&gt;from &lt;/i&gt;these stations, take the &lt;a href=http://web.mta.info/nyct/bus/schedule/bronx/bx009cur.pdf target=blank&gt;&lt;font color=#0000FF&gt;&lt;b&gt;Bx9&lt;/b&gt;&lt;/font&gt;&lt;/a&gt; bus instead.&lt;br&gt;&lt;br&gt;&lt;table class=plannedworkTableStyle  border=1 cellspacing=1 cellpadding=5 rules=none frame=box&gt;&lt;td&gt;  [ad]  &lt;td&gt;&lt;font size=1&gt;This service change affects one or more ADA accessible stations. Please call 511 for help with planning&lt;br&gt;your trip. If you are deaf or hard of hearing, use your preferred relay service provider or the free 711 relay.  &lt;/font&gt;&lt;/table&gt;&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>05/02/2018</Date>
+    <Time>10:55AM</Time>
   </line>
   <line>
     <name>456</name>
@@ -31,7 +36,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>05/02/2018</Date>
-    <Time>10:45AM</Time>
+    <Time>10:55AM</Time>
   </line>
   <line>
     <name>7</name>
@@ -102,14 +107,19 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>05/02/2018</Date>
-    <Time>10:45AM</Time>
+    <Time>10:55AM</Time>
   </line>
   <line>
     <name>L</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>PLANNED WORK</status>
+    <text>
+                    &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
+                    &lt;br/&gt;
+                  &lt;a class="plannedWorkDetailLink" onclick=ShowHide(185912);&gt;&lt;b&gt;&lt;i&gt;SIGNAL MAINTENANCE&lt;/i&gt;&lt;br clear=left&gt;[L] Service operates every 12 minutes between Myrtle-Wyckoff Avs and Rockaway Pkwy&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 185912 class="plannedWorkDetail" &gt;&lt;/b&gt;Apr 30 until May 11, Mon to Fri, 11 AM to 3 PM&lt;br&gt;&lt;br&gt;The last stop for &lt;b&gt;alternate&lt;/b&gt; trains &lt;i&gt;from &lt;/i&gt;Manhattan is Myrtle-Wyckoff Avs.&lt;br&gt;&lt;b&gt;&lt;/b&gt;          &lt;/font&gt;&lt;a href=http://apps.mta.info/traintime/ target=_blank&gt;&lt;img height=32px src=http://apps.mta.info/traintime/desktop2Images/logoSm.png&gt;&lt;/a&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>05/02/2018</Date>
+    <Time>10:55AM</Time>
   </line>
   <line>
     <name>NQR</name>
@@ -128,7 +138,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>05/02/2018</Date>
-    <Time>10:45AM</Time>
+    <Time>10:55AM</Time>
   </line>
   <line>
     <name>SIR</name>
@@ -140,7 +150,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>05/02/2018</Date>
-    <Time>10:45AM</Time>
+    <Time>10:55AM</Time>
   </line>
 </subway><bus>
   <line>
@@ -283,7 +293,7 @@
               &lt;br/&gt;
             </text>
     <Date>05/02/2018</Date>
-    <Time>10:45AM</Time>
+    <Time>10:55AM</Time>
   </line>
   <line>
     <name>M1 - M116</name>
@@ -510,7 +520,7 @@
               &lt;br/&gt;
             </text>
     <Date>05/02/2018</Date>
-    <Time>10:45AM</Time>
+    <Time>10:55AM</Time>
   </line>
   <line>
     <name>x1 - x68</name>
