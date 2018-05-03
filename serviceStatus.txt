@@ -1,16 +1,13 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>SERVICE CHANGE</status>
+    <status>DELAYS</status>
     <text>
-                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;05/03/2018&amp;nbsp;12:01AM
+                    &amp;nbsp;Posted:&amp;nbsp;05/03/2018&amp;nbsp;12:43AM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  &lt;P&gt;Some southbound [1] and [2] trains end at &lt;STRONG&gt;Rector St&lt;/STRONG&gt; because of switch problems at &lt;STRONG&gt;South Ferry.&lt;/STRONG&gt;&lt;/P&gt;
-&lt;P&gt;Expect delays in both directions. &lt;/P&gt;
-&lt;P&gt;Travel Alternative, passengers can take nearby [N][R] train service stopping at nearby&lt;STRONG&gt; &lt;/STRONG&gt;[1] stations. &lt;/P&gt;
-&lt;P&gt; &lt;/P&gt;
+                  [1] and [2] train service has resumed following earlier switch problems at &lt;STRONG&gt;South Ferry.&lt;/STRONG&gt;
                 &lt;br/&gt;&lt;br/&gt;
               
                     &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
@@ -29,7 +26,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>05/03/2018</Date>
-    <Time>12:01AM</Time>
+    <Time>12:43AM</Time>
   </line>
   <line>
     <name>456</name>
