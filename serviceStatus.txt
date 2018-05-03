@@ -22,10 +22,18 @@
   </line>
   <line>
     <name>7</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>SERVICE CHANGE</status>
+    <text>
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;05/03/2018&amp;nbsp; 9:42AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;P&gt;Hudson Yards-bound [7] trains will arrive on the express track at &lt;STRONG&gt;Mets-Willets Point&lt;/STRONG&gt; because of a train with mechanical problems.&lt;/P&gt;
+&lt;P&gt;For Manhattan-bound service, please go to the express (middle) platform.&lt;/P&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>05/03/2018</Date>
+    <Time> 9:42AM</Time>
   </line>
   <line>
     <name>ACE</name>
@@ -446,17 +454,10 @@
   </line>
   <line>
     <name>Far Rockaway</name>
-    <status>DELAYS</status>
-    <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;05/03/2018&amp;nbsp; 9:13AM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  The 8:35AM train from Atlantic Terminal due Far Rockaway at 9:32AM is operating 10 minutes late as a result of a late-arriving connection.
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>05/03/2018</Date>
-    <Time> 9:13AM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>Hempstead</name>
