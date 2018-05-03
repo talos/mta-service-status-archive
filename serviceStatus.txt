@@ -77,9 +77,9 @@
     <text>
                     &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;05/03/2018&amp;nbsp; 5:16PM
+                    &amp;nbsp;Posted:&amp;nbsp;05/03/2018&amp;nbsp; 5:57PM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  Northbound [N] trains are running with delays because of signal problems at &lt;STRONG&gt;86 St&lt;/STRONG&gt;.
+                  [N] train service has resumed following earlier signal problems at &lt;STRONG&gt;86 St&lt;/STRONG&gt;.
                 &lt;br/&gt;&lt;br/&gt;
               
                     &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
@@ -94,7 +94,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>05/03/2018</Date>
-    <Time> 5:16PM</Time>
+    <Time> 5:57PM</Time>
   </line>
   <line>
     <name>S</name>
@@ -585,10 +585,17 @@
   </line>
   <line>
     <name>Hempstead</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>DELAYS</status>
+    <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;05/03/2018&amp;nbsp; 5:56PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  The 5:04PM train from Penn due Hempstead at 5:57PM is operating 17 minutes late due to late train ahead.
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>05/03/2018</Date>
+    <Time> 5:56PM</Time>
   </line>
   <line>
     <name>Long Beach</name>
