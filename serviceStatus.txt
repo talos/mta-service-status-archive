@@ -1,10 +1,19 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>DELAYS</status>
+    <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;05/02/2018&amp;nbsp; 8:41PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;P&gt;Southbound [1] trains end at &lt;STRONG&gt;Rector St&lt;/STRONG&gt; because of switch problems at &lt;STRONG&gt;South Ferry&lt;/STRONG&gt;.&lt;/P&gt;
+&lt;P&gt;Expect delays on [1] trains in both directions. &lt;/P&gt;
+&lt;P&gt; &lt;/P&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>05/02/2018</Date>
+    <Time> 8:41PM</Time>
   </line>
   <line>
     <name>456</name>
@@ -301,8 +310,21 @@
   </line>
   <line>
     <name>M1 - M116</name>
-    <status>DELAYS</status>
+    <status>SERVICE CHANGE</status>
     <text>
+                  &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                  &lt;span class="DateStyle"&gt;
+                  &amp;nbsp;Posted:&amp;nbsp;05/02/2018&amp;nbsp; 8:42PM
+                  &lt;/span&gt;
+                  &lt;br/&gt;
+                  &lt;br/&gt;
+                &lt;P&gt;&lt;STRONG&gt;M72 &lt;/STRONG&gt;buses are detoured in both directions because of FDNY activity on 72 St and Lexington Av.&lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;M72 Eastbound:&lt;/STRONG&gt; Eastbound via regular route Madison Av, right on 68 St, left on 3 Av, right on 72 St and regular route.&lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;M72 Westbound:&lt;/STRONG&gt; Westbound via regular route 72 St, right on 3 Av, left on 79 St, left on Lexington Av, right on 72 St and regular route.&lt;/P&gt;
+&lt;P&gt;All corresponding bus stops will be made.&lt;/P&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
                   &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                   &lt;span class="DateStyle"&gt;
                   &amp;nbsp;Posted:&amp;nbsp;05/02/2018&amp;nbsp; 8:36PM
@@ -333,7 +355,7 @@
               &lt;br/&gt;
             </text>
     <Date>05/02/2018</Date>
-    <Time> 8:36PM</Time>
+    <Time> 8:42PM</Time>
   </line>
   <line>
     <name>Q1 - Q113</name>
