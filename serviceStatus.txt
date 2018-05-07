@@ -1,31 +1,17 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>DELAYS</status>
-    <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;05/07/2018&amp;nbsp; 7:13AM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  [4] and [5] train service has resumed following an earlier incident involving a train with mechanical problems at &lt;STRONG&gt;Atlantic Av-Barclays Ctr.&lt;/STRONG&gt;
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>05/07/2018</Date>
-    <Time> 7:13AM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>456</name>
-    <status>DELAYS</status>
-    <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;05/07/2018&amp;nbsp; 7:13AM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  [4] and [5] train service has resumed following an earlier incident involving a train with mechanical problems at &lt;STRONG&gt;Atlantic Av-Barclays Ctr.&lt;/STRONG&gt;
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>05/07/2018</Date>
-    <Time> 7:13AM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>7</name>
@@ -51,7 +37,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>05/07/2018</Date>
-    <Time> 7:22AM</Time>
+    <Time> 7:28AM</Time>
   </line>
   <line>
     <name>BDFM</name>
@@ -101,11 +87,12 @@
     <text>
                     &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;05/07/2018&amp;nbsp; 7:01AM
+                    &amp;nbsp;Posted:&amp;nbsp;05/07/2018&amp;nbsp; 7:27AM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
                   &lt;P&gt;Some northbound [N] and [W] trains are stopping along the [Q] line from &lt;STRONG&gt;57 St-7 Av&lt;/STRONG&gt; to &lt;STRONG&gt;96 St&lt;/STRONG&gt;.&lt;/P&gt;
 &lt;P&gt;Some northbound [N] trains will end at &lt;STRONG&gt;Times Sq-42 St&lt;/STRONG&gt;.&lt;/P&gt;
 &lt;P&gt;There is [N] train shuttle service between &lt;STRONG&gt;Astoria-Ditmars Blvd&lt;/STRONG&gt; and &lt;STRONG&gt;Queensboro Plaza&lt;/STRONG&gt; in both directions.&lt;/P&gt;
+&lt;P&gt;Some northbound [R] trains are stopping along the [B] line from &lt;STRONG&gt;DeKalb Av &lt;/STRONG&gt;to &lt;STRONG&gt;47-50 Sts-Rockefeller Ctr&lt;/STRONG&gt; then via the [F] line to &lt;STRONG&gt;Jackson Hts-Roosevelt Av&lt;/STRONG&gt;.&lt;/P&gt;
 &lt;P&gt;Northbound [R] trains are stopping along the [Q] line from &lt;STRONG&gt;57 St-7 Av&lt;/STRONG&gt; to &lt;STRONG&gt;Lexington Av-63 St&lt;/STRONG&gt; then via the [F] line to &lt;STRONG&gt;Jackson Hts-Roosevelt Av&lt;/STRONG&gt;. &lt;/P&gt;
 &lt;P&gt;These service changes are because of a train with mechanical problems &lt;STRONG&gt;Lexington Av-59 St&lt;/STRONG&gt;.&lt;/P&gt;
 &lt;P&gt;For service between Manhattan and Queens, take [E], [F], [M] or [7] train service.&lt;/P&gt;
@@ -113,7 +100,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>05/07/2018</Date>
-    <Time> 7:01AM</Time>
+    <Time> 7:27AM</Time>
   </line>
   <line>
     <name>S</name>
@@ -125,7 +112,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>05/07/2018</Date>
-    <Time> 7:22AM</Time>
+    <Time> 7:28AM</Time>
   </line>
   <line>
     <name>SIR</name>
@@ -158,7 +145,7 @@
               &lt;br/&gt;
             </text>
     <Date>05/07/2018</Date>
-    <Time> 7:22AM</Time>
+    <Time> 7:28AM</Time>
   </line>
   <line>
     <name>B100 - B103</name>
@@ -197,7 +184,7 @@
               &lt;br/&gt;
             </text>
     <Date>05/07/2018</Date>
-    <Time> 7:22AM</Time>
+    <Time> 7:28AM</Time>
   </line>
   <line>
     <name>BXM1 - BXM18</name>
@@ -210,7 +197,7 @@
               &lt;br/&gt;
             </text>
     <Date>05/07/2018</Date>
-    <Time> 7:22AM</Time>
+    <Time> 7:28AM</Time>
   </line>
   <line>
     <name>M1 - M116</name>
@@ -223,7 +210,7 @@
               &lt;br/&gt;
             </text>
     <Date>05/07/2018</Date>
-    <Time> 7:22AM</Time>
+    <Time> 7:28AM</Time>
   </line>
   <line>
     <name>Q1 - Q113</name>
@@ -254,7 +241,7 @@
               &lt;br/&gt;
             </text>
     <Date>05/07/2018</Date>
-    <Time> 7:22AM</Time>
+    <Time> 7:28AM</Time>
   </line>
   <line>
     <name>QM1 - QM44</name>
@@ -279,7 +266,7 @@
               &lt;br/&gt;
             </text>
     <Date>05/07/2018</Date>
-    <Time> 7:22AM</Time>
+    <Time> 7:28AM</Time>
   </line>
   <line>
     <name>S40 - S98</name>
@@ -298,7 +285,7 @@
               &lt;br/&gt;
             </text>
     <Date>05/07/2018</Date>
-    <Time> 7:22AM</Time>
+    <Time> 7:28AM</Time>
   </line>
   <line>
     <name>x1 - x68</name>
@@ -311,7 +298,7 @@
               &lt;br/&gt;
             </text>
     <Date>05/07/2018</Date>
-    <Time> 7:22AM</Time>
+    <Time> 7:28AM</Time>
   </line>
 </bus><BT>
   <line>
@@ -365,10 +352,17 @@
   </line>
   <line>
     <name>Robert F. Kennedy</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>DELAYS</status>
+    <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;05/07/2018&amp;nbsp; 7:23AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;SPAN style='FONT-SIZE: 11pt; FONT-FAMILY: "Calibri",sans-serif;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>05/07/2018</Date>
+    <Time> 7:23AM</Time>
   </line>
   <line>
     <name>Throgs Neck</name>
@@ -485,6 +479,13 @@
                     &amp;nbsp;Posted:&amp;nbsp;05/07/2018&amp;nbsp; 5:00AM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
                   &lt;h3&gt;&lt;span&gt;Monday, April 30 - Weekday Schedule Changes Begin on Ronkonkoma Branch&lt;/span&gt;&lt;/h3&gt;&lt;h3&gt;&lt;span&gt;&lt;/span&gt;&lt;/h3&gt;&lt;span&gt;As the Double Track project moves into its final phases, weekday schedule changes are needed in order to remove the existing siding at Central Islip and install the second through-running track. Although most changes impact off-peak service, several rush hour trains are affected, starting Monday, April 30 and continuing through the end of summer.  Changes include:&lt;br&gt;&lt;br&gt;&lt;u&gt;&lt;i&gt;Westbound:&lt;/i&gt;&lt;/u&gt;&lt;br&gt; ·       &lt;b&gt;The 7:04AM peak train from Ronkonkoma to Penn Station will originate at Brentwood. The train will depart Brentwood at 7:15 AM, with added stops at Jamaica and Kew Gardens, arriving Penn Station at 8:23 AM.  Customers who normally board this train at Ronkonkoma can take alternate trains departing 8 minutes earlier at 6:56 AM or 15 minutes later at 7:19 AM.&lt;br&gt; &lt;/b&gt;·       The 4:11 PM train from Ronkonkoma will depart two minutes earlier at all stops through Bethpage (Ronkonkoma 4:09; Central Islip 4:16; Brentwood 4:20; Deer Park 4:25; Wyandanch 4:30; Farmingdale 4:36; Bethpage 4:41 PM), arriving Penn Station at5:38 PM. &lt;br&gt;·       The 7:13 PM and 7:58 PM trains from Ronkonkoma will be combined into a new train, departing Ronkonkoma at 7:45 PM (stopping Central Islip 7:52; Brentwood 7:59; Deer Park 8:04; Wyandanch 8:09; Farmingdale 8:15; Bethpage 8:20; Hicksville 8:26; Mineola 8:36 PM), arriving Penn Station at 9:12 PM. &lt;br&gt;&lt;br&gt;Eastbound:&lt;br&gt; ·       The 5:11 AM train from Penn Station to Ronkonkoma will terminate at Brentwood at 6:22 AM. Substitute buses will be provided for customers traveling to Central Islip and Ronkonkoma. Please plan for 31 minutes extra travel time. &lt;br&gt;·       The 3:07 PM train from Penn Station to Ronkonkoma (usual arrival time 4:25 PM) will depart Penn two minutes later at 3:09 PM and arrive Ronkonkoma at 4:30 PM. &lt;br&gt;·       The 7:11 PM peak train from Penn Station to Ronkonkoma (usual arrival time 8:33 PM) will depart Penn six minutes later at 7:17 PM and arrive Ronkonkoma at 8:43 PM. &lt;br&gt;&lt;br&gt;&lt;b&gt;Pickup a copy of the Ronkonkoma Branch weekday timetable dated April 30, 2018 or link here: &lt;/b&gt; &lt;a href="http://web.mta.info/lirr/Timetable/4-30%20to%205-18-2018%20-%20KO%20-%20ML2T%20Cutovers%20-%20GO%20304.pdf"&gt;RonkonkomaBranch&lt;/a&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;For more information&lt;/b&gt;, contact the LIRR's Customer Service Center by calling 511 or 718-217-LIRR (718-217-5477). Automated schedule information is available 24/7. Agents are available to assist customers daily from 6 AM until 10 PM. To speak with an LIRR employee, say the word "Representative" when the prompts begin.&lt;/span&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;05/07/2018&amp;nbsp; 7:27AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  The 7:15AM train from Brentwood due Penn at 8:23AM is operating 10 minutes late due to signal trouble near Brentwood.
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>05/07/2018</Date>
