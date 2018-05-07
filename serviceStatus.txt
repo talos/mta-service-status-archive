@@ -1,24 +1,35 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
-  </line>
-  <line>
-    <name>456</name>
-    <status>DELAYS</status>
+    <status>SERVICE CHANGE</status>
     <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;05/07/2018&amp;nbsp;10:22AM
+                    &amp;nbsp;Posted:&amp;nbsp;05/07/2018&amp;nbsp;10:37AM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  [4] [5] and [6] train service has resumed with delays following earlier signal problems at &lt;STRONG&gt;Brooklyn Bridge-City Hall.&lt;/STRONG&gt;
+                  &lt;P&gt;Some southbound [5] trains are stopping along the [2] line from &lt;STRONG&gt;149 St-Grand Concourse&lt;/STRONG&gt; to &lt;STRONG&gt;Nevins St&lt;/STRONG&gt; because of ongoing signal problems at &lt;STRONG&gt;Brooklyn Bridge-City Hall.&lt;/STRONG&gt;&lt;/P&gt;
+&lt;P&gt;Expect delays on [2] [3] [4] and [5] trains.&lt;/P&gt;
+&lt;P&gt;Our crews are on the scene making repairs and we hope to resume normal service as soon as possible.&lt;/P&gt;
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>05/07/2018</Date>
-    <Time>10:22AM</Time>
+    <Time>10:37AM</Time>
+  </line>
+  <line>
+    <name>456</name>
+    <status>SERVICE CHANGE</status>
+    <text>
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;05/07/2018&amp;nbsp;10:37AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;P&gt;Some southbound [5] trains are stopping along the [2] line from &lt;STRONG&gt;149 St-Grand Concourse&lt;/STRONG&gt; to &lt;STRONG&gt;Nevins St&lt;/STRONG&gt; because of ongoing signal problems at &lt;STRONG&gt;Brooklyn Bridge-City Hall.&lt;/STRONG&gt;&lt;/P&gt;
+&lt;P&gt;Expect delays on [2] [3] [4] and [5] trains.&lt;/P&gt;
+&lt;P&gt;Our crews are on the scene making repairs and we hope to resume normal service as soon as possible.&lt;/P&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>05/07/2018</Date>
+    <Time>10:37AM</Time>
   </line>
   <line>
     <name>7</name>
