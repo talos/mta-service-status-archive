@@ -1,17 +1,31 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>SERVICE CHANGE</status>
+    <text>
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;05/08/2018&amp;nbsp; 4:41PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  Northbound [2] and [5] trains are running express from &lt;STRONG&gt;3 Av-149 St&lt;/STRONG&gt; to &lt;STRONG&gt;E 180 St&lt;/STRONG&gt; because of a sick passenger at &lt;STRONG&gt;Freeman St&lt;/STRONG&gt;.
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>05/08/2018</Date>
+    <Time> 4:41PM</Time>
   </line>
   <line>
     <name>456</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>SERVICE CHANGE</status>
+    <text>
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;05/08/2018&amp;nbsp; 4:41PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  Northbound [2] and [5] trains are running express from &lt;STRONG&gt;3 Av-149 St&lt;/STRONG&gt; to &lt;STRONG&gt;E 180 St&lt;/STRONG&gt; because of a sick passenger at &lt;STRONG&gt;Freeman St&lt;/STRONG&gt;.
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>05/08/2018</Date>
+    <Time> 4:41PM</Time>
   </line>
   <line>
     <name>7</name>
