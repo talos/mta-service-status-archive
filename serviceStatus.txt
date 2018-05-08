@@ -1,21 +1,17 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>SERVICE CHANGE</status>
+    <status>DELAYS</status>
     <text>
-                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;05/08/2018&amp;nbsp;10:10AM
+                    &amp;nbsp;Posted:&amp;nbsp;05/08/2018&amp;nbsp;10:36AM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  &lt;P&gt;There is no [1] train service between &lt;STRONG&gt;Chambers St and South Ferry.&lt;/STRONG&gt;&lt;/P&gt;
-&lt;P&gt;Some northbound [3] trains are running local from &lt;STRONG&gt;Chambers St &lt;/STRONG&gt;to&lt;STRONG&gt; 96 St&lt;/STRONG&gt;.&lt;/P&gt;
-&lt;P&gt;These service changes are because of a train with mechanical problems at &lt;STRONG&gt;South Ferry&lt;/STRONG&gt;.&lt;/P&gt;
-&lt;P&gt;Expect delays on the [1], [2] and [3] trains.&lt;/P&gt;
-&lt;P&gt;As an alternative, you can take the [R], [W] or M55 bus which makes stops near [1] train stations.&lt;/P&gt;
+                  [1] trains are running with delays because of an earlier train with mechanical problems at &lt;STRONG&gt;South Ferry.&lt;/STRONG&gt;
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>05/08/2018</Date>
-    <Time>10:10AM</Time>
+    <Time>10:36AM</Time>
   </line>
   <line>
     <name>456</name>
@@ -53,7 +49,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>05/08/2018</Date>
-    <Time>10:28AM</Time>
+    <Time>10:32AM</Time>
   </line>
   <line>
     <name>ACE</name>
@@ -77,7 +73,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>05/08/2018</Date>
-    <Time>10:28AM</Time>
+    <Time>10:32AM</Time>
   </line>
   <line>
     <name>G</name>
@@ -96,7 +92,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>05/08/2018</Date>
-    <Time>10:28AM</Time>
+    <Time>10:32AM</Time>
   </line>
   <line>
     <name>L</name>
@@ -108,7 +104,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>05/08/2018</Date>
-    <Time>10:28AM</Time>
+    <Time>10:32AM</Time>
   </line>
   <line>
     <name>NQR</name>
@@ -127,7 +123,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>05/08/2018</Date>
-    <Time>10:28AM</Time>
+    <Time>10:32AM</Time>
   </line>
   <line>
     <name>SIR</name>
@@ -139,7 +135,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>05/08/2018</Date>
-    <Time>10:28AM</Time>
+    <Time>10:32AM</Time>
   </line>
 </subway><bus>
   <line>
@@ -245,7 +241,7 @@
               &lt;br/&gt;
             </text>
     <Date>05/08/2018</Date>
-    <Time>10:28AM</Time>
+    <Time>10:32AM</Time>
   </line>
   <line>
     <name>BXM1 - BXM18</name>
@@ -258,7 +254,7 @@
               &lt;br/&gt;
             </text>
     <Date>05/08/2018</Date>
-    <Time>10:28AM</Time>
+    <Time>10:32AM</Time>
   </line>
   <line>
     <name>M1 - M116</name>
@@ -389,7 +385,7 @@
               &lt;br/&gt;
             </text>
     <Date>05/08/2018</Date>
-    <Time>10:28AM</Time>
+    <Time>10:32AM</Time>
   </line>
   <line>
     <name>S40 - S98</name>
@@ -408,7 +404,7 @@
               &lt;br/&gt;
             </text>
     <Date>05/08/2018</Date>
-    <Time>10:28AM</Time>
+    <Time>10:32AM</Time>
   </line>
   <line>
     <name>x1 - x68</name>
@@ -483,17 +479,10 @@
   </line>
   <line>
     <name>Verrazano-Narrows</name>
-    <status>DELAYS</status>
-    <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;05/08/2018&amp;nbsp; 6:39AM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  VNB: OFF PROPERTY DELAYS, BROOKLYN BOUND. BOTH LEVELS DUE TO VOLUME ON THE GOWANUS EXPRESSWAY.
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>05/08/2018</Date>
-    <Time> 6:39AM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
 </BT><LIRR>
   <line>
@@ -552,18 +541,10 @@
   </line>
   <line>
     <name>Port Jefferson</name>
-    <status>DELAYS</status>
-    <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;05/08/2018&amp;nbsp;10:15AM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  &lt;p align="left"&gt;The 8:55AM train from Huntington due Penn at 10:05AM is operating 30 minutes late due to late-arriving equipment. 
-        &lt;/p&gt;&lt;div align="left"&gt;&lt;br&gt;&lt;/div&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>05/08/2018</Date>
-    <Time>10:15AM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>Port Washington</name>
