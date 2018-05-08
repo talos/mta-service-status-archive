@@ -1,10 +1,18 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>SERVICE CHANGE</status>
+    <text>
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;05/08/2018&amp;nbsp; 6:10PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;P&gt;Northbound [1] trains are running express from &lt;STRONG&gt;96 St&lt;/STRONG&gt; to &lt;STRONG&gt;145 St&lt;/STRONG&gt; because of FDNY activity at &lt;STRONG&gt;137 St-City College&lt;/STRONG&gt;.&lt;/P&gt;
+&lt;P&gt;Expect delays in [1], [2] and [3] train service.  &lt;/P&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>05/08/2018</Date>
+    <Time> 6:10PM</Time>
   </line>
   <line>
     <name>456</name>
