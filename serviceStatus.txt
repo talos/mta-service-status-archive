@@ -673,10 +673,17 @@
   </line>
   <line>
     <name>Oyster Bay</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>DELAYS</status>
+    <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;05/08/2018&amp;nbsp; 5:31PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  The 4:44PM train from Long Island City due Oyster Bay at 6:15PM is being delayed in Jamaica due to equipment trouble.
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>05/08/2018</Date>
+    <Time> 5:31PM</Time>
   </line>
   <line>
     <name>Port Jefferson</name>
@@ -694,15 +701,8 @@
   </line>
   <line>
     <name>Ronkonkoma</name>
-    <status>DELAYS</status>
+    <status>SERVICE CHANGE</status>
     <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;05/08/2018&amp;nbsp; 5:11PM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  &lt;span style="font-family: Arial, Helvetica; font-size: medium;"&gt;The 4:48PM train from Ronkonkoma due Penn at 6:08PM is operating approximately 10 minutes late due to late-arriving equipment.&lt;/span&gt;
-                &lt;br/&gt;&lt;br/&gt;
-              
                     &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
                     &amp;nbsp;Posted:&amp;nbsp;05/08/2018&amp;nbsp; 8:55AM
@@ -711,7 +711,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>05/08/2018</Date>
-    <Time> 5:11PM</Time>
+    <Time> 8:55AM</Time>
   </line>
   <line>
     <name>West Hempstead</name>
