@@ -1,10 +1,17 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>SERVICE CHANGE</status>
+    <text>
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;05/09/2018&amp;nbsp; 4:23PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  [1], [2], [3], [F], and [M] trains are bypassing &lt;STRONG&gt;14 St&lt;/STRONG&gt; in both directions because of an NYPD investigation at &lt;STRONG&gt;14 St.&lt;/STRONG&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>05/09/2018</Date>
+    <Time> 4:23PM</Time>
   </line>
   <line>
     <name>456</name>
@@ -30,14 +37,21 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>05/09/2018</Date>
-    <Time> 4:12PM</Time>
+    <Time> 4:22PM</Time>
   </line>
   <line>
     <name>BDFM</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>SERVICE CHANGE</status>
+    <text>
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;05/09/2018&amp;nbsp; 4:23PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  [1], [2], [3], [F], and [M] trains are bypassing &lt;STRONG&gt;14 St&lt;/STRONG&gt; in both directions because of an NYPD investigation at &lt;STRONG&gt;14 St.&lt;/STRONG&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>05/09/2018</Date>
+    <Time> 4:23PM</Time>
   </line>
   <line>
     <name>G</name>
@@ -77,7 +91,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>05/09/2018</Date>
-    <Time> 4:12PM</Time>
+    <Time> 4:22PM</Time>
   </line>
   <line>
     <name>SIR</name>
@@ -91,6 +105,16 @@
     <name>B1 - B84</name>
     <status>DELAYS</status>
     <text>
+                  &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                  &lt;span class="DateStyle"&gt;
+                  &amp;nbsp;Posted:&amp;nbsp;05/09/2018&amp;nbsp; 4:24PM
+                  &lt;/span&gt;
+                  &lt;br/&gt;
+                  &lt;br/&gt;
+                &lt;STRONG&gt;B15, B45, B47&lt;/STRONG&gt; and &lt;STRONG&gt;B65&lt;/STRONG&gt; bus service has resumed following earlier construction on St Johns Pl between Ralph Av and Buffalo Av.
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
                   &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                   &lt;span class="DateStyle"&gt;
                   &amp;nbsp;Posted:&amp;nbsp;05/09/2018&amp;nbsp; 4:13PM
@@ -144,16 +168,6 @@
               &lt;br/&gt;
               &lt;br/&gt;
             
-                  &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                  &lt;span class="DateStyle"&gt;
-                  &amp;nbsp;Posted:&amp;nbsp;05/09/2018&amp;nbsp; 4:00PM
-                  &lt;/span&gt;
-                  &lt;br/&gt;
-                  &lt;br/&gt;
-                &lt;STRONG&gt;B15&lt;/STRONG&gt;, &lt;STRONG&gt;B45&lt;/STRONG&gt;, &lt;STRONG&gt;B47&lt;/STRONG&gt; and &lt;STRONG&gt;B65&lt;/STRONG&gt; buses are running with delays in both directions because of construction on St Johns Pl between Ralph Av and Buffalo Av.
-              &lt;br/&gt;
-              &lt;br/&gt;
-            
                   &lt;span class="TitlePlannedWork" &gt;Planned Detour&lt;/span&gt;
                   &lt;br/&gt;
                 &lt;a class="plannedWorkDetailLink" onclick=ShowHide(187833);&gt;&lt;b&gt;B7 &lt;/b&gt;- &lt;b&gt;Northbound stop on Thomas S Boyland St at Atlantic Av temporarily relocated&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 187833 class="plannedWorkDetail" &gt;&lt;/b&gt;Until 8 AM Wednesday, May 30&lt;br&gt;&lt;br&gt;Due to construction, please use the nearby temporary stop &lt;b&gt;on Thomas S Boyland St &lt;/b&gt;near Atlantic Av.&lt;br&gt;&lt;b&gt;                              [TP]&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
@@ -179,7 +193,7 @@
               &lt;br/&gt;
             </text>
     <Date>05/09/2018</Date>
-    <Time> 4:13PM</Time>
+    <Time> 4:24PM</Time>
   </line>
   <line>
     <name>B100 - B103</name>
@@ -283,7 +297,7 @@
               &lt;br/&gt;
             </text>
     <Date>05/09/2018</Date>
-    <Time> 4:12PM</Time>
+    <Time> 4:22PM</Time>
   </line>
   <line>
     <name>M1 - M116</name>
