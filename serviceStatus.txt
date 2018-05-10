@@ -1,10 +1,17 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>DELAYS</status>
+    <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;05/10/2018&amp;nbsp; 5:26PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  [1] train service has resumed following an earlier incident involving a train with mechanical problems at &lt;STRONG&gt;145 St&lt;/STRONG&gt;.
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>05/10/2018</Date>
+    <Time> 5:26PM</Time>
   </line>
   <line>
     <name>456</name>
@@ -80,20 +87,13 @@
     <text>
                     &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;05/10/2018&amp;nbsp; 5:10PM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  [N] and [Q] train service has resumed following an earlier incident involving a train with mechanical problems at &lt;STRONG&gt;14 St-Union Sq&lt;/STRONG&gt;.
-                &lt;br/&gt;&lt;br/&gt;
-              
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
                     &amp;nbsp;Posted:&amp;nbsp;05/10/2018&amp;nbsp; 4:08PM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
                   [R] and [W] trains are running with delays in both directions because of signal problems at &lt;STRONG&gt;Whitehall St-South Ferry&lt;/STRONG&gt;.
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>05/10/2018</Date>
-    <Time> 5:10PM</Time>
+    <Time> 4:08PM</Time>
   </line>
   <line>
     <name>S</name>
