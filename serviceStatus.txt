@@ -1,17 +1,10 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>DELAYS</status>
-    <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;05/10/2018&amp;nbsp; 8:13AM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  [2] and [3] train service has resumed following an earlier incident involving switch problems at &lt;STRONG&gt;Harlem-148 St&lt;/STRONG&gt;.
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>05/10/2018</Date>
-    <Time> 8:13AM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>456</name>
@@ -558,8 +551,15 @@
   </line>
   <line>
     <name>Ronkonkoma</name>
-    <status>SERVICE CHANGE</status>
+    <status>DELAYS</status>
     <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;05/10/2018&amp;nbsp; 8:31AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  The 7:39AM train from Penn due Ronkonkoma at 8:59AM is operating 10 minutes late as a result of a late train ahead.
+                &lt;br/&gt;&lt;br/&gt;
+              
                     &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
                     &amp;nbsp;Posted:&amp;nbsp;05/10/2018&amp;nbsp; 5:00AM
@@ -568,7 +568,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>05/10/2018</Date>
-    <Time> 5:00AM</Time>
+    <Time> 8:31AM</Time>
   </line>
   <line>
     <name>West Hempstead</name>
