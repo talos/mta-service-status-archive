@@ -1,10 +1,17 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>DELAYS</status>
+    <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;05/10/2018&amp;nbsp; 8:11AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  [3] trains are running with delays because of switch problems at &lt;STRONG&gt;Harlem-148 St&lt;/STRONG&gt;.
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>05/10/2018</Date>
+    <Time> 8:11AM</Time>
   </line>
   <line>
     <name>456</name>
@@ -113,6 +120,16 @@
     <text>
                   &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                   &lt;span class="DateStyle"&gt;
+                  &amp;nbsp;Posted:&amp;nbsp;05/10/2018&amp;nbsp; 8:10AM
+                  &lt;/span&gt;
+                  &lt;br/&gt;
+                  &lt;br/&gt;
+                &lt;STRONG&gt;B12&lt;/STRONG&gt; buses are running with delays because of blockage at the bus stop on Parkside Av and Flatbush Av.
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
+                  &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                  &lt;span class="DateStyle"&gt;
                   &amp;nbsp;Posted:&amp;nbsp;05/10/2018&amp;nbsp; 7:39AM
                   &lt;/span&gt;
                   &lt;br/&gt;
@@ -147,7 +164,7 @@
               &lt;br/&gt;
             </text>
     <Date>05/10/2018</Date>
-    <Time> 7:39AM</Time>
+    <Time> 8:10AM</Time>
   </line>
   <line>
     <name>B100 - B103</name>
@@ -300,19 +317,15 @@
   </line>
   <line>
     <name>S40 - S98</name>
-    <status>SERVICE CHANGE</status>
+    <status>DELAYS</status>
     <text>
-                  &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                  &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                   &lt;span class="DateStyle"&gt;
-                  &amp;nbsp;Posted:&amp;nbsp;05/10/2018&amp;nbsp; 6:32AM
+                  &amp;nbsp;Posted:&amp;nbsp;05/10/2018&amp;nbsp; 8:12AM
                   &lt;/span&gt;
                   &lt;br/&gt;
                   &lt;br/&gt;
-                &lt;P&gt;&lt;STRONG&gt;S42 &lt;/STRONG&gt;and&lt;STRONG&gt; S52&lt;/STRONG&gt; buses are detoured in both directions because of a downed utility pole on Bay St and Slosson Terrace. &lt;/P&gt;
-&lt;P&gt;Detour is as follows:&lt;/P&gt;
-&lt;P&gt;&lt;STRONG&gt;Clyde Place and Hospital-bound:&lt;/STRONG&gt; Via Bay St, right on Victory Blvd, right on Montgomery Av, right on Fort Place, left on St Marks Place and  then resume their regular route.&lt;/P&gt;
-&lt;P&gt;&lt;STRONG&gt;St George Ferry-bound&lt;/STRONG&gt;: Via St Marks Place, continue to Victory Blvd, left on Victory Blvd, left on Bay St into the terminal.&lt;/P&gt;
-&lt;P&gt; &lt;/P&gt;
+                &lt;STRONG&gt;S42 &lt;/STRONG&gt;and&lt;STRONG&gt; S52&lt;/STRONG&gt; bus service has resumed following a downed utility pole on Bay St and Slosson Terrace.
               &lt;br/&gt;
               &lt;br/&gt;
             
@@ -354,7 +367,7 @@
               &lt;br/&gt;
             </text>
     <Date>05/10/2018</Date>
-    <Time> 6:32AM</Time>
+    <Time> 8:12AM</Time>
   </line>
   <line>
     <name>x1 - x68</name>
