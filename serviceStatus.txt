@@ -1,108 +1,38 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>PLANNED WORK</status>
-    <text>
-                    &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
-                    &lt;br/&gt;
-                  &lt;a class="plannedWorkDetailLink" onclick=ShowHide(162679);&gt;&lt;b&gt;TUNNEL RECONSTRUCTION | Until 12:01 AM, Sunday Jun 24, 2018&lt;/b&gt; &lt;br clear=left&gt;&lt;b&gt;Weekend [2] [3] station closures and route changes&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 162679 class="plannedWorkDetail" &gt;&lt;br&gt;&lt;/b&gt;Normal weekend service is scheduled to resume 12:01 AM Sunday, Jun 24, 2018.&lt;br&gt;&lt;br&gt;No service at Park Place, Wall St, Clark St and Hoyt St; use nearby [4] [5] stations&lt;br&gt;&lt;br&gt;No [2] [3] service between Manhattan and Brooklyn; take the [4] or [5] instead.&lt;br&gt;&lt;br&gt;Free out-of system transfer is available between South Ferry [1] [2] and Bowling Green [4] [5].&lt;br&gt;&lt;br&gt;Weekend service map for &lt;a href=http://web.mta.info/nyct/service/pdf/FF_Clark_St_web_map.pdf target=_blank&gt;&lt;font color=#0000FF&gt;Lower Manhattan and Downtown Brooklyn&lt;/font&gt;&lt;/a&gt;&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>05/12/2018</Date>
-    <Time> 1:02AM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>456</name>
-    <status>PLANNED WORK</status>
-    <text>
-                    &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
-                    &lt;br/&gt;
-                  &lt;a class="plannedWorkDetailLink" onclick=ShowHide(185929);&gt;&lt;b&gt;TRACK MAINTENANCE | 9:45 PM Fri, May 11 to 5 AM Mon, May 14&lt;br clear=left&gt;Pelham Bay Park-bound [6] trains skip 23 St, 28 St and 33 St in Manhattan&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 185929 class="plannedWorkDetail" &gt;&lt;br&gt;&lt;/b&gt;For service &lt;i&gt;to &lt;/i&gt;these stations, take the [6] to Grand Central-42 St&lt;br&gt;and transfer to a downtown [4] &lt;i&gt;local &lt;/i&gt;or [6].&lt;br&gt;&lt;br&gt;For service &lt;i&gt;from &lt;/i&gt;these stations, take the [4] or [6] to 14 St-Union Sq&lt;br&gt;and transfer to a Pelham Bay Park-bound [6].&lt;br&gt;&lt;br&gt;&lt;table class=plannedworkTableStyle  border=1 cellspacing=1 cellpadding=5 rules=none frame=box&gt;&lt;td&gt;  [ad]  &lt;td&gt;&lt;font size=1&gt;This service change affects one or more ADA accessible stations. Please call 511 for help with planning&lt;br&gt;your trip. If you are deaf or hard of hearing, use your preferred relay service provider or the free 711 relay.  &lt;/font&gt;&lt;/table&gt;&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
-                &lt;br/&gt;&lt;br/&gt;
-              
-                    &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
-                    &lt;br/&gt;
-                  &lt;a class="plannedWorkDetailLink" onclick=ShowHide(185934);&gt;&lt;b&gt;TRACK MAINTENANCE | 10 PM Fri, May 11 to 5 AM Mon, May 14&lt;br clear=left&gt;Woodlawn-bound [4] trains run local in Manhattan from Grand Central-42 St to 125 St&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 185934 class="plannedWorkDetail" &gt;&lt;br&gt;&lt;/b&gt;&amp;bull; Please allow additional travel time.&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
-                &lt;br/&gt;&lt;br/&gt;
-              
-                    &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
-                    &lt;br/&gt;
-                  &lt;a class="plannedWorkDetailLink" onclick=ShowHide(185932);&gt;&lt;b&gt;TRACK MAINTENANCE | 10 PM Fri, May 11 to 5 AM Mon, May 14&lt;br clear=left&gt;Woodlawn-bound [4] trains run local in Manhattan from Brooklyn Bridge to 14 St-Union Sq&lt;/b&gt;&lt;i&gt;&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 185932 class="plannedWorkDetail" &gt;&lt;br&gt;&lt;/i&gt;&amp;bull; Please allow additional travel time.&lt;br&gt;&lt;br&gt;&lt;b&gt;Reminder:&lt;/b&gt; [4] trains run local during late night.&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
-                &lt;br/&gt;&lt;br/&gt;
-              
-                    &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
-                    &lt;br/&gt;
-                  &lt;a class="plannedWorkDetailLink" onclick=ShowHide(185930);&gt;&lt;b&gt;TRACK MAINTENANCE | May 12 - 14, Sat to Mon, 12:01 AM to 5 AM&lt;br clear=left&gt;[4] Woodlawn-bound trains skip 23 St, 28 St and 33 St, in Manhattan&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 185930 class="plannedWorkDetail" &gt;&lt;br&gt;&lt;/b&gt;For service &lt;i&gt;to &lt;/i&gt;these stations, take the [4] to Grand Central-42 St&lt;br&gt;and transfer to a downtown [4] &lt;i&gt;local &lt;/i&gt;or [6].&lt;br&gt;&lt;br&gt;For service &lt;i&gt;from &lt;/i&gt;these stations, take the [4] or [6] to 14 St-Union Sq&lt;br&gt;and transfer to a Woodlawn-bound [4].&lt;br&gt;&lt;br&gt;&lt;table class=plannedworkTableStyle  border=1 cellspacing=1 cellpadding=5 rules=none frame=box&gt;&lt;td&gt;  [ad]  &lt;td&gt;&lt;font size=1&gt;This service change affects one or more ADA accessible stations. Please call 511 for help with planning&lt;br&gt;your trip. If you are deaf or hard of hearing, use your preferred relay service provider or the free 711 relay.  &lt;/font&gt;&lt;/table&gt;&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>05/12/2018</Date>
-    <Time> 1:02AM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>7</name>
-    <status>PLANNED WORK</status>
-    <text>
-                    &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
-                    &lt;br/&gt;
-                  &lt;a class="plannedWorkDetailLink" onclick=ShowHide(188455);&gt;&lt;b&gt;SIGNAL MODERNIZATION | 12:15 AM Sat, May 12 to 4:30 AM Mon, May 14&lt;br clear=left&gt;No [7] trains between Queensboro Plaza, Queens and 34 St-Hudson Yards, Manhattan&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 188455 class="plannedWorkDetail" &gt;[E] [F] [N] [R] [S] [W] trains and [SB] free shuttle buses provide alternate service&lt;br&gt;&lt;br&gt;[7]&lt;/b&gt; service operates between &lt;b&gt;Main St&lt;/b&gt; and &lt;b&gt;Queensboro Plaza&lt;/b&gt;.&lt;br&gt;&lt;br&gt;[SB] Buses operate in two sections:&lt;br&gt;  1. &lt;b&gt;Queens&lt;/b&gt; between &lt;b&gt;Queensboro Plaza&lt;/b&gt; and &lt;b&gt;Vernon Blvd-Jackson Av&lt;/b&gt;.&lt;br&gt;  2. &lt;b&gt;Manhattan&lt;/b&gt; between &lt;b&gt;Times Sq-42 St&lt;/b&gt; and &lt;b&gt;34 St-Hudson Yards&lt;/b&gt;.&lt;br&gt;&lt;br&gt;Special [W] service operates between Whitehall St and Ditmars Blvd during the following times: &lt;br&gt;&lt;b&gt;Saturday&lt;/b&gt;, 7 AM to 9 PM &amp;bull; &lt;b&gt;Sunday&lt;/b&gt;, 9 AM to 7 PM&lt;br&gt;&lt;br&gt;&lt;/font&gt;&lt;b&gt;[S]&lt;/b&gt; 42 Street Shuttle service operates overnight.&lt;br&gt;&lt;br&gt;&lt;table class=plannedworkTableStyle  width=80%&gt;&lt;tr&gt;&lt;td&gt;&lt;font size=3&gt;&lt;b&gt;Travel Alternatives&lt;/b&gt;&lt;/font&gt;&lt;td align=right&gt;[TP]&lt;/table&gt;&lt;br&gt;&lt;/font&gt;For service between Queens and Manhattan, take the [E] [F] [N] [R] or [W].&lt;br&gt;&lt;br&gt;&amp;bull; Transfer between &lt;b&gt;[7]&lt;/b&gt; and &lt;b&gt;[E] [F] [R]&lt;/b&gt; trains at 74 St-Roosevelt Av.&lt;br&gt;&amp;bull; Transfer between &lt;b&gt;[7]&lt;/b&gt; and &lt;b&gt;[N]&lt;/b&gt; [W] trains at Queensboro Plaza.&lt;br&gt;&lt;br&gt;&lt;table class=plannedworkTableStyle  border=1 cellspacing=1 cellpadding=3 rules=rows frame=hsides&gt;&lt;tr bgcolor=#FAF8CC&gt;&lt;td&gt;&lt;b&gt;Queens Station&lt;/b&gt;&lt;td&gt;[SB] &lt;b&gt;Shuttle Bus Stop&lt;/b&gt;&lt;tr&gt;&lt;td&gt;Queensboro Plaza [7] [N] [W]&lt;td&gt;Queens Plaza South at 27 St&lt;tr&gt;&lt;td&gt;Queens Plaza [ad] [E] [R]&lt;td&gt;42 Rd at Jackson Av&lt;tr&gt;&lt;td rowspan=2&gt;Court Sq-23 St [E] &lt;td&gt;Jackson Av at 45 Av (to Vernon Blvd-Jackson Av)&lt;tr&gt;&lt;td&gt;Jackson Av at Thomson Av (to Queensboro Plaza)&lt;tr&gt;&lt;td rowspan=3&gt;Hunters Point Av&lt;td&gt;Jackson Av at 47 Av (to Vernon Blvd-Jackson Av)&lt;tr&gt;&lt;td&gt;Jackson Av at 21 St (to Queensboro Plaza)&lt;tr&gt;&lt;td&gt;Jackson Av at 11 St (to Queensboro Plaza)&lt;tr&gt;&lt;td&gt;Vernon Blvd-Jackson Av&lt;td&gt;Vernon Blvd at 50 Av&lt;tr bgcolor=#FAF8CC&gt;&lt;td&gt;&lt;b&gt;Manhattan Station&lt;/b&gt;&lt;td&gt;&lt;b&gt;Alternate Service&lt;/b&gt;&lt;tr&gt;&lt;td rowspan=2&gt;Grand Central-42 St&lt;br&gt;[ad] &lt;font size=1&gt; except S&lt;/font&gt;&lt;td&gt;[4] [6] via [N] [R] [W] at Lexington Av/59 St or [E] at Lexington Av/53 St&lt;tr&gt;&lt;td&gt;[S] via Times Sq-42 St&lt;tr&gt;&lt;td&gt;5 Av&lt;td&gt;[F] (42 St-Bryant Pk)&lt;tr&gt;&lt;td rowspan=2&gt;Times Sq-42 St&lt;br&gt;[ad] &lt;font size=1&gt; except S&lt;/font&gt; &lt;td&gt;[N] [R] [W] and [SB] 42 St at 7 Av&lt;tr&gt;&lt;td&gt; [E] and [SB] 44 St at 8 Av (42 St-Port Authority)&lt;tr&gt;&lt;td&gt;34 St-Hudson Yards&lt;td&gt;[SB] 34 St at Hudson Blvd East or [E] at nearby &lt;a href=http://web.mta.info/weekender/tileMap.html?staID=18239 target=_blank&gt;&lt;font color=#0000FF&gt;34 St-Penn Station&lt;/font&gt;&lt;/a&gt;&lt;/table&gt;&lt;br&gt;&lt;/font&gt;&lt;table class=plannedworkTableStyle  border=1 cellspacing=1 cellpadding=5 rules=none frame=box&gt;&lt;td&gt;  [ad]  &lt;td&gt;&lt;font size=1&gt;This service change affects one or more ADA accessible stations. Please call 511 for help with planning&lt;br&gt;your trip. If you are deaf or hard of hearing, use your preferred relay service provider or the free 711 relay.  &lt;/font&gt;&lt;/table&gt;&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>05/12/2018</Date>
-    <Time> 1:02AM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>ACE</name>
-    <status>PLANNED WORK</status>
-    <text>
-                    &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
-                    &lt;br/&gt;
-                  &lt;a class="plannedWorkDetailLink" onclick=ShowHide(186078);&gt;&lt;b&gt;TRACK REPLACEMENT | 11:45 PM Fri, May 11 to 5 AM Mon, May 14&lt;/font&gt;&lt;br clear=left&gt;[E] World Trade Center-bound trains skip Briarwood and 75 Av in Queens&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 186078 class="plannedWorkDetail" &gt;&lt;br&gt;&lt;/b&gt;For service &lt;i&gt;to&lt;/i&gt; these stations, take the [E] to Union Tpke or 71 Av and transfer&lt;br&gt;to a Jamaica Center-bound [E], Jamaica-bound [F] or [R]*.&lt;br&gt;&lt;br&gt;For service &lt;i&gt;from&lt;/i&gt; Briarwood, take the [E] to Jamaica-Van Wyck, and transfer&lt;br&gt;to a World Trade Center-bound [E].&lt;br&gt;&lt;br&gt;For service &lt;i&gt;from&lt;/i&gt; 75 Av, take the [E] [F] or [R] to Union Tpke and transfer&lt;br&gt;to a World Trade Center-bound [E].&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
-                &lt;br/&gt;&lt;br/&gt;
-              
-                    &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
-                    &lt;br/&gt;
-                  &lt;a class="plannedWorkDetailLink" onclick=ShowHide(186059);&gt;&lt;b&gt;TRACK REPLACEMENT | 9:45 PM Fri, May 11 to 5 AM Mon, May 14&lt;br clear=left&gt;Inwood-bound [A] trains run via the [F] from Jay St-MetroTech, Brooklyn to W 4 St, Manhattan&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 186059 class="plannedWorkDetail" &gt;&lt;/b&gt;9:45 PM Fri, May 11 to 5 AM Mon, May 14&lt;/font&gt;     &lt;/font&gt;     &lt;br&gt;&lt;br&gt;No Inwood-bound service at &lt;b&gt;High&lt;/b&gt;, &lt;b&gt;Fulton&lt;/b&gt;, &lt;b&gt;Chambers&lt;/b&gt;, &lt;b&gt;Canal&lt;/b&gt; and &lt;b&gt;Spring Sts&lt;/b&gt;.&lt;br&gt;&lt;br&gt;&lt;/font&gt;&lt;table class=plannedworkTableStyle  width=80%&gt;&lt;tr&gt;&lt;td&gt;&lt;font size=3&gt;&lt;b&gt;Travel Alternatives&lt;/b&gt;&lt;/font&gt;&lt;td align=right&gt;[TP]&lt;/table&gt;&lt;br&gt;For service &lt;i&gt;to &lt;/i&gt;&lt;b&gt;High&lt;/b&gt;, &lt;b&gt;Chambers&lt;/b&gt;, &lt;b&gt;Canal&lt;/b&gt; and &lt;b&gt;Spring Sts&lt;/b&gt;, take the [A] to W 4 St and transfer to an &lt;br&gt;Brooklyn-bound [A] [C] or [F]*.&lt;br&gt;&lt;br&gt;For service &lt;i&gt;from &lt;/i&gt;&lt;b&gt;High St&lt;/b&gt;, take the [A] or [F] to Jay St-MetroTech and transfer to an Inwood-bound [A].&lt;br&gt;&lt;br&gt;For &lt;b&gt;Fulton St&lt;/b&gt;, take the [4]* instead. Transfer between trains at Bleecker St/Bway-Lafayette St.&lt;br&gt;&lt;br&gt;For service &lt;i&gt;from&lt;/i&gt; &lt;b&gt;Chambers&lt;/b&gt;, &lt;b&gt;Canal&lt;/b&gt; and &lt;b&gt;Spring Sts&lt;/b&gt;, take the [E] instead. Transfer between trains&lt;b&gt; &lt;/b&gt;at W 4 St.&lt;br&gt;&lt;br&gt;&lt;i&gt;*This detour has taken into account additional planned service changes.&lt;br&gt;&lt;br&gt;&lt;/font&gt;&lt;b&gt;Alternate travel notes:&lt;br&gt;&lt;/b&gt;&lt;/i&gt;For High St, use the nearby &lt;a href=http://web.mta.info/weekender/tileMap.html?staID=10262 target=_blank&gt;&lt;font color=#0000FF&gt;&lt;/font&gt;York St&lt;/font&gt;&lt;/a&gt; [F] Station&lt;/font&gt; instead.&lt;br&gt;&lt;i&gt;From&lt;/i&gt; Fulton St, use the nearby &lt;a href=http://web.mta.info/weekender/tileMap.html?staID=10255 target=_blank&gt;&lt;font color=#0000FF&gt;World Trade Center&lt;/font&gt;&lt;/a&gt; [E] Station&lt;/font&gt; instead. Transfer to the [A] at W 4 St.&lt;br&gt;&lt;br&gt;&lt;/font&gt;&lt;table class=plannedworkTableStyle  border=1 cellspacing=1 cellpadding=5 rules=none frame=box&gt;&lt;td&gt;  [ad]  &lt;td&gt;&lt;font size=1&gt;This service change affects one or more ADA accessible stations. Please call 511 for help with planning&lt;br&gt;your trip. If you are deaf or hard of hearing, use your preferred relay service provider or the free 711 relay.  &lt;/font&gt;&lt;/table&gt;&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
-                &lt;br/&gt;&lt;br/&gt;
-              
-                    &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
-                    &lt;br/&gt;
-                  &lt;a class="plannedWorkDetailLink" onclick=ShowHide(186056);&gt;&lt;b&gt;STRUCTURAL IMPROVEMENTS | &lt;/font&gt;Late Nights, 10:15 PM Fri to 5 AM Mon&lt;br clear=left&gt;Ozone Park/Far Rockaway-bound [A] trains skip 116, 103, 96, 86 and 81 Sts, in Manhattan&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 186056 class="plannedWorkDetail" &gt;&lt;br&gt;&lt;/b&gt;For service&lt;i&gt; to&lt;/i&gt; these stations, take the [A] to 59 St-Columbus Circle and &lt;br&gt;transfer to an Inwood-bound [A] &lt;i&gt;local&lt;/i&gt;.&lt;br&gt;&lt;br&gt;For service&lt;i&gt; from&lt;/i&gt; these stations, take the [A] to 125 St and transfer to &lt;br&gt;an Ozone Park/Far Rockaway-bound [A].&lt;br&gt;&lt;br&gt;&lt;/font&gt;&lt;b&gt;Note:&lt;/b&gt; Cathedral Pkwy (110 St) and 72 St are closed for renovation.&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
-                &lt;br/&gt;&lt;br/&gt;
-              
-                    &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
-                    &lt;br/&gt;
-                  &lt;a class="plannedWorkDetailLink" onclick=ShowHide(186048);&gt;&lt;b&gt;STATION IMPROVEMENTS | Late Nights, 11 PM Fri to 5 AM Mon&lt;br clear=left&gt;Inwood-bound [A] trains skip 135 St and 155 St, in Manhattan  &lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 186048 class="plannedWorkDetail" &gt;&lt;br&gt;&lt;/b&gt;For service &lt;i&gt;to &lt;/i&gt;these stations, take the [A] to 145 St or 168 St and&lt;br&gt;transfer to an Ozone Park/Far Rockaway-bound [A] &lt;i&gt;local&lt;/i&gt;.&lt;br&gt;&lt;br&gt;For service &lt;i&gt;from &lt;/i&gt;these stations, take the [A] to 145 St or 125 St and&lt;br&gt;transfer to an Inwood-bound [A].&lt;br&gt;&lt;br&gt;&lt;b&gt;Reminder: &lt;/b&gt;163 St-Amsterdam Av is close for renovation.&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>05/12/2018</Date>
-    <Time> 1:02AM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>BDFM</name>
-    <status>PLANNED WORK</status>
-    <text>
-                    &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
-                    &lt;br/&gt;
-                  &lt;a class="plannedWorkDetailLink" onclick=ShowHide(187877);&gt;&lt;b&gt;STRUCTURAL IMPROVEMENTS | 9:45 PM Fri, May 11 to 5 AM Mon, May 14&lt;/font&gt;&lt;br clear=left&gt;No [F] trains in Brooklyn between Church Av and Stillwell Av&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 187877 class="plannedWorkDetail" &gt;[SB] Free shuttle buses provide alternate service&lt;br&gt;&lt;br&gt;&lt;/b&gt;[F] service operates between &lt;b&gt;179 St&lt;/b&gt; and &lt;b&gt;Church Av&lt;/b&gt;.&lt;br&gt;&lt;br&gt;[SB] Buses operate between &lt;b&gt;Church Av&lt;/b&gt; and &lt;b&gt;Stillwell Av*&lt;/b&gt;, stopping at Ditmas Av, 18 Av, Avenue I, &lt;br&gt;Bay Pkwy, Avenue N, Avenue P, Kings Hwy, Avenue U, Avenue X, Neptune Av and W 8 St.&lt;br&gt;&lt;br&gt;&amp;bull; Transfer between [F] trains and [SB] buses at Church Av.&lt;br&gt;&lt;br&gt;For direct service between Coney Island and Manhattan/Downtown Brooklyn, &lt;br&gt;take the &lt;b&gt;[D]&lt;/b&gt; &lt;b&gt;[N] &lt;/b&gt;or &lt;b&gt;[Q]&lt;/b&gt; instead.&lt;br&gt;&lt;br&gt;&amp;bull; Transfer between [D] [N] [Q] trains and [SB] buses at Stillwell Av.&lt;br&gt;&amp;bull; Transfer between [Q] trains and [SB] buses at West 8 St.&lt;br&gt;&lt;br&gt;&lt;font size=3&gt;&lt;b&gt;&lt;a style="cursor:pointer; text-decoration:underline;" onclick=ShowHide(1841990);&gt;Show Shuttle Bus Stops&lt;/a&gt;&lt;/b&gt;&lt;/font&gt;&lt;div id="1841990"; style="display:none;"&gt;&lt;br&gt;&lt;table class=plannedworkTableStyle  border=1 cellspacing=1 cellpadding=3 rules=rows frame=hsides&gt;&lt;tr bgcolor=#FAF8CC&gt;&lt;td&gt;&lt;b&gt;Station&lt;/b&gt;&lt;/td&gt;&lt;td&gt;[SB] &lt;b&gt;Shuttle Bus Stop&lt;/b&gt;&lt;/td&gt;&lt;td&gt;&lt;b&gt;Bus Stop&lt;/b&gt;&lt;tr&gt;&lt;td&gt;Church Av  [ad] [F] [G] &lt;td&gt;McDonald Av at Church Av &lt;td&gt;&lt;b&gt;B67&lt;/b&gt;&lt;tr&gt;&lt;td&gt;Ditmas Av&lt;td&gt;McDonald Av at Ditmas Av&lt;td&gt;&amp;mdash;&lt;tr&gt;&lt;td&gt;18 Av&lt;td&gt;McDonald Av at 18 Av&lt;td&gt;&amp;mdash;&lt;tr&gt;&lt;td&gt;Avenue I&lt;td&gt;McDonald Av at Avenue I&lt;td&gt;&amp;mdash;&lt;tr&gt;&lt;td&gt;Bay Pkwy&lt;td&gt;McDonald Av at Bay Pkwy&lt;td&gt;&amp;mdash;&lt;tr&gt;&lt;td rowspan=2&gt;Avenue N&lt;td&gt;McDonald Av at 24 Av (to Stillwell Av)&lt;tr&gt;&lt;td&gt;McDonald Av at Ave N (to Church Av)&lt;td&gt;&amp;mdash;&lt;tr&gt;&lt;td&gt;Avenue P&lt;td&gt;McDonald Av at Avenue P&lt;td&gt;&amp;mdash;&lt;tr&gt;&lt;td&gt;Kings Hwy&lt;td&gt;McDonald Av at Kings Hwy&lt;td&gt;&amp;mdash;&lt;tr&gt;&lt;td&gt;Avenue U&lt;td&gt;McDonald Av at Avenue U&lt;td&gt;&amp;mdash;&lt;tr&gt;&lt;td rowspan=2&gt;Avenue X&lt;td&gt;Shell Rd at Avenue X (to Stillwell Av)&lt;td&gt;&lt;b&gt;B4&lt;/b&gt;&lt;tr&gt;&lt;td&gt;McDonald Av at Avenue X (to Church Av)&lt;td&gt;&amp;mdash;&lt;tr&gt;&lt;td rowspan=2&gt;Neptune Av&lt;td&gt;Shell Rd at Neptune Av (to Stillwell Av)&lt;td&gt;&amp;mdash;&lt;tr&gt;&lt;td&gt;W 6 St at station entrance (to Church Av)&lt;td&gt;&amp;mdash;&lt;tr&gt;&lt;td&gt;W 8 St [Q]&lt;td&gt;Surf Av at W 8 St&lt;td&gt;&lt;b&gt;B36&lt;/b&gt;&lt;tr&gt;&lt;td&gt;Stillwell Av [ad] [DS] [NS] [QS]&lt;td&gt;Stillwell Av at Surf Av&lt;td&gt;&lt;b&gt;B36&lt;/b&gt;&lt;/table&gt;&lt;/div&gt; &lt;br&gt;&lt;br&gt;&lt;i&gt;*From 8 AM to 10 PM Saturday and Sunday, some buses will only operate between Church Av and &lt;br&gt;Kings Hwy.&lt;br&gt;&lt;br&gt;&lt;/i&gt;&lt;b&gt;Note&lt;/b&gt;: Manhattan-bound platforms at Avenue U, Avenue P, Avenue N, Bay Pkwy  and Avenue I are closed for renovation.&lt;br&gt;&lt;/font&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
-                &lt;br/&gt;&lt;br/&gt;
-              
-                    &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
-                    &lt;br/&gt;
-                  &lt;a class="plannedWorkDetailLink" onclick=ShowHide(186080);&gt;&lt;b&gt;TRACK REPLACEMENT | 11:45 PM Fri, May 11 to 5 AM Mon, May 14&lt;/font&gt;&lt;br clear=left&gt;[F] Manhattan-bound trains skip Sutphin Blvd, Briarwood and 75 Av in Queens&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 186080 class="plannedWorkDetail" &gt;&lt;/b&gt;For service &lt;i&gt;to &lt;/i&gt;&lt;b&gt;Sutphin Blvd&lt;/b&gt;, take the [F] to Union Tpke and transfer to a Jamaica-bound [F] or [R]*.&lt;br&gt;&lt;br&gt;For service &lt;i&gt;to &lt;/i&gt;&lt;b&gt;Briarwood&lt;/b&gt; and &lt;b&gt;75 Av&lt;/b&gt;, take the [F] to Union Tpke or 71 Av&lt;br&gt;and transfer to a Jamaica Center-bound [E], Jamaica-bound [F] or [R].&lt;br&gt;&lt;br&gt;For service &lt;i&gt;from &lt;/i&gt;&lt;b&gt;Sutphin Blvd&lt;/b&gt; and &lt;b&gt;Briarwood&lt;/b&gt;, take the [F] or [R] to Parsons Blvd&lt;br&gt;and transfer to a Brooklyn-bound [F].&lt;br&gt;&lt;br&gt;For service &lt;i&gt;from &lt;/i&gt;&lt;b&gt;75 Av&lt;/b&gt;, take the [E] [F] or [R] to Union Tpke and transfer to a&lt;br&gt;Brooklyn-bound [F].&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
-                &lt;br/&gt;&lt;br/&gt;
-              
-                    &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
-                    &lt;br/&gt;
-                  &lt;a class="plannedWorkDetailLink" onclick=ShowHide(186066);&gt;&lt;b&gt;TRACK MAINTENANCE | 9:45 PM Fri, May 11 to 5 AM Mon, May 14&lt;br clear=left&gt;[F] Brooklyn-bound trains run via the [E] from Roosevelt Av, Queens to Canal St, Manhattan and via the [A] to Jay St-MetroTech, Brooklyn&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 186066 class="plannedWorkDetail" &gt;&lt;br&gt;&lt;/b&gt;No Coney Island-bound &lt;b&gt;[F]&lt;/b&gt; service at &lt;b&gt;21 St-Queensbridge&lt;/b&gt;, &lt;b&gt;Roosevelt Island&lt;/b&gt;, &lt;b&gt;Lexington Av/63&lt;/b&gt;, &lt;b&gt;57, 47-50 Sts&lt;/b&gt;, &lt;b&gt;42 St-Bryant Pk&lt;/b&gt;, &lt;b&gt;34 St-Herald Sq&lt;/b&gt;, &lt;b&gt;23&lt;/b&gt;, &lt;b&gt;14&lt;/b&gt;, &lt;b&gt;B'way-Lafayette Sts&lt;/b&gt;, &lt;b&gt;2&lt;/b&gt; &lt;b&gt;Av&lt;/b&gt;, &lt;b&gt;Delancey St&lt;/b&gt;, &lt;b&gt;East Broadway&lt;/b&gt; and &lt;b&gt;York St.&lt;br&gt;&lt;br&gt;&lt;/b&gt;&lt;i&gt;Trains stop at W 4 St.&lt;br&gt;&lt;br&gt;&lt;/i&gt;&lt;b&gt;Travel Alternatives:                                                                 [TP]&lt;br&gt;&lt;br&gt;&lt;/b&gt;Use the [D] or Jamaica-bound [F] to complete your trip.&lt;br&gt;&lt;br&gt;Transfer at 7 Av [D], W 4 St [D] [F], Jay St-MetroTech [F].&lt;br&gt;&lt;br&gt;From Lexington Av/63 St take the [Q], transfer to the [F] at Times Sq-42 St.&lt;br&gt;&lt;br&gt;&lt;table class=plannedworkTableStyle  border=1 cellspacing=1 cellpadding=5 rules=none frame=box&gt;&lt;td&gt;  [ad]  &lt;td&gt;&lt;font size=1&gt;This service change affects one or more ADA accessible stations. Please call 511 for help with planning&lt;br&gt;your trip. If you are deaf or hard of hearing, use your preferred relay service provider or the free 711 relay.  &lt;/font&gt;&lt;/table&gt;&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
-                &lt;br/&gt;&lt;br/&gt;
-              
-                    &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
-                    &lt;br/&gt;
-                  &lt;a class="plannedWorkDetailLink" onclick=ShowHide(186159);&gt;&lt;b&gt;ELECTRICAL IMPROVEMENTS | 9:45 PM Fri, May 11 to 5 AM Mon, May 14&lt;br clear=left&gt;Coney Island-bound [D] trains run via the [N] local in Brooklyn from 36 St to Stillwell Av&lt;/b&gt;&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 186159 class="plannedWorkDetail" &gt;&lt;br&gt;No Coney Island-bound service at &lt;b&gt;9 Av&lt;/b&gt;, &lt;b&gt;Fort Hamilton Pkwy&lt;/b&gt;, &lt;b&gt;50&lt;/b&gt;, &lt;b&gt;55&lt;/b&gt;, &lt;b&gt;62 St&lt;/b&gt;, &lt;b&gt;71&lt;/b&gt;, &lt;b&gt;79 Sts&lt;/b&gt;, &lt;b&gt;18&lt;/b&gt;, &lt;b&gt;20 Avs&lt;/b&gt;, &lt;br&gt;&lt;b&gt;Bay Pkwy&lt;/b&gt;, &lt;b&gt;25 Av &lt;/b&gt;and &lt;b&gt;Bay 50 St&lt;/b&gt;.&lt;br&gt;&lt;br&gt;&lt;/font&gt;&lt;table class=plannedworkTableStyle  width=70%&gt;&lt;tr&gt;&lt;td&gt;&lt;font size=3&gt;&lt;b&gt;Travel Alternatives&lt;/b&gt;&lt;/font&gt;&lt;td align=right&gt;[TP]&lt;/table&gt;&lt;br&gt;For service &lt;i&gt;to&lt;/i&gt; these stations, take the [D] to Stillwell Av and transfer to a Norwood-bound [D].&lt;br&gt;&lt;br&gt;For service &lt;i&gt;from &lt;/i&gt;these stations, take the [D]&lt;b&gt; &lt;/b&gt;36 St and transfer to a Coney Island-bound [D] or [N].&lt;br&gt;&lt;br&gt;&lt;/font&gt;&lt;table class=plannedworkTableStyle  border=1 cellspacing=1 cellpadding=5 rules=none frame=box&gt;&lt;td&gt;  [ad]  &lt;td&gt;&lt;font size=1&gt;This service change affects one or more ADA accessible stations. Please call 511 for help with planning&lt;br&gt;your trip. If you are deaf or hard of hearing, use your preferred relay service provider or the free 711 relay.  &lt;/font&gt;&lt;/table&gt;&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>05/12/2018</Date>
-    <Time> 1:02AM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>G</name>
@@ -113,15 +43,10 @@
   </line>
   <line>
     <name>JZ</name>
-    <status>PLANNED WORK</status>
-    <text>
-                    &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
-                    &lt;br/&gt;
-                  &lt;a class="plannedWorkDetailLink" onclick=ShowHide(186162);&gt;&lt;b&gt;STATION IMPROVEMENTS | 9:45 PM Fri, May 11 to 5 AM Mon, May 14&lt;br clear=left&gt;No [J] trains in Manhattan between Chambers St and Broad St&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 186162 class="plannedWorkDetail" &gt;&lt;br&gt;&lt;/b&gt;Use nearby [4] [5] stations at &lt;a href=http://web.mta.info/weekender/tileMap.html?staID=10139 target=_blank&gt;&lt;font color=#0000FF&gt;Fulton St&lt;/font&gt;&lt;/a&gt;&lt;/font&gt;, &lt;a href=http://web.mta.info/weekender/tileMap.html?staID=10057 target=_blank&gt;&lt;font color=#0000FF&gt;Wall St&lt;/font&gt;&lt;/a&gt;&lt;/font&gt; (at Broadway) and &lt;a href=http://web.mta.info/weekender/tileMap.html?staID=10058 target=_blank&gt;&lt;font color=#0000FF&gt;Bowling Green&lt;/font&gt;&lt;/a&gt;&lt;/font&gt; instead.&lt;br&gt;&lt;br&gt;&amp;bull; Transfer between [J] and [4] [5] trains at Brooklyn Bridge-Chambers St.&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>05/12/2018</Date>
-    <Time> 1:02AM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>L</name>
@@ -132,42 +57,17 @@
   </line>
   <line>
     <name>NQR</name>
-    <status>PLANNED WORK</status>
-    <text>
-                    &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
-                    &lt;br/&gt;
-                  &lt;a class="plannedWorkDetailLink" onclick=ShowHide(186143);&gt;&lt;b&gt;TRACK MAINTENANCE | Late Nights, 11:45 PM Fri, May 11 to 5 AM Mon, May 14&lt;br clear=left&gt;No late night [R] service between Whitehall St, Manhattan and Atlantic Av-Barclays Ctr&lt;br clear=left&gt;In Brooklyn, late night [R] t&lt;/font&gt;rains skip Union St, 4 Av-9 St, Prospect Av and 25 St in both directions&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 186143 class="plannedWorkDetail" &gt;&lt;br&gt;&lt;/b&gt;[R] service runs between 95 St and 36 St and express to/from Atlantic Av-Barclays Ctr, &lt;i&gt;the last stop.&lt;br&gt;&lt;br&gt;&lt;/i&gt;For service &lt;i&gt;to&lt;/i&gt; &lt;b&gt;Whitehall St&lt;/b&gt;, use the nearby &lt;a href=http://web.mta.info/weekender/tileMap.html?staID=10058 target=_blank&gt;&lt;font color=#0000FF&gt;Bowling Green&lt;/font&gt;&lt;/a&gt; &lt;/font&gt;[4] Station.&lt;br&gt;&lt;br&gt;For service &lt;i&gt;to&lt;/i&gt; &lt;b&gt;Court St&lt;/b&gt; and &lt;b&gt;Jay St-MetroTech&lt;/b&gt;, use nearby &lt;a href=http://web.mta.info/weekender/tileMap.html?staID=10010 target=_blank&gt;&lt;font color=#0000FF&gt;Borough Hall&lt;/font&gt;&lt;/a&gt; [2] [4] Station.&lt;br&gt;&lt;br&gt;For service &lt;i&gt;from&lt;/i&gt; &lt;b&gt;Whitehall St&lt;/b&gt;, &lt;b&gt;Court St &lt;/b&gt;and &lt;b&gt;Jay St-MetroTech&lt;/b&gt;, take the [N] instead.&lt;br&gt;&lt;br&gt;For &lt;b&gt;DeKalb Av&lt;/b&gt;, take the [N] [Q] instead.&lt;br&gt;&lt;br&gt;For &lt;b&gt;Union St&lt;/b&gt;, &lt;b&gt;4 Av-9 St&lt;/b&gt;, &lt;b&gt;Prospect Av&lt;/b&gt; and &lt;b&gt;25 St&lt;/b&gt;, take the [D] or [N].&lt;br&gt;&lt;br&gt;Transfer between the [R] and [4] [D] [N] [Q] trains at Atlantic Av-Barclays Ctr &lt;br&gt;or the [D] [N] at 36 St.&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
-                &lt;br/&gt;&lt;br/&gt;
-              
-                    &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
-                    &lt;br/&gt;
-                  &lt;a class="plannedWorkDetailLink" onclick=ShowHide(186125);&gt;&lt;b&gt;TRACK MAINTENANCE | 11 PM Fri, May 11 to 5 AM Mon, May 14&lt;br clear=left&gt;[N] Astoria-bound trains run via the [Q] from DeKalb Av, Brooklyn to Canal St, Manhattan&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 186125 class="plannedWorkDetail" &gt;&lt;br&gt;&lt;/b&gt;No late night Astoria-bound [N] service at &lt;b&gt;Jay St-MetroTech&lt;/b&gt;, &lt;b&gt;Court&lt;/b&gt;, &lt;b&gt;Whitehall&lt;/b&gt;, &lt;b&gt;Rector&lt;/b&gt;, &lt;b&gt;Cortlandt Sts&lt;/b&gt; &lt;br&gt;and &lt;b&gt;City Hall&lt;/b&gt;.&lt;br&gt;&lt;br&gt;Use nearby [4] [5] stations instead:&lt;br&gt;&lt;br&gt;&lt;/font&gt;&lt;table class=plannedworkTableStyle  border=1 cellspacing=1 cellpadding=3 rules=rows frame=hsides&gt;&lt;tr&gt;&lt;td bgcolor=#FAF8CC&gt; &lt;b&gt;&lt;b&gt;Station&lt;/b&gt;&lt;/b&gt;&lt;td bgcolor=#FAF8CC&gt;&lt;b&gt;&lt;b&gt;Nearby [4] Station&lt;/b&gt;&lt;/b&gt;&lt;tr&gt;&lt;td&gt;Jay St-MetroTech [ad] [A] [F]  &lt;td&gt;&lt;a href=http://web.mta.info/weekender/tileMap.html?staID=10010 target=_blank&gt;&lt;font color=#0000FF&gt;Borough Hall&lt;/font&gt;&lt;/a&gt;&lt;/font&gt;  [ad] &lt;font size=1&gt;(&lt;i&gt;northbound 4, 5&lt;/i&gt;)&lt;/font&gt;&lt;tr&gt;&lt;td&gt;Court St&lt;td&gt;&lt;a href=http://web.mta.info/weekender/tileMap.html?staID=10010 target=_blank&gt;&lt;font color=#0000FF&gt;Borough Hall&lt;/font&gt;&lt;/a&gt;&lt;/font&gt; [ad] &lt;font size=1&gt;(&lt;i&gt;northbound 4, 5&lt;/i&gt;)&lt;/font&gt;&lt;tr&gt;&lt;td&gt;Whitehall St-South Ferry [1]&lt;td&gt;&lt;a href=http://web.mta.info/weekender/tileMap.html?staID=10058 target=_blank&gt;&lt;font color=#0000FF&gt;Bowling Green&lt;/font&gt;&lt;/a&gt;&lt;/font&gt; | [ad]&lt;tr&gt;&lt;td&gt;Rector St&lt;td&gt;&lt;a href=http://web.mta.info/weekender/tileMap.html?staID=10057 target=_blank&gt;&lt;font color=#0000FF&gt;Wall St&lt;/font&gt;&lt;/a&gt;&lt;/font&gt; (at Broadway)&lt;tr&gt;&lt;td&gt;Cortlandt St&lt;td&gt;&lt;a href=http://web.mta.info/weekender/tileMap.html?staID=10139 target=_blank&gt;&lt;font color=#0000FF&gt;Fulton St&lt;/font&gt;&lt;/a&gt; [A]&lt;/font&gt; | [ad]&lt;tr&gt;&lt;td&gt;City Hall&lt;td&gt;&lt;a href=http://web.mta.info/weekender/tileMap.html?staID=10055 target=_blank&gt;&lt;font color=#0000FF&gt;Brooklyn Bridge&lt;/font&gt;&lt;/a&gt; &lt;/font&gt;[6] | [ad]&lt;/table&gt;&lt;br&gt;Transfer between [4] and [N] trains at &lt;b&gt;Atlantic Av-Barclays Ctr&lt;/b&gt;, &lt;b&gt;Canal St&lt;/b&gt; or &lt;b&gt;14 St-Union Sq&lt;/b&gt;.&lt;br&gt;&lt;br&gt;&lt;b&gt;&lt;i&gt;Alternate travel notes:&lt;br&gt;&lt;/b&gt;&lt;/i&gt;For Jay St-MetroTech, take the [F] via transfer at 4 Av-9 St or 34 St-Herald Sq.&lt;br&gt;&lt;/font&gt;For service &lt;i&gt;from &lt;/i&gt;Court St and Jay St-MetroTech, take the [N] to DeKalb Av &lt;br&gt;and transfer to an Astoria-bound [N].&lt;br&gt;&lt;br&gt;&lt;table class=plannedworkTableStyle  border=1 cellspacing=1 cellpadding=5 rules=none frame=box&gt;&lt;td&gt;  [ad]  &lt;td&gt;&lt;font size=1&gt;This service change affects one or more ADA accessible stations. Please call 511 for help with planning&lt;br&gt;your trip. If you are deaf or hard of hearing, use your preferred relay service provider or the free 711 relay.  &lt;/font&gt;&lt;/table&gt;&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
-                &lt;br/&gt;&lt;br/&gt;
-              
-                    &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
-                    &lt;br/&gt;
-                  &lt;a class="plannedWorkDetailLink" onclick=ShowHide(186122);&gt;&lt;b&gt;STATION ENHANCEMENTS | 9:45 PM Fri, May 11 to 5 AM Mon, May 14&lt;br clear=left&gt;Astoria-bound [N] trains skip 39 Av and Broadway in Queens &lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 186122 class="plannedWorkDetail" &gt;&lt;br&gt;&lt;/b&gt;For service&lt;i&gt; to&lt;/i&gt; these stations, take the [N] to Astoria Blvd and transfer to a&lt;br&gt;Manhattan-bound [N] or [W]*.&lt;br&gt;&lt;br&gt;For service&lt;i&gt; from &lt;/i&gt;these stations, take the [N] or [W] to Queensboro Plaza and transfer&lt;br&gt;to an Astoria-bound [N] or [W].&lt;br&gt;&lt;br&gt;&lt;i&gt;*This detour has taken into account additional planned service changes.&lt;br&gt;&lt;br&gt;&lt;/i&gt;&lt;b&gt;Note:&lt;/b&gt; 36 Av and 30 Av are closed for renovation.&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>05/12/2018</Date>
-    <Time> 1:02AM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>S</name>
-    <status>PLANNED WORK</status>
-    <text>
-                    &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
-                    &lt;br/&gt;
-                  &lt;a class="plannedWorkDetailLink" onclick=ShowHide(184937);&gt;&lt;b&gt;Rockaways Long-Term Flood Protection | Until Friday May 18, 2018&lt;br clear=left&gt;[S] No Rockaway Park Shuttle service at Broad Channel - Take the [A] instead&lt;br clear=left&gt;[A] No rush hour service &lt;i&gt;to/from&lt;/i&gt; Rockaway Park-Beach 116 St&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 184937 class="plannedWorkDetail" &gt;&lt;br&gt;&lt;/b&gt;[S] Rockaway Park Shuttle operates, &lt;i&gt;approximately every 20 minutes,&lt;/i&gt; between &lt;br&gt;&lt;b&gt;Rockaway Park-Beach 116 St&lt;/b&gt; and &lt;b&gt;Beach 90 St&lt;/b&gt; and via the [A] &lt;i&gt;to/from&lt;/i&gt; &lt;b&gt;Far Rockaway-Mott Av&lt;/b&gt;.&lt;br&gt;&lt;br&gt;For &lt;b&gt;Broad Channel&lt;/b&gt;, take the [A], transfer to the [S] Rockaway Park Shuttle at Beach 67 St.&lt;br&gt;&lt;br&gt;&lt;b&gt;&lt;i&gt;Alternate travel note for Broad Channel:&lt;br&gt;&lt;/i&gt;Q52 &lt;/b&gt;SBS, &lt;b&gt;Q53 &lt;/b&gt;SBS, &lt;b&gt;QM16&lt;/b&gt; and &lt;b&gt;QM17&lt;/b&gt; service is also available at Cross Bay Blvd and Noel Rd.&lt;br&gt;&lt;br&gt;&lt;a href=http://www.mta.info/press-release/nyc-transit/nyc-transit-starting-subway-flood-protection-project-rockaways-next-month target=_blank&gt;&lt;font color=#0000FF&gt;Click here&lt;/font&gt;&lt;/a&gt; for additional details on this Flood Protection Project.&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
-                &lt;br/&gt;&lt;br/&gt;
-              
-                    &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
-                    &lt;br/&gt;
-                  &lt;a class="plannedWorkDetailLink" onclick=ShowHide(185939);&gt;&lt;b&gt;ALTERNATIVE SERVICE | May 12 - 14, Sat to Mon, 12:01 AM to 6 AM&lt;br clear=left&gt;[S] 42 Street Shuttle service operates overnight&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 185939 class="plannedWorkDetail" &gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>05/12/2018</Date>
-    <Time> 1:02AM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>SIR</name>
@@ -200,7 +100,7 @@
               &lt;br/&gt;
             </text>
     <Date>05/12/2018</Date>
-    <Time> 1:02AM</Time>
+    <Time> 1:08AM</Time>
   </line>
   <line>
     <name>B100 - B103</name>
@@ -239,7 +139,7 @@
               &lt;br/&gt;
             </text>
     <Date>05/12/2018</Date>
-    <Time> 1:02AM</Time>
+    <Time> 1:08AM</Time>
   </line>
   <line>
     <name>BXM1 - BXM18</name>
@@ -252,7 +152,7 @@
               &lt;br/&gt;
             </text>
     <Date>05/12/2018</Date>
-    <Time> 1:02AM</Time>
+    <Time> 1:08AM</Time>
   </line>
   <line>
     <name>M1 - M116</name>
@@ -411,7 +311,7 @@
               &lt;br/&gt;
             </text>
     <Date>05/12/2018</Date>
-    <Time> 1:02AM</Time>
+    <Time> 1:08AM</Time>
   </line>
   <line>
     <name>S40 - S98</name>
