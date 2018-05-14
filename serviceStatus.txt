@@ -15,17 +15,10 @@
   </line>
   <line>
     <name>7</name>
-    <status>DELAYS</status>
-    <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;05/14/2018&amp;nbsp; 5:43AM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  [7] train service has resumed following an earlier train with mechanical problems at &lt;STRONG&gt;Grand Central-42 St.&lt;/STRONG&gt;
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>05/14/2018</Date>
-    <Time> 5:43AM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>ACE</name>
@@ -308,8 +301,15 @@
 </bus><BT>
   <line>
     <name>Bronx-Whitestone</name>
-    <status>SERVICE CHANGE</status>
+    <status>DELAYS</status>
     <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;05/14/2018&amp;nbsp; 6:08AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  BWB - QUEENS BOUND DELAYS DUE TO OFF PROPERTY VOLUME ON THE WHITESTONE EXPRESSWAY. USE THROGS NECK BRIDGE AS ALTERNATE ROUTE TO QUEENS AND ALLOW FOR ADDITIONAL TRAVEL TIME.
+                &lt;br/&gt;&lt;br/&gt;
+              
                     &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
                     &amp;nbsp;Posted:&amp;nbsp;05/14/2018&amp;nbsp; 2:56AM
@@ -318,7 +318,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>05/14/2018</Date>
-    <Time> 2:56AM</Time>
+    <Time> 6:08AM</Time>
   </line>
   <line>
     <name>Cross Bay</name>
