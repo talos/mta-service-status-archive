@@ -1,10 +1,17 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>DELAYS</status>
+    <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;05/14/2018&amp;nbsp; 8:06AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  Southbound [2] and [3] trains are running with delays because of signal problems at &lt;STRONG&gt;Chambers St.&lt;/STRONG&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>05/14/2018</Date>
+    <Time> 8:06AM</Time>
   </line>
   <line>
     <name>456</name>
@@ -680,9 +687,9 @@
     <text>
                     &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;05/14/2018&amp;nbsp; 7:38AM
+                    &amp;nbsp;Posted:&amp;nbsp;05/14/2018&amp;nbsp; 8:06AM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  &lt;p&gt;The 6:56AM train from Ronkonkoma due Atlantic Terminal at 8:17AM is operating 15 minutes late due to a broken LIRR crossing gate west of Brentwood.&lt;/p&gt;&lt;p&gt;The 7:15AM train from Brentwood due Penn at 8:23AM is operating 12 minutes late due to a broken LIRR crossing gate west of Brentwood. &lt;br&gt;&lt;/p&gt;
+                  &lt;p&gt;The 6:56AM train from Ronkonkoma due Atlantic Terminal at 8:17AM is operating 15 minutes late due to a broken LIRR crossing gate west of Brentwood.&lt;/p&gt;&lt;p&gt;The 7:15AM train from Brentwood due Penn at 8:23AM is operating 12 minutes late due to a broken LIRR crossing gate west of Brentwood. &lt;br&gt;&lt;/p&gt;&lt;p&gt;The 7:19AM train from Ronkonkoma due Penn at 8:28AM is operating 11 minutes late due to a broken LIRR crossing gate west of Brentwood.&lt;br&gt;&lt;/p&gt;
                 &lt;br/&gt;&lt;br/&gt;
               
                     &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
@@ -693,7 +700,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>05/14/2018</Date>
-    <Time> 7:38AM</Time>
+    <Time> 8:06AM</Time>
   </line>
   <line>
     <name>West Hempstead</name>
