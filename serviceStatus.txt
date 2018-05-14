@@ -1,8 +1,16 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>SERVICE CHANGE</status>
+    <status>DELAYS</status>
     <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;05/14/2018&amp;nbsp; 2:11PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;P&gt;Southbound [3] trains are running with delays because of signal problems at &lt;STRONG&gt;Junius St.&lt;/STRONG&gt;&lt;/P&gt;
+&lt;P&gt;Our crews are on the scene making repairs and we hope to resume normal service as soon as possible.&lt;/P&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              
                     &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
                     &amp;nbsp;Posted:&amp;nbsp;05/14/2018&amp;nbsp; 2:04PM
@@ -14,17 +22,9 @@
 &lt;P&gt;Expect delays on [1] [2] [3] [4] and [5] train service.&lt;/P&gt;
 &lt;P&gt;As an alternative, you can take the [4] [5] [B] [D] [N] [Q] and [R] train for service between Manhattan and Brooklyn.&lt;/P&gt;
                 &lt;br/&gt;&lt;br/&gt;
-              
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;05/14/2018&amp;nbsp;12:48PM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  &lt;P&gt;Southbound [3] trains are running with delays because of signal problems at &lt;STRONG&gt;Junius St.&lt;/STRONG&gt;&lt;/P&gt;
-&lt;P&gt;Our crews are on the scene making repairs and we hope to resume normal service as soon as possible.&lt;/P&gt;
-                &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>05/14/2018</Date>
-    <Time> 2:04PM</Time>
+    <Time> 2:11PM</Time>
   </line>
   <line>
     <name>456</name>
@@ -257,8 +257,21 @@
   </line>
   <line>
     <name>Q1 - Q113</name>
-    <status>DELAYS</status>
+    <status>SERVICE CHANGE</status>
     <text>
+                  &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                  &lt;span class="DateStyle"&gt;
+                  &amp;nbsp;Posted:&amp;nbsp;05/14/2018&amp;nbsp; 2:12PM
+                  &lt;/span&gt;
+                  &lt;br/&gt;
+                  &lt;br/&gt;
+                &lt;P&gt;&lt;STRONG&gt;Q84&lt;/STRONG&gt; buses are detoured because of road work on 120 Av between 223 St and 232 St. &lt;/P&gt;
+&lt;P&gt;Detour is as follows:&lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;Q84 Eastbound&lt;/STRONG&gt;: Via 120 Av, right on 223 St, left on Francis Lewis Blvd, right on 238 St and then resume their regular route.&lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;Q84 Westbound&lt;/STRONG&gt;: Via 120 Av, left 233 St, right on Francis Lewis Blvd, right on 222 St, left on 120 Av and then resume their regular route.&lt;/P&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
                   &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                   &lt;span class="DateStyle"&gt;
                   &amp;nbsp;Posted:&amp;nbsp;05/14/2018&amp;nbsp; 2:04PM
@@ -282,19 +295,6 @@
 &lt;P&gt;&lt;STRONG&gt;Q9 Southbound&lt;/STRONG&gt;: Via Sutphin Blvd, right on Liberty Av and then resume their regular route.&lt;/P&gt;
 &lt;P&gt;All corresponding stops will be made along the detoured route.&lt;/P&gt;
 &lt;P&gt; &lt;/P&gt;
-              &lt;br/&gt;
-              &lt;br/&gt;
-            
-                  &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
-                  &lt;span class="DateStyle"&gt;
-                  &amp;nbsp;Posted:&amp;nbsp;05/14/2018&amp;nbsp;10:44AM
-                  &lt;/span&gt;
-                  &lt;br/&gt;
-                  &lt;br/&gt;
-                &lt;P&gt;&lt;STRONG&gt;Q84&lt;/STRONG&gt; buses are detoured because of road work on 120 Av between 223 St and 232 St. &lt;/P&gt;
-&lt;P&gt;Detour is as follows:&lt;/P&gt;
-&lt;P&gt;&lt;STRONG&gt;Q84 Eastbound&lt;/STRONG&gt;: Via 120 Av, right on 223 St, left on Francis Lewis Blvd, right on 238 St and then resume their regular route.&lt;/P&gt;
-&lt;P&gt;&lt;STRONG&gt;Q84 Westbound&lt;/STRONG&gt;: Via 120 Av, left 233 St, right on Francis Lewis Blvd, right on 222 St, left on 120 Av and then resume their regular route.&lt;/P&gt;
               &lt;br/&gt;
               &lt;br/&gt;
             
@@ -382,7 +382,7 @@
               &lt;br/&gt;
             </text>
     <Date>05/14/2018</Date>
-    <Time> 2:04PM</Time>
+    <Time> 2:12PM</Time>
   </line>
   <line>
     <name>QM1 - QM44</name>
