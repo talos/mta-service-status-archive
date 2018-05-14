@@ -15,10 +15,17 @@
   </line>
   <line>
     <name>456</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>DELAYS</status>
+    <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;05/14/2018&amp;nbsp; 7:38AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  [4] and [5] train service has resumed with delays following earlier signal problems at &lt;STRONG&gt;138 St-Grand Concourse.&lt;/STRONG&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>05/14/2018</Date>
+    <Time> 7:38AM</Time>
   </line>
   <line>
     <name>7</name>
@@ -476,8 +483,15 @@
 </BT><LIRR>
   <line>
     <name>Babylon</name>
-    <status>DELAYS</status>
+    <status>SERVICE CHANGE</status>
     <text>
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;05/14/2018&amp;nbsp; 7:37AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  The 8:03AM train from Babylon due Penn at 9:11AM is canceled due to equipment trouble. Customers will be accommodated by the 8:16AM from Babylon due Penn 9:31AM.
+                &lt;br/&gt;&lt;br/&gt;
+              
                     &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
                     &amp;nbsp;Posted:&amp;nbsp;05/14/2018&amp;nbsp; 7:13AM
@@ -486,7 +500,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>05/14/2018</Date>
-    <Time> 7:13AM</Time>
+    <Time> 7:37AM</Time>
   </line>
   <line>
     <name>City Terminal Zone</name>
@@ -623,9 +637,9 @@
     <text>
                     &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;05/14/2018&amp;nbsp; 7:32AM
+                    &amp;nbsp;Posted:&amp;nbsp;05/14/2018&amp;nbsp; 7:38AM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  The 6:56AM train from Ronkonkoma due Atlantic Terminal at 8:17AM is operating 15 minutes late due to a broken LIRR crossing gate west of Brentwood.&lt;br&gt;
+                  &lt;p&gt;The 6:56AM train from Ronkonkoma due Atlantic Terminal at 8:17AM is operating 15 minutes late due to a broken LIRR crossing gate west of Brentwood.&lt;/p&gt;&lt;p&gt;The 7:15AM train from Brentwood due Penn at 8:23AM is operating 12 minutes late due to a broken LIRR crossing gate west of Brentwood. &lt;br&gt;&lt;/p&gt;
                 &lt;br/&gt;&lt;br/&gt;
               
                     &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
@@ -636,7 +650,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>05/14/2018</Date>
-    <Time> 7:32AM</Time>
+    <Time> 7:38AM</Time>
   </line>
   <line>
     <name>West Hempstead</name>
