@@ -293,10 +293,17 @@
 </bus><BT>
   <line>
     <name>Bronx-Whitestone</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>DELAYS</status>
+    <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;05/15/2018&amp;nbsp; 7:10AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  BWB - DELAYS QUEENS BOUND DUE TO OFF PROPERTY VOLUME ON THE WHITESTONE EXPRESSWAY. USE THROGS NECK BRIDGE AS ALTERNATE ROUTE TO QUEENS AND ALLOW FOR ADDITIONAL TRAVEL TIME.
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>05/15/2018</Date>
+    <Time> 7:10AM</Time>
   </line>
   <line>
     <name>Cross Bay</name>
@@ -336,11 +343,13 @@
   <line>
     <name>Robert F. Kennedy</name>
     <status>MINOR DELAYS</status>
-    <text>RFK: VEHICLE COLLISION; QUEENS SPAN-BRONX/MANHATTAN BOUND. ONE LANE BLOCKED
+    <text>FINAL/CLEARED - RFK VEHICLE COLLISION; QUEENS SPAN-BRONX/MANHATTAN BOUND.
+                &lt;br/&gt;&lt;br/&gt;
+              RFK: VEHICLE COLLISION; QUEENS SPAN-BRONX/MANHATTAN BOUND. ONE LANE BLOCKED
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>05/15/2018</Date>
-    <Time> 7:00AM</Time>
+    <Time> 7:11AM</Time>
   </line>
   <line>
     <name>Throgs Neck</name>
