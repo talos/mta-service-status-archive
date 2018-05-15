@@ -782,17 +782,17 @@
 </LIRR><MetroNorth>
   <line>
     <name>Hudson</name>
-    <status>SERVICE CHANGE</status>
+    <status>SUSPENDED</status>
     <text>
-                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="TitleSuspended"&gt;Suspended&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;05/15/2018&amp;nbsp; 4:52PM
+                    &amp;nbsp;Posted:&amp;nbsp;05/15/2018&amp;nbsp; 5:18PM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  Hudson Line service between Croton-Harmon and Poughkeepsie is currently suspended due to numerous downed trees and weather-related conditions. Service between Croton-Harmon and Grand Central Terminal is operating.  As more information becomes available we will notify you as soon as possible. Please listen for announcements at your station.
+                  Hudson Line service is currently suspended to ensure customer safety during the course of the thunderstorms in our service area and multiple downed trees.  Trains en route will remain at stations until further notice.  Please listen for announcements at your station.
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>05/15/2018</Date>
-    <Time> 4:52PM</Time>
+    <Time> 5:18PM</Time>
   </line>
   <line>
     <name>Harlem</name>
@@ -852,10 +852,20 @@
   </line>
   <line>
     <name>Pascack Valley</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>DELAYS</status>
+    <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;05/15/2018&amp;nbsp; 5:19PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;p class="MsoPlainText"&gt;PVL train #1627 the 5:02pm from Hoboken is up to 10 min.
+late due to a mechanical problem. An update will follow.&lt;/p&gt;
+
+&lt;p class="MsoPlainText"&gt; &lt;/p&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>05/15/2018</Date>
+    <Time> 5:19PM</Time>
   </line>
   <line>
     <name>Port Jervis</name>
