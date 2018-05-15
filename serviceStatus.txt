@@ -799,10 +799,17 @@ minutes late after being delayed at Deer Park due to signal trouble near
 </LIRR><MetroNorth>
   <line>
     <name>Hudson</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>DELAYS</status>
+    <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;05/15/2018&amp;nbsp; 4:42PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  Hudson Line service is currently delayed due to downed trees in the vicinity of Beacon.  As more information becomes available we will notify you as soon as possible. Please listen for announcements at your station.
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>05/15/2018</Date>
+    <Time> 4:42PM</Time>
   </line>
   <line>
     <name>Harlem</name>
