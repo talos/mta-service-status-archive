@@ -880,10 +880,18 @@ continues to be held prior to departure due to fire department activity. &lt;/sp
   </line>
   <line>
     <name>Port Jefferson</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>DELAYS</status>
+    <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;05/15/2018&amp;nbsp; 8:47PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  The 8:34PM train from Huntington due Port Jefferson at 9:20PM is being 
+held prior to departure due to signal trouble near Huntington.
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>05/15/2018</Date>
+    <Time> 8:47PM</Time>
   </line>
   <line>
     <name>Port Washington</name>
