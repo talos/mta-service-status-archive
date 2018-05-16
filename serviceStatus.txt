@@ -1,10 +1,18 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>SERVICE CHANGE</status>
+    <text>
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;05/16/2018&amp;nbsp; 6:15PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;P&gt;Southbound [1] trains are running express from &lt;STRONG&gt;145 St&lt;/STRONG&gt; to &lt;STRONG&gt;96 St&lt;/STRONG&gt; because of a passenger in need of medical assistance at &lt;STRONG&gt;137 St-City College.&lt;/STRONG&gt; &lt;/P&gt;
+&lt;P&gt;Expect delays on [1], [2] and [3] trains.&lt;/P&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>05/16/2018</Date>
+    <Time> 6:15PM</Time>
   </line>
   <line>
     <name>456</name>
@@ -69,17 +77,10 @@
   </line>
   <line>
     <name>NQR</name>
-    <status>DELAYS</status>
-    <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;05/16/2018&amp;nbsp; 6:00PM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  Northbound [Q] service has resumed following an earlier incident involving an unruly passenger at&lt;STRONG&gt; 72 St-2 Av.&lt;/STRONG&gt;
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>05/16/2018</Date>
-    <Time> 6:00PM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>S</name>
@@ -813,17 +814,10 @@
   </line>
   <line>
     <name>Oyster Bay</name>
-    <status>SERVICE CHANGE</status>
-    <text>
-                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;05/16/2018&amp;nbsp; 5:16PM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  The 6:16PM train from Penn due Oyster Bay at 7:30PM will operate as an electric train from Penn to Jamaica today, because of an earlier equipment problem.  Customers will transfer to a diesel train in Jamaica for service to Oyster Bay.  We apologize for any inconvenience.
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>05/16/2018</Date>
-    <Time> 5:16PM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>Port Jefferson</name>
@@ -874,13 +868,13 @@
     <text>
                     &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;05/16/2018&amp;nbsp; 5:49PM
+                    &amp;nbsp;Posted:&amp;nbsp;05/16/2018&amp;nbsp; 6:15PM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  Harlem Line service is currently experiencing delays of up to 20 minutes due to a downed tree in the vicinity of Crestwood. Please listen for announcements at your station.
+                  Harlem Line service is currently experiencing delays of up to 40 minutes due to a downed tree in the vicinity of Crestwood. Please listen for announcements at your station.
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>05/16/2018</Date>
-    <Time> 5:49PM</Time>
+    <Time> 6:15PM</Time>
   </line>
   <line>
     <name>Wassaic</name>
