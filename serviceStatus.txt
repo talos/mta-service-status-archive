@@ -60,10 +60,17 @@
   </line>
   <line>
     <name>7</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>SERVICE CHANGE</status>
+    <text>
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;05/15/2018&amp;nbsp; 9:44PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  Some Main St bound [7] trains will end at Hunters Point Av or &lt;STRONG&gt;Queensboro Plaza&lt;/STRONG&gt; because of a train with mechanical problems at &lt;STRONG&gt;Grand Central-42 St&lt;/STRONG&gt;.
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>05/15/2018</Date>
+    <Time> 9:44PM</Time>
   </line>
   <line>
     <name>ACE</name>
@@ -713,27 +720,13 @@
     <text>
                     &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;05/15/2018&amp;nbsp; 9:41PM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  FINAL-BWB - WIND RESTRICTIONS CLEARED.
-                &lt;br/&gt;&lt;br/&gt;
-              
-                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
                     &amp;nbsp;Posted:&amp;nbsp;05/15/2018&amp;nbsp; 5:41PM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
                   DUE TO FORECASTED HIGH WINDS WET ROADWAYS AND WEATHER CONDITIONS, MOTORIST ARE ASKED TO DRIVE AT A REDUCED SPEED.
                 &lt;br/&gt;&lt;br/&gt;
-              
-                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;05/15/2018&amp;nbsp; 5:19PM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  BWB - WIND RESTRICTIONS. Due to high winds and road conditions motorists are asked to drive at reduced speeds of 20 MPH"
-                &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>05/15/2018</Date>
-    <Time> 9:41PM</Time>
+    <Time> 5:41PM</Time>
   </line>
   <line>
     <name>Cross Bay</name>
@@ -1005,18 +998,11 @@ operating 32 minutes late due to signal trouble near Huntington.&lt;/span&gt;&lt
     <text>
                     &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;05/15/2018&amp;nbsp; 8:24PM
+                    &amp;nbsp;Posted:&amp;nbsp;05/15/2018&amp;nbsp; 9:45PM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  New Haven Line service has resumed with limited service with delays of up to 60 minutes. Access to Grand Central Terminal is limited to the 42nd Street entrances. Please listen for announcements at your station.
+                  New Haven Line continues to experience residual delays of up to 30 minutes due to earlier weather-related issues. Please listen for announcements at your station.
                 &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>05/15/2018</Date>
-    <Time> 8:24PM</Time>
-  </line>
-  <line>
-    <name>New Canaan</name>
-    <status>DELAYS</status>
-    <text>
+              
                     &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
                     &amp;nbsp;Posted:&amp;nbsp;05/15/2018&amp;nbsp; 8:24PM
@@ -1025,7 +1011,28 @@ operating 32 minutes late due to signal trouble near Huntington.&lt;/span&gt;&lt
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>05/15/2018</Date>
-    <Time> 8:24PM</Time>
+    <Time> 9:45PM</Time>
+  </line>
+  <line>
+    <name>New Canaan</name>
+    <status>DELAYS</status>
+    <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;05/15/2018&amp;nbsp; 9:45PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  New Haven Line continues to experience residual delays of up to 30 minutes due to earlier weather-related issues. Please listen for announcements at your station.
+                &lt;br/&gt;&lt;br/&gt;
+              
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;05/15/2018&amp;nbsp; 8:24PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  New Haven Line service has resumed with limited service with delays of up to 60 minutes. Access to Grand Central Terminal is limited to the 42nd Street entrances. Please listen for announcements at your station.
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>05/15/2018</Date>
+    <Time> 9:45PM</Time>
   </line>
   <line>
     <name>Danbury</name>
