@@ -1,11 +1,11 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>DELAYS</status>
+    <status>SERVICE CHANGE</status>
     <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;05/17/2018&amp;nbsp; 7:49AM
+                    &amp;nbsp;Posted:&amp;nbsp;05/17/2018&amp;nbsp; 7:51AM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
                   &lt;P&gt;Southbound [1] trains are running with delays because of signal problems at &lt;STRONG&gt;191 St&lt;/STRONG&gt;.&lt;/P&gt;
 &lt;P&gt;Some southbound [3] trains are running local from &lt;STRONG&gt;Times Sq-42 St&lt;/STRONG&gt; to &lt;STRONG&gt;Chambers St&lt;/STRONG&gt; to provide additional local service.&lt;/P&gt;
@@ -13,7 +13,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>05/17/2018</Date>
-    <Time> 7:49AM</Time>
+    <Time> 7:51AM</Time>
   </line>
   <line>
     <name>456</name>
@@ -64,8 +64,17 @@
   </line>
   <line>
     <name>L</name>
-    <status>DELAYS</status>
+    <status>SERVICE CHANGE</status>
     <text>
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;05/17/2018&amp;nbsp; 7:50AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;P&gt;The last stop on some 8 Av-bound [L] trains will be &lt;STRONG&gt;Myrtle-Wyckoff Avs&lt;/STRONG&gt; or &lt;STRONG&gt;Sutter Av&lt;/STRONG&gt; because of a customer in need of medical assistance at &lt;STRONG&gt;Sutter Av&lt;/STRONG&gt;.&lt;/P&gt;
+&lt;P&gt;You may experience delays in both directions.&lt;/P&gt;
+&lt;P&gt; &lt;/P&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              
                     &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
                     &amp;nbsp;Posted:&amp;nbsp;05/17/2018&amp;nbsp; 7:37AM
@@ -74,7 +83,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>05/17/2018</Date>
-    <Time> 7:37AM</Time>
+    <Time> 7:50AM</Time>
   </line>
   <line>
     <name>NQR</name>
