@@ -30,11 +30,6 @@
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
                   [7] trains are running with delays in both directions because of switch maintenance at &lt;STRONG&gt;Flushing-Main St.&lt;/STRONG&gt;
                 &lt;br/&gt;&lt;br/&gt;
-              
-                    &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
-                    &lt;br/&gt;
-                  &lt;a class="plannedWorkDetailLink" onclick=ShowHide(186876);&gt;&lt;b&gt;TRACK MAINTENANCE | &lt;font color=#272627&gt;May 14 - 18&lt;/font&gt;, &lt;font color=#272627&gt;Mon to Fri, &lt;/font&gt;3 PM to 3:30 PM&lt;/b&gt;&lt;font color=#272627&gt; (except May 16)&lt;/font&gt;&lt;b&gt;&lt;br clear=left&gt;Flushing-bound [7D] trains make local stops in Queens at 74, 82, 90, 103 and 111 Sts&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 186876 class="plannedWorkDetail" &gt;&lt;br&gt;&lt;/b&gt;&lt;font color=#272627&gt;&amp;bull; Please allow additional travel time.&lt;br&gt;&lt;/font&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
-                &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>05/17/2018</Date>
     <Time> 2:16PM</Time>
@@ -49,19 +44,14 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>05/17/2018</Date>
-    <Time> 3:22PM</Time>
+    <Time> 3:32PM</Time>
   </line>
   <line>
     <name>BDFM</name>
-    <status>PLANNED WORK</status>
-    <text>
-                    &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
-                    &lt;br/&gt;
-                  &lt;a class="plannedWorkDetailLink" onclick=ShowHide(185675);&gt;&lt;b&gt;EQUIPMENT TESTING | Until May 24, Mon to Thu, 10 AM to 3:30 PM&lt;br clear=left&gt;Brighton Beach-bound [B] trains run local in Brooklyn from Prospect Park to Kings Hwy&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 185675 class="plannedWorkDetail" &gt;&lt;br&gt;&lt;/b&gt;&amp;bull; Please allow additional travel time.&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>05/17/2018</Date>
-    <Time> 3:22PM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>G</name>
@@ -101,7 +91,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>05/17/2018</Date>
-    <Time> 3:22PM</Time>
+    <Time> 3:32PM</Time>
   </line>
   <line>
     <name>SIR</name>
@@ -227,7 +217,7 @@
               &lt;br/&gt;
             </text>
     <Date>05/17/2018</Date>
-    <Time> 3:22PM</Time>
+    <Time> 3:32PM</Time>
   </line>
   <line>
     <name>BXM1 - BXM18</name>
@@ -246,7 +236,7 @@
               &lt;br/&gt;
             </text>
     <Date>05/17/2018</Date>
-    <Time> 3:22PM</Time>
+    <Time> 3:32PM</Time>
   </line>
   <line>
     <name>M1 - M116</name>
@@ -403,7 +393,7 @@
               &lt;br/&gt;
             </text>
     <Date>05/17/2018</Date>
-    <Time> 3:22PM</Time>
+    <Time> 3:32PM</Time>
   </line>
   <line>
     <name>S40 - S98</name>
@@ -422,7 +412,7 @@
               &lt;br/&gt;
             </text>
     <Date>05/17/2018</Date>
-    <Time> 3:22PM</Time>
+    <Time> 3:32PM</Time>
   </line>
   <line>
     <name>x1 - x68</name>
@@ -507,10 +497,17 @@
   </line>
   <line>
     <name>Throgs Neck</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>DELAYS</status>
+    <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;05/17/2018&amp;nbsp; 3:30PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  TNB: OFF PROPERTY DELAYS; QUEENS BOUND DUE TO VOLUME ON THE CROSS ISLAND PKWY. ALLOW FOR EXTRA TRAVEL TIME AND CONSIDER AN ALTERNATE ROUTE.
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>05/17/2018</Date>
+    <Time> 3:30PM</Time>
   </line>
   <line>
     <name>Verrazano-Narrows</name>
