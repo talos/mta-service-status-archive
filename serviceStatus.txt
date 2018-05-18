@@ -1,17 +1,10 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>DELAYS</status>
-    <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;05/18/2018&amp;nbsp; 9:55AM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  [1] train service has resumed following an earlier signal problem at &lt;STRONG&gt;Canal St&lt;/STRONG&gt;.
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>05/18/2018</Date>
-    <Time> 9:55AM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>456</name>
@@ -38,20 +31,20 @@
     <text>
                     &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;05/18/2018&amp;nbsp;10:06AM
+                    &amp;nbsp;Posted:&amp;nbsp;05/18/2018&amp;nbsp;10:09AM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  [A], [C] and [E] train service has resumed following an earlier incident involving a customer in need of medical assistance at &lt;STRONG&gt;Port Authority-42 St.&lt;/STRONG&gt;
+                  Southbound [A] and [D] trains are running with delays because of signal problems at &lt;STRONG&gt;72 St&lt;/STRONG&gt;.
                 &lt;br/&gt;&lt;br/&gt;
               
                     &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;05/18/2018&amp;nbsp; 9:35AM
+                    &amp;nbsp;Posted:&amp;nbsp;05/18/2018&amp;nbsp;10:06AM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  Southbound [A] and [D] trains are running with delays because of signal problems at &lt;STRONG&gt;72 St&lt;/STRONG&gt;.
+                  [A], [C] and [E] train service has resumed following an earlier incident involving a customer in need of medical assistance at &lt;STRONG&gt;Port Authority-42 St.&lt;/STRONG&gt;
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>05/18/2018</Date>
-    <Time>10:06AM</Time>
+    <Time>10:09AM</Time>
   </line>
   <line>
     <name>BDFM</name>
@@ -59,13 +52,13 @@
     <text>
                     &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;05/18/2018&amp;nbsp; 9:35AM
+                    &amp;nbsp;Posted:&amp;nbsp;05/18/2018&amp;nbsp;10:09AM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
                   Southbound [A] and [D] trains are running with delays because of signal problems at &lt;STRONG&gt;72 St&lt;/STRONG&gt;.
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>05/18/2018</Date>
-    <Time> 9:35AM</Time>
+    <Time>10:09AM</Time>
   </line>
   <line>
     <name>G</name>
@@ -126,11 +119,11 @@
     <text>
                   &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                   &lt;span class="DateStyle"&gt;
-                  &amp;nbsp;Posted:&amp;nbsp;05/18/2018&amp;nbsp; 9:42AM
+                  &amp;nbsp;Posted:&amp;nbsp;05/18/2018&amp;nbsp;10:11AM
                   &lt;/span&gt;
                   &lt;br/&gt;
                   &lt;br/&gt;
-                Westbound &lt;STRONG&gt;B39&lt;/STRONG&gt; buses are running with delays, due to traffic on the Williamsburg Bridge.
+                Westbound&lt;STRONG&gt; B39&lt;/STRONG&gt; buses are running with delays because of traffic on the Williamsburg Bridge.
               &lt;br/&gt;
               &lt;br/&gt;
             
@@ -176,7 +169,7 @@
               &lt;br/&gt;
             </text>
     <Date>05/18/2018</Date>
-    <Time> 9:42AM</Time>
+    <Time>10:11AM</Time>
   </line>
   <line>
     <name>B100 - B103</name>
