@@ -1,31 +1,27 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>SERVICE CHANGE</status>
+    <status>DELAYS</status>
     <text>
-                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;05/18/2018&amp;nbsp;12:19PM
+                    &amp;nbsp;Posted:&amp;nbsp;05/18/2018&amp;nbsp;12:37PM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  &lt;P&gt;Southbound [2] and [5] trains are running express from &lt;STRONG&gt;E 180 St&lt;/STRONG&gt; to &lt;STRONG&gt;3 Av-149 St&lt;/STRONG&gt; because of minor structural damage at&lt;STRONG&gt; 174 St&lt;/STRONG&gt;.&lt;/P&gt;
-&lt;P&gt;We are determining whether it's safe for trains to make stops at this station and will let you know once the investigation is concluded.&lt;/P&gt;
-&lt;P&gt;Southbound [SB] shuttle bus service is being provided between &lt;STRONG&gt;E 180 St &lt;/STRONG&gt;and&lt;STRONG&gt; 149 St-Grand Concourse&lt;/STRONG&gt; making all local station stops.&lt;/P&gt;
+                  Southbound [2] and [5] trains have resumed making local stops and are running at slower speeds near &lt;STRONG&gt;174 St&lt;/STRONG&gt;.
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>05/18/2018</Date>
-    <Time>12:19PM</Time>
+    <Time>12:37PM</Time>
   </line>
   <line>
     <name>456</name>
-    <status>SERVICE CHANGE</status>
+    <status>DELAYS</status>
     <text>
-                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;05/18/2018&amp;nbsp;12:19PM
+                    &amp;nbsp;Posted:&amp;nbsp;05/18/2018&amp;nbsp;12:37PM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  &lt;P&gt;Southbound [2] and [5] trains are running express from &lt;STRONG&gt;E 180 St&lt;/STRONG&gt; to &lt;STRONG&gt;3 Av-149 St&lt;/STRONG&gt; because of minor structural damage at&lt;STRONG&gt; 174 St&lt;/STRONG&gt;.&lt;/P&gt;
-&lt;P&gt;We are determining whether it's safe for trains to make stops at this station and will let you know once the investigation is concluded.&lt;/P&gt;
-&lt;P&gt;Southbound [SB] shuttle bus service is being provided between &lt;STRONG&gt;E 180 St &lt;/STRONG&gt;and&lt;STRONG&gt; 149 St-Grand Concourse&lt;/STRONG&gt; making all local station stops.&lt;/P&gt;
+                  Southbound [2] and [5] trains have resumed making local stops and are running at slower speeds near &lt;STRONG&gt;174 St&lt;/STRONG&gt;.
                 &lt;br/&gt;&lt;br/&gt;
               
                     &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
@@ -34,7 +30,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>05/18/2018</Date>
-    <Time>12:19PM</Time>
+    <Time>12:37PM</Time>
   </line>
   <line>
     <name>7</name>
@@ -174,8 +170,18 @@
   </line>
   <line>
     <name>BX1 - BX55</name>
-    <status>PLANNED WORK</status>
+    <status>DELAYS</status>
     <text>
+                  &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                  &lt;span class="DateStyle"&gt;
+                  &amp;nbsp;Posted:&amp;nbsp;05/18/2018&amp;nbsp;12:39PM
+                  &lt;/span&gt;
+                  &lt;br/&gt;
+                  &lt;br/&gt;
+                &lt;STRONG&gt;Bx1&lt;/STRONG&gt; and &lt;STRONG&gt;Bx2&lt;/STRONG&gt; buses are running with delays in both directions because of NYPD activity on Grand Concourse and 175 St.
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
                   &lt;span class="TitlePlannedWork" &gt;Planned Detour&lt;/span&gt;
                   &lt;br/&gt;
                 &lt;a class="plannedWorkDetailLink" onclick=ShowHide(187078);&gt;&lt;b&gt;Bx19&lt;/b&gt; - &lt;b&gt;Southbound stop on 145 St at St Nicholas Av temporarily closed&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 187078 class="plannedWorkDetail" &gt;&lt;/b&gt;Until further notice&lt;br&gt;&lt;br&gt;Due to construction, please use nearby stops &lt;b&gt;on 145 St &lt;/b&gt;at &lt;a href=http://bustime.mta.info/#403691%20Bx19 target=_blank&gt;&lt;font color=#0000FF&gt;Frederick Douglass Blvd&lt;/font&gt;&lt;/a&gt; or &lt;a href=http://bustime.mta.info/#403694%20Bx19 target=_blank&gt;&lt;font color=#0000FF&gt;Convent Av&lt;/font&gt;&lt;/a&gt;.&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
@@ -195,7 +201,7 @@
               &lt;br/&gt;
             </text>
     <Date>05/18/2018</Date>
-    <Time>12:32PM</Time>
+    <Time>12:39PM</Time>
   </line>
   <line>
     <name>BXM1 - BXM18</name>
