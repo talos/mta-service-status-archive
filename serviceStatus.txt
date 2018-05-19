@@ -1,17 +1,27 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>PLANNED WORK</status>
+    <text>
+                    &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
+                    &lt;br/&gt;
+                  &lt;a class="plannedWorkDetailLink" onclick=ShowHide(186879);&gt;&lt;b&gt;SIGNAL MODERNIZATION | 11:45 PM Fri, May 18 to 5 AM Mon, May 21&lt;br clear=left&gt;No [2] trains between Dyre Av and E 180 St in the Bronx&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 186879 class="plannedWorkDetail" &gt;[SB] Free shuttle buses provide alternate service&lt;br&gt;&lt;br&gt;&lt;/b&gt;[2] service operates between &lt;b&gt;E 180 St&lt;/b&gt; and&lt;b&gt; South Ferry&lt;/b&gt;.&lt;br&gt;&lt;br&gt;[SB] Buses make all stops between &lt;b&gt;E 180 St&lt;/b&gt; and &lt;b&gt;Dyre Av&lt;/b&gt;.&lt;br&gt;&lt;br&gt;&amp;bull; Transfer between trains and [SB] buses at &lt;b&gt;E 180 St&lt;/b&gt;.&lt;br&gt;&lt;br&gt;&lt;html&gt;&lt;font size=3&gt;&lt;b&gt;&lt;a style="cursor:pointer; text-decoration:underline;" onclick=ShowHide(1845130)&gt;Show Shuttle Bus Stops&lt;/a&gt;&lt;/b&gt;&lt;/font&gt;                           [TP]&lt;div id="1845130"; style="display:none;"&gt;&lt;br&gt;&lt;table class=plannedworkTableStyle  width=70% border=1 cellspacing=1 cellpadding=3 rules=rows frame=hsides&gt;&lt;br&gt;&lt;tr bgcolor=#FAF8CC&gt;&lt;td&gt;&lt;b&gt;Station&lt;/b&gt;&lt;td&gt;&lt;b&gt;Shuttle Bus Stop&lt;/b&gt;&lt;td&gt;&lt;b&gt;Bus&lt;br&gt;&lt;/b&gt;&lt;tr&gt;&lt;td&gt;E 180 St  [ad]  [2S] [5] &lt;td&gt;Morris Park Av at E 180 St&lt;td&gt;&lt;b&gt;Bx21&lt;br&gt;&lt;/b&gt;&lt;tr&gt;&lt;td rowspan=2&gt;Morris Park&lt;td&gt;Morris Park Av at Hone Av&lt;td&gt;&lt;b&gt;Bx21&lt;br&gt;&lt;/b&gt;&lt;tr&gt;&lt;td&gt;Williamsbridge Rd at Lydig Av&lt;td&gt; &amp;mdash;&lt;br&gt;&lt;tr&gt;&lt;td rowspan=2&gt;Pelham Pkwy&lt;td&gt;Williamsbridge Rd at Pelham Pkwy S&lt;td&gt;&lt;b&gt;Bx8&lt;br&gt;&lt;/b&gt;&lt;tr&gt;&lt;td&gt;Williamsbridge Rd at Pelham Pkwy N&lt;td&gt;&lt;b&gt;Bx8&lt;/b&gt;&lt;tr&gt;&lt;td rowspan=2&gt;Gun Hill Rd&lt;td&gt;E Gun Hill Rd at Knapp St (to Dyre Av)&lt;td&gt;&lt;b&gt;Bx28&lt;br&gt;&lt;/b&gt;&lt;tr&gt;&lt;td&gt;E Gun Hill Rd at DeWitt Pl (to E 180 St)&lt;td&gt;&lt;b&gt;Bx28&lt;br&gt;&lt;/b&gt;&lt;tr&gt;&lt;td&gt;Baychester Av&lt;td&gt;Boston Rd at Baychester Av &lt;td&gt;&lt;b&gt;Bx30&lt;br&gt;&lt;/b&gt;&lt;tr&gt;&lt;td&gt;Dyre Av&lt;td&gt;Dyre Av at Light St&lt;td&gt;&lt;b&gt;Bx16&lt;/b&gt;&lt;/table&gt;&lt;/div&gt;&lt;/html&gt;&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>05/18/2018</Date>
+    <Time>10:48PM</Time>
   </line>
   <line>
     <name>456</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>PLANNED WORK</status>
+    <text>
+                    &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
+                    &lt;br/&gt;
+                  &lt;a class="plannedWorkDetailLink" onclick=ShowHide(186879);&gt;&lt;b&gt;SIGNAL MODERNIZATION | 11:45 PM Fri, May 18 to 5 AM Mon, May 21&lt;br clear=left&gt;No [2] trains between Dyre Av and E 180 St in the Bronx&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 186879 class="plannedWorkDetail" &gt;[SB] Free shuttle buses provide alternate service&lt;br&gt;&lt;br&gt;&lt;/b&gt;[2] service operates between &lt;b&gt;E 180 St&lt;/b&gt; and&lt;b&gt; South Ferry&lt;/b&gt;.&lt;br&gt;&lt;br&gt;[SB] Buses make all stops between &lt;b&gt;E 180 St&lt;/b&gt; and &lt;b&gt;Dyre Av&lt;/b&gt;.&lt;br&gt;&lt;br&gt;&amp;bull; Transfer between trains and [SB] buses at &lt;b&gt;E 180 St&lt;/b&gt;.&lt;br&gt;&lt;br&gt;&lt;html&gt;&lt;font size=3&gt;&lt;b&gt;&lt;a style="cursor:pointer; text-decoration:underline;" onclick=ShowHide(1845130)&gt;Show Shuttle Bus Stops&lt;/a&gt;&lt;/b&gt;&lt;/font&gt;                           [TP]&lt;div id="1845130"; style="display:none;"&gt;&lt;br&gt;&lt;table class=plannedworkTableStyle  width=70% border=1 cellspacing=1 cellpadding=3 rules=rows frame=hsides&gt;&lt;br&gt;&lt;tr bgcolor=#FAF8CC&gt;&lt;td&gt;&lt;b&gt;Station&lt;/b&gt;&lt;td&gt;&lt;b&gt;Shuttle Bus Stop&lt;/b&gt;&lt;td&gt;&lt;b&gt;Bus&lt;br&gt;&lt;/b&gt;&lt;tr&gt;&lt;td&gt;E 180 St  [ad]  [2S] [5] &lt;td&gt;Morris Park Av at E 180 St&lt;td&gt;&lt;b&gt;Bx21&lt;br&gt;&lt;/b&gt;&lt;tr&gt;&lt;td rowspan=2&gt;Morris Park&lt;td&gt;Morris Park Av at Hone Av&lt;td&gt;&lt;b&gt;Bx21&lt;br&gt;&lt;/b&gt;&lt;tr&gt;&lt;td&gt;Williamsbridge Rd at Lydig Av&lt;td&gt; &amp;mdash;&lt;br&gt;&lt;tr&gt;&lt;td rowspan=2&gt;Pelham Pkwy&lt;td&gt;Williamsbridge Rd at Pelham Pkwy S&lt;td&gt;&lt;b&gt;Bx8&lt;br&gt;&lt;/b&gt;&lt;tr&gt;&lt;td&gt;Williamsbridge Rd at Pelham Pkwy N&lt;td&gt;&lt;b&gt;Bx8&lt;/b&gt;&lt;tr&gt;&lt;td rowspan=2&gt;Gun Hill Rd&lt;td&gt;E Gun Hill Rd at Knapp St (to Dyre Av)&lt;td&gt;&lt;b&gt;Bx28&lt;br&gt;&lt;/b&gt;&lt;tr&gt;&lt;td&gt;E Gun Hill Rd at DeWitt Pl (to E 180 St)&lt;td&gt;&lt;b&gt;Bx28&lt;br&gt;&lt;/b&gt;&lt;tr&gt;&lt;td&gt;Baychester Av&lt;td&gt;Boston Rd at Baychester Av &lt;td&gt;&lt;b&gt;Bx30&lt;br&gt;&lt;/b&gt;&lt;tr&gt;&lt;td&gt;Dyre Av&lt;td&gt;Dyre Av at Light St&lt;td&gt;&lt;b&gt;Bx16&lt;/b&gt;&lt;/table&gt;&lt;/div&gt;&lt;/html&gt;&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>05/18/2018</Date>
+    <Time>10:48PM</Time>
   </line>
   <line>
     <name>7</name>
@@ -24,6 +34,11 @@
     <name>ACE</name>
     <status>PLANNED WORK</status>
     <text>
+                    &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
+                    &lt;br/&gt;
+                  &lt;a class="plannedWorkDetailLink" onclick=ShowHide(187874);&gt;&lt;b&gt;TRACK REPLACEMENT | 11:45 PM Fri, May 18 to 5 AM Mon, &lt;/font&gt;May 21&lt;br clear=left&gt;World Trade Center-bound [E] trains skip Briarwood and 75 Av&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 187874 class="plannedWorkDetail" &gt;&lt;br&gt;&lt;/b&gt;For service &lt;i&gt;to&lt;/i&gt; these stations, take the [E] to Union Tpke or 71 Av and transfer to a Jamaica Center-bound [E], Jamaica-bound [F] or [R]*.&lt;br&gt;&lt;br&gt;For service &lt;i&gt;from&lt;/i&gt; Briarwood, take the [E] to Jamaica-Van Wyck, and transfer to a World Trade Center-bound [E].&lt;br&gt;&lt;br&gt;For service &lt;i&gt;from&lt;/i&gt; 75 Av, take the [E] [F] or [R] to Union Tpke and transfer to a World Trade Center-bound [E].&lt;br&gt;&lt;br&gt;&lt;i&gt;*[R] trains operate, days and evenings, between 95 St and 71 Av and via the [F] to/from 179 St.&lt;br&gt;&lt;/i&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              
                     &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
                     &lt;br/&gt;
                   &lt;a class="plannedWorkDetailLink" onclick=ShowHide(186765);&gt;&lt;b&gt;TRACK MAINTENANCE | Late Nights, 11 PM Fri, May 18 to 5 AM Mon 21&lt;br clear=left&gt;World Trade Center-bound [E] trains skip 67 Av, 63 Dr, Woodhaven Blvd, Grand Av and Elmhurst Av in Queens&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 186765 class="plannedWorkDetail" &gt;&lt;br&gt;&lt;/b&gt;For service &lt;i&gt;to &lt;/i&gt;these stations, take the [E] to Roosevelt Av and transfer to a Jamaica Center-bound [E] &lt;i&gt;local&lt;/i&gt;.&lt;br&gt;&lt;br&gt;For service &lt;i&gt;from &lt;/i&gt;these stations, take the [E] to 71 Av and transfer to a World Trade Center-bound [E].&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
@@ -60,7 +75,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>05/18/2018</Date>
-    <Time>10:42PM</Time>
+    <Time>10:48PM</Time>
   </line>
   <line>
     <name>BDFM</name>
@@ -76,6 +91,11 @@
                     &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
                     &lt;br/&gt;
                   &lt;a class="plannedWorkDetailLink" onclick=ShowHide(186755);&gt;&lt;b&gt;SIGNAL IMPROVEMENTS | May 18, Friday, 8:15 PM to 11:30 PM&lt;br clear=left&gt;[M] Service ends early between 71 Av in Queens and Essex St in Manhattan&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 186755 class="plannedWorkDetail" &gt;[E] [F] [R] trains provide alternate service&lt;br&gt;&lt;br&gt;&lt;/b&gt;[M] service operates between &lt;b&gt;Metropolitan Av&lt;/b&gt; and &lt;b&gt;Essex St&lt;/b&gt;.&lt;br&gt;&lt;br&gt;&lt;table class=plannedworkTableStyle  width=70%&gt;&lt;tr&gt;&lt;td&gt;&lt;font size=3&gt;&lt;b&gt;Travel Alternatives&lt;/b&gt;&lt;/font&gt;&lt;td align=right&gt;[TP]&lt;/table&gt;&lt;br&gt;[R]* trains make [M] stops between 71 Av and Queens Plaza.&lt;br&gt;[E] trains make all [M] stops between Queens Plaza and 5 Av/53 St.&lt;br&gt;[F] trains make all [M] stops between 47-50 Sts and Delancey St/Essex St &lt;i&gt;until 9:30 PM&lt;/i&gt;.&lt;br&gt;&lt;br&gt;&lt;i&gt;After 9:30 PM&lt;/i&gt;, [F] trains are rerouted via the [Q] in Manhattan. For 6 Av stations and Bway-Lafayette St,&lt;br&gt;use nearby Broadway [N] [Q] [R] stations.&lt;br&gt;&lt;br&gt;&lt;i&gt;*Please review [R] advisories for additional information that may affect your trip.&lt;br&gt;&lt;br&gt;&lt;/i&gt;&amp;bull; Transfer between [F] and [R] trains at Roosevelt Av or 34 St-Herald Sq.&lt;br&gt;&amp;bull; Transfer between [E] and [F] trains at W 4 St, &lt;i&gt;until 9:30 PM&lt;/i&gt;.&lt;br&gt;&amp;bull; Transfer between [F] and [J] [M] trains at Delancey St/Essex St, &lt;i&gt;until 9:30 PM&lt;/i&gt;.&lt;br&gt;&amp;bull; Transfer between [N] [Q] [R] and [J] trains at Canal St, [F] &lt;i&gt;after 9:30 PM.&lt;/i&gt;      &lt;br&gt;&lt;br&gt;&lt;b&gt;Reminder:&lt;/b&gt; Late night [M] service operates between Metropolitan Av and Myrtle Av.&lt;/font&gt;  &lt;br&gt;&lt;br&gt;&lt;/font&gt;&lt;table class=plannedworkTableStyle  border=1 cellspacing=1 cellpadding=5 rules=none frame=box&gt;&lt;td&gt;  [ad]  &lt;td&gt;&lt;font size=1&gt;This service change affects one or more ADA accessible stations. Please call 511 for help with planning&lt;br&gt;your trip. If you are deaf or hard of hearing, use your preferred relay service provider or the free 711 relay.  &lt;/font&gt;&lt;/table&gt;&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              
+                    &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
+                    &lt;br/&gt;
+                  &lt;a class="plannedWorkDetailLink" onclick=ShowHide(187876);&gt;&lt;b&gt;TRACK REPLACEMENT | 11:45 PM Fri, May 18 to 5 AM Mon, May &lt;/font&gt;21&lt;br clear=left&gt;Manhattan-bound [F] trains skip Sutphin Blvd, Briarwood and 75 Av in Queens&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 187876 class="plannedWorkDetail" &gt;&lt;br&gt;&lt;/b&gt;For service &lt;i&gt;to &lt;/i&gt;&lt;b&gt;Sutphin Blvd&lt;/b&gt;, take the [F] to Union Tpke and transfer to a Jamaica-bound [F] or [R]*.&lt;br&gt;&lt;br&gt;For service &lt;i&gt;to &lt;/i&gt;&lt;b&gt;Briarwood&lt;/b&gt; and &lt;b&gt;75 Av&lt;/b&gt;, take the [F] to Union Tpke or 71 Av&lt;br&gt;and transfer to a Jamaica Center-bound [E], Jamaica-bound [F] or [R].&lt;br&gt;&lt;br&gt;For service &lt;i&gt;from &lt;/i&gt;&lt;b&gt;Sutphin Blvd&lt;/b&gt; and &lt;b&gt;Briarwood&lt;/b&gt;, take the [F] or [R] to Parsons Blvd&lt;br&gt;and transfer to a Brooklyn-bound [F].&lt;br&gt;&lt;br&gt;For service &lt;i&gt;from &lt;/i&gt;&lt;b&gt;75 Av&lt;/b&gt;, take the [E] [F] or [R] to Union Tpke and transfer to a&lt;br&gt;Brooklyn-bound [F].&lt;br&gt;&lt;br&gt;&lt;i&gt;*[R] trains operate between 95 St and 71 Av and via the [F] to/from 179 St days and evenings.&lt;br&gt;&lt;/i&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
                 &lt;br/&gt;&lt;br/&gt;
               
                     &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
@@ -161,7 +181,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>05/18/2018</Date>
-    <Time>10:42PM</Time>
+    <Time>10:48PM</Time>
   </line>
   <line>
     <name>SIR</name>
@@ -206,7 +226,7 @@
               &lt;br/&gt;
             </text>
     <Date>05/18/2018</Date>
-    <Time>10:42PM</Time>
+    <Time>10:48PM</Time>
   </line>
   <line>
     <name>B100 - B103</name>
@@ -245,7 +265,7 @@
               &lt;br/&gt;
             </text>
     <Date>05/18/2018</Date>
-    <Time>10:42PM</Time>
+    <Time>10:48PM</Time>
   </line>
   <line>
     <name>BXM1 - BXM18</name>
@@ -258,7 +278,7 @@
               &lt;br/&gt;
             </text>
     <Date>05/18/2018</Date>
-    <Time>10:42PM</Time>
+    <Time>10:48PM</Time>
   </line>
   <line>
     <name>M1 - M116</name>
@@ -328,7 +348,7 @@
               &lt;br/&gt;
             </text>
     <Date>05/18/2018</Date>
-    <Time>10:42PM</Time>
+    <Time>10:48PM</Time>
   </line>
   <line>
     <name>S40 - S98</name>
