@@ -636,10 +636,17 @@
   </line>
   <line>
     <name>Hempstead</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>DELAYS</status>
+    <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;05/20/2018&amp;nbsp; 2:40PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  The 1:45PM train from Atlantic Terminal due Hempstead at 2:37PM is operating 12 minutes late due to switch trouble near Queens Village.
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>05/20/2018</Date>
+    <Time> 2:40PM</Time>
   </line>
   <line>
     <name>Long Beach</name>
@@ -664,8 +671,19 @@
   </line>
   <line>
     <name>Port Jefferson</name>
-    <status>PLANNED WORK</status>
+    <status>DELAYS</status>
     <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;05/20/2018&amp;nbsp; 2:41PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  Customers on the 12:22PM train from Penn due Huntington at 1:29PM which 
+just arrived in Huntington due to an earlier switch problem in Jamaica, 
+will be accommodated by buses for local eastbound service to Port 
+Jefferson.  The buses are expected to arrive within the next 30 minutes.
+ We apologize for the inconvenience.         
+                &lt;br/&gt;&lt;br/&gt;
+              
                     &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
                     &lt;br/&gt;
                   &lt;font size="3" face="Times New Roman"&gt;
@@ -677,7 +695,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>05/20/2018</Date>
-    <Time> 4:55AM</Time>
+    <Time> 2:41PM</Time>
   </line>
   <line>
     <name>Port Washington</name>
