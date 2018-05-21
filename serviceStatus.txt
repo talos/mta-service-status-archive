@@ -150,15 +150,10 @@
   </line>
   <line>
     <name>SIR</name>
-    <status>PLANNED WORK</status>
-    <text>
-                    &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
-                    &lt;br/&gt;
-                  &lt;a class="plannedWorkDetailLink" onclick=ShowHide(189816);&gt;&lt;b&gt;SCHEDULED MAINTENANCE | May 21 - 25, Mon to Fri, 9 AM to 3 PM&lt;br clear=left&gt;[SIR] Trains board at the Tottenville-bound platform from Jefferson Av to Old Town Stations&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 189816 class="plannedWorkDetail" &gt;&lt;br&gt;&lt;/b&gt;&amp;bull; Boarding change includes &lt;b&gt;Jefferson Av&lt;/b&gt;, &lt;b&gt;Dongan Hills&lt;/b&gt;, and &lt;b&gt;Old Town Stations&lt;/b&gt;. &lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>05/21/2018</Date>
-    <Time> 2:52PM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
 </subway><bus>
   <line>
@@ -282,7 +277,7 @@
               &lt;br/&gt;
             </text>
     <Date>05/21/2018</Date>
-    <Time> 2:52PM</Time>
+    <Time> 3:02PM</Time>
   </line>
   <line>
     <name>M1 - M116</name>
@@ -295,12 +290,22 @@
               &lt;br/&gt;
             </text>
     <Date>05/21/2018</Date>
-    <Time> 2:52PM</Time>
+    <Time> 3:02PM</Time>
   </line>
   <line>
     <name>Q1 - Q113</name>
-    <status>SERVICE CHANGE</status>
+    <status>DELAYS</status>
     <text>
+                  &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                  &lt;span class="DateStyle"&gt;
+                  &amp;nbsp;Posted:&amp;nbsp;05/21/2018&amp;nbsp; 3:02PM
+                  &lt;/span&gt;
+                  &lt;br/&gt;
+                  &lt;br/&gt;
+                &lt;STRONG&gt;Q110, Q111, Q112, Q113-LTD&lt;/STRONG&gt; and &lt;STRONG&gt;Q114-LTD&lt;/STRONG&gt; bus service has resumed following earlier paving on 153 St between Jamaica Av and Hillside Av.
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
                   &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
                   &lt;span class="DateStyle"&gt;
                   &amp;nbsp;Posted:&amp;nbsp;05/21/2018&amp;nbsp; 2:24PM
@@ -326,16 +331,6 @@
               &lt;br/&gt;
               &lt;br/&gt;
             
-                  &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                  &lt;span class="DateStyle"&gt;
-                  &amp;nbsp;Posted:&amp;nbsp;05/21/2018&amp;nbsp; 2:03PM
-                  &lt;/span&gt;
-                  &lt;br/&gt;
-                  &lt;br/&gt;
-                &lt;STRONG&gt;Q110, Q111, Q112, Q113-LTD&lt;/STRONG&gt; and &lt;STRONG&gt;Q114-LTD&lt;/STRONG&gt; buses are running with delays in both directions because of paving on 153 St between Jamaica Av and Hillside Av.
-              &lt;br/&gt;
-              &lt;br/&gt;
-            
                   &lt;span class="TitlePlannedWork" &gt;Planned Detour&lt;/span&gt;
                   &lt;br/&gt;
                 &lt;a class="plannedWorkDetailLink" onclick=ShowHide(168561);&gt;&lt;b&gt;Q64, QM4 and QM44 buses may experience delays&lt;br clear=left&gt;due to construction on the Jewel Av exit of the Van Wyck Expy&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 168561 class="plannedWorkDetail" &gt;&lt;/b&gt;Until further notice&lt;br&gt;&lt;b&gt;          &lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
@@ -355,7 +350,7 @@
               &lt;br/&gt;
             </text>
     <Date>05/21/2018</Date>
-    <Time> 2:24PM</Time>
+    <Time> 3:02PM</Time>
   </line>
   <line>
     <name>QM1 - QM44</name>
@@ -380,7 +375,7 @@
               &lt;br/&gt;
             </text>
     <Date>05/21/2018</Date>
-    <Time> 2:52PM</Time>
+    <Time> 3:02PM</Time>
   </line>
   <line>
     <name>S40 - S98</name>
