@@ -166,7 +166,7 @@
     <text>
                   &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
                   &lt;span class="DateStyle"&gt;
-                  &amp;nbsp;Posted:&amp;nbsp;05/21/2018&amp;nbsp; 4:01PM
+                  &amp;nbsp;Posted:&amp;nbsp;05/21/2018&amp;nbsp; 6:02PM
                   &lt;/span&gt;
                   &lt;br/&gt;
                   &lt;br/&gt;
@@ -189,7 +189,7 @@
               &lt;br/&gt;
             </text>
     <Date>05/21/2018</Date>
-    <Time> 4:01PM</Time>
+    <Time> 6:02PM</Time>
   </line>
   <line>
     <name>BXM1 - BXM18</name>
@@ -202,7 +202,7 @@
               &lt;br/&gt;
             </text>
     <Date>05/21/2018</Date>
-    <Time> 5:52PM</Time>
+    <Time> 6:02PM</Time>
   </line>
   <line>
     <name>M1 - M116</name>
@@ -310,7 +310,19 @@
             
                   &lt;span class="TitlePlannedWork" &gt;Planned Detour&lt;/span&gt;
                   &lt;br/&gt;
+                &lt;a class="plannedWorkDetailLink" onclick=ShowHide(190017);&gt;&lt;b&gt;Q31 buses rerouted between Bell Blvd at Northern Blvd and 35 Av at Corporal Kennedy St&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 190017 class="plannedWorkDetail" &gt;&lt;/b&gt;7 PM to 10 PM, Monday, May 21&lt;br&gt;&lt;br&gt;Due to a local event, buses run via &lt;b&gt;Corporal Kennedy St &lt;/b&gt;making corresponding stops in both directions.&lt;br&gt;&lt;br&gt;&lt;b&gt;&lt;i&gt;&lt;a style="cursor:pointer; text-decoration:underline;" onclick=ShowHide(1900170);&gt;Show Reroute Details&lt;/a&gt;&lt;/i&gt;&lt;/b&gt;&lt;br&gt;&lt;div id="1900170"; style="display:none;"&gt;&lt;b&gt;Northbound&lt;br&gt;&lt;/b&gt;Via Bell Blvd&lt;br&gt;Left on Northern Blvd&lt;br&gt;Right on Corporal Kennedy St to 35 Av then regular route&lt;br&gt;&lt;br&gt;&lt;b&gt;Southbound&lt;br&gt;&lt;/b&gt;Via Corporal Kennedy St &lt;br&gt;Left on Northern Blvd&lt;br&gt;Right on Bell Blvd then regular route&lt;/div&gt;&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
+                  &lt;span class="TitlePlannedWork" &gt;Planned Detour&lt;/span&gt;
+                  &lt;br/&gt;
                 &lt;a class="plannedWorkDetailLink" onclick=ShowHide(152128);&gt;&lt;b&gt;Q27/Q27 &lt;/b&gt;LTD&lt;b&gt;, Q30, QM5 and QM35 buses may experience delays&lt;br clear=left&gt;due to construction on Springfield Blvd between Horace Harding Expy and 56 Av&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 152128 class="plannedWorkDetail" &gt;&lt;/b&gt;Until further notice&lt;br&gt;&lt;b&gt;          &lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
+                  &lt;span class="TitlePlannedWork" &gt;Planned Detour&lt;/span&gt;
+                  &lt;br/&gt;
+                &lt;a class="plannedWorkDetailLink" onclick=ShowHide(190016);&gt;&lt;b&gt;Q13 buses rerouted between Northern Blvd at Corporal Kennedy St and 32 Av at Bell Blvd&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 190016 class="plannedWorkDetail" &gt;&lt;/b&gt;7 PM to 10 PM, Monday, May 21&lt;br&gt;&lt;br&gt;Due to a local event, buses run via &lt;b&gt;Corporal Kennedy St &lt;/b&gt;making corresponding stops in both directions.&lt;br&gt;&lt;br&gt;&lt;b&gt;&lt;i&gt;&lt;a style="cursor:pointer; text-decoration:underline;" onclick=ShowHide(1900160);&gt;Show Reroute Details&lt;/a&gt;&lt;/i&gt;&lt;/b&gt;&lt;br&gt;&lt;div id="1900160"; style="display:none;"&gt;&lt;b&gt;Northbound&lt;br&gt;&lt;/b&gt;Via Northern Blvd&lt;br&gt;Left on Corporal Kennedy St&lt;br&gt;Right on 32 Av&lt;br&gt;Left on Bell Blvd then regular route&lt;br&gt;&lt;br&gt;&lt;b&gt;Southbound&lt;br&gt;&lt;/b&gt;Via Bell Blvd&lt;br&gt;Right on 32 Av&lt;br&gt;Left on Corporal Kennedy St&lt;br&gt;Right on Northern Blvd then regular route&lt;/div&gt;&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
               &lt;br/&gt;
               &lt;br/&gt;
             </text>
@@ -340,7 +352,7 @@
               &lt;br/&gt;
             </text>
     <Date>05/21/2018</Date>
-    <Time> 5:52PM</Time>
+    <Time> 6:02PM</Time>
   </line>
   <line>
     <name>S40 - S98</name>
@@ -352,28 +364,22 @@
                   &lt;/span&gt;
                   &lt;br/&gt;
                   &lt;br/&gt;
-                &lt;P&gt;&lt;STRONG&gt;S53 &lt;/STRONG&gt;and &lt;STRONG&gt;S93&lt;/STRONG&gt; buses are detoured because of an overturned vehicle on Narrows Rd north between Richmond and Clove Rd.&lt;/P&gt;
-&lt;P&gt;Detour is as follows:&lt;/P&gt;
-&lt;P&gt;&lt;STRONG&gt;S53 Port Richmond Bound:&lt;/STRONG&gt; Via Narrows Rd North, left on Richmond Rd, left on Narrows Rd South, left on Hyland Blvd, left on Narrows Rd North and enter SI Expwy then exit at Slosson Av, right on Slosson Av, right on Victory Blvd, left on Clove Rd and then resume their regular route.&lt;/P&gt;
-&lt;P&gt;&lt;STRONG&gt;S93 CSI College Bound:&lt;/STRONG&gt; Via Narrows Rd North, left on Richmond Rd, left on Narrows Rd South, left on Hylan Blvd, left on Narrows Rd North and enter SI Expwy then exit at Slosson Av, right on Slosson Av, left on Victory Blvd and then resume their regular route.&lt;/P&gt;
-              &lt;br/&gt;
-              &lt;br/&gt;
-            
-                  &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
-                  &lt;span class="DateStyle"&gt;
-                  &amp;nbsp;Posted:&amp;nbsp;05/21/2018&amp;nbsp; 4:01PM
-                  &lt;/span&gt;
-                  &lt;br/&gt;
-                  &lt;br/&gt;
                 &lt;P&gt;Clyde and Arnold bound &lt;STRONG&gt;S42&lt;/STRONG&gt; buses are detoured because of DOT paving on Prospect Av from Lafayette Av and Franklin Av. &lt;/P&gt;
 &lt;P&gt;Detour is as follows:&lt;/P&gt;
 &lt;P&gt;&lt;STRONG&gt;Clyde and Arnold bound&lt;/STRONG&gt;: Via Lafayette Av terminate at Lafayette Av and Prospect Av, left on Henderson Av, right on Clinton Av, right on Cassidy Pl, right on Lafayette Av, layover on Lafayette Av before Prospect Av.&lt;/P&gt;
               &lt;br/&gt;
               &lt;br/&gt;
             
-                  &lt;span class="TitlePlannedWork" &gt;Planned Detour&lt;/span&gt;
+                  &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                  &lt;span class="DateStyle"&gt;
+                  &amp;nbsp;Posted:&amp;nbsp;05/21/2018&amp;nbsp; 6:02PM
+                  &lt;/span&gt;
                   &lt;br/&gt;
-                &lt;a class="plannedWorkDetailLink" onclick=ShowHide(187916);&gt;&lt;b&gt;S55 buses detoured from Annadale Rd between Laredo Av and Katan Av &lt;/b&gt;- &lt;b&gt;No stops missed&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 187916 class="plannedWorkDetail" &gt;&lt;/b&gt;7 AM to 6 PM, Mon to Fri, until further notice&lt;br&gt;&lt;br&gt;Due to construction, buses may experience delays.&lt;br&gt;&lt;b&gt;&lt;/b&gt;          &lt;a href=http://bustime.mta.info/#S55 target=_blank&gt;&lt;img height=30px src=http://web.mta.info/nyct/images/Bus_Time_logo.png&gt;&lt;/a&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+                  &lt;br/&gt;
+                &lt;P&gt;&lt;STRONG&gt;S53 &lt;/STRONG&gt;and &lt;STRONG&gt;S93&lt;/STRONG&gt; buses are detoured because of an overturned vehicle on Narrows Rd north between Richmond and Clove Rd.&lt;/P&gt;
+&lt;P&gt;Detour is as follows:&lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;S53 Port Richmond Bound:&lt;/STRONG&gt; Via Narrows Rd North, left on Richmond Rd, left on Narrows Rd South, left on Hyland Blvd, left on Narrows Rd North and enter SI Expwy then exit at Slosson Av, right on Slosson Av, right on Victory Blvd, left on Clove Rd and then resume their regular route.&lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;S93 CSI College Bound:&lt;/STRONG&gt; Via Narrows Rd North, left on Richmond Rd, left on Narrows Rd South, left on Hylan Blvd, left on Narrows Rd North and enter SI Expwy then exit at Slosson Av, right on Slosson Av, left on Victory Blvd and then resume their regular route.&lt;/P&gt;
               &lt;br/&gt;
               &lt;br/&gt;
             </text>
