@@ -1,16 +1,13 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>SERVICE CHANGE</status>
+    <status>DELAYS</status>
     <text>
-                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;05/22/2018&amp;nbsp;11:25AM
+                    &amp;nbsp;Posted:&amp;nbsp;05/22/2018&amp;nbsp;11:35AM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  &lt;P&gt;There is no [1] trains between &lt;STRONG&gt;215 St&lt;/STRONG&gt; and &lt;STRONG&gt;Van Cortlandt Park-242 St&lt;/STRONG&gt;. &lt;/P&gt;
-&lt;P&gt;Some northbound [1] trains end at &lt;STRONG&gt;137 St-City College&lt;/STRONG&gt; or &lt;STRONG&gt;215 St.&lt;/STRONG&gt;&lt;/P&gt;
-&lt;P&gt;These service changes are because the Broadway Bridge is open.&lt;/P&gt;
-&lt;P&gt;Expect delays on the [1] trains in both directions.&lt;/P&gt;
+                  [1] train service has resumed following the earlier opening of the &lt;b&gt;Broadway Bridge.&lt;/b&gt;
                 &lt;br/&gt;&lt;br/&gt;
               
                     &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
@@ -19,7 +16,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>05/22/2018</Date>
-    <Time>11:25AM</Time>
+    <Time>11:35AM</Time>
   </line>
   <line>
     <name>456</name>
@@ -599,10 +596,17 @@
   </line>
   <line>
     <name>Montauk</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>DELAYS</status>
+    <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;05/22/2018&amp;nbsp;11:35AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  The 11:18AM train from Montauk due Jamaica at 2:15PM is being held prior to departure due to late-arriving equipment.
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>05/22/2018</Date>
+    <Time>11:35AM</Time>
   </line>
   <line>
     <name>Oyster Bay</name>
