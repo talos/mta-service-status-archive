@@ -1,15 +1,22 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>PLANNED WORK</status>
+    <status>DELAYS</status>
     <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;05/22/2018&amp;nbsp; 3:05PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  [1] trains are running with delays in both directions because of signal problems at &lt;STRONG&gt;Van Cortlandt Park-242 St&lt;/STRONG&gt;.
+                &lt;br/&gt;&lt;br/&gt;
+              
                     &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
                     &lt;br/&gt;
                   &lt;a class="plannedWorkDetailLink" onclick=ShowHide(189800);&gt;&lt;b&gt;PRIORITY REPAIRS | May 21 - 24, Mon to Thu, 10:15 AM to 3:30 PM&lt;br clear=left&gt;Wakefield-bound [2] trains skip Bronx Park East, Pelham Pkwy, Allerton Av and Burke Av in the Bronx&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 189800 class="plannedWorkDetail" &gt;&lt;br&gt;&lt;/b&gt;For service &lt;i&gt;to &lt;/i&gt;these stations, take the [2] to Gun Hill Rd and transfer to a Flatbush Av-bound [2].&lt;br&gt;&lt;br&gt;For service &lt;i&gt;from &lt;/i&gt;these stations, take the [2] to E 180 St and transfer to a Wakefield-bound [2].&lt;br&gt;&lt;br&gt;&lt;/font&gt;&lt;b&gt;&lt;i&gt;Alternate travel note:&lt;br&gt;&lt;/b&gt;From &lt;/i&gt;these stations, take the &lt;b&gt;Bx39&lt;/b&gt; bus.&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>05/22/2018</Date>
-    <Time> 3:02PM</Time>
+    <Time> 3:05PM</Time>
   </line>
   <line>
     <name>456</name>
@@ -84,8 +91,18 @@
 </subway><bus>
   <line>
     <name>B1 - B84</name>
-    <status>SERVICE CHANGE</status>
+    <status>DELAYS</status>
     <text>
+                  &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                  &lt;span class="DateStyle"&gt;
+                  &amp;nbsp;Posted:&amp;nbsp;05/22/2018&amp;nbsp; 3:06PM
+                  &lt;/span&gt;
+                  &lt;br/&gt;
+                  &lt;br/&gt;
+                &lt;P&gt;&lt;STRONG&gt;B25, B26, B37, B38, B41, B45, B52, B54, B61, B62, B63, B65, B67&lt;/STRONG&gt; and &lt;STRONG&gt;B103&lt;/STRONG&gt; buses are running with delays in both directions because of traffic in the downtown Brooklyn area. &lt;/P&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
                   &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
                   &lt;span class="DateStyle"&gt;
                   &amp;nbsp;Posted:&amp;nbsp;05/22/2018&amp;nbsp; 2:08PM
@@ -144,14 +161,24 @@
               &lt;br/&gt;
             </text>
     <Date>05/22/2018</Date>
-    <Time> 2:08PM</Time>
+    <Time> 3:06PM</Time>
   </line>
   <line>
     <name>B100 - B103</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>DELAYS</status>
+    <text>
+                  &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                  &lt;span class="DateStyle"&gt;
+                  &amp;nbsp;Posted:&amp;nbsp;05/22/2018&amp;nbsp; 3:06PM
+                  &lt;/span&gt;
+                  &lt;br/&gt;
+                  &lt;br/&gt;
+                &lt;P&gt;&lt;STRONG&gt;B25, B26, B37, B38, B41, B45, B52, B54, B61, B62, B63, B65, B67&lt;/STRONG&gt; and &lt;STRONG&gt;B103&lt;/STRONG&gt; buses are running with delays in both directions because of traffic in the downtown Brooklyn area. &lt;/P&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            </text>
+    <Date>05/22/2018</Date>
+    <Time> 3:06PM</Time>
   </line>
   <line>
     <name>BM1 - BM5</name>
@@ -271,18 +298,15 @@
   </line>
   <line>
     <name>Q1 - Q113</name>
-    <status>SERVICE CHANGE</status>
+    <status>DELAYS</status>
     <text>
-                  &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                  &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                   &lt;span class="DateStyle"&gt;
-                  &amp;nbsp;Posted:&amp;nbsp;05/22/2018&amp;nbsp; 2:40PM
+                  &amp;nbsp;Posted:&amp;nbsp;05/22/2018&amp;nbsp; 3:04PM
                   &lt;/span&gt;
                   &lt;br/&gt;
                   &lt;br/&gt;
-                &lt;p&gt;&lt;strong&gt;Q70-SBS&lt;/strong&gt; buses are detoured because of FDNY activity on Broadway and 70 St. &lt;/p&gt;
-&lt;p&gt;Detour is as follows: &lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;LaGuardia Airport Bound&lt;/strong&gt;: Via Broadway, left on Roosevelt Av, right on 69 St, right on 37 Av tot he BQE and regular route. &lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Woodside Bound:&lt;/strong&gt; Via the BQE, exit at Roosevelt Av, continue straight to 69 St and regular route. &lt;/p&gt;
+                &lt;STRONG&gt;Q70-SBS&lt;/STRONG&gt; bus service has resumed following earlier FDNY activity on Broadway and 70 St.
               &lt;br/&gt;
               &lt;br/&gt;
             
@@ -342,7 +366,7 @@
               &lt;br/&gt;
             </text>
     <Date>05/22/2018</Date>
-    <Time> 2:40PM</Time>
+    <Time> 3:04PM</Time>
   </line>
   <line>
     <name>QM1 - QM44</name>
@@ -397,10 +421,20 @@
   </line>
   <line>
     <name>x1 - x68</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>DELAYS</status>
+    <text>
+                  &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                  &lt;span class="DateStyle"&gt;
+                  &amp;nbsp;Posted:&amp;nbsp;05/22/2018&amp;nbsp; 3:05PM
+                  &lt;/span&gt;
+                  &lt;br/&gt;
+                  &lt;br/&gt;
+                &lt;STRONG&gt;BM1, BM2, BM3, BM4, X1, X2, X3, X4, X5, X7, X8, X9, X10, X11, X12, X14, X15, X17, X19, X27/37, X28/38&lt;/STRONG&gt; and &lt;STRONG&gt;X42&lt;/STRONG&gt; buses are running with delays in both directions because of traffic on the Gowanus Expressway between the Belt Parkway and the Brooklyn-Queens Expressway.
+              &lt;br/&gt;
+              &lt;br/&gt;
+            </text>
+    <Date>05/22/2018</Date>
+    <Time> 3:05PM</Time>
   </line>
 </bus><BT>
   <line>
