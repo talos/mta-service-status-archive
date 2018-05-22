@@ -13,10 +13,18 @@
   </line>
   <line>
     <name>456</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>SERVICE CHANGE</status>
+    <text>
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;05/22/2018&amp;nbsp;11:00AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;P&gt;Northbound [4] trains are running local from &lt;STRONG&gt;Crown Hts Utica Av&lt;/STRONG&gt; to &lt;STRONG&gt;Franklin Av&lt;/STRONG&gt; because of a train with mechanical problems at &lt;STRONG&gt;Crown Hts Utica Av&lt;/STRONG&gt;.&lt;/P&gt;
+&lt;P&gt;Expect delays in [3] and [4] train service.&lt;/P&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>05/22/2018</Date>
+    <Time>11:00AM</Time>
   </line>
   <line>
     <name>7</name>
@@ -64,10 +72,17 @@
   </line>
   <line>
     <name>JZ</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>DELAYS</status>
+    <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;05/22/2018&amp;nbsp;11:01AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  [J] trains are running with delays in both directions because of track maintenance at &lt;STRONG&gt;Jamaica Ctr Parsons Archer&lt;/STRONG&gt;.
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>05/22/2018</Date>
+    <Time>11:01AM</Time>
   </line>
   <line>
     <name>L</name>
@@ -537,25 +552,25 @@
   </line>
   <line>
     <name>Verrazano-Narrows</name>
-    <status>DELAYS</status>
-    <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;05/22/2018&amp;nbsp; 6:51AM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  &lt;P  style="MARGIN: 0in 0in 0pt"&gt;&lt;FONT size=3 face=Calibri&gt;VNB - DELAYS BROOKLYN BOUND ON BOTH LEVELS DUE TO OFF PROPERTY VOLUME ON THE GOWANUS EXPWY. MOTORIST SHOULD ALLOW FOR EXTRA TRAVEL TIME.&lt;/FONT&gt;&lt;/P&gt;
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>05/22/2018</Date>
-    <Time> 6:51AM</Time>
-  </line>
-</BT><LIRR>
-  <line>
-    <name>Babylon</name>
     <status>GOOD SERVICE</status>
     <text />
     <Date></Date>
     <Time></Time>
+  </line>
+</BT><LIRR>
+  <line>
+    <name>Babylon</name>
+    <status>DELAYS</status>
+    <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;05/22/2018&amp;nbsp;11:02AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  The 10:22AM train from Penn due Babylon at 11:24AM is being delayed at Rosedale due to signal trouble near Valley Stream.
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>05/22/2018</Date>
+    <Time>11:02AM</Time>
   </line>
   <line>
     <name>City Terminal Zone</name>
