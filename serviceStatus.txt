@@ -1,17 +1,10 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>DELAYS</status>
-    <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;05/22/2018&amp;nbsp; 3:48PM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  [1] train service has resumed following earlier switch problems at &lt;STRONG&gt;Van Cortlandt Park-242 St&lt;/STRONG&gt;.
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>05/22/2018</Date>
-    <Time> 3:48PM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>456</name>
@@ -242,6 +235,26 @@
     <text>
                   &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                   &lt;span class="DateStyle"&gt;
+                  &amp;nbsp;Posted:&amp;nbsp;05/22/2018&amp;nbsp; 4:11PM
+                  &lt;/span&gt;
+                  &lt;br/&gt;
+                  &lt;br/&gt;
+                &lt;STRONG&gt;M103 &lt;/STRONG&gt;buses are running with delays in both directions because of traffic near the Manhattan and Williamsburg Bridges.
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
+                  &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                  &lt;span class="DateStyle"&gt;
+                  &amp;nbsp;Posted:&amp;nbsp;05/22/2018&amp;nbsp; 4:10PM
+                  &lt;/span&gt;
+                  &lt;br/&gt;
+                  &lt;br/&gt;
+                &lt;STRONG&gt;M23-SBS&lt;/STRONG&gt; buses are running with delays in both directions because of traffic conditions on 23 St between 6 Av and 12 Av.
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
+                  &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                  &lt;span class="DateStyle"&gt;
                   &amp;nbsp;Posted:&amp;nbsp;05/22/2018&amp;nbsp; 4:10PM
                   &lt;/span&gt;
                   &lt;br/&gt;
@@ -305,7 +318,7 @@
               &lt;br/&gt;
             </text>
     <Date>05/22/2018</Date>
-    <Time> 4:10PM</Time>
+    <Time> 4:11PM</Time>
   </line>
   <line>
     <name>Q1 - Q113</name>
