@@ -1,29 +1,15 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>DELAYS</status>
-    <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;05/24/2018&amp;nbsp; 8:45AM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  [4] and [5] train service has resumed following an earlier incident involving a customer in need of medical assistance at &lt;STRONG&gt;Atlantic Av-Barclays Ctr&lt;/STRONG&gt;.
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>05/24/2018</Date>
-    <Time> 8:45AM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>456</name>
-    <status>DELAYS</status>
+    <status>PLANNED WORK</status>
     <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;05/24/2018&amp;nbsp; 8:45AM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  [4] and [5] train service has resumed following an earlier incident involving a customer in need of medical assistance at &lt;STRONG&gt;Atlantic Av-Barclays Ctr&lt;/STRONG&gt;.
-                &lt;br/&gt;&lt;br/&gt;
-              
                     &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
                     &lt;br/&gt;
                   &lt;a class="plannedWorkDetailLink" onclick=ShowHide(186871);&gt;&lt;b&gt;TRACK MAINTENANCE | Until Jun 1, Tue to Fri, 10 AM to 3:30 PM &lt;br clear=left&gt;The last stop for alternate [6] trains headed toward Pelham Bay Park is 3 Av-138 St in the Bronx&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 186871 class="plannedWorkDetail" &gt;&lt;br&gt;&lt;/b&gt;          &lt;a href=http://apps.mta.info/traintime/ target=_blank&gt;&lt;img height=26px src=http://apps.mta.info/traintime/desktop2Images/logoSm.png&gt;&lt;/a&gt;&lt;br&gt;      &lt;br&gt;&lt;/font&gt;&lt;table class=plannedworkTableStyle  border=1 cellspacing=1 cellpadding=5 rules=none frame=box&gt;&lt;td&gt;  [ad]  &lt;td&gt;&lt;font size=1&gt;This service change affects one or more ADA accessible stations. Please call 511 for help with planning&lt;br&gt;your trip. If you are deaf or hard of hearing, use your preferred relay service provider or the free 711 relay.  &lt;/font&gt;&lt;/table&gt;&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
@@ -35,7 +21,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>05/24/2018</Date>
-    <Time> 8:45AM</Time>
+    <Time> 9:08AM</Time>
   </line>
   <line>
     <name>7</name>
