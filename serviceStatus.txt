@@ -1,10 +1,15 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>PLANNED WORK</status>
+    <text>
+                    &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
+                    &lt;br/&gt;
+                  &lt;a class="plannedWorkDetailLink" onclick=ShowHide(189800);&gt;&lt;b&gt;PRIORITY REPAIRS | May 21 - 24, Mon to Thu, 10:15 AM to 3:30 PM&lt;br clear=left&gt;Wakefield-bound [2] trains skip Bronx Park East, Pelham Pkwy, Allerton Av and Burke Av in the Bronx&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 189800 class="plannedWorkDetail" &gt;&lt;br&gt;&lt;/b&gt;For service &lt;i&gt;to &lt;/i&gt;these stations, take the [2] to Gun Hill Rd and transfer to a Flatbush Av-bound [2].&lt;br&gt;&lt;br&gt;For service &lt;i&gt;from &lt;/i&gt;these stations, take the [2] to E 180 St and transfer to a Wakefield-bound [2].&lt;br&gt;&lt;br&gt;&lt;/font&gt;&lt;b&gt;&lt;i&gt;Alternate travel note:&lt;br&gt;&lt;/b&gt;From &lt;/i&gt;these stations, take the &lt;b&gt;Bx39&lt;/b&gt; bus.&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>05/24/2018</Date>
+    <Time> 9:22AM</Time>
   </line>
   <line>
     <name>456</name>
@@ -16,7 +21,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>05/24/2018</Date>
-    <Time> 9:12AM</Time>
+    <Time> 9:22AM</Time>
   </line>
   <line>
     <name>7</name>
@@ -28,7 +33,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>05/24/2018</Date>
-    <Time> 9:12AM</Time>
+    <Time> 9:22AM</Time>
   </line>
   <line>
     <name>ACE</name>
@@ -115,7 +120,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>05/24/2018</Date>
-    <Time> 9:12AM</Time>
+    <Time> 9:22AM</Time>
   </line>
 </subway><bus>
   <line>
@@ -141,7 +146,7 @@
               &lt;br/&gt;
             </text>
     <Date>05/24/2018</Date>
-    <Time> 9:12AM</Time>
+    <Time> 9:22AM</Time>
   </line>
   <line>
     <name>B100 - B103</name>
@@ -201,7 +206,7 @@
               &lt;br/&gt;
             </text>
     <Date>05/24/2018</Date>
-    <Time> 9:12AM</Time>
+    <Time> 9:22AM</Time>
   </line>
   <line>
     <name>M1 - M116</name>
@@ -214,7 +219,7 @@
               &lt;br/&gt;
             </text>
     <Date>05/24/2018</Date>
-    <Time> 9:12AM</Time>
+    <Time> 9:22AM</Time>
   </line>
   <line>
     <name>Q1 - Q113</name>
@@ -297,7 +302,7 @@
               &lt;br/&gt;
             </text>
     <Date>05/24/2018</Date>
-    <Time> 9:12AM</Time>
+    <Time> 9:22AM</Time>
   </line>
   <line>
     <name>S40 - S98</name>
@@ -305,14 +310,14 @@
     <text>
                   &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
                   &lt;span class="DateStyle"&gt;
-                  &amp;nbsp;Posted:&amp;nbsp;05/24/2018&amp;nbsp; 8:47AM
+                  &amp;nbsp;Posted:&amp;nbsp;05/24/2018&amp;nbsp; 9:24AM
                   &lt;/span&gt;
                   &lt;br/&gt;
                   &lt;br/&gt;
-                &lt;P&gt;&lt;STRONG&gt;S46&lt;/STRONG&gt; and &lt;STRONG&gt;S96&lt;/STRONG&gt; buses are detoured because of utility work on Walloon St between Union at and Maple Pkwy. &lt;/P&gt;
+                &lt;P&gt;&lt;STRONG&gt;S46 &lt;/STRONG&gt;and&lt;STRONG&gt; S96&lt;/STRONG&gt; buses are detoured because of Con Edison emergency work on Walloon St and Union Av&lt;/P&gt;
 &lt;P&gt;Detour is as follows:&lt;/P&gt;
-&lt;P&gt;&lt;STRONG&gt;St George Terminal-bound:&lt;/STRONG&gt; Via Union Av, right on Richmond Terrace, right on Van Pelt Av, left on Walker St and then resume the regular route.&lt;/P&gt;
-&lt;P&gt;&lt;STRONG&gt;West Shore Plaza-bound&lt;/STRONG&gt;: Via Van Pelt Av, left on Richmond Terrace, left on Union Av, right on Brabant St and then resume the regular route.&lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;St George Terminal-bound:&lt;/STRONG&gt; Via Union Av, right on Richmond Terrace, right on Van Pelt Av, and then resume the regular route.&lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;West Shore Plaza-bound&lt;/STRONG&gt;: Via Van Pelt Av, left on Richmond Terrace, left on Union Av, right  and then resume the regular route.&lt;/P&gt;
               &lt;br/&gt;
               &lt;br/&gt;
             
@@ -323,7 +328,7 @@
               &lt;br/&gt;
             </text>
     <Date>05/24/2018</Date>
-    <Time> 8:47AM</Time>
+    <Time> 9:24AM</Time>
   </line>
   <line>
     <name>x1 - x68</name>
