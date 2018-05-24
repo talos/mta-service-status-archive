@@ -262,10 +262,17 @@
 </bus><BT>
   <line>
     <name>Bronx-Whitestone</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>DELAYS</status>
+    <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;05/24/2018&amp;nbsp; 6:53AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  BWB: OFF PROPERTY DELAYS QUEENS BOUND DUE TO VOLUME ON THE WHITESTONE EXPRESSWAY.  
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>05/24/2018</Date>
+    <Time> 6:53AM</Time>
   </line>
   <line>
     <name>Cross Bay</name>
@@ -304,17 +311,10 @@
   </line>
   <line>
     <name>Robert F. Kennedy</name>
-    <status>DELAYS</status>
-    <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;05/23/2018&amp;nbsp; 2:29PM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  RFK- DELAYS MANHATTAN SPAN MANHATTAN BOUND DUE TO OFF PROPERTY VOLUME ON THE FDR DRIVE AND 125TH STREET RAMP.
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>05/23/2018</Date>
-    <Time> 2:29PM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>Throgs Neck</name>
