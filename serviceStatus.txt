@@ -1,17 +1,33 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>SERVICE CHANGE</status>
+    <text>
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;05/24/2018&amp;nbsp; 8:36AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;P&gt;Southbound [4] and [5] trains are running local from &lt;STRONG&gt;Atlantic Av-Barclays Ctr &lt;/STRONG&gt;to&lt;STRONG&gt; Franklin Av&lt;/STRONG&gt; because of a customer in need of medical assistance at &lt;STRONG&gt;Atlantic Av-Barclays Ctr&lt;/STRONG&gt;.&lt;/P&gt;
+&lt;P&gt;Expect delays on the [2], [3], [4] and [5] trains.&lt;/P&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>05/24/2018</Date>
+    <Time> 8:36AM</Time>
   </line>
   <line>
     <name>456</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>SERVICE CHANGE</status>
+    <text>
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;05/24/2018&amp;nbsp; 8:36AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;P&gt;Southbound [4] and [5] trains are running local from &lt;STRONG&gt;Atlantic Av-Barclays Ctr &lt;/STRONG&gt;to&lt;STRONG&gt; Franklin Av&lt;/STRONG&gt; because of a customer in need of medical assistance at &lt;STRONG&gt;Atlantic Av-Barclays Ctr&lt;/STRONG&gt;.&lt;/P&gt;
+&lt;P&gt;Expect delays on the [2], [3], [4] and [5] trains.&lt;/P&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>05/24/2018</Date>
+    <Time> 8:36AM</Time>
   </line>
   <line>
     <name>7</name>
@@ -200,6 +216,19 @@
     <text>
                   &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
                   &lt;span class="DateStyle"&gt;
+                  &amp;nbsp;Posted:&amp;nbsp;05/24/2018&amp;nbsp; 8:36AM
+                  &lt;/span&gt;
+                  &lt;br/&gt;
+                  &lt;br/&gt;
+                &lt;P&gt;&lt;STRONG&gt;Q25&lt;/STRONG&gt; and &lt;STRONG&gt;Q50&lt;/STRONG&gt; buses are detoured in both directions because of road work on Linden Pl between 31 Rd and 32 Av. &lt;/P&gt;
+&lt;P&gt;Detour is as follows:&lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;Q25 and Q50 Northbound&lt;/STRONG&gt;: Via Linden Pl, right on 32 Av, left on 138 St, left on 31 Rd, right on Linden Blvd and then resume their regular route.&lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;Q25 and Q50 Southbound&lt;/STRONG&gt;: Via Linden Pl, left on 31 Rd, right on 138 St, right on 32 Av, left on Linden Pl and then resume their regular route.&lt;/P&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
+                  &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                  &lt;span class="DateStyle"&gt;
                   &amp;nbsp;Posted:&amp;nbsp;05/24/2018&amp;nbsp; 8:01AM
                   &lt;/span&gt;
                   &lt;br/&gt;
@@ -237,7 +266,7 @@
               &lt;br/&gt;
             </text>
     <Date>05/24/2018</Date>
-    <Time> 8:01AM</Time>
+    <Time> 8:36AM</Time>
   </line>
   <line>
     <name>QM1 - QM44</name>
