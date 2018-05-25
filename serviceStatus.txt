@@ -73,10 +73,17 @@
   </line>
   <line>
     <name>JZ</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>SERVICE CHANGE</status>
+    <text>
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;05/25/2018&amp;nbsp; 7:03PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  Jamaica bound [J] trains are running express from &lt;STRONG&gt;Myrtle Av&lt;/STRONG&gt; to &lt;STRONG&gt;Broadway Junction&lt;/STRONG&gt; because of a passenger in need of medical assistance at &lt;STRONG&gt;Kosciuszko St&lt;/STRONG&gt;.
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>05/25/2018</Date>
+    <Time> 7:03PM</Time>
   </line>
   <line>
     <name>L</name>
@@ -505,24 +512,10 @@
 </bus><BT>
   <line>
     <name>Bronx-Whitestone</name>
-    <status>DELAYS</status>
-    <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;05/25/2018&amp;nbsp; 3:49PM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  BWB: Delays Queens bound due to off property volume on the Whitestone Expressway.
-                &lt;br/&gt;&lt;br/&gt;
-              
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;05/25/2018&amp;nbsp; 3:49PM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  BWB- Delays Bronx bound due to heavy volume.
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>05/25/2018</Date>
-    <Time> 3:49PM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>Cross Bay</name>
@@ -575,8 +568,15 @@
   </line>
   <line>
     <name>Verrazano-Narrows</name>
-    <status>DELAYS</status>
+    <status>SERVICE CHANGE</status>
     <text>
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;05/25/2018&amp;nbsp; 7:02PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  VNB: STATEN ISLAND BOUND DELAYS HAVE CLEARED.
+                &lt;br/&gt;&lt;br/&gt;
+              
                     &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
                     &amp;nbsp;Posted:&amp;nbsp;05/25/2018&amp;nbsp; 3:16PM
@@ -585,7 +585,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>05/25/2018</Date>
-    <Time> 3:16PM</Time>
+    <Time> 7:02PM</Time>
   </line>
 </BT><LIRR>
   <line>
