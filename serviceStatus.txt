@@ -15,10 +15,15 @@
   </line>
   <line>
     <name>7</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>PLANNED WORK</status>
+    <text>
+                    &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
+                    &lt;br/&gt;
+                  &lt;a class="plannedWorkDetailLink" onclick=ShowHide(190455);&gt;&lt;b&gt;URGENT TRACK REPAIRS | May 25, Friday, 10:15 AM to 3:30 PM&lt;br clear=left&gt;Hudson Yards-bound [7] trains skip 111, 103, 90 and 82 Sts in Queens&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 190455 class="plannedWorkDetail" &gt;&lt;br&gt;&lt;/b&gt;For service&lt;i&gt; to&lt;/i&gt; these stations, take the [7] to Junction Blvd or 74 St &lt;br&gt;and transfer to a Flushing-bound [7].&lt;br&gt;&lt;br&gt;For service &lt;i&gt;from&lt;/i&gt; these stations, take the [7] to Junction Blvd or Willets Point&lt;br&gt;and transfer to a Hudson Yards-bound [7].&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>05/25/2018</Date>
+    <Time> 9:22AM</Time>
   </line>
   <line>
     <name>ACE</name>
@@ -84,7 +89,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>05/25/2018</Date>
-    <Time> 9:12AM</Time>
+    <Time> 9:22AM</Time>
   </line>
 </subway><bus>
   <line>
@@ -116,7 +121,7 @@
               &lt;br/&gt;
             </text>
     <Date>05/25/2018</Date>
-    <Time> 9:12AM</Time>
+    <Time> 9:22AM</Time>
   </line>
   <line>
     <name>B100 - B103</name>
@@ -149,7 +154,7 @@
               &lt;br/&gt;
             </text>
     <Date>05/25/2018</Date>
-    <Time> 9:12AM</Time>
+    <Time> 9:22AM</Time>
   </line>
   <line>
     <name>BXM1 - BXM18</name>
@@ -162,7 +167,7 @@
               &lt;br/&gt;
             </text>
     <Date>05/25/2018</Date>
-    <Time> 9:12AM</Time>
+    <Time> 9:22AM</Time>
   </line>
   <line>
     <name>M1 - M116</name>
@@ -283,7 +288,7 @@
               &lt;br/&gt;
             </text>
     <Date>05/25/2018</Date>
-    <Time> 9:12AM</Time>
+    <Time> 9:22AM</Time>
   </line>
   <line>
     <name>S40 - S98</name>
@@ -296,7 +301,7 @@
               &lt;br/&gt;
             </text>
     <Date>05/25/2018</Date>
-    <Time> 9:12AM</Time>
+    <Time> 9:22AM</Time>
   </line>
   <line>
     <name>x1 - x68</name>
@@ -309,7 +314,7 @@
               &lt;br/&gt;
             </text>
     <Date>05/25/2018</Date>
-    <Time> 9:12AM</Time>
+    <Time> 9:22AM</Time>
   </line>
 </bus><BT>
   <line>
