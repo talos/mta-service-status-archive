@@ -539,10 +539,17 @@
   </line>
   <line>
     <name>City Terminal Zone</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>DELAYS</status>
+    <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;05/26/2018&amp;nbsp;11:51AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;span style="font-family: Arial, Helvetica; font-size: medium;"&gt;The 11:08AM train from Penn due Belmont Race Track at 11:46AM has been cancelled at Woodside due to equipment trouble. Customers accommodated on the following eastbound train from Woodside to Jamaica expected to depart momentarily. There will be an extra passenger train departing Jamaica to Belmont. Please listen to station announcements for details.&lt;/span&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>05/26/2018</Date>
+    <Time>11:51AM</Time>
   </line>
   <line>
     <name>Far Rockaway</name>
