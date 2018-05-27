@@ -1,13 +1,13 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>SERVICE CHANGE</status>
+    <status>DELAYS</status>
     <text>
-                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;05/27/2018&amp;nbsp; 1:40PM
+                    &amp;nbsp;Posted:&amp;nbsp;05/27/2018&amp;nbsp; 2:28PM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  Northbound [1] trains are bypassing &lt;b&gt;137 St-City College&lt;/b&gt; because of temporary track maintenance there.
+                  [1] train service has resumed following earlier temporary track maintenance at &lt;b&gt;137 St-City College.&lt;/b&gt;
                 &lt;br/&gt;&lt;br/&gt;
               
                     &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
@@ -37,7 +37,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>05/27/2018</Date>
-    <Time> 1:40PM</Time>
+    <Time> 2:28PM</Time>
   </line>
   <line>
     <name>456</name>
