@@ -421,10 +421,17 @@
 </bus><BT>
   <line>
     <name>Bronx-Whitestone</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>DELAYS</status>
+    <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;05/28/2018&amp;nbsp; 3:53PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  BWB: QUEENS BOUND COLLISION RIGHT LANE IS BLOCKED. CONSIDER ALTERNATE ROUTE AND ALLOW FOR EXTRA TRAVEL TIME.
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>05/28/2018</Date>
+    <Time> 3:53PM</Time>
   </line>
   <line>
     <name>Cross Bay</name>
@@ -463,17 +470,10 @@
   </line>
   <line>
     <name>Robert F. Kennedy</name>
-    <status>DELAYS</status>
-    <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;05/28/2018&amp;nbsp; 3:21PM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  &lt;P class=MsoPlainText style="MARGIN: 0in 0in 0pt"&gt;&lt;FONT size=3 face=Calibri&gt;RFK: Moderate delays Manhattan Span Manhattan bound due to off property volume on the FDR and 125th St exit ramp.&lt;/FONT&gt;&lt;/P&gt;
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>05/28/2018</Date>
-    <Time> 3:21PM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
   <line>
     <name>Throgs Neck</name>
