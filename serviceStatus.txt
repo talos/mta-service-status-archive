@@ -64,10 +64,18 @@
   </line>
   <line>
     <name>L</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>SERVICE CHANGE</status>
+    <text>
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;05/29/2018&amp;nbsp; 4:15PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;P&gt;Canarsie bound [L] trains will end at &lt;STRONG&gt;Broadway Junction&lt;/STRONG&gt; because of a passenger in need of medical assistance at &lt;STRONG&gt;Broadway Junction&lt;/STRONG&gt;.&lt;/P&gt;
+&lt;P&gt;Expect delays in [L] train service in both directions. &lt;/P&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>05/29/2018</Date>
+    <Time> 4:15PM</Time>
   </line>
   <line>
     <name>NQR</name>
@@ -681,10 +689,17 @@
   </line>
   <line>
     <name>Port Jervis</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>DELAYS</status>
+    <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;05/29/2018&amp;nbsp; 4:15PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;body bgcolor='White' style='font-family:sans-serif;font-size:10pt;'&gt;&lt;/body&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>05/29/2018</Date>
+    <Time> 4:15PM</Time>
   </line>
 </MetroNorth></service>
 
