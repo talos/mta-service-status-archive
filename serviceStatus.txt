@@ -1,17 +1,31 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>DELAYS</status>
+    <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;05/29/2018&amp;nbsp; 8:15AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  [2] and [5] trains are being held in stations in both directions because of someone on the tracks at &lt;STRONG&gt;Simpson St&lt;/STRONG&gt;.
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>05/29/2018</Date>
+    <Time> 8:15AM</Time>
   </line>
   <line>
     <name>456</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>DELAYS</status>
+    <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;05/29/2018&amp;nbsp; 8:15AM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  [2] and [5] trains are being held in stations in both directions because of someone on the tracks at &lt;STRONG&gt;Simpson St&lt;/STRONG&gt;.
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>05/29/2018</Date>
+    <Time> 8:15AM</Time>
   </line>
   <line>
     <name>7</name>
@@ -211,18 +225,8 @@
   </line>
   <line>
     <name>M1 - M116</name>
-    <status>DELAYS</status>
+    <status>PLANNED WORK</status>
     <text>
-                  &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                  &lt;span class="DateStyle"&gt;
-                  &amp;nbsp;Posted:&amp;nbsp;05/29/2018&amp;nbsp; 7:58AM
-                  &lt;/span&gt;
-                  &lt;br/&gt;
-                  &lt;br/&gt;
-                &lt;STRONG&gt;M5&lt;/STRONG&gt; bus service has resumed following an earlier Non MTA crash on Riverdale Dr and 85 St.
-              &lt;br/&gt;
-              &lt;br/&gt;
-            
                   &lt;span class="TitlePlannedWork" &gt;Planned Detour&lt;/span&gt;
                   &lt;br/&gt;
                 &lt;a class="plannedWorkDetailLink" onclick=ShowHide(189597);&gt;&lt;b&gt;M101/M101 &lt;/b&gt;LTD&lt;b&gt;, M102 and M103&lt;/b&gt; - &lt;b&gt;Southbound stop on Lexington Av at 83 St temporarily closed&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 189597 class="plannedWorkDetail" &gt;&lt;/b&gt;All times until further notice&lt;br&gt;&lt;br&gt;Due to construction, please use nearby stops&lt;b&gt; on Lexington Av &lt;/b&gt;at 86 St or 79 St.&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
@@ -230,7 +234,7 @@
               &lt;br/&gt;
             </text>
     <Date>05/29/2018</Date>
-    <Time> 7:58AM</Time>
+    <Time> 8:12AM</Time>
   </line>
   <line>
     <name>Q1 - Q113</name>
