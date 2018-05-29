@@ -1,13 +1,13 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>SERVICE CHANGE</status>
+    <status>DELAYS</status>
     <text>
-                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;05/29/2018&amp;nbsp; 2:30AM
+                    &amp;nbsp;Posted:&amp;nbsp;05/29/2018&amp;nbsp; 3:01AM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  Southbound [1] trains are running express from &lt;STRONG&gt;145 St &lt;/STRONG&gt;to &lt;STRONG&gt;96 St&lt;/STRONG&gt; because of a rail replacement at &lt;STRONG&gt;145 St&lt;/STRONG&gt;.
+                  [1] service has resumed following an earlier rail replacement at &lt;STRONG&gt;145 St&lt;/STRONG&gt;.
                 &lt;br/&gt;&lt;br/&gt;
               
                     &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
@@ -16,7 +16,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>05/29/2018</Date>
-    <Time> 2:30AM</Time>
+    <Time> 3:01AM</Time>
   </line>
   <line>
     <name>456</name>
