@@ -1,8 +1,16 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>DELAYS</status>
+    <status>SERVICE CHANGE</status>
     <text>
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;05/29/2018&amp;nbsp;12:57PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;P&gt;Southbound [2] and [3] trains are running express from &lt;STRONG&gt;Atlantic Av-Barclays Ctr&lt;/STRONG&gt; to &lt;STRONG&gt;Franklin Av&lt;/STRONG&gt; because of track maintenance at &lt;STRONG&gt;Bergen St.&lt;/STRONG&gt;&lt;/P&gt;
+&lt;P&gt;Expect delays in [2], [3], [4] and [5] train service. &lt;/P&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              
                     &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
                     &amp;nbsp;Posted:&amp;nbsp;05/29/2018&amp;nbsp;12:47PM
@@ -11,12 +19,20 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>05/29/2018</Date>
-    <Time>12:47PM</Time>
+    <Time>12:57PM</Time>
   </line>
   <line>
     <name>456</name>
-    <status>PLANNED WORK</status>
+    <status>SERVICE CHANGE</status>
     <text>
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;05/29/2018&amp;nbsp;12:57PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;P&gt;Southbound [2] and [3] trains are running express from &lt;STRONG&gt;Atlantic Av-Barclays Ctr&lt;/STRONG&gt; to &lt;STRONG&gt;Franklin Av&lt;/STRONG&gt; because of track maintenance at &lt;STRONG&gt;Bergen St.&lt;/STRONG&gt;&lt;/P&gt;
+&lt;P&gt;Expect delays in [2], [3], [4] and [5] train service. &lt;/P&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              
                     &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
                     &lt;br/&gt;
                   &lt;a class="plannedWorkDetailLink" onclick=ShowHide(187994);&gt;&lt;b&gt;TRACK MAINTENANCE | May 29 - Jun 1, Tue to Fri, 9:45 AM to 1 PM&lt;/font&gt;&lt;br clear=left&gt;Brooklyn Bridge-bound [6D] trains run local from Parkchester to 3 Av-138 St in the Bronx&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 187994 class="plannedWorkDetail" &gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
@@ -43,7 +59,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>05/29/2018</Date>
-    <Time>12:52PM</Time>
+    <Time>12:57PM</Time>
   </line>
   <line>
     <name>7</name>
