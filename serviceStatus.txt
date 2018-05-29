@@ -31,7 +31,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>05/29/2018</Date>
-    <Time> 2:42PM</Time>
+    <Time> 2:48PM</Time>
   </line>
   <line>
     <name>7</name>
@@ -135,7 +135,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>05/29/2018</Date>
-    <Time> 2:42PM</Time>
+    <Time> 2:48PM</Time>
   </line>
 </subway><bus>
   <line>
@@ -218,8 +218,18 @@
   </line>
   <line>
     <name>BX1 - BX55</name>
-    <status>SERVICE CHANGE</status>
+    <status>DELAYS</status>
     <text>
+                  &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                  &lt;span class="DateStyle"&gt;
+                  &amp;nbsp;Posted:&amp;nbsp;05/29/2018&amp;nbsp; 2:49PM
+                  &lt;/span&gt;
+                  &lt;br/&gt;
+                  &lt;br/&gt;
+                &lt;STRONG&gt;BX10, BX16, BX28, BX30, BX34&lt;/STRONG&gt; and &lt;STRONG&gt;BX38&lt;/STRONG&gt; buses are running with delays in both directions because of road work on Bainbridge Av between Gun Hill Rd and 206 St.
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
                   &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
                   &lt;span class="DateStyle"&gt;
                   &amp;nbsp;Posted:&amp;nbsp;05/29/2018&amp;nbsp; 2:02PM
@@ -246,7 +256,7 @@
               &lt;br/&gt;
             </text>
     <Date>05/29/2018</Date>
-    <Time> 2:02PM</Time>
+    <Time> 2:49PM</Time>
   </line>
   <line>
     <name>BXM1 - BXM18</name>
@@ -404,7 +414,7 @@
               &lt;br/&gt;
             </text>
     <Date>05/29/2018</Date>
-    <Time> 2:42PM</Time>
+    <Time> 2:48PM</Time>
   </line>
   <line>
     <name>S40 - S98</name>
@@ -654,17 +664,10 @@
   </line>
   <line>
     <name>Port Jervis</name>
-    <status>DELAYS</status>
-    <text>
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;05/29/2018&amp;nbsp;12:45PM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  &lt;font class="subTitle"&gt;MBPJ train #0062, the 12:06pm from Campbell Hall is up to 10 min. late due to an earlier late train.&lt;/font&gt;
-                &lt;br/&gt;&lt;br/&gt;
-              </text>
-    <Date>05/29/2018</Date>
-    <Time>12:45PM</Time>
+    <status>GOOD SERVICE</status>
+    <text />
+    <Date></Date>
+    <Time></Time>
   </line>
 </MetroNorth></service>
 
