@@ -1,10 +1,18 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>SERVICE CHANGE</status>
+    <text>
+                    &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;05/30/2018&amp;nbsp; 6:35PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  &lt;P&gt;Some northbound [2] trains are stopping along [5] trains from &lt;STRONG&gt;Nevins St&lt;/STRONG&gt; to &lt;STRONG&gt;149 St-Grand Concourse&lt;/STRONG&gt; because of FDNY activity at &lt;STRONG&gt;135 St&lt;/STRONG&gt;.&lt;/P&gt;
+&lt;P&gt;Expect delays in [2], [3] and [5] train service. &lt;/P&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>05/30/2018</Date>
+    <Time> 6:35PM</Time>
   </line>
   <line>
     <name>456</name>
