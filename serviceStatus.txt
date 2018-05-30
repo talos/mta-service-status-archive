@@ -1,24 +1,24 @@
 <service><responsecode>0</responsecode><subway>
   <line>
     <name>123</name>
-    <status>SERVICE CHANGE</status>
+    <status>DELAYS</status>
     <text>
+                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                    &lt;span class="DateStyle"&gt;
+                    &amp;nbsp;Posted:&amp;nbsp;05/30/2018&amp;nbsp; 3:23PM
+                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+                  [1] train service has resumed following earlier signal problems at &lt;STRONG&gt;137 St-City College&lt;/STRONG&gt;.
+                &lt;br/&gt;&lt;br/&gt;
+              
                     &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
                     &lt;span class="DateStyle"&gt;
                     &amp;nbsp;Posted:&amp;nbsp;05/30/2018&amp;nbsp; 3:14PM
                     &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
                   Northbound [2] and [5] trains are running express from &lt;STRONG&gt;3 Av-149 St&lt;/STRONG&gt; to &lt;STRONG&gt;E 180 St&lt;/STRONG&gt; because of a garbage can thrown on the tracks at &lt;STRONG&gt;Prospect Av&lt;/STRONG&gt;.
                 &lt;br/&gt;&lt;br/&gt;
-              
-                    &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                    &lt;span class="DateStyle"&gt;
-                    &amp;nbsp;Posted:&amp;nbsp;05/30/2018&amp;nbsp; 2:01PM
-                    &lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-                  Southbound [1] trains are running with delays because of signal problems at &lt;STRONG&gt;137 St-City College&lt;/STRONG&gt;.
-                &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>05/30/2018</Date>
-    <Time> 3:14PM</Time>
+    <Time> 3:23PM</Time>
   </line>
   <line>
     <name>456</name>
@@ -127,7 +127,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>05/30/2018</Date>
-    <Time> 3:12PM</Time>
+    <Time> 3:22PM</Time>
   </line>
   <line>
     <name>S</name>
@@ -389,7 +389,7 @@
               &lt;br/&gt;
             </text>
     <Date>05/30/2018</Date>
-    <Time> 3:12PM</Time>
+    <Time> 3:22PM</Time>
   </line>
   <line>
     <name>S40 - S98</name>
