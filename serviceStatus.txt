@@ -16,7 +16,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>06/01/2018</Date>
-    <Time>11:32AM</Time>
+    <Time>11:42AM</Time>
   </line>
   <line>
     <name>7</name>
@@ -28,7 +28,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>06/01/2018</Date>
-    <Time>11:32AM</Time>
+    <Time>11:42AM</Time>
   </line>
   <line>
     <name>ACE</name>
@@ -87,7 +87,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>06/01/2018</Date>
-    <Time>11:32AM</Time>
+    <Time>11:42AM</Time>
   </line>
   <line>
     <name>S</name>
@@ -116,7 +116,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>06/01/2018</Date>
-    <Time>11:32AM</Time>
+    <Time>11:42AM</Time>
   </line>
 </subway><bus>
   <line>
@@ -251,7 +251,7 @@
               &lt;br/&gt;
             </text>
     <Date>06/01/2018</Date>
-    <Time>11:32AM</Time>
+    <Time>11:42AM</Time>
   </line>
   <line>
     <name>BXM1 - BXM18</name>
@@ -270,7 +270,7 @@
               &lt;br/&gt;
             </text>
     <Date>06/01/2018</Date>
-    <Time>11:32AM</Time>
+    <Time>11:42AM</Time>
   </line>
   <line>
     <name>M1 - M116</name>
@@ -303,8 +303,18 @@
   </line>
   <line>
     <name>Q1 - Q113</name>
-    <status>SERVICE CHANGE</status>
+    <status>DELAYS</status>
     <text>
+                  &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
+                  &lt;span class="DateStyle"&gt;
+                  &amp;nbsp;Posted:&amp;nbsp;06/01/2018&amp;nbsp;11:43AM
+                  &lt;/span&gt;
+                  &lt;br/&gt;
+                  &lt;br/&gt;
+                &lt;STRONG&gt;Q55&lt;/STRONG&gt; bus service has resumed following an earlier traffic on Myrtle Av from Park Lane S to Woodhaven Blvd.
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
                   &lt;span class="TitleServiceChange" &gt;Service Change&lt;/span&gt;
                   &lt;span class="DateStyle"&gt;
                   &amp;nbsp;Posted:&amp;nbsp;06/01/2018&amp;nbsp;10:42AM
@@ -346,16 +356,6 @@
                   &lt;br/&gt;
                   &lt;br/&gt;
                 &lt;STRONG&gt;Q27, Q27-Ltd&lt;/STRONG&gt; and &lt;STRONG&gt;Q30 &lt;/STRONG&gt;buses are running with delays in both directions because of Queensborough Community College graduation.
-              &lt;br/&gt;
-              &lt;br/&gt;
-            
-                  &lt;span class="TitleDelay"&gt;Delays&lt;/span&gt;
-                  &lt;span class="DateStyle"&gt;
-                  &amp;nbsp;Posted:&amp;nbsp;06/01/2018&amp;nbsp;10:19AM
-                  &lt;/span&gt;
-                  &lt;br/&gt;
-                  &lt;br/&gt;
-                Westbound &lt;STRONG&gt;Q55 &lt;/STRONG&gt;buses are running with delays because of traffic on Myrtle Av from Park Lane S to Woodhaven Blvd.
               &lt;br/&gt;
               &lt;br/&gt;
             
@@ -423,7 +423,7 @@
               &lt;br/&gt;
             </text>
     <Date>06/01/2018</Date>
-    <Time>10:42AM</Time>
+    <Time>11:43AM</Time>
   </line>
   <line>
     <name>QM1 - QM44</name>
@@ -448,7 +448,7 @@
               &lt;br/&gt;
             </text>
     <Date>06/01/2018</Date>
-    <Time>11:32AM</Time>
+    <Time>11:42AM</Time>
   </line>
   <line>
     <name>S40 - S98</name>
@@ -461,14 +461,20 @@
               &lt;br/&gt;
             </text>
     <Date>06/01/2018</Date>
-    <Time>11:32AM</Time>
+    <Time>11:42AM</Time>
   </line>
   <line>
     <name>x1 - x68</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>PLANNED WORK</status>
+    <text>
+                  &lt;span class="TitlePlannedWork" &gt;Planned Detour&lt;/span&gt;
+                  &lt;br/&gt;
+                &lt;a class="plannedWorkDetailLink" onclick=ShowHide(188330);&gt;&lt;b&gt;X28 and X38 &lt;/b&gt;- &lt;b&gt;Northbound buses rerouted from Surf Av at 22 St to Neptune  Av at 20 St &lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 188330 class="plannedWorkDetail" &gt;&lt;/b&gt;7 AM to 9 AM, Mon to Fri, until further notice&lt;br&gt;&lt;br&gt;Due to construction, buses run via&lt;b&gt; 22 St &lt;/b&gt;making corresponding stops.&lt;br&gt;&lt;br&gt;&lt;i&gt;Reroute Details&lt;br&gt;&lt;/i&gt;Via Surf Av&lt;br&gt;Left on W 22 St&lt;br&gt;Right on Neptune Av then regular route&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            </text>
+    <Date>06/01/2018</Date>
+    <Time>11:42AM</Time>
   </line>
 </bus><BT>
   <line>
