@@ -9,7 +9,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>06/10/2018</Date>
-    <Time> 4:52AM</Time>
+    <Time> 5:02AM</Time>
   </line>
   <line>
     <name>456</name>
@@ -26,7 +26,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>06/10/2018</Date>
-    <Time> 4:52AM</Time>
+    <Time> 5:02AM</Time>
   </line>
   <line>
     <name>7</name>
@@ -60,7 +60,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>06/10/2018</Date>
-    <Time> 4:52AM</Time>
+    <Time> 5:02AM</Time>
   </line>
   <line>
     <name>BDFM</name>
@@ -102,7 +102,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>06/10/2018</Date>
-    <Time> 4:52AM</Time>
+    <Time> 5:02AM</Time>
   </line>
   <line>
     <name>G</name>
@@ -150,7 +150,7 @@
                 &lt;br/&gt;&lt;br/&gt;
               </text>
     <Date>06/10/2018</Date>
-    <Time> 4:52AM</Time>
+    <Time> 5:02AM</Time>
   </line>
   <line>
     <name>S</name>
@@ -178,7 +178,7 @@
               &lt;br/&gt;
             </text>
     <Date>06/10/2018</Date>
-    <Time> 4:52AM</Time>
+    <Time> 5:02AM</Time>
   </line>
   <line>
     <name>B100 - B103</name>
@@ -191,7 +191,7 @@
               &lt;br/&gt;
             </text>
     <Date>06/10/2018</Date>
-    <Time> 4:52AM</Time>
+    <Time> 5:02AM</Time>
   </line>
   <line>
     <name>BM1 - BM5</name>
@@ -211,7 +211,7 @@
               &lt;br/&gt;
             </text>
     <Date>06/10/2018</Date>
-    <Time> 4:52AM</Time>
+    <Time> 5:02AM</Time>
   </line>
   <line>
     <name>BXM1 - BXM18</name>
@@ -236,12 +236,18 @@
               &lt;br/&gt;
             </text>
     <Date>06/10/2018</Date>
-    <Time> 4:52AM</Time>
+    <Time> 5:02AM</Time>
   </line>
   <line>
     <name>M1 - M116</name>
     <status>PLANNED WORK</status>
     <text>
+                  &lt;span class="TitlePlannedWork" &gt;Planned Detour&lt;/span&gt;
+                  &lt;br/&gt;
+                &lt;a class="plannedWorkDetailLink" onclick=ShowHide(191584);&gt;&lt;b&gt;M8&lt;/b&gt; - &lt;b&gt;Eastbound buses rerouted from 10 St at Hudson St to Bleecker St&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 191584 class="plannedWorkDetail" &gt;&lt;/b&gt;6 AM to 6 PM, Sat&lt;i&gt; and &lt;/i&gt;Sun, Jun 9 - 10&lt;br&gt;&lt;br&gt;Due to utility work, buses run via &lt;b&gt;Perry St &lt;/b&gt;making corresponding stops.&lt;br&gt;&lt;br&gt;&lt;b&gt;&lt;i&gt;&lt;a style="cursor:pointer; text-decoration:underline;" onclick=ShowHide(1915840);&gt;Show Reroute Details&lt;/a&gt;&lt;/i&gt;&lt;/b&gt;&lt;br&gt;&lt;div id="1915840"; style="display:none;"&gt;Via 10 St&lt;br&gt;Left on Hudson St&lt;br&gt;Right on Perry St&lt;br&gt;Right on Bleecker St&lt;br&gt;Left on 10 St then regular route&lt;/div&gt;&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
                   &lt;span class="TitlePlannedWork" &gt;Planned Detour&lt;/span&gt;
                   &lt;br/&gt;
                 &lt;a class="plannedWorkDetailLink" onclick=ShowHide(191616);&gt;&lt;b&gt;M66&lt;/b&gt; - &lt;b&gt;Westbound buses rerouted from 67 St at York Av to 1 Av&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 191616 class="plannedWorkDetail" &gt;&lt;/b&gt;2 PM Sat to 1 PM Sun, Jun 9 - 10&lt;br&gt;&lt;br&gt;Due to a crane operation, buses run via&lt;b&gt; 66 St &lt;/b&gt;making corresponding stops.&lt;br&gt;&lt;br&gt;&lt;b&gt;&lt;i&gt;&lt;a style="cursor:pointer; text-decoration:underline;" onclick=ShowHide(1916160);&gt;Show Reroute Details&lt;/a&gt;&lt;/i&gt;&lt;/b&gt;&lt;br&gt;&lt;div id="1916160"; style="display:none;"&gt;Via York Av&lt;br&gt;Right on 66 St&lt;br&gt;Right on 1 Av &lt;br&gt;Left on 67 St then regular route&lt;/div&gt;&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
@@ -250,7 +256,25 @@
             
                   &lt;span class="TitlePlannedWork" &gt;Planned Detour&lt;/span&gt;
                   &lt;br/&gt;
+                &lt;a class="plannedWorkDetailLink" onclick=ShowHide(191596);&gt;&lt;b&gt;M50 &lt;/b&gt;-&lt;b&gt; Eastbound buses rerouted from 50 St at Lexington Av to 3 Av&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 191596 class="plannedWorkDetail" &gt;&lt;/b&gt;6 AM to 9 PM, Sat &lt;i&gt;and &lt;/i&gt;Sun, Jun 9 - 10&lt;br&gt;&lt;br&gt;Due to a crane operation, buses run via &lt;b&gt;48 St &lt;/b&gt;making corresponding stops.&lt;br&gt;&lt;br&gt;&lt;b&gt;&lt;i&gt;&lt;a style="cursor:pointer; text-decoration:underline;" onclick=ShowHide(1915960);&gt;Show Reroute Details&lt;/a&gt;&lt;/i&gt;&lt;/b&gt;&lt;br&gt;&lt;div id="1915960"; style="display:none;"&gt;Via 50 St&lt;br&gt;Right on Lexington Av&lt;br&gt;Left on 48 St&lt;br&gt;Left on 3 Av&lt;br&gt;Right on 50 St then regular route&lt;/div&gt;&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
+                  &lt;span class="TitlePlannedWork" &gt;Planned Detour&lt;/span&gt;
+                  &lt;br/&gt;
                 &lt;a class="plannedWorkDetailLink" onclick=ShowHide(191587);&gt;&lt;b&gt;M4 and Q32&lt;/b&gt; - &lt;b&gt;South/Westbound buses rerouted from 5 Av at 39 St to 7 Av at 37 St&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 191587 class="plannedWorkDetail" &gt;&lt;/b&gt;5 AM to 2 PM, Sat &lt;i&gt;and &lt;/i&gt;Sun, Jun 9 - 10&lt;br&gt;&lt;br&gt;Due to a crane operation, buses run via &lt;b&gt;39 St &lt;/b&gt;making corresponding stops.&lt;br&gt;&lt;br&gt;&lt;i&gt;Reroute Details&lt;br&gt;&lt;/i&gt;Via 5 Av&lt;br&gt;Right on 39 St&lt;br&gt;Left on 7 Av then regular route&lt;br&gt;&lt;b&gt; &lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
+                  &lt;span class="TitlePlannedWork" &gt;Planned Detour&lt;/span&gt;
+                  &lt;br/&gt;
+                &lt;a class="plannedWorkDetailLink" onclick=ShowHide(191592);&gt;&lt;b&gt;M14D &lt;/b&gt;- &lt;b&gt;No service between 14 St at 9 Av and 11 Av at 17 St&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 191592 class="plannedWorkDetail" &gt;&lt;/b&gt;6 AM to 6 PM, Sat and Sun, Jun 9 - 10&lt;br&gt;&lt;br&gt;Due to a crane operation, buses operate between 14 St at 9 Av and Delancey St at Columbia St in both directions.&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
+              &lt;br/&gt;
+              &lt;br/&gt;
+            
+                  &lt;span class="TitlePlannedWork" &gt;Planned Detour&lt;/span&gt;
+                  &lt;br/&gt;
+                &lt;a class="plannedWorkDetailLink" onclick=ShowHide(191590);&gt;&lt;b&gt;M11 &lt;/b&gt;-&lt;b&gt; Southbound buses rerouted from 9 Av at 23 St to 14 St&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;div id= 191590 class="plannedWorkDetail" &gt;&lt;/b&gt;6 AM to 6 PM, Sat&lt;i&gt; and &lt;/i&gt;Sun, Jun 9 - 10&lt;br&gt;&lt;br&gt;Due to a crane operation, buses run via &lt;b&gt;7 Av &lt;/b&gt;making corresponding stops.&lt;br&gt;&lt;br&gt;&lt;b&gt;&lt;i&gt;&lt;a style="cursor:pointer; text-decoration:underline;" onclick=ShowHide(1915900);&gt;Show Reroute Details&lt;/a&gt;&lt;/i&gt;&lt;/b&gt;&lt;br&gt;&lt;div id="1915900"; style="display:none;"&gt;Via 9 Av&lt;br&gt;Left on 23 St&lt;br&gt;Right on 7 Av&lt;br&gt;Right on 14 St&lt;br&gt;Left on 9 Av into Hudson St then regular route&lt;/div&gt;&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/div&gt;&lt;/b&gt;&lt;br/&gt;
               &lt;br/&gt;
               &lt;br/&gt;
             
@@ -273,7 +297,7 @@
               &lt;br/&gt;
             </text>
     <Date>06/10/2018</Date>
-    <Time> 4:52AM</Time>
+    <Time> 5:02AM</Time>
   </line>
   <line>
     <name>Q1 - Q113</name>
@@ -316,7 +340,7 @@
               &lt;br/&gt;
             </text>
     <Date>06/10/2018</Date>
-    <Time> 4:52AM</Time>
+    <Time> 5:02AM</Time>
   </line>
   <line>
     <name>QM1 - QM44</name>
@@ -335,7 +359,7 @@
               &lt;br/&gt;
             </text>
     <Date>06/10/2018</Date>
-    <Time> 4:52AM</Time>
+    <Time> 5:02AM</Time>
   </line>
   <line>
     <name>S40 - S98</name>
@@ -474,10 +498,18 @@
   </line>
   <line>
     <name>Port Washington</name>
-    <status>GOOD SERVICE</status>
-    <text />
-    <Date></Date>
-    <Time></Time>
+    <status>PLANNED WORK</status>
+    <text>
+                    &lt;span class="TitlePlannedWork" &gt;Planned Work&lt;/span&gt;
+                    &lt;br/&gt;
+                  &lt;SPAN style='FONT-SIZE: 11pt; FONT-FAMILY: "Calibri",sans-serif; P: ' june910portwashingtonbranchptctesting.htm? lirr supplemental web.mta.info Roman?;?http: New ?Calibri?,sans-serif;?Times FONT-FAMILY: Roman?; 11pt; FONT-SIZE:&gt;&lt;FONT color=#0563c1&gt;
+&lt;P style="MARGIN: 0in 0in 8pt"&gt;&lt;FONT color=#000000&gt;&lt;STRONG&gt;Today 6/10: Port Washington Branch Reduced Morning Service&lt;/STRONG&gt;&lt;/FONT&gt;&lt;/P&gt;
+&lt;P style="MARGIN: 0in 0in 8pt"&gt;&lt;FONT color=#000000&gt;&lt;/FONT&gt; &lt;/P&gt;
+&lt;P style="MARGIN: 0in 0in 8pt"&gt;&lt;FONT color=#000000&gt;Today, &lt;SPAN lang=EN&gt;Sunday, June 10 between 7AM and 9AM, train service between Penn Station and Port Washington will be reduced from half-hourly to hourly to accommodate Positive Train Control testing between Woodside and Bayside. For details, click here: &lt;/SPAN&gt;&lt;/FONT&gt;&lt;A href="http://web.mta.info/supplemental/lirr/june910portwashingtonbranchptctesting.htm"&gt;&lt;FONT color=#0563c1&gt;http://web.mta.info/supplemental/lirr/june910portwashingtonbranchptctesting.htm&lt;/FONT&gt;&lt;/A&gt;&lt;/P&gt;&lt;/FONT&gt;&lt;/A&gt;&lt;/SPAN&gt;
+                &lt;br/&gt;&lt;br/&gt;
+              </text>
+    <Date>06/10/2018</Date>
+    <Time> 5:00AM</Time>
   </line>
   <line>
     <name>Ronkonkoma</name>
